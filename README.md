@@ -25,12 +25,53 @@ This is one of the most important things, but it can't be added. Maybe if the co
 
 ---
 
-# Database language
+# Directory structure
 
-The database is written in 7 computer languages (CSS, HTML, JQUERY, JS, PHP, RUBY, and XML) and 4 human languages (Bulgarian, English, Russian, Ukrainian) however, the majority of it is in English
+My audio collection has a simple directory structure, where the root is the folder labeled `audio` and then there are 3 directories inside that contain all the audio within subdirectories. The directories are labeled as:
+
+> * `1 Music`
+
+> * `2 Music (projectless)`
+
+> * `3 Sound effects`
+
+The projectless music folder is an older version, but it contains a lot of music without project and other files (such as .txt, .xsfp, .odt, etc.
 
 ---
 
-ReadMe version: 1 (May 28th 2020 at 10:07 pm)
+# Database language
+
+The database is written in 7 computer languages (CSS, HTML, JQUERY, JS, PHP, RUBY, and XML) and 4 human languages (Bulgarian (for random Cyrillic characters) English, Russian, Ukrainian) however, the majority of it is in English
+
+---
+
+# Version history
+
+Local releases
+-----------
+
+> * Data not yet available
+
+
+GitHub releases
+-----------
+
+> 1. [v0.0.1](https://github.com/seanpm2001/SeansAudioDB/tree/V0.0.1) - Released May 29th 2020 at 12:01 am
+
+> 2. [v0.0.2](https://github.com/seanpm2001/SeansAudioDB/tree/V0.0.2) - Released May 29th 2020 at 03:33 pm
+
+> 3. [v0.0.3](https://www.example.com) - Coming soon
+
+---
+
+# Contributions
+
+I am the sole contributer of this project, and I have made 165 commits (As of May 29th 2020 at 3:41 pm)
+
+For more, see [contributing.md](https://github.com/seanpm2001/SeansAudioDB/blob/master/CONTRIBUTING.md)
+
+---
+
+ReadMe version: 2 (May 29th 2020 at 3:41 pm)
 
 ---
