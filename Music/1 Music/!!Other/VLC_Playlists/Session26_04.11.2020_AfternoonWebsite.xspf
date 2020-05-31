@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Over%20the%20Horizon/Over%20the%20Horizon.mp3</location>
+			<title>Over the Horizon</title>
+			<creator>Samsung</creator>
+			<album>Brand Music</album>
+			<annotation>Samsung</annotation>
+			<image>file:///C:/Users/SeanPM/AppData/Roaming/vlc/art/artistalbum/Samsung/Brand%20Music/art.jpg</image>
+			<duration>229590</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Geometry%20dash%20series/Geometry%20Dash/GEOMETRY%20DASH%20-%20ALL%20MUSIC%20(FULL,%20ORIGINAL%20VERSIONS)%20HD%20v1.90%20(128%20%20kbps).mp3</location>
+			<duration>3620019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!NimbleBitSeries/Tiny%20death%20star%20(iOS%20&amp;%20Android)%20OST/Tiny%20Death%20Star%20OST%20-%20Force%20Theme%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>37268</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!NimbleBitSeries/Tiny%20death%20star%20(iOS%20&amp;%20Android)%20OST/Tiny%20Death%20Star%20OST%20-%20Main%20Star%20Wars%20Theme%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>87051</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!NimbleBitSeries/Tiny%20death%20star%20(iOS%20&amp;%20Android)%20OST/Tiny%20Death%20Star%20OST%20-%20The%20Imperial%20March%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>74327</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

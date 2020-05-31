@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.%20etc)%20OST/Video%20with%20audio/MP4/Team%20Fortress%202%20Soundtrack%20Saluting%20the%20Fallen.mp4</location>
+			<duration>84497</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.%20etc)%20OST/Video%20with%20audio/MP4/Team%20Fortress%202%20Soundtrack%20_%20Upgrade%20station.mp4</location>
+			<duration>60486</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.%20etc)%20OST/Video%20with%20audio/MP4/Team%20Fortress%202%20Soundtrack%20_%20Blu%20Triumphs.mp4</location>
+			<duration>97198</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.%20etc)%20OST/Video%20with%20audio/MP4/Team%20Fortress%202%20Soundtrack%20_%20%20Saxton&#39;s%20Dilemma%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>71819</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/MYLIFE~1/MYLIFE~1/MILEST~3/Extras/Audio/1MUSIC~1/TEAMFO~1.ETC/VIDEOW~1/MP4/TEC4B0~1.MP4</location>
+			<duration>193120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Hyuman/Japantale/(OLD%20REUPLOAD)%20BATTLE%20AGAINST%20A%20TRUE%20SAMURAI%20-%20YouTube.webm</location>
+			<duration>194180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

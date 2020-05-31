@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20V/Metal%20Gear%20Solid%20V%20-%20The%20Phantom%20Pain%20&#39;&#39;Nuclear&#39;&#39;%20Lyrics%20[HD].mp4</location>
+			<duration>302882</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20V/Metal%20Gear%20Solid%20_%20Peace%20Walker%20-%20&#39;&#39;Heavens%20Divide&#39;&#39;%20Lyrics%20[1080p].mp4</location>
+			<duration>313702</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Pocket%20Gems%20series/Pet%20Hotel%20OST/Tap%20Pet%20Hotel%20Gameplay%20-%20YouTube-1.mp4</location>
+			<duration>110597</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!PlayStation%20Series/PlayStation%204%20System%20Audio/Playstation%204%20-%20System%20Music%202%20-%20User%20Selection%20(Noiseless%20-%20High%20Quality).mp4</location>
+			<duration>536080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

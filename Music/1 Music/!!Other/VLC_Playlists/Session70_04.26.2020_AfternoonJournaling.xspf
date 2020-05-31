@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Sonic%20Pocket%20Adventure/y2mate.com%20-%20neo_south_island_zone_act_1_sonic_pocket_adventure_music_extended_URA8sXeu028_1080p.mp4</location>
+			<duration>929216</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/shooting%20stars/shooting%20stars.webm</location>
+			<duration>231626</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Wheres%20my%20water%20OST/Audio%20only/MP3/17%20Magic%20Show.mp3</location>
+			<title>Magic Show</title>
+			<creator>Disney</creator>
+			<album>Where&#39;s My Water?</album>
+			<trackNum>17</trackNum>
+			<image>file:///C:/Users/SeanPM/AppData/Roaming/vlc/art/artistalbum/Disney/Where%27s%20My%20Water_/art.png</image>
+			<duration>43363</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Renai%20Circulation/y2mate.com%20-%20renai_circulation_uKxyLmbOc0Q_720p.mp4</location>
+			<duration>254816</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/Bejeweled%20Twist%20Music%20-%20Classic%202.mp4</location>
+			<duration>417865</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/Bejeweled%20Twist%20Music%20-%20Classic%205.mp4</location>
+			<duration>417865</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/Bejeweled%20Twist%20Music%20-%20Challenge%201.mp4</location>
+			<duration>1234650</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/Bejeweled%20Twist%20Music%20-%205%20Minute%20Blitz%20(Countdown).mp4</location>
+			<duration>309961</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>

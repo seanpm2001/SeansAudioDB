@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%203%20(GBA,%20DSi)%20OST/y2mate.com%20-%20ex_demo_1_sonic_advance_3_music_extended_CDKK4lwIZ2E_1080p.mp4</location>
+			<duration>1799222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%203%20(GBA,%20DSi)%20OST/y2mate.com%20-%20ocean_base_act_1_sonic_advance_3_music_extended_sagOXL0ziFk_1080p.mp4</location>
+			<duration>1799222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%203%20(GBA,%20DSi)%20OST/y2mate.com%20-%20twinkle_snow_act_1_sonic_advance_3_music_extended_R2AnXZ1KO2k_1080p.mp4</location>
+			<duration>1799222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/MYLIFE~1/MYLIFE~1/MILEST~3/Extras/Audio/1MUSIC~1/!SONIC~1/SONICA~3/Y2745E~1.MP4</location>
+			<duration>1799222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%203%20(GBA,%20DSi)%20OST/y2mate.com%20-%20chaos_angel_boss_sonic_advance_3_music_extended_FPUBAcMHJlU_1080p.mp4</location>
+			<duration>1799222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%203%20(GBA,%20DSi)%20OST/y2mate.com%20-%20eggman_attacks_sonic_advance_3_music_extended_TZuS3dnqWzI_1080p.mp4</location>
+			<duration>1799222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%203%20(GBA,%20DSi)%20OST/y2mate.com%20-%20sunset_hill_act_3_sonic_advance_3_music_extended_ph8FA4Fhyok.mp3</location>
+			<duration>1799859</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

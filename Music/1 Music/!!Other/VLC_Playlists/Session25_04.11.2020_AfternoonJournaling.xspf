@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Pictionary%20OST%20(NES)/NES%20-%20Pictionary%20(MP3)/NES_Pictionary_04_Mini-Game2.mp3</location>
+			<title>Mini-Game 2</title>
+			<creator>VG Music</creator>
+			<album>NES - Pictionary</album>
+			<trackNum>4</trackNum>
+			<annotation>explod.org</annotation>
+			<image>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20%28Modern%20Journaling%20folder%29/Milestone%204/Extras/Audio/1%20Music/Pictionary%20OST%20%28NES%29/NES%20-%20Pictionary%20%28MP3%29/cover.jpg</image>
+			<duration>156295</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
