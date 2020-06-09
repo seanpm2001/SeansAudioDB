@@ -27,7 +27,9 @@ This is one of the most important things, but it can't be added. Maybe if the co
 
 # Directory structure
 
-My audio collection has a simple directory structure, where the root is the folder labeled `audio` and then there are 3 directories inside that contain all the audio within subdirectories. The directories are labeled as:
+My audio collection has a simple directory structure, where the root is the folder labeled `audio` and then there are 4 directories inside that contain all the audio within subdirectories. The directories are labeled as:
+
+> * `0 Overview`
 
 > * `1 Music`
 
@@ -42,6 +44,12 @@ The projectless music folder is an older version, but it contains a lot of music
 # Database language
 
 The database is written in 7 computer languages (CSS, HTML, JQUERY, JS, PHP, RUBY, and XML) and 4 human languages (Bulgarian (for random Cyrillic characters) English, Russian, Ukrainian) however, the majority of it is in English
+
+***
+
+# Wiki
+
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SeansAudioDB/wiki)
 
 ---
 
@@ -60,18 +68,30 @@ GitHub releases
 
 > 2. [v0.0.2](https://github.com/seanpm2001/SeansAudioDB/tree/V0.0.2) - Released May 29th 2020 at 03:33 pm
 
-> 3. [v0.0.3](https://www.example.com) - Coming soon
+> 3. [v0.0.3](https://github.com/seanpm2001/SeansAudioDB/tree/V0.0.3) - Released June 8th 2020 at 08:28 pm
+
+> 4. [v0.0.4](https://www.example.com) - Coming soon
+
+> 5. [v0.0.5](https://www.example.com) - Coming soon
+
+> 6. [v0.0.6](https://www.example.com) - Coming soon
 
 ---
 
 # Contributions
 
-I am the sole contributer of this project, and I have made 165 commits (As of May 29th 2020 at 3:41 pm)
+I am the sole contributer of this project, and I have made 681 commits (As of June 9th 2020 at 4:11 pm)
 
 For more, see [contributing.md](https://github.com/seanpm2001/SeansAudioDB/blob/master/CONTRIBUTING.md)
 
 ---
 
-ReadMe version: 2 (May 29th 2020 at 3:41 pm)
+# About Readme.md
+
+File type: `Markdown (*.md)`
+
+Line count: `0,096`
+
+ReadMe version: `3 (June 9th 2020 at 4:11 pm)`
 
 ---
