@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Futurama/Season%201/Futurama%20-%20Robot%20Hell%20Song.mp4</location>
+			<duration>110225</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Undertale/Video%20with%20audio/Undertale%20OST%20068%20-%20Death%20by%20Glamour%20-%20YouTube.mp4</location>
+			<duration>134722</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Badger%20badger%20badger/Badger%20song%20(Badger%20badger%20badger%20,%20mushroom%20mushroom).mp4</location>
+			<duration>174034</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Dickbutt%20Theme%20Song/dickbutt.mp4</location>
+			<duration>103120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Cut%20the%20rope%20Experiments%20OST/AudioOnly/02%20Let&#39;s%20Make%20an%20Experiment.mp3</location>
+			<title>Let&#39;s Make an Experiment</title>
+			<creator>ZeptoLab</creator>
+			<album>Cut the Rope Experiments</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/SeanPM/AppData/Roaming/vlc/art/artistalbum/ZeptoLab/Cut%20the%20Rope%20Experiments/art.png</image>
+			<duration>270290</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Coc&#39;n%20rolla%20(Garfielf%20theme)/BEGNAGRAD%20Coc&#39;n%20Rolla%201982%20-%20YouTube.mp4</location>
+			<duration>330186</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

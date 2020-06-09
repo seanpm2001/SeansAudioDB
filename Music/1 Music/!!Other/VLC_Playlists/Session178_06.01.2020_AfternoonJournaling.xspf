@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20Vs.%20Zombies%202%20(iOS%20&amp;%20Android)%20OST/FROSTB~1/PLANTS~3.MP4</location>
+			<duration>374491</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/MYLIFE~1/MYLIFE~1/MILEST~3/Extras/Audio/1MUSIC~1/!PLANT~1.ZOM/PLANTS~2.ZOM/FROSTB~1/PLANTS~4.MP4</location>
+			<duration>10495</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/MYLIFE~1/MYLIFE~1/MILEST~3/Extras/Audio/1MUSIC~1/!PLANT~1.ZOM/PLANTS~2.ZOM/FROSTB~1/PLANTS~2.MP4</location>
+			<duration>601489</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/MYLIFE~1/MYLIFE~1/MILEST~3/Extras/Audio/1MUSIC~1/!PLANT~1.ZOM/PLANTS~2.ZOM/FROSTB~1/PLANTS~1.MP4</location>
+			<duration>419932</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/MYLIFE~1/MYLIFE~1/MILEST~3/Extras/Audio/1MUSIC~1/!PLANT~1.ZOM/PLANTS~2.ZOM/FARFUT~1/PLANTS~4.MP4</location>
+			<duration>392742</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

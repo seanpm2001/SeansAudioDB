@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Its%20a%20beautiful%20day/(No%20video)%20Michael%20Bubl%C3%A9%20-%20It&#39;s%20A%20Beautiful%20Day%20[Official%20Music%20Video].mp4</location>
+			<duration>230080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Do%20you%20believe%20in%20magic/(No%20video)%20The%20lovin&#39;%20spoonful%20-%20Do%20you%20believe%20in%20magic.webm</location>
+			<duration>127401</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Drowning%20pool/let%20the%20bodies%20hit%20the%20floor.webm</location>
+			<duration>199803</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/AncientMusic/(NoVideo)The%20Oldest%20Known%20Melody%20(Hurrian%20Hymn%20no.6%20-%20c.1400%20B.C.).webm</location>
+			<duration>342480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Extended/Minecraft%20Music_%20Haggstrom%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>995114</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Extended/Minecraft%20Music_%20Aria%20Math%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>924363</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Extended/Minecraft%20Music_%20Dead%20Voxel%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1117320</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/MYLIFE~1/MYLIFE~1/MILEST~3/Extras/Audio/1MUSIC~1/!SONIC~1/SONICA~2/Extended/MUSICP~3.MP4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.%20etc)%20OST/Video%20with%20audio/MP4/Team%20Fortress%202%20Soundtrack%20Saluting%20the%20Fallen.mp4</location>
+			<duration>84497</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Extended/Minecraft%20Music_%20Far%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>960609</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Extended/Minecraft%20Music_%20Aria%20Math%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>924363</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/MYLIFE~1/MYLIFE~1/MILEST~3/Extras/Audio/1MUSIC~1/YANDER~1/_OLD_C~1.MP4</location>
+			<duration>243507</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Yandere%20simulator/Schoolday%202%20-%20Yandere%20Simulator%20OST%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>404421</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Curb%20your%20enthusiasm%20theme/Remixes/Michelini%20Curb%20your%20Enthusiasm.mov%20-%20YouTube.webm</location>
+			<duration>108961</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Curb%20your%20enthusiasm%20theme/Remixes/Curb%20Your%20Enthusiasm%20Theme%20(Frolic)%20[8%20Bit%20Tribute%20to%20Curb%20Your%20Enthsiasm%20&amp;%20Lucian%20Michelini].mp4</location>
+			<duration>132679</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Windows%20series/Windows%2095/windows%2095%20remix.mp3</location>
+			<duration>83122</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Windows%20series/Windows%202000/music%20with%20only%20windows%202000%20sounds%20flash.webm</location>
+			<duration>186312</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
