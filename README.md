@@ -70,17 +70,25 @@ GitHub releases
 
 > 3. [v0.0.3](https://github.com/seanpm2001/SeansAudioDB/tree/V0.0.3) - Released June 8th 2020 at 08:28 pm
 
-> 4. [v0.0.4](https://www.example.com) - Coming soon
+> 4. [v0.0.4](https://github.com/seanpm2001/SeansAudioDB/tree/V0.0.4) - Released June 9th 2020 at xx:xx pm
 
-> 5. [v0.0.5](https://www.example.com) - Coming soon
+> 5. [v0.0.5](https://github.com/seanpm2001/SeansAudioDB/tree/V0.0.5) - Released June 10th 2020 at 11:56 pm
 
 > 6. [v0.0.6](https://www.example.com) - Coming soon
+
+> 7. [v0.0.7](https://www.example.com) - Coming soon
+
+> 8. [v0.0.8](https://www.example.com) - Coming soon
+
+> 9. [v0.0.9](https://www.example.com) - Coming soon
+
+> 10. [v0.0.10](https://www.example.com) - Coming soon
 
 ---
 
 # Contributions
 
-I am the sole contributer of this project, and I have made 681 commits (As of June 9th 2020 at 4:11 pm)
+I am the sole contributer of this project, and I have made 739 commits (As of June 10th 2020 at 11:59 pm)
 
 For more, see [contributing.md](https://github.com/seanpm2001/SeansAudioDB/blob/master/CONTRIBUTING.md)
 
@@ -90,8 +98,8 @@ For more, see [contributing.md](https://github.com/seanpm2001/SeansAudioDB/blob/
 
 File type: `Markdown (*.md)`
 
-Line count: `0,096`
+Line count: `0,106`
 
-ReadMe version: `3 (June 9th 2020 at 4:11 pm)`
+ReadMe version: `4 (June 10th 2020 at 11:59 pm)`
 
 ---
