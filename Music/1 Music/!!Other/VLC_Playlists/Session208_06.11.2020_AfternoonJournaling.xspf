@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Eminem/Eminem%20-%20Rap%20God%20(Explicit).mp4</location>
+			<duration>369244</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Elton%20John/yellow%20brick%20road%20lyrics.webm</location>
+			<duration>194230</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/ELO%20(Electric%20Light%20Orchestra)/(No%20video)%20ELO%20-%20Mr.%20Blue%20Sky.webm</location>
+			<duration>294660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/ELO%20(Electric%20Light%20Orchestra)/(No%20video)%20ELO%20-%20Mr.%20Blue%20Sky%20animated.webm</location>
+			<duration>222980</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Everytime%20I%20think%20about%20you%20I%20touch%20myself/(No%20video)%20Everytime%20I%20think%20about%20you%20I%20touch%20myself.webm</location>
+			<duration>223180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Flamingo/Flamingo%2010%20hours.mp4</location>
+			<duration>37508122</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Eye%20of%20the%20Tiger/Eye%20of%20the%20tiger%20-Lyrics-.mp4</location>
+			<duration>268075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/David%20Bowie/(No%20video)%20David%20Bowie%20-%20Space%20Oddity.webm</location>
+			<duration>304980</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/South%20Hamerica%20Theme%20[HQ]%20-%20Angry%20Birds%20Seasons%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>81803</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>

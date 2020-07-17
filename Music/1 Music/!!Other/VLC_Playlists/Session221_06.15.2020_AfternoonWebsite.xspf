@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Undertale/Video%20with%20audio/Undertale%20OST%20051%20-%20Another%20Medium%20-%20YouTube.mp4</location>
+			<duration>142269</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Undertale/Video%20with%20audio/Undertale%20OST%20065%20-%20CORE%20-%20YouTube.mp4</location>
+			<duration>166534</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Undertale/Video%20with%20audio/Undertale%20OST%20014%20-%20Heartache%20-%20YouTube.mp4</location>
+			<duration>108600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Undertale/Video%20with%20audio/Undertale%20OST%20005%20-%20Ruins%20-%20YouTube.mp4</location>
+			<duration>92415</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Undertale/Video%20with%20audio/Undertale%20OST%20068%20-%20Death%20by%20Glamour%20-%20YouTube.mp4</location>
+			<duration>134722</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

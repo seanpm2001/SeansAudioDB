@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20You%20spin%20me%20right%20round%20[Bardcore]%20medievel.webm</location>
+			<duration>162640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Pumped%20up%20kids%20[Bardcore]%20medievel.webm</location>
+			<duration>240080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>

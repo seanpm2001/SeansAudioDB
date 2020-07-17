@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Macintosh%20Plus%20420/macintosh%20plus%20420.webm</location>
+			<duration>441854</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Green%20Day/boulevard%20of%20broken%20dreams.webm</location>
+			<duration>287652</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Gangnam%20Style/y2mate.com%20-%20psy_gangnam_style_mv_9bZkp7q19f0_1080p.mp4</location>
+			<duration>252262</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>

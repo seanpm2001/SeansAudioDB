@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Its%20a%20beautiful%20day/(No%20video)%20Michael%20Bubl%C3%A9%20-%20It&#39;s%20A%20Beautiful%20Day%20[Official%20Music%20Video].mp4</location>
+			<duration>230080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Nokia%20ringtones/Arabic/Nokia%20Ringtone%20Arabic%202%20played%20on%206%20different%20sound%20cards.mp4</location>
+			<duration>280009</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Pink%20guy/PINK%20GUY%20-%20PLEASE%20STOP%20CALLING%20ME%20GAY%20(128%20%20kbps).mp3</location>
+			<duration>139886</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Pocket%20Gems%20series/Pet%20Hotel%20OST/Tap%20Pet%20Hotel%20Gameplay%20-%20YouTube-1.mp4</location>
+			<duration>110597</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!iBlast%20Moki%20series/iBlast%20Moki/Extended/almost%2018%20minutes%20of%20iblast%20Moki%20theme%202%20(extended).mp4</location>
+			<duration>1075285</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

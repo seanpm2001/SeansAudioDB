@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Tchaikovsky/(No%20video)%20Tchaikovsky%201812%20Overture%20full%20with%20cannons.webm</location>
+			<duration>908060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Cherry%20Blossom%20Music%20[HQ]%20-%20Angry%20Birds%20Seasons%20PC%20Version%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>72074</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Back%20To%20School%20-%20Angry%20Birds%20Seasons%20Music%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>82128</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Go%20Green,%20Get%20Lucky%20Music%20[HQ]%20-%20Angry%20Birds%20Seasons%20PC%20Version%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>77763</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Summer%20Pignic%20Music%20[HQ]%20-%20Angry%20Birds%20Seasons%20PC%20Version%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>96316</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Easter%20Eggs%20Music%20[HQ]%20-%20Angry%20Birds%20Seasons%20PC%20Version%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>65573</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Hogs%20And%20Kisses%20Music%20[HQ]%20-%20Angry%20Birds%20Seasons%20PC%20Version%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>89002</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

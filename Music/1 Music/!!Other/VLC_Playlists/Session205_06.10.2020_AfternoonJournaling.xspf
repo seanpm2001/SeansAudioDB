@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/South%20Hamerica%20Theme%20[HQ]%20-%20Angry%20Birds%20Seasons%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>81803</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Angry%20Birds%20Seasons%20Marie%20Hamtoinette%20theme.webm</location>
+			<duration>86162</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Arctic%20Eggspedition%20Theme%20[HQ]%20-%20Angry%20Birds%20Seasons%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>74884</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Angry%20Birds%20Seasons%20music%20-%20On%20Finn%20Ice%20(Live%20at%20Slush)%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>170016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Haunted%20Hogs%20Theme%20[HQ]%20-%20Angry%20Birds%20Seasons%20Halloween%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>62949</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/The%20devil%20went%20down%20to%20Georgia/(No%20video)%20The%20devil%20went%20down%20to%20Georgia.webm</location>
+			<duration>275560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/Queen%20-%20don&#39;t%20stop%20me%20now/(No%20video)%20Don&#39;tStopMeNow.webm</location>
+			<duration>209580</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

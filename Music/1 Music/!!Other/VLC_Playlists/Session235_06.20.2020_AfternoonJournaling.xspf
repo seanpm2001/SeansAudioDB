@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%2064/Audio%20only/MP3/y2mate.com%20-%20cave_dungeon_super_mario_64_xPJcOybiCKM.mp3</location>
+			<duration>225151</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%2064/Audio%20only/MP3/y2mate.com%20-%20inside_the_castle_walls_super_mario_64_BnZu9uOH-nY.mp3</location>
+			<duration>119171</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%2064/Audio%20only/MP3/y2mate.com%20-%20file_select_super_mario_64_Q_FCUrxESJs.mp3</location>
+			<duration>43102</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/My%20Life%20Story/My%20life%20story%20(Modern%20Journaling%20folder)/Milestone%204/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/World%208%20(Lava)%20-%20New%20Super%20Mario%20Bros.%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>61022</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/MYLIFE~1/MYLIFE~1/MILEST~3/Extras/Audio/1MUSIC~1/!NEWSU~1/NEWSUP~2/Extended/VOLCAN~1.MP4</location>
+			<duration>1800010</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/MYLIFE~1/MYLIFE~1/MILEST~3/Extras/Audio/1MUSIC~1/!NEWSU~1/NEWSUP~2/Extended/CASTLE~1.MP4</location>
+			<duration>1800010</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/SeanPM/Desktop/MYLIFE~1/MYLIFE~1/MILEST~3/Extras/Audio/1MUSIC~1/!NEWSU~1/NEWSUP~2/Extended/DESERT~1.MP4</location>
+			<duration>1800010</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

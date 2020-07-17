@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/Still%20Alive%20-%20UMGSO%20-%20Spring%20Concert%202009.mp4</location>
+			<duration>321875</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/Portal%20Soundtrack%20-%20Still%20Alive.mp4</location>
+			<duration>176540</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal/Want%20You%20Gone%20(feat.%20the%20Elegant%20Too)%20-%20YouTube.webm</location>
+			<duration>141520</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
