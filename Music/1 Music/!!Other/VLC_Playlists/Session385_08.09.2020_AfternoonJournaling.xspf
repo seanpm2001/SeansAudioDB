@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20The%20Hedgehog%202%20(Genesis)%20OST/Video%20with%20audio/MP4/BETA/y2mate.com%20-%20sonic_the_hedgehog_2_beta_soundtrack_hidden_palace_zone_8APBS3F2V6k_360p.mp4</location>
+			<duration>164095</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20The%20Hedgehog%202%20(Genesis)%20OST/Video%20with%20audio/MP4/BETA/y2mate.com%20-%20sonic_the_hedgehog_2_beta_soundtrack_death_egg_zone_dcdufi_9tMw_360p.mp4</location>
+			<duration>138088</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20The%20Hedgehog%202%20(Genesis)%20OST/Video%20with%20audio/MP4/BETA/y2mate.com%20-%20sonic_the_hedgehog_2_beta_soundtrack_wing_fortress_zone_v-KUHbjjDhU_360p.mp4</location>
+			<duration>151115</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Elton%20John/yellow%20brick%20road%20lyrics.webm</location>
+			<duration>194230</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

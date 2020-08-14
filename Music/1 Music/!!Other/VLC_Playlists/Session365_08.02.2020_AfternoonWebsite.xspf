@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yandere%20simulator/Schoolday%20-%20Yandere%20Simulator%20OST%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>165744</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yandere%20simulator/HATRED%20-%20Yandere%20Simulator%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>120349</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yandere%20simulator/Schoolday%202%20(Low%20Sanity%20_%20Low%20Atmosphere,%20DESOLATE%20MIX)%20-%20Yandere%20Simulator%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>423949</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>

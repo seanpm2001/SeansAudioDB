@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/World%203%20(Beach)%20-%20New%20Super%20Mario%20Bros.%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>74001</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Castle%20Theme%20-%20New%20Super%20Mario%20Bros.%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>99009</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Fortress%20Theme%20-%20New%20Super%20Mario%20Bros.%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>100054</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Haunted%20Mansion%20-%20New%20Super%20Mario%20Bros.%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>110016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
