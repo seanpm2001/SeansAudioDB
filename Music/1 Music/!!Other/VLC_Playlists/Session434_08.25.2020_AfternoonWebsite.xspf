@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Video%20with%20audio/Undertale%20OST%20049%20-%20It&#39;s%20Showtime!%20-%20YouTube.mp4</location>
+			<duration>46253</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Video%20with%20audio/Undertale%20OST%20057%20-%20Live%20Report%20-%20YouTube.mp4</location>
+			<duration>17878</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Video%20with%20audio/Undertale%20OST%20056%20-%20Confession%20-%20YouTube.mp4</location>
+			<duration>42191</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Video%20with%20audio/Undertale%20OST%20014%20-%20Heartache%20-%20YouTube.mp4</location>
+			<duration>108600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Video%20with%20audio/Undertale%20OST%20024%20-%20Bonetrousle%20-%20YouTube.mp4</location>
+			<duration>57678</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Video%20with%20audio/Undertale%20OST%20001%20-%20Once%20Upon%20A%20Time%20-%20YouTube.mp4</location>
+			<duration>89118</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20(NES)/NES%20-%20Pictionary%20(MP3)/NES_Pictionary_04_Mini-Game2.mp3</location>
+			<title>Mini-Game 2</title>
+			<creator>VG Music</creator>
+			<album>NES - Pictionary</album>
+			<trackNum>4</trackNum>
+			<annotation>explod.org</annotation>
+			<image>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20%28NES%29/NES%20-%20Pictionary%20%28MP3%29/cover.jpg</image>
+			<duration>156295</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20(NES)/NES%20-%20Pictionary%20(MP3)/NES_Pictionary_05_MovePiece.mp3</location>
+			<title>Move Piece</title>
+			<creator>VG Music</creator>
+			<album>NES - Pictionary</album>
+			<trackNum>5</trackNum>
+			<annotation>explod.org</annotation>
+			<image>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20%28NES%29/NES%20-%20Pictionary%20%28MP3%29/cover.jpg</image>
+			<duration>48801</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20(NES)/NES%20-%20Pictionary%20(MP3)/NES_Pictionary_03_Mini-Game1.mp3</location>
+			<title>Mini-Game 1</title>
+			<creator>VG Music</creator>
+			<album>NES - Pictionary</album>
+			<trackNum>3</trackNum>
+			<annotation>explod.org</annotation>
+			<image>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20%28NES%29/NES%20-%20Pictionary%20%28MP3%29/cover.jpg</image>
+			<duration>162774</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20(NES)/NES%20-%20Pictionary%20(MP3)/NES_Pictionary_02_DrawingGame.mp3</location>
+			<title>Drawing Game</title>
+			<creator>VG Music</creator>
+			<album>NES - Pictionary</album>
+			<trackNum>2</trackNum>
+			<annotation>explod.org</annotation>
+			<image>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20%28NES%29/NES%20-%20Pictionary%20%28MP3%29/cover.jpg</image>
+			<duration>164707</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!iBlast%20Moki%20series/iBlast%20Moki%202/Video%20with%20audio/iBlast%20Moki%202%20-%20title%20and%20menu%20theme%20.mp4</location>
+			<duration>160042</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>
