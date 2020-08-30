@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Snail%20Bob%20series/Snail%20Bob%201/Snail%20Bob%201%20-%20Main%20theme-GDT9iIwE6mQ.mkv</location>
+			<duration>80081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Snail%20Bob%20series/Snail%20Bob%202/Snail%20Bob%202%20-%20Main%20theme-HQnrWBo4gZw.mkv</location>
+			<duration>90061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Video%20with%20audio/Chapter%201/Deltarune%20OST%2017%20-%20Checker%20Dance%20-%20YouTube.mp4</location>
+			<duration>77995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Video%20with%20audio/Chapter%201/Deltarune%20OST%2020%20-%20Thrash%20Machine%20-%20YouTube.mp4</location>
+			<duration>55055</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Video%20with%20audio/Chapter%201/Deltarune%20OST%2021%20-%20Vs.%20Lancer%20-%20YouTube.mp4</location>
+			<duration>41377</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/VideoWithAudio/Beeeh-LxIXsqhLBnA.mkv</location>
+			<duration>998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/VideoWithAudio/Happy%20Street-dcmwQThLJ8Q.webm</location>
+			<duration>93281</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/VideoWithAudio/Main%20Street-ZY5dTdGcKOU.mkv</location>
+			<duration>257184</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/VideoWithAudio/New%20Street-80ppxqpp1qs.mkv</location>
+			<duration>214831</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/VideoWithAudio/Party%20Street-k-BZ7NV38ZE.webm</location>
+			<duration>93421</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/VideoWithAudio/Sleepy%20Street-7REjfxAP0Ro.mkv</location>
+			<duration>176286</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/Album/FLAC/Romain%20G%20-%20Happy%20Street/Romain%20G%20-%20Happy%20Street%20-%2001%20Happy%20Street.flac</location>
+			<title>Happy Street</title>
+			<creator>Romain G</creator>
+			<album>Happy Street</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/Happy%20Street/art.jpg</image>
+			<duration>93259</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/Album/FLAC/Romain%20G%20-%20Happy%20Street/Romain%20G%20-%20Happy%20Street%20-%2002%20Main%20Street.flac</location>
+			<title>Main Street</title>
+			<creator>Romain G</creator>
+			<album>Happy Street</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/Happy%20Street/art.jpg</image>
+			<duration>257142</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/Album/FLAC/Romain%20G%20-%20Happy%20Street/Romain%20G%20-%20Happy%20Street%20-%2003%20Party%20Street.flac</location>
+			<title>Party Street</title>
+			<creator>Romain G</creator>
+			<album>Happy Street</album>
+			<trackNum>3</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/Happy%20Street/art.jpg</image>
+			<duration>93410</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/Album/FLAC/Romain%20G%20-%20Happy%20Street/Romain%20G%20-%20Happy%20Street%20-%2004%20Sleepy%20Street.flac</location>
+			<title>Sleepy Street</title>
+			<creator>Romain G</creator>
+			<album>Happy Street</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/Happy%20Street/art.jpg</image>
+			<duration>176245</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+	</extension>
+</playlist>
