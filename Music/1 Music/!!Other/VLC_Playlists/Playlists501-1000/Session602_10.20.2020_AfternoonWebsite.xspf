@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Patrick%20Star%20dances%20to%20Mexican%20Music%20(Cumbia)/Patrick%20Star%20dances%20to%20Mexican%20Music%20(Cumbia)%2010%20hours.mp4</location>
+			<duration>36534880</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Beck%20-%20Loser/Beck%20-%20Loser-YgSPaXgAdzE.mp4</location>
+			<duration>234011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
