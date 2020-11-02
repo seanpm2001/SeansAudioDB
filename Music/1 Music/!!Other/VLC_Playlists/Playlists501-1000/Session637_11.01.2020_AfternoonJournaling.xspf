@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/Half%20Life%20Original%20Soundtrack%20-%20Track%2015%20-%20Klaxon%20Beat.mp4</location>
+			<duration>60140</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/Half%20Life%20Original%20Soundtrack%20-%20Track%2010%20-%20Drums%20and%20Riffs.mp4</location>
+			<duration>123995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/Half%20Life%20Original%20Soundtrack%20-%20Track%2022%20-%20Space%20Ocean.mp4</location>
+			<duration>96153</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/Half%20Life%20Original%20Soundtrack%20-%20Track%2027%20-%20Valve%20Theme.mp4</location>
+			<duration>82663</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/Half%20Life%20Original%20Soundtrack%20-%20Track%206%20-%20Credits+Closing%20Theme.webm</location>
+			<duration>99441</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/When%20the%20moon%20hits%20your%20eye%20like%20a%20big%20pizza%20pie/Thats%20amore/(No%20video)%20Dean%20Martin%20-%20That&#39;s%20Amore.webm</location>
+			<duration>187000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
