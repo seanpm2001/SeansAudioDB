@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Geometry%20dash%20series/Geometry%20Dash/GEOMETRY%20DASH%20-%20ALL%20MUSIC%20(FULL,%20ORIGINAL%20VERSIONS)%20HD%20v1.90%20(128%20%20kbps).mp3</location>
+			<duration>3620019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Tostarena%20-%20Ruins%20-%20Super%20Mario%20Odyssey%20[OST]-2wWLYg-kgy0.webm</location>
+			<duration>213260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Steam%20Gardens%20-%20Super%20Mario%20Odyssey%20[OST]-s8Mx18uR1dY.mkv</location>
+			<duration>205380</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Ruins%20-%20Super%20Mario%20Odyssey%20[OST]-Nh6rQELhAgY.webm</location>
+			<duration>129561</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Forgotten%20Isle%201%20-%20Super%20Mario%20Odyssey%20[OST]-SL9K8dnI_nM.webm</location>
+			<duration>88461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Forgotten%20Isle%202%20-%20Super%20Mario%20Odyssey%20[OST]-bGIP3IUgOg8.webm</location>
+			<duration>175420</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
