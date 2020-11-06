@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Loud%20Nigra%20Rainbow%20Ride%20Magic%20Missile%20BEES/Loud%20Nigra%20Rainbow%20Ride%20Magic%20Missile%20BEES.mp4</location>
+			<duration>350691</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/!Android%20series/Android%207%20&amp;%208%20audio/Android%20Nougat%20Ringtones/ringtones/Callisto.ogg</location>
+			<title>Callisto</title>
+			<duration>5000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/!Android%20series/Android%207%20&amp;%208%20audio/Android%20Nougat%20Ringtones/ringtones/Luna.ogg</location>
+			<title>Luna</title>
+			<duration>4000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/!Android%20series/Android%207%20&amp;%208%20audio/Android%20Nougat%20Ringtones/ringtones/Triton.ogg</location>
+			<title>Triton</title>
+			<duration>14000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Harlem%20Shake/(No%20video)%20Baauer%20-%20Harlem%20Shake%20[Official%20Audio].webm</location>
+			<duration>196240</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Harlem%20Shake/(No%20video)%20Harlem%20Shake%20(Original%20Army%20Edition).webm</location>
+			<duration>33281</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Dr.%20Mario%20Series/Dr.%20Mario%20(GBA)%20OST/Dr.%20Mario%20GBA%20-%20Ending%20Theme-cJFLqe-e7FQ.webm</location>
+			<duration>180260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Dr.%20Mario%20Series/Dr.%20Mario%20(GBA)%20OST/Dr.%20Mario%20&amp;%20Puzzle%20League%20-%20Menu%20Theme%20and%20SFX%20(HQ)-OBTykFQ0ePo.mkv</location>
+			<duration>105881</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Dr.%20Mario%20Series/Dr.%20Mario%20(GBA)%20OST/STILBCFO%20-%20Dr.%20Mario%20Menu%20(GBA)-j_WLMnh0d-A.webm</location>
+			<duration>63681</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Dr.%20Mario%20Series/Dr.%20Mario%20(GBA)%20OST/Dr.%20Mario%20GBA%20-%20Cough%20Theme.webm</location>
+			<duration>178406</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
