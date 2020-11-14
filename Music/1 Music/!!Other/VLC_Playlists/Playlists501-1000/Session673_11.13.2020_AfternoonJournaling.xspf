@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Don&#39;t%20be%20racist%20I%20am%20a%20building/Don&#39;t%20be%20racist,%20I%20Am%20A%20Building-USE86UbsV8c.mkv</location>
+			<duration>81061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20(PC,%20iOS,%20Android)/Album/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2003%20Choose%20Your%20Seeds.ogg</location>
+			<title>Choose Your Seeds</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/OGG/cover.png</image>
+			<duration>18000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20(PC,%20iOS,%20Android)/Album/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2004%20Grasswalk.ogg</location>
+			<title>Grasswalk</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/OGG/cover.png</image>
+			<duration>148000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20(PC,%20iOS,%20Android)/Album/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2005%20Loonboon.ogg</location>
+			<title>Loonboon</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>5</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/OGG/cover.png</image>
+			<duration>107000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20(PC,%20iOS,%20Android)/Album/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2009%20Watery%20Graves%20(fast).ogg</location>
+			<title>Watery Graves (fast)</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>9</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/OGG/cover.png</image>
+			<duration>116000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
