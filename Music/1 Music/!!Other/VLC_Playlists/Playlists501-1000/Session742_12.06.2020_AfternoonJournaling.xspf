@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Storm%20Trooper%20Dance/Storm%20Trooper%20Dance-R8kDsM0M-vg.mkv</location>
+			<duration>52681</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Badger%20badger%20badger/Badger%20song%20(Badger%20badger%20badger%20,%20mushroom%20mushroom).mp4</location>
+			<duration>174034</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Dancing%20roach/dancing%20roach%20autotune%201%20hour%20-%20YouTube.mp4</location>
+			<duration>3599906</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Sirenhead/siren%20head%20original%20video%20(caught%20on%20tape).mp4</location>
+			<duration>13259</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
