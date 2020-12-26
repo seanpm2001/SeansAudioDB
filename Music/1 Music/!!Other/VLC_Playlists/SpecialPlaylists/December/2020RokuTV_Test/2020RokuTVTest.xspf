@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Wii%20bowling%20vine%20(human%20bowling%20ball)/Hilarious%20Wii%20bowling%20vine%20-%20Human%20bowling%20ball.mp4</location>
+			<duration>6570</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Among%20Us%20OST/AMONG%20US%20-%20OST%20-%20MAIN%20THEME%20SONG%20[HQ]-o7oKN3IkO4M.mp4</location>
+			<duration>367178</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/VideoWithAudio/Happy%20Street-dcmwQThLJ8Q.webm</location>
+			<duration>93281</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Yoda%20memes/Yoda%20south%20park%20-%20YouTube.mp4</location>
+			<duration>20944</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Mathematics/Calculus%20II/2012/Calculus%20II%20-%20Chapter%208%20Test%20Review%20-%20Problem%202-haDwUVwg5Ks.mp4</location>
+			<duration>637783</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/We&#39;re%20like%20brothers%20only%20closer/we&#39;re%20like%20brothers,%20only%20closer%20(%20%CD%A1%C2%B0%20%CD%9C%CA%96%20%CD%A1%C2%B0)-AjUdUIWL_0Y.webm</location>
+			<duration>12741</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Cat%20videos/Big%20boy%20cat%20with%20the%20tiniest%20meow-tPFklt9seBM.mkv</location>
+			<duration>22523</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
