@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gus%20Johnson/your%20friends%20from%20high%20school%20who%20fell%20for%20pyramid%20schemes-SM_kR586n-I.mkv</location>
+			<duration>60481</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gus%20Johnson/Guess%20You%20Could%20Say%20-%20Gus%20Johnson%20Original%20Music--qdeB_K6dDU.mkv</location>
+			<duration>158180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Super%20Smash%20Bros%20series/Super%20Smash%20Bros%20Melee%20(Gamecube,%20Wii)/Compilation/Super%20Smash%20Bros%20Melee%20Full%20OST.mp4</location>
+			<duration>9774231</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Beck%20-%20Loser/Beck%20-%20Loser-YgSPaXgAdzE.mp4</location>
+			<duration>234011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Portal%202/GLaDOS/AudioOnly/(No%20video)%20Portal%202%20-%20All%20GLaDOS%20Quotes%20(Singleplayer%20Story)%20+%20Want%20You%20Gone%20(with%20Lyrics).webm</location>
+			<duration>1790180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
