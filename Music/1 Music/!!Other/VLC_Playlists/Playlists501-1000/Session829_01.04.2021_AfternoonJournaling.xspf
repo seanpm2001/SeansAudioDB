@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Sex%20Offender%20Shuffle/(No%20audio)%20Sex%20offender%20shuffle.mp4</location>
+			<duration>236569</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20DS%20OST/Title%20Screen%20-%20Mario%20Kart%20DS%20[OST].mp4</location>
+			<duration>150047</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20DS%20OST/Main%20Menu%20-%20Mario%20Kart%20DS%20[OST].mp4</location>
+			<duration>85008</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20DS%20OST/Multiplayer%20Menu%20-%20Mario%20Kart%20DS%20[OST].mp4</location>
+			<duration>64017</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20DS%20OST/Wi-Fi%20Menu%20-%20Mario%20Kart%20DS%20[OST].mp4</location>
+			<duration>118050</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20DS%20OST/Yoshi%20Falls%20-%20Mario%20Kart%20DS%20[OST].mp4</location>
+			<duration>113057</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20DS%20OST/Cheep%20Cheep%20Beach%20-%20Mario%20Kart%20DS%20[OST].mp4</location>
+			<duration>142036</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20DS%20OST/Desert%20Hills%20-%20Mario%20Kart%20DS%20[OST].mp4</location>
+			<duration>131006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20DS%20OST/Moo%20Moo%20Farm%20(N64)%20-%20Mario%20Kart%20DS%20[OST].mp4</location>
+			<duration>128011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
