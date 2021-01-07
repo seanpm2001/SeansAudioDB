@@ -3,6 +3,18 @@
 
 ![Placeholder.png](Placeholder.png)
 
+---
+
+<img src="/Music/1 Music/!!Other/Updates/PNG/SeansMusicDB_Build80_Home_WithoutPhoneNumber.png">
+
+---
+
+{**AudioDB**: Passing in **Firefox 81.0.1**}
+{**AudioDB**: Offline demo **Ubuntu 20.04**}
+{**AudioDB**: Offline demo **Windows 10**}
+
+<!-----!-->
+
 ***
 
 # SeansAudioDB
@@ -255,6 +267,50 @@ Version 2 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 2
+
+Version 3 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 3
+
+Version 4 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
+
+Version 5 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 5
+
+Version 6 (Wednesday, January 6th 2021 at 10:24 pm)
+
+> Changes:
+
+> * Added a new image
+
+> * Fixed some dividers
+
+> * Updated the file history
+
+> * No other changes in version 6
+
+Version 7 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 7
 
 ***
 
