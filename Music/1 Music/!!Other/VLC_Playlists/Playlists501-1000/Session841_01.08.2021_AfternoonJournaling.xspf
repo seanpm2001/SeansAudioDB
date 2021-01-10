@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Meme_series/How_Meme2020/EarthBound%2053%20-%20Sanctuary%20Guardian.mp4</location>
+			<duration>142500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Meme_series/Macintosh%20Plus%20420/macintosh%20plus%20420.webm</location>
+			<duration>441854</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Meme_series/I&#39;m%20blue/Eiffel%2065%20-%20Blue%20(Da%20Ba%20Dee)%20[Gabry%20Ponte%20Ice%20Pop%20Mix]%20(Original%20Video%20with%20subtitles).mp4</location>
+			<duration>219220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Coldplay/(No%20video)%20Coldplay%20-%20Viva%20la%20vida.webm</location>
+			<duration>242120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/AMessageForMarta/A%20Message%20for%20Marta/03%20-%20Protein%20Shoes.mp3</location>
+			<creator>TAS 1000</creator>
+			<album>A Message for Marta</album>
+			<duration>202737</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/AMessageForMarta/A%20Message%20for%20Marta/07%20-%20Science%20And%20Technology.mp3</location>
+			<creator>TAS 1000</creator>
+			<album>A Message for Marta</album>
+			<duration>242182</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/AMessageForMarta/A%20Message%20for%20Marta/12%20-%20I&#39;m%20At%209933.mp3</location>
+			<creator>TAS 1000</creator>
+			<album>A Message for Marta</album>
+			<duration>300723</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/AMessageForMarta/A%20Message%20for%20Marta/01%20-%20Not%20A%20Real%20Person.mp3</location>
+			<creator>TAS 1000</creator>
+			<album>A Message for Marta</album>
+			<duration>11415</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/AMessageForMarta/A%20Message%20for%20Marta/02%20-%20(I&#39;ve%20Been)%20Delayed.mp3</location>
+			<creator>TAS 1000</creator>
+			<album>A Message for Marta</album>
+			<duration>180741</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Crazy%20frog/crazy%20frog.webm</location>
+			<duration>173031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
