@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20(PC,%20iOS,%20Android)/VideoWithAudio/PVZ%20moongrains%20extended.mp4</location>
+			<duration>1020493</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20(PC,%20iOS,%20Android)/Album/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2006%20Moongrains.ogg</location>
+			<title>Moongrains</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>6</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/OGG/cover.png</image>
+			<duration>145000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20(PC,%20iOS,%20Android)/Album/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2009%20Watery%20Graves%20(fast).ogg</location>
+			<title>Watery Graves (fast)</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>9</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/OGG/cover.png</image>
+			<duration>116000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
