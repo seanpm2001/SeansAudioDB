@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sim%20series/Sim%20City%20SNES/SimCity%20(SNES)%20Music%20-%20Budget%20Theme-E0t7qz5Auic.mkv</location>
+			<duration>178480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sim%20series/Sim%20City%20SNES/SimCity%20(SNES)%20Music%20-%20Dr.%20Wright%20Dialogue-TvQdDov0kIk.webm</location>
+			<duration>178320</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sim%20series/Sim%20City%20SNES/SimCity%20(SNES)%20Music%20-%20Good%20Job%20Mayor!-LvSUKYzExG0.webm</location>
+			<duration>178520</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sim%20series/Sim%20City%20SNES/SimCity%20(SNES)%20Music%20-%20Good%20Night%20See%20You%20Soon-RL6FsGp2HHw.webm</location>
+			<duration>184020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sim%20series/Sim%20City%20SNES/SimCity%20(SNES)%20Music%20-%20You&#39;re%20Fired!-cJfjllnCVgE.mp4</location>
+			<duration>10264</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sim%20series/Sim%20City%20SNES/SimCity%20(SNES)%20Music%20-%20Bad%20Job%20Mayor!-XvDPMkrYAeE.webm</location>
+			<duration>183120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sim%20series/Sim%20City%20SNES/SimCity%20(SNES)%20Music%20-%20Capital%20Theme-lsM1K_9bDnE.webm</location>
+			<duration>179160</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sim%20series/Sim%20City%20SNES/SimCity%20(SNES)%20Music%20-%20City%20Problem-n5bTQ8NkoVc.webm</location>
+			<duration>179360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>

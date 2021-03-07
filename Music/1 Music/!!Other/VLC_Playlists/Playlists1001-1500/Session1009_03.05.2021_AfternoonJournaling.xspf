@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%201%20(GBA,%20DSi)%20OST/Extended/Newgrounds%20-%20Sonic%20Advance_%20Angel%20Island%20-%20Sonic%20Advance%20Music%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%201%20(GBA,%20DSi)%20OST/Extended/Angel%20Island%20Zone%20Act%201%20-%20Sonic%20Advance%20Music%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%202%20(GBA,%20DSi)%20OST/Extended/Sky%20Canyon%20Zone,%20Act%201%20-%20Sonic%20Advance%202%20Music%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%203%20(GBA,%20DSi)%20OST/y2mate.com%20-%20eggman_attacks_sonic_advance_3_music_extended_TZuS3dnqWzI_1080p.mp4</location>
+			<duration>1799222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%203%20(GBA,%20DSi)%20OST/y2mate.com%20-%20eggman_attacks_pinch_sonic_advance_3_music_extended__R2LOyFxLJ4_1080p.mp4</location>
+			<duration>1799222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dumb%20Ways%20to%20Die/480p/Dumb%20Ways%20to%20Die%20-%20480p.mp4</location>
+			<duration>181975</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Slaughter%20to%20prevail%20-%20Death%20(deathcore)/SLAUGHTER%20TO%20PREVAIL%20-%20Death-FPuEDC1sUwA.mkv</location>
+			<duration>287980</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hell/Disturbed%20-%20Hell.webm</location>
+			<duration>252260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/MIDI/Metallica/Vinesauce%20Joel%20Metallica%20Midi%201%20hour%20loop.mp4</location>
+			<duration>3752618</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
