@@ -1,0 +1,2 @@
+There was another instance of this playlist that I just completed. I was able to reduce the work to a reasonable level by uploading 8 folders with the new method I learned today. I now feel like coming over to fix this one, so after I complete the current mega playlist, I will come over to fix this.
+Edit: I just noticed there was only an 18 minute instance between this, so it really didn't take very long, as I switched music, downloaded 1 song, finished 3 playlists, and added a comment to this issue in that time.
