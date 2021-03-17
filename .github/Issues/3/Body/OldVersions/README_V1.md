@@ -1,0 +1,1 @@
+I am accepting contributions for system files to have equivalent directory icons on various desktop environments, such as KDE, MacOS, GNOME, XFCE, CINNAMON, and more. I can't do this on my own, contributors can help if they want.
