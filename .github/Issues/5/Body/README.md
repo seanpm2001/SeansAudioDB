@@ -1,0 +1,1 @@
+I have taken a 1+ hour break from GitHub to work on another project, and also enhance my bardcore directory. I got the missing song, and made some conversions, and now the directory I implemented earlier is out of date and needs to be updated.
