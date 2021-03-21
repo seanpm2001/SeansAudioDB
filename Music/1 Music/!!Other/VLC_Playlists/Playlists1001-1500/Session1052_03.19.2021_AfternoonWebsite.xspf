@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/City%20story/AudioOnly/MP3/LowQuality/CityStoryThemeLowQuality(Uncut).mp3</location>
+			<creator>MP3 Recorder</creator>
+			<album>Fragile Heart</album>
+			<duration>127904</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Drowning%20pool/let%20the%20bodies%20hit%20the%20floor.webm</location>
+			<duration>199803</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/midnight%20north%20jazz%20space.slash.house/Midnight%20North%20-%20This%20is%20a%20Jazz%20Space%20-%20YouTube.mp4</location>
+			<duration>158545</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pet%20Shop%20Boys%20-%20Opportunities/Pet%20Shop%20Boys%20-%20Opportunities-di60NYGu03Y.mkv</location>
+			<duration>223020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pet%20Shop%20Boys%20-%20Opportunities/Remix/Duet%20%20-30%20_%20Allstate-BbQBBWGGX9Y.mkv</location>
+			<duration>30061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Beck%20-%20Loser/Beck%20-%20Loser-YgSPaXgAdzE.mp4</location>
+			<duration>234011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/Angry%20Birds%20Theme%20(Medieval%20Cover)-hMTeKFVzq1s.webm</location>
+			<duration>119281</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/weird%20al%20yankovic/Weird%20Al%20Yankovic%20-%20Dare%20To%20Be%20Stupid.mp4</location>
+			<duration>213229</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/weird%20al%20yankovic/foil.mp4</location>
+			<duration>152787</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/weird%20al%20yankovic/white%20and%20nerdy.webm</location>
+			<duration>170503</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/weird%20al%20yankovic/like%20a%20surgeon.webm</location>
+			<duration>250498</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Over%20the%20Horizon/Over%20the%20Horizon.mp3</location>
+			<title>Over the Horizon</title>
+			<creator>Samsung</creator>
+			<album>Brand Music</album>
+			<annotation>Samsung</annotation>
+			<image>file:///home/seanpm/snap/vlc/common/.cache/vlc/art/artistalbum/Samsung/Brand%20Music/art.jpg</image>
+			<duration>229590</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Over%20the%20Horizon/Samsung%20Galaxy%20S20%20FE/Over_the_Horizon.mp3</location>
+			<title>Over the Horizon</title>
+			<creator>Samsung</creator>
+			<album>Brand Music 2020</album>
+			<trackNum>1</trackNum>
+			<annotation>Samsung</annotation>
+			<image>file:///home/seanpm/snap/vlc/common/.cache/vlc/art/artistalbum/Samsung/Brand%20Music%202020/art.jpg</image>
+			<duration>206158</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Over%20the%20Horizon/Compilation/The%20Evolution%20of%20Over%20the%20Horizon%20(2011-2018)%20(Samsung%20Galaxy%20Theme).mp3</location>
+			<title>The Evolution of Over the Horizon (2011-2018) (Samsung Galaxy Theme)</title>
+			<creator>fjchuen</creator>
+			<album>The Evolution of Over the Horizon (2011-2018) (Samsung Galaxy Theme)</album>
+			<annotation>Download Youtube videos and MP3 on GenYoutube.net </annotation>
+			<image>file:///home/seanpm/snap/vlc/common/.cache/vlc/art/artistalbum/fjchuen/The%20Evolution%20of%20Over%20the%20Horizon%20%282011-2018%29%20%28Samsung%20Galaxy%20Theme%29/art.jpg</image>
+			<duration>1392606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Numa%20Numa/numa%20numa.webm</location>
+			<duration>99674</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/AncientMusic/(NoVideo)The%20Oldest%20Known%20Melody%20(Hurrian%20Hymn%20no.6%20-%20c.1400%20B.C.).webm</location>
+			<duration>342480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bach/The%20Best%20of%20Bach.mp4</location>
+			<duration>6680752</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tchaikovsky/(No%20video)%20Tchaikovsky%201812%20Overture%20full%20with%20cannons.webm</location>
+			<duration>908060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Scatmans%20World/Scatmans%20World%20(Official%20Video)%20HD%20-Scatman%20John-02vDkMEdIkY.mkv</location>
+			<duration>270260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+	</extension>
+</playlist>
