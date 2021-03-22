@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Scatmans%20World/Scatmans%20World%20(Official%20Video)%20HD%20-Scatman%20John-02vDkMEdIkY.mkv</location>
+			<duration>270260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Scatman%20John/y2mate.com%20-%20scatman_ski_ba_bop_ba_dop_bop_official_video_hd_scatman_john_Hy8kmNEo1i8_360p.mp4</location>
+			<duration>210930</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Schtiffles/Ghost%20House%20-%20schtiffles%20-%20YouTube.mp4</location>
+			<duration>213111</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Avengers%20theme/Remixes/(No%20video)%20Avongers%20theme%20(Avengers%20Kazoo%20remix).webm</location>
+			<duration>118401</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/video%20with%20audio/MP4/Fruit%20Ninja%20-%20Music-menu.mp4</location>
+			<duration>25820</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP4/fruit%20ninja%20modern%20menu%20theme%20extended.mp4</location>
+			<duration>1821226</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP4/fruit%20ninja%20older%20menu%20theme%20extended.mp4</location>
+			<duration>1807438</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP4/fruit%20ninja%20dojo%20theme%20theme%20extended.mp4</location>
+			<duration>1811142</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP4/fruit%20ninja%20kinect%208%20bit%20menu%20theme%20extended.mp4</location>
+			<duration>1860992</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
