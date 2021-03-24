@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/The%20Louvre%20(Full)/Rhythm%20Thief%20&amp;%20The%20Emperor&#39;s%20Treasure%20-%20Looting%20The%20Louvre%20(Full)-poACHnkgZJQ.mkv</location>
+			<duration>116021</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Engineer%20Gaming/engineer%20gaming-cl1JnBvWiaE.webm</location>
+			<duration>169500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Eminem%20-%20Without%20Me/Eminem%20-%20Without%20Me%20(Official%20Music%20Video)-YVkUvmDQ3HY.mkv</location>
+			<duration>297620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Chris%20Brown%20-%20Look%20at%20me%20now/Chris%20Brown%20-%20Look%20at%20Me%20Now%20(Official%20Video)%20ft.%20Lil%20Wayne,%20Busta%20Rhymes-8gyLR4NfMiI.mkv</location>
+			<duration>248440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Eminem/Eminem%20-%20Rap%20God%20(Explicit).mp4</location>
+			<duration>369244</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ring%20of%20fire/(No%20video)%20Ring%20of%20fire.webm</location>
+			<duration>163180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!!Hard%20to%20find%20songs/Chariots%20Of%20Fire.webm</location>
+			<duration>209080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!!Hard%20to%20find%20songs/My%20Happy%20Song%20-%20Nicholas%20W.%20Lott.mp4</location>
+			<duration>154250</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!!Hard%20to%20find%20songs/FREE%20Joey%20Trap%20x%20Meme%20Rap%20type%20beat%202019%20boxing%20match.mp4</location>
+			<duration>120047</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/ComputerClan%20theme%20(drifting2%20by%20AudioNautex)/Drifting%202%20-%20Audionautix%20(128%20%20kbps).mp3</location>
+			<duration>237993</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
