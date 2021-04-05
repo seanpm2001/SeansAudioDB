@@ -354,9 +354,9 @@ Contributing is not allowed for this project, as it is a personal project.
 
 File type: `Markdown (*.md)`
 
-Line count: `0,543`
+Line count: `0,591`
 
-ReadMe version: `7 (Monday, April 5th 2021 at 1:02 pm)`
+ReadMe version: `8 (Monday, April 5th 2021 at 1:15 pm)`
 
 ---
 
@@ -403,35 +403,65 @@ Version 1 (Sunday, November 8th 2020 at 8:09 pm)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (Friday, May 29th 2020 at 3:41 pm)
 
 > Changes:
 
-> * Coming soon
+> * Added the directory structure section
+
+> * Updated the database language section
+
+> * Updated the file info section
 
 > * No other changes in version 2
 
-Version 3 (Coming soon)
+Version 3 (Tuesday, June 9th 2020 at 4:11 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the directory structure section
+
+> * Added the Wiki section
+
+> * Updated the version history section
+
+> * Updated the file info section
 
 > * No other changes in version 3
 
-Version 4 (Coming soon)
+Version 4 (Wednesday, June 10th 2020 at 11:59 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the version history section
+
+> * Updated the contributing section
+
+> * Updated the file info section
 
 > * No other changes in version 4
 
-Version 5 (Coming soon)
+Version 5 (Tuesday, January 5th 2021 at 10:07 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the title section
+
+> * Added the index section
+
+> * Updated dividers
+
+> * Updated the contributing section
+
+> * Added the issues section
+
+> * Added the resources section
+
+> * Added the contributing rules section
+
+> * Updated the file info section
+
+> * Added the README Version history section
 
 > * No other changes in version 5
 
@@ -473,11 +503,13 @@ Version 7 (Monday, April 5th 2021 at 1:02 pm)
 
 > * No other changes in version 7
 
-Version 8 (Coming soon)
+Version 8 (Monday, April 5th 2021 at 1:15 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the file info section
+
+> * Updated the file history section, adding the missing data for versions 2 to 5, and info for version 8
 
 > * No other changes in version 8
 
@@ -528,6 +560,22 @@ Version 14 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 14
+
+Version 15 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 15
+
+Version 16 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 16
 
 ***
 
