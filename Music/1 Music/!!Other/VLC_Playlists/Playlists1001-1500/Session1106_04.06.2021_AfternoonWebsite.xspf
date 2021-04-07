@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20Vs.%20Zombies%202%20(iOS%20&amp;%20Android)%20OST/Demonstration%20Minigame%20Mashup/Plants%20Vs%20Zombies%202%20Music%20-%20DM_%20Far%20Future%20Vs.%20Lost%20City%20%E2%98%BF%20HD%20%E2%98%BF%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>183994</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
