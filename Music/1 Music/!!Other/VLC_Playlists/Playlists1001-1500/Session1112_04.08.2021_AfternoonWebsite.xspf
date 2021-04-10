@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Ubuntu4.10/Startup/Old%20Ubuntu%20Startup%20Sound-S7zZxZFoht4.mkv</location>
+			<duration>11461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Ubuntu4.10/Shutdown/MP3/old%20UBUNTU%20Shutdown%20sound.mp3</location>
+			<duration>5198</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Mr.%20Blue%20Sky/(No%20video)%20ELO%20-%20Mr.%20Blue%20Sky.webm</location>
+			<duration>294660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bee%20Gees/staying%20alive%201977.webm</location>
+			<duration>242635</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
