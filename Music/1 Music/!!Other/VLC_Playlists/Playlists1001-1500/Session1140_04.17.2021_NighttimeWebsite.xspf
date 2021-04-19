@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2097%20But%20the%20Earth%20Refused%20to%20Die.ogg</location>
+			<title>But the Earth Refused to Die</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>97</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack/cover.png</image>
+			<duration>34000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2096%20Last%20Goodbye.ogg</location>
+			<title>Last Goodbye</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>96</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack/cover.png</image>
+			<duration>135000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2092%20Reunited.ogg</location>
+			<title>Reunited</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>92</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack/cover.png</image>
+			<duration>284000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
