@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/Romain%20G%20-%20iBlast%20Moki%202/Romain%20G%20-%20iBlast%20Moki%202%20-%2005%20Deserted%20Land.ogg</location>
+			<title>Deserted Land</title>
+			<creator>Romain G</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>5</trackNum>
+			<annotation>Visit https://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/Romain%20G%20-%20iBlast%20Moki%202/cover.jpg</image>
+			<duration>239000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/Romain%20G%20-%20iBlast%20Moki%202/Romain%20G%20-%20iBlast%20Moki%202%20-%2002%20Moki%20Pirate%20Land.ogg</location>
+			<title>Moki Pirate Land</title>
+			<creator>Romain G</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit https://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/Romain%20G%20-%20iBlast%20Moki%202/cover.jpg</image>
+			<duration>301000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2017%20Uraniwa%20ni%20Zombies%20ga!.ogg</location>
+			<title>Uraniwa ni Zombies ga!</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>17</trackNum>
+			<annotation>Visit https://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack/cover.png</image>
+			<duration>159000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2015%20Zombies%20On%20Your%20Lawn.ogg</location>
+			<title>Zombies On Your Lawn</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>15</trackNum>
+			<annotation>Visit https://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack/cover.png</image>
+			<duration>159000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2014%20Brainiac%20Maniac.ogg</location>
+			<title>Brainiac Maniac</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>14</trackNum>
+			<annotation>Visit https://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack/cover.png</image>
+			<duration>102000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2024%20Watery%20Graves%20IN-GAME.ogg</location>
+			<title>Watery Graves IN-GAME</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>24</trackNum>
+			<annotation>Visit https://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack/cover.png</image>
+			<duration>221000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2004%20Grasswalk.ogg</location>
+			<title>Grasswalk</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit https://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001-l2/Desktop/MusicCollection_Mini1A/Bandcamp/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack/cover.png</image>
+			<duration>148000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
