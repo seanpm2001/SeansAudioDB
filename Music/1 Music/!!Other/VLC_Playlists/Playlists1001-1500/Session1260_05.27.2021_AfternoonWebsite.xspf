@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/01%20Hazardous%20Environments.mp3</location>
+			<title>Hazardous Environments</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<duration>84796</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/43%20Lambda%20Core.mp3</location>
+			<title>Lambda Core</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>43</trackNum>
+			<annotation>0</annotation>
+			<duration>104597</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
