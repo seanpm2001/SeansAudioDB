@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="HL1_song11.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>HL1_song11.mp3</original>
+    <mtime>1441397208</mtime>
+    <size>4312</size>
+    <md5>4691d9f3f7de66a35822b3ecf12527f6</md5>
+    <crc32>f6191192</crc32>
+    <sha1>983b8ebfa2d50abfb8917c85d48b6b10ca3f3841</sha1>
+  </file>
+  <file name="HL1_song11.mp3" source="original">
+    <mtime>1441397171</mtime>
+    <size>554948</size>
+    <md5>88472e3874b23a3d211e9c9978cbf57a</md5>
+    <crc32>fcef9abe</crc32>
+    <sha1>af11fd1ce6801b79844ef6bccda8aa37bc2a3fb9</sha1>
+    <format>VBR MP3</format>
+    <length>34.68</length>
+    <height>0</height>
+    <width>0</width>
+    <genre>Blues</genre>
+  </file>
+  <file name="HL1_song11.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>HL1_song11.mp3</original>
+    <mtime>1441397194</mtime>
+    <size>372179</size>
+    <md5>1f9b9a87ca0c45a1d39fe611c5cd0fd9</md5>
+    <crc32>50b4d54c</crc32>
+    <sha1>09687f8a3b9303b7bc54a1a2a1da76f36771b27d</sha1>
+    <length>34.61</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="HL1_song11.png" source="derivative">
+    <format>PNG</format>
+    <original>HL1_song11.mp3</original>
+    <mtime>1441397196</mtime>
+    <size>8650</size>
+    <md5>c6b2f45cc1679893dcb49c9e0f487f2b</md5>
+    <crc32>42ed992b</crc32>
+    <sha1>b42722473e15a0d265db832f31e2ec906b819af3</sha1>
+  </file>
+  <file name="HL1_song11_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>HL1_song11_esslow.json.gz</original>
+    <mtime>1441397220</mtime>
+    <size>1842</size>
+    <md5>4e6bc90cdb7cca8e2a800f06a0ffc23d</md5>
+    <crc32>f65e0b50</crc32>
+    <sha1>a7f4771ac5e508a2048c924eabd0234042f0b633</sha1>
+  </file>
+  <file name="HL1_song11_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>HL1_song11.mp3</original>
+    <mtime>1441397203</mtime>
+    <size>21288</size>
+    <md5>41410bc7c2e30efcc946a236ad22f471</md5>
+    <crc32>f5c976d6</crc32>
+    <sha1>2cb1cb8e74efc6c4679427d50c027f1944985862</sha1>
+  </file>
+  <file name="HL1_song11_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>HL1_song11.mp3</original>
+    <mtime>1441397198</mtime>
+    <size>223732</size>
+    <md5>a6ba2e88b8c202d54e519c5b66890864</md5>
+    <crc32>68ecd638</crc32>
+    <sha1>d0bff36701a3ac4ed1b25d898ab9d3ad79757a8d</sha1>
+  </file>
+  <file name="ValveSONG_archive.torrent" source="metadata">
+    <btih>69f491a6f05b18c445b63092bed1d84faaf9855f</btih>
+    <mtime>1613771872</mtime>
+    <size>2835</size>
+    <md5>0f5ebda8ed63cbb92b8255e73123f78b</md5>
+    <crc32>a371d7d6</crc32>
+    <sha1>cfc516cca0ed83e35e69b7ffe660627991263d6a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ValveSONG_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>bed4c466c682e09f3a2ff3438a795f1c</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="ValveSONG_meta.sqlite" source="original">
+    <mtime>1441397183</mtime>
+    <size>9216</size>
+    <md5>126468866e3cbb54691fdfe76cca24c9</md5>
+    <crc32>d4fd449f</crc32>
+    <sha1>a72f768e2c92ac22a2fd9ec6bdd5c4aa1710d1f1</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="ValveSONG_meta.xml" source="original">
+    <mtime>1613771871</mtime>
+    <size>754</size>
+    <format>Metadata</format>
+    <md5>a3c8b4e32ac64b2a1bd89e8000a0efa0</md5>
+    <crc32>7aca6d85</crc32>
+    <sha1>d9c8349edca51d4fdf8cbe3ec985625f5aa98e0f</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1613771871</mtime>
+    <size>2492</size>
+    <md5>0a0556b8bf0c60b259e7cdef39fa8d29</md5>
+    <crc32>e639abe9</crc32>
+    <sha1>5677ac54903787653ae02129942e06901c6a069c</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>
