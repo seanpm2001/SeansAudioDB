@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="AlbumArtwork.png" source="original">
+    <mtime>1573413722</mtime>
+    <size>305338</size>
+    <md5>87915520136a8522043a583947e020f6</md5>
+    <crc32>cba66770</crc32>
+    <sha1>67b75728a0029d55d089fddeb64126a11618c988</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="AlbumArtwork_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>AlbumArtwork.png</original>
+    <mtime>1573414739</mtime>
+    <size>3840</size>
+    <md5>316953ab9c4e8121f1794899b0af99ea</md5>
+    <crc32>52111d96</crc32>
+    <sha1>0e6c4d32fe84b78df9691372aff2b625a6e5e98d</sha1>
+  </file>
+  <file name="Half-Life 2 - Soundtrack.zip" source="original">
+    <mtime>1573412354</mtime>
+    <size>133588756</size>
+    <md5>9e35a76e86b4dca2d7f98017b4bf7912</md5>
+    <crc32>a001a388</crc32>
+    <sha1>76d0569d9cc8339c1eab47d0f80aeb3a6cad6858</sha1>
+    <format>ZIP</format>
+    <title>Half-Life 2 - Soundtrack</title>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1613388078</mtime>
+    <size>8297</size>
+    <md5>4bb7eda744e29976766ae6ec3deb9666</md5>
+    <crc32>11f9f3ee</crc32>
+    <sha1>3ab1f61a24e312cf77839f5016072d2c96fc0f3c</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="hl2soundtrack_archive.torrent" source="metadata">
+    <btih>0574b47e72a1782fa10d20deffed45765cd13263</btih>
+    <mtime>1613388079</mtime>
+    <size>7432</size>
+    <md5>81cf135165a493148672bd7207dbf84c</md5>
+    <crc32>e5ebb5f4</crc32>
+    <sha1>0e90939c94187418df4db489b2843da07c3972e8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="hl2soundtrack_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>214bead4230c49be15b63e74d21a9c63</md5>
+  </file>
+  <file name="hl2soundtrack_meta.sqlite" source="original">
+    <mtime>1573413725</mtime>
+    <size>88064</size>
+    <format>Metadata</format>
+    <md5>6931cf0fd387ff4dcbb781f5d5590d7e</md5>
+    <crc32>7cc619c2</crc32>
+    <sha1>3b24b1b3dd6ae9b53bd37731b5680266ee7b855a</sha1>
+  </file>
+  <file name="hl2soundtrack_meta.xml" source="original">
+    <mtime>1613388077</mtime>
+    <size>16724</size>
+    <format>Metadata</format>
+    <md5>4081ea4dffc31c0183f2e46f7cf6af75</md5>
+    <crc32>5e4de560</crc32>
+    <sha1>e9a782e8a7bf9a1552735c6a2304695c4aa41bbb</sha1>
+  </file>
+  <file name="hl2soundtrack_rules.conf" source="original">
+    <mtime>1573413019</mtime>
+    <size>9</size>
+    <md5>c6252ae91bcb6e4c9db553057479e7d3</md5>
+    <crc32>4ae60840</crc32>
+    <sha1>fc079ae018899da82fd9dd027c241e886b050c8a</sha1>
+    <format>Derivation Rules</format>
+  </file>
+</files>
