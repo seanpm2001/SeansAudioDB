@@ -1,0 +1,221 @@
+{
+"highlevel": {
+    "danceability": {
+        "all": {
+            "danceable": 0.572485268116,
+            "not_danceable": 0.427514731884
+        },
+        "probability": 0.572485268116,
+        "value": "danceable"
+    },
+    "gender": {
+        "all": {
+            "female": 0.65282446146,
+            "male": 0.347175508738
+        },
+        "probability": 0.65282446146,
+        "value": "female"
+    },
+    "genre_dortmund": {
+        "all": {
+            "alternative": 0.00914487428963,
+            "blues": 0.0176582112908,
+            "electronic": 0.331918418407,
+            "folkcountry": 0.00598569540307,
+            "funksoulrnb": 0.00399300316349,
+            "jazz": 0.54132181406,
+            "pop": 0.00467558158562,
+            "raphiphop": 0.0679223909974,
+            "rock": 0.0173799935728
+        },
+        "probability": 0.54132181406,
+        "value": "jazz"
+    },
+    "genre_electronic": {
+        "all": {
+            "ambient": 0.41878464818,
+            "dnb": 0.0124534685165,
+            "house": 0.492603480816,
+            "techno": 0.0666097924113,
+            "trance": 0.00954861100763
+        },
+        "probability": 0.492603480816,
+        "value": "house"
+    },
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.306257456541,
+            "dan": 0.0103903515264,
+            "hip": 0.0831583142281,
+            "jaz": 0.301239430904,
+            "pop": 0.0154703706503,
+            "rhy": 0.238895237446,
+            "roc": 0.0112944506109,
+            "spe": 0.0332943946123
+        },
+        "probability": 0.306257456541,
+        "value": "cla"
+    },
+    "genre_tzanetakis": {
+        "all": {
+            "blu": 0.0323812514544,
+            "cla": 0.0044831619598,
+            "cou": 0.00857682991773,
+            "dis": 0.0154306711629,
+            "hip": 0.793634712696,
+            "jaz": 0.083712503314,
+            "met": 0.00471194647253,
+            "pop": 0.0193027611822,
+            "reg": 0.0150658637285,
+            "roc": 0.0227002892643
+        },
+        "probability": 0.793634712696,
+        "value": "hip"
+    },
+    "ismir04_rhythm": {
+        "all": {
+            "ChaChaCha": 0.0593767724931,
+            "Jive": 0.00745431007817,
+            "Quickstep": 0.0383035056293,
+            "Rumba-American": 0.0161862056702,
+            "Rumba-International": 0.756893455982,
+            "Rumba-Misc": 0.0190078821033,
+            "Samba": 0.0503058470786,
+            "Tango": 0.00811329763383,
+            "VienneseWaltz": 0.0119339041412,
+            "Waltz": 0.0324248299003
+        },
+        "probability": 0.756893455982,
+        "value": "Rumba-International"
+    },
+    "mood_acoustic": {
+        "all": {
+            "acoustic": 0.283639848232,
+            "not_acoustic": 0.716360151768
+        },
+        "probability": 0.716360151768,
+        "value": "not_acoustic"
+    },
+    "mood_aggressive": {
+        "all": {
+            "aggressive": 0.510286569595,
+            "not_aggressive": 0.489713400602
+        },
+        "probability": 0.510286569595,
+        "value": "aggressive"
+    },
+    "mood_electronic": {
+        "all": {
+            "electronic": 0.957801222801,
+            "not_electronic": 0.0421987622976
+        },
+        "probability": 0.957801222801,
+        "value": "electronic"
+    },
+    "mood_happy": {
+        "all": {
+            "happy": 0.0319664850831,
+            "not_happy": 0.968033492565
+        },
+        "probability": 0.968033492565,
+        "value": "not_happy"
+    },
+    "mood_party": {
+        "all": {
+            "not_party": 0.877471089363,
+            "party": 0.122528895736
+        },
+        "probability": 0.877471089363,
+        "value": "not_party"
+    },
+    "mood_relaxed": {
+        "all": {
+            "not_relaxed": 0.00998149812222,
+            "relaxed": 0.990018486977
+        },
+        "probability": 0.990018486977,
+        "value": "relaxed"
+    },
+    "mood_sad": {
+        "all": {
+            "not_sad": 0.509113192558,
+            "sad": 0.490886777639
+        },
+        "probability": 0.509113192558,
+        "value": "not_sad"
+    },
+    "moods_mirex": {
+        "all": {
+            "Cluster1": 0.257208585739,
+            "Cluster2": 0.174655362964,
+            "Cluster3": 0.458940863609,
+            "Cluster4": 0.0333028696477,
+            "Cluster5": 0.075892329216
+        },
+        "probability": 0.458940863609,
+        "value": "Cluster3"
+    },
+    "timbre": {
+        "all": {
+            "bright": 0.0278803966939,
+            "dark": 0.972119629383
+        },
+        "probability": 0.972119629383,
+        "value": "dark"
+    },
+    "tonal_atonal": {
+        "all": {
+            "atonal": 0.999986827374,
+            "tonal": 1.31613996928e-05
+        },
+        "probability": 0.999986827374,
+        "value": "atonal"
+    },
+    "voice_instrumental": {
+        "all": {
+            "instrumental": 0.999998211861,
+            "voice": 1.76369223936e-06
+        },
+        "probability": 0.999998211861,
+        "value": "instrumental"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 34.6122436523,
+        "lossless": 0,
+        "replay_gain": -0.389619827271,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "272101db8143431ce9a8fd0853e57ce8"
+    },
+    "ids": {
+        "internet_archive_file": "https:\/\/archive.org\/download\/ValveSONG\/https:\/\/archive.org\/download\/ValveSONG\/HL1_song11.mp3",
+        "internet_archive_id": "https:\/\/archive.org\/details\/ValveSONG"
+    },
+    "tags": {
+        "file_name": "HL1_song11.mp3",
+        "date": ["2004"],
+        "engineer": ["kelly bailey"],
+        "genre": ["Blues"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-beta1",
+            "essentia_git_sha": "v2.1_beta1-231-g12f7441-dirty",
+            "extractor": "music 1.0",
+            "gaia": "2.4-dev",
+            "gaia_git_sha": "857329b"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta1",
+            "essentia_git_sha": "v2.1_beta1-216-ge1b29eb",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}
