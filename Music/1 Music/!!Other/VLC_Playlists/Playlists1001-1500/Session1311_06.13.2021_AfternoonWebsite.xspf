@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Twenty_%C3%B8ne_Pil%C3%B8ts/(No%20video)%20twenty%20one%20pilots%20Heathens%20(from%20Suicide%20Squad%20The%20Album)%20[OFFICIAL%20VIDEO].webm</location>
+			<duration>217860</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Twenty_%C3%B8ne_Pil%C3%B8ts/We%20are%20young/(No%20video)%20we%20are%20young.webm</location>
+			<duration>252260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Celine%20Dion%20-%20Its%20all%20coming%20back%20to%20me/C%C3%A9line%20Dion%20-%20It&#39;s%20All%20Coming%20Back%20To%20Me%20Now-pDxoj-tDDIU.mkv</location>
+			<duration>363520</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
