@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Marconi%20Union%20-%20Weightless/Marconi%20Union%20-%20Weightless%20(Official%20Video).mp4</location>
+			<duration>488840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Marconi%20Union%20-%20Weightless/(No%20video)%20Marconi%20Union%20-%20Weightless%20(Official%20Video).webm</location>
+			<duration>488900</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Moon%20Festival%20Music%20[HQ]%20-%20Angry%20Birds%20Seasons%20PC%20Version%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>81153</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Angry%20Birds%20Seasons%20music%20-%20Invasion%20of%20the%20Egg%20Snatchers%20(Halloween%20Theme%202015)%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>88444</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Ham&#39;O&#39;Ween%20Music%20[HQ]%20-%20Angry%20Birds%20Seasons%20PC%20Version%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>71819</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

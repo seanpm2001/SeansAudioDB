@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Haunted%20Hogs%20Theme%20[HQ]%20-%20Angry%20Birds%20Seasons%20Halloween%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>62949</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Wreck%20The%20Halls%20Music%20[HQ]%20-%20Angry%20Birds%20Seasons%20PC%20Version%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>73816</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Season&#39;s%20Greedings%20Music%20[HQ]%20-%20Angry%20Birds%20Seasons%20PC%20Version%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>93437</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
