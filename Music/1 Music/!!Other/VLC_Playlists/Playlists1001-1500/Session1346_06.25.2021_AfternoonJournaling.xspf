@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Classic%20-%20normal%20and%20panic/Bejeweled%20Twist%20music%20Classic%20mode%202%20-%20Normal%20and%20Panic.mp4</location>
+			<duration>764006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Classic%20-%20normal%20and%20panic/Bejeweled%20Twist%20music%20Classic%20mode%204%20-%20Normal%20and%20Panic.mp4</location>
+			<duration>826513</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Classic%20-%20normal%20and%20panic/Bejeweled%20Twist%20music%20Classic%205%20-%20Normal%20and%20Panic.mp4</location>
+			<duration>637503</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Foster%20the%20people/pumped%20up%20kicks.mp4</location>
+			<duration>255860</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Over%20the%20Horizon/Over%20the%20Horizon.mp3</location>
+			<title>Over the Horizon</title>
+			<creator>Samsung</creator>
+			<album>Brand Music</album>
+			<annotation>Samsung</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Samsung/Brand%20Music/art.jpg</image>
+			<duration>229591</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Over%20the%20Horizon/Compilation/The%20Evolution%20of%20Over%20the%20Horizon%20(2011-2018)%20(Samsung%20Galaxy%20Theme).mp3</location>
+			<title>The Evolution of Over the Horizon (2011-2018) (Samsung Galaxy Theme)</title>
+			<creator>fjchuen</creator>
+			<album>The Evolution of Over the Horizon (2011-2018) (Samsung Galaxy Theme)</album>
+			<annotation>Download Youtube videos and MP3 on GenYoutube.net </annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/fjchuen/The%20Evolution%20of%20Over%20the%20Horizon%20%282011-2018%29%20%28Samsung%20Galaxy%20Theme%29/art.jpg</image>
+			<duration>1392606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20Cafe%20OST/Zombie%20Cafe%20music.mp4</location>
+			<duration>66385</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
