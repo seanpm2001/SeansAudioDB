@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Korn%20-%20Freak%20on%20a%20leash/Korn%20-%20Freak%20On%20a%20Leash%20(AC3%20Stereo)%20(Official%20Music%20Video)-jRGrNDV2mKc.mkv</location>
+			<duration>266260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ylvis%20-%20What%20does%20the%20fox%20say/(No%20video)%20Ylvis%20-%20The%20Fox%20(What%20Does%20The%20Fox%20Say%3F)%20[Official%20music%20video%20HD].m4a</location>
+			<duration>224862</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Copying%20is%20not%20theft/Copying_Is_Not_Theft.webm.480p.webm</location>
+			<duration>59668</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/7%20Grand%20dad%20OST/Title%20theme%20-%207%20GRAND%20DAD%20-%20VINESAUCE%20JOEL.mp4</location>
+			<duration>15789</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Vinesauce/bonzi%20buddy%20death%20song.webm</location>
+			<duration>27720</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Wake%20me%20up%20inside/remix/bonzi%20buddy%20sings%20wake%20me%20up%20inside%20MIDI%20RIP%20Harambe.mp4</location>
+			<duration>75070</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Wake%20me%20up%20inside/wake%20me%20up%20inside.webm</location>
+			<duration>252875</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Cascada%20-%20Every%20time%20we%20touch/Cascada%20-%20Everytime%20We%20Touch%20(Official%20video)-AV4smtJrIOM.mp4</location>
+			<duration>201573</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
