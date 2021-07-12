@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!NimbleBitSeries/Tiny%20tower%20(iOS%20&amp;%20Android)%20OST/Tiny%20Tower%20Music%20-%20This%20Could%20Be%20Fun%20-%20Erik%20Haddad%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>93460</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Nintendo%20DS%20OST/DS%20Download%20Play%20-%20Nintendo%20DSi%20Music%20Extended%20-%20YouTube.mp4</location>
+			<duration>1800010</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Nintendo%20DS%20OST/System%20Settings%20-%20Nintendo%20DSi%20Music%20Extended%20-%20YouTube.mp4</location>
+			<duration>1812246</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Nintendo%20DS%20OST/Nintendo%20DSi%20Menu%20-%20Nintendo%20DSi%20Music%20Extended%20-%20YouTube.mp4</location>
+			<duration>1824251</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Nintendo%20DS%20OST/Nintendo%20DSi%20Camera%20(Edit%20Photos)%20-%20Nintendo%20DSi%20Music%20Exten.mp4</location>
+			<duration>1846101</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Nintendo%20DS%20OST/Nintendo%20DSi%20Camera%20(Edit%20Photos)%20-%20Nintendo%20DSi%20Music%20Exten.mp4</location>
+			<duration>1846101</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Nintendo%20DS%20OST/Nintendo%20DSi%20Camera%20(Main%20Menu)%20-%20Nintendo%20DSi%20Music%20Extende.mp4</location>
+			<duration>1879028</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Nintendo%20DS%20OST/Nintendo%20DSi%20Camera%20-%20Nintendo%20DSi%20Music%20Extended%20-%20YouTube.mp4</location>
+			<duration>1880351</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Nintendo%20DS%20OST/Nintendo%20DSi%20Camera%20(Album)%20-%20Nintendo%20DSi%20Music%20Extended%20-.mp4</location>
+			<duration>1884298</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
