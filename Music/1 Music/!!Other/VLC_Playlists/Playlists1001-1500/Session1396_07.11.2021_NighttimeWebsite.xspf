@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius(2)/Gudang%20-%20Nostalgi%20Gaius%20-%2002%20Software.ogg</location>
+			<title>Software</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius%282%29/cover.jpg</image>
+			<duration>142000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius(2)/Gudang%20-%20Nostalgi%20Gaius%20-%2012%20Not%20kawaii.ogg</location>
+			<title>Not kawaii</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>12</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius%282%29/cover.jpg</image>
+			<duration>163000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dido%20-%20Life%20for%20rent/Dido%20-%20Life%20for%20Rent%20(Official%20Music%20Video)-OFtNChII78k.mkv</location>
+			<duration>221160</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
