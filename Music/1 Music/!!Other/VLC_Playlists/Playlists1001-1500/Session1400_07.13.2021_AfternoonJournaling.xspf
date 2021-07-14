@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/03%20The%20Innsbruck%20Experiment.mp3</location>
+			<title>The Innsbruck Experiment</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<duration>67581</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/38%20Negative%20Pressure.mp3</location>
+			<title>Negative Pressure</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>38</trackNum>
+			<annotation>0</annotation>
+			<duration>117737</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/34%20Tracking%20Device.mp3</location>
+			<title>Tracking Device</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>34</trackNum>
+			<annotation>0</annotation>
+			<duration>63480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/26%20Hard%20Fought.mp3</location>
+			<title>Hard Fought</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>26</trackNum>
+			<annotation>0</annotation>
+			<duration>75131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/22%20LG%20Orbifold.mp3</location>
+			<title>LG Orbifold</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>22</trackNum>
+			<annotation>0</annotation>
+			<duration>172384</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/13%20Hunter%20Down.mp3</location>
+			<title>Hunter Down</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>13</trackNum>
+			<annotation>0</annotation>
+			<duration>15363</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/11%20Slow%20Light.mp3</location>
+			<title>Slow Light</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>11</trackNum>
+			<annotation>0</annotation>
+			<duration>44750</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/10%20Calabi-Yau%20Model.mp3</location>
+			<title>Calabi-Yau Model</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>10</trackNum>
+			<annotation>0</annotation>
+			<duration>106086</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/43%20Lambda%20Core.mp3</location>
+			<title>Lambda Core</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>43</trackNum>
+			<annotation>0</annotation>
+			<duration>104597</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/18%20Combine%20Harvester.mp3</location>
+			<title>Combine Harvester</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>18</trackNum>
+			<annotation>0</annotation>
+			<duration>85528</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/02%20CP%20Violation.mp3</location>
+			<title>CP Violation</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>0</annotation>
+			<duration>105511</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rainbow%20Tylenol%20Remixes/Soldier%20Tylenol.mp4</location>
+			<duration>113337</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rainbow%20Tylenol%20Remixes/Rainbows%20Make%20Me%20Crylenol.mp4</location>
+			<duration>112986</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rainbow%20Tylenol%20Remixes/Rainbow%20Octagon.mp4</location>
+			<duration>110108</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rainbow%20Tylenol%20Remixes/Bonetrousle%20Rainbow%20Tylenol.mp4</location>
+			<duration>65015</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rainbow%20Tylenol%20Remixes/Rainbow%20Painted%20Tylenol.mp4</location>
+			<duration>114962</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rainbow%20Tylenol%20Remixes/rainbow%20trololo.webm</location>
+			<duration>113788</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Eminem/Eminem%20-%20Rap%20God%20(Explicit).mp4</location>
+			<duration>369244</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Eminem/Eminem%20-%20Without%20Me%20(uncensored%20with%20lyrics)-xVB2Jlpx6jo.webm</location>
+			<duration>289680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Eminem/Eminem%20-%20Godzilla%20(Lyric%20Video)%20ft.%20Juice%20WRLD-3qFvCPmee8U.mkv</location>
+			<duration>212660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Eminem/The%20Real%20Slim%20Shady%20by%20Eminem%20_%20Eminem-Y8ZI1uc6iBM.mkv</location>
+			<duration>267880</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Niklas%20Ahlstr%C3%B6m%20%E2%80%93%20Vanilla%20Urban%204/(No%20video)%20Niklas%20Ahlstr%C3%B6m%20%E2%80%93%20Vanilla%20Urban%204.m4a</location>
+			<duration>290620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/DiscordRemixes/(No%20video)%20Ping!.webm</location>
+			<duration>162980</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%E9%81%A0%E3%81%8F%E3%81%AE%E6%84%9B%E5%A5%BD%E5%AE%B6%20-%20%EF%BC%92%EF%BC%98%EF%BC%91%EF%BC%94/(No%20video)%20%EF%BC%92%EF%BC%98%EF%BC%91%EF%BC%94%20-%20%E9%81%A0%E3%81%8F%E3%81%AE%E6%84%9B%E5%A5%BD%E5%AE%B6.webm</location>
+			<duration>376200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E6%97%B6%E5%85%89%20-%20forgotten%20time/(No%20video)%20%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E6%97%B6%E5%85%89%20%20forgotten%20time.webm</location>
+			<duration>2702760</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Over%20the%20Horizon/Samsung%20Galaxy%20S20%20FE/Over_the_Horizon.mp3</location>
+			<title>Over the Horizon</title>
+			<creator>Samsung</creator>
+			<album>Brand Music 2020</album>
+			<trackNum>1</trackNum>
+			<annotation>Samsung</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Samsung/Brand%20Music%202020/art.jpg</image>
+			<duration>206158</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Over%20the%20Horizon/Compilation/The%20Evolution%20of%20Over%20the%20Horizon%20(2011-2018)%20(Samsung%20Galaxy%20Theme).mp3</location>
+			<title>The Evolution of Over the Horizon (2011-2018) (Samsung Galaxy Theme)</title>
+			<creator>fjchuen</creator>
+			<album>The Evolution of Over the Horizon (2011-2018) (Samsung Galaxy Theme)</album>
+			<annotation>Download Youtube videos and MP3 on GenYoutube.net </annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/fjchuen/The%20Evolution%20of%20Over%20the%20Horizon%20%282011-2018%29%20%28Samsung%20Galaxy%20Theme%29/art.jpg</image>
+			<duration>1392606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+	</extension>
+</playlist>
