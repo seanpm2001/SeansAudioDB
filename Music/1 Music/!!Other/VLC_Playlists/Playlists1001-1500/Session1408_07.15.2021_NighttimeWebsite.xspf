@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hollaback%20Girl/Hollaback%20girl%20dirty%20version.mp4</location>
+			<duration>207099</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Eclhipse%20intro%20music/Jetta%20-%20I&#39;d%20Love%20To%20Change%20The%20World%20(Mastubs%20Remix)%20[Eclihpse%20Intro%20Song].webm</location>
+			<duration>190580</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Eclhipse%20intro%20music/(No%20audio)%20Jetta%20-%20I&#39;d%20Love%20To%20Change%20The%20World%20(Mastubs%20Remix)%20[Eclihpse%20Intro%20Song].webm</location>
+			<duration>190467</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/DDLC%20(Doki%20Doki%20Literature%20Club)/(No%20video)%20Nick%20Kaelar%20(Varien)%20-%20%E3%80%8CDoki%20Doki%20%E3%83%89%E3%82%AD%E3%83%89%E3%82%AD%E3%80%8D.webm</location>
+			<duration>222300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gravity%20Falls%20Theme/Gravity%20Falls%20opening%20theme%20FULL-2Jn1OeDlNpM.webm</location>
+			<duration>200400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gravity%20Falls%20Theme/[HD]%20Gravity%20Falls%20Theme%20Song-Z6usKhzL8uI.mkv</location>
+			<duration>39681</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Goosebumps%20theme/Goosebumps%20(Theme%20Song).mp4</location>
+			<duration>68661</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

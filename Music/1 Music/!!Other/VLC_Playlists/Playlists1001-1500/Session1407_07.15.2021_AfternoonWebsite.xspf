@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/MenAtWork/(No%20video)%20MenAtWork%20-%20Down%20Under.webm</location>
+			<duration>221640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Break%20my%20stride/Matthew%20Wilder%20-%20Break%20My%20Stride%20(Official%20Audio)%20-%20YouTube.webm</location>
+			<duration>186060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/A%20little%20less%20conversation/A%20Little%20Less%20Conversation%20(JXL%20Radio%20Edit%20Remix)%20HD-e1efsq1GFpE.mkv</location>
+			<duration>220079</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hollaback%20Girl/Hollaback%20girl%20dirty%20version.mp4</location>
+			<duration>207099</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius(2)/Gudang%20-%20Nostalgi%20Gaius%20-%2012%20Not%20kawaii.ogg</location>
+			<title>Not kawaii</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>12</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius%282%29/cover.jpg</image>
+			<duration>163000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
