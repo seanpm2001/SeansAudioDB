@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/tsal%20t&#39;now%20muc%20ruoy/Your%20Cum%20Won&#39;t%20Last%20[Official%20Music%20Video]-7Do70nztRNE.webm</location>
+			<duration>200360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Turkey%20songs/Eat%20me%20I&#39;m%20a%20turkey/(No%20video)%20Eat%20me%20I&#39;m%20a%20turkey.m4a</location>
+			<duration>295984</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Turkey%20songs/Eat%20me%20I&#39;m%20a%20turkey/(No%20audio)%20Eat%20me%20I&#39;m%20a%20turkey.mp4</location>
+			<duration>295866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Turkey%20songs/I%20will%20survive%20thanksgiving/I%20will%20Survive%20-%20The%20Thanksgiving%20Version.m4v%20-%20YouTube.webm</location>
+			<duration>105701</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Turkey%20songs/I%20will%20survive%20thanksgiving/I%20will%20Survive%20-%20The%20Thanksgiving%20Version.m4v%20-%20YouTube.webm</location>
+			<duration>105701</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Turkey%20songs/You%20can&#39;t%20gobble%20me/You%20Can&#39;t%20Gobble%20Me.mp4</location>
+			<duration>79343</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
