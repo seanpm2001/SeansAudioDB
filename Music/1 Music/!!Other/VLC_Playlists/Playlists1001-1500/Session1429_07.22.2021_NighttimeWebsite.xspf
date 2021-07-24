@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20The%20Hedgehog%202%20(Genesis)%20OST/Video%20with%20audio/MP4/FULL/y2mate.com%20-%20sonic_the_hedgehog_2_ost_mystic_cave_zone_2_player_JWbt2eMHXk4_360p.mp4</location>
+			<duration>116470</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20The%20Hedgehog%202%20(Genesis)%20OST/Video%20with%20audio/MP4/FULL/y2mate.com%20-%20sonic_the_hedgehog_2_ost_emerald_hill_zone_2_player_vs-waSz2NA4_360p.mp4</location>
+			<duration>84868</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20The%20Hedgehog%202%20(Genesis)%20OST/Video%20with%20audio/MP4/FULL/y2mate.com%20-%20sonic_the_hedgehog_2_ost_mystic_cave_zone_ruY7__UHoKg_360p.mp4</location>
+			<duration>121440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20The%20Hedgehog%202%20(Genesis)%20OST/Video%20with%20audio/MP4/FULL/y2mate.com%20-%20sonic_the_hedgehog_2_ost_metropolis_zone_j_GOrkIKaE0_360p.mp4</location>
+			<duration>104095</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20The%20Hedgehog%202%20(Genesis)%20OST/Video%20with%20audio/MP4/FULL/y2mate.com%20-%20sonic_the_hedgehog_2_ost_hidden_palace_zone_jv_0SlKMiys_360p.mp4</location>
+			<duration>111710</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20The%20Hedgehog%202%20(Genesis)%20OST/Video%20with%20audio/MP4/FULL/y2mate.com%20-%20sonic_the_hedgehog_2_ost_death_egg_zone_SX5oDYVE2lM_360p.mp4</location>
+			<duration>111270</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
