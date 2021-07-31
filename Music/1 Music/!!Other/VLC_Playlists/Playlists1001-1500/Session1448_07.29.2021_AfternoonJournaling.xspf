@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Coldplay/(No%20video)%20Coldplay%20-%20Viva%20la%20vida.webm</location>
+			<duration>242120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Supercell%20series/Clash%20of%20Clans/BuilderBase/Clash%20of%20Clans%20Builder%20Base%20Music/Clash%20of%20Clans%20Builder%20Base%20Music/Builder%20Base%20-%20Night%20Combat%20Planning.mp3</location>
+			<title>Builder Base - Night Combat Planning</title>
+			<creator>Supercell</creator>
+			<album>Supercell</album>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Supercell/Supercell/art</image>
+			<duration>30067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Supercell%20series/Clash%20of%20Clans/BuilderBase/Clash%20of%20Clans%20Builder%20Base%20Music/Clash%20of%20Clans%20Builder%20Base%20Music/Builder%20Base%20-%20Ship%20Departing.mp3</location>
+			<title>Builder Base - Ship Departing</title>
+			<creator>Supercell</creator>
+			<album>Supercell</album>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Supercell/Supercell/art</image>
+			<duration>5998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Supercell%20series/Clash%20of%20Clans/BuilderBase/Clash%20of%20Clans%20Builder%20Base%20Music/Clash%20of%20Clans%20Builder%20Base%20Music/Builder%20Base%20-%20Ship%20Arriving.mp3</location>
+			<title>Builder Base - Ship Arriving</title>
+			<creator>Supercell</creator>
+			<album>Supercell</album>
+			<duration>8741</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Supercell%20series/Clash%20of%20Clans/BuilderBase/Clash%20of%20Clans%20Builder%20Base%20Music/Clash%20of%20Clans%20Builder%20Base%20Music/Builder%20Base%20-%20Village%20Music%20Part%201.mp3</location>
+			<title>Builder Base - Village Music Part 1</title>
+			<creator>Supercell</creator>
+			<album>Supercell</album>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Supercell/Supercell/art</image>
+			<duration>128314</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Supercell%20series/Clash%20of%20Clans/BuilderBase/Clash%20of%20Clans%20Builder%20Base%20Music/Clash%20of%20Clans%20Builder%20Base%20Music/Builder%20Base%20-%20Village%20Music%20Part%202.mp3</location>
+			<title>Builder Base - Village Music Part 2</title>
+			<creator>Supercell</creator>
+			<album>Supercell</album>
+			<duration>205088</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Supercell%20series/Hay%20Day/hay%20day%20fishing%20winter%20ost.mp4</location>
+			<duration>64203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Supercell%20series/Hay%20Day/hay%20day%20fishing%20ost.mp4</location>
+			<duration>64133</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Supercell%20series/Hay%20Day/hay%20day%20train%20area%20ost.mp4</location>
+			<duration>102214</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
