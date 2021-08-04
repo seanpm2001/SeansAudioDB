@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I&#39;m%20blue/Eiffel%2065%20-%20Blue%20(Da%20Ba%20Dee)%20[Gabry%20Ponte%20Ice%20Pop%20Mix]%20(Original%20Video%20with%20subtitles).mp4</location>
+			<duration>219220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I&#39;m%20blue/Remixes/I&#39;m%20gay/iDubbbzTV%20-%20I&#39;m%20Gay%20(I&#39;m%20Blue%20Cover).mp4</location>
+			<duration>208260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/IdubbbzTV%20music/y2mate.com%20-%20hey_now_youre_a_keemstar_qP78Bu__npY_1080p.mp4</location>
+			<duration>168276</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/IdubbbzTV%20music/y2mate.com%20-%20asian_jake_paul_feat_boyinaband_diss_track_tQpKb0U800I_1080p.mp4</location>
+			<duration>192726</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
