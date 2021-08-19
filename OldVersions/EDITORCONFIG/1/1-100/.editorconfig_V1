@@ -1,0 +1,130 @@
+# Start of script
+
+# Editor configuration file for Seans Life Archive / Images / GitHub
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.md]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.yml *.yaml]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.txt]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.htm *.html]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.js]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.ini]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.xml]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.xspf]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.srt]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.svg]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.sh]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.json]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# File info
+
+# File type: Editorconfig file (*.editorconfig)
+# File version: 1 (Wednesday, August 18th 2021 at 7:19 pm)
+# Line count (including blank lines and compiler line): 131
+
+# End of script
