@@ -1,0 +1,67 @@
+# Start of script
+# .gitattributes
+# This file defines what languages can show up in the GitHub linguist menu (the menu that tells you what percentage each language is using up on this project.
+# Some non-programming languages must be included manually with this file. Want to create your own? Do something similar to what is done here, and name the file
+# .gitattributes
+# and nothing else, no characters before, no characters after
+# Start of linguist script
+# HTML (duplicate, as it is already detected)
+*.htm linguist-detectable=true
+*.htm linguist-documentation=false
+*.html linguist-detectable=true
+*.html linguist-documentation=false
+# JavaScript (duplicate, as it is already detected)
+*.js linguist-detectable=true
+*.js linguist-documentation=false
+# Makefile (duplicate, as it is already detected)
+*.mk linguist-detectable=true
+*.mk linguist-documentation=false
+# Shell (duplicate, as it is already detected)
+*.sh linguist-detectable=true
+*.sh linguist-documentation=false
+# YAML
+*.yml linguist-detectable=true
+*.yml linguist-documentation=false
+*.yaml linguist-detectable=true
+*.yaml linguist-documentation=false
+# ReStructuredText
+*.rst linguist-detectable=true
+*.rst linguist-documentation=false
+# WebVTT
+*.vtt linguist-detectable=true
+*.vtt linguist-documentation=false
+# SVG
+# Experimental
+*.svg linguist-detectable=true
+*.svg linguist-documentation=false
+# JSON
+# Experimental
+*.json linguist-detectable=true
+*.json linguist-documentation=false
+# Subtitles (SubRip Text)
+*.srt linguist-detectable=true
+*.srt linguist-documentation=false
+# INI
+# Experimental, I may have to turn this off
+*.ini linguist-detectable=true
+*.ini linguist-documentation=false
+# WikiText (MediaWiki)
+# Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
+*.wiki linguist-detectable=false
+*.wiki linguist-documentation=false
+# XML
+# Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
+*.xml linguist-detectable=false
+*.xml linguist-documentation=false
+*.xspf linguist-detectable=false
+*.xspf linguist-documentation=false
+# Markdown
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+*.md linguist-detectable=false
+*.md linguist-documentation=false
+# End of linguist script
+# File info
+# File type: .gitattributes file (*.gitattributes)
+# File version: 1 (Wednesday, August 18th 2021 at 7:06 pm)
+# Line count (including blank lines and compiler line): 68
+# End of script
