@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/We%20didn&#39;t%20start%20the%20fire/(No%20video)%20We%20didn&#39;t%20start%20the%20fire.webm</location>
+			<duration>245400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Ubuntu/Compilation/Ubuntu%20sounds-PQnDbwzoBqs.webm</location>
+			<duration>173580</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Ubuntu/ubuntu%20dell%20XPS%2013%20first%20boot%20animation.mp4</location>
+			<duration>33065</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Bejeweled%20Twist%20SFX/Bejeweled%20Twist%20-%20ALL%20sounds!%20(main.pak)%20-%20YouTube.mp4</location>
+			<duration>367316</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Mac/All/Mac%20startup%20chime%20(1998-present)-CZiPmYRixC0.mp4</location>
+			<duration>4227</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Macintosh/Every%20Mac%20Startup%20&amp;%20Crash%20Chime.mp4</location>
+			<duration>120650</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Sex%20Offender%20Shuffle/Sex%20Offender%20Shuffle%20YT.m4a</location>
+			<duration>236634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yes%20-%20Roundabout/(No%20video)%20Roundabout%20(2008%20Remastered%20Version).webm</location>
+			<duration>515980</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20(NES)/NES%20-%20Pictionary%20(MP3)/NES_Pictionary_01_Title.mp3</location>
+			<title>Title</title>
+			<creator>VG Music</creator>
+			<album>NES - Pictionary</album>
+			<trackNum>1</trackNum>
+			<annotation>explod.org</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20%28NES%29/NES%20-%20Pictionary%20%28MP3%29/cover.jpg</image>
+			<duration>94359</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20(NES)/NES%20-%20Pictionary%20(MP3)/NES_Pictionary_02_DrawingGame.mp3</location>
+			<title>Drawing Game</title>
+			<creator>VG Music</creator>
+			<album>NES - Pictionary</album>
+			<trackNum>2</trackNum>
+			<annotation>explod.org</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20%28NES%29/NES%20-%20Pictionary%20%28MP3%29/cover.jpg</image>
+			<duration>164707</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20(NES)/NES%20-%20Pictionary%20(MP3)/NES_Pictionary_04_Mini-Game2.mp3</location>
+			<title>Mini-Game 2</title>
+			<creator>VG Music</creator>
+			<album>NES - Pictionary</album>
+			<trackNum>4</trackNum>
+			<annotation>explod.org</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20%28NES%29/NES%20-%20Pictionary%20%28MP3%29/cover.jpg</image>
+			<duration>156295</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20(NES)/NES%20-%20Pictionary%20(MP3)/NES_Pictionary_03_Mini-Game1.mp3</location>
+			<title>Mini-Game 1</title>
+			<creator>VG Music</creator>
+			<album>NES - Pictionary</album>
+			<trackNum>3</trackNum>
+			<annotation>explod.org</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20%28NES%29/NES%20-%20Pictionary%20%28MP3%29/cover.jpg</image>
+			<duration>162774</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20(NES)/NES%20-%20Pictionary%20(MP3)/NES_Pictionary_05_MovePiece.mp3</location>
+			<title>Move Piece</title>
+			<creator>VG Music</creator>
+			<album>NES - Pictionary</album>
+			<trackNum>5</trackNum>
+			<annotation>explod.org</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pictionary%20OST%20%28NES%29/NES%20-%20Pictionary%20%28MP3%29/cover.jpg</image>
+			<duration>48801</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hello%20world/hello%20world%20[but%20i%20looped%20it%20a%20couple%20times%20seamlessly].mp4</location>
+			<duration>276202</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+	</extension>
+</playlist>
