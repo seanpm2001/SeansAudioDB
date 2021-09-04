@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius(2)/Gudang%20-%20Nostalgi%20Gaius%20-%2004%20Nunca.ogg</location>
+			<title>Nunca</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius%282%29/cover.jpg</image>
+			<duration>194000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius(2)/Gudang%20-%20Nostalgi%20Gaius%20-%2016%20Punch%20Your%20Face.ogg</location>
+			<title>Punch Your Face</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>16</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius%282%29/cover.jpg</image>
+			<duration>169000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius(2)/Gudang%20-%20Nostalgi%20Gaius%20-%2015%20Lost%20and%20lost.ogg</location>
+			<title>Lost and lost</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>15</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius%282%29/cover.jpg</image>
+			<duration>236000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius(2)/Gudang%20-%20Nostalgi%20Gaius%20-%2013%20Gaius.ogg</location>
+			<title>Gaius</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>13</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius%282%29/cover.jpg</image>
+			<duration>203000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius(2)/Gudang%20-%20Nostalgi%20Gaius%20-%2011%20Rest.ogg</location>
+			<title>Rest</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>11</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius%282%29/cover.jpg</image>
+			<duration>244000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius(2)/Gudang%20-%20Nostalgi%20Gaius%20-%2014%20Claudius.ogg</location>
+			<title>Claudius</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>14</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius%282%29/cover.jpg</image>
+			<duration>127000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius(2)/Gudang%20-%20Nostalgi%20Gaius%20-%2009%20Fine,%20you.ogg</location>
+			<title>Fine, you</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>9</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius%282%29/cover.jpg</image>
+			<duration>217000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius(2)/Gudang%20-%20Nostalgi%20Gaius%20-%2010%20Miss%20you.ogg</location>
+			<title>Miss you</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>10</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius%282%29/cover.jpg</image>
+			<duration>137000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius(2)/Gudang%20-%20Nostalgi%20Gaius%20-%2005%20Always.ogg</location>
+			<title>Always</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>5</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius%282%29/cover.jpg</image>
+			<duration>180000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Compilation/wind96%20-%20Plume%20Valley%20-%20YouTube.mp4</location>
+			<duration>2305997</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Compilation/Windows%E5%BD%A196%20Gradient%20Horizont%20-%20YouTube.mp4</location>
+			<duration>2303396</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>
