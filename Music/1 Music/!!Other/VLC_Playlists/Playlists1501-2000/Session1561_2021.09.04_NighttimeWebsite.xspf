@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Wii%20Play%20-%20Pose%20OST/Pose%20Mii%20Finish%20Level%20-%20Wii%20Play.mp4</location>
+			<duration>31068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Wii%20Play%20-%20Pose%20OST/Pose%20Mii%20-%20Wii%20Play.mp4</location>
+			<duration>55055</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Windows%20series/Windows%20XP/The%20Windows%20XP%20Tour%20Music%20[Original]%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>511489</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Windows%20series/Windows%20XP/Windows%20XP%20Installation%20Music.mp4</location>
+			<duration>324660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%202%20(GBA,%20DSi)%20OST/AudioOnly/04%20Leaf%20Forest%20Act%201.mp3</location>
+			<title>Leaf Forest Act 1</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Teruhiko Nakagawa, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 2</album>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Sonic%20Advance%20series/Sonic%20Advance%202%20%28GBA%2C%20DSi%29%20OST/AudioOnly/Folder.jpg</image>
+			<duration>147043</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%202%20(GBA,%20DSi)%20OST/AudioOnly/05%20Leaf%20Forest%20Act%202.mp3</location>
+			<title>Leaf Forest Act 2</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Teruhiko Nakagawa, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 2</album>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Sonic%20Advance%20series/Sonic%20Advance%202%20%28GBA%2C%20DSi%29%20OST/AudioOnly/Folder.jpg</image>
+			<duration>150047</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%202%20(GBA,%20DSi)%20OST/AudioOnly/16%20Egg%20Utopia%20Act%201.mp3</location>
+			<title>Egg Utopia Act 1</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Teruhiko Nakagawa, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 2</album>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Sonic%20Advance%20series/Sonic%20Advance%202%20%28GBA%2C%20DSi%29%20OST/AudioOnly/Folder.jpg</image>
+			<duration>177032</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%202%20(GBA,%20DSi)%20OST/AudioOnly/18%20Final%20Zone%20XX.mp3</location>
+			<title>Final Zone XX</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Teruhiko Nakagawa, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 2</album>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Sonic%20Advance%20series/Sonic%20Advance%202%20%28GBA%2C%20DSi%29%20OST/AudioOnly/Folder.jpg</image>
+			<duration>155063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
