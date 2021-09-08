@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/RussianPartyInKamaz/KAMAZ-obNEXoRcIj0.mkv</location>
+			<duration>65461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hardbass%20school%20(Slavic%20Hardbass)/Soviet%20Army%20dancing%20to%20Hard%20Bass.mp4</location>
+			<duration>152440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Popping%20Mouth%20Cat/Polish%20Pop%20Cat/polish%20pop%20cat-3TZZ0uDe2_8.mkv</location>
+			<duration>11981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Vibing%20Cat/VideoWithAudio/New%20Rocket%20League%20Intro%20Music%20Got%20Me%20Like%20(FULL%20VERSION)-ar5oob5elZs.mkv</location>
+			<duration>192400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Vibing%20Cat/VideoWithAudio/Cat%20Vibing%20to%20the%20Home%20Depot%20Theme%20Song-bFzrB-lo9k8.mkv</location>
+			<duration>30021</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Vibing%20Cat/VideoWithAudio/Cat%20Vibing%20To%20Ievan%20Polkka%20(Official%20Video%20HD)%20Cat%20Vibing%20To%20Music%20_%20Cat%20Vibing%20Meme-NUYvbT6vTPs.mkv</location>
+			<duration>174939</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Vibing%20Cat/VideoWithAudio/cat%20but%20it&#39;s%20a%20gamecube%20intro-iuP9uiTH95I.mkv</location>
+			<duration>38581</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Quick%20mafs/(No%20video)%20BIG%20SHAQ%20-%20MANS%20NOT%20HOT%20(MUSIC%20VIDEO).webm</location>
+			<duration>251060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Its%20too%20late%20to%20apologize/Timbaland%20-%20Apologize%20ft.%20OneRepublic-ZSM3w1v-A_Y.mkv</location>
+			<duration>188700</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Travis%20Scott/Travis%20Scott%20%20-%20Antidote%20(Lyrics%20On%20Screen).mp4</location>
+			<duration>264081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>

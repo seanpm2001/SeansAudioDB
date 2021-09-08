@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/RussianPartyInKamaz/KAMAZ-obNEXoRcIj0.mkv</location>
+			<duration>65461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Smooth_Criminal/Remixes/Game_Cube/%E2%80%8Cyou&#39;ve%20been%20hit%20by%20a%20smooth%20gamecube%20intro-IGcvDQfOBG0.mp4</location>
+			<duration>17601</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stuck_In_The_Middle_With_You/Stuck%20In%20The%20Middle%20With%20You-ln7Vn_WKkWU.webm</location>
+			<duration>208960</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/RussianPartyInKamaz/KAMAZ-obNEXoRcIj0.mkv</location>
+			<duration>65461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/[KAIROSOFT%20SOUNDTRACKS]%20Game%20Dev%20Story%20-%20Working%20Hard%20(1)-srJe3Z6Qv6M.mkv</location>
+			<duration>60741</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/AudioOnly/Half-Life%20Menu%20Music%20(PS2%20Version).mp3</location>
+			<title>Half-Life Menu Music (PS2 Version)</title>
+			<creator>Ben Houge</creator>
+			<album>Half-Life (Playstation 2)</album>
+			<annotation>                              </annotation>
+			<duration>53749</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
