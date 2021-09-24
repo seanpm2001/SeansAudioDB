@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/OGG/008%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Prologue%20-%20Where%20Do%20You%20Want%20Your%20House.ogg</location>
+			<title>Prologue - Where Do You Want Your House?</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>8</trackNum>
+			<annotation>http://archive.org/details/ACNL-OST-v4-FLAC</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>78000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/OGG/006%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Prologue%20-%20Welcome%20to%20Our%20Village!.ogg</location>
+			<title>Prologue - Welcome to Our Village!</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>6</trackNum>
+			<annotation>http://archive.org/details/ACNL-OST-v4-FLAC</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>48000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/OGG/023%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%209%20AM.ogg</location>
+			<title>9 AM</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>23</trackNum>
+			<annotation>http://archive.org/details/ACNL-OST-v4-FLAC</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>68000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/OGG/001%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Main%20Theme.ogg</location>
+			<title>Main Theme</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>1</trackNum>
+			<annotation>http://archive.org/details/ACNL-OST-v4-FLAC</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>64000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/OGG/005%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Prologue%20-%20So%20This%20Is%20Our%20New%20Mayor.ogg</location>
+			<title>Prologue - So This Is Our New Mayor?</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>5</trackNum>
+			<annotation>http://archive.org/details/ACNL-OST-v4-FLAC</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>4000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/OGG/014%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%2012%20AM.ogg</location>
+			<title>12 AM</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>14</trackNum>
+			<annotation>http://archive.org/details/ACNL-OST-v4-FLAC</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>89000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/OGG/025%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%2011%20AM.ogg</location>
+			<title>11 AM</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>25</trackNum>
+			<annotation>http://archive.org/details/ACNL-OST-v4-FLAC</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>96000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/OGG/026%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%2012%20PM.ogg</location>
+			<title>12 PM</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>26</trackNum>
+			<annotation>http://archive.org/details/ACNL-OST-v4-FLAC</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>100000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
