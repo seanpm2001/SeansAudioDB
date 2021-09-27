@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/OGG/002%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Loading%20the%20Game%20(Isabelle).ogg</location>
+			<title>Loading the Game (Isabelle)</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>2</trackNum>
+			<annotation>http://archive.org/details/ACNL-OST-v4-FLAC</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>50000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/OGG/016%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%202%20AM.ogg</location>
+			<title>2 AM</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>16</trackNum>
+			<annotation>http://archive.org/details/ACNL-OST-v4-FLAC</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>178000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Modern%20Day/Plants%20Vs%20Zombies%202%20Music%20-%20Modern%20Day%20Theme%20%E2%98%BF%20HD%20%E2%98%BF%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>666877</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Modern%20Day/Plants%20Vs%20Zombies%202%20Music%20-%20Modern%20Day_%20Demonstration%20Mini-Game%20Extended%20%E2%98%BF%20HD%20%E2%98%BF%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>909618</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Modern%20Day/Plants%20Vs%20Zombies%202%20Music%20-%20Modern%20Day_%20Ultimate%20Battle%20Extended%20%E2%98%BF%20HD%20%E2%98%BF%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>908480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Modern%20Day/Plants%20Vs%20Zombies%202%20Music%20-%20Brainiac%20Maniac%20Vs.%20Six%20Worlds%20Mashup%20%E2%98%BF%20HD%20%E2%98%BF%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>183925</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
