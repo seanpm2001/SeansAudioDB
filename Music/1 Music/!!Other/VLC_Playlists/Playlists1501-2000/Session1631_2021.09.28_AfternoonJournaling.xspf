@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20Wii%20OST/Block%20Plaza%20-%20Mario%20Kart%20Wii.mp4</location>
+			<duration>121022</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20Wii%20OST/Awaiting%20Wi-Fi%20Race%20-%20Mario%20Kart%20Wii.mp4</location>
+			<duration>27097</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20Wii%20OST/Dry%20Dry%20Ruins%20-%20Mario%20Kart%20Wii.mp4</location>
+			<duration>148050</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20Wii%20OST/Main%20Menu%20-%20Mario%20Kart%20Wii.mp4</location>
+			<duration>127013</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20Wii%20OST/Grumble%20Volcano%20-%20Mario%20Kart%20Wii.mp4</location>
+			<duration>159010</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20Wii%20OST/Coconut%20Mall%20-%20Mario%20Kart%20Wii.mp4</location>
+			<duration>141014</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Sosumi/sosumi.aiff</location>
+			<duration>171</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20Wii%20OST/Thwomp%20Desert%20-%20Mario%20Kart%20Wii.mp4</location>
+			<duration>131053</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20Wii%20OST/Bowser&#39;s%20Castle%20-%20Mario%20Kart%20Wii.mp4</location>
+			<duration>173011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20Wii%20OST/Block%20Plaza%20-%20Mario%20Kart%20Wii.mp4</location>
+			<duration>121022</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
