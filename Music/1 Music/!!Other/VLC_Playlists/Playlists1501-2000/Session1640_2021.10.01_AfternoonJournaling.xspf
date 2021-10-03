@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20Three%20Days%20to%20Live.mp3</location>
+			<duration>115279</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20It%20Hates%20Me%20So%20Much.mp3</location>
+			<duration>129307</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20MEDIC!.mp3</location>
+			<duration>154019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20Drunken%20Pipe%20Bomb.mp3</location>
+			<duration>91037</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20Misfortune%20Teller.mp3</location>
+			<duration>152634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20Intruder%20Alert.mp3</location>
+			<duration>112902</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20%20Saxton&#39;s%20dillema.mp3</location>
+			<duration>71784</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20The%20Art%20of%20War.mp3</location>
+			<duration>137431</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Video%20with%20audio/Chapter%201/Deltarune%20OST%2033%20-%20THE%20WORLD%20REVOLVING%20-%20YouTube.mp4</location>
+			<duration>101123</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Video%20with%20audio/Chapter%201/Deltarune%20OST%2030%20-%20Chaos%20King%20-%20YouTube.mp4</location>
+			<duration>106138</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
