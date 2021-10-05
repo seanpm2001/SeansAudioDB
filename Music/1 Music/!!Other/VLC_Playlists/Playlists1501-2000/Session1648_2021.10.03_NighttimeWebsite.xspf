@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Windows%20series/Windows%20XP/Windows_XP_Tour_Album/MP3/01%20Windows%20XP%20Tour%20intro.mp3</location>
+			<title>Windows XP Tour intro</title>
+			<creator>Bill Brown</creator>
+			<album>Windows XP Music by Bill Brown</album>
+			<trackNum>1</trackNum>
+			<annotation>https://archive.org/details/02-windows-xp-tour-1</annotation>
+			<duration>45662</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Windows%20series/Windows%20XP/The%20Windows%20XP%20Tour%20Music%20[Original]%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>511489</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
