@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Weezer/(No%20video)%20Weezer%20-%20Africa.webm</location>
+			<duration>243140</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/Portal%202%20OST%20-%20Adrenal%20Vapor.mp4</location>
+			<duration>156038</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/Portal%202%20OST%20-%20Hard%20Sunshine.mp4</location>
+			<duration>168042</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Thomas%20the%20Tank%20Engine%20remixes/Khia%20-%20My%20Neck,%20My%20Back%20(My%20Neck,%20My%20Track%20[Thomas%20The%20Tank%20Engine%20Remix]).webm</location>
+			<duration>168220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/bitches%20ain&#39;t%20shit.mp4</location>
+			<duration>133886</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/Salamander%20man%20theme.mp4</location>
+			<duration>76788</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/GIBE%20DE%20PUSI%20B0SS.mp4</location>
+			<duration>600607</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/Pink%20Guy%20-%20KYS.mp4</location>
+			<duration>155968</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/Vomit%20Cake%20OST.mp4</location>
+			<duration>138831</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/What%20a%20wonderful%20world%20FF%20edition.mp4</location>
+			<duration>57213</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/What%20a%20wonderful%20world/What%20a%20wonderful%20world,%20louis%20armstrong.mp4</location>
+			<duration>137625</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Wings%20to%20fly/Evangelion/Evangelion%20-%20Tsubasa%20wo%20Kudasai-7yaWcRmjlcw.webm</location>
+			<duration>299680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Japanese_Folk_Music/Cherry_Blossoms/Japanese%20Folk%20Song%20%239%20-%20Cherry%20Blossoms%20%EF%BC%88%E3%81%95%E3%81%8F%E3%82%89%E3%81%95%E3%81%8F%E3%82%89_Sakura%20Sakura%EF%BC%89-jqpFjsMtCb0.webm</location>
+			<duration>137520</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Japanese_Folk_Music/Cherry_Blossoms/Sakura%20&#39;Cherry%20Blossoms&#39;;Traditional%20Music%20of%20Japan,%20Classical%20Koto%20Music%20%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BC%9D%E7%B5%B1%E9%9F%B3%E6%A5%BD-AK51LblcEOw.webm</location>
+			<duration>238980</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+	</extension>
+</playlist>
