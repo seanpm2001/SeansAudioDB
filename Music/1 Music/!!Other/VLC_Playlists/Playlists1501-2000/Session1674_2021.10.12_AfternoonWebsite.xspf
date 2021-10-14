@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zuma%20deluxe/(No%20video)%20Danger%20(Zuma%20Deluxe).m4a</location>
+			<duration>49063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Flourish%20Windows%207/Flourish%20(Made%20Out%20Of%20Windows%207%20Sounds).mp4</location>
+			<duration>178608</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zuma%20deluxe/Mods/(No%20video)%20Zuma%20Deluxe%20(Star%20Wars).m4a</location>
+			<duration>223097</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/DiscordRemixes/(No%20video)%20Ping!.webm</location>
+			<duration>162980</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Avicii%20-%20Wake%20me%20up/(No%20video)%20Avicii%20-%20Wake%20me%20up.webm</location>
+			<duration>272460</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Mega%20Panda%20Theme/Uncut/Mega%20Panda%20-%20Nov%202010%20360iDev%20Game%20Jam-iH76Pwz1F-8.webm</location>
+			<duration>120621</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/Album/OGG/Romain%20G%20-%20Happy%20Street/Romain%20G%20-%20Happy%20Street%20-%2001%20Happy%20Street.ogg</location>
+			<title>Happy Street</title>
+			<creator>Romain G</creator>
+			<album>Happy Street</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/Album/OGG/Romain%20G%20-%20Happy%20Street/cover.jpg</image>
+			<duration>93000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Wii%20Nintendo%20Channel%20OST/Nintendo%20Channel%20(2008)%20Music%20-%20Digest%20Video.mp4</location>
+			<duration>139528</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Wii%20Nintendo%20Channel%20OST/Nintendo%20Channel%20(2008)%20Music%20-%20DS%20Download%20Service.mp4</location>
+			<duration>61601</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Wii%20Nintendo%20Channel%20OST/Nintendo%20Channel%20(2008)%20Music%20-%20Find%20Titles%20for%20You.mp4</location>
+			<duration>99543</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
