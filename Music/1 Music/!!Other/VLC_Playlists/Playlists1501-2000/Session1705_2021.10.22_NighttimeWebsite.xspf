@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/Still%20Alive%20-%20Acoustic%20Cover.mp4</location>
+			<duration>184458</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/Portal%20Soundtrack%20-%20Still%20Alive.mp4</location>
+			<duration>176540</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/Portal%20Soundtrack%20-%20Looping%20Radio%20Mix.mp4</location>
+			<duration>21780</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/Portal%20Soundtrack%20-%20Android%20Hell.mp4</location>
+			<duration>226069</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/Still%20alive%20using%20only%20Windows%2098XP%20sounds.mp4</location>
+			<duration>167415</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/Portal%20Soundtrack/01%20Subject%20Name%20Here.mp3</location>
+			<title>Subject Name Here</title>
+			<creator>Aperture Science Psychoacoustics Laboratories</creator>
+			<album>Portal</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/Portal%20Soundtrack/cover.png</image>
+			<duration>104777</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
