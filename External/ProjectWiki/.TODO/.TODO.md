@@ -11,9 +11,9 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 **Articles to write:** `102` _(this number will continue to go up over time, as more topics are found during research)_
 
-**Articles written so far:** `9` / `102` (11.33%) _Note: the homepage, footer, and sidebar are also included in this count._
+**Articles written so far:** `14` / `102` (13.73%) _Note: the homepage, footer, and sidebar are also included in this count._
 
-**Stats are as of 2021 Tuesday October 26th at 7:31 pm**
+**Stats are as of 2021 Tuesday October 26th at 8:13 pm**
 
 ## Checklist
 
@@ -24,7 +24,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [x] Footer
 
-* - [x] Sidebar
+* - [x] Sidebar (improvements needed: back link, speed-dial, logo)
 
 * - [x] Project language file info
 
@@ -90,7 +90,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Mozilla Firefox as a media player
 
-* - [ ] Why I don't listen to music online
+* - [x] Why I don't listen to music online
 
 * - [ ] Jewels (MHGames)
 
@@ -124,7 +124,7 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Album
 
-* - [ ] FFMPEG
+* - [x] FFmpeg (improvements needed: Logo, repository links, website links, better information)
 
 * - [ ] YouTube-DL
 
@@ -142,15 +142,15 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] JPG
 
-* - [ ] AceStreamPlayer (VLC ripoff)
+* - [x] AceStream MediaPlayer (VLC ripoff)
 
-* - [ ] Why I use VLC Media Player
+* - [x] Why I use VLC Media Player
 
 * - [ ] PulseAudio
 
 * - [ ] Troubleshooting Linux audio problems
 
-* - [ ] VLC Features
+* - [x] VLC Features
 
 * - [ ] Skins for VLC
 
@@ -226,9 +226,9 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 </details>
 
-**Total entries:** `102` **Completed:** `9` _(as the footer, homepage, and sidebar are counted)_
+**Total entries:** `102` **Completed:** `14` _(as the footer, homepage, and sidebar are counted)_
 
-**Current completion status (as of 2021 Tuesday, October 26th at 7:31 pm):** `11.33%`
+**Current completion status (as of 2021 Tuesday, October 26th at 8:13 pm):** `13.73%`
 
 <details>
 	<summary><p>Click/tap here to expand/collapse the total percentage estimate mathematical formula</p></summary>
@@ -358,7 +358,7 @@ Notes need to be added here
 
 **Page type:** `(supposed to be) hidden by default` `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Page version:** `1 (2021, Tuesday, October 26th at 7:31 pm)`
+**Page version:** `2 (2021, Tuesday, October 26th at 8:13 pm)`
 
 **First revision:** `1 (2021, Tuesday, October 26th at 7:31 pm)`
 
@@ -368,7 +368,7 @@ Notes need to be added here
 
 **Minority languages:** `English (US) / Markdown`
 
-**Current revision:** `1 (2021, Tuesday, October 26th at 7:31 pm)`
+**Current revision:** `2 (2021, Tuesday, October 26th at 8:13 pm)`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
