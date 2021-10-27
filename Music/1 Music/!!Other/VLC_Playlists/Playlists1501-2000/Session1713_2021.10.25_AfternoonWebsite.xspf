@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yandere%20simulator/[OLD,%20CHECK%20DESCRIPTION]%20Tsubasa%20wo%20Kudasai%20-%20Instrumental%20(Yandere%20Simulator%20Promo%20Concept)%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>243507</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yandere%20simulator/Dreams%20of%20Senpai%20-%20Yandere%20Simulator%20OST%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>73769</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yandere%20simulator/HATRED%20-%20Yandere%20Simulator%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>120349</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/World%20of%20pure%20imagination/pure%20imagination.mp4</location>
+			<duration>200039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/TMNT4%20Big%20apple%203%20am/TMNT%204%20(SNES)%20Music_%20Big%20Apple,%203%20A.M.%20Extended%20HD%20(128%20%20kbps).mp3</location>
+			<duration>900552</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Brand%20new%20key/(No%20video)%20Melanie%20-%20Brand%20new%20key.webm</location>
+			<duration>146480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
