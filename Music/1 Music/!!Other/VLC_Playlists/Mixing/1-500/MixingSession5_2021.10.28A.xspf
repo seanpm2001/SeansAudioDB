@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Pornhub%20intro/MP3/Pornhub_Intro.mp3</location>
+			<title>Pornhub_Intro.mp3</title>
+			<creator>Pornhub</creator>
+			<album>Pornhub intro music</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Pornhub/Pornhub%20intro%20music/art.jpg</image>
+			<duration>2985</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Pornhub%20intro/OGG/Pornhub_Intro.ogg</location>
+			<duration>2000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/USSR%20theme/MP3/USSR_Anthem.mp3</location>
+			<title>USSR_Anthem.mp3</title>
+			<creator>Various, Soviet Union</creator>
+			<album>Soviet Union Anthems</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/USSR theme/AlbumArt/Lowering_the_Soviet_Flag.png</image>
+			<duration>240078</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/USSR%20theme/OGG/USSR_Anthem.ogg</location>
+			<duration>224000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Brazilian%20Hotel%20Mario/MP3/Mario-cdi-qualidade-boa.mp3</location>
+			<title>Mario-cdi-qualidade-boa.mp3</title>
+			<creator>Untitled artist</creator>
+			<album>Brazilian Hotel Mario</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Downloads/BRAZIL_FLAG_EMOJI.png</image>
+			<duration>40731</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Brazilian%20Hotel%20Mario/OGG/Mario-cdi-qualidade-boa.ogg</location>
+			<duration>40000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Brazilian%20Hotel%20Mario/MP3/[Brazilian-Hotel-Mario]-brazilian-mario-scream.mp3</location>
+			<title>[Brazilian-Hotel-Mario]-brazilian-mario-scream.mp3</title>
+			<creator>Unknown Artist</creator>
+			<album>Brazilian Hotel Mario</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/sean/Downloads/vlcsnap-2021-10-28-14h41m52s501.png</image>
+			<duration>1810</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Brazilian%20Hotel%20Mario/OGG/[Brazilian-Hotel-Mario]-brazilian-mario-scream.ogg</location>
+			<duration>1000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/CityVille/MP3/CityVille_Theme_Song.mp3</location>
+			<title>CityVille_Theme_Song.mp3</title>
+			<creator>Zynga</creator>
+			<album>CityVille Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Zynga/CityVille%20Soundtrack/art.png</image>
+			<duration>98464</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/CityVille/OGG/CityVille_Theme_Song.ogg</location>
+			<duration>98000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Amazing%20Alex/MP3/Amazing_Alex_Theme_Song.mp3</location>
+			<title>Amazing_Alex_Theme_Song.mp3</title>
+			<creator>Rovio</creator>
+			<album>Amazing Alex OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Amazing%20Alex%20OST/art.jpg</image>
+			<duration>96818</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Amazing%20Alex/OGG/Amazing_Alex_Theme_Song.ogg</location>
+			<duration>96000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Riptide/MP3/Vance-Joy-Riptide.mp3</location>
+			<title>Vance-Joy-Riptide.mp3</title>
+			<creator>Vance Joy</creator>
+			<album>Riptide</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Vance%20Joy/Riptide/art.jpg</image>
+			<duration>198931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Riptide/OGG/Vance-Joy-Riptide.ogg</location>
+			<duration>199000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tchaikovsky/MP3/Tchaikovsky-1812-overture-(with-cannons).mp3</location>
+			<title>Tchaikovsky-1812-overture-(with-cannons).mp3</title>
+			<creator>Pyotr Ilyich Tchaikovsky</creator>
+			<album>1812 Overture</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Tchaikovsky/AlbumArt/Tchaikovsky.jpeg</image>
+			<duration>908030</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tchaikovsky/OGG/Tchaikovsky-1812-overture-(with-cannons).ogg</location>
+			<duration>907000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Angry%20Birds%20Friend%20theme/MP3/AngryBirdsFriends_ThemeSong.mp3</location>
+			<title>AngryBirdsFriends_ThemeSong.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Friends Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Angry Birds Friend theme/AlbumArt/AngryBirdsFriends.png</image>
+			<duration>83122</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Angry%20Birds%20Friend%20theme/OGG/AngryBirdsFriends_ThemeSong.ogg</location>
+			<duration>83000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Engineer%20Gaming/MP3/Engineer-Gaming.mp3</location>
+			<title>Engineer-Gaming.mp3</title>
+			<creator>Engineer Gaming</creator>
+			<album>Engineer Gaming</album>
+			<trackNum>1</trackNum>
+			<annotation>Engineer Gaming</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Engineer%20Gaming/Engineer%20Gaming/art.jpg</image>
+			<duration>169465</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Engineer%20Gaming/OGG/Engineer-Gaming.ogg</location>
+			<duration>169000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Crab%20Rave/MP3/Crab_Rave.mp3</location>
+			<title>Crab_Rave.mp3</title>
+			<creator>NoiseStorm</creator>
+			<album>Crab Rave</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Crab Rave/AlbumArt/CrabRaveCover.jpeg</image>
+			<duration>192236</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Crab%20Rave/OGG/Crab_Rave.ogg</location>
+			<duration>192000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Crab%20Rave/MP3/Crab_Rave_EARRAPE.mp3</location>
+			<title>Crab_Rave_EARRAPE.mp3</title>
+			<creator>NoiseStorm</creator>
+			<album>Crab Rave Remixes</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Crab Rave/AlbumArt/CrabRaveCover.jpeg</image>
+			<duration>195893</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Crab%20Rave/OGG/Crab_Rave_EARRAPE.ogg</location>
+			<duration>192000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/A-HA/MP3/Take-on-me.mp3</location>
+			<title>Take-on-me.mp3</title>
+			<creator>A-HA</creator>
+			<album>Take on Me</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/A-HA/AlbumArt/A-ha_take_on_me-1stcover.jpg</image>
+			<duration>227164</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/A-HA/OGG/Take-on-me.ogg</location>
+			<duration>227000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rickroll/MP3/Rick-Astley-Never-gonna-give-you-up.mp3</location>
+			<title>Rick-Astley-Never-gonna-give-you-up.mp3</title>
+			<creator>Rick Astley</creator>
+			<album>Never Gonna Give You Up</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rickroll/AlbumCover/RickAstleyNeverGonnaGiveYouUp7InchSingleCover.jpg</image>
+			<duration>212014</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rickroll/OGG/Rick-Astley-Never-gonna-give-you-up.ogg</location>
+			<duration>211000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Owl%20City/MP3/Owl-City-Fireflies.mp3</location>
+			<title>Owl-City-Fireflies.mp3</title>
+			<creator>Owl City</creator>
+			<album>Fireflies</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Owl City/AlbumArt/OwlCity_Fireflies.jpeg</image>
+			<duration>233825</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Owl%20City/OGG/Owl-City-Fireflies.ogg</location>
+			<duration>233000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Don&#39;t%20stop%20believing/MP3/Journey-Don&#39;t-stop-believing.mp3</location>
+			<title>Journey-Don&#39;t-stop-believing.mp3</title>
+			<creator>Journey</creator>
+			<album>Don&#39;t stop believing</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Don&#39;t stop believing/AlbumArt/Journey-Dontstopbelieving.jpeg</image>
+			<duration>250202</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Don&#39;t%20stop%20believing/OGG/Journey-Don&#39;t-stop-believing.ogg</location>
+			<duration>250000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/CallMeCarson%20Outro%20song/MP3/CallMeCarsonLIVE-Outro-Song.mp3</location>
+			<title>CallMeCarsonLIVE-Outro-Song.mp3</title>
+			<creator>CallMeCarson</creator>
+			<album>CallMeCarson Outro Theme</album>
+			<trackNum>1</trackNum>
+			<annotation>CallMeCarson, more like CallMeArson</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/CallMeCarson Outro song/AlbumArt/CallMeCarson.jpeg</image>
+			<duration>357305</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/CallMeCarson%20Outro%20song/OGG/CallMeCarsonLIVE-Outro-Song.ogg</location>
+			<duration>357000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Korn%20-%20Freak%20on%20a%20leash/MP3/Korn-Freak-on-a-leash.mp3</location>
+			<title>Korn-Freak-on-a-leash.mp3</title>
+			<creator>Korn</creator>
+			<album>Freak on a leash</album>
+			<trackNum>1</trackNum>
+			<annotation>Kornhub</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Korn - Freak on a leash/AlbumArt/Korn_FreakonaLeash.jpeg</image>
+			<duration>266215</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Korn%20-%20Freak%20on%20a%20leash/OGG/Korn-Freak-on-a-leash.ogg</location>
+			<duration>266000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Renai%20Circulation/MP3/Renai-Circulation.mp3</location>
+			<title>Renai-Circulation.mp3</title>
+			<creator>Renai</creator>
+			<album>Circulation</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Renai Circulation/AlbumArt/Renai_Circulation_AlbumCover.jpeg</image>
+			<duration>254774</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Renai%20Circulation/OGG/Renai-Circulation.ogg</location>
+			<duration>254000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Curb%20your%20enthusiasm%20theme/MP3/Curb-your-Enthusiasm-Theme.mp3</location>
+			<title>Curb-your-Enthusiasm-Theme.mp3</title>
+			<creator>Curb Your Enthusiasm</creator>
+			<album>Curb Your Enthusiasm Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Curb your enthusiasm theme/AlbumArt/CurbYourEnthusiasm.png</image>
+			<duration>67422</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Curb%20your%20enthusiasm%20theme/OGG/Curb-your-Enthusiasm-Theme.ogg</location>
+			<duration>67000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Among%20Us%20OST/MP3/AmongUs_ThemeSong.mp3</location>
+			<title>AmongUs_ThemeSong.mp3</title>
+			<creator>InnerSloth</creator>
+			<album>Among Us Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Among Us OST/AlbumArt/Amongus_Album.png</image>
+			<duration>367130</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Among%20Us%20OST/OGG/AmongUs_ThemeSong.ogg</location>
+			<duration>367000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Back%20in%20Black%20AC-DC/MP3/AC-DC_BackinBlack.mp3</location>
+			<title>AC-DC_BackinBlack.mp3</title>
+			<creator>AC-DC</creator>
+			<album>Back in Black</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Back in Black AC-DC/AlbumArt/ACDC-BACK-IN-BLACK.jpeg</image>
+			<duration>252109</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Back%20in%20Black%20AC-DC/OGG/AC-DC_BackinBlack.ogg</location>
+			<duration>252000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Breaking%20Bad%20OST/MP3/BreakingBad_ThemeSong.mp3</location>
+			<title>BreakingBad_ThemeSong.mp3</title>
+			<creator>Breaking Bad</creator>
+			<album>Breaking Bad Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Breaking Bad OST/AlbumArt/BreakingBad.jpeg</image>
+			<duration>75625</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Breaking%20Bad%20OST/OGG/BreakingBad_ThemeSong.ogg</location>
+			<duration>75000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Cowboy%20bebop%20-%20cats%20on%20mars/MP3/Cowboy-Bebop-Cats-on-Mars.mp3</location>
+			<title>Cowboy-Bebop-Cats-on-Mars.mp3</title>
+			<creator>Cowboy Bebop</creator>
+			<album>Cowboy Bebop - Cats on Mars</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Cowboy bebop - cats on mars/AlbumArt/CowboyBebop.jpeg</image>
+			<duration>181161</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Cowboy%20bebop%20-%20cats%20on%20mars/OGG/Cowboy-Bebop-Cats-on-Mars.ogg</location>
+			<duration>181000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Mr.Blue%20Sky/MP3/Mr.BlueSky.mp3</location>
+			<title>Mr.BlueSky.mp3</title>
+			<creator>ELO (Electric Light Orchestra)</creator>
+			<album>Mr. Blue Sky</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Mr.Blue Sky/AlbumArt/Mr.BlueSkyCover.jpg</image>
+			<duration>294613</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Mr.Blue%20Sky/OGG/Mr.BlueSky.ogg</location>
+			<duration>294000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Mr.Blue%20Sky/MP3/Mr.BlueSky_Animated.mp3</location>
+			<title>Mr.BlueSky_Animated.mp3</title>
+			<creator>ELO (Electric Light Orchestra)</creator>
+			<album>Mr. Blue Sky (Animated)</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/ELO%20%28Electric%20Light%20Orchestra%29/Mr.%20Blue%20Sky%20%28Animated%29/art.jpg</image>
+			<duration>222936</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Mr.Blue%20Sky/OGG/Mr.BlueSky_Animated.ogg</location>
+			<duration>222000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+	</extension>
+</playlist>
