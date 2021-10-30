@@ -10,6 +10,14 @@
 *.htm linguist-documentation=false
 *.html linguist-detectable=true
 *.html linguist-documentation=false
+*.mhtm linguist-detectable=true
+*.mhtm linguist-documentation=false
+*.mhtml linguist-detectable=true
+*.mhtml linguist-documentation=false
+*.xhtm linguist-detectable=true
+*.xhtm linguist-documentation=false
+*.xhtml linguist-detectable=true
+*.xhtml linguist-documentation=false
 # JavaScript (duplicate, as it is already detected)
 *.js linguist-detectable=true
 *.js linguist-documentation=false
@@ -59,9 +67,15 @@
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 *.md linguist-detectable=false
 *.md linguist-documentation=false
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.mdown linguist-detectable=false
+*.mdown linguist-documentation=false
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
 # End of linguist script
 # File info
-# File type: .gitattributes file (*.gitattributes)
-# File version: 1 (Wednesday, August 18th 2021 at 7:06 pm)
-# Line count (including blank lines and compiler line): 68
+# File type: gitattributes file (*.gitattributes)
+# File version: 2 (Friday, 2021 October 29th at 8:02 pm)
+# Line count (including blank lines and compiler line): 82
 # End of script
