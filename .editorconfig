@@ -13,7 +13,8 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
-[*.md]
+# Markdown document
+[*.md *.mkd *.mdown *.markdown]
 indent_style = space
 indent_size = 2
 end_of_line = lf
@@ -22,6 +23,7 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
+# YAML (YAML Ain't Markup Language)
 [*.yml *.yaml]
 indent_style = space
 indent_size = 2
@@ -31,6 +33,7 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
+# Plain Text
 [*.txt]
 indent_style = space
 indent_size = 2
@@ -40,7 +43,8 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
-[*.htm *.html]
+# HTML5 document (HyperText Markup Language 5.0)
+[*.htm *.html *.mhtm *.mhtml *.xhtm *.xhtml]
 indent_style = space
 indent_size = 2
 end_of_line = lf
@@ -49,6 +53,7 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
+# JavaScript and jQuery
 [*.js]
 indent_style = space
 indent_size = 2
@@ -58,6 +63,7 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
+# Windows INI file
 [*.ini]
 indent_style = space
 indent_size = 2
@@ -67,6 +73,7 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
+# XML document (eXtensible Markup Language)
 [*.xml]
 indent_style = space
 indent_size = 2
@@ -76,6 +83,7 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
+# VLC Playlist (XML)
 [*.xspf]
 indent_style = space
 indent_size = 2
@@ -85,6 +93,7 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
+# SubRip Text (Subtitles)
 [*.srt]
 indent_style = space
 indent_size = 2
@@ -94,6 +103,7 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
+# SVG (Scalable Vector Graphics)
 [*.svg]
 indent_style = space
 indent_size = 2
@@ -103,6 +113,7 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
+# SHell (Bourne Again SHell script)
 [*.sh]
 indent_style = space
 indent_size = 2
@@ -112,6 +123,7 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
+# JSON (JavaScript Object Notation)
 [*.json]
 indent_style = space
 indent_size = 2
@@ -124,7 +136,7 @@ line_wrap_mode = soft wrap
 # File info
 
 # File type: Editorconfig file (*.editorconfig)
-# File version: 1 (Wednesday, August 18th 2021 at 7:19 pm)
-# Line count (including blank lines and compiler line): 131
+# File version: 2 (Friday, 2021 October 29th at 8:08 pm)
+# Line count (including blank lines and compiler line): 143
 
 # End of script
