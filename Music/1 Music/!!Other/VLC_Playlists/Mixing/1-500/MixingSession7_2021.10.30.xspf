@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Nom%20Nom%20Nom/OGG/NomNomNom_30Minutes.ogg</location>
+			<duration>1800000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Nom%20Nom%20Nom/MP3/NomNomNom_30Minutes.mp3</location>
+			<title>NomNomNom_30Minutes.mp3</title>
+			<creator>Unknown</creator>
+			<album>Nom Nom Nom</album>
+			<trackNum>1</trackNum>
+			<annotation>Nom Nom Nom Nom Nom Nom Nom
+I would have chosen the GIF version of this image, but it would have problems playing, and would kind of defeat the purpose of not viewing the video version.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Nom Nom Nom/AlbumArt/NomNomNom.jpeg</image>
+			<duration>1800085</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hell/OGG/Disturbed-Hell.ogg</location>
+			<duration>252000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hell/MP3/Disturbed-Hell.mp3</location>
+			<title>Disturbed-Hell.mp3</title>
+			<creator>Disturbed</creator>
+			<album>Hell</album>
+			<trackNum>1</trackNum>
+			<annotation>Something that once scared me as a young child, the face was the scariest thing at the time, although I was brave and got past it. Ah 2009.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Hell/AlbumArt/ChildhoodHorror1.jpg</image>
+			<duration>252214</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Superman%20theme/OGG/Superman-theme.ogg</location>
+			<duration>252000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Superman%20theme/MP3/Superman-theme.mp3</location>
+			<title>Superman-theme.mp3</title>
+			<creator>DC Comics</creator>
+			<album>Superman</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the DC comic series character Superman, the classic composition version.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Superman theme/AlbumArt/Superman.jpeg</image>
+			<duration>252893</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rasputin/OGG/Rasputin.ogg</location>
+			<duration>265000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rasputin/MP3/Rasputin.mp3</location>
+			<title>Rasputin.mp3</title>
+			<creator>Boney</creator>
+			<album>Rasputin</album>
+			<trackNum>1</trackNum>
+			<annotation>Ra Ra Rasputin, lover of the Russian Queen.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rasputin/AlbumArt/Rasputin.jpeg</image>
+			<duration>265904</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/You%20are%20an%20idiot/OGG/You-are-an-idiot-virus.ogg</location>
+			<duration>29000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/You%20are%20an%20idiot/MP3/You-are-an-idiot-virus.mp3</location>
+			<title>You-are-an-idiot-virus.mp3</title>
+			<creator>Unknown</creator>
+			<album>You are an idiot malware</album>
+			<trackNum>1</trackNum>
+			<annotation>You are an idiot! Ha ha ha ha ha ha ha, ha ha ha ha ha
+You are an idiot! Ha ha ha ha ha ha ha, ha ha ha ha ha
+You are an idiot! Ha ha ha ha ha ha ha, ha ha ha ha ha
+This is the you are an idiot malware, a malicious popup that would duplicate itself with epileptic flashing while calling you an idiot.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/You are an idiot/AlbumArt/Idot.png</image>
+			<duration>30480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/You%20are%20an%20idiot/OGG/You-are-an-idiot-remix.ogg</location>
+			<duration>125000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/You%20are%20an%20idiot/MP3/You-are-an-idiot-remix.mp3</location>
+			<title>You-are-an-idiot-remix.mp3</title>
+			<creator>Unknown</creator>
+			<album>You are an idiot malware (remix)</album>
+			<trackNum>2</trackNum>
+			<annotation>A fancy remix of the malware, although it is in Chinese, so I can&#39;t understand what is being said.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/You are an idiot/AlbumArt/Idot.png</image>
+			<duration>125571</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tunak%20Tunak%20Tun/OGG/Daler-Mehndi_Tunak-Tunak-Tun.ogg</location>
+			<duration>256000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tunak%20Tunak%20Tun/MP3/Daler-Mehndi_Tunak-Tunak-Tun.mp3</location>
+			<title>Daler-Mehndi_Tunak-Tunak-Tun.mp3</title>
+			<creator>Daler Mehndi</creator>
+			<album>Tunak Tunak Tun</album>
+			<trackNum>1</trackNum>
+			<annotation>A lot of people think of the music video rather than the song, as the music video was pretty good (CGI) for Indian technology at the time (1998) but has become laughable to many. I personally like the song as well.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Tunak Tunak Tun/AlbumArt/TunakTunakTun.jpeg</image>
+			<duration>256369</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/We&#39;ll%20meet%20again/OGG/We&#39;ll-meet-again.ogg</location>
+			<duration>182000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/We&#39;ll%20meet%20again/MP3/We&#39;ll-meet-again.mp3</location>
+			<title>We&#39;ll-meet-again.mp3</title>
+			<creator>Vera Lynn</creator>
+			<album>The very best of Vera Lynn</album>
+			<trackNum>1</trackNum>
+			<annotation>This is the oldest song in my collection that is in its original digital format. All songs in my collection prior to this (as of 2021 October 30th) are remasters made from the original composition notes. I originally thought it was from 1940, I was 1 year off.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/We&#39;ll meet again/AlbumArt/We&#39;llMeetAgain.jpeg</image>
+			<duration>182572</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pink%20Panther%20theme/OGG/Pink-Panther-Theme.ogg</location>
+			<duration>158000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pink%20Panther%20theme/MP3/Pink-Panther-Theme.mp3</location>
+			<title>Pink-Panther-Theme.mp3</title>
+			<creator>David H. DePatie, Friz Freleng</creator>
+			<album>Pink Panther Theme</album>
+			<trackNum>1</trackNum>
+			<annotation>The original Pink Panther theme song.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Pink Panther theme/AlbumArt/PinkPanther.jpeg</image>
+			<duration>158198</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Scatman%20John/OGG/Scatman_ski_ba_bop_ba_dop_bop.ogg</location>
+			<duration>210000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Scatman%20John/MP3/Scatman_ski_ba_bop_ba_dop_bop.mp3</location>
+			<title>Scatman_ski_ba_bop_ba_dop_bop.mp3</title>
+			<creator>&quot;Scatman&quot; John</creator>
+			<album>Scatman</album>
+			<trackNum>1</trackNum>
+			<annotation>The song was originally released in 1994, but was re-released in 1995 for his album &quot;Scatmans world&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Scatman John/AlbumArt/Scatman.jpeg</image>
+			<duration>210914</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Scatmans%20World/OGG/Scatmans_World.ogg</location>
+			<duration>270000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Scatmans%20World/MP3/Scatmans_World.mp3</location>
+			<title>Scatmans_World.mp3</title>
+			<creator>&quot;Scatman&quot; John</creator>
+			<album>Scatmans World</album>
+			<trackNum>1</trackNum>
+			<annotation>Not to be confused with the album of the same name.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Scatmans World/AlbumArt/ScatmansWorld.jpeg</image>
+			<duration>270110</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/CaramelDansen/OGG/caramelldansen.ogg</location>
+			<duration>176000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/CaramelDansen/MP3/caramelldansen.mp3</location>
+			<title>caramelldansen.mp3</title>
+			<creator>Caramell</creator>
+			<album>SuperGott</album>
+			<trackNum>1</trackNum>
+			<annotation>I originally spelled this song wrong, there is 2 l&#39;s not 1. I spelled it Carameldansen, when it should have been Caramelldansen
+Despite the song originating in Sweden, the art style imitates the style of Japanese Anime.
+This song became an Internet meme in the mid 2000s.
+</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/CaramelDansen/AlbumArt/Caramelldansen.jpeg</image>
+			<duration>176851</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stupid%20Zombies%20theme/OGG/Stupid-Zombies-Theme.ogg</location>
+			<duration>98000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stupid%20Zombies%20theme/MP3/Stupid-zombies-theme.mp3</location>
+			<title>Stupid-zombies-theme.mp3</title>
+			<creator>Game Resort</creator>
+			<album>Stupid Zombies Theme</album>
+			<trackNum>1</trackNum>
+			<annotation>I am unable to find the release year.
+The second game has the exact same song, but the third doesn&#39;t.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Stupid Zombies theme/AlbumArt/StupidZombies1.png</image>
+			<duration>98482</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stupid%20Zombies%202%20theme/OGG/Stupid-Zombies-Theme.ogg</location>
+			<duration>98000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stupid%20Zombies%202%20theme/MP3/Stupid-zombies-theme.mp3</location>
+			<title>Stupid-zombies-theme.mp3</title>
+			<creator>Game Resort</creator>
+			<album>Stupid Zombies 2 Theme</album>
+			<trackNum>1</trackNum>
+			<annotation>I am unable to find the release year.
+The first game has the exact same song, but the third doesn&#39;t.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Stupid Zombies 2 theme/AlbumArt/StupidZombies2.jpeg</image>
+			<duration>98490</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stupid%20Zombies%203%20theme/OGG/Stupid-Zombies-3-theme.ogg</location>
+			<duration>139000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stupid%20Zombies%203%20theme/MP3/Stupid-zombies-3-theme.mp3</location>
+			<title>Stupid-zombies-3-theme.mp3</title>
+			<creator>Game Resort</creator>
+			<album>Stupid Zombies 3 theme</album>
+			<trackNum>1</trackNum>
+			<annotation>Cannot find the release date for this song/this game.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Stupid Zombies 3 theme/AlbumArt/StupidZombies3.jpeg</image>
+			<duration>142915</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+	</extension>
+</playlist>
