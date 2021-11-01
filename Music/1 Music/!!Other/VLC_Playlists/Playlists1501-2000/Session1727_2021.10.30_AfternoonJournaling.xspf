@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20Cafe%20OST/MP3/Zombie_Cafe_Theme.mp3</location>
+			<title>Zombie_Cafe_Theme.mp3</title>
+			<creator>Beeline Games</creator>
+			<album>Zombie Cafe Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Beeline%20Games/Zombie%20Cafe%20Soundtrack/art.jpg</image>
+			<duration>66359</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stupid%20Zombies%20theme/MP3/Stupid-zombies-theme.mp3</location>
+			<title>Stupid-zombies-theme.mp3</title>
+			<creator>Game Resort</creator>
+			<album>Stupid Zombies Theme</album>
+			<trackNum>1</trackNum>
+			<annotation>I am unable to find the release year.
+The second game has the exact same song, but the third doesn&#39;t.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Game%20Resort/Stupid%20Zombies%20Theme/art.png</image>
+			<duration>98490</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Scatman%20John/MP3/Scatman_ski_ba_bop_ba_dop_bop.mp3</location>
+			<title>Scatman_ski_ba_bop_ba_dop_bop.mp3</title>
+			<creator>&quot;Scatman&quot; John</creator>
+			<album>Scatman</album>
+			<trackNum>1</trackNum>
+			<annotation>The song was originally released in 1994, but was re-released in 1995 for his album &quot;Scatmans world&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/_Scatman_%20John/Scatman/art.jpg</image>
+			<duration>210922</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Scatmans%20World/MP3/Scatmans_World.mp3</location>
+			<title>Scatmans_World.mp3</title>
+			<creator>&quot;Scatman&quot; John</creator>
+			<album>Scatmans World</album>
+			<trackNum>1</trackNum>
+			<annotation>Not to be confused with the album of the same name.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/_Scatman_%20John/Scatmans%20World/art.jpg</image>
+			<duration>270116</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Owl%20City/MP3/Owl-City-Fireflies.mp3</location>
+			<title>Owl-City-Fireflies.mp3</title>
+			<creator>Owl City</creator>
+			<album>Fireflies</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Owl%20City/Fireflies/art.jpg</image>
+			<duration>233831</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Pocket%20Gems%20series/Pet%20Hotel%20OST/MP3/Pet_Hotel_Main_Theme.mp3</location>
+			<title>Pet_Hotel_Main_Theme.mp3</title>
+			<creator>Pocket Gems</creator>
+			<album>Tap Pet Hotel OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Pocket%20Gems/Tap%20Pet%20Hotel%20OST/art.jpg</image>
+			<duration>110559</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/heman/MP3/Heyayayayayay.mp3</location>
+			<title>Heyayayayayay.mp3</title>
+			<creator>Heman</creator>
+			<album>Heman Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>This video got over 100 million more views than the original.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Heman/Heman%20Soundtrack/art.jpg</image>
+			<duration>126886</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tchaikovsky/MP3/Tchaikovsky-1812-overture-(with-cannons).mp3</location>
+			<title>Tchaikovsky-1812-overture-(with-cannons).mp3</title>
+			<creator>Pyotr Ilyich Tchaikovsky</creator>
+			<album>1812 Overture</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Pyotr%20Ilyich%20Tchaikovsky/1812%20Overture/art.jpg</image>
+			<duration>908024</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
