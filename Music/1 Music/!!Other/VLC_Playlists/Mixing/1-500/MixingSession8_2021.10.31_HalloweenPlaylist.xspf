@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Schtiffles/MP3/Ghost-house-Schtiffles-good-version.mp3</location>
+			<title>Ghost-house-Schtiffles-good-version.mp3</title>
+			<creator>Schtiffles (via Newgrounds)</creator>
+			<album>Ghost House</album>
+			<trackNum>1</trackNum>
+			<annotation>A cool song from Newgrounds that is commonly used on some YouTube videos due to it being royalty-free.
+The album art is a fanart piece of the ghost from Undertale (which is named Napstablook)</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Schtiffles/AlbumArt/LowQuality_SchtifflesGhostHouse_Cropped.jpg</image>
+			<duration>213056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Schtiffles/OGG/Ghost-house-schtiffles-good-version.ogg</location>
+			<duration>213000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Schtiffles/MP3/Ghost-house-Schtiffles-with-vocals.mp3</location>
+			<title>Ghost-house-Schtiffles-with-vocals.mp3</title>
+			<creator>Schtiffles (via Newgrounds)</creator>
+			<album>Ghost House</album>
+			<trackNum>2</trackNum>
+			<annotation>This is the original version with vocals. I like the vocal-free version better.
+Again, the image is fanart of Napstablook from Undertale.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Schtiffles/AlbumArt/LowQuality_SchtifflesGhostHouse.jpg</image>
+			<duration>214336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Schtiffles/OGG/Ghost-house-schtiffles-with-vocals.ogg</location>
+			<duration>214000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Monster%20mash/MP3/Monster_Mash.mp3</location>
+			<title>Monster_Mash.mp3</title>
+			<creator>Bobby &quot;Boris&quot; Pickett</creator>
+			<album>Monster Mash</album>
+			<trackNum>1</trackNum>
+			<annotation>They did the mash! They did the monster mash.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Monster mash/AlbumArt/MonsterMashGraveyardSmash.jpeg</image>
+			<duration>263237</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Monster%20mash/OGG/Monster_Mash.ogg</location>
+			<duration>263000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Spooky%20Scary%20Skeletons/MP3/It-Must-Be-Halloween.mp3</location>
+			<title>It-Must-Be-Halloween.mp3</title>
+			<creator>Andrew Gold</creator>
+			<album>It must be Halloween</album>
+			<trackNum>1</trackNum>
+			<annotation>I am unable to determine the genre.
+This might have to be moved to a different folder.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Spooky Scary Skeletons/AlbumArt/SpookyScarySkeletons.jpeg</image>
+			<duration>114234</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Spooky%20Scary%20Skeletons/OGG/It-Must-Be-Halloween.ogg</location>
+			<duration>114000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Spooky%20Scary%20Skeletons/MP3/Spooky-Scary-Bandicoots.mp3</location>
+			<title>Spooky-Scary-Bandicoots.mp3</title>
+			<creator>Unknown</creator>
+			<album>Spooky Scary Skeletons (remixes)</album>
+			<trackNum>1</trackNum>
+			<annotation>A remix of Spooky Scary Skeletons containing the Crash Bandicoot &quot;Woah&quot; meme.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Spooky Scary Skeletons/AlbumArt/SpookyScarySkeletons.jpeg</image>
+			<duration>37851</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Spooky%20Scary%20Skeletons/OGG/Spooky-Scary-Bandicoots.ogg</location>
+			<duration>37000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Spooky%20Scary%20Skeletons/MP3/Spooky-Scary-Skeleton-Dance-Remix.mp3</location>
+			<title>Spooky-Scary-Skeleton-Dance-Remix.mp3</title>
+			<creator>Unknown</creator>
+			<album>Spooky Scary Skeletons (remixes)</album>
+			<trackNum>1</trackNum>
+			<annotation>A dance remix of the Spooky Scary Skeletons song.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Spooky Scary Skeletons/AlbumArt/SpookyScarySkeletons.jpeg</image>
+			<duration>60082</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Spooky%20Scary%20Skeletons/OGG/Spooky-Scary-Skeleton-Dance-Remix.ogg</location>
+			<duration>60000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Spooky%20Scary%20Skeletons/MP3/Spooky-Scary-Skeletons-(full).mp3</location>
+			<title>Spooky-Scary-Skeletons-(full).mp3</title>
+			<creator>Andrew Gold</creator>
+			<album>Halloween Howls</album>
+			<trackNum>1</trackNum>
+			<annotation>The full version of the Spooky Scary Skeletons video.
+Despite its looks, it was actually produced in 1996, at least 30 years later than I originally thought. They did a pretty good job on making it look old.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Spooky Scary Skeletons/AlbumArt/SpookyScarySkeletons.jpeg</image>
+			<duration>255845</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Spooky%20Scary%20Skeletons/OGG/Spooky-Scary-Skeletons-(full).ogg</location>
+			<duration>255000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Spooky%20Scary%20Skeletons/MP3/Spooky-Scary-Skeletons-Original-Song+Video.mp3</location>
+			<title>Spooky-Scary-Skeletons-Original-Song+Video.mp3</title>
+			<creator>Andrew Gold</creator>
+			<album>Halloween Howls</album>
+			<trackNum>1</trackNum>
+			<annotation>A shorter version of the Spooky Scary Skeletons music video.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Spooky Scary Skeletons/AlbumArt/SpookyScarySkeletons.jpeg</image>
+			<duration>172487</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Spooky%20Scary%20Skeletons/OGG/Spooky-Scary-Skeletons-Original-Song+Video.ogg</location>
+			<duration>172000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Goosebumps%20theme/MP3/Goosebumps-(Theme-Song).mp3</location>
+			<title>Goosebumps-(Theme-Song).mp3</title>
+			<creator>R.L. Stine</creator>
+			<album>Goosebumps</album>
+			<trackNum>1</trackNum>
+			<annotation>The Goosebumps theme song.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Goosebumps theme/AlbumArt/Goosebumps.jpeg</image>
+			<duration>68624</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Goosebumps%20theme/OGG/Goosebumps-(Theme-Song).ogg</location>
+			<duration>68000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Halloween%20(1978)%20OST/MP3/Halloween-1978-Main-Theme-(Piano).mp3</location>
+			<title>Halloween-1978-Main-Theme-(Piano).mp3</title>
+			<creator>John Carpenter</creator>
+			<album>Halloween (1978) (movie)</album>
+			<trackNum>1</trackNum>
+			<annotation>A piano version of the theme song from the 1978 movie called &quot;Halloween&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Halloween (1978) OST/AlbumArt/Halloween1978.jpeg</image>
+			<duration>353178</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Halloween%20(1978)%20OST/OGG/Halloween-1978-Main-Theme-(Piano).ogg</location>
+			<duration>353000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Halloween%20(1978)%20OST/MP3/Halloween-1978-ThemeMusic.mp3</location>
+			<title>Halloween-1978-ThemeMusic.mp3</title>
+			<creator>John Carpenter</creator>
+			<album>Halloween (1978)</album>
+			<trackNum>1</trackNum>
+			<annotation>The original theme song from the 1978 movie &quot;Halloween&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Halloween (1978) OST/AlbumArt/Halloween1978.jpeg</image>
+			<duration>175491</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Halloween%20(1978)%20OST/OGG/Halloween-1978-ThemeMusic.ogg</location>
+			<duration>175000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ghost%20busters%20theme/MP3/Ghost-busters-theme.mp3</location>
+			<title>Ghost-busters-theme.mp3</title>
+			<creator>Elmer Bernstein</creator>
+			<album>Goosebumps (1984 movie)</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song from the 1984 movie Ghost Busters.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Ghost busters theme/AlbumArt/GhostBusters.jpeg</image>
+			<duration>243828</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ghost%20busters%20theme/OGG/Ghost-busters-theme.ogg</location>
+			<duration>243000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Highway%20to%20Hell/MP3/AC-DC-Highway-to-hell.mp3</location>
+			<title>AC-DC-Highway-to-hell.mp3</title>
+			<creator>AC-DC</creator>
+			<album>Highway to Hell</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Highway to hell&quot; from AC-DC.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Highway to Hell/AlbumArt/AC-DC-HighwayToHell.jpeg</image>
+			<duration>208667</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Highway%20to%20Hell/OGG/AC-DC-Highway-to-hell.ogg</location>
+			<duration>208000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Sound%20System%20009/MP3/sound-system-009-dreamscape.mp3</location>
+			<title>sound-system-009-dreamscape.mp3</title>
+			<creator>Alexander Perls</creator>
+			<album>009 Sound System</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song of YouTube (2007 onward) due to AudioSwap. Wikipedia results aren&#39;t adding up, as the songs mentioned came out in 2009, but the feature was introduced in 20079. I am really confused.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Sound System 009/AlbumArt/SoundSystem009_Dreamscape.jpeg</image>
+			<duration>519266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Sound%20System%20009/OGG/sound-system-009-dreamscape.ogg</location>
+			<duration>519000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tycho/MP3/Tycho-dive-(full-album).mp3</location>
+			<title>Tycho-dive-(full-album).mp3</title>
+			<creator>Scott Hansen</creator>
+			<album>Dive</album>
+			<trackNum>1</trackNum>
+			<annotation>The full album &quot;Dive&quot; by the Tycho project. Released on 2011, November 8th. The second studio album by Tycho. Taking around five years to produce and write, Dive, according to Hansen, is a set of &quot;artifacts from a future which might have more in common with our past than our present.&quot; It is an electronica record with a sound and style that was compared to the works of Scottish group Boards of Canada by multiple professional music journalists. Dive was released on November 8, 2011 by the label Ghostly International to mostly positive reviews from critics, and it landed on Billboard&#39;s United States Top Dance/Electronic Albums and Top Heatseekers Albums charts. Source: Wikipedia/Tycho (page was last edited on 22 October 2021, at 09:11 (UTC))</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Scott%20Hansen/Dive/art.jpg</image>
+			<duration>3042717</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tycho/OGG/Tycho-dive-(full-album).ogg</location>
+			<duration>3042000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+	</extension>
+</playlist>
