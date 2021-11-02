@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Schtiffles/MP3/Ghost-house-Schtiffles-good-version.mp3</location>
+			<title>Ghost-house-Schtiffles-good-version.mp3</title>
+			<creator>Schtiffles (via Newgrounds)</creator>
+			<album>Ghost House</album>
+			<trackNum>1</trackNum>
+			<annotation>A cool song from Newgrounds that is commonly used on some YouTube videos due to it being royalty-free.
+The album art is a fanart piece of the ghost from Undertale (which is named Napstablook)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Schtiffles%20%28via%20Newgrounds%29/Ghost%20House/art.jpg</image>
+			<duration>213066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2010%20Ghost%20Fight.ogg</location>
+			<title>Ghost Fight</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>10</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>56000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2036%20Dummy!.ogg</location>
+			<title>Dummy!</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>36</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>145000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2042%20Thundersnail.ogg</location>
+			<title>Thundersnail</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>42</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>42000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2021%20Dogsong.ogg</location>
+			<title>Dogsong</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>21</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>37000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2014%20Heartache.ogg</location>
+			<title>Heartache</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>14</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>108000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hyuman/Japantale/KOKOROACHE%20480p.mp4</location>
+			<duration>273810</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hyuman/Japantale/Japantale%20-%20His%20Theme%20-%20480p.mp4</location>
+			<duration>195349</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hyuman/Japantale/JAPANLOVANIA%202%20-%20480p.mp4</location>
+			<duration>170225</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
