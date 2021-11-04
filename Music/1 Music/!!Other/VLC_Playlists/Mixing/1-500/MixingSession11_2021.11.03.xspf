@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/It%20is%20wednesday%20my%20dudes/MP3/It-is-Wednesday-My-Dudes-Vine.mp3</location>
+			<title>It-is-Wednesday-My-Dudes-Vine.mp3</title>
+			<creator>JimmyHere</creator>
+			<album>It is Wednesday my Dudes</album>
+			<trackNum>1</trackNum>
+			<annotation>It is Wednesday my dudes</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/JimmyHere/It%20is%20Wednesday%20my%20Dudes/art.jpg</image>
+			<duration>5911</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/It%20is%20wednesday%20my%20dudes/OGG/It-is-Wednesday-my-dudes-Vine.ogg</location>
+			<duration>5000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ronald%20McDonald%20insanity/MP3/Ronald-McDonald-insanity.mp3</location>
+			<title>Ronald-McDonald-insanity.mp3</title>
+			<creator>McDonald&#39;s Japan</creator>
+			<album>Ronald McDonald Insanity</album>
+			<trackNum>1</trackNum>
+			<annotation>Ronald McDonald goes completely insane in Japan between 2004 and 2007</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Ronald McDonald insanity/AlbumArt/RonaldMcDonaldInsanity.jpeg</image>
+			<duration>318333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ronald%20McDonald%20insanity/OGG/Ronald-McDonald-insanity.ogg</location>
+			<duration>318000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dame%20Tu%20Cosita%20(Extreme%20torture)/MP3/El-Chombo_Dame-Tu-Cosita.mp3</location>
+			<title>El-Chombo_Dame-Tu-Cosita.mp3</title>
+			<creator>El Chombo</creator>
+			<album>Dame Tu Cosita</album>
+			<trackNum>1</trackNum>
+			<annotation>I hate this song.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Dame Tu Cosita (Extreme torture)/AlbumArt/DameTuCosita.jpeg</image>
+			<duration>156508</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dame%20Tu%20Cosita%20(Extreme%20torture)/OGG/El-Chombo_Dame-Tu-Cosita.ogg</location>
+			<duration>151000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Baby%20Shark%20(Torture)/MP3/Baby-Shark-Pink-thong.mp3</location>
+			<title>Baby-Shark-Pink-thong.mp3</title>
+			<creator>Pink Fong</creator>
+			<album>Baby Shark</album>
+			<trackNum>1</trackNum>
+			<annotation>Very annoying song. Also, why would you name your company Pink Fong (Pink Thong, or Pink underwear) when your target audience is babies/infants/very young children</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Baby Shark (Torture)/AlbumArt/BabyShark.jpeg</image>
+			<duration>135916</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Baby%20Shark%20(Torture)/OGG/Baby-Shark-Pink%20thong.ogg</location>
+			<duration>135000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bach/MP3/The-Best-of-Bach.mp3</location>
+			<title>The-Best-of-Bach.mp3</title>
+			<creator>Johann Sebastian Bach</creator>
+			<album>The best of Bach</album>
+			<trackNum>1</trackNum>
+			<annotation>The best works of Bach, nearly 2 hours long.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Bach/AlbumArt/Bach.png</image>
+			<duration>6680764</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bach/OGG/The-Best-of-Bach.ogg</location>
+			<duration>6680000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Homebrew%20Channel%20OST/MP3/The-Homebrew-Channel-theme.mp3</location>
+			<title>The-Homebrew-Channel-theme.mp3</title>
+			<creator>Homebrew Community</creator>
+			<album>The Homebrew Channel theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the Homebrew channel on the Nintendo Wii once it has been bluebombed with a blueletter.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Homebrew Channel OST/AlbumArt/TheHomebrewChannel_Cropped.jpeg</image>
+			<duration>90701</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Homebrew%20Channel%20OST/OGG/The-Homebrew-channel-theme.ogg</location>
+			<duration>88000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Chandellier/MP3/Sia-Chandelier-(Official-Video).mp3</location>
+			<title>Sia-Chandelier-(Official-Video).mp3</title>
+			<creator>Sia</creator>
+			<album>Chandelier</album>
+			<trackNum>1</trackNum>
+			<annotation>The 2014 song &quot;chandelier&quot; by the artist &quot;Sia&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Chandellier/AlbumArt/Sia_Chandelier.jpeg</image>
+			<duration>231316</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Chandellier/OGG/Sia-Chandelier-(Official-Video).ogg</location>
+			<duration>231000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Gay%20Putin/MP3/Vladimir-Putin-I-am-gay-gay-gay-(5-min-original).mp3</location>
+			<title>Vladimir-Putin-I-am-gay-gay-gay-(5-min-original).mp3</title>
+			<creator>Vladimir Putin</creator>
+			<album>Super Gay Putin (extended)</album>
+			<trackNum>1</trackNum>
+			<annotation>A funny meme about Putin that is going to get the KGB to come after me.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Super Gay Putin/AlbumArt/SuperGayPutin.jpeg</image>
+			<duration>303205</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Gay%20Putin/OGG/Vladimir-Putin-I-am-gay-gay-gay-(5-min-original).ogg</location>
+			<duration>303000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/RussianPartyInKamaz/MP3/KAMAZ.mp3</location>
+			<title>KAMAZ.mp3</title>
+			<creator>Unknown Artist</creator>
+			<album>Russian Party in KAMAZ</album>
+			<trackNum>1</trackNum>
+			<annotation>Absolute hardbass, Russian party in KAMAZ.
+Note: KAMAZ is not a city in Russia or anywhere in the world.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/RussianPartyInKamaz/AlbumArt/RussianPartyInKamaz.jpeg</image>
+			<duration>65410</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/RussianPartyInKamaz/OGG/KAMAZ.ogg</location>
+			<duration>65000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/The%20internet%20series%20of%20tubes/MP3/Series-of-Tubes-Music-Video.mp3</location>
+			<title>Series-of-Tubes-Music-Video.mp3</title>
+			<creator>Senator Ted Stevens</creator>
+			<album>The Internet is a series of tubes (remix)</album>
+			<trackNum>1</trackNum>
+			<annotation>A crazy video regarding Senator Ted Stevens showing off his knowledge of the Internet and why it is a series of tubes. It is mostly made fun of, he sounds crazy in this.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/The internet series of tubes/AlbumArt/TheInternetSeriesofTUbes.jpeg</image>
+			<duration>128471</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/The%20internet%20series%20of%20tubes/OGG/Series-of-Tubes-Music-Video.ogg</location>
+			<duration>128000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Spinning%20toilet%20meme/MP3/Polish-Spinning-Toilet.mp3</location>
+			<title>Polish-Spinning-Toilet.mp3</title>
+			<creator>Basshunter Dota</creator>
+			<album>Polish Spinning Toilet</album>
+			<trackNum>1</trackNum>
+			<annotation>The current set year is incorrect.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Spinning toilet meme/AlbumArt/PolishSpinningToilet.jpeg</image>
+			<duration>118988</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Spinning%20toilet%20meme/OGG/Polish-Spinning-Toilet.ogg</location>
+			<duration>118000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/The%20final%20countdown/MP3/Europe_The-final-countdown.mp3</location>
+			<title>Europe_The-final-countdown.mp3</title>
+			<creator>Europe</creator>
+			<album>The Final Countdown</album>
+			<trackNum>1</trackNum>
+			<annotation>The bands name is Europe, who are from Europe, but are not/are Europe. Not to be confused with the European continent, or the European Union.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/The final countdown/AlbumArt/Europe-TheFinalCountdown.jpeg</image>
+			<duration>295656</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/The%20final%20countdown/OGG/Europe_The-Final-Countdown.ogg</location>
+			<duration>295000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/What%20are%20you%20doing%20in%20my%20swamp%20remix/MP3/What-Are-You-Doing-In-My-Swamp-Remix.mp3</location>
+			<title>What-Are-You-Doing-In-My-Swamp-Remix.mp3</title>
+			<creator>Dreamworks Animation</creator>
+			<album>Shrek remixes</album>
+			<trackNum>1</trackNum>
+			<annotation>WHAT ARE YOU DOING IN MY SWAMP?!?!?!?</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/What are you doing in my swamp remix/AlbumArt/WhatAreYouDoingInMySwamp.jpeg</image>
+			<duration>110812</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/What%20are%20you%20doing%20in%20my%20swamp%20remix/OGG/What-Are-You-Doing-In-My-Swamp-Remix.ogg</location>
+			<duration>110000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Under%20the%20sea/MP3/Under-the-Sea.mp3</location>
+			<title>Under-the-Sea.mp3</title>
+			<creator>Disney</creator>
+			<album>The Little Mermaid (1989) soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>Hardly ever played. Also, I used a stock image of the ocean rather than the movie cover. This looks better anyways.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Under the sea/AlbumArt/UnderTheSea.jpeg</image>
+			<duration>190148</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Under%20the%20sea/OGG/Under-the-Sea.ogg</location>
+			<duration>190000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Weezer%20-%20Beverly%20Hills/MP3/Weezer_Beverly_Hills.mp3</location>
+			<title>Weezer_Beverly_Hills.mp3</title>
+			<creator>Weezer</creator>
+			<album>Beverly Hills</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Beverly hills by the artist Weezer.9</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Weezer - Beverly Hills/AlbumArt/Weezer_BeverlyHills.jpeg</image>
+			<duration>242183</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Weezer%20-%20Beverly%20Hills/OGG/Weezer_Beverly_Hills.ogg</location>
+			<duration>242000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Weezer/MP3/Weezer-Africa.mp3</location>
+			<title>Weezer-Africa.mp3</title>
+			<creator>Weezer</creator>
+			<album>Toto - Africa (Cover by Weezer)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Toto - Africa, covered by the band Weezer. The video features &quot;Weird&quot; Al Yankovic, which makes this song way better, as everything is better with Weird Al.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Weezer/AlbumArt/Weezer-Africa.jpeg</image>
+			<duration>243097</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Weezer/OGG/Weezer-Africa.ogg</location>
+			<duration>243000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Weezer/MP3/Weezer-Take-on-me.mp3</location>
+			<title>Weezer-Take-on-me.mp3</title>
+			<creator>Weezer</creator>
+			<album>Take on Me --- Weezer Teal Album</album>
+			<trackNum>1</trackNum>
+			<annotation>A cover of AHA - Take on me by Weezer.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Weezer/AlbumArt/Weezer_Teal_Album.jpg</image>
+			<duration>305034</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Weezer/OGG/Weezer-Take-on-me.ogg</location>
+			<duration>304000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Sigur%20Ros%20-%20Svefn-g-englar/MP3/Sigur-Ros_-_Svefn-g-englar.mp3</location>
+			<title>Sigur-Ros_-_Svefn-g-englar.mp3</title>
+			<creator>Sigur Ros</creator>
+			<album>Svefn-g-englar</album>
+			<trackNum>1</trackNum>
+			<annotation>The icelandic song Svefn-g-englar by Sigur Ros.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Sigur Ros - Svefn-g-englar/AlbumArt/Sigur_Ros_-_Svefn-g-englar.jpeg</image>
+			<duration>604117</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Sigur%20Ros%20-%20Svefn-g-englar/OGG/Sigur-Ros_-_Svefn-g-englar.ogg</location>
+			<duration>604000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yes%20-%20Roundabout/MP3/Roundabout-(2008-Remastered-Version).mp3</location>
+			<title>Roundabout-(2008-Remastered-Version).mp3</title>
+			<creator>Yes</creator>
+			<album>Roundabout (2008 remaster)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Roundabout&quot; by the band &quot;yes&quot; remastered in 2008.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Yes - Roundabout/AlbumArt/Yes-Roundabout.jpeg</image>
+			<duration>515948</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yes%20-%20Roundabout/OGG/Roundabout-(2008-Remastered-Version).ogg</location>
+			<duration>515000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yes%20-%20Roundabout/MP3/To-be-continued.mp3</location>
+			<title>To-be-continued.mp3</title>
+			<creator>Yes</creator>
+			<album>To be continued meme</album>
+			<trackNum>1</trackNum>
+			<annotation>The shortened version of the song &quot;Roundabout&quot; by the band &quot;yes&quot; that is used in the &quot;to be continued&quot; meme. This song would play as something crazy was being paused, following the text &quot;to be continued&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Yes - Roundabout/AlbumArt/Yes-Roundabout.jpeg</image>
+			<duration>58070</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yes%20-%20Roundabout/OGG/To-be-continued.ogg</location>
+			<duration>58000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yes%20-%20Roundabout/MP3/JoJo-to-be-continued-8%20bit-(YES-Roundabout).mp3</location>
+			<title>JoJo-to-be-continued-8 bit-(YES-Roundabout).mp3</title>
+			<creator>Yes</creator>
+			<album>To be continued (meme)</album>
+			<trackNum>1</trackNum>
+			<annotation>An 8 bit remix of the To Be Continued theme, covering the JoJos Bizzare Adventures Anime series.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Yes - Roundabout/AlbumArt/Yes-Roundabout.jpeg</image>
+			<duration>156526</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yes%20-%20Roundabout/OGG/JoJo-to-be-continued-8%20bit-(YES-Roundabout).ogg</location>
+			<duration>156000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+	</extension>
+</playlist>
