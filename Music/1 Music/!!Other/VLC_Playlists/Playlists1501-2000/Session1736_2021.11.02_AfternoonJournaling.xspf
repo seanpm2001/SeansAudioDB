@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20Life%20Theme%20Song/MP3/ZombieLifeOST-LowQuality.mp3</location>
+			<title>ZombieLifeOST-LowQuality.mp3</title>
+			<creator>The Play Forge</creator>
+			<album>Zombie Life soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>A low quality version of the Zombie Life soundtrack. By Low Quality, I mean tons of video splicing and editing is needed to separate the music from the sound effects.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Play%20Forge/Zombie%20Life%20soundtrack/art.jpg</image>
+			<duration>318469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Fred%20V/MP3/Fred-V_MajorHappy.mp3</location>
+			<title>Fred-V_MajorHappy.mp3</title>
+			<creator>Fred V</creator>
+			<album>Major Happy</album>
+			<trackNum>1</trackNum>
+			<annotation>Fred V &amp; Grafix - Major Happy.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Fred%20V/Major%20Happy/art.jpg</image>
+			<duration>300940</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Chandellier/Sia%20-%20Chandelier%20(Official%20Video).mp4</location>
+			<duration>231364</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20Farm%20Escape%20theme%20song/MP3/Zombie-Farm-Escape-Full-OST-LowQuality.mp3</location>
+			<title>Zombie-Farm-Escape-Full-OST-LowQuality.mp3</title>
+			<creator>The Play Forge</creator>
+			<album>Zombie Farm Escape soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>A low quality version of the Zombie Farm escape soundtrack. By low quality, I mean it is going to require a LOT of splicing and editing to separate the sound effects from the music. At least all of it is here.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Play%20Forge/Zombie%20Farm%20Escape%20soundtrack/art.jpg</image>
+			<duration>197756</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
