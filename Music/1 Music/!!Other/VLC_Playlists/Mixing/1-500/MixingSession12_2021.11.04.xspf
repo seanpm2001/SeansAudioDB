@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hava-Nagila/MP3/Hava-Nagila.mp3</location>
+			<title>Hava-Nagila.mp3</title>
+			<creator>Idelsohn or Nathanson (disputed)</creator>
+			<album>Hava Nagila</album>
+			<trackNum>1</trackNum>
+			<annotation>The Jewish folk song Hava Nagila. Its original creator is commonly disputed, it was either composed by Idelsohn or Nathanson. It was composed in 1918 to celebrate victory over the Ottoman Empire in World War I. The song name translates to &quot;Let us rejoice&quot; in English. I am using a picture of the sheet music as the album art, rather than the flag of Israel.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Hava-Nagila/AlbumArt/Hava-Nagila.png</image>
+			<duration>165225</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hava-Nagila/OGG/Hava-Nagila.ogg</location>
+			<duration>165000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stereotypical-music-from-around-the-world/MP3/(BEST-VERSION)-Stereotypical-Music-Around-The-World.mp3</location>
+			<title>(BEST-VERSION)-Stereotypical-Music-Around-The-World.mp3</title>
+			<creator>YouTubeUser:PlaneZap</creator>
+			<album>Stereotypical Music from around the world</album>
+			<trackNum>1</trackNum>
+			<annotation>A collection of 45 songs of various stereotypical music from around the world. It really helped fill holes in my music collection</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/YouTubeUser_PlaneZap/Stereotypical%20Music%20from%20around%20the%20world/art.png</image>
+			<duration>918872</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stereotypical-music-from-around-the-world/OGG/(BEST-VERSION)-Stereotypical-Music-Around-The-World.ogg</location>
+			<duration>918000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tri-Poloski/MP3/Tri-Poloski.mp3</location>
+			<title>Tri-Poloski.mp3</title>
+			<creator>Davay</creator>
+			<album>Tri Poloski</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Tri Poloski&quot; by the Russian Artist &quot;Davay&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Davay/Tri%20Poloski/art.jpg</image>
+			<duration>125109</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tri-Poloski/OGG/Tri-Poloski.ogg</location>
+			<duration>125000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zorba_The_Greek/MP3/Mikis-Theodorakis_-_Zorba-The-Greek_-_Zorba&#39;s-Dance.mp3</location>
+			<title>Mikis-Theodorakis_-_Zorba-The-Greek_-_Zorba&#39;s-Dance.mp3</title>
+			<creator>Mikis Theodorakis</creator>
+			<album>Zorba the Greek</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Zorbas dance from the movie Zorba the Greek.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Zorba_The_Greek/AlbumArt/ZorbaTheGreek.jpeg</image>
+			<duration>242235</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zorba_The_Greek/OGG/Mikis-Theodorakis_-_Zorba-The-Greek_-_Zorba&#39;s-Dance.ogg</location>
+			<duration>242000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hungarian-Dance/Number5/MP3/Johannes-Brahms_-_Hungarian-Dance-No.-5.mp3</location>
+			<title>Johannes-Brahms_-_Hungarian-Dance-No.-5.mp3</title>
+			<creator>Johannes Brahms</creator>
+			<album>Hungarian Dance No. 5</album>
+			<trackNum>1</trackNum>
+			<annotation>A song that many of people have heard of, but don&#39;t know the name of. Hungarian dance number 5 by Johannes Brahms. I am again using the sheet music as the cover for this song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Johannes%20Brahms/Hungarian%20Dance%20No.%205/art.jpg</image>
+			<duration>201387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hungarian-Dance/Number5/OGG/Johannes-Brahms_-_Hungarian-Dance-No.-5.ogg</location>
+			<duration>201000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/AncientMusic/MP3/Hurrian-Hymn-no.6_-_c.1400-B.C.mp3</location>
+			<title>Hurrian-Hymn-no.6_-_c.1400-B.C.mp3</title>
+			<creator>Unknown Hurrian Musician</creator>
+			<album>Hurrian Hymns</album>
+			<trackNum>1</trackNum>
+			<annotation>The song is dated to about 1400 BC, but VLC won&#39;t let me write a date with negative numbers, more than 4 digits, or letters, so I defaulted to 0000. I also got a GIF (non-animated) file to work as the preview for this album. This is the oldest known song in the world and comes from the Ancient Hurrian people.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/AncientMusic/AlbumArt/Hurritische_hymne.gif</image>
+			<duration>342444</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/AncientMusic/OGG/Hurrian-Hymn-no.6_-_c.1400-B.C.ogg</location>
+			<duration>342000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Drunken-Sailor_Irish-Rovers/MP3/Irish-Rovers_Drunken-Sailor.mp3</location>
+			<title>Irish-Rovers_Drunken-Sailor.mp3</title>
+			<creator>Irish Rovers</creator>
+			<album>Drunken Sailor</album>
+			<trackNum>1</trackNum>
+			<annotation>The Irish Rovers cover on the 19th century Sea Shanty known as &quot;the drunken sailor&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Drunken-Sailor_Irish-Rovers/AlbumArt/IrishRovers_DrunkenSailor.jpeg</image>
+			<duration>159060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Drunken-Sailor_Irish-Rovers/OGG/Irish-Rovers_Drunken-Sailor.ogg</location>
+			<duration>159000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hamster%20Dance/MP3/The-Hampster-dance.mp3</location>
+			<title>The-Hampster-dance.mp3</title>
+			<creator>Hampton the Hampster</creator>
+			<album>Hampster dance</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Hampster dance. The P in Hamster is part of the artists name, and is not a spelling error.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Hamster Dance/AlbumArt/Hampster_Dance_single.jpg</image>
+			<duration>156370</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hamster%20Dance/OGG/The-Hampster-dance.ogg</location>
+			<duration>156000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Guajira-guantanamera/MP3/Guajira-guantanamera.mp3</location>
+			<title>Guajira-guantanamera.mp3</title>
+			<creator>Guajira-guantanamera</creator>
+			<album>Guantanamera</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Guantanamera by Guajira. A popular Cuban song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Guajira-guantanamera/Guantanamera/art.jpg</image>
+			<duration>312095</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Guajira-guantanamera/OGG/Guajira-guantanamera.ogg</location>
+			<duration>312000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%E8%B2%BB%E7%8E%89%E6%B8%85%20-%20%E4%B8%80%E7%BF%A6%E6%A2%85/MP3/%E8%B2%BB%E7%8E%89%E6%B8%85-%E4%B8%80%E7%BF%A6%E6%A2%85Yu-Ching-Fei_Yi-Jian-Mei-(xue-hua-piao-piao-bei-feng-xiao-xiao).mp3</location>
+			<title>費玉清-一翦梅Yu-Ching-Fei_Yi-Jian-Mei-(xue-hua-piao-piao-bei-feng-xiao-xiao).mp3</title>
+			<creator>Yu Ching Fei</creator>
+			<album>翦梅 (Plum) - translated with Bing translate</album>
+			<trackNum>1</trackNum>
+			<annotation>Cannot determine year number or exact song name. Even the title I am given supposedly is a spelling mistake, and the best translate I can get for the song name is &quot;Plum&quot;.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/費玉清 - 一翦梅/AlbumArt/費玉清 - 一翦梅.jpeg</image>
+			<duration>236227</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%E8%B2%BB%E7%8E%89%E6%B8%85%20-%20%E4%B8%80%E7%BF%A6%E6%A2%85/OGG/%E8%B2%BB%E7%8E%89%E6%B8%85-%E4%B8%80%E7%BF%A6%E6%A2%85Yu-Ching-Fei_Yi-Jian-Mei-(xue-hua-piao-piao-bei-feng-xiao-xiao).ogg</location>
+			<duration>236000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/This-time-for-Africa_WakaWaka/MP3/Waka-Waka-This-time-for-Africa.mp3</location>
+			<title>Waka-Waka-This-time-for-Africa.mp3</title>
+			<creator>Waka Waka</creator>
+			<album>This time for Africa</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;this time for Africa&quot; by Colombian artist &quot;Waka Waka&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/This-time-for-Africa_WakaWaka/AlbumArt/WakaWaka_ThisTimeForAfrica.jpeg</image>
+			<duration>202607</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/This-time-for-Africa_WakaWaka/OGG/Waka-Waka-This-time-for-Africa.ogg</location>
+			<duration>202000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Everytime%20I%20think%20about%20you%20I%20touch%20myself/MP3/Divinyls_I-touch-myself.mp3</location>
+			<title>Divinyls_I-touch-myself.mp3</title>
+			<creator>Divinyls</creator>
+			<album>I touch myself</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I touch myself&quot; by arist Divinyls</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Everytime I think about you I touch myself/AlbumArt/Divinyls_ITouchMyself.jpeg</image>
+			<duration>223139</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Everytime%20I%20think%20about%20you%20I%20touch%20myself/OGG/Divinyls_I-touch-myself.ogg</location>
+			<duration>223000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Eye%20of%20the%20Tiger/MP3/Survivor_Eye-of-the-Tiger.mp3</location>
+			<title>Survivor_Eye-of-the-Tiger.mp3</title>
+			<creator>Survivor</creator>
+			<album>Eye of the Tiger</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;eye of the tiger&quot; by the rock band &quot;survivor&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Eye of the Tiger/AlbumArt/Survivor_EyeoftheTiger.jpeg</image>
+			<duration>268018</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Eye%20of%20the%20Tiger/OGG/Survivor_Eye-of-the-Tiger.ogg</location>
+			<duration>268000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Who%20Let%20the%20dogs%20out%20-%20Baha%20men/MP3/Baha-Men_Who-let-the-dogs-out.mp3</location>
+			<title>Baha-Men_Who-let-the-dogs-out.mp3</title>
+			<creator>Baha Men</creator>
+			<album>Who let the dogs out</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;who let the dogs out&quot; by Baha Men. Recorded in 1999, released in 2000.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Who Let the dogs out - Baha men/AlbumArt/BahaMen_WhoLetTheDogsOut.jpeg</image>
+			<duration>216791</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Who%20Let%20the%20dogs%20out%20-%20Baha%20men/OGG/Baha-Men_Who-let-the-dogs-out.ogg</location>
+			<duration>216000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/This%20is%20America/MP3/Childish-Gambino_This-Is-America.mp3</location>
+			<title>Childish-Gambino_This-Is-America.mp3</title>
+			<creator>Childish Gambino</creator>
+			<album>This is America</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;this is America&quot; by artist Childish Gambino. I highly recommend watching the music video if you haven&#39;t already, it is very powerful, and has a lot of hidden messages.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/This is America/AlbumArt/ThisIsAmerica.jpeg</image>
+			<duration>244849</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/This%20is%20America/OGG/Childish-Gambino_This-Is-America.ogg</location>
+			<duration>244000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/You%20reposted%20in%20the%20wrong%20neighborhood/MP3/You-reposted-in-the-wrong-neighborhood.mp3</location>
+			<title>You-reposted-in-the-wrong-neighborhood.mp3</title>
+			<creator>Eminem</creator>
+			<album>Shake that (remix)</album>
+			<trackNum>1</trackNum>
+			<annotation>The popular remix of Shake that known as &quot;you reposted in the wrong neighborhood&quot; a popular meme in 2016.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/You reposted in the wrong neighborhood/AlbumArt/YouRepostedInTheWrongNeighborhood.jpeg</image>
+			<duration>219064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/You%20reposted%20in%20the%20wrong%20neighborhood/OGG/You-reposted-in-the-wrong-neighborhood.ogg</location>
+			<duration>219000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Uptown%20funk/MP3/Uptown-funk.mp3</location>
+			<title>Uptown-funk.mp3</title>
+			<creator>Mark Ronson</creator>
+			<album>Uptown funk</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Uptown funk&quot; from Mark Ronson, featuring Bruno Mars.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Uptown funk/AlbumArt/UptownFunk.jpeg</image>
+			<duration>270369</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Uptown%20funk/OGG/Uptown-funk.ogg</location>
+			<duration>270000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Celine%20Dion%20-%20Its%20all%20coming%20back%20to%20me/MP3/C%C3%A9line-Dion_It&#39;s-all-coming-back-to-me-now.mp3</location>
+			<title>Céline-Dion_It&#39;s-all-coming-back-to-me-now.mp3</title>
+			<creator>Céline Dion</creator>
+			<album>It&#39;s all coming back to me now</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;It&#39;1s all coming back to me now&quot; by artist Céline Dion</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Celine Dion - Its all coming back to me/AlbumArt/Celine-Dion_ItsAllComingBackToMe.jpeg</image>
+			<duration>363499</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Celine%20Dion%20-%20Its%20all%20coming%20back%20to%20me/OGG/C%C3%A9line-Dion_It&#39;s-all-coming-back-to-me-now.ogg</location>
+			<duration>363000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I%20got%20no%20iPhone/MP3/Parry-Gripp_I-got-no-iPhone.mp3</location>
+			<title>Parry-Gripp_I-got-no-iPhone.mp3</title>
+			<creator>Parry Gripp</creator>
+			<album>I got no iPhone</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I got no iPhone&quot; by Parry Gripp.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/I got no iPhone/AlbumArt/ParryGripp-I-got-no-iPhone.jpeg</image>
+			<duration>64183</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I%20got%20no%20iPhone/OGG/Parry-Gripp_I-got-no-iPhone.ogg</location>
+			<duration>64000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gravity%20Falls%20Theme/MP3/Gravity-Falls-theme-song-Extended.mp3</location>
+			<title>Gravity-Falls-theme-song-Extended.mp3</title>
+			<creator>Disney</creator>
+			<album>Gravity Falls theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The extended (full) version of the Gravity Falls theme song.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Gravity Falls Theme/AlbumArt/GravityFalls.jpeg</image>
+			<duration>200360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gravity%20Falls%20Theme/OGG/Gravity-Falls-Theme-Song-Extended.ogg</location>
+			<duration>200000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gravity%20Falls%20Theme/MP3/Gravity-Falls-theme-song.mp3</location>
+			<title>Gravity-Falls-theme-song.mp3</title>
+			<creator>Disney</creator>
+			<album>Gravity Falls Theme Song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the Disney TV series Gravity Falls, the shortened version that is used on each episode.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Gravity Falls Theme/AlbumArt/GravityFalls.jpeg</image>
+			<duration>39523</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gravity%20Falls%20Theme/OGG/Gravity-Falls-Theme-Song.ogg</location>
+			<duration>39000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Look%20at%20my%20horse/MP3/Look-at-my-horse.mp3</location>
+			<title>Look-at-my-horse.mp3</title>
+			<creator>Weebls Stuff</creator>
+			<album>Look at my horse</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Look at my horse&quot; by Weebls stuff.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Look at my horse/AlbumArt/LookatMyHorse.jpeg</image>
+			<duration>124291</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Look%20at%20my%20horse/OGG/Look-at-my-horse.ogg</location>
+			<duration>124000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I&#39;m%20blue/MP3/Eiffel-65_I&#39;m-Blue.mp3</location>
+			<title>Eiffel-65_I&#39;m-Blue.mp3</title>
+			<creator>Eiffel 65</creator>
+			<album>I&#39;m blue</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I&#39;m blue&quot; by Eiffel 65.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/I&#39;m blue/AlbumArt/BlueEiffel.jpeg</image>
+			<duration>219196</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I&#39;m%20blue/OGG/Eiffel-65_I&#39;m-Blue.ogg</location>
+			<duration>219000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I&#39;m%20blue/MP3/iDubbbzTV-I&#39;m-Gay-(I&#39;m-Blue-Cover).mp3</location>
+			<title>iDubbbzTV-I&#39;m-Gay-(I&#39;m-Blue-Cover).mp3</title>
+			<creator>Eiffel 65</creator>
+			<album>I&#39;m blue (Remixes)</album>
+			<trackNum>1</trackNum>
+			<annotation>A remix of the song &quot;I&#39;m blue&quot; from EIffel 65, with the words &quot;I&#39;m blue&quot; being replaced by Ian (iDubbbzTV) saying &quot;I&#39;m gay&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/I&#39;m blue/AlbumArt/BlueEiffel.jpeg</image>
+			<duration>208223</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I&#39;m%20blue/OGG/iDubbbzTV-I&#39;m-Gay-(I&#39;m-Blue-Cover).ogg</location>
+			<duration>208000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Its%20raining%20Tacos/MP3/It&#39;s-raining-Tacos.mp3</location>
+			<title>It&#39;s-raining-Tacos.mp3</title>
+			<creator>Parry Gripp</creator>
+			<album>It&#39;s raining Tacos</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;It&#39;s raining Tacos&quot; by Parry Gripp.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Its raining Tacos/AlbumArt/ItsRainingTacoas.jpeg</image>
+			<duration>93336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Its%20raining%20Tacos/OGG/It&#39;s-raining-Tacos.ogg</location>
+			<duration>93000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Narwhals/MP3/Narwhals-song.mp3</location>
+			<title>Narwhals-song.mp3</title>
+			<creator>Weebl&#39;s stuff</creator>
+			<album>Narwhals</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Narwhals&quot; from Weebl&#39;s stuff</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Narwhals/AlbumArt/Narwhals.jpeg</image>
+			<duration>68807</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Narwhals/OGG/Narwhals-song.ogg</location>
+			<duration>68000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+	</extension>
+</playlist>
