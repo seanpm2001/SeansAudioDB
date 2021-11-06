@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rokiczanka-W-moim-ogr%C3%B3decku/MP3/Rokiczanka_W-moim-ogr%C3%B3decku.mp3</location>
+			<title>Rokiczanka_W-moim-ogródecku.mp3</title>
+			<creator>Rokiczanka</creator>
+			<album>W moim ogródecku</album>
+			<trackNum>1</trackNum>
+			<annotation>I can&#39;t translate the necessary info accurately to fill out info here. All I know is that it is a good song (IMO)</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rokiczanka-W-moim-ogródecku/AlbumArt/Rokiczanka-W-moim-ogródecku.jpeg</image>
+			<duration>238630</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rokiczanka-W-moim-ogr%C3%B3decku/OGG/Rokiczanka_W-moim-ogr%C3%B3decku.ogg</location>
+			<duration>238000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Osiris/MP3/Ancient-Egyptian-Music-Osiris.mp3</location>
+			<title>Ancient-Egyptian-Music-Osiris.mp3</title>
+			<creator>Ancient Egypt</creator>
+			<album>Osiris</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Osiris, composed in Ancient Egypt thousands of years ago.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Osiris/AlbumArt/Osiris.jpeg</image>
+			<duration>198923</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Osiris/OGG/Ancient-Egyptian-Music_Osiris.ogg</location>
+			<duration>198000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/La-Salsa-Lleg%C3%B3/MP3/Sonora-Carruseles_La-Salsa-Lleg%C3%B3.mp3</location>
+			<title>Sonora-Carruseles_La-Salsa-Llegó.mp3</title>
+			<creator>Sonora Carruseles</creator>
+			<album>La Salsa Llegó</album>
+			<trackNum>1</trackNum>
+			<annotation>I cannot translate the sources enough to get proper information on this song.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/La-Salsa-Llegó/AlbumArt/La-Salsa-Llegó.jpeg</image>
+			<duration>288339</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/La-Salsa-Lleg%C3%B3/OGG/Sonora-Carruseles_La-Salsa-Lleg%C3%B3.ogg</location>
+			<duration>281000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Serbia-Strong/MP3/Serbia-Strong.mp3</location>
+			<title>Serbia-Strong.mp3</title>
+			<creator>Karadžić</creator>
+			<album>Lead Your Serbs</album>
+			<trackNum>1</trackNum>
+			<annotation>Yeah, this is not good. This is a propaganda song and talks about the killing of Muslims. I should have looked more into it first before downloading. It is still under the archival policy, as I have already heard at least 0.1 seconds of it.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Serbia-Strong/AlbumArt/Serbia-strong.jpeg</image>
+			<duration>218202</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Serbia-Strong/OGG/Serbia-Strong.ogg</location>
+			<duration>218000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Not-until-you-return/MP3/Not-until-you-return.mp3</location>
+			<title>Not-until-you-return.mp3</title>
+			<creator>Salar Aghili</creator>
+			<album>Not until you return</album>
+			<trackNum>1</trackNum>
+			<annotation>I cannot translate this.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Not-until-you-return/AlbumArt/Not-until-you-return.jpg</image>
+			<duration>377655</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Not-until-you-return/OGG/Not-until-you-return.ogg</location>
+			<duration>377000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stanford-Brua/MP3/Norwegian-Folk-Song_Stanford-Brua.mp3</location>
+			<title>Norwegian-Folk-Song_Stanford-Brua.mp3</title>
+			<creator>Norway</creator>
+			<album>Stanford Brua</album>
+			<trackNum>1</trackNum>
+			<annotation>The Norwegian Folk song &quot;Stanford Brua&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Stanford-Brua/AlbumArt/Stanford-Brua.jpeg</image>
+			<duration>302003</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stanford-Brua/OGG/Norwegian-Folk-Song_Stanford-Brua.ogg</location>
+			<duration>301000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/North-Korean-Patriotic-Song-&#39;%EC%A1%B0%EC%84%A0%EC%9D%80%20%EA%B2%B0%EC%8B%AC%ED%95%98%EB%A9%B4%20%ED%95%9C%EB%8B%A4&#39;-(Korea-Does-What-it&#39;s-Determined-to-do)/MP3/North-Korean-Patriotic-Song-&#39;%EC%A1%B0%EC%84%A0%EC%9D%80%20%EA%B2%B0%EC%8B%AC%ED%95%98%EB%A9%B4%20%ED%95%9C%EB%8B%A4&#39;-(Korea-Does-What-it&#39;s-Determined-to-do).mp3</location>
+			<title>North-Korean-Patriotic-Song-&#39;조선은 결심하면 한다&#39;-(Korea-Does-What-it&#39;s-Determined-to-do).mp3</title>
+			<creator>North Korea</creator>
+			<album>조선은 결심하면 한다&#39; (Korea Does What it&#39;s Determined to do)</album>
+			<trackNum>1</trackNum>
+			<annotation>A North Korean patriotic song.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/North-Korean-Patriotic-Song-&#39;조선은 결심하면 한다&#39;-(Korea-Does-What-it&#39;s-Determined-to-do)/AlbumArt/NK_2048.png</image>
+			<duration>209555</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/North-Korean-Patriotic-Song-&#39;%EC%A1%B0%EC%84%A0%EC%9D%80%20%EA%B2%B0%EC%8B%AC%ED%95%98%EB%A9%B4%20%ED%95%9C%EB%8B%A4&#39;-(Korea-Does-What-it&#39;s-Determined-to-do)/OGG/North-Korean-Patriotic-Song-&#39;%EC%A1%B0%EC%84%A0%EC%9D%80%20%EA%B2%B0%EC%8B%AC%ED%95%98%EB%A9%B4%20%ED%95%9C%EB%8B%A4&#39;-(Korea-Does-What-it&#39;s-Determined-to-do).ogg</location>
+			<duration>209000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/M.I.A-Bad-Girls-Instrumental/MP3/M.I.A._Bad-Girls-Instrumental.mp3</location>
+			<title>M.I.A._Bad-Girls-Instrumental.mp3</title>
+			<creator>M.I.A.</creator>
+			<album>Bad Girls (Instrumental)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bad girls&quot; in Instrumental format, by the British band M.I.A.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/M.I.A-Bad-Girls-Instrumental/AlbumArt/MIA-BadGirls.jpeg</image>
+			<duration>228729</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/M.I.A-Bad-Girls-Instrumental/OGG/M.I.A._Bad-Girls-Instrumental.ogg</location>
+			<duration>228000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/French-Accordion-Traditionell-Musette/MP3/French-Accordian-Traditionell-Musette.mp3</location>
+			<title>French-Accordian-Traditionell-Musette.mp3</title>
+			<creator>France</creator>
+			<album>Traditionell Musette</album>
+			<trackNum>1</trackNum>
+			<annotation>The classic theme song of France.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/French-Accordion-Traditionell-Musette/AlbumArt/300px-Flag_colors_of_France_-Template.svg.png</image>
+			<duration>144379</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/French-Accordion-Traditionell-Musette/OGG/French-Accordian-Traditionell-Musette.ogg</location>
+			<duration>144000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Finnish-Folk-Song-S%C3%A4kkij%C3%A4rven-polkka/MP3/Finnish-Folk-Song_S%C3%A4kkij%C3%A4rven-polkka.mp3</location>
+			<title>Finnish-Folk-Song_Säkkijärven-polkka.mp3</title>
+			<creator>Finland</creator>
+			<album>Säkkijärven polkka</album>
+			<trackNum>1</trackNum>
+			<annotation>A common Finnish Folk song.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Finnish-Folk-Song-Säkkijärven-polkka/AlbumArt/Säkkijärven-polkka.jpeg</image>
+			<duration>145659</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Finnish-Folk-Song-S%C3%A4kkij%C3%A4rven-polkka/OGG/Finnish-Folk-Song_S%C3%A4kkij%C3%A4rven-polkka.ogg</location>
+			<duration>145000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Erika/MP3/Erika-1930.mp3</location>
+			<title>Erika-1930.mp3</title>
+			<creator>Herms Niel</creator>
+			<album>Erika (1930)</album>
+			<trackNum>1</trackNum>
+			<annotation>A song that is associated with Nazism, but has no anti-semitic lyrics. The video I recently got 45 songs from (Stereotypical music from around the world) has some pretty controversial songs in it, this is one of them.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Erika/AlbumArt/108660-German-Flag.jpg</image>
+			<duration>179096</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Erika/OGG/Erika-1930.ogg</location>
+			<duration>179000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Australian-Traditional-Music-Tribal-War-Didgeridoo/MP3/Australian-Traditional-Music_Tribal-War-Didgeridoo.mp3</location>
+			<title>Australian-Traditional-Music_Tribal-War-Didgeridoo.mp3</title>
+			<creator>Indigenous Australia</creator>
+			<album>Tribal War Didgeridoo</album>
+			<trackNum>1</trackNum>
+			<annotation>A song by an I9ndigenous Australian group. I cannot figure out the language or the year.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Australian-Traditional-Music-Tribal-War-Didgeridoo/AlbumArt/Flag-of-Australia.jpeg</image>
+			<duration>538089</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Australian-Traditional-Music-Tribal-War-Didgeridoo/OGG/Australian-Traditional-Music_Tribal-War-Didgeridoo.ogg</location>
+			<duration>533000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rule-Brittania/MP3/Rule-Brittania_Instrumental.mp3</location>
+			<title>Rule-Brittania_Instrumental.mp3</title>
+			<creator>James Thomson</creator>
+			<album>Rule, Brittania!</album>
+			<trackNum>1</trackNum>
+			<annotation>The infamous song Rule Brittania.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rule-Brittania/AlbumArt/Rule-Britannia.jpeg</image>
+			<duration>132363</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rule-Brittania/OGG/Rule-Brittania_Instrumental.ogg</location>
+			<duration>132000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dutch-Windmills/MP3/Traditional-Dutch-Music_Dutch-Windmills.mp3</location>
+			<title>Traditional-Dutch-Music_Dutch-Windmills.mp3</title>
+			<creator>Netherlands</creator>
+			<album>Dutch Windmills</album>
+			<trackNum>1</trackNum>
+			<annotation>The traditional Dutch Windmills song.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Dutch-Windmills/AlbumArt/DutchWindmill.jpeg</image>
+			<duration>189493</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dutch-Windmills/OGG/Traditional-Dutch-Music_Dutch-Windmills.ogg</location>
+			<duration>189000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bear-hugger-theme/MP3/Punch-Out_Wii_Bear-Hugger-theme.mp3</location>
+			<title>Punch-Out_Wii_Bear-Hugger-theme.mp3</title>
+			<creator>Next Level Games</creator>
+			<album>PunchOut!!! For the Nintendo Wii</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme for fighting Bear Hugger in the Wii version of the video game Punchout.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Bear-hugger-theme/AlbumArt/BearHugger.jpeg</image>
+			<duration>283143</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bear-hugger-theme/OGG/Punch-Out_Wii_Bear-Hugger-theme.ogg</location>
+			<duration>283000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Samba-de-Janeiro/MP3/Samba-de-Janeiro.mp3</location>
+			<title>Samba-de-Janeiro.mp3</title>
+			<creator>Bellini</creator>
+			<album>Samba de Janeiro</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Samba de Janeiro by German band Bellini.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Samba-de-Janeiro/AlbumArt/SAMBA-De-Janeiro.jpeg</image>
+			<duration>169170</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Samba-de-Janeiro/OGG/Samba-de-Janeiro.ogg</location>
+			<duration>169000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/A%20little%20less%20conversation/MP3/A-Little-Less-Conversation-(JXL-Radio-Edit-Remix).mp3</location>
+			<title>A-Little-Less-Conversation-(JXL-Radio-Edit-Remix).mp3</title>
+			<creator>Elvis Presley</creator>
+			<album>A little less conversation</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;A little less conversation&quot; by Elvis Presley. This is a Radio Edit remix.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/A little less conversation/AlbumArt/Elvis_A-little-less-conversation.jpeg</image>
+			<duration>220032</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/A%20little%20less%20conversation/OGG/A-Little-Less-Conversation-(JXL-Radio-Edit-Remix).ogg</location>
+			<duration>219000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Billie%20Eilish/MP3/Billie-Eilish_Bad-guy.mp3</location>
+			<title>Billie-Eilish_Bad-guy.mp3</title>
+			<creator>Billie Eilish</creator>
+			<album>Bad Guy</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;bad guy&quot; by Billie Eilish.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Billie Eilish/AlbumArt/BillieEilish_BadGuy.jpeg</image>
+			<duration>205900</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Billie%20Eilish/OGG/Billie-Eilish_Bad-guy.ogg</location>
+			<duration>205000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bazzi%20-%20Mine%20(You%20so%20precious%20when%20you%20smile)/MP3/Bazzi_Mine.mp3</location>
+			<title>Bazzi_Mine.mp3</title>
+			<creator>Bazzi</creator>
+			<album>Mine</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Mine&quot; from artist Bazzi.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Bazzi - Mine (You so precious when you smile)/AlbumArt/BazziMine.jpeg</image>
+			<duration>129987</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bazzi%20-%20Mine%20(You%20so%20precious%20when%20you%20smile)/OGG/Bazzi_Mine.ogg</location>
+			<duration>129000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Akon%20-%20Smack%20that/MP3/Akon_Smack-that.mp3</location>
+			<title>Akon_Smack-that.mp3</title>
+			<creator>Akon</creator>
+			<album>Smack that</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Smack that&quot; by artist Akon, as part of his album &quot;Konvicted&quot; this song features Eminem.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Akon - Smack that/AlbumArt/Akon_SmackThat.jpeg</image>
+			<duration>251378</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Akon%20-%20Smack%20that/OGG/Akon_Smack-that.ogg</location>
+			<duration>251000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/OutKast/MP3/OutKast_Hey-Ya-(shake-it-like-a-Polaroid-picture).mp3</location>
+			<title>OutKast_Hey-Ya-(shake-it-like-a-Polaroid-picture).mp3</title>
+			<creator>OutKast</creator>
+			<album>Hey Ya</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Hey Ya&quot; by the band &quot;OutKast&quot; commonly known for the lyric &quot;Shake it like a polaroid picture&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/OutKast/AlbumArt/ShakeitLikeaPolaroidpicture.jpeg</image>
+			<duration>261594</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/OutKast/OGG/OutKast_Hey-Ya-(shake-it-like-a-Polaroid-picture).ogg</location>
+			<duration>261000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bee%20Gees/MP3/Bee-Gees_Stayin-alive.mp3</location>
+			<title>Bee-Gees_Stayin-alive.mp3</title>
+			<creator>Bee Gees</creator>
+			<album>Stayin&#39; Alivw</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Stayin&#39; alive&quot; by Bee Gees. Fun fact: medical classes actually use this song to teach you how to do CPR, as the rhythm of the song is the same as CPR operations. How do I know this? My High School health class did this.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Bee Gees/AlbumArt/BeeGees_StayingAlive.jpeg</image>
+			<duration>242627</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bee%20Gees/OGG/Bee-Gees_Stayin-alive.ogg</location>
+			<duration>242000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bee%20Gees%20-%20How%20deep%20is%20your%20love/MP3/Bee-Gees_How-deep-is-your-love.mp3</location>
+			<title>Bee-Gees_How-deep-is-your-love.mp3</title>
+			<creator>Bee Gees</creator>
+			<album>How deep is your love</album>
+			<trackNum>1</trackNum>
+			<annotation>The 1977 song &quot;How deep is your love&quot; by Bee Gees. How deep is your love, how deep is your love? I really neeeed to knoow. &#39;Cause we&#39;re living in a world of fools, breaking us down, and they all won&#39;t let us be.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Bee Gees - How deep is your love/AlbumArt/BeeGees_HowDeepIsYourLove.jpeg</image>
+			<duration>239309</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bee%20Gees%20-%20How%20deep%20is%20your%20love/OGG/Bee-Gees_How-deep-is-your-love.ogg</location>
+			<duration>239000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/The%20devil%20went%20down%20to%20Georgia/MP3/The-devil-went-down-to-Georgia.mp3</location>
+			<title>The-devil-went-down-to-Georgia.mp3</title>
+			<creator>Charlie Daniels Band</creator>
+			<album>The devil went down to Georgia</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;the devil went down to Georgia&quot; by the Charlie Daniels band.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/The devil went down to Georgia/AlbumArt/TheDevilWentDowntoGeorgia.jpeg</image>
+			<duration>275517</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/The%20devil%20went%20down%20to%20Georgia/OGG/The-devil-went-down-to-Georgia.ogg</location>
+			<duration>275000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Beach%20Boys%20-%20Wouldn&#39;t%20it%20be%20nice/MP3/Beach-Boys_Wouldn&#39;t-It-be-nice.mp3</location>
+			<title>Beach-Boys_Wouldn&#39;t-It-be-nice.mp3</title>
+			<creator>Beach Boys</creator>
+			<album>Wouldn&#39;t it be nice</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Wouldn&#39;t it be nice&quot; by the band &quot;Beach Boys&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Beach Boys - Wouldn&#39;t it be nice/AlbumArt/BeachBoys_Wouldn&#39;tItBeNice.jpeg</image>
+			<duration>153106</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Beach%20Boys%20-%20Wouldn&#39;t%20it%20be%20nice/OGG/Beach-Boys_Wouldn&#39;t-It-be-nice.ogg</location>
+			<duration>153000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pet%20Shop%20Boys%20-%20Opportunities/MP3/Pet-Shop-Boys_Opportunities.mp3</location>
+			<title>Pet-Shop-Boys_Opportunities.mp3</title>
+			<creator>Pet Shop Boys</creator>
+			<album>Opportunities</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Opportunities (let&#39;s make lots of money)&quot; by the band &quot;Pet Shop Boys&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Pet Shop Boys - Opportunities/AlbumArt/PetShopBoys_Opportunity.jpeg</image>
+			<duration>222982</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pet%20Shop%20Boys%20-%20Opportunities/OGG/Pet-Shop-Boys_Opportunities.ogg</location>
+			<duration>222000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+	</extension>
+</playlist>
