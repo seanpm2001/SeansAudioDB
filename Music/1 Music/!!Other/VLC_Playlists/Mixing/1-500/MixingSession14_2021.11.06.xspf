@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ylvis%20-%20What%20does%20the%20fox%20say/MP3/Ylvis-The-fox-(What-does-the-fox-say).mp3</location>
+			<title>Ylvis-The-fox-(What-does-the-fox-say).mp3</title>
+			<creator>Ylvis</creator>
+			<album>The fox (What does the fox say)</album>
+			<trackNum>1</trackNum>
+			<annotation>The popular song &quot;the fox&quot; by Ylvis. What does the fox say?</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Ylvis - What does the fox say/AlbumArt/Ylvis-TheFox.jpg</image>
+			<duration>224811</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ylvis%20-%20What%20does%20the%20fox%20say/OGG/Ylvis-The-fox-(What-does-the-fox-say).ogg</location>
+			<duration>224000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Cotton%20Eye%20Joe/MP3/Cotton-Eye-Joe-Rednex-Remix.mp3</location>
+			<title>Cotton-Eye-Joe-Rednex-Remix.mp3</title>
+			<creator>Rednex</creator>
+			<album>Cotton Eye Joe</album>
+			<trackNum>1</trackNum>
+			<annotation>The popular cover of the song &quot;Cotton eye joe&quot; by the Swedish band &quot;Rednex&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Cotton Eye Joe/AlbumArt/CottonEyeJoe.jpeg</image>
+			<duration>188189</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Cotton%20Eye%20Joe/OGG/Cotton-Eye-Joe-Rednex-Remix.ogg</location>
+			<duration>188000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Teen%20Titans%20Go!%20Theme%20(Torture)/MP3/Teen_Titans_Go!_Theme-Song.mp3</location>
+			<title>Teen_Titans_Go!_Theme-Song.mp3</title>
+			<creator>Cartoon Network</creator>
+			<album>Teen Titans Go! theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the TV show &quot;Teen Titans Go!&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Teen Titans Go! Theme (Torture)/AlbumArt/TeenTitansGo.jpeg</image>
+			<duration>20166</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Teen%20Titans%20Go!%20Theme%20(Torture)/OGG/Teen_Titans_Go!_Theme-Song.ogg</location>
+			<duration>20000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Justin%20Bieber%20(torture)/MP3/Justin-Bieber_Baby-(with-Ludacris).mp3</location>
+			<title>Justin-Bieber_Baby-(with-Ludacris).mp3</title>
+			<creator>Justin Bieber &amp; Ludacris</creator>
+			<album>Baby</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Baby&quot; by Justin Bieber, featuring Ludacris, one of the most hated songs on the Internet.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Justin Bieber (torture)/AlbumArt/JustinBieberBaby.jpeg</image>
+			<duration>224682</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Justin%20Bieber%20(torture)/OGG/Justin-Bieber_Baby-(with-Ludacris).ogg</location>
+			<duration>224000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Justin%20Bieber%20(torture)/MP3/Justin-Bieber_Never-say-never.mp3</location>
+			<title>Justin-Bieber_Never-say-never.mp3</title>
+			<creator>Justin Bieber</creator>
+			<album>Never say never</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Never say never&quot; by Justin Bieber, featuring Jaden Smith.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Justin Bieber (torture)/AlbumArt/JustinBieber_NeverSayNever.jpeg</image>
+			<duration>229933</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Justin%20Bieber%20(torture)/OGG/Justin-Bieber_Never-say-never.ogg</location>
+			<duration>229000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rebecca%20Black/MP3/Rebecca-Black_Friday.mp3</location>
+			<title>Rebecca-Black_Friday.mp3</title>
+			<creator>Rebecca Black</creator>
+			<album>Friday</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Friday&quot; by the artist &quot;Rebecca Black&quot; one of the most disliked songs on the Internet.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rebecca Black/AlbumArt/RebeccaBlack_Friday.jpeg</image>
+			<duration>227267</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rebecca%20Black/OGG/Rebecca-Black_Friday.ogg</location>
+			<duration>227000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%203%20(PC)%20OST/MP3/Bejeweled-3-OST_Standard.mp3</location>
+			<title>Bejeweled-3-OST_Standard.mp3</title>
+			<creator>Electronic Arts (EA)</creator>
+			<album>Bejeweled 3 Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>A compilation of most of the songs from the EA/PopCap game, Bejeweled 3. Not all songs are present.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!Bejeweled series/Bejeweled 3 (PC) OST/AlbumArt/Bejeweled3.jpeg</image>
+			<duration>3163112</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%203%20(PC)%20OST/OGG/Bejeweled-3-OST_Standard.ogg</location>
+			<duration>3162000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%202%20Deluxe%20(PC)%20OST/MP3/Bejeweled-2-OST_Old.mp3</location>
+			<title>Bejeweled-2-OST_Old.mp3</title>
+			<creator>Skaven / PopCap Games</creator>
+			<album>Bejeweled 2 soundtrack (old variant)</album>
+			<trackNum>1</trackNum>
+			<annotation>The old variant of the Bejeweled 2 soundtrack (old variant as in, the old video that I had with the soundtrack that was missing some stuff) this series of songs is by Skaven, who worked for PopCap Games and produced all the beautiful songs in all the Bejeweled games.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!Bejeweled series/Bejeweled 2 Deluxe (PC) OST/INTERNET_ARCHIVE_DATA/Artwork/__ia_thumb.jpg</image>
+			<duration>1876729</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%202%20Deluxe%20(PC)%20OST/OGG/Bejeweled-2-OST_Old.ogg</location>
+			<duration>1876000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%202%20Deluxe%20(PC)%20OST/MP3/Bejeweled-2_Full-Suite-(Source-Loop).mp3</location>
+			<title>Bejeweled-2_Full-Suite-(Source-Loop).mp3</title>
+			<creator>Skaven / PopCap Games</creator>
+			<album>Bejeweled 2 soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The new variant of the Bejeweled 2 soundtrack (new variant as in, the new video that I had with the soundtrack that included some songs that weren&#39;t in the old variant) this series of songs is by Skaven, who worked for PopCap Games and produced all the beautiful songs in all the Bejeweled games.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!Bejeweled series/Bejeweled 2 Deluxe (PC) OST/INTERNET_ARCHIVE_DATA/Artwork/__ia_thumb.jpg</image>
+			<duration>1856824</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%202%20Deluxe%20(PC)%20OST/OGG/Bejeweled-2_Full-Suite-(Source-Loop).ogg</location>
+			<duration>1856000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I%20play%20Pokemon%20go%20everyday/MP3/Misha-I-play-Pokemon-go-everyday.mp3</location>
+			<title>Misha-I-play-Pokemon-go-everyday.mp3</title>
+			<creator>Misha</creator>
+			<album>I play Pokemon Go</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I play Pokemon Go&quot; by Misha, a song that was controversial for some reason.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/I play Pokemon go everyday/AlbumArt/IPlayPokemonGoEveryday.jpeg</image>
+			<duration>75207</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I%20play%20Pokemon%20go%20everyday/OGG/Misha-I-play-Pokemon-go-everyday.ogg</location>
+			<duration>75000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Mr.Beast/MP3/MrBeastOutro1Hour.mp3</location>
+			<title>MrBeastOutro1Hour.mp3</title>
+			<creator>Mr. Beast</creator>
+			<album>Mr. Beast (YouTube) outro</album>
+			<trackNum>1</trackNum>
+			<annotation>A 1 hour version of the YouTuber Mr. Beasts Outro song.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Mr.Beast/AlbumArt/MrBeast.jpeg</image>
+			<duration>3605056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Mr.Beast/OGG/MrBeastOutro1Hour.ogg</location>
+			<duration>3605000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Crazy%20frog/MP3/Crazy-frog.mp3</location>
+			<title>Crazy-frog.mp3</title>
+			<creator>Crazy Frog</creator>
+			<album>Axel F</album>
+			<trackNum>1</trackNum>
+			<annotation>A cover of the song &quot;Axel F&quot; by the character &quot;Crazy Frog&quot; created by a Swedish group.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Crazy frog/AlbumArt/CrazyFrog.jpeg</image>
+			<duration>173010</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Crazy%20frog/OGG/Crazy-frog.ogg</location>
+			<duration>172000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Beck%20-%20Loser/MP3/Beck_Loser.mp3</location>
+			<title>Beck_Loser.mp3</title>
+			<creator>Beck</creator>
+			<album>Loser</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Loser&quot; by Beck.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Beck - Loser/AlbumArt/BeckLoser.jpeg</image>
+			<duration>233954</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Beck%20-%20Loser/OGG/Beck_Loser.ogg</location>
+			<duration>233000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Bejeweled%20Twist%20SFX/MP3/Bejeweled-twist_All-Sound-effects.mp3</location>
+			<title>Bejeweled-twist_All-Sound-effects.mp3</title>
+			<creator>Skaven / PopCap Games</creator>
+			<album>Bejeweled Twist sound effects</album>
+			<trackNum>1</trackNum>
+			<annotation>All the sound effects from the game Bejeweled Twist, extracted from the game file `MAIN.pak` the video version also has all the backgrounds.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/3 Sound Effects/Bejeweled Twist SFX/AlbumArt/BejeweledTwistUnofficialIcon.png</image>
+			<duration>367153</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Bejeweled%20Twist%20SFX/OGG/Bejeweled-twist_All-Sound-effects.ogg</location>
+			<duration>367000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/sexy%20saxophone%20song%20(careless%20whisper)/MP3/George-Michael_Careless-Whisper.mp3</location>
+			<title>George-Michael_Careless-Whisper.mp3</title>
+			<creator>George Michael</creator>
+			<album>Careless Whisper</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Careless whisper&quot; by George Michael. Commonly known as &quot;the sexy saxophone song&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/sexy saxophone song (careless whisper)/AlbumArt/CarelessWhisper.jpeg</image>
+			<duration>301716</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/sexy%20saxophone%20song%20(careless%20whisper)/OGG/George-Michael_Careless-Whisper.ogg</location>
+			<duration>301000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20Peace%20Walker/MP3/Metal-Gear-Solid_Peace-Walker_Heavens-Divide.mp3</location>
+			<title>Metal-Gear-Solid_Peace-Walker_Heavens-Divide.mp3</title>
+			<creator>Konami</creator>
+			<album>Metal Gear Solid - Peace Walker soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Heavens divide&quot; from the video game Metal Gear Solid - Peace Walker</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!Metal Gear Solid Series/AlbumArt/MetalGearSolod_PeaceWalker.jpeg</image>
+			<duration>313654</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20Peace%20Walker/OGG/Metal-Gear-Solid_Peace-Walker_Heavens-Divide.ogg</location>
+			<duration>313000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20V/MP3/Metal-Gear-Solid%20V_The-Phantom-Pain_Nuclear.mp3</location>
+			<title>Metal-Gear-Solid V_The-Phantom-Pain_Nuclear.mp3</title>
+			<creator>Konami</creator>
+			<album>Metal Gear Solid V - The Phantom Pain soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Nuclear&quot; from the video game Metal Gear Solid V - The Phantom Pain</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!Metal Gear Solid Series/AlbumArt/MGS5_PhantomPain.jpeg</image>
+			<duration>302839</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20V/OGG/Metal-Gear-Solid%20V_The-Phantom-Pain_Nuclear.ogg</location>
+			<duration>302000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bj%C3%B6rk%20-%20I%20Remember%20You/MP3/Bj%C3%B6rk_I-Remember-You.mp3</location>
+			<title>Björk_I-Remember-You.mp3</title>
+			<creator>Björk</creator>
+			<album>Venus as a Boy (B Side)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I remember you&quot; by the Swedish artist Björk. This is the B-side song for Venus as a Boy.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Björk - I Remember You/AlbumArt/Björk-I-Remember-You.jpeg</image>
+			<duration>253023</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bj%C3%B6rk%20-%20I%20Remember%20You/OGG/Bj%C3%B6rk_I-Remember-You.ogg</location>
+			<duration>252000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+	</extension>
+</playlist>
