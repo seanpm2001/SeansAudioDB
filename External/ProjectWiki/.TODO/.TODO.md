@@ -9,11 +9,11 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 <!-- This project has become a strong Apple Wiki, and it expands outside the scope of just WacOS. Articles should still be based on WacOS when possible, but also contain info on Apple - 2021 Saturday September 18th !-->
 
-**Articles to write:** `102` _(this number will continue to go up over time, as more topics are found during research)_
+**Articles to write:** `146` _(this number will continue to go up over time, as more topics are found during research)_
 
-**Articles written so far:** `14` / `102` (13.73%) _Note: the homepage, footer, and sidebar are also included in this count._
+**Articles written so far:** `16` / `146` (10.96%) _Note: the homepage, footer, and sidebar are also included in this count._
 
-**Stats are as of 2021 Tuesday October 26th at 8:13 pm**
+**Stats are as of 2021 Saturday November 6th at 10:05 pm**
 
 ## Checklist
 
@@ -224,11 +224,101 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Markdown
 
+* - [ ] Rock (genre)
+
+* - [x] Language list
+
+* - [x] Date
+
+* - [ ] R&B (genre)
+
+* - [ ] Pop (genre)
+
+* - [ ] KPOP (genre)
+
+* - [ ] Eurodance (genre)
+
+* - [ ] Electronic (genre)
+
+* - [ ] Electronica (genre)
+
+* - [ ] Techno (genre)
+
+* - [ ] Difference between electronic, electronica, and techno
+
+* - [ ] Vocals (genre)
+
+* - [ ] Classic (genre)
+
+* - [ ] Piano (genre)
+
+* - [ ] VGA (genre)
+
+* - [ ] Video Game Soundtrack (genre)
+
+* - [ ] Theme song (genre)
+
+* - [ ] Anthem (genre)
+
+* - [ ] Rap (genre)
+
+* - [ ] Funk (genre)
+
+* - [ ] Novelty (genre)
+
+* - [ ] Dirty rap (genre)
+
+* - [ ] Jazz (genre)
+
+* - [ ] Blues (genre)
+
+* - [ ] Dramatic (genre)
+
+* - [ ] Love (genre)
+
+* - [ ] Metal (genre)
+
+* - [ ] Internet Memes (genre)
+
+* - [ ] R&B (Rhythm & Blues) (genre)
+
+* - [ ] Dance (genre)
+
+* - [ ] Sea Shanty (genre)
+
+* - [ ] Indie Pop (genre)
+
+* - [ ] Baroque pop (genre)
+
+* - [ ] American country music (genre)
+
+* - [ ] Afro-punk (genre)
+
+* - [ ] Beach music (genre)
+
+* - [ ] Dance-pop (genre)
+
+* - [ ] Electro-pop (genre)
+
+* - [ ] Bubblegum pop (genre)
+
+* - [ ] Psychadelic pop (genre)
+
+* - [ ] J-Pop (genre)
+
+* - [ ] Nu metal (genre)
+
+* - [ ] Metadata
+
+* - [ ] Soul (genre)
+
+* - [ ] No other entries (nullable)
+
 </details>
 
-**Total entries:** `102` **Completed:** `14` _(as the footer, homepage, and sidebar are counted)_
+**Total entries:** `146` **Completed:** `16` _(as the footer, homepage, and sidebar are counted)_
 
-**Current completion status (as of 2021 Tuesday, October 26th at 8:13 pm):** `13.73%`
+**Current completion status (as of 2021 Saturday, November 6th at 10:05 pm):** `10.96%`
 
 <details>
 	<summary><p>Click/tap here to expand/collapse the total percentage estimate mathematical formula</p></summary>
@@ -358,17 +448,17 @@ Notes need to be added here
 
 **Page type:** `(supposed to be) hidden by default` `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Page version:** `2 (2021, Tuesday, October 26th at 8:13 pm)`
+**Page version:** `3 (2021, Saturday, November 6th at 10:05 pm)`
 
 **First revision:** `1 (2021, Tuesday, October 26th at 7:31 pm)`
 
-**Line count (including blank lines and compiler line):** `382`
+**Line count (including blank lines and compiler line):** `472`
 
-**Majority language:** `English (US) / Markdown`
+**Majority language:** `English (US) / Markdown / HTML5`
 
-**Minority languages:** `English (US) / Markdown`
+**Minority languages:** `English (US) / Markdown / HTML5`
 
-**Current revision:** `2 (2021, Tuesday, October 26th at 8:13 pm)`
+**Current revision:** `3 (2021, Saturday, November 6th at 10:05 pm)`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
