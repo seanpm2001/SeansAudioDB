@@ -7,11 +7,13 @@ My music and sound effect collection features audio in the following languages:
 
 **This list is sorted A-Z**
 
-**Language count:** `19`
+**Language count:** `22/23`
 
 * Arabic
 
 * Any (for ambient/no vocal audio) (most common)
+
+* Bulgarian
 
 * Chinese
 
@@ -33,6 +35,8 @@ My music and sound effect collection features audio in the following languages:
 
 * Korean (South)
 
+* Mongolian (modern, Cyrillic)
+
 * Persian
 
 * Polish
@@ -49,6 +53,8 @@ My music and sound effect collection features audio in the following languages:
 
 * Swedish
 
+* Turkish
+
 Note: the origin country of the composer is not counted in this count, as it wouldn't make sense. So Bach music isn't counted as German, even though the origin was Germany/a German composer, it is counted as "any" as it is ambient/instrumental music.
 
 ***
@@ -57,9 +63,9 @@ Note: the origin country of the composer is not counted in this count, as it wou
 
 <details><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
-**Article version:** `1 (2021, Saturday, November 6th at 7:25 pm)`
+**Article version:** `2 (2021, Sunday, November 7th at 4:38 pm)`
 
-**Line count (including blank lines and compiler line):** `75`
+**Line count (including blank lines and compiler line):** `81`
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
