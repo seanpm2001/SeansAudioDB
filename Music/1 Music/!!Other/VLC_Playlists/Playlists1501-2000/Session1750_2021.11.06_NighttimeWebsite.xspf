@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bj%C3%B6rk%20-%20I%20Remember%20You/OGG/Bj%C3%B6rk_I-Remember-You.ogg</location>
+			<duration>252000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bj%C3%B6rk%20-%20I%20Remember%20You/MP3/Bj%C3%B6rk_I-Remember-You.mp3</location>
+			<title>Björk_I-Remember-You.mp3</title>
+			<creator>Björk</creator>
+			<album>Venus as a Boy (B Side)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I remember you&quot; by the Swedish artist Björk. This is the B-side song for Venus as a Boy.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Bj%C3%B6rk/Venus%20as%20a%20Boy%20%28B%20Side%29/art.jpg</image>
+			<duration>253031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Cotton%20Eye%20Joe/MP3/Cotton-Eye-Joe-Rednex-Remix.mp3</location>
+			<title>Cotton-Eye-Joe-Rednex-Remix.mp3</title>
+			<creator>Rednex</creator>
+			<album>Cotton Eye Joe</album>
+			<trackNum>1</trackNum>
+			<annotation>The popular cover of the song &quot;Cotton eye joe&quot; by the Swedish band &quot;Rednex&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rednex/Cotton%20Eye%20Joe/art.jpg</image>
+			<duration>188195</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%203%20(PC)%20OST/MP3/Bejeweled-3-OST_Standard.mp3</location>
+			<title>Bejeweled-3-OST_Standard.mp3</title>
+			<creator>Electronic Arts (EA)</creator>
+			<album>Bejeweled 3 Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>A compilation of most of the songs from the EA/PopCap game, Bejeweled 3. Not all songs are present.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Electronic%20Arts%20%28EA%29/Bejeweled%203%20Soundtrack/art.jpg</image>
+			<duration>3163095</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hozier%20-%20Take%20me%20to%20church/MP3/Hozier-Take-me-to-church.mp3</location>
+			<title>Hozier-Take-me-to-church.mp3</title>
+			<creator>Hozier</creator>
+			<album>Take me to Church</album>
+			<trackNum>1</trackNum>
+			<annotation>This song managed to get played without a massive &quot;Christian&quot; uproar, possibly because of this religious group set not being able to understand big words.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Hozier/Take%20me%20to%20Church/art.jpg</image>
+			<duration>256062</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/This%20is%20America/MP3/Childish-Gambino_This-Is-America.mp3</location>
+			<title>Childish-Gambino_This-Is-America.mp3</title>
+			<creator>Childish Gambino</creator>
+			<album>This is America</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;this is America&quot; by artist Childish Gambino. I highly recommend watching the music video if you haven&#39;t already, it is very powerful, and has a lot of hidden messages.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Childish%20Gambino/This%20is%20America/art.jpg</image>
+			<duration>244855</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Travis%20Scott/Travis%20Scott%20%20-%20Antidote%20(Lyrics%20On%20Screen).mp4</location>
+			<duration>264081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tri-Poloski/MP3/Tri-Poloski.mp3</location>
+			<title>Tri-Poloski.mp3</title>
+			<creator>Davay</creator>
+			<album>Tri Poloski</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Tri Poloski&quot; by the Russian Artist &quot;Davay&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Davay/Tri%20Poloski/art.jpg</image>
+			<duration>125109</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Jacksfilms%20series/Jacksfilms/y2mate.com%20-%20your_grammar_sucks_45_christmas_special_PLfhizLZi7c_720p.mp4</location>
+			<duration>282541</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Jacksfilms%20series/Jacksfilms/y2mate.com%20-%20were_all_just_assholes_talking_to_a_camera_on2duCFAJ7Q_1080p.mp4</location>
+			<duration>287510</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>

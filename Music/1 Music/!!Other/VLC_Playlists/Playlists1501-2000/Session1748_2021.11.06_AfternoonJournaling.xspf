@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20V/MP3/Metal-Gear-Solid%20V_The-Phantom-Pain_Nuclear.mp3</location>
+			<title>Metal-Gear-Solid V_The-Phantom-Pain_Nuclear.mp3</title>
+			<creator>Konami</creator>
+			<album>Metal Gear Solid V - The Phantom Pain soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Nuclear&quot; from the video game Metal Gear Solid V - The Phantom Pain</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Metal%20Gear%20Solid%20V%20-%20The%20Phantom%20Pain%20soundtrack/art.jpg</image>
+			<duration>302847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Cotton%20Eye%20Joe/MP3/Cotton-Eye-Joe-Rednex-Remix.mp3</location>
+			<title>Cotton-Eye-Joe-Rednex-Remix.mp3</title>
+			<creator>Rednex</creator>
+			<album>Cotton Eye Joe</album>
+			<trackNum>1</trackNum>
+			<annotation>The popular cover of the song &quot;Cotton eye joe&quot; by the Swedish band &quot;Rednex&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rednex/Cotton%20Eye%20Joe/art.jpg</image>
+			<duration>188195</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20V/Metal%20Gear%20Solid%20V%20-%20The%20Phantom%20Pain%20&#39;&#39;Nuclear&#39;&#39;%20Lyrics%20[HD].mp4</location>
+			<duration>302882</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20V/MP3/Metal-Gear-Solid%20V_The-Phantom-Pain_Nuclear.mp3</location>
+			<title>Metal-Gear-Solid V_The-Phantom-Pain_Nuclear.mp3</title>
+			<creator>Konami</creator>
+			<album>Metal Gear Solid V - The Phantom Pain soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Nuclear&quot; from the video game Metal Gear Solid V - The Phantom Pain</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Metal%20Gear%20Solid%20V%20-%20The%20Phantom%20Pain%20soundtrack/art.jpg</image>
+			<duration>302847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20Peace%20Walker/MP3/Metal-Gear-Solid_Peace-Walker_Heavens-Divide.mp3</location>
+			<title>Metal-Gear-Solid_Peace-Walker_Heavens-Divide.mp3</title>
+			<creator>Konami</creator>
+			<album>Metal Gear Solid - Peace Walker soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Heavens divide&quot; from the video game Metal Gear Solid - Peace Walker</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Metal%20Gear%20Solid%20-%20Peace%20Walker%20soundtrack/art.jpg</image>
+			<duration>313660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zorba_The_Greek/MP3/Mikis-Theodorakis_-_Zorba-The-Greek_-_Zorba&#39;s-Dance.mp3</location>
+			<title>Mikis-Theodorakis_-_Zorba-The-Greek_-_Zorba&#39;s-Dance.mp3</title>
+			<creator>Mikis Theodorakis</creator>
+			<album>Zorba the Greek</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Zorbas dance from the movie Zorba the Greek.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Mikis%20Theodorakis/Zorba%20the%20Greek/art.jpg</image>
+			<duration>242243</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

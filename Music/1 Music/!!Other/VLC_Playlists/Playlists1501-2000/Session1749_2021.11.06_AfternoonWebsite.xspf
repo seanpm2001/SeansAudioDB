@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/You%20are%20an%20idiot/MP3/You-are-an-idiot-virus.mp3</location>
+			<title>You-are-an-idiot-virus.mp3</title>
+			<creator>Unknown</creator>
+			<album>You are an idiot malware</album>
+			<trackNum>1</trackNum>
+			<annotation>You are an idiot! Ha ha ha ha ha ha ha, ha ha ha ha ha
+You are an idiot! Ha ha ha ha ha ha ha, ha ha ha ha ha
+You are an idiot! Ha ha ha ha ha ha ha, ha ha ha ha ha
+This is the you are an idiot malware, a malicious popup that would duplicate itself with epileptic flashing while calling you an idiot.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown/You%20are%20an%20idiot%20malware/art.png</image>
+			<duration>29004</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
