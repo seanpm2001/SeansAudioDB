@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Aqua%20-%20Barbie%20Girl/MP3/Aqua-Girl_Barbie-Girl.mp3</location>
+			<title>Aqua-Girl_Barbie-Girl.mp3</title>
+			<creator>Aqua</creator>
+			<album>Barbie Girl</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Barbie Girl&quot; by the Danish band Aqua. Mattel sued them over this &quot;for destroying their brand, sexualized Barbie, and infringed on their trademarks&quot; and had their claims rejected in all US courts, as the song was deemed a parody. Less than 12 years later, Mattel was using the song they claimed was so bad in all their advertisements.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Aqua - Barbie Girl/AlbumArt/Aqua_BarbieGirl.jpeg</image>
+			<duration>201745</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Aqua%20-%20Barbie%20Girl/OGG/Aqua-Girl_Barbie-Girl.ogg</location>
+			<duration>201000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Arthur%20(kids%20show)%20theme/MP3/Arthur-theme-song.mp3</location>
+			<title>Arthur-theme-song.mp3</title>
+			<creator>PBS (Public Broadcast Station)</creator>
+			<album>Arthur theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song to the childrens show Arthur.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Arthur (kids show) theme/AlbumArt/Arthur.jpeg</image>
+			<duration>110185</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Arthur%20(kids%20show)%20theme/OGG/Arthur-theme-song.ogg</location>
+			<duration>110000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rem%20Lezar/MP3/Rem-Lezar_Higher.mp3</location>
+			<title>Rem-Lezar_Higher.mp3</title>
+			<creator>Scott Zakarin</creator>
+			<album>Rem Lezar - Higher</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;higher&quot; from the movie &quot;Creating Rem Lezar&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rem Lezar/AlbumArt/RemLezar.jpeg</image>
+			<duration>132258</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rem%20Lezar/OGG/Rem-Lezar_Higher.ogg</location>
+			<duration>132000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rem%20Lezar/MP3/Rem-Lezar_Higher_1-hour.mp3</location>
+			<title>Rem-Lezar_Higher_1-hour.mp3</title>
+			<creator>Scott Zakarin</creator>
+			<album>Rem Lezar - Higher</album>
+			<trackNum>1</trackNum>
+			<annotation>An extended version (1 hour) of the song &quot;higher&quot; from the 1989 movie &quot;Creating Rem Lezar&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rem Lezar/AlbumArt/RemLezar.jpeg</image>
+			<duration>3645442</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rem%20Lezar/OGG/Rem-Lezar_Higher_1-hour.ogg</location>
+			<duration>3645000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/The%20Nutshack%20theme/MP3/The-Nutshack-theme-song.mp3</location>
+			<title>The-Nutshack-theme-song.mp3</title>
+			<creator>Ramon Lopez and Jesse Hernandez</creator>
+			<album>The Nutshack (theme song)</album>
+			<trackNum>1</trackNum>
+			<annotation>The nutshack theme song from the Filipino animated show &quot;the Nutshack&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/The Nutshack theme/AlbumArt/TheNutshack.png</image>
+			<duration>66586</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/The%20Nutshack%20theme/OGG/The-Nutshack-theme-song.ogg</location>
+			<duration>66000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rappin&#39;%20for%20Jesus/MP3/Rappin&#39;-for-Jesus.mp3</location>
+			<title>Rappin&#39;-for-Jesus.mp3</title>
+			<creator>Pastor Jim Colerick and Mary Sue Colerick</creator>
+			<album>Rappin&#39; for Jesus</album>
+			<trackNum>1</trackNum>
+			<annotation>A controversial Christian rap song that turned into a meme. The origins are unknown, the church this song was recorded in supposedly closed in 2004, but the song was created in 2013. This is very peculiar. On top of this, the song was criticized for the white pastor using the N word (no hard R)</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rappin&#39; for Jesus/AlbumArt/Rappin&#39;forJesus.jpg</image>
+			<duration>172017</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rappin&#39;%20for%20Jesus/OGG/Rappin&#39;-for-Jesus.ogg</location>
+			<duration>171000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Sweet%20Home%20Alabama/MP3/Lynyrd-Skynyrd_Sweet-Home-Alabama.mp3</location>
+			<title>Lynyrd-Skynyrd_Sweet-Home-Alabama.mp3</title>
+			<creator>Lynyrd Skynyrd</creator>
+			<album>Sweet Home Alabama</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Sweet home Alabama&quot; by the Southern band Lynyrd Skynyrd. Commonly known as the Incest song. I am using an alternative album cover, as I don&#39;t want to display the confederate flag or show any support for the lost cause.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Lynyrd%20Skynyrd/Sweet%20Home%20Alabama/art.jpg</image>
+			<duration>418519</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Sweet%20Home%20Alabama/OGG/Lynyrd-Skynyrd_Sweet-Home-Alabama.ogg</location>
+			<duration>418000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Surprise%20Buttsecks/MP3/Suprise-Buttsecks.mp3</location>
+			<title>Suprise-Buttsecks.mp3</title>
+			<creator>Unknown</creator>
+			<album>Surprise Buttsecks meme</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Surprise buttsecks&quot; that is a popular Team Fortress 2 meme featuring the Spy.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Surprise Buttsecks/AlbumArt/SupriseButtsecksMeme.jpeg</image>
+			<duration>171965</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Surprise%20Buttsecks/OGG/Suprise-Buttsecks.ogg</location>
+			<duration>171000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Havana/MP3/Camila-Cabello_Havana.mp3</location>
+			<title>Camila-Cabello_Havana.mp3</title>
+			<creator>Camila Cabello</creator>
+			<album>Havana</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Havana&quot; by artist Camila Cabello</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Havana/AlbumArt/Havana.jpeg</image>
+			<duration>215250</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Havana/OGG/Camila-Cabello_Havana.ogg</location>
+			<duration>215000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Havana/MP3/Cortana-nanana_Remix.mp3</location>
+			<title>Cortana-nanana_Remix.mp3</title>
+			<creator>Unknown</creator>
+			<album>Cortana (Havana remix)</album>
+			<trackNum>1</trackNum>
+			<annotation>A remix of the song Havana that parodies Windows 10&#39;s Cortana.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Havana/AlbumArt/Havana.jpeg</image>
+			<duration>232987</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Havana/OGG/Cortana-nanana_Remix.ogg</location>
+			<duration>232000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Walla%20Walla%20bing%20bang/MP3/Witch-Doctor.mp3</location>
+			<title>Witch-Doctor.mp3</title>
+			<creator>Ross Bagdasarian</creator>
+			<album>Witch Doctor</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Witch Doctor&quot; by artist Ross Bagdasarian.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Walla Walla bing bang/AlbumArt/WitchDoctor_WallaWallaBingBang.png</image>
+			<duration>191738</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Walla%20Walla%20bing%20bang/OGG/Witch-Doctor.ogg</location>
+			<duration>191000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Walk%20the%20dinosaur/MP3/Who-(Not-was)_Walk-the-dinosaur.mp3</location>
+			<title>Who-(Not-was)_Walk-the-dinosaur.mp3</title>
+			<creator>Who (not was)</creator>
+			<album>Walk the Dinosaur</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Walk the Dinosaur&quot; by the band &quot;Who (not was)</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Walk the dinosaur/AlbumArt/WasNotWas_WalktheDinosaur.jpeg</image>
+			<duration>214390</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Walk%20the%20dinosaur/OGG/Who-(Not-was)_Walk-the-dinosaur.ogg</location>
+			<duration>214000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ice%20Ice%20Baby/MP3/Vanilla-Ice_Ice-ice-baby.mp3</location>
+			<title>Vanilla-Ice_Ice-ice-baby.mp3</title>
+			<creator>Vanilla Ice</creator>
+			<album>Ice Ice Baby</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Ice ice baby&quot; by rapper &quot;Vanilla Ice&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Ice Ice Baby/AlbumArt/VanillaIce_IceIceBABY.jpeg</image>
+			<duration>240957</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ice%20Ice%20Baby/OGG/Vanilla-Ice_Ice-ice-baby.ogg</location>
+			<duration>240000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Treat%20you%20better/MP3/Shawn-Mendes_Treat-you-better.mp3</location>
+			<title>Shawn-Mendes_Treat-you-better.mp3</title>
+			<creator>Shawn Mendes</creator>
+			<album>Treat you Better</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;treat you better&quot; by artist Shawn Mendes.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Treat you better/AlbumArt/ShawnMendes_TreatYouBetter.jpeg</image>
+			<duration>256158</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Treat%20you%20better/OGG/Shawn-Mendes_Treat-you-better.ogg</location>
+			<duration>256000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Shape%20of%20you/MP3/Ed-Sheeran_Shape-of-you.mp3</location>
+			<title>Ed-Sheeran_Shape-of-you.mp3</title>
+			<creator>Ed Sheeran</creator>
+			<album>Shape of you</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Shape of you&quot; by artist Ed Sheeran.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Shape of you/AlbumArt/EdSheeran_ShapeofYou.jpeg</image>
+			<duration>263081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Shape%20of%20you/OGG/Ed-Sheeran_Shape-of-you.ogg</location>
+			<duration>263000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Jetsons%20theme/MP3/The-Jetsons-Theme-Song.mp3</location>
+			<title>The-Jetsons-Theme-Song.mp3</title>
+			<creator>Hannah Barbara</creator>
+			<album>The Jetsons theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the TV Show &quot;The Jetsons&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Jetsons theme/AlbumArt/Jetsonslogo640x480.jpg</image>
+			<duration>58932</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Jetsons%20theme/OGG/The-Jetsons-Theme-Song.ogg</location>
+			<duration>58000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/The%20Flintstones%20theme/MP3/The-Flintstones-Theme-Song.mp3</location>
+			<title>The-Flintstones-Theme-Song.mp3</title>
+			<creator>Hanna Barbera</creator>
+			<album>The Flintstones theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song to the TV series &quot;The Flintstones&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/The Flintstones theme/AlbumArt/The_Flintstones.jpg</image>
+			<duration>93884</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/The%20Flintstones%20theme/OGG/The-Flintstones-Theme-Song.ogg</location>
+			<duration>93000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tequila%20-%20The%20Champs/MP3/Tequila_The-Champs.mp3</location>
+			<title>Tequila_The-Champs.mp3</title>
+			<creator>The Champs</creator>
+			<album>Tequila</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Tequila&quot; by the band &quot;the champs&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Tequila - The Champs/AlbumArt/TequilaTheChamps.jpeg</image>
+			<duration>130091</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tequila%20-%20The%20Champs/OGG/Tequila_The-Champs.ogg</location>
+			<duration>130000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Big%20data%20-%20Bombs%20over%20brooklyn/MP3/Big-data_Bombs-over-Brooklyn.mp3</location>
+			<title>Big-data_Bombs-over-Brooklyn.mp3</title>
+			<creator>Big Data</creator>
+			<album>Bombs over Brooklyn</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bombs over Brooklyn&quot; by the band &quot;Big data&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Big data - Bombs over brooklyn/AlbumArt/BigDataBombsoverBrooklyn.png</image>
+			<duration>222277</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Big%20data%20-%20Bombs%20over%20brooklyn/OGG/Big-data_Bombs-over-Brooklyn.ogg</location>
+			<duration>222000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Initial%20D%20Night%20of%20Fire%20magic%20drift%20bus/MP3/Initial-D_Night-of-Fire-(Magic-Drift-Bus-MIDI).mp3</location>
+			<title>Initial-D_Night-of-Fire-(Magic-Drift-Bus-MIDI).mp3</title>
+			<creator>Dream / Niko / Initial D</creator>
+			<album>Night of Fire</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Night of Fire, by Initial D, which is actually Niko WHICH was actually remixed by Dream.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Initial D Night of Fire magic drift bus/AlbumArt/InitialD_NightOfFire.jpeg</image>
+			<duration>291293</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Initial%20D%20Night%20of%20Fire%20magic%20drift%20bus/OGG/Initial-D_Night-of-Fire-(Magic-Drift-Bus-MIDI).ogg</location>
+			<duration>291000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I%20can%20make%20your%20hands%20clap/MP3/Fitz-and-The-Tantrums_Handclap.mp3</location>
+			<title>Fitz-and-The-Tantrums_Handclap.mp3</title>
+			<creator>Fitz and the Tantrums</creator>
+			<album>Handclap</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Handclap&quot; by the band Fitz and the Tantrums</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/I can make your hands clap/AlbumArt/FitzAndTheTantrums_Handclap.jpeg</image>
+			<duration>191429</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I%20can%20make%20your%20hands%20clap/OGG/Fitz-and-The-Tantrums_Handclap.ogg</location>
+			<duration>191000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Running%20in%20the%2090s/MP3/Running-in-the-90s.mp3</location>
+			<title>Running-in-the-90s.mp3</title>
+			<creator>Maurizio De Jorio</creator>
+			<album>Running in the 90s</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;running in the 90s&quot; by artist Maurizio De Jorio</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Running in the 90s/AlbumArt/RunningInThe90s.jpeg</image>
+			<duration>286330</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Running%20in%20the%2090s/OGG/Running-in-the-90s.ogg</location>
+			<duration>286000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Running%20in%20the%2090s/MP3/Running-in-the-90s-gradually-speeding-up-from-0-to-400-percent.mp3</location>
+			<title>Running-in-the-90s-gradually-speeding-up-from-0-to-400-percent.mp3</title>
+			<creator>Maurizio De Jorio</creator>
+			<album>Running in the 90s</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Running in the 90s&quot; by Maurizio De Jorio, gradually speeding up from 0.01% to 400.0% speed.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Running in the 90s/AlbumArt/RunningInThe90s.jpeg</image>
+			<duration>276405</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Running%20in%20the%2090s/OGG/Running-in-the-90s-gradually-speeding-up-from-0-to-400-percent.ogg</location>
+			<duration>276000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+	</extension>
+</playlist>
