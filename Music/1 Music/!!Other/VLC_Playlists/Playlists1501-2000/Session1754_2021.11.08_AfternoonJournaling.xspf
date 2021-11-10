@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20CD%20OST/y2mate.com%20-%20you_can_do_anything_sonic_the_hedgehog_cd_music_extended_UoE8xsBFyYg_1080p.mp4</location>
+			<duration>1800058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20CD%20OST/y2mate.com%20-%20you_can_do_anything_instrumental_sonic_the_hedgehog_cd_music_r4QOJsK14u4_1080p.mp4</location>
+			<duration>94227</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20CD%20OST/y2mate.com%20-%20collision_chaos_good_future_jpnpal_sonic_the_hedgehog_cd_music_extended_bi3gGwuA4Qk_1080p.mp4</location>
+			<duration>1799222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20CD%20OST/y2mate.com%20-%20palmtree_panic_present_jpnpal_sonic_the_hedgehog_cd_music_extended_jr9i7w60Gm4_1080p.mp4</location>
+			<duration>1800058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20CD%20OST/y2mate.com%20-%20palmtree_panic_good_future_jpnpal_sonic_the_hedgehog_cd_music_extended_1_EiJnVCacM_1080p.mp4</location>
+			<duration>1800058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20CD%20OST/y2mate.com%20-%20palmtree_panic_bad_future_us_sonic_the_hedgehog_cd_music_extended_ZpTtJb4CTBI_1080p.mp4</location>
+			<duration>1799221</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20CD%20OST/y2mate.com%20-%20palmtree_panic_bad_future_jpnpal_sonic_the_hedgehog_cd_music_extended_lVCAEzSQXgU_1080p.mp4</location>
+			<duration>1800058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20CD%20OST/y2mate.com%20-%20metallic_madness_good_future_jpnpal_sonic_the_hedgehog_cd_music_extended_6c9lP4w7zrI_1080p.mp4</location>
+			<duration>1799222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20CD%20OST/y2mate.com%20-%20collision_chaos_good_future_jpnpal_sonic_the_hedgehog_cd_music_extended_bi3gGwuA4Qk_1080p.mp4</location>
+			<duration>1799222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20CD%20OST/y2mate.com%20-%20collision_chaos_past_sonic_the_hedgehog_cd_music_extended_UUVe_znl30U_1080p.mp4</location>
+			<duration>1799222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
