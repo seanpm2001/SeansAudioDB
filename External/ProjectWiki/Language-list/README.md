@@ -7,55 +7,65 @@ My music and sound effect collection features audio in the following languages:
 
 **This list is sorted A-Z**
 
-**Language count:** `22/23`
+**Language count:** `25/26`
 
-* Arabic
+* Arabic (العربية)
 
 * Any (for ambient/no vocal audio) (most common)
 
-* Bulgarian
+* Bulgarian (Български)
 
-* Chinese
+* Chinese (中文 / 中文)
 
-* Danish
+* Danish (Dansk)
 
-* English (2nd most common)
+* English (English) (2nd most common)
 
-* Finnish
+* Finnish (Suomi)
 
-* French
+* French (Français)
 
-* German
+* German (Deutsch)
 
-* Icelandic
+* Hawaiian (cannot translate, not supported)
 
-* Japanese
+* Icelandic (Íslenska)
 
-* Korean (North) (rarest, only used in 1 song)
+* Japanese (日本語)
 
-* Korean (South)
+* Korean (North) (cannot translate, not supported) (rarest, only used in 1 song) 
 
-* Mongolian (modern, Cyrillic)
+* Korean (South) (한국(남부))
 
-* Persian
+* Latin (cannot translate, not supported)
 
-* Polish
+* Mongolian (modern, Cyrillic) (cannot translate, not supported)
 
-* Punjabi
+* Persian (فارسی)
 
-* Romanian
+* Polish (Polski)
 
-* Russian
+* Punjabi (ਪੰਜਾਬੀ)
 
-* Serbian
+* Romanian (Română)
 
-* Spanish
+* Russian (Русский)
 
-* Swedish
+* Serbian (Srpski / Српски)
 
-* Turkish
+* Spanish (Español)
+
+* Swedish (Svenska)
+
+* Turkish (Türkçe)
+
+* Zulu (cannot translate, not supported)
+
+* No other languages are in the audio collection
 
 Note: the origin country of the composer is not counted in this count, as it wouldn't make sense. So Bach music isn't counted as German, even though the origin was Germany/a German composer, it is counted as "any" as it is ambient/instrumental music.
+
+**Translated using [Bing Translate](https://www.bing.com/Translator/), entries marked with `(cannot translate, not supported)` couldn't be translated, as Bing translate didn't support them at the time of translation.**
 
 ***
 
@@ -63,9 +73,9 @@ Note: the origin country of the composer is not counted in this count, as it wou
 
 <details><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
-**Article version:** `2 (2021, Sunday, November 7th at 4:38 pm)`
+**Article version:** `3 (2021, Tuesday, November 9th at 7:45 pm)`
 
-**Line count (including blank lines and compiler line):** `81`
+**Line count (including blank lines and compiler line):** `91`
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
