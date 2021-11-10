@@ -9,11 +9,11 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 <!-- This project has become a strong Apple Wiki, and it expands outside the scope of just WacOS. Articles should still be based on WacOS when possible, but also contain info on Apple - 2021 Saturday September 18th !-->
 
-**Articles to write:** `146` _(this number will continue to go up over time, as more topics are found during research)_
+**Articles to write:** `184` _(this number will continue to go up over time, as more topics are found during research)_
 
-**Articles written so far:** `16` / `146` (10.96%) _Note: the homepage, footer, and sidebar are also included in this count._
+**Articles written so far:** `18` / `184` (10.22%) _Note: the homepage, footer, and sidebar are also included in this count._
 
-**Stats are as of 2021 Saturday November 6th at 10:05 pm**
+**Stats are as of 2021, Tuesday, November 9th at 7:53 pm**
 
 ## Checklist
 
@@ -312,13 +312,91 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Soul (genre)
 
-* - [ ] No other entries (nullable)
+* - [ ] Christian Rap (genre)
+
+* - [ ] Christian Hip Hop (genre)
+
+* - [ ] Hip Hop (genre)
+
+* - [ ] Reggae (Genre)
+
+* - [ ] Trap (genre)
+
+* - [ ] Hardbass (genre)
+
+* - [ ] Earrape (genre)
+
+* - [ ] Bass boosted (genre)
+
+* - [ ] Dirty rap (genre)
+
+* - [ ] Voice clipping (genre)
+
+* - [ ] Team Fortress 2 (genre)
+
+* - [ ] Rockabilly (genre)
+
+* - [ ] Dubstep (genre)
+
+* - [ ] Soca (genre)
+
+* - [ ] Scat (genre)
+
+* - [ ] Comedy (genre)
+
+* - [ ] Halloween (genre)
+
+* - [ ] Caveman music (genre)
+
+* - [ ] Dancehall (genre)
+
+* - [ ] Tropical house (genre)
+
+* - [ ] House (genre)
+
+* - [ ] Instrumental rock (genre)
+
+* - [ ] Latin rock (genre)
+
+* - [ ] Glitch pop (genre)
+
+* - [ ] MIDI (Genre)
+
+* - [ ] Eurobeat (genre)
+
+* - [ ] General (media information)
+
+* - [ ] Metadata Metadata (media information)
+
+* - [ ] Statistics (media information)
+
+* - [ ] Codecs (media information)
+
+* - [ ] Bhangra (genre)
+
+* - [ ] Alternative hip hop (genre)
+
+* - [ ] Ballad (genre)
+
+* - [ ] Swedish folk song (genre)
+
+* - [ ] Austrian folk song (genre)
+
+* - [ ] Mongolian folk song (genre)
+
+* - [ ] Reggae Rock (genre)
+
+* - [ ] Grunge (genre)
+
+* - [ ] Post-grunge (genre)
+
+- [ ] No other entries (nullable)
 
 </details>
 
-**Total entries:** `146` **Completed:** `16` _(as the footer, homepage, and sidebar are counted)_
+**Total entries:** `184` **Completed:** `18` _(as the footer, homepage, and sidebar are counted)_
 
-**Current completion status (as of 2021 Saturday, November 6th at 10:05 pm):** `10.96%`
+**Current completion status (as of 2021 Tuesday, November 9th at 7:53 pm):** `10.22%`
 
 <details>
 	<summary><p>Click/tap here to expand/collapse the total percentage estimate mathematical formula</p></summary>
@@ -448,17 +526,17 @@ Notes need to be added here
 
 **Page type:** `(supposed to be) hidden by default` `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Page version:** `3 (2021, Saturday, November 6th at 10:05 pm)`
+**Page version:** `4 (2021, Tuesday, November 9th at 7:53 pm)`
 
 **First revision:** `1 (2021, Tuesday, October 26th at 7:31 pm)`
 
-**Line count (including blank lines and compiler line):** `472`
+**Line count (including blank lines and compiler line):** `550`
 
 **Majority language:** `English (US) / Markdown / HTML5`
 
 **Minority languages:** `English (US) / Markdown / HTML5`
 
-**Current revision:** `3 (2021, Saturday, November 6th at 10:05 pm)`
+**Current revision:** `4 (2021, Tuesday, November 9th at 7:53 pm)`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
