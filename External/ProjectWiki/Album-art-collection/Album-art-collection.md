@@ -27,6 +27,8 @@ I still retain the original videos and audio, I am building a separate smaller v
 
 I have not attempted to put animated GIFs as the cover for a file, as I feel adding animation to an MP3 or OGG file defeats the purpose. I have confirmed that the GIF file format works as an album cover, but again, I have not attempted to do animated GIFs yet.
 
+**Update:** I have attempted animated GIFs on 2021 November 9th. The result: they are supported, just not animated.
+
 See more file types below.
 
 ***
@@ -40,7 +42,7 @@ Album art can be added in the following formats
 | PNG | :white_check_mark: | :white_check_mark: |
 | JPG | :white_check_mark: | :white_check_mark: |
 | JPEG | :white_check_mark: | :white_check_mark: |
-| GIF (Animated) | :question: | :x: |
+| GIF (Animated) | :white_check_mark: | :x: |
 | GIF (Non-Animated) | :white_check_mark: | :white_check_mark: |
 | SVG | :question: | :x: |
 | BMP | :question: | :x: |
@@ -88,13 +90,35 @@ It is suggested that lower quality album art counts as fair use.
 
 ***
 
+## Feature request(s)
+
+1. There should be an option to remove album art/set it to the default image again
+
+<!-- Notes
+I usually label the ownership rights to the creator and not the record company. The creator made it, they deserve the credit.
+
+If the song is over 70 years old, I label it public domain.
+
+It would be nice to have a copyleft option
+
+Sections VLC won't let me fill out: Now playing, encoded by
+
+Playlist complications with multi-line descriptions on the first playlist entry
+
+Song titles are now named with an underscore separating the artist from the song name
+!-->
+
+2. No other feature requests at the moment
+
+***
+
 ## Article info
 
 <details><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
-**Article version:** `2 (2021, Saturday, November 6th at 7:19 pm)`
+**Article version:** `3 (2021, Tuesday, November 9th at 7:58 pm)`
 
-**Line count (including blank lines and compiler line):** `110`
+**Line count (including blank lines and compiler line):** `134`
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
