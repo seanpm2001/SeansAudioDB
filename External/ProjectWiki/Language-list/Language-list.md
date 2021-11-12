@@ -7,7 +7,7 @@ My music and sound effect collection features audio in the following languages:
 
 **This list is sorted A-Z**
 
-**Language count:** `25/26`
+**Language count:** `26/27` (26 if you only count spoken languages, 27 if you count ambience as a language)
 
 * Arabic (العربية)
 
@@ -30,6 +30,8 @@ My music and sound effect collection features audio in the following languages:
 * Hawaiian (cannot translate, not supported)
 
 * Icelandic (Íslenska)
+
+* Italian (Italiano)
 
 * Japanese (日本語)
 
@@ -73,9 +75,9 @@ Note: the origin country of the composer is not counted in this count, as it wou
 
 <details><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
-**Article version:** `3 (2021, Tuesday, November 9th at 7:45 pm)`
+**Article version:** `4 (2021, Thursday, November 11th at 8:08 pm)`
 
-**Line count (including blank lines and compiler line):** `91`
+**Line count (including blank lines and compiler line):** `93`
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
