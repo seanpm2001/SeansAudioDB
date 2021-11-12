@@ -9,11 +9,56 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 <!-- This project has become a strong Apple Wiki, and it expands outside the scope of just WacOS. Articles should still be based on WacOS when possible, but also contain info on Apple - 2021 Saturday September 18th !-->
 
-**Articles to write:** `184` _(this number will continue to go up over time, as more topics are found during research)_
+**Articles to write:** `189` _(this number will continue to go up over time, as more topics are found during research)_
 
-**Articles written so far:** `18` / `184` (10.22%) _Note: the homepage, footer, and sidebar are also included in this count._
+**Articles written so far:** `18` / `189` (09.52%) _Note: the homepage, footer, and sidebar are also included in this count._
 
-**Stats are as of 2021, Tuesday, November 9th at 7:53 pm**
+**Stats are as of 2021, Thursday, November 11th at 8:27 pm**
+
+<!-- TODO Notes TODO
+
+<!-- Notes
+I usually label the ownership rights to the creator and not the record company. The creator made it, they deserve the credit.
+
+If the song is over 70 years old, I label it public domain.
+
+It would be nice to have a copyleft option
+
+Sections VLC won't let me fill out: Now playing, encoded by
+
+Playlist complications with multi-line descriptions on the first playlist entry
+
+Song titles are now named with an underscore separating the artist from the song name
+
+# Languages
+
+Italian
+
+Language variants
+
+English (Southern America)
+
+English (US)
+
+English (UK)
+
+English (AU)
+
+### Genres
+
+Arena rock (genre)
+
+Power pop (genre)
+
+Industrial metal (genre)
+
+Neue Deutsche Härte (genre)
+
+#### Songs
+
+Teenage Mutant Ninja Turtles theme (export needed)
+
+!-->
 
 ## Checklist
 
@@ -390,13 +435,23 @@ I have recently noted the importance of the project Wiki last month (2021 Septem
 
 * - [ ] Post-grunge (genre)
 
+* - [ ] Arena rock (genre)
+
+* - [ ] Power pop (genre)
+
+* - [ ] Industrial metal (genre)
+
+* - [ ] Neue Deutsche Härte (genre)
+
+* - [ ] Misc (from Hard drive backup) <!-- TODO This is for folders that contain scrambled data from a laptop recovery in 2021 April-May. A lot of files were duplicated, many of them damaged, some of them functional. I have kept them for now for testing and archival purposes. !-->
+
 - [ ] No other entries (nullable)
 
 </details>
 
-**Total entries:** `184` **Completed:** `18` _(as the footer, homepage, and sidebar are counted)_
+**Total entries:** `189` **Completed:** `18` _(as the footer, homepage, and sidebar are counted)_
 
-**Current completion status (as of 2021 Tuesday, November 9th at 7:53 pm):** `10.22%`
+**Current completion status (as of 2021 Thursday, November 11th at 8:27 pm):** `09.52%`
 
 <details>
 	<summary><p>Click/tap here to expand/collapse the total percentage estimate mathematical formula</p></summary>
@@ -526,17 +581,17 @@ Notes need to be added here
 
 **Page type:** `(supposed to be) hidden by default` `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Page version:** `4 (2021, Tuesday, November 9th at 7:53 pm)`
+**Page version:** `5 (2021, Thursday, November 11th at 8:27 pm)`
 
 **First revision:** `1 (2021, Tuesday, October 26th at 7:31 pm)`
 
-**Line count (including blank lines and compiler line):** `550`
+**Line count (including blank lines and compiler line):** `605`
 
 **Majority language:** `English (US) / Markdown / HTML5`
 
 **Minority languages:** `English (US) / Markdown / HTML5`
 
-**Current revision:** `4 (2021, Tuesday, November 9th at 7:53 pm)`
+**Current revision:** `5 (2021, Thursday, November 11th at 8:27 pm)`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
