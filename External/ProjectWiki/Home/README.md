@@ -105,6 +105,16 @@ _The personal version of my audio collection database. Not intended for public u
 
 </details>
 
+***
+
+## VLC documentation
+
+This Wiki documents VLC Media Player alongside my audio collection. This Wiki covers the audio end of VLC documentation. For VLC video documentation, try the [Video wiki](https://github.com/seanpm2001/SeansLifeArchive_VideoDirectory/wiki/).
+
+I am working on creating a good documentation draft for VLC, as I am volunteering to help them with documentation, since they don't have enough documentation writers. I don't have a good enough draft ready yet.
+
+***
+
 ### Credits
 
 **Created by [seanpm2001](https://github.com/seanpm2001/)**
@@ -117,7 +127,7 @@ _The personal version of my audio collection database. Not intended for public u
 
 <details open><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
-**Homepage version:** `2 (Friday, 2021 October 29th at 7:57 pm)`
+**Homepage version:** `3 (Thursday, 2021 November 11th at 8:17 pm)`
 
 **First version:** `1 (Thursday, 2020 May 28th at 10:22 pm)`
 
@@ -127,7 +137,7 @@ _The personal version of my audio collection database. Not intended for public u
 
 **File language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `143`
+**Line count (including blank lines and compiler line):** `153`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
