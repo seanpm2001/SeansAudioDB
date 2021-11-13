@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/David%20Bowie/MP3/David-Bowie_Space-Oddity.mp3</location>
+			<title>David-Bowie_Space-Oddity.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Space Oddity</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Space Oddity&quot; by David Bowie.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Space%20Oddity/art.jpg</image>
+			<duration>304937</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/David%20Bowie/MP3/David-Bowie_Life-on-mars.mp3</location>
+			<title>David-Bowie_Life-on-mars.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Life on Mars?</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Life on Mars?&quot; by David Bowie, a song about history repeating itself far too often (which is what we face in reality)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Life%20on%20Mars_/art.jpg</image>
+			<duration>249949</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/David%20Bowie/MP3/David-Bowie_Space-Oddity.mp3</location>
+			<title>David-Bowie_Space-Oddity.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Space Oddity</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Space Oddity&quot; by David Bowie.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Space%20Oddity/art.jpg</image>
+			<duration>304937</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Goosebumps%20theme/MP3/Goosebumps-(Theme-Song).mp3</location>
+			<title>Goosebumps-(Theme-Song).mp3</title>
+			<creator>R.L. Stine</creator>
+			<album>Goosebumps</album>
+			<trackNum>1</trackNum>
+			<annotation>The Goosebumps theme song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/R.L.%20Stine/Goosebumps/art.jpg</image>
+			<duration>68632</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Cut%20the%20rope%20series/Cut%20The%20Rope%20OST%20[all%20games]/01%20Blueprints.mp3</location>
+			<title>Blueprints</title>
+			<creator>ZeptoLab</creator>
+			<album>Cut the Rope Experiments</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/ZeptoLab/Cut%20the%20Rope%20Experiments/art.png</image>
+			<duration>253466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Cut%20the%20rope%20series/Cut%20The%20Rope%20OST%20[all%20games]/02%20Let&#39;s%20Make%20an%20Experiment.mp3</location>
+			<title>Let&#39;s Make an Experiment</title>
+			<creator>ZeptoLab</creator>
+			<album>Cut the Rope Experiments</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/ZeptoLab/Cut%20the%20Rope%20Experiments/art.png</image>
+			<duration>270289</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Cut%20the%20rope%20series/Cut%20The%20Rope%20OST%20[all%20games]/02%20Cut!.mp3</location>
+			<title>Cut!</title>
+			<creator>Chillingo</creator>
+			<album>Cut the Rope</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Chillingo/Cut%20the%20Rope/art.png</image>
+			<duration>244088</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Cut%20the%20rope%20series/Cut%20The%20Rope%20OST%20[all%20games]/01%20Time%20Lapse.mp3</location>
+			<title>Time Lapse</title>
+			<creator>ZeptoLab</creator>
+			<album>Cut the Rope Time Travel</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/ZeptoLab/Cut%20the%20Rope%20Time%20Travel/art.png</image>
+			<duration>271465</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Cut%20the%20rope%20series/Cut%20The%20Rope%20OST%20[all%20games]/02%20Twice%20The%20Candy_!.mp3</location>
+			<title>Twice The Candy?!</title>
+			<creator>ZeptoLab</creator>
+			<album>Cut the Rope Time Travel</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/ZeptoLab/Cut%20the%20Rope%20Time%20Travel/art.png</image>
+			<duration>269715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius(2)/Gudang%20-%20Nostalgi%20Gaius%20-%2002%20Software.ogg</location>
+			<title>Software</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius%282%29/cover.jpg</image>
+			<duration>142000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius(2)/Gudang%20-%20Nostalgi%20Gaius%20-%2009%20Fine,%20you.ogg</location>
+			<title>Fine, you</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>9</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/OGG/Gudang%20-%20Nostalgi%20Gaius%282%29/cover.jpg</image>
+			<duration>217000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>
