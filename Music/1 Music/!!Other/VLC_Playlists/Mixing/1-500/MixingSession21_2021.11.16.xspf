@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Marconi%20Union%20-%20Weightless/MP3/Marconi-Union_Weightless.mp3</location>
+			<title>Marconi-Union_Weightless.mp3</title>
+			<creator>Marconi Union</creator>
+			<album>Weightless</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Weightless&quot; by Marconi Union.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Marconi Union - Weightless/AlbumArt/MarconiUnion_Weightless.jpeg</image>
+			<duration>488859</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Marconi%20Union%20-%20Weightless/OGG/Marconi-Union_Weightless.ogg</location>
+			<duration>488000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Madonna%20-%20Ray%20of%20light/MP3/Madonna_Ray-of-light.mp3</location>
+			<title>Madonna_Ray-of-light.mp3</title>
+			<creator>Madonna</creator>
+			<album>Ray of Light</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Ray of light&quot; by the artist Madonna.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Madonna - Ray of light/AlbumArt/Madonna_RayofLight.jpeg</image>
+			<duration>306941</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Madonna%20-%20Ray%20of%20light/OGG/Madonna_Ray-of-light.ogg</location>
+			<duration>306000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/O-Zone%20-%20Dragostea%20Din%20Tei%20[Official%20Video]/MP3/O-Zone_Dragostea-Din-Tei.mp3</location>
+			<title>O-Zone_Dragostea-Din-Tei.mp3</title>
+			<creator>O-Zone</creator>
+			<album>Dragostea Din Tei</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Dragostea Din Tei&quot; by the band &quot;O-Zone&quot; it gained significant recognition by the lip syncing video of the song by Gary Brolsma in his video &quot;Numa Numa&quot; released originally in 2004.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/O-Zone - Dragostea Din Tei [Official Video]/AlbumArt/Ozone_Dragostea_DIn_Tei.jpeg</image>
+			<duration>285912</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/O-Zone%20-%20Dragostea%20Din%20Tei%20[Official%20Video]/OGG/O-Zone_Dragostea-Din-Tei.ogg</location>
+			<duration>285000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gas%20pedal/MP3/Gas-pedal.mp3</location>
+			<title>Gas-pedal.mp3</title>
+			<creator>Sage the Gemini</creator>
+			<album>Gas Pedal</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Gas Pedal&quot; by artist Sage the Gemini.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Gas pedal/AlbumArt/GasPedal.jpeg</image>
+			<duration>197514</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gas%20pedal/OGG/Gas-pedal.ogg</location>
+			<duration>197000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Meghan_Trainer-Me-Too/MP3/Meghan-Trainor_Me-Too.mp3</location>
+			<title>Meghan-Trainor_Me-Too.mp3</title>
+			<creator>Meghan Trainor</creator>
+			<album>Me Too</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Me too&quot; by artist Meghan Trainor.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Meghan_Trainer-Me-Too/AlbumArt/Meghan-Trainor_Me-too.png</image>
+			<duration>181997</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Meghan_Trainer-Me-Too/OGG/Meghan-Trainor_Me-Too.ogg</location>
+			<duration>182000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Miley%20Cyrus%20-%20Wrecking%20Ball/MP3/Miley-Cyrus_Wrecking-Ball.mp3</location>
+			<title>Miley-Cyrus_Wrecking-Ball.mp3</title>
+			<creator>Miley Cyrus</creator>
+			<album>Wrecking Ball</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Wrecking ball&quot; by artist Miley Cyrus.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Miley Cyrus - Wrecking Ball/AlbumArt/MileyCyrus_WreckingBall.jpeg</image>
+			<duration>221232</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Miley%20Cyrus%20-%20Wrecking%20Ball/OGG/Miley-Cyrus_Wrecking-Ball.ogg</location>
+			<duration>221000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Move%20Bitch%20get%20out%20the%20way/MP3/Ludacris_Move-bitch-get-out-the-way.mp3</location>
+			<title>Ludacris_Move-bitch-get-out-the-way.mp3</title>
+			<creator>Ludacris</creator>
+			<album>Move Bitch</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Move bitch&quot; by artist Ludacris.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Move Bitch get out the way/AlbumArt/Ludacris_MoveBitch.jpeg</image>
+			<duration>273007</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Move%20Bitch%20get%20out%20the%20way/OGG/Ludacris_Move-bitch-get-out-the-way.ogg</location>
+			<duration>272000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Fiona%20Apple%20-%20Criminal/MP3/Fiona-Apple_Criminal.mp3</location>
+			<title>Fiona-Apple_Criminal.mp3</title>
+			<creator>Fiona Apple</creator>
+			<album>Criminal</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Criminal&quot; by artist Fiona Apple.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Fiona Apple - Criminal/AlbumArt/FionaApple_Criminal.jpeg</image>
+			<duration>263083</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Fiona%20Apple%20-%20Criminal/OGG/Fiona-Apple_Criminal.ogg</location>
+			<duration>263000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Funk4mation/MP3/Funk4Mation_Da-Wild.mp3</location>
+			<title>Funk4Mation_Da-Wild.mp3</title>
+			<creator>Funk4Mation</creator>
+			<album>Da Wild</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Da Wild&quot; by the artist &quot;Funk4Mation&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Funk4mation/AlbumArt/Funk4mation.png</image>
+			<duration>261228</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Funk4mation/OGG/Funk4Mation_Da-Wild.ogg</location>
+			<duration>261000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Limp%20Bizkit/MP3/Limp-Biskit_Rolling_Explicit.mp3</location>
+			<title>Limp-Biskit_Rolling_Explicit.mp3</title>
+			<creator>Limp Bizkit</creator>
+			<album>Rolling</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Rolling&quot; by the artist Limp Bizkit.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Limp Bizkit/AlbumArt/LimpBizkit_Rolling.jpeg</image>
+			<duration>216818</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Limp%20Bizkit/OGG/Limp-Biskit_Rolling_Explicit.ogg</location>
+			<duration>216000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Limp%20Bizkit/MP3/Limp-Biskit_Rolling_Clean.mp3</location>
+			<title>Limp-Biskit_Rolling_Clean.mp3</title>
+			<creator>Limp Bizkit</creator>
+			<album>Rolling (clean)</album>
+			<trackNum>1</trackNum>
+			<annotation>The clean version of the song &quot;Rolling&quot; by the artist &quot;Limp Bizkit&quot; the clean version isn&#39;t normally as good as the explicit version, as all the swears are censored. If you want to hear the unedited song, try the explicit version.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Limp Bizkit/AlbumArt/LimpBizkit_Rolling.jpeg</image>
+			<duration>244325</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Limp%20Bizkit/OGG/Limp-Biskit_Rolling_Clean.ogg</location>
+			<duration>244000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Maroon%205/MP3/Maroon-5_Animals.mp3</location>
+			<title>Maroon-5_Animals.mp3</title>
+			<creator>Maroon 5</creator>
+			<album>Animals</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Animals&quot; by the American Pop Rock band &quot;Maroon 5&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Maroon 5/AlbumArt/Maroon5_Animals.jpeg</image>
+			<duration>280058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Maroon%205/OGG/Maroon-5_Animals.ogg</location>
+			<duration>280000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Maroon%205/MP3/Maroon-5_Girls-Like-You.mp3</location>
+			<title>Maroon-5_Girls-Like-You.mp3</title>
+			<creator>Maroon 5</creator>
+			<album>Girls Like You</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Girls Like You&quot; by the American Pop Rock band &quot;Maroon 5&quot; this may be an unpopular opinion, but this is my least favorite Maroon 5 song. I actually hate this song. I also had to suffer with it on the radio for over a year. I just generally don&#39;t like it. When I found out Cardi B was in it, the opinion became more negative, but I didn&#39;t like the song to begin with.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Maroon 5/AlbumArt/Maroon5_GirlsLikeYou.jpeg</image>
+			<duration>270787</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Maroon%205/OGG/Maroon-5_Girls-Like-You.ogg</location>
+			<duration>270000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Maroon%205/MP3/Maroon-5_Memories.mp3</location>
+			<title>Maroon-5_Memories.mp3</title>
+			<creator>Maroon 5</creator>
+			<album>Memories</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Memories&quot; by the American Pop Rock band &quot;Maroon 5&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Maroon 5/AlbumArt/Maroon5_Memories.jpeg</image>
+			<duration>194979</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Maroon%205/OGG/Maroon-5_Memories.ogg</location>
+			<duration>195000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Maroon%205/MP3/Maroon-5_PayPhone_No-rap_Clean.mp3</location>
+			<title>Maroon-5_PayPhone_No-rap_Clean.mp3</title>
+			<creator>Maroon 5</creator>
+			<album>PayPhone (Clean, no rap)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;PayPhone&quot; by the American Pop Rock band &quot;Maroon 5&quot; this is a modified version that cuts out the rap portion, and the explicit lyrics. I couldn&#39;t find a version that only cut out the rap portion. It doesn&#39;t matter too much. I just wanted a version without the rap portion.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Maroon 5/AlbumArt/Maroon5_PayPhone.jpeg</image>
+			<duration>226067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Maroon%205/OGG/Maroon-5_PayPhone_No-rap_Clean.ogg</location>
+			<duration>226000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Maroon%205/MP3/Maroon-5_PayPhone_With-rap_Explicit.mp3</location>
+			<title>Maroon-5_PayPhone_With-rap_Explicit.mp3</title>
+			<creator>Maroon 5</creator>
+			<album>PayPhone (Rap, Explicit)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;PayPhone&quot; by the American Pop Rock band &quot;Maroon 5&quot; this is the original version with the explicit lyrics AND the rap portions.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Maroon 5/AlbumArt/Maroon5_PayPhone.jpeg</image>
+			<duration>279407</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Maroon%205/OGG/Maroon-5_PayPhone_With-rap_Explicit.ogg</location>
+			<duration>279000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Maroon%205/MP3/Maroon-5_She-will-be-loved.mp3</location>
+			<title>Maroon-5_She-will-be-loved.mp3</title>
+			<creator>Maroon 5</creator>
+			<album>She will be loved</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;She will be loved&quot; by the American Pop Rock band &quot;Maroon 5&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Maroon 5/AlbumArt/Maroon5_SheWillBeLoved.jpeg</image>
+			<duration>268201</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Maroon%205/OGG/Maroon-5_She-will-be-loved.ogg</location>
+			<duration>268000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Michael%20Bubl%C3%A9/MP3/Michael-Bubl%C3%A9_It&#39;s-A-Beautiful-Day.mp3</location>
+			<title>Michael-Bublé_It&#39;s-A-Beautiful-Day.mp3</title>
+			<creator>Michael Bublé</creator>
+			<album>It&#39;s a Beautiful Day</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;It&#39;s a Beautiful Day&quot; by Canadian-Italian singer &quot;Michael Bublé&quot; I hope to get a modified version of this song in the future, as the first 30 seconds don&#39;t contain music, and it is a bland music video.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Michael Bublé/AlbumArt/MichaelBuble_ItsABeautifulDay.jpeg</image>
+			<duration>230036</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Michael%20Bubl%C3%A9/OGG/Michael-Bubl%C3%A9_It&#39;s-A-Beautiful-Day.ogg</location>
+			<duration>229000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Avicii%20-%20Wake%20me%20up/MP3/Avicii_Wake-me-up.mp3</location>
+			<title>Avicii_Wake-me-up.mp3</title>
+			<creator>Avicii</creator>
+			<album>Wake me up</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Wake me up&quot; by Swedish DJ and record producer Avicii. I hope to get a version in the future that cuts out the talking girl that interrupts before the beat drop.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Avicii - Wake me up/AlbumArt/Avicii-Wake-me-up.png</image>
+			<duration>272409</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Avicii%20-%20Wake%20me%20up/OGG/Avicii_Wake-me-up.ogg</location>
+			<duration>272000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gangstas%20paradise/MP3/Coolio_Gangsta&#39;s-Paradise.mp3</location>
+			<title>Coolio_Gangsta&#39;s-Paradise.mp3</title>
+			<creator>Coolio</creator>
+			<album>Gangsta&#39;s Paradise</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Gangsta&#39;s Paradise&quot; by rapper Coolio. I prefer Weird Al Yankovics cover, &quot;Amish Paradise&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Gangstas paradise/AlbumArt/GangstersParadise.jpeg</image>
+			<duration>256108</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gangstas%20paradise/OGG/Coolio_Gangsta&#39;s-Paradise.ogg</location>
+			<duration>256000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stitches/MP3/Stitches_Brick-in-yo-face.mp3</location>
+			<title>Stitches_Brick-in-yo-face.mp3</title>
+			<creator>Stitches</creator>
+			<album>Brick in yo face</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Brick in Yo face&quot; by Rapper &quot;Stitches&quot; song introduced to me by a family member.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Stitches/AlbumArt/BrickInYoFace_Stitches.jpeg</image>
+			<duration>191322</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stitches/OGG/Stitches_Brick-in-yo-face.ogg</location>
+			<duration>191000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Geometry%20dash%20series/Geometry%20Dash/MP3/Geometry-Dash_Full-OST.mp3</location>
+			<title>Geometry-Dash_Full-OST.mp3</title>
+			<creator>RobTop Games</creator>
+			<album>Geometry Dash Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The full soundtrack for the game &quot;Geometry Dash&quot; by RobTop Games.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!Geometry dash series/AlbumArt/geometry-dash.png</image>
+			<duration>3620019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Geometry%20dash%20series/Geometry%20Dash/OGG/Geometry-Dash_Full-OST.ogg</location>
+			<duration>3619000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Geometry%20dash%20series/Geometry%20Dash%20World/MP3/Geometry-Dash-World_Full-OST.mp3</location>
+			<title>Geometry-Dash-World_Full-OST.mp3</title>
+			<creator>RobTop Games</creator>
+			<album>Geometry Dash World Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The full soundtrack for the game &quot;Geometry Dash World&quot; by RobTop Games.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!Geometry dash series/AlbumArt/GeometryDashWorld.jpeg</image>
+			<duration>2194816</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Geometry%20dash%20series/Geometry%20Dash%20World/OGG/Geometry-Dash-World_Full-OST.ogg</location>
+			<duration>2194000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dexters%20lab%20theme/MP3/Dexters-Laboratory_Theme-song.mp3</location>
+			<title>Dexters-Laboratory_Theme-song.mp3</title>
+			<creator>Thomas Chase, Steve Rucker, Gary Lionelli / Cartoon Network</creator>
+			<album>Dexter&#39;s Laboratory theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the TV show &quot;Dexter&#39;s Laboratory&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Dexters lab theme/AlbumArt/DextersLaboratory.jpeg</image>
+			<duration>34926</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dexters%20lab%20theme/OGG/Dexters-Laboratory_Theme-song.ogg</location>
+			<duration>34000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dexters%20lab%20theme/MP3/Dexters-Laboratory_Credits-song.mp3</location>
+			<title>Dexters-Laboratory_Credits-song.mp3</title>
+			<creator>Thomas Chase, Steve Rucker, Gary Lionelli / Cartoon Network</creator>
+			<album>Dexter&#39;s Laboratory Credits song</album>
+			<trackNum>1</trackNum>
+			<annotation>The end credits song for the TV show &quot;Dexter&#39;s Laboratory&quot; this version contains some random sound effects at the end, an edited version that cuts these out is needed.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Dexters lab theme/AlbumArt/DextersLaboratory.jpeg</image>
+			<duration>35892</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dexters%20lab%20theme/OGG/Dexters-Laboratory_Credits-song.ogg</location>
+			<duration>35000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tones%20and%20I%20-%20Dance%20Monkey/MP3/Tones-and-I_Dance-monkey.mp3</location>
+			<title>Tones-and-I_Dance-monkey.mp3</title>
+			<creator>Tones and I</creator>
+			<album>Dance Monkey</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Dance Monkey&quot; by the Australian singer &quot;Tones and I&quot; this version contains 15 seconds of talking at the beginning before the music starts, and needs to be cropped out in the future.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Tones and I - Dance Monkey/AlbumArt/TonesandI_DanceMonkey.png</image>
+			<duration>236279</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tones%20and%20I%20-%20Dance%20Monkey/OGG/Tones-and-I_Dance-monkey.ogg</location>
+			<duration>236000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Line%20birds%20theme/AudioOnly/MP3/Line-Birds_Theme.mp3</location>
+			<title>Line-Birds_Theme.mp3</title>
+			<creator>Alex Khaskin</creator>
+			<album>Flying Adventures (Line Birds Theme Song)</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the game &quot;Line Birds&quot; which is a royalty free song produced by Alex Khaskin.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Line birds theme/AlbumArt/LINEBIRDSLITE.png</image>
+			<duration>53342</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Line%20birds%20theme/AudioOnly/OGG/Line-Birds_Theme.ogg</location>
+			<title>flying_adventures__alex_khaskin__hq</title>
+			<creator>Royalty Free Music - Media Music Now -  www.mediamusicnow.co.uk</creator>
+			<duration>53000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+	</extension>
+</playlist>
