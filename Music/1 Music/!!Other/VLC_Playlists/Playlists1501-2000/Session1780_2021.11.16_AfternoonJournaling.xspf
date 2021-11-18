@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Line%20birds%20theme/AudioOnly/MP3/Line-Birds_Theme.mp3</location>
+			<title>Line-Birds_Theme.mp3</title>
+			<creator>Alex Khaskin</creator>
+			<album>Flying Adventures (Line Birds Theme Song)</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the game &quot;Line Birds&quot; which is a royalty free song produced by Alex Khaskin.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Alex%20Khaskin/Flying%20Adventures%20%28Line%20Birds%20Theme%20Song%29/art.png</image>
+			<duration>53350</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hungarian-Dance/Number5/MP3/Johannes-Brahms_-_Hungarian-Dance-No.-5.mp3</location>
+			<title>Johannes-Brahms_-_Hungarian-Dance-No.-5.mp3</title>
+			<creator>Johannes Brahms</creator>
+			<album>Hungarian Dance No. 5</album>
+			<trackNum>1</trackNum>
+			<annotation>A song that many of people have heard of, but don&#39;t know the name of. Hungarian dance number 5 by Johannes Brahms. I am again using the sheet music as the cover for this song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Johannes%20Brahms/Hungarian%20Dance%20No.%205/art.jpg</image>
+			<duration>201387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Garmarna_Herr-Mannelig/MP3/Garmarna_Herr-Mannelig.mp3</location>
+			<title>Garmarna_Herr-Mannelig.mp3</title>
+			<creator>Garmarna</creator>
+			<album>Herr Mannelig</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Herr Mannelig&quot; recomposed by the Swedish artist Garmarna</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Garmarna/Herr%20Mannelig/art.jpg</image>
+			<duration>171346</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/447359_DarkTidings.mp3</location>
+			<title>Dark_Tidings</title>
+			<creator>Christian_Andersson</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>85447</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/ArcadeLevel.mp3</location>
+			<title>Arcade_Level</title>
+			<creator>Sergei_Stern</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>66672</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/FunLevel.mp3</location>
+			<title>Fun_Level</title>
+			<creator>Sergei_Stern</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>67848</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/JamaicaLevel.mp3</location>
+			<title>Jamaica_Level</title>
+			<creator>Sergei_Stern</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>56563</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/MegaSuperArcadeCup.mp3</location>
+			<title>Mega_Super_Arcade_Cup</title>
+			<creator>Eric_Bode</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>60090</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/MysteryLevel.mp3</location>
+			<title>Mystery_Level</title>
+			<creator>Sergei_Stern</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>64087</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/NewsReport.mp3</location>
+			<title>News_Report</title>
+			<creator>John_Judd</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>59637</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Darude/darude%20sandstorm.webm</location>
+			<duration>232296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rickroll/MP3/Rick-Astley-Never-gonna-give-you-up.mp3</location>
+			<title>Rick-Astley-Never-gonna-give-you-up.mp3</title>
+			<creator>Rick Astley</creator>
+			<album>Never Gonna Give You Up</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rick%20Astley/Never%20Gonna%20Give%20You%20Up/art.jpg</image>
+			<duration>212019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/French-Accordion-Traditionell-Musette/MP3/French-Accordian-Traditionell-Musette.mp3</location>
+			<title>French-Accordian-Traditionell-Musette.mp3</title>
+			<creator>France</creator>
+			<album>Traditionell Musette</album>
+			<trackNum>1</trackNum>
+			<annotation>The classic theme song of France.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/France/Traditionell%20Musette/art.png</image>
+			<duration>144387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gas%20pedal/MP3/Gas-pedal.mp3</location>
+			<title>Gas-pedal.mp3</title>
+			<creator>Sage the Gemini</creator>
+			<album>Gas Pedal</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Gas Pedal&quot; by artist Sage the Gemini.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Sage%20the%20Gemini/Gas%20Pedal/art.jpg</image>
+			<duration>197521</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gangnam%20Style/MP3/Psy-GangnamStyle.mp3</location>
+			<title>Psy-GangnamStyle.mp3</title>
+			<creator>Psy</creator>
+			<album>Gangnam Style</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Psy/Gangnam%20Style/art.jpg</image>
+			<duration>252222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/O-Zone%20-%20Dragostea%20Din%20Tei%20[Official%20Video]/MP3/O-Zone_Dragostea-Din-Tei.mp3</location>
+			<title>O-Zone_Dragostea-Din-Tei.mp3</title>
+			<creator>O-Zone</creator>
+			<album>Dragostea Din Tei</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Dragostea Din Tei&quot; by the band &quot;O-Zone&quot; it gained significant recognition by the lip syncing video of the song by Gary Brolsma in his video &quot;Numa Numa&quot; released originally in 2004.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/O-Zone/Dragostea%20Din%20Tei/art.jpg</image>
+			<duration>285920</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/My%20hope%20will%20never%20die/(No%20video)%20Dr%20-%20My%20hope%20will%20never%20die.webm</location>
+			<duration>216900</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_Working-hard-song-3.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_Working-hard-song-3.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>The third ingame song for the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>85402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+	</extension>
+</playlist>
