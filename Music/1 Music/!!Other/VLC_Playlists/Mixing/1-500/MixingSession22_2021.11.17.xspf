@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/MP3/ASDFMovie-Song-1.mp3</location>
+			<title>ASDFMovie-Song-1.mp3</title>
+			<creator>TomSka</creator>
+			<album>ASDF Movie 1</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for ASDF movie 1 by TomSka.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!ASDF series/AlbumArt/ASDF_Movie.jpeg</image>
+			<duration>173992</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/OGG/ASDFMovie-Song-1.ogg</location>
+			<duration>174000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/MP3/ASDFMovie-Song-6.mp3</location>
+			<title>ASDFMovie-Song-6.mp3</title>
+			<creator>TomSka</creator>
+			<album>ASDF Movie 6</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for ASDF Movie 6 by TomSka.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!ASDF series/AlbumArt/ASDF_Movie.jpeg</image>
+			<duration>149968</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/OGG/ASDFMovie-Song-6.ogg</location>
+			<duration>149000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/MP3/ASDFMovie-Song-6-Remix.mp3</location>
+			<title>ASDFMovie-Song-6-Remix.mp3</title>
+			<creator>TomSka</creator>
+			<album>ASDF Movie 6 remix</album>
+			<trackNum>1</trackNum>
+			<annotation>A remix of the ASDF movie 6 song by TomSka.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!ASDF series/AlbumArt/ASDF_Movie.jpeg</image>
+			<duration>148690</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/OGG/ASDFMovie-Song-6-Remix.ogg</location>
+			<duration>148000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/MP3/ASDFMovie-Song-7.mp3</location>
+			<title>ASDFMovie-Song-7.mp3</title>
+			<creator>TomSka</creator>
+			<album>ASDF Movie 7</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for ASDF Movie 7 by TomSka.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!ASDF series/AlbumArt/ASDF_Movie.jpeg</image>
+			<duration>145294</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/OGG/ASDFMovie-Song-7.ogg</location>
+			<duration>145000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/MP3/ASDFMovie-Song-7-Remix.mp3</location>
+			<title>ASDFMovie-Song-7-Remix.mp3</title>
+			<creator>TomSka</creator>
+			<album>ASDF Movie 7 Remix</album>
+			<trackNum>1</trackNum>
+			<annotation>A remix of the ASDF Movie 7 theme song.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!ASDF series/AlbumArt/ASDF_Movie.jpeg</image>
+			<duration>157650</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/OGG/ASDFMovie-Song-7-Remix.ogg</location>
+			<duration>157000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/MP3/ASDFMovie-Song-8.mp3</location>
+			<title>ASDFMovie-Song-8.mp3</title>
+			<creator>TomSka</creator>
+			<album>ASDF Movie 8 theme</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for ASDF Movie 8 by TomSka.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!ASDF series/AlbumArt/ASDF_Movie.jpeg</image>
+			<duration>135759</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/OGG/ASDFMovie-Song-8.ogg</location>
+			<duration>135000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/MP3/ASDFMovie-Song-8-Remix.mp3</location>
+			<title>ASDFMovie-Song-8-Remix.mp3</title>
+			<creator>TomSka</creator>
+			<album>ASDF Movie 8 theme remix</album>
+			<trackNum>1</trackNum>
+			<annotation>A remix of the ASDF Movie 8 theme by TomSka.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!ASDF series/AlbumArt/ASDF_Movie.jpeg</image>
+			<duration>138189</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/OGG/ASDFMovie-Song-8-Remix.ogg</location>
+			<duration>138000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/MP3/ASDFMovie-Song-11.mp3</location>
+			<title>ASDFMovie-Song-11.mp3</title>
+			<creator>TomSka</creator>
+			<album>ASDF Movie 11 theme</album>
+			<trackNum>1</trackNum>
+			<annotation>The ASDF Movie 11 theme song by TomSka.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!ASDF series/AlbumArt/ASDF_Movie.jpeg</image>
+			<duration>137798</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20Themes/OGG/ASDFMovie-Song-11.ogg</location>
+			<duration>137000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/Beep%20Beep%20I&#39;m%20a%20sheep/MP3/Beep-Beep_I&#39;m-a-sheep.mp3</location>
+			<title>Beep-Beep_I&#39;m-a-sheep.mp3</title>
+			<creator>TomSka</creator>
+			<album>Beep Beep I&#39;m a sheep</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Beep beep I&#39;m a sheep&quot; by TomSka.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!ASDF series/AlbumArt/Beep-Beep_I&#39;m-A-sheep.jpeg</image>
+			<duration>138241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/Beep%20Beep%20I&#39;m%20a%20sheep/OGG/Beep-Beep_I&#39;m-a-sheep.ogg</location>
+			<duration>138000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/Everybody%20do%20the%20flop/MP3/Do-the-Flop_10-minute-version.mp3</location>
+			<title>Do-the-Flop_10-minute-version.mp3</title>
+			<creator>TomSka</creator>
+			<album>Do the flop (extended, 10 minutes)</album>
+			<trackNum>1</trackNum>
+			<annotation>An extended version (10 minutes) of the song &quot;Do the flop&quot; by TomSka, although it is heavily remixed.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!ASDF series/AlbumArt/EverybodyDoTheFlop.jpeg</image>
+			<duration>600063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/Everybody%20do%20the%20flop/OGG/Do-the-Flop_10-minute-version.ogg</location>
+			<duration>600000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/Everybody%20do%20the%20flop/MP3/Everybody-do-the-Flop.mp3</location>
+			<title>Everybody-do-the-Flop.mp3</title>
+			<creator>TomSka</creator>
+			<album>Everybody do the flop</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Everybody do the flop&quot; by TomSka.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!ASDF series/AlbumArt/EverybodyDoTheFlop.jpeg</image>
+			<duration>149735</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/Everybody%20do%20the%20flop/OGG/Everybody-do-the-Flop.ogg</location>
+			<duration>149000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/Mine%20turtle/MP3/Mine-Turtle.mp3</location>
+			<title>Mine-Turtle.mp3</title>
+			<creator>TomSka</creator>
+			<album>Mine Turtle</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Mine turtle&quot; by TomSka.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!ASDF series/AlbumArt/MineTurtle.jpeg</image>
+			<duration>121261</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/Mine%20turtle/OGG/Mine-Turtle.ogg</location>
+			<duration>121000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20movie/I%20like%20trains/MP3/I-like-trains.mp3</location>
+			<title>I-like-trains.mp3</title>
+			<creator>TomSka</creator>
+			<album>I like trains</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I like trains&quot; by TomSka.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!ASDF series/AlbumArt/I-LIKE-TRAINS.jpeg</image>
+			<duration>129436</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20movie/I%20like%20trains/OGG/I-like-trains.ogg</location>
+			<duration>129000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20movie/I%20like%20trains/MP3/I-like-trains_Remix.mp3</location>
+			<title>I-like-trains_Remix.mp3</title>
+			<creator>TomSka</creator>
+			<album>I like trains (remix)</album>
+			<trackNum>1</trackNum>
+			<annotation>TomSka&#39;s remix of the song &quot;I like trains&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/!ASDF series/AlbumArt/I-LIKE-TRAINS.jpeg</image>
+			<duration>135419</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!ASDF%20series/ASDF%20movie/I%20like%20trains/OGG/I-like-trains_Remix.ogg</location>
+			<duration>135000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rick%20Astley/MP3/Rick-Astley_Whenever-you-need-somebody.mp3</location>
+			<title>Rick-Astley_Whenever-you-need-somebody.mp3</title>
+			<creator>Rick Astley</creator>
+			<album>Whenever you need somebody</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Whenever you need somebody&quot; by artist &quot;Rick Astley&quot; this song is a cover of the 1985 song &quot;Whenever you need somebody&quot; by artist Stock Aitken Waterma.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rick Astley/AlbumCover/RickAstley_WheneverYouNeedSomebody.jpeg</image>
+			<duration>205977</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rick%20Astley/OGG/Rick-Astley_Whenever-you-need-somebody.ogg</location>
+			<duration>205000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Darude/MP3/Darude_Sandstorm.mp3</location>
+			<title>Darude_Sandstorm.mp3</title>
+			<creator>Darude</creator>
+			<album>Sandstorm</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Sandstorm&quot; by the artist &quot;Darude&quot; this is an instrumental song, it contains no talking, although it contains a dog barking at one point.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Darude/Sandstorm/art.jpg</image>
+			<duration>232290</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Darude/OGG/Darude_Sandstorm.ogg</location>
+			<duration>232000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rich%20the%20Kid%20-%20Plug%20walk/MP3/Rich-The-Kid_Plug-Walk.mp3</location>
+			<title>Rich-The-Kid_Plug-Walk.mp3</title>
+			<creator>Rich the Kid</creator>
+			<album>Plug Walk</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Plug walk&quot; by artist &quot;Rich the kid&quot; I just solved a self-made conundrum where I confused Chris Brown - Look at me now with this song, and was confused as to why it didn&#39;t sound the same. I figured it out eventually.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rich the Kid - Plug walk/AlbumArt/RichTheKid_PlugWalk.jpeg</image>
+			<duration>203549</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rich%20the%20Kid%20-%20Plug%20walk/OGG/Rich-The-Kid_Plug-Walk.ogg</location>
+			<duration>203000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Chris%20Brown/MP3/Chris-Brown_Look-at-me-now.mp3</location>
+			<title>Chris-Brown_Look-at-me-now.mp3</title>
+			<creator>Chris Brown</creator>
+			<album>Look at me now</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Look at me now&quot; by the artist &quot;Chris Brown&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Chris Brown/AlbumArt/ChrisBrown_LookAtMeNow.jpeg</image>
+			<duration>248400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Chris%20Brown/OGG/Chris-Brown_Look-at-me-now.ogg</location>
+			<duration>248000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Michael%20Jackson%20-%20Bad/MP3/Michael-Jackson_Bad.mp3</location>
+			<title>Michael-Jackson_Bad.mp3</title>
+			<creator>Michael Jackson</creator>
+			<album>Bad</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;bad&quot; by artist &quot;Michael Jackson&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Michael Jackson - Bad/AlbumArt/MichaelJacksonBad.jpeg</image>
+			<duration>246101</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Michael%20Jackson%20-%20Bad/OGG/Michael-Jackson_Bad.ogg</location>
+			<duration>246000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Michael%20Jackson/MP3/Michael-Jackson_Thriller.mp3</location>
+			<title>Michael-Jackson_Thriller.mp3</title>
+			<creator>Michael Jackson</creator>
+			<album>Thriller</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Thriller&quot; by the artist &quot;Michael Jackson&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Michael Jackson/AlbumArt/MichaelJackson_Thriller.jpeg</image>
+			<duration>822216</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Michael%20Jackson/OGG/Michael-Jackson_Thriller.ogg</location>
+			<duration>822000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Drifting%202%20-%20AudioNautix/MP3/Drifting-2_Audionautix.mp3</location>
+			<title>Drifting-2_Audionautix.mp3</title>
+			<creator>AudioNautix</creator>
+			<album>Drifting 2</album>
+			<trackNum>1</trackNum>
+			<annotation>The year &quot;2012&quot; is just a guess, I am unsure when this song was actually published.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Drifting 2 - AudioNautix/AlbumArt/Drifting2_AudioNautix.jpeg</image>
+			<duration>237993</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Drifting%202%20-%20AudioNautix/OGG/Drifting-2_Audionautix.ogg</location>
+			<duration>238000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I&#39;m%20Sexy%20and%20I%20know%20it/MP3/LMFAO_I&#39;m-sexy-and-I-know-it.mp3</location>
+			<title>LMFAO_I&#39;m-sexy-and-I-know-it.mp3</title>
+			<creator>LMFAO</creator>
+			<album>I&#39;m Sexy and I Know It</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I&#39;m sexy and I know it&quot; by the artist &quot;LMFAO&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/I&#39;m Sexy and I know it/AlbumArt/LMFAO_SexyAndIKnowIt.jpeg</image>
+			<duration>203653</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I&#39;m%20Sexy%20and%20I%20know%20it/OGG/LMFAO_I&#39;m-sexy-and-I-know-it.ogg</location>
+			<duration>203000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/My%20hope%20will%20never%20die/MP3/Dr_My-hope-will-never-die.mp3</location>
+			<title>Dr_My-hope-will-never-die.mp3</title>
+			<creator>Dr</creator>
+			<album>I keep holding on</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I keep holding on&quot; by Dr. I cannot determine the year of this song, as its MLG counterpart has so much popularity that it makes it hard to determine the year. So I am using the approximated start of the MLG era as the year. Same goes with the album art, I tried several things, this is as close as I could get.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/My hope will never die/AlbumArt/MyHopeWillNeverDie.jpeg</image>
+			<duration>216741</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/My%20hope%20will%20never%20die/OGG/Dr_My-hope-will-never-die.ogg</location>
+			<duration>216000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Despacito-2_Dear-white-people.mp3</location>
+			<title>Rucka-Rucka-Ali_Despacito-2_Dear-white-people.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Despacito 2 - Dear White People</album>
+			<trackNum>1</trackNum>
+			<annotation>The parody song &quot;Despacito 2 - Dear white people&quot; by the Israeli artist Rucka Rucka Ali. It is a parody of the Daddy Yankee song, Despacito.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rucka Rucka ALI/AlbumArt/RuckaRuckaAli.jpeg</image>
+			<duration>237898</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/OGG/Rucka-Rucka-Ali_Despacito-2_Dear-white-people.ogg</location>
+			<duration>237000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Everything-is-racist.mp3</location>
+			<title>Rucka-Rucka-Ali_Everything-is-racist.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Everything is racist</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Everything is racist&quot; by Israeli artist Rucka Rucka Ali</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rucka Rucka ALI/AlbumArt/RuckaRuckaAli_EverythingIsRacist.jpeg</image>
+			<duration>158647</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/OGG/Rucka-Rucka-Ali_Everything-is-racist.ogg</location>
+			<duration>158000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Go-cops.mp3</location>
+			<title>Rucka-Rucka-Ali_Go-cops.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Go cops</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Go cops&quot; by Israeli artist Rucka Rucka Ali</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rucka Rucka ALI/AlbumArt/RuckaRuckaAli.jpeg</image>
+			<duration>214937</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/OGG/Rucka-Rucka-Ali_Go-cops.ogg</location>
+			<duration>214000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_I-can-do-whatever-I&#39;m-white.mp3</location>
+			<title>Rucka-Rucka-Ali_I-can-do-whatever-I&#39;m-white.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>I can do whatever I&#39;m white</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I can do whatever, I&#39;m white&quot; by the Israeli artist &quot;Rucka Rucka Ali&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rucka Rucka ALI/AlbumArt/RuckaRuckaAli.jpeg</image>
+			<duration>178131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/OGG/Rucka-Rucka-Ali_I-can-do-whatever-I&#39;m-white.ogg</location>
+			<duration>178000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_My-names-Obama.mp3</location>
+			<title>Rucka-Rucka-Ali_My-names-Obama.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>My names Obama</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;My names Obama&quot; by Israeli Artist &quot;Rucka Rucka Ali&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rucka Rucka ALI/AlbumArt/RuckaRuckaAli.jpeg</image>
+			<duration>221260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/OGG/Rucka-Rucka-Ali_My-names-Obama.ogg</location>
+			<duration>221000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_I-know-that-you&#39;ll-miss-Obama.mp3</location>
+			<title>Rucka-Rucka-Ali_I-know-that-you&#39;ll-miss-Obama.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>I know that you&#39;ll miss Obama</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I know that you&#39;ll miss Obama&quot; by Israeli artist Rucka Rucka Ali. A remix of &quot;I know what you did last summer&quot; by Shawn Mendes</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rucka Rucka ALI/AlbumArt/RuckaRuckaAli.jpeg</image>
+			<duration>224708</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/OGG/Rucka-Rucka-Ali_I-know-that-you&#39;ll-miss-Obama.ogg</location>
+			<duration>224000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Only-17.mp3</location>
+			<title>Rucka-Rucka-Ali_Only-17.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Only 17</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Only 17&quot; by Israeli artist &quot;Rucka Rucka Ali&quot; this song is a parody of the Nelly song, &quot;Just a dream&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rucka Rucka ALI/AlbumArt/RuckaRuckaAli.jpeg</image>
+			<duration>232049</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/OGG/Rucka-Rucka-Ali_Only-17.ogg</location>
+			<duration>232000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Prince-Ali-Obama-Aladdin.mp3</location>
+			<title>Rucka-Rucka-Ali_Prince-Ali-Obama-Aladdin.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Prince Ali Obama</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Prince Ali Obama&quot; by the Israeli artist &quot;Rucka Rucka Ali&quot; this song is a parody of the Aladdin movie song &quot;Prince Ali&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rucka Rucka ALI/AlbumArt/RuckaRuckaAli.jpeg</image>
+			<duration>207363</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/OGG/Rucka-Rucka-Ali_Prince-Ali-Obama-Aladdin.ogg</location>
+			<duration>207000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Thrift-Shop-Parody_I&#39;m-Obama.mp3</location>
+			<title>Rucka-Rucka-Ali_Thrift-Shop-Parody_I&#39;m-Obama.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Thrift Shop Parody - I&#39;m Obama</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I&#39;m Obama&quot; by Rucka Rucka Ali, a parody of the song &quot;Thrift shop&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rucka Rucka ALI/AlbumArt/RuckaRuckaAli.jpeg</image>
+			<duration>277215</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/OGG/Rucka-Rucka-Ali_Thrift-Shop-Parody_I&#39;m-Obama.ogg</location>
+			<duration>277000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Thrift-Shop-Parody_I&#39;m-Osama.mp3</location>
+			<title>Rucka-Rucka-Ali_Thrift-Shop-Parody_I&#39;m-Osama.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Thrift Shop Parody - I&#39;m Osama</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I&#39;m Osama&quot; by Rucka Rucka Ali, a parody of the song &quot;Thrift Shop&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rucka Rucka ALI/AlbumArt/RuckaRuckaAli.jpeg</image>
+			<duration>286280</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/OGG/Rucka-Rucka-Ali_Thrift-Shop-Parody_I&#39;m-Osama.ogg</location>
+			<duration>286000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Treat-Jew-Better.mp3</location>
+			<title>Rucka-Rucka-Ali_Treat-Jew-Better.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Treat Jew Better</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Treat Jew better&quot; by the Israeli artist &quot;Rucka Rucka Ali&quot; A parody of the song &quot;Treat you better&quot; by Shawn Mendes.</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rucka Rucka ALI/AlbumArt/RuckaRuckaAli.jpeg</image>
+			<duration>195188</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/OGG/Rucka-Rucka-Ali_Treat-Jew-Better.ogg</location>
+			<duration>195000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Ebola.mp3</location>
+			<title>Rucka-Rucka-Ali_Ebola.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Ebola</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Ebola&quot; by the Israeli artist &quot;Rucka Rucka Ali&quot;</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone 5/Extras/Audio/1 Music/Rucka Rucka ALI/AlbumArt/RuckaRuckaAli.jpeg</image>
+			<duration>225345</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/OGG/Rucka-Rucka-Ali_Ebola.ogg</location>
+			<duration>222000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+	</extension>
+</playlist>
