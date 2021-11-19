@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_I-know-that-you&#39;ll-miss-Obama.mp3</location>
+			<title>Rucka-Rucka-Ali_I-know-that-you&#39;ll-miss-Obama.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>I know that you&#39;ll miss Obama</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I know that you&#39;ll miss Obama&quot; by Israeli artist Rucka Rucka Ali. A remix of &quot;I know what you did last summer&quot; by Shawn Mendes</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rucka%20Rucka%20Ali/I%20know%20that%20you%27ll%20miss%20Obama/art.jpg</image>
+			<duration>224715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Thrift-Shop-Parody_I&#39;m-Osama.mp3</location>
+			<title>Rucka-Rucka-Ali_Thrift-Shop-Parody_I&#39;m-Osama.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Thrift Shop Parody - I&#39;m Osama</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I&#39;m Osama&quot; by Rucka Rucka Ali, a parody of the song &quot;Thrift Shop&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rucka%20Rucka%20Ali/Thrift%20Shop%20Parody%20-%20I%27m%20Osama/art.jpg</image>
+			<duration>286286</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Thrift-Shop-Parody_I&#39;m-Obama.mp3</location>
+			<title>Rucka-Rucka-Ali_Thrift-Shop-Parody_I&#39;m-Obama.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Thrift Shop Parody - I&#39;m Obama</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I&#39;m Obama&quot; by Rucka Rucka Ali, a parody of the song &quot;Thrift shop&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rucka%20Rucka%20Ali/Thrift%20Shop%20Parody%20-%20I%27m%20Obama/art.jpg</image>
+			<duration>277221</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Everything-is-racist.mp3</location>
+			<title>Rucka-Rucka-Ali_Everything-is-racist.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Everything is racist</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Everything is racist&quot; by Israeli artist Rucka Rucka Ali</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rucka%20Rucka%20Ali/Everything%20is%20racist/art.jpg</image>
+			<duration>158650</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Team%20Fortress%202/Every%20TF2%20class%20laughs%20at%20you/MP3/Every-TF2-class-laughs-at-you.mp3</location>
+			<title>Every-TF2-class-laughs-at-you.mp3</title>
+			<creator>Valve / Team Fortress 2</creator>
+			<album>Every Team Fortress 2 class laughs at you</album>
+			<trackNum>1</trackNum>
+			<annotation>Every Team Fortress 2 class laughing at you. Wow, look at this fricking loser - Scout (probably)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20_%20Team%20Fortress%202/Every%20Team%20Fortress%202%20class%20laughs%20at%20you/art.jpg</image>
+			<duration>14923</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Team%20Fortress%202/TF2%20Voicelines/MP3/Soldier-voicelines.mp3</location>
+			<title>Soldier-voicelines.mp3</title>
+			<creator>Valve / Team Fortress 2</creator>
+			<album>Soldier voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All voicelines from the Soldier in Team Fortress 2. Nearly 21 minutes of audio.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20_%20Team%20Fortress%202/Soldier%20voicelines/art.png</image>
+			<duration>1256847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Team%20Fortress%202/TF2%20Voicelines/MP3/Scout-voicelines.mp3</location>
+			<title>Scout-voicelines.mp3</title>
+			<creator>Valve / Team Fortress 2</creator>
+			<album>Scout voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All voicelines from the Scout from Team Fortress 2. Nearly 13 minutes of audio.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20_%20Team%20Fortress%202/Scout%20voicelines/art.png</image>
+			<duration>772245</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Team%20Fortress%202/TF2%20Voicelines/MP3/Medic-voicelines.mp3</location>
+			<title>Medic-voicelines.mp3</title>
+			<creator>Valve / Team Fortress 2</creator>
+			<album>Medic voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All the voicelines from the Medic in Team Fortress 2. Over 15 minutes of audio.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20_%20Team%20Fortress%202/Medic%20voicelines/art.png</image>
+			<duration>924958</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
