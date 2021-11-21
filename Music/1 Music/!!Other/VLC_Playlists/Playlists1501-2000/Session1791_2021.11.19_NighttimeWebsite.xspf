@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song2.mp3</location>
+			<title>Virtual_City_Playground_OST_Song2.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>133546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song3.mp3</location>
+			<title>Virtual_City_Playground_OST_Song3.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>136864</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song4.mp3</location>
+			<title>Virtual_City_Playground_OST_Song4.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>121687</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Restaurant%20story/MP3/Restaurant-Story-Theme_High-Quality.mp3</location>
+			<title>Restaurant-Story-Theme_High-Quality.mp3</title>
+			<creator>Storm8 / TeamLava</creator>
+			<album>Restaurant Story Theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the mobile video game &quot;Restaurant Story&quot; by the developer Storm8/TeamLava.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Storm8%20_%20TeamLava/Restaurant%20Story%20Theme%20song/art.png</image>
+			<duration>204104</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
