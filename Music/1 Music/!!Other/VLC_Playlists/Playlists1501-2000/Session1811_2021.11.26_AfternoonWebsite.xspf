@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bear-hugger-theme/MP3/Punch-Out_Wii_Bear-Hugger-theme.mp3</location>
+			<title>Punch-Out_Wii_Bear-Hugger-theme.mp3</title>
+			<creator>Next Level Games</creator>
+			<album>PunchOut!!! For the Nintendo Wii</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme for fighting Bear Hugger in the Wii version of the video game Punchout.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Next%20Level%20Games/PunchOut%21%21%21%20For%20the%20Nintendo%20Wii/art.jpg</image>
+			<duration>283151</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Forgotten%20Isle%201%20-%20Super%20Mario%20Odyssey%20[OST]-SL9K8dnI_nM.webm</location>
+			<duration>88461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Forgotten%20Isle%202%20-%20Super%20Mario%20Odyssey%20[OST]-bGIP3IUgOg8.webm</location>
+			<duration>175420</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Tostarena%20-%20Town%20-%20Super%20Mario%20Odyssey%20[OST]-71pjLCs2JLM.webm</location>
+			<duration>98101</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Tostarena%20-%20Night%20-%20Super%20Mario%20Odyssey%20[OST]-SU_87vknCn8.webm</location>
+			<duration>197800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Tostarena%20-%20Ruins%20-%20Super%20Mario%20Odyssey%20[OST]-2wWLYg-kgy0.webm</location>
+			<duration>213260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Fossil%20Falls%20-%20Super%20Mario%20Odyssey%20[OST]-1y58yAB3Uvw.webm</location>
+			<duration>228600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Bowser&#39;s%20Castle%201%20-%20Super%20Mario%20Odyssey%20[OST]-Qw2V-UVqR-g.webm</location>
+			<duration>195560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Steam%20Gardens%20-%20Super%20Mario%20Odyssey%20[OST]-s8Mx18uR1dY.mkv</location>
+			<duration>205380</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Shiveria%20-%20Town%20-%20Super%20Mario%20Odyssey%20[OST]-ZHzCG1JhoTo.webm</location>
+			<duration>152260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Bubblaine%20-%20Super%20Mario%20Odyssey%20[OST]-Xb3pJuBzOcY.webm</location>
+			<duration>223260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>
