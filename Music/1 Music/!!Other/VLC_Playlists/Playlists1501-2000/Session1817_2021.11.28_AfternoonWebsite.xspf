@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Daniel_Powter-Bad%20day/MP3/Daniel-Powter_Bad-Day.mp3</location>
+			<title>Daniel-Powter_Bad-Day.mp3</title>
+			<creator>Daniel Powter</creator>
+			<album>Bad Day</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bad Day&quot; by Canadian Pop singer Daniel Powter.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Daniel%20Powter/Bad%20Day/art.jpg</image>
+			<duration>235137</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rick-Astley_Whenever-you-need-somebody/MP3/Rick-Astley_Whenever-you-need-somebody.mp3</location>
+			<title>Rick-Astley_Whenever-you-need-somebody.mp3</title>
+			<creator>Rick Astley</creator>
+			<album>Whenever you need somebody</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Whenever you need somebody&quot; by artist &quot;Rick Astley&quot; this song is a cover of the 1985 song &quot;Whenever you need somebody&quot; by artist Stock Aitken Waterma.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rick%20Astley/Whenever%20you%20need%20somebody/art.jpg</image>
+			<duration>205985</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/AudioOnly/MP3/Portal2-3x01-Reconstructing_More_Science.mp3</location>
+			<title>Reconstructing More Science</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By - Volume 3</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/AudioOnly/MP3/cover.png</image>
+			<duration>156577</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/AudioOnly/MP3/Portal2-3x02-Wheatley_Science.mp3</location>
+			<title>Wheatley Science</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By - Volume 3</album>
+			<trackNum>2</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/AudioOnly/MP3/cover.png</image>
+			<duration>149211</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

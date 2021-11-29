@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Meme_series/How_Meme2020/EarthBound%2053%20-%20Sanctuary%20Guardian.mp4</location>
+			<duration>142500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2013%20Graze%20the%20Roof.ogg</location>
+			<title>Graze the Roof</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>13</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/OGG/cover.png</image>
+			<duration>183000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2005%20Loonboon.ogg</location>
+			<title>Loonboon</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>5</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/OGG/cover.png</image>
+			<duration>107000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hava-Nagila/MP3/Hava-Nagila.mp3</location>
+			<title>Hava-Nagila.mp3</title>
+			<creator>Idelsohn or Nathanson (disputed)</creator>
+			<album>Hava Nagila</album>
+			<trackNum>1</trackNum>
+			<annotation>The Jewish folk song Hava Nagila. Its original creator is commonly disputed, it was either composed by Idelsohn or Nathanson. It was composed in 1918 to celebrate victory over the Ottoman Empire in World War I. The song name translates to &quot;Let us rejoice&quot; in English. I am using a picture of the sheet music as the album art, rather than the flag of Israel.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Idelsohn%20or%20Nathanson%20%28disputed%29/Hava%20Nagila/art.png</image>
+			<duration>165233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rammstein%20-%20Du%20hast/MP3/Rammstein_Du-Hast.mp3</location>
+			<title>Rammstein_Du-Hast.mp3</title>
+			<creator>Rammstein</creator>
+			<album>Du Hast</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Du Hast&quot; (German: &quot;You have&quot;) from the German artist Rammstein.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rammstein/Du%20Hast/art.jpg</image>
+			<duration>235111</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
