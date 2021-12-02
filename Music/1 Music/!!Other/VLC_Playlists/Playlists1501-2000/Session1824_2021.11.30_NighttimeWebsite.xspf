@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hava-Nagila/MP3/Hava-Nagila.mp3</location>
+			<title>Hava-Nagila.mp3</title>
+			<creator>Idelsohn or Nathanson (disputed)</creator>
+			<album>Hava Nagila</album>
+			<trackNum>1</trackNum>
+			<annotation>The Jewish folk song Hava Nagila. Its original creator is commonly disputed, it was either composed by Idelsohn or Nathanson. It was composed in 1918 to celebrate victory over the Ottoman Empire in World War I. The song name translates to &quot;Let us rejoice&quot; in English. I am using a picture of the sheet music as the album art, rather than the flag of Israel.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Idelsohn%20or%20Nathanson%20%28disputed%29/Hava%20Nagila/art.png</image>
+			<duration>165233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Osiris/MP3/Ancient-Egyptian-Music-Osiris.mp3</location>
+			<title>Ancient-Egyptian-Music-Osiris.mp3</title>
+			<creator>Ancient Egypt</creator>
+			<album>Osiris</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Osiris, composed in Ancient Egypt thousands of years ago.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Ancient%20Egypt/Osiris/art.jpg</image>
+			<duration>198931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/M.I.A-Bad-Girls-Instrumental/MP3/M.I.A._Bad-Girls-Instrumental.mp3</location>
+			<title>M.I.A._Bad-Girls-Instrumental.mp3</title>
+			<creator>M.I.A.</creator>
+			<album>Bad Girls (Instrumental)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bad girls&quot; in Instrumental format, by the British band M.I.A.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/M.I.A./Bad%20Girls%20%28Instrumental%29/art.jpg</image>
+			<duration>228737</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/[KAIROSOFT%20SOUNDTRACKS]%20Game%20Dev%20Story%20-%20Working%20Hard%20(3)-BXV2htCCulk.mkv</location>
+			<duration>85441</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_Working-hard-song-3.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_Working-hard-song-3.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>The third ingame song for the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>85402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_GameDex.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_GameDex.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>8</trackNum>
+			<annotation>The song that plays when you view the index of games in the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>26287</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/ArcadeLevel.mp3</location>
+			<title>Arcade_Level</title>
+			<creator>Sergei_Stern</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>66672</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/JamaicaLevel.mp3</location>
+			<title>Jamaica_Level</title>
+			<creator>Sergei_Stern</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>56563</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/MegaSuperArcadeCup.mp3</location>
+			<title>Mega_Super_Arcade_Cup</title>
+			<creator>Eric_Bode</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>60090</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/NewsReport.mp3</location>
+			<title>News_Report</title>
+			<creator>John_Judd</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>59639</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/USSR%20theme/MP3/USSR_Anthem.mp3</location>
+			<title>USSR_Anthem.mp3</title>
+			<creator>Various, Soviet Union</creator>
+			<album>Soviet Union Anthems</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Various%2C%20Soviet%20Union/Soviet%20Union%20Anthems/art.png</image>
+			<duration>224950</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2008%20Watery%20Graves%20(slow).ogg</location>
+			<title>Watery Graves (slow)</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>8</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/OGG/cover.png</image>
+			<duration>121000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2009%20Watery%20Graves%20(fast).ogg</location>
+			<title>Watery Graves (fast)</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>9</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/OGG/cover.png</image>
+			<duration>116000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2010%20Ultimate%20Battle.ogg</location>
+			<title>Ultimate Battle</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>10</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/OGG/cover.png</image>
+			<duration>115000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2029%20Brainiac%20Maniac%20IN-GAME.ogg</location>
+			<title>Brainiac Maniac IN-GAME</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>29</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/OGG/cover.png</image>
+			<duration>119000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/OGG/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2024%20Watery%20Graves%20IN-GAME.ogg</location>
+			<title>Watery Graves IN-GAME</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>24</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/OGG/cover.png</image>
+			<duration>221000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+	</extension>
+</playlist>

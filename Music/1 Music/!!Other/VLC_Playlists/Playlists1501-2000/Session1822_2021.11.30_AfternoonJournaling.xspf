@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Series/Sonic%20The%20Hedgehog%20(Genesis)%20OST/spring%20yard%20zone%20ost.webm</location>
+			<duration>127920</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Garfielf-theme/MP3/BEGNAGRAD_Coc&#39;n-Rolla.mp3</location>
+			<title>BEGNAGRAD_Coc&#39;n-Rolla.mp3</title>
+			<creator>BEGNAGRAD</creator>
+			<album>Coc&#39;n Rolla</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Coc&#39;n Rolla&quot; by the artist &quot;BEGNAGRAD&quot; commonly known as the theme song for the Internet Meme &quot;Garfielf&quot; that features a poorly drawn Garfield saying various things while this song plays in the background.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/BEGNAGRAD/Coc%27n%20Rolla/art.jpg</image>
+			<duration>330146</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20Farm%20theme%20song/MP3/Zombie_Farm_Theme.mp3</location>
+			<title>Zombie_Farm_Theme.mp3</title>
+			<creator>The Play Forge</creator>
+			<album>Zombie Farm Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Play%20Forge/Zombie%20Farm%20Soundtrack/art.png</image>
+			<duration>60011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Homebrew%20Channel%20OST/MP3/The-Homebrew-Channel-theme.mp3</location>
+			<title>The-Homebrew-Channel-theme.mp3</title>
+			<creator>Homebrew Community</creator>
+			<album>The Homebrew Channel theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the Homebrew channel on the Nintendo Wii once it has been bluebombed with a blueletter.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Homebrew%20Community/The%20Homebrew%20Channel%20theme%20song/art.jpg</image>
+			<duration>88825</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Claire%20De%20Lune%20Claude%20Debussy/MP3/Claire-de-Lune_Claude-Debussy.mp3</location>
+			<title>Claire-de-Lune_Claude-Debussy.mp3</title>
+			<creator>Claude Debussy</creator>
+			<album>Claire De Lune</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Claire de Lune&quot; by the French artist &quot;Claude Debussy&quot; I got the names mixed up originally, this has been fixed in this files media information.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Claude%20Debussy/Claire%20De%20Lune/art.jpg</image>
+			<duration>302220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!iBlast%20Moki%20series/iBlast%20Moki/Raw%20Audio/Romain%20Gauthier%20-%20iBlast%20Moki%20-%20Background%20Music%201%20(2009).mp3</location>
+			<title>iBlast Moki - Background Music 1 (2009)</title>
+			<creator>Romain Gauthier</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>8</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20Gauthier/iBlast%20Moki%202/art</image>
+			<duration>246334</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!iBlast%20Moki%20series/iBlast%20Moki/Raw%20Audio/Romain%20Gauthier%20-%20iBlast%20Moki%20-%20Extended%20Title%20(2010).mp3</location>
+			<title>iBlast Moki - Extended Title (2009)</title>
+			<creator>Romain Gauthier</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>7</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20Gauthier/iBlast%20Moki%202/art</image>
+			<duration>164676</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!iBlast%20Moki%20series/iBlast%20Moki/Raw%20Audio/Romain%20Gauthier%20-%20iBlast%20Moki%20-%20Background%20Music%202%20(2010).mp3</location>
+			<title>iBlast Moki - Background Music 2 (2009)</title>
+			<creator>Romain Gauthier</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>9</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20Gauthier/iBlast%20Moki%202/art</image>
+			<duration>213969</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!iBlast%20Moki%20series/iBlast%20Moki/Raw%20Audio/Romain%20Gauthier%20-%20iBlast%20Moki%20-%20Background%20Music%202%20(2009).ogg</location>
+			<title>iBlast Moki - Background Music 2 (2009)</title>
+			<creator>Romain Gauthier</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>9</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<duration>213000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gangstas%20paradise/MP3/Coolio_Gangsta&#39;s-Paradise.mp3</location>
+			<title>Coolio_Gangsta&#39;s-Paradise.mp3</title>
+			<creator>Coolio</creator>
+			<album>Gangsta&#39;s Paradise</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Gangsta&#39;s Paradise&quot; by rapper Coolio. I prefer Weird Al Yankovics cover, &quot;Amish Paradise&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Coolio/Gangsta%27s%20Paradise/art.jpg</image>
+			<duration>256114</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Merge%20Plane%20OST/MP3/Merge_Plane_OST_SpeedUp2x_Extended.mp3</location>
+			<title>Merge_Plane_OST_SpeedUp2x_Extended.mp3</title>
+			<creator>Unknown Artist</creator>
+			<album>Merge Plane OST</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown%20Artist/Merge%20Plane%20OST/art.png</image>
+			<duration>1800041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dutch-Windmills/MP3/Traditional-Dutch-Music_Dutch-Windmills.mp3</location>
+			<title>Traditional-Dutch-Music_Dutch-Windmills.mp3</title>
+			<creator>Netherlands</creator>
+			<album>Dutch Windmills</album>
+			<trackNum>1</trackNum>
+			<annotation>The traditional Dutch Windmills song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Netherlands/Dutch%20Windmills/art.jpg</image>
+			<duration>189501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Frostbite%20Caves/Plants%20Vs%20Zombies%202%20Music%20-%20Frostbite%20Cave%20Demonstration%20Mini-Game%20%E2%98%BF%20HD%20%E2%98%BF%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>419932</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Frostbite%20Caves/Plants%20Vs%20Zombies%202%20Music%20-%20Frostbite%20Cave%20Ultimate%20Battle%20%E2%98%BF%20HD%20%E2%98%BF%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>374491</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Line%20birds%20theme/AudioOnly/MP3/Line-Birds_Theme.mp3</location>
+			<title>Line-Birds_Theme.mp3</title>
+			<creator>Alex Khaskin</creator>
+			<album>Flying Adventures (Line Birds Theme Song)</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the game &quot;Line Birds&quot; which is a royalty free song produced by Alex Khaskin.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Alex%20Khaskin/Flying%20Adventures%20%28Line%20Birds%20Theme%20Song%29/art.png</image>
+			<duration>53350</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/French-Accordion-Traditionell-Musette/MP3/French-Accordian-Traditionell-Musette.mp3</location>
+			<title>French-Accordian-Traditionell-Musette.mp3</title>
+			<creator>France</creator>
+			<album>Traditionell Musette</album>
+			<trackNum>1</trackNum>
+			<annotation>The classic theme song of France.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/France/Traditionell%20Musette/art.png</image>
+			<duration>144387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hollaback%20Girl/MP3/Hollaback-Girl-Explicit.mp3</location>
+			<title>Hollaback-Girl-Explicit.mp3</title>
+			<creator>Hollaback Girl</creator>
+			<album>Hollaback Girl</album>
+			<trackNum>1</trackNum>
+			<annotation>B A N A N A S</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Hollaback%20Girl/Hollaback%20Girl/art.jpg</image>
+			<duration>207056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Goosebumps%20theme/MP3/Goosebumps-(Theme-Song).mp3</location>
+			<title>Goosebumps-(Theme-Song).mp3</title>
+			<creator>R.L. Stine</creator>
+			<album>Goosebumps</album>
+			<trackNum>1</trackNum>
+			<annotation>The Goosebumps theme song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/R.L.%20Stine/Goosebumps/art.jpg</image>
+			<duration>68632</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/TMNT4%20Big%20apple%203%20am/MP3/TMNT-4-SNES_BigApple3AM.mp3</location>
+			<title>TMNT-4-SNES_BigApple3AM.mp3</title>
+			<creator>Konami</creator>
+			<album>Teenage Mutant Ninja Turtles 4 Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Big Apple 3AM&quot; from the SNES game Teenage Mutant Ninja Turtles IV.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Teenage%20Mutant%20Ninja%20Turtles%204%20Soundtrack/art.jpg</image>
+			<duration>900481</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Stickman%20Base%20Jumper%20theme%20song/MP3/Stickman-Base-Jumper-theme-song.mp3</location>
+			<title>Stickman-Base-Jumper-theme-song.mp3</title>
+			<creator>Djinnworks</creator>
+			<album>Stickman Base Jumper theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The song used in the Stickman base jumper mobile game.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Djinnworks/Stickman%20Base%20Jumper%20theme%20song/art.png</image>
+			<duration>59332</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Growtopia/suspended.ogg</location>
+			<duration>67000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Growtopia/hula.ogg</location>
+			<duration>20000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Growtopia/get_ready.ogg</location>
+			<duration>40000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Growtopia/love_birds.ogg</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/MP3/12%20Still%20Alive.mp3</location>
+			<title>Still Alive</title>
+			<creator>Aperture Science Psychoacoustics Laboratories</creator>
+			<album>Portal</album>
+			<trackNum>12</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/MP3/cover.png</image>
+			<duration>176457</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/MP3/06%20No%20Cake%20For%20You.mp3</location>
+			<title>No Cake For You</title>
+			<creator>Aperture Science Psychoacoustics Laboratories</creator>
+			<album>Portal</album>
+			<trackNum>6</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/MP3/cover.png</image>
+			<duration>245394</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/MP3/10%20You&#39;re%20Not%20a%20Good%20Person.mp3</location>
+			<title>You&#39;re Not a Good Person</title>
+			<creator>Aperture Science Psychoacoustics Laboratories</creator>
+			<album>Portal</album>
+			<trackNum>10</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/MP3/cover.png</image>
+			<duration>84506</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/MP3/05%20Procedural%20Jiggle%20Bone.mp3</location>
+			<title>Procedural Jiggle Bone</title>
+			<creator>Aperture Science Psychoacoustics Laboratories</creator>
+			<album>Portal</album>
+			<trackNum>5</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/MP3/cover.png</image>
+			<duration>274546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/MP3/03%20Android%20Hell.mp3</location>
+			<title>Android Hell</title>
+			<creator>Aperture Science Psychoacoustics Laboratories</creator>
+			<album>Portal</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/MP3/cover.png</image>
+			<duration>225959</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/MP3/04%20Self%20Esteem%20Fund.mp3</location>
+			<title>Self Esteem Fund</title>
+			<creator>Aperture Science Psychoacoustics Laboratories</creator>
+			<album>Portal</album>
+			<trackNum>4</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/MP3/cover.png</image>
+			<duration>210938</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/MP3/01%20Subject%20Name%20Here.mp3</location>
+			<title>Subject Name Here</title>
+			<creator>Aperture Science Psychoacoustics Laboratories</creator>
+			<album>Portal</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/MP3/cover.png</image>
+			<duration>104777</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/MP3/07%204000%20Degrees%20Kelvin.mp3</location>
+			<title>4000 Degrees Kelvin</title>
+			<creator>Aperture Science Psychoacoustics Laboratories</creator>
+			<album>Portal</album>
+			<trackNum>7</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/MP3/cover.png</image>
+			<duration>61518</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/AudioOnly/MP3/Portal2-2x03-Bots_Build_Bots.mp3</location>
+			<title>(defun botsbuildbots () (botsbuildbots))</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By - Volume 2</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/AudioOnly/MP3/cover.png</image>
+			<duration>247144</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+	</extension>
+</playlist>
