@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Ubuntu/ubuntu%20startup%20and%20shutdown%20old%20and%20new.mp3</location>
+			<duration>55275</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Mania%20series/Sonic%20Mania%20OST/Video%20with%20audio/Extended/MP4/y2mate.com%20-%20studiopolis_zone_act_1_lights_camera_action_old_version_sonic_mania_plus_music_extended_w9cxcsdg8es_1080p.mp4</location>
+			<duration>1799222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Mania%20series/Sonic%20Mania%20OST/Video%20with%20audio/Extended/MP4/y2mate.com%20-%20studiopolis_zone_act_2_prime_time_sonic_mania_plus_music_extended_JCsCuOgZjeo_1080p.mp4</location>
+			<duration>1800058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Mania%20series/Sonic%20Mania%20OST/Video%20with%20audio/Extended/MP4/y2mate.com%20-%20introduction_tee_lopes_ver_sonic_mania_plus_music_ncPdAHZE0Zc_1080p.mp4</location>
+			<duration>81061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Mania%20series/Sonic%20Mania%20OST/Video%20with%20audio/Extended/MP4/y2mate.com%20-%20flying_battery_zone_act_2_sonic_mania_plus_music_extended_DeBOw-iwprw_1080p.mp4</location>
+			<duration>1800058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
