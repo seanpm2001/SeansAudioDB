@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/FunLevel.mp3</location>
+			<title>Fun_Level</title>
+			<creator>Sergei_Stern</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>67848</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/JamaicaLevel.mp3</location>
+			<title>Jamaica_Level</title>
+			<creator>Sergei_Stern</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>56564</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/NewsReport.mp3</location>
+			<title>News_Report</title>
+			<creator>John_Judd</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>59637</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/MegaSuperArcadeCup.mp3</location>
+			<title>Mega_Super_Arcade_Cup</title>
+			<creator>Eric_Bode</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>60090</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Line%20birds%20theme/AudioOnly/MP3/Line-Birds_Theme.mp3</location>
+			<title>Line-Birds_Theme.mp3</title>
+			<creator>Alex Khaskin</creator>
+			<album>Flying Adventures (Line Birds Theme Song)</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the game &quot;Line Birds&quot; which is a royalty free song produced by Alex Khaskin.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Alex%20Khaskin/Flying%20Adventures%20%28Line%20Birds%20Theme%20Song%29/art.png</image>
+			<duration>53350</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Merge%20Plane%20OST/MP3/Merge_Plane_OST_MainTheme_Extended.mp3</location>
+			<title>Merge_Plane_OST_MainTheme_Extended.mp3</title>
+			<creator>Unknown Artist</creator>
+			<album>Merge Plane OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown%20Artist/Merge%20Plane%20OST/art.png</image>
+			<duration>316039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Merge%20Plane%20OST/MP3/Merge_Plane_OST_SpeedUp2x_Extended.mp3</location>
+			<title>Merge_Plane_OST_SpeedUp2x_Extended.mp3</title>
+			<creator>Unknown Artist</creator>
+			<album>Merge Plane OST</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown%20Artist/Merge%20Plane%20OST/art.png</image>
+			<duration>1800041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Darude/MP3/Darude_Sandstorm.mp3</location>
+			<title>Darude_Sandstorm.mp3</title>
+			<creator>Darude</creator>
+			<album>Sandstorm</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Sandstorm&quot; by the artist &quot;Darude&quot; this is an instrumental song, it contains no talking, although it contains a dog barking at one point.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Darude/Sandstorm/art.jpg</image>
+			<duration>232290</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Homebrew%20Channel%20OST/MP3/The-Homebrew-Channel-theme.mp3</location>
+			<title>The-Homebrew-Channel-theme.mp3</title>
+			<creator>Homebrew Community</creator>
+			<album>The Homebrew Channel theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the Homebrew channel on the Nintendo Wii once it has been bluebombed with a blueletter.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Homebrew%20Community/The%20Homebrew%20Channel%20theme%20song/art.jpg</image>
+			<duration>88825</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_Working-hard-song-3.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_Working-hard-song-3.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>The third ingame song for the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>85402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_Title.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_Title.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon</album>
+			<trackNum>1</trackNum>
+			<annotation>The title song for the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon/art.jpg</image>
+			<duration>31877</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_New-Game-Console.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_New-Game-Console.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>9</trackNum>
+			<annotation>The song that plays when a new video game console is released in the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>21637</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_Working-hard-song-2.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_Working-hard-song-2.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>The second ingame song for the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>54107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_GameDex.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_GameDex.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>8</trackNum>
+			<annotation>The song that plays when you view the index of games in the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>26287</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_Working-hard-song-1.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_Working-hard-song-1.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>The first ingame song for the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>60717</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_Creating-Game.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_Creating-Game.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>5</trackNum>
+			<annotation>The song for when you are creating a game in the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft. Will the game be a success, or a failure?</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>13800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_GameDex.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_GameDex.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>8</trackNum>
+			<annotation>The song that plays when you view the index of games in the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>26287</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dumb%20Ways%20to%20Die/AudioOnly/MP3/Dumb-Ways-to-Die-Theme-song.mp3</location>
+			<title>Dumb-Ways-to-Die-Theme-song.mp3</title>
+			<creator>Metro Trains (Melbourne, Australia)</creator>
+			<album>Dumb Ways to Die</album>
+			<trackNum>2</trackNum>
+			<annotation>The song from the music video unlocked once you play Dumb Ways to die and get a score of 800, and after you agree to be safe around trains.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Metro%20Trains%20%28Melbourne%2C%20Australia%29/Dumb%20Ways%20to%20Die/art.jpg</image>
+			<duration>181952</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Growtopia/about_theme.ogg</location>
+			<duration>60000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Polish%20Cow/MP3/Polish-Cow.mp3</location>
+			<title>Polish-Cow.mp3</title>
+			<creator>Lipps Inc.</creator>
+			<album>How long (Ace)</album>
+			<trackNum>1</trackNum>
+			<annotation>The origins of this song go a lot deeper than I expected. The song was originally a 1974 song by the artist Ace, which had a Polish cover in 1980 by Lipps Inc.. It wasn&#39;t until 2020 that it was inserted over a GIF of a dancing cow, spawning the Polish cow meme.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Lipps%20Inc./How%20long%20%28Ace%29/art.jpg</image>
+			<duration>243262</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pocket_Potions_OST/MP3/Pocket-Potions-Theme-song-uncut.mp3</location>
+			<title>Pocket-Potions-Theme-song-uncut.mp3</title>
+			<creator>Breaktime Studios</creator>
+			<album>Pocket Potions soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The trailer for the Pocket Potions game, in audio format. The closest I can get to a quality version of the song at the moment.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Breaktime%20Studios/Pocket%20Potions%20soundtrack/art.jpg</image>
+			<duration>60037</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Sweet_Shop_OST/MP3/Sweet-Shop-Theme-song-Uncut.mp3</location>
+			<title>Sweet-Shop-Theme-song-Uncut.mp3</title>
+			<creator>Breaktime Studios</creator>
+			<album>Sweet Shop Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The best quality version I can get of the soundtrack for the game Sweet Shop. It is an audio version of a trailer of the game by iGamesView. The audio quality is good, but the sound effects, intro, and outro need to be cut to perfect it.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Breaktime%20Studios/Sweet%20Shop%20Soundtrack/art.png</image>
+			<duration>141514</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gangnam%20Style/MP3/Psy-GangnamStyle.mp3</location>
+			<title>Psy-GangnamStyle.mp3</title>
+			<creator>Psy</creator>
+			<album>Gangnam Style</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Psy/Gangnam%20Style/art.jpg</image>
+			<duration>252222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Threw%20it%20on%20the%20ground/MP3/Threw-It-On-The-Ground.mp3</location>
+			<title>Threw-It-On-The-Ground.mp3</title>
+			<creator>TheLonelyIsland</creator>
+			<album>Threw it on the ground</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;threw it on the ground&quot; by the band TheLonelyIsland</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/TheLonelyIsland/Threw%20it%20on%20the%20ground/art.jpg</image>
+			<duration>167584</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Homebrew%20Channel%20OST/MP3/The-Homebrew-Channel-theme.mp3</location>
+			<title>The-Homebrew-Channel-theme.mp3</title>
+			<creator>Homebrew Community</creator>
+			<album>The Homebrew Channel theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the Homebrew channel on the Nintendo Wii once it has been bluebombed with a blueletter.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Homebrew%20Community/The%20Homebrew%20Channel%20theme%20song/art.jpg</image>
+			<duration>88825</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dumb%20Ways%20to%20Die/AudioOnly/MP3/Dumb-Ways-to-Die-Theme-song.mp3</location>
+			<title>Dumb-Ways-to-Die-Theme-song.mp3</title>
+			<creator>Metro Trains (Melbourne, Australia)</creator>
+			<album>Dumb Ways to Die</album>
+			<trackNum>2</trackNum>
+			<annotation>The song from the music video unlocked once you play Dumb Ways to die and get a score of 800, and after you agree to be safe around trains.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Metro%20Trains%20%28Melbourne%2C%20Australia%29/Dumb%20Ways%20to%20Die/art.jpg</image>
+			<duration>181952</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hava-Nagila/MP3/Hava-Nagila.mp3</location>
+			<title>Hava-Nagila.mp3</title>
+			<creator>Idelsohn or Nathanson (disputed)</creator>
+			<album>Hava Nagila</album>
+			<trackNum>1</trackNum>
+			<annotation>The Jewish folk song Hava Nagila. Its original creator is commonly disputed, it was either composed by Idelsohn or Nathanson. It was composed in 1918 to celebrate victory over the Ottoman Empire in World War I. The song name translates to &quot;Let us rejoice&quot; in English. I am using a picture of the sheet music as the album art, rather than the flag of Israel.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Idelsohn%20or%20Nathanson%20%28disputed%29/Hava%20Nagila/art.png</image>
+			<duration>165233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rokiczanka-W-moim-ogr%C3%B3decku/MP3/Rokiczanka_W-moim-ogr%C3%B3decku.mp3</location>
+			<title>Rokiczanka_W-moim-ogródecku.mp3</title>
+			<creator>Rokiczanka</creator>
+			<album>W moim ogródecku</album>
+			<trackNum>1</trackNum>
+			<annotation>I can&#39;t translate the necessary info accurately to fill out info here. All I know is that it is a good song (IMO)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rokiczanka/W%20moim%20ogr%C3%B3decku/art.jpg</image>
+			<duration>238638</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Brotherman%20Bill/Brotherman%20bill.mp4</location>
+			<duration>233221</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Mega%20Panda%20Theme/MP3/Mega-Panda-Theme-Song-Uncut.mp3</location>
+			<title>Mega-Panda-Theme-Song-Uncut.mp3</title>
+			<creator>NimbleBit</creator>
+			<album>Mega Panda theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song to the game Mega Panda by NimbleBit LLC.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/NimbleBit/Mega%20Panda%20theme%20song/art.png</image>
+			<duration>120590</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/David%20Bowie/MP3/David-Bowie_Space-Oddity.mp3</location>
+			<title>David-Bowie_Space-Oddity.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Space Oddity</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Space Oddity&quot; by David Bowie.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Space%20Oddity/art.jpg</image>
+			<duration>304937</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Mr.Blue%20Sky/MP3/Mr.BlueSky.mp3</location>
+			<title>Mr.BlueSky.mp3</title>
+			<creator>ELO (Electric Light Orchestra)</creator>
+			<album>Mr. Blue Sky</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/ELO%20%28Electric%20Light%20Orchestra%29/Mr.%20Blue%20Sky/art.jpg</image>
+			<duration>294619</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Pixar%20series/Wall-E%20OST/2815%20AD.webm</location>
+			<duration>217700</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Pixar%20series/Wall-E%20OST/hyperjump.webm</location>
+			<duration>74600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Pixar%20series/Wall-E%20OST/the%20axium.webm</location>
+			<duration>154620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Pixar%20series/Wall-E%20OST/first%20date.webm</location>
+			<duration>89300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Pixar%20series/Wall-E%20OST/define%20dancing.webm</location>
+			<duration>153200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Pixar%20series/Wall-E%20OST/march%20of%20the%20gels.webm</location>
+			<duration>64333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Pixar%20series/Wall-E%20OST/BNL.webm</location>
+			<duration>30033</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Pixar%20series/Wall-E%20OST/2815%20AD.webm</location>
+			<duration>217700</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Pixar%20series/Wall-E%20OST/72%20degrees%20and%20sunny.webm</location>
+			<duration>202300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+	</extension>
+</playlist>
