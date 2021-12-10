@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/We&#39;ll%20meet%20again/MP3/We&#39;ll-meet-again.mp3</location>
+			<title>We&#39;ll-meet-again.mp3</title>
+			<creator>Vera Lynn</creator>
+			<album>The very best of Vera Lynn</album>
+			<trackNum>1</trackNum>
+			<annotation>This is the oldest song in my collection that is in its original digital format. All songs in my collection prior to this (as of 2021 October 30th) are remasters made from the original composition notes. I originally thought it was from 1940, I was 1 year off.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Vera%20Lynn/The%20very%20best%20of%20Vera%20Lynn/art.jpg</image>
+			<duration>182579</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dutch-Windmills/MP3/Traditional-Dutch-Music_Dutch-Windmills.mp3</location>
+			<title>Traditional-Dutch-Music_Dutch-Windmills.mp3</title>
+			<creator>Netherlands</creator>
+			<album>Dutch Windmills</album>
+			<trackNum>1</trackNum>
+			<annotation>The traditional Dutch Windmills song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Netherlands/Dutch%20Windmills/art.jpg</image>
+			<duration>189501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Garmarna_Herr-Mannelig/MP3/Garmarna_Herr-Mannelig.mp3</location>
+			<title>Garmarna_Herr-Mannelig.mp3</title>
+			<creator>Garmarna</creator>
+			<album>Herr Mannelig</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Herr Mannelig&quot; recomposed by the Swedish artist Garmarna</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Garmarna/Herr%20Mannelig/art.jpg</image>
+			<duration>171346</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Over-there-(WW1)/MP3/WW1_OverThere.mp3</location>
+			<title>WW1_OverThere.mp3</title>
+			<creator>George M. Cohan</creator>
+			<album>Over there</album>
+			<trackNum>1</trackNum>
+			<annotation>A WWI patriotic song by George M. Cohan.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/George%20M.%20Cohan/Over%20there/art.jpg</image>
+			<duration>214187</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/U2/U2%20-%20Pride%20(In%20the%20name%20of%20love).mp4</location>
+			<duration>222842</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
