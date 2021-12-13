@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Wings%20to%20fly/Japanese/MP3/Tsubasa-wo-kudasai-hiragana(%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA)version(WINGS-TO-FLY).mp3</location>
+			<title>Tsubasa-wo-kudasai-hiragana(ひらがな)version(WINGS-TO-FLY).mp3</title>
+			<creator>Unknown Japanese Artist</creator>
+			<album>Tsubasa wo kudasai (Wings to fly)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Tsubasa-wo-kudasai&quot; by an unknown Japanese artist. This may be the original version of the song &quot;Wings to fly&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown%20Japanese%20Artist/Tsubasa%20wo%20kudasai%20%28Wings%20to%20fly%29/art.png</image>
+			<duration>219177</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Wings%20to%20fly/Evangelion/MP3/Evangelion_Tsubasa-wo-Kudasai.mp3</location>
+			<title>Evangelion_Tsubasa-wo-Kudasai.mp3</title>
+			<creator>Evangelion</creator>
+			<album>Wings to fly / Tsubasa wo Kudasai</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Tsubasa wo Kudasai&quot; (Wings to fly) performed in the 2009 Anime Ova/Movie: Evangelion 2.0 (you can (not) advance) from 2009.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Evangelion/Wings%20to%20fly%20_%20Tsubasa%20wo%20Kudasai/art.png</image>
+			<duration>299634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/01%20Hazardous%20Environments.mp3</location>
+			<title>Hazardous Environments</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<duration>84796</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/04%20Brane%20Scan.mp3</location>
+			<title>Brane Scan</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>0</annotation>
+			<duration>100835</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/17%20Triage%20at%20Dawn.mp3</location>
+			<title>Triage at Dawn</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>17</trackNum>
+			<annotation>0</annotation>
+			<duration>45482</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/18%20Combine%20Harvester.mp3</location>
+			<title>Combine Harvester</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>18</trackNum>
+			<annotation>0</annotation>
+			<duration>85528</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/22%20LG%20Orbifold.mp3</location>
+			<title>LG Orbifold</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>22</trackNum>
+			<annotation>0</annotation>
+			<duration>172385</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/43%20Lambda%20Core.mp3</location>
+			<title>Lambda Core</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>43</trackNum>
+			<annotation>0</annotation>
+			<duration>104597</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/27%20Particle%20Ghost.mp3</location>
+			<title>Particle Ghost</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>27</trackNum>
+			<annotation>0</annotation>
+			<duration>100417</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
