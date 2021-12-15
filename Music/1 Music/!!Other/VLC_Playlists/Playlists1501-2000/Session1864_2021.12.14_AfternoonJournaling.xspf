@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Enya-Only-time/MP3/Enya_Only-time.mp3</location>
+			<title>Enya_Only-time.mp3</title>
+			<creator>Enya</creator>
+			<album>Only time</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Only time&quot; by Irish singer Enya.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Enya/Only%20time/art.jpg</image>
+			<duration>215754</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hello%20world/hello%20world.mp4</location>
+			<duration>115404</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hello%20world/hello%20world%20[but%20i%20looped%20it%20a%20couple%20times%20seamlessly].mp4</location>
+			<duration>276202</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deep%20Blue%20Something%20-%20Breakfast%20At%20Tiffany&#39;s/MP3/Deep-Blue-Something_Breakfast-at-Tiffanys.mp3</location>
+			<title>Deep-Blue-Something_Breakfast-at-Tiffanys.mp3</title>
+			<creator>Deep Blue Something</creator>
+			<album>Breakfast at Tiffanys</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Breakfast at Tiffany&#39;s&quot; by the band Deep Blue Something. It is regarded as their best song, and they are said to be a one hit wonder.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Deep%20Blue%20Something/Breakfast%20at%20Tiffanys/art.jpg</image>
+			<duration>259172</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Matchbox-Twenty_3AM/MP3/Matchbox-Twenty_3AM.mp3</location>
+			<title>Matchbox-Twenty_3AM.mp3</title>
+			<creator>Matchbox Twenty</creator>
+			<album>3 AM</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;3 AM&quot; by the Alternative Rock band &quot;Matchbox Twenty&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Matchbox%20Twenty/3%20AM/art.jpg</image>
+			<duration>225890</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dutch-Windmills/MP3/Traditional-Dutch-Music_Dutch-Windmills.mp3</location>
+			<title>Traditional-Dutch-Music_Dutch-Windmills.mp3</title>
+			<creator>Netherlands</creator>
+			<album>Dutch Windmills</album>
+			<trackNum>1</trackNum>
+			<annotation>The traditional Dutch Windmills song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Netherlands/Dutch%20Windmills/art.jpg</image>
+			<duration>189501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rokiczanka-W-moim-ogr%C3%B3decku/MP3/Rokiczanka_W-moim-ogr%C3%B3decku.mp3</location>
+			<title>Rokiczanka_W-moim-ogródecku.mp3</title>
+			<creator>Rokiczanka</creator>
+			<album>W moim ogródecku</album>
+			<trackNum>1</trackNum>
+			<annotation>I can&#39;t translate the necessary info accurately to fill out info here. All I know is that it is a good song (IMO)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rokiczanka/W%20moim%20ogr%C3%B3decku/art.jpg</image>
+			<duration>238638</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/JamaicaLevel.mp3</location>
+			<title>Jamaica_Level</title>
+			<creator>Sergei_Stern</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>56563</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/MysteryLevel.mp3</location>
+			<title>Mystery_Level</title>
+			<creator>Sergei_Stern</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>64086</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/NewsReport.mp3</location>
+			<title>News_Report</title>
+			<creator>John_Judd</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>59637</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/FunLevel.mp3</location>
+			<title>Fun_Level</title>
+			<creator>Sergei_Stern</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>67848</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/ArcadeLevel.mp3</location>
+			<title>Arcade_Level</title>
+			<creator>Sergei_Stern</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>66672</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!NimbleBitSeries/Bit%20City%20OST/MP3/Song-1_Bit_City.mp3</location>
+			<title>Song-1_Bit_City.mp3</title>
+			<creator>NimbleBit</creator>
+			<album>Bit City OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/NimbleBit/Bit%20City%20OST/art.jpg</image>
+			<duration>182265</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!NimbleBitSeries/Bit%20City%20OST/MP3/Song-2_Bit_City.mp3</location>
+			<title>Song-2_Bit_City.mp3</title>
+			<creator>NimbleBit</creator>
+			<album>Bit City OST</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/NimbleBit/Bit%20City%20OST/art.jpg</image>
+			<duration>208231</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Castlevania%20OST/Compilation/MP3/Castlevania-NES-Music-Full-OST-Soundtrack.mp3</location>
+			<title>Castlevania-NES-Music-Full-OST-Soundtrack.mp3</title>
+			<creator>Konami</creator>
+			<album>Castlevania NES Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The full soundtrack from the first Castlevania game. This was an NES game.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Castlevania%20NES%20Soundtrack/art.jpg</image>
+			<duration>1008812</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Cause%20you%20had%20a%20Bad%20Day/MP3/Daniel-Powter_Bad-Day.mp3</location>
+			<title>Daniel-Powter_Bad-Day.mp3</title>
+			<creator>Daniel Powter</creator>
+			<album>Bad Day</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bad Day&quot; by Canadian Pop singer Daniel Powter.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Daniel%20Powter/Bad%20Day/art.jpg</image>
+			<duration>235137</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Limp%20Bizkit/MP3/Limp-Biskit_Rolling_Explicit.mp3</location>
+			<title>Limp-Biskit_Rolling_Explicit.mp3</title>
+			<creator>Limp Bizkit</creator>
+			<album>Rolling</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Rolling&quot; by the artist Limp Bizkit.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Limp%20Bizkit/Rolling/art.jpg</image>
+			<duration>216826</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Line%20birds%20theme/AudioOnly/MP3/Line-Birds_Theme.mp3</location>
+			<title>Line-Birds_Theme.mp3</title>
+			<creator>Alex Khaskin</creator>
+			<album>Flying Adventures (Line Birds Theme Song)</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the game &quot;Line Birds&quot; which is a royalty free song produced by Alex Khaskin.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Alex%20Khaskin/Flying%20Adventures%20%28Line%20Birds%20Theme%20Song%29/art.png</image>
+			<duration>53350</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+	</extension>
+</playlist>
