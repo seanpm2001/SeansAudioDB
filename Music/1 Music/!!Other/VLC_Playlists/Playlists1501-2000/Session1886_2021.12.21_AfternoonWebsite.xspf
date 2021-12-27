@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Line%20birds%20theme/AudioOnly/MP3/Line-Birds_Theme.mp3</location>
+			<title>Line-Birds_Theme.mp3</title>
+			<creator>Alex Khaskin</creator>
+			<album>Flying Adventures (Line Birds Theme Song)</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the game &quot;Line Birds&quot; which is a royalty free song produced by Alex Khaskin.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Alex%20Khaskin/Flying%20Adventures%20%28Line%20Birds%20Theme%20Song%29/art.png</image>
+			<duration>53350</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Surprise%20Buttsecks/MP3/Suprise-Buttsecks.mp3</location>
+			<title>Suprise-Buttsecks.mp3</title>
+			<creator>Unknown</creator>
+			<album>Surprise Buttsecks meme</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Surprise buttsecks&quot; that is a popular Team Fortress 2 meme featuring the Spy.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown/Surprise%20Buttsecks%20meme/art.jpg</image>
+			<duration>171973</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Chapter_2/VideoWithAudio/A%20Cybers%20World-Auz7t7k7wvc.webm</location>
+			<duration>164200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20Cafe%20OST/MP3/Zombie_Cafe_Theme.mp3</location>
+			<title>Zombie_Cafe_Theme.mp3</title>
+			<creator>Beeline Games</creator>
+			<album>Zombie Cafe Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Beeline%20Games/Zombie%20Cafe%20Soundtrack/art.jpg</image>
+			<duration>66359</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

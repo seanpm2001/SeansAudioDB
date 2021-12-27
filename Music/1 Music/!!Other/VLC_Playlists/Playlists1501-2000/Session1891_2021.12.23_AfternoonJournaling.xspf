@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Daniel_Powter-Bad%20day/MP3/Daniel-Powter_Bad-Day.mp3</location>
+			<title>Daniel-Powter_Bad-Day.mp3</title>
+			<creator>Daniel Powter</creator>
+			<album>Bad Day</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bad Day&quot; by Canadian Pop singer Daniel Powter.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Daniel%20Powter/Bad%20Day/art.jpg</image>
+			<duration>235137</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Merge%20Plane%20OST/MP3/Merge_Plane_OST_MainTheme_Extended.mp3</location>
+			<title>Merge_Plane_OST_MainTheme_Extended.mp3</title>
+			<creator>Unknown Artist</creator>
+			<album>Merge Plane OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown%20Artist/Merge%20Plane%20OST/art.png</image>
+			<duration>316039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Merge%20Plane%20OST/MP3/Merge_Plane_OST_SpeedUp2x_Extended.mp3</location>
+			<title>Merge_Plane_OST_SpeedUp2x_Extended.mp3</title>
+			<creator>Unknown Artist</creator>
+			<album>Merge Plane OST</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown%20Artist/Merge%20Plane%20OST/art.png</image>
+			<duration>1800041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hungarian-Dance/Number5/MP3/Johannes-Brahms_-_Hungarian-Dance-No.-5.mp3</location>
+			<title>Johannes-Brahms_-_Hungarian-Dance-No.-5.mp3</title>
+			<creator>Johannes Brahms</creator>
+			<album>Hungarian Dance No. 5</album>
+			<trackNum>1</trackNum>
+			<annotation>A song that many of people have heard of, but don&#39;t know the name of. Hungarian dance number 5 by Johannes Brahms. I am again using the sheet music as the cover for this song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Johannes%20Brahms/Hungarian%20Dance%20No.%205/art.jpg</image>
+			<duration>201387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20Cafe%20OST/MP3/Zombie_Cafe_Theme.mp3</location>
+			<title>Zombie_Cafe_Theme.mp3</title>
+			<creator>Beeline Games</creator>
+			<album>Zombie Cafe Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Beeline%20Games/Zombie%20Cafe%20Soundtrack/art.jpg</image>
+			<duration>66359</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/AudioOnly/MP3/Portal2-1x01-Science_is_Fun.mp3</location>
+			<title>Science is Fun</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By - Volume 1</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/AudioOnly/MP3/cover.png</image>
+			<duration>153312</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

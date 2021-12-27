@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hava-Nagila/MP3/Hava-Nagila.mp3</location>
+			<title>Hava-Nagila.mp3</title>
+			<creator>Idelsohn or Nathanson (disputed)</creator>
+			<album>Hava Nagila</album>
+			<trackNum>1</trackNum>
+			<annotation>The Jewish folk song Hava Nagila. Its original creator is commonly disputed, it was either composed by Idelsohn or Nathanson. It was composed in 1918 to celebrate victory over the Ottoman Empire in World War I. The song name translates to &quot;Let us rejoice&quot; in English. I am using a picture of the sheet music as the album art, rather than the flag of Israel.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Idelsohn%20or%20Nathanson%20%28disputed%29/Hava%20Nagila/art.png</image>
+			<duration>165233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/All%20I%20want%20for%20Christmas/MP3/Spiderman-spank-Remix_All-I-want-for-Christmas.mp3</location>
+			<title>Spiderman-spank-Remix_All-I-want-for-Christmas.mp3</title>
+			<creator>Mariah Carey</creator>
+			<album>All I want for Christmas (Spiderman Spank remix)</album>
+			<trackNum>1</trackNum>
+			<annotation>A 20 second remix of the song &quot;All I want for Christmas&quot; with some instrumentals replaced with Spiderman spanking Spiderman, and an orgasm from a Gay Spiderman porno. I hope to combine the video and the audio together again some day.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Mariah%20Carey/All%20I%20want%20for%20Christmas%20%28Spiderman%20Spank%20remix%29/art.jpg</image>
+			<duration>20148</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/All%20I%20want%20for%20Christmas/MP3/Mariah-Carey_All-I-Want-For-Christmas-Is-You.mp3</location>
+			<title>Mariah-Carey_All-I-Want-For-Christmas-Is-You.mp3</title>
+			<creator>Mariah Carey</creator>
+			<album>All I want for Christmas is you</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;All I want for Christmas is you&quot; by Mariah Carey. It is a decent song, but it is one of the most overplayed Christmas songs of all time, which makes it less memorable.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Mariah%20Carey/All%20I%20want%20for%20Christmas%20is%20you/art.jpg</image>
+			<duration>235007</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Halfbrick%20series/Jetpack%20Joyride/Xmas.m4a</location>
+			<duration>134095</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!NimbleBitSeries/Tiny%20tower%20(iOS%20&amp;%20Android)%20OST/Tiny%20tower%20christmas%20theme%20-%20YouTube.mp4</location>
+			<duration>127036</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

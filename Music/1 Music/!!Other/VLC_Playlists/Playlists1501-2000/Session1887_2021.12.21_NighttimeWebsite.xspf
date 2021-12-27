@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Sweet_Shop_OST/MP3/Sweet-Shop-Theme-song-Uncut.mp3</location>
+			<title>Sweet-Shop-Theme-song-Uncut.mp3</title>
+			<creator>Breaktime Studios</creator>
+			<album>Sweet Shop Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The best quality version I can get of the soundtrack for the game Sweet Shop. It is an audio version of a trailer of the game by iGamesView. The audio quality is good, but the sound effects, intro, and outro need to be cut to perfect it.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Breaktime%20Studios/Sweet%20Shop%20Soundtrack/art.png</image>
+			<duration>141514</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/World%20of%20pure%20imagination/pure%20imagination.mp4</location>
+			<duration>200039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%E9%81%A0%E3%81%8F%E3%81%AE%E6%84%9B%E5%A5%BD%E5%AE%B6%20-%20%EF%BC%92%EF%BC%98%EF%BC%91%EF%BC%94/(No%20video)%20%EF%BC%92%EF%BC%98%EF%BC%91%EF%BC%94%20-%20%E9%81%A0%E3%81%8F%E3%81%AE%E6%84%9B%E5%A5%BD%E5%AE%B6.webm</location>
+			<duration>376200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_Working-hard-song-3.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_Working-hard-song-3.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>The third ingame song for the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>85402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Jurassic%20Marsh/Plants%20Vs%20Zombies%202%20Music%20-%20Jurassic%20Marsh_%20Demonstration%20Mini-Game%20Extended%20HD%20-%20720p%20-.mp4</location>
+			<duration>909990</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

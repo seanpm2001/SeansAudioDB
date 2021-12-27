@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/YouTube-Audio-Library/MP3/Ticker.mp3</location>
+			<title>Ticker.mp3</title>
+			<creator>Silent Partner</creator>
+			<album>Reactop R20 commercial music (YouTube Audio Library)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Ticker&quot; from Silent Partner. From the YouTube audio library, and used in the first set of commercials for the Reactop R20 laptop brand. I cannot determine the year, so I am falling back on when the commercial was made.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Silent%20Partner/Reactop%20R20%20commercial%20music%20%28YouTube%20Audio%20Library%29/art.png</image>
+			<duration>183467</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
