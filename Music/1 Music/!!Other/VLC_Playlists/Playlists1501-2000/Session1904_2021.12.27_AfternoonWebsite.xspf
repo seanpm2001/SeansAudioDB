@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Owl%20City/MP3/Owl-City-Fireflies.mp3</location>
+			<title>Owl-City-Fireflies.mp3</title>
+			<creator>Owl City</creator>
+			<album>Fireflies</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Owl%20City/Fireflies/art.jpg</image>
+			<duration>233831</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Macintosh/Every%20Mac%20Startup%20&amp;%20Crash%20Chime.mp4</location>
+			<duration>120650</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/All%20your%20base%20are%20belong%20to%20us/MP3/All-Your-Base-Are-Belong-To-Us_Full-Version.mp3</location>
+			<title>All-Your-Base-Are-Belong-To-Us_Full-Version.mp3</title>
+			<creator>SEGA</creator>
+			<album>Zero Wing</album>
+			<trackNum>1</trackNum>
+			<annotation>A meme remix of the voiceline &quot;all your base are belong to us&quot; from the poorly translated 1991 port of Zero Wing.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/SEGA/Zero%20Wing/art.jpg</image>
+			<duration>261130</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/All%20your%20base%20are%20belong%20to%20us/MP3/All-Your-Base-Are-Belong-To-Us-Sound-Effect.mp3</location>
+			<title>All-Your-Base-Are-Belong-To-Us-Sound-Effect.mp3</title>
+			<creator>SEGA</creator>
+			<album>Zero Wing</album>
+			<trackNum>1</trackNum>
+			<annotation>All your base are belong to us. Poorly translated phrase from the 1991 SEGA MegaDrive port of the 1989 game Zero Wing that became iconic.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/SEGA/Zero%20Wing/art.jpg</image>
+			<duration>2698</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tunak%20Tunak%20Tun/MP3/Daler-Mehndi_Tunak-Tunak-Tun.mp3</location>
+			<title>Daler-Mehndi_Tunak-Tunak-Tun.mp3</title>
+			<creator>Daler Mehndi</creator>
+			<album>Tunak Tunak Tun</album>
+			<trackNum>1</trackNum>
+			<annotation>A lot of people think of the music video rather than the song, as the music video was pretty good (CGI) for Indian technology at the time (1998) but has become laughable to many. I personally like the song as well.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Daler%20Mehndi/Tunak%20Tunak%20Tun/art.jpg</image>
+			<duration>256375</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Thats%20amore/MP3/Dean-Martin_That&#39;s-Amore.mp3</location>
+			<title>Dean-Martin_That&#39;s-Amore.mp3</title>
+			<creator>Dean Martin</creator>
+			<album>That&#39;s Amore</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;That&#39;s Amore&quot; from the artist Dean Martin, although it was composed and written by composer Harry Warren and lyricist Jack Brooks originally.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Dean%20Martin/That%27s%20Amore/art.jpg</image>
+			<duration>186967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
