@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Konosuba/VideoWithAudio/Konosuba2/Opening/MKV/KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!%202%20-%20Opening%20_%20Tomorrow-vdcddjV0l5o.mkv</location>
+			<duration>100501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Jeopardy%20theme/MP3/Jeopardy-Theme.mp3</location>
+			<title>Jeopardy-Theme.mp3</title>
+			<creator>Jeopardy! / NBC</creator>
+			<album>Jeopardy! theme (classic)</album>
+			<trackNum>1</trackNum>
+			<annotation>The original Jeopardy theme song for final Jeopardy.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Jeopardy%21%20_%20NBC/Jeopardy%21%20theme%20%28classic%29/art.png</image>
+			<duration>32217</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bad%20day/MP3/Daniel-Powter_Bad-Day.mp3</location>
+			<title>Daniel-Powter_Bad-Day.mp3</title>
+			<creator>Daniel Powter</creator>
+			<album>Bad Day</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bad Day&quot; by Canadian Pop singer Daniel Powter.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Daniel%20Powter/Bad%20Day/art.jpg</image>
+			<duration>235136</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Konosuba/VideoWithAudio/Konosuba2/Opening/MKV/KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!%202%20-%20Opening%20_%20Tomorrow-vdcddjV0l5o.mkv</location>
+			<duration>100501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Merge%20Plane%20OST/MP3/Merge_Plane_OST_MainTheme_Extended.mp3</location>
+			<title>Merge_Plane_OST_MainTheme_Extended.mp3</title>
+			<creator>Unknown Artist</creator>
+			<album>Merge Plane OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown%20Artist/Merge%20Plane%20OST/art.png</image>
+			<duration>316039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Cut%20the%20rope%20OST/AudioOnly/01%20Om%20Nom.mp3</location>
+			<title>Om Nom</title>
+			<creator>Chillingo</creator>
+			<album>Cut the Rope</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Chillingo/Cut%20the%20Rope/art.png</image>
+			<duration>250279</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Osiris/MP3/Ancient-Egyptian-Music-Osiris.mp3</location>
+			<title>Ancient-Egyptian-Music-Osiris.mp3</title>
+			<creator>Ancient Egypt</creator>
+			<album>Osiris</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Osiris, composed in Ancient Egypt thousands of years ago.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Ancient%20Egypt/Osiris/art.jpg</image>
+			<duration>198931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zorba_The_Greek/MP3/Mikis-Theodorakis_-_Zorba-The-Greek_-_Zorba&#39;s-Dance.mp3</location>
+			<title>Mikis-Theodorakis_-_Zorba-The-Greek_-_Zorba&#39;s-Dance.mp3</title>
+			<creator>Mikis Theodorakis</creator>
+			<album>Zorba the Greek</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Zorbas dance from the movie Zorba the Greek.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Mikis%20Theodorakis/Zorba%20the%20Greek/art.jpg</image>
+			<duration>242243</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20Life%20Theme%20Song/MP3/ZombieLifeOST-LowQuality.mp3</location>
+			<title>ZombieLifeOST-LowQuality.mp3</title>
+			<creator>The Play Forge</creator>
+			<album>Zombie Life soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>A low quality version of the Zombie Life soundtrack. By Low Quality, I mean tons of video splicing and editing is needed to separate the music from the sound effects.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Play%20Forge/Zombie%20Life%20soundtrack/art.jpg</image>
+			<duration>318469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song1.mp3</location>
+			<title>Virtual_City_Playground_OST_Song1.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>63512</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tchaikovsky/MP3/Tchaikovsky-1812-overture-(with-cannons).mp3</location>
+			<title>Tchaikovsky-1812-overture-(with-cannons).mp3</title>
+			<creator>Pyotr Ilyich Tchaikovsky</creator>
+			<album>1812 Overture</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Pyotr%20Ilyich%20Tchaikovsky/1812%20Overture/art.jpg</image>
+			<duration>908031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20Farm%20theme%20song/MP3/Zombie_Farm_Theme.mp3</location>
+			<title>Zombie_Farm_Theme.mp3</title>
+			<creator>The Play Forge</creator>
+			<album>Zombie Farm Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Play%20Forge/Zombie%20Farm%20Soundtrack/art.png</image>
+			<duration>60011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+	</extension>
+</playlist>

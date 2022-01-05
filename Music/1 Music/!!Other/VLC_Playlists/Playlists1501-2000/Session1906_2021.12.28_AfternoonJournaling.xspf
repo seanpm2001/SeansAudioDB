@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tri-Poloski/MP3/Tri-Poloski.mp3</location>
+			<title>Tri-Poloski.mp3</title>
+			<creator>Davay</creator>
+			<album>Tri Poloski</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Tri Poloski&quot; by the Russian Artist &quot;Davay&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Davay/Tri%20Poloski/art.jpg</image>
+			<duration>125110</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Queen%20-%20We%20are%20the%20champions/MP3/Queen_We-Are-The-Champions.mp3</location>
+			<title>Queen_We-Are-The-Champions.mp3</title>
+			<creator>Queen</creator>
+			<album>We are the champions</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;We are the Champions&quot; by the British rock band &quot;Queen&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/We%20are%20the%20champions/art.jpg</image>
+			<duration>180646</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Queen%20-%20don&#39;t%20stop%20me%20now/MP3/Queen_Don&#39;t-Stop-Me-Now.mp3</location>
+			<title>Queen_Don&#39;t-Stop-Me-Now.mp3</title>
+			<creator>Queen</creator>
+			<album>Don&#39;t stop me now</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;don&#39;t stop me now&quot; from the British band &quot;Queen&quot; another one of their best songs, but really, what Queen song isn&#39;t good?</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/Don%27t%20stop%20me%20now/art.jpg</image>
+			<duration>209537</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Queen%20-%20Another%20one%20bites%20the%20dust/MP3/Queen_Another-one-bites-the-dust.mp3</location>
+			<title>Queen_Another-one-bites-the-dust.mp3</title>
+			<creator>Queen</creator>
+			<album>Another one bites the dust</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Another one bites the dust&quot; by the British Rock band &quot;Queen&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/Another%20one%20bites%20the%20dust/art.jpg</image>
+			<duration>222755</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Queen%20-%20We%20will%20rock%20you/MP3/Queen_We-Will-Rock-You.mp3</location>
+			<title>Queen_We-Will-Rock-You.mp3</title>
+			<creator>Queen</creator>
+			<album>We will rock you</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;We will rock you&quot; by the British band &quot;Queen&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/We%20will%20rock%20you/art.jpg</image>
+			<duration>121948</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/French-Accordion-Traditionell-Musette/MP3/French-Accordian-Traditionell-Musette.mp3</location>
+			<title>French-Accordian-Traditionell-Musette.mp3</title>
+			<creator>France</creator>
+			<album>Traditionell Musette</album>
+			<trackNum>1</trackNum>
+			<annotation>The classic theme song of France.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/France/Traditionell%20Musette/art.png</image>
+			<duration>144389</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/AudioOnly/Track%2002.flac</location>
+			<title>Black Mesa Inbound (Vague Voices)</title>
+			<creator>Kelly Bailey</creator>
+			<album>Half-Life Original Soundtrack</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kelly%20Bailey/Half-Life%20Original%20Soundtrack/art.jpg</image>
+			<duration>131758</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/AudioOnly/Track%2014.flac</location>
+			<title>Something Secret Steers Us (Nuclear Mission Jam)</title>
+			<creator>Kelly Bailey</creator>
+			<album>Half-Life Original Soundtrack</album>
+			<trackNum>14</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kelly%20Bailey/Half-Life%20Original%20Soundtrack/art.jpg</image>
+			<duration>120440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/All-in-one/Bejeweled%20twist%20full%20soundtrack.mp3</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/All-in-one/Bejeweled%20twist%20full%20soundtrack.ogg</location>
+			<duration>7373000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Niklas%20Ahlstr%C3%B6m%20%E2%80%93%20Vanilla%20Urban%204/(No%20video)%20Niklas%20Ahlstr%C3%B6m%20%E2%80%93%20Vanilla%20Urban%204.m4a</location>
+			<duration>290620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>

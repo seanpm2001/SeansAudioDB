@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Portal%202/Announcer/MP3/Portal-2_All-announcer-voicelines.mp3</location>
+			<title>Portal-2_All-announcer-voicelines.mp3</title>
+			<creator>Valve</creator>
+			<album>Portal 2 voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All the voicelines for the announcer in Portal 2.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Valve/Portal%202%20voicelines/art.jpg</image>
+			<duration>448351</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Portal%201/GLaDOS/AudioOnly/MP3/Portal-1_All-GLaDOS-Quotes.mp3</location>
+			<title>Portal-1_All-GLaDOS-Quotes.mp3</title>
+			<creator>Ellen McLain / Valve</creator>
+			<album>Portal 1 GLaDOS voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All the voicelines from GLaDOS from the Valve game Portal (2007)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Ellen%20McLain%20_%20Valve/Portal%201%20GLaDOS%20voicelines/art.jpg</image>
+			<duration>1469668</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Portal%201/GLaDOS/AudioOnly/MP3/Portal_GLaDOS-Final-Battle-Speech.mp3</location>
+			<title>Portal_GLaDOS-Final-Battle-Speech.mp3</title>
+			<creator>Ellen McLain / Valve</creator>
+			<album>Portal voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All the voicelines from GLaDOS during the final boss battle from the Valve game Portal (2007)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Ellen%20McLain%20_%20Valve/Portal%20voicelines/art.jpg</image>
+			<duration>449761</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Portal%202/GLaDOS/AudioOnly/MP3/Portal-2_All-GLaDOS-Quotes-(Singleplayer-Story).mp3</location>
+			<title>Portal-2_All-GLaDOS-Quotes-(Singleplayer-Story).mp3</title>
+			<creator>Ellen McLain / Valve</creator>
+			<album>GLaDOS (Portal 2)</album>
+			<trackNum>1</trackNum>
+			<annotation>All of the singleplayer GLaDOS voicelines from Portal 2. I don&#39;t have the coop voicelines yet.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Ellen%20McLain%20_%20Valve/GLaDOS%20%28Portal%202%29/art.jpg</image>
+			<duration>1790167</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bear-hugger-theme/MP3/Punch-Out_Wii_Bear-Hugger-theme.mp3</location>
+			<title>Punch-Out_Wii_Bear-Hugger-theme.mp3</title>
+			<creator>Next Level Games</creator>
+			<album>PunchOut!!! For the Nintendo Wii</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme for fighting Bear Hugger in the Wii version of the video game Punchout.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Next%20Level%20Games/PunchOut%21%21%21%20For%20the%20Nintendo%20Wii/art.jpg</image>
+			<duration>283151</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/01%20Hazardous%20Environments.mp3</location>
+			<title>Hazardous Environments</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<duration>84796</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/02%20CP%20Violation.mp3</location>
+			<title>CP Violation</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>0</annotation>
+			<duration>105511</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/03%20The%20Innsbruck%20Experiment.mp3</location>
+			<title>The Innsbruck Experiment</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<duration>67581</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/11%20Slow%20Light.mp3</location>
+			<title>Slow Light</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>11</trackNum>
+			<annotation>0</annotation>
+			<duration>44750</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
