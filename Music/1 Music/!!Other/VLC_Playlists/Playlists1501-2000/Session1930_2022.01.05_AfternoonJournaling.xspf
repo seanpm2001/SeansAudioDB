@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Osiris/MP3/Ancient-Egyptian-Music-Osiris.mp3</location>
+			<title>Ancient-Egyptian-Music-Osiris.mp3</title>
+			<creator>Ancient Egypt</creator>
+			<album>Osiris</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Osiris, composed in Ancient Egypt thousands of years ago.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Ancient%20Egypt/Osiris/art.jpg</image>
+			<duration>198931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Moskau/MP3/Moskau-1979.mp3</location>
+			<title>Moskau-1979.mp3</title>
+			<creator>Dschinghis Khan</creator>
+			<album>Moskau</album>
+			<trackNum>1</trackNum>
+			<annotation>This is the German version of the song. English and Russian versions also exist.
+Dschinghis Khan translates to Genghis Khan in some countries such as Australia)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Dschinghis%20Khan/Moskau/art.jpg</image>
+			<duration>266981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Android%207%20&amp;%208%20audio/Android%20Oreo%20alarm%20tones/Android%20Oreo%20alarm%20tones/Orbit.ogg</location>
+			<title>Orbit</title>
+			<duration>10000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Android%207%20&amp;%208%20audio/Android%20Oreo%20alarm%20tones/Android%20Oreo%20alarm%20tones/Platinum.ogg</location>
+			<title>Platinum</title>
+			<duration>23000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Android%207%20&amp;%208%20audio/Android%20Oreo%20alarm%20tones/Android%20Oreo%20alarm%20tones/Wag.ogg</location>
+			<title>Wag</title>
+			<duration>5000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Android%207%20&amp;%208%20audio/Android%20Oreo%20alarm%20tones/Android%20Oreo%20alarm%20tones/Awaken.ogg</location>
+			<title>Awaken</title>
+			<duration>23000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Android%207%20&amp;%208%20audio/Android%20Oreo%20alarm%20tones/Android%20Oreo%20alarm%20tones/Nudge.ogg</location>
+			<title>Nudge</title>
+			<duration>6000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Android%207%20&amp;%208%20audio/Android%20Oreo%20alarm%20tones/Android%20Oreo%20alarm%20tones/Sway.ogg</location>
+			<title>Sway</title>
+			<duration>39000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Android%207%20&amp;%208%20audio/Android%20Oreo%20alarm%20tones/Android%20Oreo%20alarm%20tones/Krypton.ogg</location>
+			<title>Krypton</title>
+			<duration>7000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Android%207%20&amp;%208%20audio/Android%20Oreo%20alarm%20tones/Android%20Oreo%20alarm%20tones/Neon.ogg</location>
+			<title>Neon</title>
+			<duration>15000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Android%207%20&amp;%208%20audio/Android%20Oreo%20alarm%20tones/Android%20Oreo%20alarm%20tones/Drip.ogg</location>
+			<title>Drip</title>
+			<duration>7000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Android%207%20&amp;%208%20audio/Android%20Oreo%20alarm%20tones/Android%20Oreo%20alarm%20tones/Bounce.ogg</location>
+			<title>Bounce</title>
+			<duration>14000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Android%207%20&amp;%208%20audio/Android%20Oreo%20alarm%20tones/Android%20Oreo%20alarm%20tones/Argon.ogg</location>
+			<title>Argon</title>
+			<duration>19000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/kde3sounds/KDE%203%20Sounds%20-%20YouTube.mp4</location>
+			<duration>164838</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/kde3sounds/WAV/KDE_Critical_Error.wav</location>
+			<duration>2078</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Homebrew%20Channel%20OST/MP3/The-Homebrew-Channel-theme.mp3</location>
+			<title>The-Homebrew-Channel-theme.mp3</title>
+			<creator>Homebrew Community</creator>
+			<album>The Homebrew Channel theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the Homebrew channel on the Nintendo Wii once it has been bluebombed with a blueletter.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Homebrew%20Community/The%20Homebrew%20Channel%20theme%20song/art.jpg</image>
+			<duration>88825</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Everytime%20I%20think%20about%20you%20I%20touch%20myself/MP3/Divinyls_I-touch-myself.mp3</location>
+			<title>Divinyls_I-touch-myself.mp3</title>
+			<creator>Divinyls</creator>
+			<album>I touch myself</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I touch myself&quot; by arist Divinyls</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Divinyls/I%20touch%20myself/art.jpg</image>
+			<duration>223147</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/heman/MP3/Heyayayayayay.mp3</location>
+			<title>Heyayayayayay.mp3</title>
+			<creator>Heman</creator>
+			<album>Heman Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>This video got over 100 million more views than the original.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Heman/Heman%20Soundtrack/art.jpg</image>
+			<duration>126885</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gangstas%20paradise/MP3/Coolio_Gangsta&#39;s-Paradise.mp3</location>
+			<title>Coolio_Gangsta&#39;s-Paradise.mp3</title>
+			<creator>Coolio</creator>
+			<album>Gangsta&#39;s Paradise</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Gangsta&#39;s Paradise&quot; by rapper Coolio. I prefer Weird Al Yankovics cover, &quot;Amish Paradise&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Coolio/Gangsta%27s%20Paradise/art.jpg</image>
+			<duration>256114</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20Farm%20theme%20song/MP3/Zombie_Farm_Theme.mp3</location>
+			<title>Zombie_Farm_Theme.mp3</title>
+			<creator>The Play Forge</creator>
+			<album>Zombie Farm Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Play%20Forge/Zombie%20Farm%20Soundtrack/art.png</image>
+			<duration>60011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Fernando%20-%20Abba/MP3/ABBA-Fernando.mp3</location>
+			<title>ABBA-Fernando.mp3</title>
+			<creator>ABBA</creator>
+			<album>Fernando</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Fernando&quot; by the Swedish group &quot;ABBA&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/ABBA/Fernando/art.jpg</image>
+			<duration>254547</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Don&#39;t%20be%20racist%20I%20am%20a%20building/MP3/Don&#39;tBeRacistIAmABuilding.mp3</location>
+			<title>Don&#39;tBeRacistIAmABuilding.mp3</title>
+			<creator>Mike Coker</creator>
+			<album>Don&#39;t be racist I am a building</album>
+			<trackNum>1</trackNum>
+			<annotation>I can&#39;t find good information about this song online, I thought information on this would be more common, as it has been a meme for years, and memes receive significant coverage. As such, I can&#39;t figure out the exact Genre, date, or album name. Hopefully Genius is accurate on this one, it is the only source I can find.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Mike%20Coker/Don%27t%20be%20racist%20I%20am%20a%20building/art.jpg</image>
+			<duration>81040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+	</extension>
+</playlist>

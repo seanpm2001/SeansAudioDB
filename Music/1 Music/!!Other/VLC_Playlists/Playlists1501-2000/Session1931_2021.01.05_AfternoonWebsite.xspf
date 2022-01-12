@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Don&#39;t%20be%20racist%20I%20am%20a%20building/MP3/Don&#39;tBeRacistIAmABuilding.mp3</location>
+			<title>Don&#39;tBeRacistIAmABuilding.mp3</title>
+			<creator>Mike Coker</creator>
+			<album>Don&#39;t be racist I am a building</album>
+			<trackNum>1</trackNum>
+			<annotation>I can&#39;t find good information about this song online, I thought information on this would be more common, as it has been a meme for years, and memes receive significant coverage. As such, I can&#39;t figure out the exact Genre, date, or album name. Hopefully Genius is accurate on this one, it is the only source I can find.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Mike%20Coker/Don%27t%20be%20racist%20I%20am%20a%20building/art.jpg</image>
+			<duration>81040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20%20Saxton&#39;s%20dillema.mp3</location>
+			<duration>71784</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20Archimedes.mp3</location>
+			<duration>244978</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Drunken-Sailor_Irish-Rovers/MP3/Irish-Rovers_Drunken-Sailor.mp3</location>
+			<title>Irish-Rovers_Drunken-Sailor.mp3</title>
+			<creator>Irish Rovers</creator>
+			<album>Drunken Sailor</album>
+			<trackNum>1</trackNum>
+			<annotation>The Irish Rovers cover on the 19th century Sea Shanty known as &quot;the drunken sailor&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Irish%20Rovers/Drunken%20Sailor/art.jpg</image>
+			<duration>159068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I%20take%20a%20look%20at%20my%20enormous%20penis/Enormous%20Penis.mp4</location>
+			<duration>165048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Its%20a%20hard%20knock%20life/MP3/Annie_Its-the-hard-knock-life.mp3</location>
+			<title>Annie_Its-the-hard-knock-life.mp3</title>
+			<creator>Annie</creator>
+			<album>It&#39;s the hard knock life</album>
+			<trackNum>1</trackNum>
+			<annotation>The original version of the Annie song &quot;It&#39;s the hard knock life&quot; with the original lyrics.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Annie/It%27s%20the%20hard%20knock%20life/art.jpg</image>
+			<duration>140939</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2035%20Bird%20That%20Carries%20You%20Over%20A%20Disproportionately%20Small%20Gap.ogg</location>
+			<title>Bird That Carries You Over A Disproportionately Small Gap</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>35</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>25000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

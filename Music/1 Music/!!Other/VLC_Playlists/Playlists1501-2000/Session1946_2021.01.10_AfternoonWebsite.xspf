@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!iBlast%20Moki%20series/iBlast%20Moki/Raw%20Audio/Romain%20Gauthier%20-%20iBlast%20Moki%20-%20Extended%20Title%20(2009).mp3</location>
+			<title>iBlast Moki - Extended Title (2009)</title>
+			<creator>Romain Gauthier</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>7</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20Gauthier/iBlast%20Moki%202/art</image>
+			<duration>164649</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!iBlast%20Moki%20series/iBlast%20Moki/Raw%20Audio/Romain%20Gauthier%20-%20iBlast%20Moki%20-%20Background%20Music%201%20(2010).mp3</location>
+			<title>iBlast Moki - Background Music 1 (2009)</title>
+			<creator>Romain Gauthier</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>8</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20Gauthier/iBlast%20Moki%202/art.jpg</image>
+			<duration>246361</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dutch-Windmills/MP3/Traditional-Dutch-Music_Dutch-Windmills.mp3</location>
+			<title>Traditional-Dutch-Music_Dutch-Windmills.mp3</title>
+			<creator>Netherlands</creator>
+			<album>Dutch Windmills</album>
+			<trackNum>1</trackNum>
+			<annotation>The traditional Dutch Windmills song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Netherlands/Dutch%20Windmills/art.jpg</image>
+			<duration>189501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/CityVille/MP3/CityVille_Theme_Song.mp3</location>
+			<title>CityVille_Theme_Song.mp3</title>
+			<creator>Zynga</creator>
+			<album>CityVille Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Zynga/CityVille%20Soundtrack/art.png</image>
+			<duration>98464</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/A%20little%20less%20conversation/MP3/A-Little-Less-Conversation-(JXL-Radio-Edit-Remix).mp3</location>
+			<title>A-Little-Less-Conversation-(JXL-Radio-Edit-Remix).mp3</title>
+			<creator>Elvis Presley</creator>
+			<album>A little less conversation</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;A little less conversation&quot; by Elvis Presley. This is a Radio Edit remix.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Elvis%20Presley/A%20little%20less%20conversation/art.jpg</image>
+			<duration>220039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Curb%20your%20enthusiasm%20theme/MP3/Curb-your-Enthusiasm-Theme.mp3</location>
+			<title>Curb-your-Enthusiasm-Theme.mp3</title>
+			<creator>Curb Your Enthusiasm</creator>
+			<album>Curb Your Enthusiasm Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Curb%20Your%20Enthusiasm/Curb%20Your%20Enthusiasm%20Soundtrack/art.png</image>
+			<duration>67430</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20songs/(No%20video)%20ELO%20-%20Mr.%20Blue%20Sky.webm</location>
+			<duration>294660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20songs/(No%20sound)%20ELO%20-%20Mr.%20Blue%20Sky.mp4</location>
+			<duration>294640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yes%20-%20Roundabout/MP3/Roundabout-(2008-Remastered-Version).mp3</location>
+			<title>Roundabout-(2008-Remastered-Version).mp3</title>
+			<creator>Yes</creator>
+			<album>Roundabout (2008 remaster)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Roundabout&quot; by the band &quot;yes&quot; remastered in 2008.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Yes/Roundabout%20%282008%20remaster%29/art.jpg</image>
+			<duration>515956</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/!All-in-one/All%20Plants%20vs%20Zombies%202%20Music%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>12687592</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Pirate%20Seas/Plants%20Vs.%20Zombies%202%20Music%20-%20Pirate%20Seas_%20Ultimate%20Battle%20%E2%98%BF%20HD%20%E2%98%BF%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>407510</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Pirate%20Seas/Plants%20Vs.%20Zombies%202%20Music%20-%20Pirate%20Seas_%20Demonstration%20Mini-Game%20%E2%98%BF%20HD%20%E2%98%BF%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>309591</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Frostbite%20Caves/Plants%20Vs%20Zombies%202%20Music%20-%20Frostbite%20Cave%20Demonstration%20Mini-Game%20%E2%98%BF%20HD%20%E2%98%BF%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>419932</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Zomboss/Plants%20Vs%20Zombies%202%20Music%20-%20Dr.%20ZomBoss%20Fight%20-%20Wave%201%20Extended%20%E2%98%BF%20HD%20%E2%98%BF-qND_FXLdFVw.mkv</location>
+			<duration>920220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Zomboss/Plants%20Vs.%20Zombies%202%20Music%20-%20Dr.%20ZomBoss%20Fight%20%E2%98%BF%20HD%20%E2%98%BF-bRWoIXR8xLs.webm</location>
+			<duration>369220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Modern%20Day/Plants%20Vs%20Zombies%202%20Music%20-%20Modern%20Day%20Theme%20%E2%98%BF%20HD%20%E2%98%BF%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>666877</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Modern%20Day/Plants%20Vs%20Zombies%202%20Music%20-%20Modern%20Day_%20Demonstration%20Mini-Game%20Extended%20%E2%98%BF%20HD%20%E2%98%BF%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>909618</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Dark%20Ages/Plants%20Vs%20Zombies%202%20Music%20-%20%20Dark%20Ages_%20Demonstration%20Mini-Game%20%E2%98%BF%20HD%20%E2%98%BF%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>393601</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+	</extension>
+</playlist>

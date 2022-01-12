@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song2.mp3</location>
+			<title>Virtual_City_Playground_OST_Song2.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>133546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song4.mp3</location>
+			<title>Virtual_City_Playground_OST_Song4.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>121687</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>

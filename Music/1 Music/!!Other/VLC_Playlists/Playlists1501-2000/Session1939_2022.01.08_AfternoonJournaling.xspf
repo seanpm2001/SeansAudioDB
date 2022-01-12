@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Maroon%205/MP3/Maroon-5_Animals.mp3</location>
+			<title>Maroon-5_Animals.mp3</title>
+			<creator>Maroon 5</creator>
+			<album>Animals</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Animals&quot; by the American Pop Rock band &quot;Maroon 5&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Maroon%205/Animals/art.jpg</image>
+			<duration>280068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Maroon%205/MP3/Maroon-5_She-will-be-loved.mp3</location>
+			<title>Maroon-5_She-will-be-loved.mp3</title>
+			<creator>Maroon 5</creator>
+			<album>She will be loved</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;She will be loved&quot; by the American Pop Rock band &quot;Maroon 5&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Maroon%205/She%20will%20be%20loved/art.jpg</image>
+			<duration>268209</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Sound%20System%20009/MP3/sound-system-009-dreamscape.mp3</location>
+			<title>sound-system-009-dreamscape.mp3</title>
+			<creator>Alexander Perls</creator>
+			<album>009 Sound System</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song of YouTube (2007 onward) due to AudioSwap. Wikipedia results aren&#39;t adding up, as the songs mentioned came out in 2009, but the feature was introduced in 20079. I am really confused.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Alexander%20Perls/009%20Sound%20System/art.jpg</image>
+			<duration>519274</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Copying%20is%20not%20theft/MP3/Copying_Is_Not_Theft.mp3</location>
+			<title>Copying_Is_Not_Theft.mp3</title>
+			<creator>Nina Paley</creator>
+			<album>Copying is not Theft</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Copying is not Theft&quot; from Nina Paley, a song that questions copyright, and backs up the fact that copying is not theft, and theft is a smear word when it comes to copying files. The cartoon takes Disney styling to mock Disneys abuse of copyright, and to make the song more recognizable and notable.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Nina%20Paley/Copying%20is%20not%20Theft/art.png</image>
+			<duration>59672</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Mad%20world/MP3/Mad_World.mp3</location>
+			<title>Mad_World.mp3</title>
+			<creator>Mad World</creator>
+			<album>Mad World</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Mad%20World/Mad%20World/art.jpg</image>
+			<duration>200081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hillary%20Stagg%20-%20The%20Edge%20of%20Forever/(No%20video)%20With%20Me%20Now%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.webm</location>
+			<duration>276920</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hillary%20Stagg%20-%20The%20Edge%20of%20Forever/(No%20video)%20Forever%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.webm</location>
+			<duration>676780</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

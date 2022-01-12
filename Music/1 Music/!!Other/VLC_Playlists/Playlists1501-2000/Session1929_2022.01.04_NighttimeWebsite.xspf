@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bill%20Wurtz/MP3/Bill-Wurtz_Mt.-St.-Helens-Is-About-To-Blow-Up.mp3</location>
+			<title>Bill-Wurtz_Mt.-St.-Helens-Is-About-To-Blow-Up.mp3</title>
+			<creator>Bill Wurtz</creator>
+			<album>Mt. St. Helens is about to blow up</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Mt. St. Helens is about to Blow up&quot; by the artist Bill Wurtz.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Bill%20Wurtz/Mt.%20St.%20Helens%20is%20about%20to%20blow%20up/art.png</image>
+			<duration>202798</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bill%20Wurtz/MP3/Bill-Wurtz_And-the-day-goes-on.mp3</location>
+			<title>Bill-Wurtz_And-the-day-goes-on.mp3</title>
+			<creator>Bill Wurtz</creator>
+			<album>And the day goes on</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;and the day goes on&quot; by the artist Bill Wurtz.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Bill%20Wurtz/And%20the%20day%20goes%20on/art.png</image>
+			<duration>131222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hava-Nagila/MP3/Hava-Nagila.mp3</location>
+			<title>Hava-Nagila.mp3</title>
+			<creator>Idelsohn or Nathanson (disputed)</creator>
+			<album>Hava Nagila</album>
+			<trackNum>1</trackNum>
+			<annotation>The Jewish folk song Hava Nagila. Its original creator is commonly disputed, it was either composed by Idelsohn or Nathanson. It was composed in 1918 to celebrate victory over the Ottoman Empire in World War I. The song name translates to &quot;Let us rejoice&quot; in English. I am using a picture of the sheet music as the album art, rather than the flag of Israel.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Idelsohn%20or%20Nathanson%20%28disputed%29/Hava%20Nagila/art.png</image>
+			<duration>165233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Osiris/MP3/Ancient-Egyptian-Music-Osiris.mp3</location>
+			<title>Ancient-Egyptian-Music-Osiris.mp3</title>
+			<creator>Ancient Egypt</creator>
+			<album>Osiris</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Osiris, composed in Ancient Egypt thousands of years ago.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Ancient%20Egypt/Osiris/art.jpg</image>
+			<duration>198931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
