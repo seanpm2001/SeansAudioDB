@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Der-Bayerische-Defiliermarsch/MP3/Der-Bayerische-Defiliermarsch.mp3</location>
+			<title>Der-Bayerische-Defiliermarsch.mp3</title>
+			<creator>Unknown</creator>
+			<album>Der Bayerische Defiliermarsch</album>
+			<trackNum>1</trackNum>
+			<annotation>The marching song &quot;Der Bayerische Defiliermarsch&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown/Der%20Bayerische%20Defiliermarsch/art.jpg</image>
+			<duration>115156</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Star%20wars/Star%20Wars_%20Music.-%20Cantina%20Theme%20(128%20%20kbps).mp3</location>
+			<duration>115992</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Star%20wars/Star%20wars%20imperial%20march%2010%20hours.mp4</location>
+			<duration>36000009</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Cotton%20Eye%20Joe/MP3/Cotton-Eye-Joe-Rednex-Remix.mp3</location>
+			<title>Cotton-Eye-Joe-Rednex-Remix.mp3</title>
+			<creator>Rednex</creator>
+			<album>Cotton Eye Joe</album>
+			<trackNum>1</trackNum>
+			<annotation>The popular cover of the song &quot;Cotton eye joe&quot; by the Swedish band &quot;Rednex&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rednex/Cotton%20Eye%20Joe/art.jpg</image>
+			<duration>188195</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hatsune%20Miku/The%20Apocalypse.mp4</location>
+			<duration>154785</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/AdVenture_Communist/AdVenture%20Communist%20OST%20_%20Motherland%20(Main%20Theme).webm</location>
+			<duration>94181</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Adcap/moon%20theme.mp4</location>
+			<duration>175008</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Adcap/AdVenture%20Capitalist%20-%20&#39;Cashella&#39;%20Music%20Festival%20Theme-vNa3l2JolWc.mp4</location>
+			<duration>252169</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
