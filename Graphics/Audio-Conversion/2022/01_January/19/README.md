@@ -3,7 +3,7 @@
 
 # README - No data
 
-## 2022 January 18th
+## 2022 January 19th
 
 I decided not to convert audio today, as I needed more time to catch up on other projects.
 
@@ -45,8 +45,16 @@ I was really tempted to convert audio files today, but I just didn't have the ti
 
 I was really tempted to convert audio files again today, but I still just didn't have the time. - 2022 January 2nd
 
+I didn't consider doing audio conversion today. - 2022 January 3rd to 2022 January 18th
+
 </details>
 
-I didn't consider doing audio conversion today. - 2022 January 3rd to 2022 January 18th
+Considerations are being done to use the Raspberry Pi to convert audio, the only problems are that I can't take good screenshots on the Raspberry Pi yet, and I don't want to wear the SD card down too quickly. Screenshots on the laptop aren't possible at the moment either, as the `ALT` + `PRINT SCREEN` shortcut is having difficulties. - 2022 January 19th
+
+***
+
+**File version:** `2 (2022, Wednesday, January 19th at 4:02 pm`
+
+**Line count (including blank lines and compiler line):** `61`
 
 ***
