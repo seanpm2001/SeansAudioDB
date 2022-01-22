@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/MP3V0/Gudang%20-%20Nostalgi%20Gaius/Gudang%20-%20Nostalgi%20Gaius%20-%2011%20Rest.mp3</location>
+			<title>Rest</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>11</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Gudang/Nostalgi%20Gaius/art.jpg</image>
+			<duration>244167</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/MP3V0/Gudang%20-%20Nostalgi%20Gaius/Gudang%20-%20Nostalgi%20Gaius%20-%2013%20Gaius.mp3</location>
+			<title>Gaius</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>13</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Gudang/Nostalgi%20Gaius/art.jpg</image>
+			<duration>203285</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/MP3V0/Gudang%20-%20Nostalgi%20Gaius/Gudang%20-%20Nostalgi%20Gaius%20-%2007%20Anytime%20you%20want.mp3</location>
+			<title>Anytime you want</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>7</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Gudang/Nostalgi%20Gaius/art.jpg</image>
+			<duration>200437</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/MP3V0/Gudang%20-%20Nostalgi%20Gaius/Gudang%20-%20Nostalgi%20Gaius%20-%2003%20Strange%20pills.mp3</location>
+			<title>Strange pills</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>3</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Gudang/Nostalgi%20Gaius/art.jpg</image>
+			<duration>187872</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/MP3V0/Gudang%20-%20Nostalgi%20Gaius/Gudang%20-%20Nostalgi%20Gaius%20-%2012%20Not%20kawaii.mp3</location>
+			<title>Not kawaii</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>12</trackNum>
+			<annotation>Visit http://windows96.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Gudang/Nostalgi%20Gaius/art.jpg</image>
+			<duration>163814</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bj%C3%B6rk%20-%20I%20Remember%20You/MP3/Bj%C3%B6rk_I-Remember-You.mp3</location>
+			<title>Björk_I-Remember-You.mp3</title>
+			<creator>Björk</creator>
+			<album>Venus as a Boy (B Side)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I remember you&quot; by the Swedish artist Björk. This is the B-side song for Venus as a Boy.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Bj%C3%B6rk/Venus%20as%20a%20Boy%20%28B%20Side%29/art.jpg</image>
+			<duration>253031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%E9%81%A0%E3%81%8F%E3%81%AE%E6%84%9B%E5%A5%BD%E5%AE%B6%20-%20%EF%BC%92%EF%BC%98%EF%BC%91%EF%BC%94/(No%20video)%20%EF%BC%92%EF%BC%98%EF%BC%91%EF%BC%94%20-%20%E9%81%A0%E3%81%8F%E3%81%AE%E6%84%9B%E5%A5%BD%E5%AE%B6.webm</location>
+			<duration>376200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/French-Accordion-Traditionell-Musette/MP3/French-Accordian-Traditionell-Musette.mp3</location>
+			<title>French-Accordian-Traditionell-Musette.mp3</title>
+			<creator>France</creator>
+			<album>Traditionell Musette</album>
+			<trackNum>1</trackNum>
+			<annotation>The classic theme song of France.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/France/Traditionell%20Musette/art.png</image>
+			<duration>144387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Der-Bayerische-Defiliermarsch/MP3/Der-Bayerische-Defiliermarsch.mp3</location>
+			<title>Der-Bayerische-Defiliermarsch.mp3</title>
+			<creator>Unknown</creator>
+			<album>Der Bayerische Defiliermarsch</album>
+			<trackNum>1</trackNum>
+			<annotation>The marching song &quot;Der Bayerische Defiliermarsch&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown/Der%20Bayerische%20Defiliermarsch/art.jpg</image>
+			<duration>115156</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_GameDex.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_GameDex.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>8</trackNum>
+			<annotation>The song that plays when you view the index of games in the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>26287</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hava-Nagila/MP3/Hava-Nagila.mp3</location>
+			<title>Hava-Nagila.mp3</title>
+			<creator>Idelsohn or Nathanson (disputed)</creator>
+			<album>Hava Nagila</album>
+			<trackNum>1</trackNum>
+			<annotation>The Jewish folk song Hava Nagila. Its original creator is commonly disputed, it was either composed by Idelsohn or Nathanson. It was composed in 1918 to celebrate victory over the Ottoman Empire in World War I. The song name translates to &quot;Let us rejoice&quot; in English. I am using a picture of the sheet music as the album art, rather than the flag of Israel.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Idelsohn%20or%20Nathanson%20%28disputed%29/Hava%20Nagila/art.png</image>
+			<duration>165233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Idle%20Miner%20Tycoon%20Theme/Idle%20Miner%20Tycoon%20Theme%20Song%20Soundtrack-Sv3VB-1It4M.mkv</location>
+			<duration>158894</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
