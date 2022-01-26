@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Osiris/MP3/Ancient-Egyptian-Music-Osiris.mp3</location>
+			<title>Ancient-Egyptian-Music-Osiris.mp3</title>
+			<creator>Ancient Egypt</creator>
+			<album>Osiris</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Osiris, composed in Ancient Egypt thousands of years ago.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Ancient%20Egypt/Osiris/art.jpg</image>
+			<duration>198931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hava-Nagila/MP3/Hava-Nagila.mp3</location>
+			<title>Hava-Nagila.mp3</title>
+			<creator>Idelsohn or Nathanson (disputed)</creator>
+			<album>Hava Nagila</album>
+			<trackNum>1</trackNum>
+			<annotation>The Jewish folk song Hava Nagila. Its original creator is commonly disputed, it was either composed by Idelsohn or Nathanson. It was composed in 1918 to celebrate victory over the Ottoman Empire in World War I. The song name translates to &quot;Let us rejoice&quot; in English. I am using a picture of the sheet music as the album art, rather than the flag of Israel.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Idelsohn%20or%20Nathanson%20%28disputed%29/Hava%20Nagila/art.png</image>
+			<duration>165233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dio%20the%20roadroller/%E3%80%8E%EF%BC%A4%EF%BC%A9%EF%BC%AF%E3%80%80%EF%BD%94%EF%BD%88%EF%BD%85%E3%80%80%EF%BC%B2%EF%BD%8F%EF%BD%81%EF%BD%84%EF%BD%92%EF%BD%8F%EF%BD%8C%EF%BD%8C%EF%BD%85%EF%BD%92%E3%80%8F%20-%20YouTube.mp4</location>
+			<duration>168321</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Thomas%20the%20Tank%20Engine%20remixes/Thomas%20the%20Frank%20Engine.mp4</location>
+			<duration>180093</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hungarian-Dance/Number5/MP3/Johannes-Brahms_-_Hungarian-Dance-No.-5.mp3</location>
+			<title>Johannes-Brahms_-_Hungarian-Dance-No.-5.mp3</title>
+			<creator>Johannes Brahms</creator>
+			<album>Hungarian Dance No. 5</album>
+			<trackNum>1</trackNum>
+			<annotation>A song that many of people have heard of, but don&#39;t know the name of. Hungarian dance number 5 by Johannes Brahms. I am again using the sheet music as the cover for this song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Johannes%20Brahms/Hungarian%20Dance%20No.%205/art.jpg</image>
+			<duration>201387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

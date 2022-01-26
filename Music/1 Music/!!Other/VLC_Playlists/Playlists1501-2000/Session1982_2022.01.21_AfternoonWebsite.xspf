@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20Cafe%20OST/MP3/Zombie_Cafe_Theme.mp3</location>
+			<title>Zombie_Cafe_Theme.mp3</title>
+			<creator>Beeline Games</creator>
+			<album>Zombie Cafe Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Beeline%20Games/Zombie%20Cafe%20Soundtrack/art.jpg</image>
+			<duration>66359</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Superman%20theme/MP3/Superman-theme.mp3</location>
+			<title>Superman-theme.mp3</title>
+			<creator>DC Comics</creator>
+			<album>Superman</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the DC comic series character Superman, the classic composition version.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/DC%20Comics/Superman/art.jpg</image>
+			<duration>252901</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Chinese%20Anthem/MP3/[CHINESE]-March_of_the_Volunteers_instrumental.mp3</location>
+			<title>[CHINESE]-March_of_the_Volunteers_instrumental.mp3</title>
+			<creator>Nie Er</creator>
+			<album>March of the Volunteers</album>
+			<trackNum>1</trackNum>
+			<annotation>The national anthem of China. Named after the volunteer army who opposed the Imperial Japanese invasion of Manchuria during World War II.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Nie%20Er/March%20of%20the%20Volunteers/art.jpg</image>
+			<duration>43920</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/USSR%20theme/MP3/USSR_Anthem.mp3</location>
+			<title>USSR_Anthem.mp3</title>
+			<creator>Various, Soviet Union</creator>
+			<album>Soviet Union Anthems</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Various%2C%20Soviet%20Union/Soviet%20Union%20Anthems/art.png</image>
+			<duration>224950</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/USSR%20theme/Remix/USSR%20Anthem%20Misheard%20-%20YouTube.mp4</location>
+			<duration>204869</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Sweet_Shop_OST/VideoWithAudio/Uncut/MKV/Sweet%20Shop%20-%20iPhone%20&amp;%20iPad%20Gameplay%20Video-9CcjbrHBQ84.mkv</location>
+			<duration>141540</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20Life%20Theme%20Song/Zombie%20Life%20-%20iPhone%20Game%20Preview-j9UIFFRB05w.mkv</location>
+			<duration>318620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tap%20Zoo%20OST/Tap%20Zoo%20-%20iPhone%20&amp;%20iPad%20Gameplay%20Video%20-%20YouTube.mp4</location>
+			<duration>203128</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
