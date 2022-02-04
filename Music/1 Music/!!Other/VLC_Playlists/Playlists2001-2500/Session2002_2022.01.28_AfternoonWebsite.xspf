@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pretty_Pet_Salon/OGG/hko_hellomyfriend_v2.ogg</location>
+			<title>hko_hellomyfriend_v2</title>
+			<trackNum>14</trackNum>
+			<duration>37000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pretty_Pet_Salon/OGG/PetSalon_BGM1.ogg</location>
+			<title>PetSalon_BGM1</title>
+			<trackNum>18</trackNum>
+			<duration>73000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pretty_Pet_Salon/OGG/PetSalon_BGM2.ogg</location>
+			<title>PetSalon_BGM2</title>
+			<trackNum>19</trackNum>
+			<duration>76000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Troll/MP3/Troll-Song.mp3</location>
+			<title>Troll-Song.mp3</title>
+			<creator>Eduard Khil</creator>
+			<album>Troll Song</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Eduard%20Khil/Troll%20Song/art.png</image>
+			<duration>161367</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
