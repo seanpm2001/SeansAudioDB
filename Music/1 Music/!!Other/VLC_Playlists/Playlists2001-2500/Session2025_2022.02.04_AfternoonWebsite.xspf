@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Zomboss/MP3/Plants%20Vs.%20Zombies%202%20Music%20-%20Dr.%20ZomBoss%20Fight.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Dr. ZomBoss Fight.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Dr. Zomboss</album>
+			<trackNum>1</trackNum>
+			<annotation>The full boss theme for Dr. Zomboss in Plants vs. Zombies 2. This version is the Ancient Egypt boss battle version. The intro is different, but the rest is the same. This is a non-extended version.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Dr.%20Zomboss/art.png</image>
+			<duration>369071</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/remix/Japantale/ASGORE%20THE%20SHOGUN%20OF%20THE%20MOUNTAIN%20-%20480p.mp4</location>
+			<duration>200156</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Do%20you%20believe%20in%20magic/(No%20video)%20The%20lovin&#39;%20spoonful%20-%20Do%20you%20believe%20in%20magic.webm</location>
+			<duration>127401</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20Dreams%20of%20Cruelty.mp3</location>
+			<duration>65959</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Filthy%20Frank/(No%20video)%20Goofys%20trial%20(animated).webm</location>
+			<duration>164800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Bejeweled%20Twist%20SFX/MP3/Bejeweled-twist_All-Sound-effects.mp3</location>
+			<title>Bejeweled-twist_All-Sound-effects.mp3</title>
+			<creator>Skaven / PopCap Games</creator>
+			<album>Bejeweled Twist sound effects</album>
+			<trackNum>1</trackNum>
+			<annotation>All the sound effects from the game Bejeweled Twist, extracted from the game file `MAIN.pak` the video version also has all the backgrounds.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap%20Games/Bejeweled%20Twist%20sound%20effects/art.png</image>
+			<duration>367161</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

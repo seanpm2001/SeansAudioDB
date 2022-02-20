@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/!Menu/MP3/Plants%20Vs.%20Zombies%202%20Music%20-%20Map.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Map.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 menu music</album>
+			<trackNum>1</trackNum>
+			<annotation>The main menu and map music for Plants vs. Zombies 2.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20menu%20music/art.png</image>
+			<duration>252823</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/!Remixes/MP3/Plants%20vs%20Zombies%202%20Egypt%20Theme%20on%20piano%20(by%20Laura%20Shigihara).mp3</location>
+			<title>Plants vs Zombies 2 Egypt Theme on piano (by Laura Shigihara).mp3</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies 2 on Piano</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme for Ancient Egypt from Plants vs. Zombies 2, played by the composer (Laura Shigihara) of the first games soundtrack, played entirely on a piano.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%202%20on%20Piano/art.png</image>
+			<duration>152381</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2033%20Quiet%20Water.ogg</location>
+			<title>Quiet Water</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>33</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>32000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2031%20Waterfall.ogg</location>
+			<title>Waterfall</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>31</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>126000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2005%20Ruins.ogg</location>
+			<title>Ruins</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>5</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>92000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%20100%20MEGALOVANIA.ogg</location>
+			<title>MEGALOVANIA</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>100</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>156000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%20101%20Good%20Night.ogg</location>
+			<title>Good Night</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>101</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2097%20But%20the%20Earth%20Refused%20to%20Die.ogg</location>
+			<title>But the Earth Refused to Die</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>97</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>34000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2098%20Battle%20Against%20a%20True%20Hero.ogg</location>
+			<title>Battle Against a True Hero</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>98</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>156000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2099%20Power%20of%20-NEO-.ogg</location>
+			<title>Power of &quot;NEO&quot;</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>99</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2084%20Amalgam.ogg</location>
+			<title>Amalgam</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>84</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>80000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2083%20Here%20We%20Are.ogg</location>
+			<title>Here We Are</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>83</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>126000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2057%20Live%20Report.ogg</location>
+			<title>Live Report</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>57</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>17000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2058%20Death%20Report.ogg</location>
+			<title>Death Report</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>58</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>47000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2004%20Fallen%20Down.ogg</location>
+			<title>Fallen Down</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>57000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2070%20Long%20Elevator.ogg</location>
+			<title>Long Elevator</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>70</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>20000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2071%20Undertale.ogg</location>
+			<title>Undertale</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>71</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>381000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2016%20Nyeh%20Heh%20Heh!.ogg</location>
+			<title>Nyeh Heh Heh!</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>16</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>32000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2024%20Bonetrousle.ogg</location>
+			<title>Bonetrousle</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>24</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>57000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2087%20Hopes%20and%20Dreams.ogg</location>
+			<title>Hopes and Dreams</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>87</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>181000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2045%20NGAHHH!!.ogg</location>
+			<title>NGAHHH!!</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>45</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>82000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2017%20Snowy.ogg</location>
+			<title>Snowy</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>17</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>104000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2022%20Snowdin%20Town.ogg</location>
+			<title>Snowdin Town</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>22</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>76000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2072%20Song%20That%20Might%20Play%20When%20You%20Fight%20Sans.ogg</location>
+			<title>Song That Might Play When You Fight Sans</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>72</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>62000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2051%20Another%20Medium.ogg</location>
+			<title>Another Medium</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>51</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>142000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2064%20CORE%20Approach.ogg</location>
+			<title>CORE Approach</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>64</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>12000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2065%20CORE.ogg</location>
+			<title>CORE</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>65</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/Raw%20audio/OGG/cover.png</image>
+			<duration>166000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Lost%20City/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Lost%20City_%20Ultimate%20Battle.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Lost City_ Ultimate Battle.mp3</title>
+			<creator>PopCap/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Lost City</album>
+			<trackNum>2</trackNum>
+			<annotation>The ultimate battle theme song for the Lost City stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Lost%20City/art.png</image>
+			<duration>378525</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/!Remixes/MP3/Plants%20vs%20Zombies%202%20Egypt%20Theme%20on%20piano%20(by%20Laura%20Shigihara).mp3</location>
+			<title>Plants vs Zombies 2 Egypt Theme on piano (by Laura Shigihara).mp3</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies 2 on Piano</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme for Ancient Egypt from Plants vs. Zombies 2, played by the composer (Laura Shigihara) of the first games soundtrack, played entirely on a piano.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%202%20on%20Piano/art.png</image>
+			<duration>152381</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/!Remixes/MP3/UNRELEASED%20PIRATE%20SEAS%20MUSIC%20(Plants%20vs.%20Zombies%202)%20(Laura%20Shigihara).mp3</location>
+			<title>UNRELEASED PIRATE SEAS MUSIC (Plants vs. Zombies 2) (Laura Shigihara).mp3</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies 2 unreleased music</album>
+			<trackNum>1</trackNum>
+			<annotation>The unreleased/unofficial version of the Pirate Seas theme song for Plants vs. Zombies 2. Final plants vs. Zombies song composed by the original composer (Laura Shigihara)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%202%20unreleased%20music/art.png</image>
+			<duration>165651</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Jurassic%20Marsh/MP3/Jurassic%20Marsh%20Reward%20music.mp3</location>
+			<title>Jurassic Marsh Reward music.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Jurassic Marsh</album>
+			<trackNum>5</trackNum>
+			<annotation>The end of level reward theme for the Jurassic Marsh stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Jurassic%20Marsh/art.png</image>
+			<duration>13043</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Jurassic%20Marsh/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Jurassic%20Marsh%20Theme.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Jurassic Marsh Theme.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Jurassic Marsh</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the Jurassic Marsh stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Jurassic%20Marsh/art.png</image>
+			<duration>593854</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Wild%20West/Plants%20Vs%20Zombies%202%20Music%20-%20Wild%20West_%20Demonstration%20Mini-Game%20%E2%98%BF%20HD%20%E2%98%BF%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>462262</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+	</extension>
+</playlist>
