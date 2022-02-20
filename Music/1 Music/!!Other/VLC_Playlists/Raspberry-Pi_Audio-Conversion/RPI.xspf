@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/AudioOnly/MP3/FRUIT%20NINJA%20KINECT%208%20bit%20cartridge%20-%20Complete%20soundtracks.mp3</location>
+			<title>FRUIT NINJA KINECT 8 bit cartridge - Complete soundtracks.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja (Kinect)</album>
+			<trackNum>1</trackNum>
+			<annotation>The 8 bit soundtrack for the Kinect for XBOX 360 edition of the game Fruit Ninja, by HalfBrick.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/!Halfbrick series/Fruit Ninja OST/AlbumArt/FruitNinjaIcon.png</image>
+			<duration>84558</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/AudioOnly/OGG/FRUIT%20NINJA%20KINECT%208%20bit%20cartridge%20-%20Complete%20soundtracks.ogg</location>
+			<duration>84000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/AudioOnly/MP3/Fruit%20Ninja%20-%20Music-dojo.mp3</location>
+			<title>Fruit Ninja - Music-dojo.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>The dojo theme from the HalfBrick video game Fruit Ninja.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/!Halfbrick series/Fruit Ninja OST/AlbumArt/FruitNinjaIcon.png</image>
+			<duration>30145</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/AudioOnly/OGG/Fruit%20Ninja%20-%20Music-dojo.ogg</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/AudioOnly/MP3/Fruit%20Ninja%20-%20Music-menu.mp3</location>
+			<title>Fruit Ninja - Music-menu.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The title theme for the video game Fruit Ninja by HalfBrick.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/!Halfbrick series/Fruit Ninja OST/AlbumArt/FruitNinjaIcon.png</image>
+			<duration>25783</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/AudioOnly/OGG/Fruit%20Ninja%20-%20Music-menu.ogg</location>
+			<duration>25000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/AudioOnly/MP3/Fruit%20Ninja%20-%20background.mp3</location>
+			<title>Fruit Ninja - background.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>The in-game ambient music heard in the 2010 HalfBrick video game Fruit Ninja.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/!Halfbrick series/Fruit Ninja OST/AlbumArt/FruitNinjaIcon.png</image>
+			<duration>179646</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/AudioOnly/OGG/Fruit%20Ninja%20-%20background.ogg</location>
+			<duration>179000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/AudioOnly/MP3/Fruit%20Ninja%20Menu%20Theme%20Extended%20-%20Theme%20Song%20-%20Game%20Music%20HQ%20OST.mp3</location>
+			<title>Fruit Ninja Menu Theme Extended - Theme Song - Game Music HQ OST.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja Modern soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The modern theme song for the HalfBrick video game Fruit Ninja.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/!Halfbrick series/Fruit Ninja OST/AlbumArt/FruitNinjaIcon.png</image>
+			<duration>607016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/AudioOnly/OGG/Fruit%20Ninja%20Menu%20Theme%20Extended%20-%20Theme%20Song%20-%20Game%20Music%20HQ%20OST.ogg</location>
+			<duration>607000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP3/fruit%20ninja%20background%20theme%20theme%20extended.mp3</location>
+			<title>fruit ninja background theme theme extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja Soundtrack (extended)</album>
+			<trackNum>3</trackNum>
+			<annotation>An extended version of the in-game background theme for Fruit Ninja. To prevent the song from being cut off, this extended version lasts an extra 2 minutes (32 minutes)</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/!Halfbrick series/Fruit Ninja OST/AlbumArt/FruitNinjaIcon.png</image>
+			<duration>1976675</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/OGG/fruit%20ninja%20background%20theme%20theme%20extended.ogg</location>
+			<duration>1976000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP3/fruit%20ninja%20dojo%20theme%20theme%20extended.mp3</location>
+			<title>fruit ninja dojo theme theme extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja soundtrack extended</album>
+			<trackNum>2</trackNum>
+			<annotation>An extended version of the Fruit Ninja Dojo theme. To prevent song cutoff, the audio is extended to nearly 31 minutes, instead of being just 30 minutes long.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/!Halfbrick series/Fruit Ninja OST/AlbumArt/FruitNinjaIcon.png</image>
+			<duration>1811109</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/OGG/fruit%20ninja%20dojo%20theme%20theme%20extended.ogg</location>
+			<duration>1811000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP3/fruit%20ninja%20kinect%208%20bit%20menu%20theme%20extended.mp3</location>
+			<title>fruit ninja kinect 8 bit menu theme extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja Kinect Soundtrack extended</album>
+			<trackNum>1</trackNum>
+			<annotation>The Fruit Ninja for Kinect theme song extended to 31 minutes.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/!Halfbrick series/Fruit Ninja OST/AlbumArt/FruitNinjaIcon.png</image>
+			<duration>1860977</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/OGG/fruit%20ninja%20kinect%208%20bit%20menu%20theme%20extended.ogg</location>
+			<duration>1860000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP3/fruit%20ninja%20modern%20menu%20theme%20extended.mp3</location>
+			<title>fruit ninja modern menu theme extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja modern soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>An extended version of the modern Fruit Ninja menu theme song.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/!Halfbrick series/Fruit Ninja OST/AlbumArt/FruitNinjaIcon.png</image>
+			<duration>1821088</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/OGG/fruit%20ninja%20modern%20menu%20theme%20extended.ogg</location>
+			<duration>1821000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP3/fruit%20ninja%20older%20menu%20theme%20extended.mp3</location>
+			<title>fruit ninja older menu theme extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja soundtrack extended</album>
+			<trackNum>1</trackNum>
+			<annotation>An extended version of the original Fruit Ninja menu theme song.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/!Halfbrick series/Fruit Ninja OST/AlbumArt/FruitNinjaIcon.png</image>
+			<duration>1807414</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/OGG/fruit%20ninja%20older%20menu%20theme%20extended.ogg</location>
+			<duration>1807000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/!All-in-one/MP3/All%20Plants%20vs%20Zombies%202%20Music%20V1.mp3</location>
+			<title>All Plants vs Zombies 2 Music V1.mp3</title>
+			<creator>PopCap/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 full original soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The full original soundtrack for Plants vs. Zombies 2, looped a few times, and not including menu, boss, and some other theme songs (just the main original level themes)</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/Plants Vs.Zombies 2 (iOS &amp; Android) OST/AlbumArt/PVZ2_Icon.png</image>
+			<duration>12687641</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/!All-in-one/OGG/All%20Plants%20vs%20Zombies%202%20Music%20V1.ogg</location>
+			<duration>12687000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Demonstration%20Minigame%20Mashup/MP3/demo%20minigame%20mashup%20collection.mp3</location>
+			<title>demo minigame mashup collection.mp3</title>
+			<creator>Popcap Games/EA</creator>
+			<album>Plants vs. Zombies 2 Demo Minigame mashup (remix compilation)</album>
+			<trackNum>1</trackNum>
+			<annotation>A compilation of mashups of the Demonstration Minigame themes from the game Plants Vs. Zombies 2.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/Plants Vs.Zombies 2 (iOS &amp; Android) OST/AlbumArt/PVZ2_Icon.png</image>
+			<duration>7525988</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Demonstration%20Minigame%20Mashup/OGG/demo%20minigame%20mashup%20collection.ogg</location>
+			<duration>7525000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Ultimate%20Battle%20Mashup/MP3/ultimate%20battle%20mashup%20collection.mp3</location>
+			<title>ultimate battle mashup collection.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 Ultimate battle mashup comp</album>
+			<trackNum>1</trackNum>
+			<annotation>A compilation of mashups of the Ultimate Battle themes from the game Plants Vs. Zombies 2.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/Plants Vs.Zombies 2 (iOS &amp; Android) OST/AlbumArt/PVZ2_Icon.png</image>
+			<duration>9896384</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Ultimate%20Battle%20Mashup/OGG/ultimate%20battle%20mashup%20collection.ogg</location>
+			<duration>9896000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/compilation/MP3/Fruit%20Ninja%20Full%20Soundtrack%20Extended.mp3</location>
+			<title>Fruit Ninja Full Soundtrack Extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja soundtrack (Extended)</album>
+			<trackNum>1</trackNum>
+			<annotation>The full soundtrack for the 2010 HalfBrick mobile game Fruit Ninja. Each song is extended to 30 to 33 minutes.</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20soundtrack%20%28Extended%29/art.png</image>
+			<duration>9277572</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/compilation/OGG/Fruit%20Ninja%20Full%20Soundtrack%20Extended.ogg</location>
+			<duration>9277000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/compilation/MP3/Fruit%20Ninja%20Full%20Soundtrack.mp3</location>
+			<title>Fruit Ninja Full Soundtrack.mp3</title>
+			<creator>Halfbrick</creator>
+			<album>Fruit Ninja soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The full soundtrack for the 2010 Halfbrick mobile video game, Fruit Ninja.</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Halfbrick/Fruit%20Ninja%20soundtrack/art.png</image>
+			<duration>927328</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!Halfbrick%20series/Fruit%20Ninja%20OST/compilation/OGG/Fruit%20Ninja%20Full%20Soundtrack.ogg</location>
+			<duration>927000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+	</extension>
+</playlist>
