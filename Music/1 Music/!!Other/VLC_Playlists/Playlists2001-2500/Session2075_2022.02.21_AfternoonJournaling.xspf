@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/WAV/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2021%20Loonboon%20IN-GAME.wav</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/WAV/cover.png</image>
+			<duration>124435</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/WAV/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2004%20Grasswalk.wav</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/WAV/cover.png</image>
+			<duration>148261</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/WAV/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2006%20Moongrains.wav</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/WAV/cover.png</image>
+			<duration>145842</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/WAV/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2011%20Rigor%20Mormist.wav</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/WAV/cover.png</image>
+			<duration>112508</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/WAV/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2003%20Choose%20Your%20Seeds.wav</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/WAV/cover.png</image>
+			<duration>18092</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/WAV/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2012%20Cerebrawl.wav</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/WAV/cover.png</image>
+			<duration>117655</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/WAV/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2013%20Graze%20the%20Roof.wav</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/WAV/cover.png</image>
+			<duration>183983</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/WAV/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2014%20Brainiac%20Maniac.wav</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Plants%20vs.zombies%20series/Plants%20vs.zombies%20%28PC%2C%20iOS%2C%20Android%29/Album/WAV/cover.png</image>
+			<duration>102605</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/!Remixes/MP3/Plants%20vs%20Zombies%202%20Egypt%20Theme%20on%20piano%20(by%20Laura%20Shigihara).mp3</location>
+			<title>Plants vs Zombies 2 Egypt Theme on piano (by Laura Shigihara).mp3</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies 2 on Piano</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme for Ancient Egypt from Plants vs. Zombies 2, played by the composer (Laura Shigihara) of the first games soundtrack, played entirely on a piano.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%202%20on%20Piano/art.png</image>
+			<duration>152381</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
