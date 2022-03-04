@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Dr.Mario%20Series/Dr.Mario%20(GBA)%20OST/MP3/Dr.MarioAndPuzzleLeague_MenuTheme.mp3</location>
+			<title>Dr.MarioAndPuzzleLeague_MenuTheme.mp3</title>
+			<creator>Nintendo</creator>
+			<album>Dr. Mario (GBA) soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The first song (out of 7) for the video game Dr. Mario &amp; Puzzle League, by Nintendo, for the GBA (Game Boy Advance)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Dr.%20Mario%20%28GBA%29%20soundtrack/art.jpg</image>
+			<duration>105727</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Dr.Mario%20Series/Dr.Mario%20(GBA)%20OST/MP3/Dr.MarioGBA_MenuTheme.mp3</location>
+			<title>Dr.MarioGBA_MenuTheme.mp3</title>
+			<creator>Nintendo</creator>
+			<album>Dr. Mario (GBA) Soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>The second song (out of 7) for the video game Dr. Mario &amp; Puzzle League, by Nintendo, for the GBA (Game Boy Advance)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Dr.%20Mario%20%28GBA%29%20Soundtrack/art.jpg</image>
+			<duration>63642</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Dr.Mario%20Series/Dr.Mario%20(GBA)%20OST/MP3/Dr.MarioGBA_Cough-Theme.mp3</location>
+			<title>Dr.MarioGBA_Cough-Theme.mp3</title>
+			<creator>Nintendo</creator>
+			<album>Dr. Mario (GBA) Soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>The fourth song (out of 7) for the video game Dr. Mario &amp; Puzzle League, by Nintendo, for the GBA (Game Boy Advance)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Dr.%20Mario%20%28GBA%29%20Soundtrack/art.jpg</image>
+			<duration>178425</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Dr.Mario%20Series/Dr.Mario%20(GBA)%20OST/MP3/Dr.MarioGBA_Chill-Theme.mp3</location>
+			<title>Dr.MarioGBA_Chill-Theme.mp3</title>
+			<creator>Nintendo</creator>
+			<album>Dr. Mario (GBA) Soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>The third song (out of 7) for the video game Dr. Mario &amp; Puzzle League, by Nintendo, for the GBA (Game Boy Advance)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Dr.%20Mario%20%28GBA%29%20Soundtrack/art.jpg</image>
+			<duration>177824</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
