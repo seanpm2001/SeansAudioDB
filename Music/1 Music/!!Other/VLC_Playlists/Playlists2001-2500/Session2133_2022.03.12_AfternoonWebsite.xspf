@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg</location>
+			<duration>203000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pregon-Canastero-(Bulerias-del-Piliya)/MP3/Pregon-Canastero_(Bulerias-del-Piliya).mp3</location>
+			<title>Pregon-Canastero_(Bulerias-del-Piliya).mp3</title>
+			<creator>Pregon Canastero</creator>
+			<album>Bulerias del Piliya</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Pregon Canastero by Bulerias del Piliya.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Pregon%20Canastero/Bulerias%20del%20Piliya/art.jpg</image>
+			<duration>311128</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/El-Tango-De-Roxanne/MP3/El-Tango-De-Roxanne.mp3</location>
+			<title>El-Tango-De-Roxanne.mp3</title>
+			<creator>The Police (band)</creator>
+			<album>El Tango De Roxanne</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;El Tango De Roxanne&quot; by the English band &quot;The Police&quot; (who are not current or former police officers, it is just the band name)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Police%20%28band%29/El%20Tango%20De%20Roxanne/art.jpg</image>
+			<duration>283908</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Garmarna_Herr-Mannelig/MP3/Garmarna_Herr-Mannelig.mp3</location>
+			<title>Garmarna_Herr-Mannelig.mp3</title>
+			<creator>Garmarna</creator>
+			<album>Herr Mannelig</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Herr Mannelig&quot; recomposed by the Swedish artist Garmarna</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Garmarna/Herr%20Mannelig/art.jpg</image>
+			<duration>171346</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gy%C3%B6ngyhaj%C3%BA%20l%C3%A1ny/(No%20video)%20Gy%C3%B6ngyhaj%C3%BA%20l%C3%A1ny.webm</location>
+			<duration>349680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/Chapter%209%20-%20The%20part%20where%20he%20kills%20you/Portal%202%20OST%20-%20Bombs%20For%20Throwing%20at%20You.mp4</location>
+			<duration>348160</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/DISC3/Portal2-3x09-Bombs_for_Throwing_at_You.flac</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/DISC3/cover.png</image>
+			<duration>348074</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/DISC3/Portal2-3x10-Your_Precious_Moon.flac</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/DISC3/cover.png</image>
+			<duration>115295</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/DISC3/Portal2-3x11-Caroline_Deleted.flac</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/DISC3/cover.png</image>
+			<duration>110353</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
