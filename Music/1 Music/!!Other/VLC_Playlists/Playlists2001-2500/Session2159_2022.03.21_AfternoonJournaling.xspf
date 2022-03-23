@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Queen%20-%20Bohemian%20Rhapsody/MP3/Queen_Bohemian-Rhapsody.mp3</location>
+			<title>Queen_Bohemian-Rhapsody.mp3</title>
+			<creator>Queen</creator>
+			<album>Bohemian Rhapsody</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bohemian Rhapsody&quot; by the British band Queen. It is one of their best songs, and it also can work well as a speaker test.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/Bohemian%20Rhapsody/art.jpg</image>
+			<duration>354831</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
