@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/YouTube-Audio-Library/MP3/New_Land.mp3</location>
+			<title>New_Land.mp3</title>
+			<creator>ALBIS</creator>
+			<album>Reactop R20 commercial music (YouTube Audio Library)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;New land&quot; from ALBIS. From the YouTube audio library, and used in the first set of commercials for the Reactop R20 laptop brand. I cannot determine the year, so I am falling back on when the commercial was made.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/ALBIS/Reactop%20R20%20commercial%20music%20%28YouTube%20Audio%20Library%29/art.png</image>
+			<duration>150343</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/Cipher%20-%20Kevin%20Macleod%201%20Hour%20Loop.m4a</location>
+			<duration>5790081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/Hitman%20-%20Kevin%20Macleod%202%20hours.m4a</location>
+			<duration>7291971</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/Kevin%20Macleod%20Fluffing%20a%20duck%201%20hour.m4a</location>
+			<duration>3675602</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/Kevin%20Macleod%20sneaky%20snitch%201%20hour.m4a</location>
+			<duration>3690115</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/Kevin%20Macleod%20Wallpaper%201%20hour.m4a</location>
+			<duration>3843947</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg</location>
+			<duration>203000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Osiris/MP3/Ancient-Egyptian-Music-Osiris.mp3</location>
+			<title>Ancient-Egyptian-Music-Osiris.mp3</title>
+			<creator>Ancient Egypt</creator>
+			<album>Osiris</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Osiris, composed in Ancient Egypt thousands of years ago.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Ancient%20Egypt/Osiris/art.jpg</image>
+			<duration>198931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
