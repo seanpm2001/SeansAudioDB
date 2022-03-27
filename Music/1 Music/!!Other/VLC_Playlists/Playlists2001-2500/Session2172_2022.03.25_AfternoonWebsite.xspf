@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Homebrew%20Channel%20OST/MP3/The-Homebrew-Channel-theme.mp3</location>
+			<title>The-Homebrew-Channel-theme.mp3</title>
+			<creator>Homebrew Community</creator>
+			<album>The Homebrew Channel theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the Homebrew channel on the Nintendo Wii once it has been bluebombed with a blueletter.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Homebrew%20Community/The%20Homebrew%20Channel%20theme%20song/art.jpg</image>
+			<duration>88825</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bobs%20World%20OST/MP3/Bob&#39;s-World_Super-Adventure_Theme-Song.mp3</location>
+			<title>Bob&#39;s-World_Super-Adventure_Theme-Song.mp3</title>
+			<creator>Bobs World</creator>
+			<album>Bobs World soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>A platformer game that tries to copy Mario that has avoided Nintendos C&amp;D factory for quite some time. Decent soundtrack, although I can&#39;t find the year.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Bobs%20World/Bobs%20World%20soundtrack/art.jpg</image>
+			<duration>75215</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bobs%20World%20OST/MP3/Bob&#39;s-World-OST_In-Game-Theme.mp3</location>
+			<title>Bob&#39;s-World-OST_In-Game-Theme.mp3</title>
+			<creator>Bobs World</creator>
+			<album>Bobs World Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>A platformer game that tries to copy Mario that has avoided Nintendos C&amp;D factory for quite some time. Decent soundtrack, although I can&#39;t find the year. This is the in-game music for Bobs World.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Bobs%20World/Bobs%20World%20Soundtrack/art.jpg</image>
+			<duration>193420</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>

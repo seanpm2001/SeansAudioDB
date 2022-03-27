@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/illuminati%20theme/MP3/IlluminatiTheme_MinecraftNoteblockRemix.mp3</location>
+			<title>IlluminatiTheme_MinecraftNoteblockRemix.mp3</title>
+			<creator>X-files</creator>
+			<album>Illuminati theme (remixes)</album>
+			<trackNum>1</trackNum>
+			<annotation>The illuminati theme from the X-files, played on Minecraft Note Blocks.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/X-files/Illuminati%20theme%20%28remixes%29/art.png</image>
+			<duration>166565</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/illuminati%20theme/MP3/IlluminatiTheme.mp3</location>
+			<title>IlluminatiTheme.mp3</title>
+			<creator>X-files</creator>
+			<album>Illuminati theme (meme edition)</album>
+			<trackNum>1</trackNum>
+			<annotation>The meme version of the illuminati theme, from the show &quot;The X-files&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/X-files/Illuminati%20theme%20%28meme%20edition%29/art.png</image>
+			<duration>189998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/illuminati%20theme/MP3/X-Files_illuminati-theme.mp3</location>
+			<title>X-Files_illuminati-theme.mp3</title>
+			<creator>X-Files</creator>
+			<album>Illuminati theme</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the X-files. I have 3 illuminati songs. The illuminati is a triangle. Triangles have 3 sides. Illuminati confirmed?!?!?! Illuminati, more like illumi naughty.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/X-Files/Illuminati%20theme/art.png</image>
+			<duration>301385</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
