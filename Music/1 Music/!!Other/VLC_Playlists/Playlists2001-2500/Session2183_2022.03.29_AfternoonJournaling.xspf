@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Matchbox-Twenty_Unwell/MP3/Matchbox-Twenty_Unwell.mp3</location>
+			<title>Matchbox-Twenty_Unwell.mp3</title>
+			<creator>Matchbox Twenty</creator>
+			<album>Unwell</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Unwell&quot; by Alternative Rock band &quot;Matchbox Twenty&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Matchbox%20Twenty/Unwell/art.jpg</image>
+			<duration>227954</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Eye%20of%20the%20Tiger/MP3/Survivor_Eye-of-the-Tiger.mp3</location>
+			<title>Survivor_Eye-of-the-Tiger.mp3</title>
+			<creator>Survivor</creator>
+			<album>Eye of the Tiger</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;eye of the tiger&quot; by the rock band &quot;survivor&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Survivor/Eye%20of%20the%20Tiger/art.jpg</image>
+			<duration>268026</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Coc&#39;n%20rolla%20(Garfielf%20theme)/MP3/BEGNAGRAD_Coc&#39;n-Rolla.mp3</location>
+			<title>BEGNAGRAD_Coc&#39;n-Rolla.mp3</title>
+			<creator>BEGNAGRAD</creator>
+			<album>Coc&#39;n Rolla</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Coc&#39;n Rolla&quot; by the artist &quot;BEGNAGRAD&quot; commonly known as the theme song for the Internet Meme &quot;Garfielf&quot; that features a poorly drawn Garfield saying various things while this song plays in the background.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/BEGNAGRAD/Coc%27n%20Rolla/art.jpg</image>
+			<duration>330151</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
