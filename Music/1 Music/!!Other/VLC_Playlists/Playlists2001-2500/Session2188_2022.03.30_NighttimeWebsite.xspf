@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Thats%20amore/MP3/Dean-Martin_That&#39;s-Amore.mp3</location>
+			<title>Dean-Martin_That&#39;s-Amore.mp3</title>
+			<creator>Dean Martin</creator>
+			<album>That&#39;s Amore</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;That&#39;s Amore&quot; from the artist Dean Martin, although it was composed and written by composer Harry Warren and lyricist Jack Brooks originally.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Dean%20Martin/That%27s%20Amore/art.jpg</image>
+			<duration>186967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Korn%20-%20Freak%20on%20a%20leash/MP3/Korn-Freak-on-a-leash.mp3</location>
+			<title>Korn-Freak-on-a-leash.mp3</title>
+			<creator>Korn</creator>
+			<album>Freak on a leash</album>
+			<trackNum>1</trackNum>
+			<annotation>Kornhub</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Korn/Freak%20on%20a%20leash/art.jpg</image>
+			<duration>266223</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Lollipop%20Chainsaw%20-%20You%20Spin%20me%20right%20round/MP3/Lollipop-Chainsaw-OST-You-Spin-Me-Round-(Like-a-Record)-(by-Dead-or-Alive).mp3</location>
+			<title>Lollipop-Chainsaw-OST-You-Spin-Me-Round-(Like-a-Record)-(by-Dead-or-Alive).mp3</title>
+			<creator>Dead or Alive</creator>
+			<album>You spin me right round</album>
+			<trackNum>1</trackNum>
+			<annotation>I originally thought this song was by Lollipop Chainsaw, which I have found isn&#39;t even a band. I still have to keep the wrong name here, as everything was set up this way. I will make a corrected version in the future.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Dead%20or%20Alive/You%20spin%20me%20right%20round/art.jpg</image>
+			<duration>184224</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
