@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%201%20(GBA,%20DSi)%20OST/AudioOnly/24%20X-Zone.mp3</location>
+			<title>X-Zone</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Sonic%20Advance%20series/Sonic%20Advance%201%20%28GBA%2C%20DSi%29%20OST/AudioOnly/Folder.jpg</image>
+			<duration>187063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/David%20Bowie/MP3/David-Bowie_Changes-(2015-Remaster).mp3</location>
+			<title>David-Bowie_Changes-(2015-Remaster).mp3</title>
+			<creator>David Bowie</creator>
+			<album>Changes (2015 remaster)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Changes&quot; from David Bowie, the 2015 remasterd version.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Changes%20%282015%20remaster%29/art.jpg</image>
+			<duration>217714</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/David%20Bowie/MP3/David-Bowie_Starman.mp3</location>
+			<title>David-Bowie_Starman.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Starman</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Starman&quot; by British singer David Bowie.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Starman/art.jpg</image>
+			<duration>257864</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/David%20Bowie/MP3/David-Bowie_Life-on-mars.mp3</location>
+			<title>David-Bowie_Life-on-mars.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Life on Mars?</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Life on Mars?&quot; by David Bowie, a song about history repeating itself far too often (which is what we face in reality)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Life%20on%20Mars_/art.jpg</image>
+			<duration>249949</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/David%20Bowie/MP3/David-Bowie_Space-Oddity.mp3</location>
+			<title>David-Bowie_Space-Oddity.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Space Oddity</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Space Oddity&quot; by David Bowie.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Space%20Oddity/art.jpg</image>
+			<duration>304937</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/M.I.A-Bad-Girls-Instrumental/MP3/M.I.A._Bad-Girls-Instrumental.mp3</location>
+			<title>M.I.A._Bad-Girls-Instrumental.mp3</title>
+			<creator>M.I.A.</creator>
+			<album>Bad Girls (Instrumental)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bad girls&quot; in Instrumental format, by the British band M.I.A.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/M.I.A./Bad%20Girls%20%28Instrumental%29/art.jpg</image>
+			<duration>228737</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

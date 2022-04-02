@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/I&#39;m%20blue/MP3/Eiffel-65_I&#39;m-Blue.mp3</location>
+			<title>Eiffel-65_I&#39;m-Blue.mp3</title>
+			<creator>Eiffel 65</creator>
+			<album>I&#39;m blue</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I&#39;m blue&quot; by Eiffel 65.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Eiffel%2065/I%27m%20blue/art.jpg</image>
+			<duration>219203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bag%20Raiders/MP3/BagRaiders-ShootingStars.mp3</location>
+			<title>BagRaiders-ShootingStars.mp3</title>
+			<creator>Bag Raiders</creator>
+			<album>Shooting Stars</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Bag%20Raiders/Shooting%20Stars/art.jpg</image>
+			<duration>231611</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
