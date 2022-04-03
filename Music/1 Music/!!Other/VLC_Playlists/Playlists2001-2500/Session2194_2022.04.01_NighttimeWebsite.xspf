@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Yes%20-%20Roundabout/MP3/Roundabout-(2008-Remastered-Version).mp3</location>
+			<title>Roundabout-(2008-Remastered-Version).mp3</title>
+			<creator>Yes</creator>
+			<album>Roundabout (2008 remaster)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Roundabout&quot; by the band &quot;yes&quot; remastered in 2008.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Yes/Roundabout%20%282008%20remaster%29/art.jpg</image>
+			<duration>515956</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Moskau/MP3/Moskau-1979.mp3</location>
+			<title>Moskau-1979.mp3</title>
+			<creator>Dschinghis Khan</creator>
+			<album>Moskau</album>
+			<trackNum>1</trackNum>
+			<annotation>This is the German version of the song. English and Russian versions also exist.
+Dschinghis Khan translates to Genghis Khan in some countries such as Australia)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Dschinghis%20Khan/Moskau/art.jpg</image>
+			<duration>266981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Matchbox-Twenty_Unwell/MP3/Matchbox-Twenty_Unwell.mp3</location>
+			<title>Matchbox-Twenty_Unwell.mp3</title>
+			<creator>Matchbox Twenty</creator>
+			<album>Unwell</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Unwell&quot; by Alternative Rock band &quot;Matchbox Twenty&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Matchbox%20Twenty/Unwell/art.jpg</image>
+			<duration>227954</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Drunken-Sailor_Irish-Rovers/MP3/Irish-Rovers_Drunken-Sailor.mp3</location>
+			<title>Irish-Rovers_Drunken-Sailor.mp3</title>
+			<creator>Irish Rovers</creator>
+			<album>Drunken Sailor</album>
+			<trackNum>1</trackNum>
+			<annotation>The Irish Rovers cover on the 19th century Sea Shanty known as &quot;the drunken sailor&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Irish%20Rovers/Drunken%20Sailor/art.jpg</image>
+			<duration>159068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hava-Nagila/MP3/Hava-Nagila.mp3</location>
+			<title>Hava-Nagila.mp3</title>
+			<creator>Idelsohn or Nathanson (disputed)</creator>
+			<album>Hava Nagila</album>
+			<trackNum>1</trackNum>
+			<annotation>The Jewish folk song Hava Nagila. Its original creator is commonly disputed, it was either composed by Idelsohn or Nathanson. It was composed in 1918 to celebrate victory over the Ottoman Empire in World War I. The song name translates to &quot;Let us rejoice&quot; in English. I am using a picture of the sheet music as the album art, rather than the flag of Israel.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Idelsohn%20or%20Nathanson%20%28disputed%29/Hava%20Nagila/art.png</image>
+			<duration>165233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
