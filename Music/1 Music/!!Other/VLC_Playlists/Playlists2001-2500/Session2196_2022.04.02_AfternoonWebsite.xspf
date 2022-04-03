@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zorba_The_Greek/MP3/Mikis-Theodorakis_-_Zorba-The-Greek_-_Zorba&#39;s-Dance.mp3</location>
+			<title>Mikis-Theodorakis_-_Zorba-The-Greek_-_Zorba&#39;s-Dance.mp3</title>
+			<creator>Mikis Theodorakis</creator>
+			<album>Zorba the Greek</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Zorbas dance from the movie Zorba the Greek.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Mikis%20Theodorakis/Zorba%20the%20Greek/art.jpg</image>
+			<duration>242243</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tiny%20Tim/MP3/Tiny-Tim_Dancing-in-the-sunlight.mp3</location>
+			<title>Tiny-Tim_Dancing-in-the-sunlight.mp3</title>
+			<creator>Tiny Tim</creator>
+			<album>Dancing in the sunlight / TipToe through the Tulips</album>
+			<trackNum>1</trackNum>
+			<annotation>A cover of the song &quot;Tiptoe throught the tulips&quot; by Tiny Tim. Notable modern usages of this song include the first episode of SpongeBob.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Tiny%20Tim/Dancing%20in%20the%20sunlight%20_%20TipToe%20through%20the%20Tulips/art.jpg</image>
+			<duration>125893</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Salve-Regina_Hail-Holy-Queen/MP3/Salve-Regina_Hail-Holy-Queen.mp3</location>
+			<title>Salve-Regina_Hail-Holy-Queen.mp3</title>
+			<creator>Salve Regina</creator>
+			<album>Hail Holy Queen</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Hail Holy Queen, part of Salve Regina. A Latin song from Medieval Europe, recomposed in the 1950s.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Salve%20Regina/Hail%20Holy%20Queen/art.jpg</image>
+			<duration>118892</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Brotherman%20Bill/Brotherman%20bill.mp4</location>
+			<duration>233221</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Korn%20-%20Freak%20on%20a%20leash/MP3/Korn-Freak-on-a-leash.mp3</location>
+			<title>Korn-Freak-on-a-leash.mp3</title>
+			<creator>Korn</creator>
+			<album>Freak on a leash</album>
+			<trackNum>1</trackNum>
+			<annotation>Kornhub</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Korn/Freak%20on%20a%20leash/art.jpg</image>
+			<duration>266223</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hungarian-Dance/Number5/MP3/Johannes-Brahms_-_Hungarian-Dance-No.-5.mp3</location>
+			<title>Johannes-Brahms_-_Hungarian-Dance-No.-5.mp3</title>
+			<creator>Johannes Brahms</creator>
+			<album>Hungarian Dance No. 5</album>
+			<trackNum>1</trackNum>
+			<annotation>A song that many of people have heard of, but don&#39;t know the name of. Hungarian dance number 5 by Johannes Brahms. I am again using the sheet music as the cover for this song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Johannes%20Brahms/Hungarian%20Dance%20No.%205/art.jpg</image>
+			<duration>201387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/Pink%20Guy%20-%20KYS.mp4</location>
+			<duration>155968</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/do%20the%20salamander%20song.mp4</location>
+			<duration>137183</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/Salamander%20man%20theme.mp4</location>
+			<duration>76788</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/Friendzone%20song.mp4</location>
+			<duration>74512</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/GIBE%20DE%20PUSI%20B0SS.mp4</location>
+			<duration>600607</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/Finna%20bust%20a%20nut.mp4</location>
+			<duration>104141</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+	</extension>
+</playlist>
