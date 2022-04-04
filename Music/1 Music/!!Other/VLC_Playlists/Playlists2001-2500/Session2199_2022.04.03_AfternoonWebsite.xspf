@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Pink%20guy/PINK%20GUY%20-%20MEME%20MACHINE%20(128%20%20kbps).mp3</location>
+			<duration>130822</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hotel%20California/MP3/Eagles-Hotel-California.mp3</location>
+			<title>Eagles-Hotel-California.mp3</title>
+			<creator>Eagles</creator>
+			<album>Hotel California</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Eagles/Hotel%20California/art.jpg</image>
+			<duration>390776</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hollaback%20Girl/MP3/Hollaback-Girl-Explicit.mp3</location>
+			<title>Hollaback-Girl-Explicit.mp3</title>
+			<creator>Hollaback Girl</creator>
+			<album>Hollaback Girl</album>
+			<trackNum>1</trackNum>
+			<annotation>B A N A N A S</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Hollaback%20Girl/Hollaback%20Girl/art.jpg</image>
+			<duration>207056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Thrift%20shop/MP3/Thrift-Shop.mp3</location>
+			<title>Thrift-Shop.mp3</title>
+			<creator>Macklemore &amp; Ryan Lewis</creator>
+			<album>Thrift Shop</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Thrift Shop&quot; by Macklemore &amp; Ryan Lewis.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Macklemore%20%26%20Ryan%20Lewis/Thrift%20Shop/art.jpg</image>
+			<duration>232395</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/Thrift%20Shop%20PARODY%20I&#39;m%20Osama%20~%20Rucka%20Rucka%20Ali-SePH50rdg-g.webm</location>
+			<duration>286440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Thrift-Shop-Parody_I&#39;m-Osama.mp3</location>
+			<title>Rucka-Rucka-Ali_Thrift-Shop-Parody_I&#39;m-Osama.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Thrift Shop Parody - I&#39;m Osama</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I&#39;m Osama&quot; by Rucka Rucka Ali, a parody of the song &quot;Thrift Shop&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rucka%20Rucka%20Ali/Thrift%20Shop%20Parody%20-%20I%27m%20Osama/art.jpg</image>
+			<duration>286286</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Go-cops.mp3</location>
+			<title>Rucka-Rucka-Ali_Go-cops.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Go cops</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Go cops&quot; by Israeli artist Rucka Rucka Ali</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rucka%20Rucka%20Ali/Go%20cops/art.jpg</image>
+			<duration>214945</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/MP3/Rucka-Rucka-Ali_Everything-is-racist.mp3</location>
+			<title>Rucka-Rucka-Ali_Everything-is-racist.mp3</title>
+			<creator>Rucka Rucka Ali</creator>
+			<album>Everything is racist</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Everything is racist&quot; by Israeli artist Rucka Rucka Ali</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rucka%20Rucka%20Ali/Everything%20is%20racist/art.jpg</image>
+			<duration>158650</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
