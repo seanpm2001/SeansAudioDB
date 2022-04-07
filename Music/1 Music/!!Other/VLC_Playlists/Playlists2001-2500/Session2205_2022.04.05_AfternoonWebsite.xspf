@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/WarZone2100_OST/original_soundtrack/track1.ogg</location>
+			<title>Nuclear Silence</title>
+			<creator>Martin Severn</creator>
+			<album>Warzone 2100</album>
+			<duration>420000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/WarZone2100_OST/original_soundtrack/track2.ogg</location>
+			<title>Radar Dish</title>
+			<creator>Martin Severn</creator>
+			<album>Warzone 2100</album>
+			<duration>471000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/WarZone2100_OST/original_soundtrack/track3.ogg</location>
+			<duration>299000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/WarZone2100_OST/original_soundtrack/track3.ogg</location>
+			<duration>299000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/WarZone2100_OST/legacy_soundtrack/track4.ogg</location>
+			<title>Uncertain Future</title>
+			<creator>LupusMechanicus</creator>
+			<album>Warzone 2100 - Legacy Soundtrack</album>
+			<trackNum>1</trackNum>
+			<duration>658000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/WarZone2100_OST/legacy_soundtrack/track5.ogg</location>
+			<title>Recovery Ops</title>
+			<creator>LupusMechanicus</creator>
+			<album>Warzone 2100 - Legacy Soundtrack</album>
+			<trackNum>2</trackNum>
+			<duration>418000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/WarZone2100_OST/legacy_soundtrack/track6.ogg</location>
+			<title>Incoming Transmission</title>
+			<creator>LupusMechanicus</creator>
+			<album>Warzone 2100 - Legacy Soundtrack</album>
+			<trackNum>3</trackNum>
+			<duration>312000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/WarZone2100_OST/legacy_soundtrack/track7.ogg</location>
+			<title>My Kind of Wasteland</title>
+			<creator>LupusMechanicus</creator>
+			<album>Warzone 2100 - Legacy Soundtrack</album>
+			<trackNum>4</trackNum>
+			<duration>468000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

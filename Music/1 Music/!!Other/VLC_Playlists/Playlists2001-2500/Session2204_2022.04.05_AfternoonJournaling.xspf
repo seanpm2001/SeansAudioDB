@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/DISC2/Portal2-2x01-You_Will_Be_Perfect.flac</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/DISC2/cover.png</image>
+			<duration>159428</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/DISC2/Portal2-2x03-Bots_Build_Bots.flac</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/DISC2/cover.png</image>
+			<duration>247090</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/DISC2/Portal2-2x04-An_Accent_Beyond.flac</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/DISC2/cover.png</image>
+			<duration>178400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/DISC2/Portal2-2x05-Robot_Ghost_Story.flac</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/DISC2/cover.png</image>
+			<duration>187200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/DISC2/Portal2-2x06-Die_Cut_Laser_Dance.flac</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/DISC2/cover.png</image>
+			<duration>120000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/DISC2/Portal2-2x07-Turret_Redemption_Line.flac</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/DISC2/cover.png</image>
+			<duration>203076</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/DISC2/Portal2-2x08-Bring_Your_Daughter_To_Work_Day.flac</location>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/DISC2/cover.png</image>
+			<duration>160000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
