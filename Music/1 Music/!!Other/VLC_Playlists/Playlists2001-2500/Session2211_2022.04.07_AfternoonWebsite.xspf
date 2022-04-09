@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/WarZone2100_OST/legacy_soundtrack/track4.ogg</location>
+			<title>Uncertain Future</title>
+			<creator>LupusMechanicus</creator>
+			<album>Warzone 2100 - Legacy Soundtrack</album>
+			<trackNum>1</trackNum>
+			<duration>658000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/WarZone2100_OST/legacy_soundtrack/track9.ogg</location>
+			<title>The Project</title>
+			<creator>LupusMechanicus</creator>
+			<album>Warzone 2100 - Legacy Soundtrack</album>
+			<trackNum>6</trackNum>
+			<duration>492000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/YouTube-Audio-Library/MP3/Silent-Partner_Sad-past.mp3</location>
+			<title>Silent-Partner_Sad-past.mp3</title>
+			<creator>Silent Partner</creator>
+			<album>Sad past</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;sad past&quot; by Silent Partner. I am unable to determine the year, so I guessed: 2015.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Silent%20Partner/Sad%20past/art.jpg</image>
+			<duration>141462</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/YouTube-Audio-Library/MP3/Ticker.mp3</location>
+			<title>Ticker.mp3</title>
+			<creator>Silent Partner</creator>
+			<album>Reactop R20 commercial music (YouTube Audio Library)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Ticker&quot; from Silent Partner. From the YouTube audio library, and used in the first set of commercials for the Reactop R20 laptop brand. I cannot determine the year, so I am falling back on when the commercial was made.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Silent%20Partner/Reactop%20R20%20commercial%20music%20%28YouTube%20Audio%20Library%29/art.png</image>
+			<duration>183467</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/YouTube-Audio-Library/MP3/New_Land.mp3</location>
+			<title>New_Land.mp3</title>
+			<creator>ALBIS</creator>
+			<album>Reactop R20 commercial music (YouTube Audio Library)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;New land&quot; from ALBIS. From the YouTube audio library, and used in the first set of commercials for the Reactop R20 laptop brand. I cannot determine the year, so I am falling back on when the commercial was made.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/ALBIS/Reactop%20R20%20commercial%20music%20%28YouTube%20Audio%20Library%29/art.png</image>
+			<duration>150343</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/MIDI/Metallica/Metallica%20Fuel%20Midi.m4a</location>
+			<duration>266704</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/MIDI/Vinesauce_Joel/(No%20video)%20[Vinesauce]%20Scary%20Monsters%20and%20Nice%20Sprites%20(MIDI%20Version).webm</location>
+			<duration>236820</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song2.mp3</location>
+			<title>Virtual_City_Playground_OST_Song2.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>133546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song4.mp3</location>
+			<title>Virtual_City_Playground_OST_Song4.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>121687</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
