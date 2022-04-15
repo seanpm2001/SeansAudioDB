@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%201%20(GBA,%20DSi)%20OST/AudioOnly/18%20Ice%20Mountain%20Zone%20Act%201.mp3</location>
+			<title>Ice Mountain Zone Act 1</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Sonic%20Advance%20series/Sonic%20Advance%201%20%28GBA%2C%20DSi%29%20OST/AudioOnly/Folder.jpg</image>
+			<duration>113058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%201%20(GBA,%20DSi)%20OST/AudioOnly/12%20Neo%20Green%20Hill%20Zone%20Act%201.mp3</location>
+			<title>Neo Green Hill Zone Act 1</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Sonic%20Advance%20series/Sonic%20Advance%201%20%28GBA%2C%20DSi%29%20OST/AudioOnly/Folder.jpg</image>
+			<duration>154044</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%201%20(GBA,%20DSi)%20OST/AudioOnly/17%20Casino%20Paradise%20Zone%20Act%202.mp3</location>
+			<title>Casino Paradise Zone Act 2</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Sonic%20Advance%20series/Sonic%20Advance%201%20%28GBA%2C%20DSi%29%20OST/AudioOnly/Folder.jpg</image>
+			<duration>154044</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%201%20(GBA,%20DSi)%20OST/AudioOnly/14%20Secret%20Base%20Zone%20Act%201.mp3</location>
+			<title>Secret Base Zone Act 1</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Sonic%20Advance%20series/Sonic%20Advance%201%20%28GBA%2C%20DSi%29%20OST/AudioOnly/Folder.jpg</image>
+			<duration>182047</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%201%20(GBA,%20DSi)%20OST/AudioOnly/20%20Angel%20Island%20Zone%20Act%201.mp3</location>
+			<title>Angel Island Zone Act 1</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Sonic%20Advance%20series/Sonic%20Advance%201%20%28GBA%2C%20DSi%29%20OST/AudioOnly/Folder.jpg</image>
+			<duration>154044</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Finnish-Folk-Song-S%C3%A4kkij%C3%A4rven-polkka/MP3/Finnish-Folk-Song_S%C3%A4kkij%C3%A4rven-polkka.mp3</location>
+			<title>Finnish-Folk-Song_Säkkijärven-polkka.mp3</title>
+			<creator>Finland</creator>
+			<album>Säkkijärven polkka</album>
+			<trackNum>1</trackNum>
+			<annotation>A common Finnish Folk song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Finland/S%C3%A4kkij%C3%A4rven%20polkka/art.jpg</image>
+			<duration>145667</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
