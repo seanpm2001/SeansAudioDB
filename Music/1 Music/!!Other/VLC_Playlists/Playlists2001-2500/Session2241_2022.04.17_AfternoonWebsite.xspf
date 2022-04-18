@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%203%20(GBA,%20DSi)%20OST/AudioOnly/27%20Toy%20Kingdom%20Act%201.mp3</location>
+			<title>Toy Kingdom Act 1</title>
+			<creator>Hideaki Kobayashi, Fumie Kumatani, Tatsuyuki Maeda, Tomoya Ohtani, Masaru Setsumaru, Kenichi Tokoi, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 3</album>
+			<duration>167053</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%203%20(GBA,%20DSi)%20OST/AudioOnly/28%20Toy%20Kindom%20Act%202.mp3</location>
+			<title>Toy Kindom Act 2</title>
+			<creator>Hideaki Kobayashi, Fumie Kumatani, Tatsuyuki Maeda, Tomoya Ohtani, Masaru Setsumaru, Kenichi Tokoi, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 3</album>
+			<duration>160052</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%203%20(GBA,%20DSi)%20OST/AudioOnly/29%20Toy%20Kindom%20Act%203.mp3</location>
+			<title>Toy Kingdom Act 3</title>
+			<creator>Hideaki Kobayashi, Fumie Kumatani, Tatsuyuki Maeda, Tomoya Ohtani, Masaru Setsumaru, Kenichi Tokoi, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 3</album>
+			<duration>217052</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
