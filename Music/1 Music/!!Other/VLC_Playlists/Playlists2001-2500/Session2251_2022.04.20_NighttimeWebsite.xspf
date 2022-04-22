@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Der-Bayerische-Defiliermarsch/MP3/Der-Bayerische-Defiliermarsch.mp3</location>
+			<title>Der-Bayerische-Defiliermarsch.mp3</title>
+			<creator>Unknown</creator>
+			<album>Der Bayerische Defiliermarsch</album>
+			<trackNum>1</trackNum>
+			<annotation>The marching song &quot;Der Bayerische Defiliermarsch&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown/Der%20Bayerische%20Defiliermarsch/art.jpg</image>
+			<duration>115156</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Australian-Traditional-Music-Tribal-War-Didgeridoo/MP3/Australian-Traditional-Music_Tribal-War-Didgeridoo.mp3</location>
+			<title>Australian-Traditional-Music_Tribal-War-Didgeridoo.mp3</title>
+			<creator>Indigenous Australia</creator>
+			<album>Tribal War Didgeridoo</album>
+			<trackNum>1</trackNum>
+			<annotation>A song by an I9ndigenous Australian group. I cannot figure out the language or the year.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Indigenous%20Australia/Tribal%20War%20Didgeridoo/art.jpg</image>
+			<duration>533458</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/UhOh_Stinky/MP3/UHOH_Stinky.mp3</location>
+			<title>UHOH_Stinky.mp3</title>
+			<creator>A 4chan user</creator>
+			<album>Uh Oh, Stinky!</album>
+			<trackNum>1</trackNum>
+			<annotation>The YouTube video and audio version of the Uh Oh, Stinky meme.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/A%204chan%20user/Uh%20Oh%2C%20Stinky%21/art.png</image>
+			<duration>59332</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/EmergencyAlertSystem/Audio/MP3/National_EAS_Test.ogg.mp3</location>
+			<duration>68101</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Dialup/Dial_up_modem_noises.ogg.mp3</location>
+			<duration>28604</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Oh%20yeah%20Mr%20Krabs/OH%20YEAH%20MR%20KRABS%20!%20(%20the%20original%20!%20)%20-%20YouTube.mp4</location>
+			<duration>5340</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Ubuntu/ubuntu%20startup%20and%20shutdown%20old%20and%20new.mp3</location>
+			<duration>55275</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Ubuntu/Compilation/Ubuntu%20sounds-PQnDbwzoBqs.webm</location>
+			<duration>173580</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Ubuntu/ubuntu%20dell%20XPS%2013%20first%20boot%20animation.mp3</location>
+			<duration>33045</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Australian-Traditional-Music-Tribal-War-Didgeridoo/MP3/Australian-Traditional-Music_Tribal-War-Didgeridoo.mp3</location>
+			<title>Australian-Traditional-Music_Tribal-War-Didgeridoo.mp3</title>
+			<creator>Indigenous Australia</creator>
+			<album>Tribal War Didgeridoo</album>
+			<trackNum>1</trackNum>
+			<annotation>A song by an I9ndigenous Australian group. I cannot figure out the language or the year.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Indigenous%20Australia/Tribal%20War%20Didgeridoo/art.jpg</image>
+			<duration>533458</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dutch-Windmills/MP3/Traditional-Dutch-Music_Dutch-Windmills.mp3</location>
+			<title>Traditional-Dutch-Music_Dutch-Windmills.mp3</title>
+			<creator>Netherlands</creator>
+			<album>Dutch Windmills</album>
+			<trackNum>1</trackNum>
+			<annotation>The traditional Dutch Windmills song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Netherlands/Dutch%20Windmills/art.jpg</image>
+			<duration>189501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Pink%20guy/PINK%20GUY%20-%20PLEASE%20STOP%20CALLING%20ME%20GAY%20(128%20%20kbps).mp3</location>
+			<duration>139886</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Pink%20guy/PINK%20GUY%20-%20HELP%20(128%20%20kbps).mp3</location>
+			<duration>164992</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Pink%20guy/PINK%20GUY%20-%20MEME%20MACHINE%20(128%20%20kbps).mp3</location>
+			<duration>130823</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Matchbox-Twenty_Unwell/MP3/Matchbox-Twenty_Unwell.mp3</location>
+			<title>Matchbox-Twenty_Unwell.mp3</title>
+			<creator>Matchbox Twenty</creator>
+			<album>Unwell</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Unwell&quot; by Alternative Rock band &quot;Matchbox Twenty&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Matchbox%20Twenty/Unwell/art.jpg</image>
+			<duration>227954</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Matchbox-Twenty_3AM/MP3/Matchbox-Twenty_3AM.mp3</location>
+			<title>Matchbox-Twenty_3AM.mp3</title>
+			<creator>Matchbox Twenty</creator>
+			<album>3 AM</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;3 AM&quot; by the Alternative Rock band &quot;Matchbox Twenty&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Matchbox%20Twenty/3%20AM/art.jpg</image>
+			<duration>225890</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Matchbox-Twenty_Push/MP3/Matchbox-Twenty_Push.mp3</location>
+			<title>Matchbox-Twenty_Push.mp3</title>
+			<creator>Matchbox Twenty</creator>
+			<album>Push</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Push&quot; by the Alternative Rock band &quot;Matchbox Twenty&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Matchbox%20Twenty/Push/art.jpg</image>
+			<duration>243288</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+	</extension>
+</playlist>
