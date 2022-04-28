@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/MP3/earth%20theme.mp3</location>
+			<title>earth theme.mp3</title>
+			<creator>HyperHippo / Kongregate</creator>
+			<album>AdVenture Capitalist soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The main theme for AdVenture Capitalist, the theme played on Earth. When life gives you lemons...</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/Adcap/AlbumArt/AdCap_Logo_1200px.jpeg</image>
+			<duration>311512</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/OGG/earth%20theme.ogg</location>
+			<duration>311000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/MP3/moon%20theme.mp3</location>
+			<title>moon theme.mp3</title>
+			<creator>HyperHippo / Kongregate</creator>
+			<album>AdVenture Capitalist soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>The moon theme for AdVenture Capitalist, when your investments take you to the moon.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/Adcap/AlbumArt/AdCap_Logo_1200px.jpeg</image>
+			<duration>174969</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/OGG/moon%20theme.ogg</location>
+			<duration>174000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/MP3/mars%20theme.mp3</location>
+			<title>mars theme.mp3</title>
+			<creator>HyperHippo / Kongregate</creator>
+			<album>AdVenture Capitalist soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>The Mars theme for AdVenture Capitalist, the final planet to spread capitalist influence.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/Adcap/AlbumArt/AdCap_Logo_1200px.jpeg</image>
+			<duration>185105</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/OGG/mars%20theme.ogg</location>
+			<duration>185000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/MP3/new%20you%20resolutions.mp3</location>
+			<title>new you resolutions.mp3</title>
+			<creator>HyperHippo / Kongregate</creator>
+			<album>AdVenture Capitalist soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>The theme for the New You Resolutions event in AdVenture Capitalist, the yearly new year event in-game.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/Adcap/AlbumArt/AdCap_Logo_1200px.jpeg</image>
+			<duration>336668</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/OGG/new%20you%20resolutions.ogg</location>
+			<duration>336000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/MP3/for%20the%20love%20of%20money%20event.mp3</location>
+			<title>for the love of money event.mp3</title>
+			<creator>HyperHippo / Kongregate</creator>
+			<album>AdVenture Capitalist soundtrack</album>
+			<trackNum>5</trackNum>
+			<annotation>The theme for the &#39;for the love of money&#39; event, the yearly Valentines Day event in-game.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/Adcap/AlbumArt/AdCap_Logo_1200px.jpeg</image>
+			<duration>300541</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/OGG/for%20the%20love%20of%20money%20event.ogg</location>
+			<duration>300000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/MP3/Making%20it%20rain%20event.mp3</location>
+			<title>Making it rain event.mp3</title>
+			<creator>HyperHippo / Kongregate</creator>
+			<album>AdVenture Capitalist soundtrack</album>
+			<trackNum>6</trackNum>
+			<annotation>The theme song for the in-game &#39;making it rain&#39; event.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/Adcap/AlbumArt/AdCap_Logo_1200px.jpeg</image>
+			<duration>290875</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/OGG/Making%20it%20rain%20event.ogg</location>
+			<duration>290000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/MP3/gate%20heck%20halloween%20event.mp3</location>
+			<title>gate heck halloween event.mp3</title>
+			<creator>HyperHippo / Kongregate</creator>
+			<album>AdVenture Capitalist soundtrack</album>
+			<trackNum>7</trackNum>
+			<annotation>The theme song for the &#39;Gate Heck Halloween&#39; in-game event in AdVenture Capitalist, the games abandoned Halloween event.</annotation>
+			<image>file:///home/pi/Desktop/CONVERT/Adcap/AlbumArt/AdCap_Logo_1200px.jpeg</image>
+			<duration>308612</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/OGG/gate%20heck%20halloween%20event.ogg</location>
+			<duration>308000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/MP3/black%20and%20blue%20friday%20event%20theme.mp3</location>
+			<duration>269479</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/OGG/black%20and%20blue%20friday%20event%20theme.ogg</location>
+			<duration>269000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/MP3/a%20capitalist%20carol%20event.mp3</location>
+			<duration>269662</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/OGG/a%20capitalist%20carol%20event.ogg</location>
+			<duration>269000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/MP3/AdVenture%20Capitalist%20-%20Cashella%20Music%20Festival%20Theme.mp3</location>
+			<duration>252135</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/OGG/AdVenture%20Capitalist%20-%20Cashella%20Music%20Festival%20Theme.ogg</location>
+			<duration>252000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/MP3/Insert%20coin%20to%20continue%20event.mp3</location>
+			<duration>292336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/OGG/Insert%20coin%20to%20continue%20event.ogg</location>
+			<duration>292000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/MP3/live%20rich%20and%20profit%20event.mp3</location>
+			<duration>301635</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/OGG/live%20rich%20and%20profit%20event.ogg</location>
+			<duration>301000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/MP3/the%20root%20of%20all%20evil%20event.mp3</location>
+			<duration>317387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/Adcap/OGG/the%20root%20of%20all%20evil%20event.ogg</location>
+			<duration>317000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/The%20Beatles/MP3/Here%20Comes%20The%20Sun%20(Remastered%202009).mp3</location>
+			<duration>185575</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/The%20Beatles/OGG/Here%20Comes%20The%20Sun%20(Remastered%202009).ogg</location>
+			<duration>185000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/The%20Beatles/MP3/The%20Beatles%20-%20Hello,%20Goodbye.mp3</location>
+			<duration>208195</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/The%20Beatles/OGG/The%20Beatles%20-%20Hello,%20Goodbye.ogg</location>
+			<duration>208000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+	</extension>
+</playlist>

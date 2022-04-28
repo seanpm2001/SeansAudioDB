@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/Athletic%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/Athletic%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/Beach%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/Beach%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/Castle%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/Castle%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/Desert%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/Desert%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/Ghost%20House%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/Ghost%20House%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/Overworld%20(Super%20Mario%20History%20Soundtrack%20version)%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/Overworld%20(Super%20Mario%20History%20Soundtrack%20version)%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/Overworld%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/Overworld%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/Title%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/Title%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/Underground%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/Underground%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/Underwater%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1798974</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/Underwater%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1798000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/Volcano%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/Volcano%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/World%201%20Map%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/World%201%20Map%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/World%202%20Map%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1798974</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/World%202%20Map%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1798000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/World%203%20Map%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/World%203%20Map%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/World%204%20Map%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1798974</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/World%204%20Map%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1798000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/World%205%20Map%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1798974</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/World%205%20Map%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1798000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/World%206%20Map%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/World%206%20Map%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/World%207%20Map%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/World%207%20Map%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/World%208%20Map%20(Medley)%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/World%208%20Map%20(Medley)%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/World%208%20Map%20(Part%201)%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1799131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/World%208%20Map%20(Part%201)%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1799000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/MP3/World%208%20Map%20(Part%202)%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.mp3</location>
+			<duration>1798974</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/OGG/World%208%20Map%20(Part%202)%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended.ogg</location>
+			<duration>1798000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/All%20Items%20Obtained%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>1854</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/All%20Items%20Obtained%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>1000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Athletic%20Theme%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>154958</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Athletic%20Theme%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>154000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Beach%20Overworld%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>80979</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Beach%20Overworld%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>80000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Bonus%20Area%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>64000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Bonus%20Area%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>63000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Boss%20Defeated%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>3369</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Boss%20Defeated%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>3000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Bowser%20Defeated%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>19983</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Bowser%20Defeated%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>19000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Castle%20Theme%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>98847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Castle%20Theme%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>98000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Desert%20Overworld%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>93962</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Desert%20Overworld%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>93000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/End%20Credits%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>295967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/End%20Credits%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>295000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Final%20Bowser%20Battle%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>83957</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Final%20Bowser%20Battle%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>83000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Fortress%20Theme%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>99996</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Fortress%20Theme%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>99000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Game%20Over%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>4963</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Game%20Over%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>4000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Haunted%20Mansion%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>109975</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Haunted%20Mansion%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>109000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Hurry%20Up!%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>2977</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Hurry%20Up!%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>2000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Lava%20Overworld%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>76930</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Lava%20Overworld%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>76000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Level%20Complete%20(Classic)%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>7967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Level%20Complete%20(Classic)%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>7000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Level%20Complete%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>3944</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Level%20Complete%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>3000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Lose%20Life%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>3004</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Lose%20Life%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>2000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Mega%20Mushroom%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>24006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Mega%20Mushroom%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>23000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/NSMBDS_BowserJrBattleOst.mp3</location>
+			<duration>919484</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/NSMBDS_BowserJrBattleOst.ogg</location>
+			<duration>919000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/New%20Super%20Mario%20Bros.%20DS%20-%20NSMBWii%20Bowser%20Jr%20Battle%20Theme.mp3</location>
+			<duration>71575</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/New%20Super%20Mario%20Bros.%20DS%20-%20NSMBWii%20Bowser%20Jr%20Battle%20Theme.ogg</location>
+			<duration>71000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/New+Super+Mario+Bros.+Soundtrack+-+Bowser+Jr.+Battle+%2528Hurry+Up%2521%2529.mp3</location>
+			<duration>56659</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/New+Super+Mario+Bros.+Soundtrack+-+Bowser+Jr.+Battle+%2528Hurry+Up%2521%2529.ogg</location>
+			<duration>56000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Overworld%20Theme%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>180976</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Overworld%20Theme%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>180000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Overworld%20(Versus%20Mode)%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>89991</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Overworld%20(Versus%20Mode)%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>89000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Snow%20Overworld%20(Versus%20Mode)%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>142027</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Snow%20Overworld%20(Versus%20Mode)%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>141000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Title%20Theme%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>44486</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Title%20Theme%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>44000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Toad%20House%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>101955</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Toad%20House%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>101000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Underground%20Theme%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>125962</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Underground%20Theme%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>125000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Underwater%20Theme%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>83957</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Underwater%20Theme%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>83000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Versus%20Lose%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>3970</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Versus%20Lose%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>3000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Versus%20Match%20Lose%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>3918</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Versus%20Match%20Lose%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>3000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Versus%20Menu%20Screen%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>88973</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Versus%20Menu%20Screen%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>88000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Versus%20Results%20Screen%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>52845</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Versus%20Results%20Screen%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>52000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Versus%20Win%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>4153</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/Versus%20Win%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>4000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/World%201%20(Plains)%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>52845</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/World%201%20(Plains)%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>52000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/World%202%20(Desert)%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>67996</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/World%202%20(Desert)%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>67000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/World%203%20(Beach)%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>73848</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/World%203%20(Beach)%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>73000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/World%204%20(Forest)%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>69955</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/World%204%20(Forest)%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>69000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/World%205%20(Snow)%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>57965</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/World%205%20(Snow)%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>57000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/World%206%20(Canyon)%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>76982</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/World%206%20(Canyon)%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>76000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/World%207%20(Clouds)%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>67918</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/World%207%20(Clouds)%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>67000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/World%208%20(Lava)%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<duration>60995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Desktop/CONVERT/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/OGG/World%208%20(Lava)%20-%20New%20Super%20Mario%20Bros..ogg</location>
+			<duration>60000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+		<vlc:item tid="76"/>
+		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
+		<vlc:item tid="84"/>
+		<vlc:item tid="85"/>
+		<vlc:item tid="86"/>
+		<vlc:item tid="87"/>
+		<vlc:item tid="88"/>
+		<vlc:item tid="89"/>
+		<vlc:item tid="90"/>
+		<vlc:item tid="91"/>
+		<vlc:item tid="92"/>
+		<vlc:item tid="93"/>
+		<vlc:item tid="94"/>
+		<vlc:item tid="95"/>
+		<vlc:item tid="96"/>
+		<vlc:item tid="97"/>
+		<vlc:item tid="98"/>
+		<vlc:item tid="99"/>
+		<vlc:item tid="100"/>
+		<vlc:item tid="101"/>
+		<vlc:item tid="102"/>
+		<vlc:item tid="103"/>
+		<vlc:item tid="104"/>
+		<vlc:item tid="105"/>
+		<vlc:item tid="106"/>
+		<vlc:item tid="107"/>
+		<vlc:item tid="108"/>
+		<vlc:item tid="109"/>
+		<vlc:item tid="110"/>
+		<vlc:item tid="111"/>
+		<vlc:item tid="112"/>
+		<vlc:item tid="113"/>
+		<vlc:item tid="114"/>
+		<vlc:item tid="115"/>
+		<vlc:item tid="116"/>
+		<vlc:item tid="117"/>
+		<vlc:item tid="118"/>
+		<vlc:item tid="119"/>
+		<vlc:item tid="120"/>
+		<vlc:item tid="121"/>
+		<vlc:item tid="122"/>
+		<vlc:item tid="123"/>
+		<vlc:item tid="124"/>
+		<vlc:item tid="125"/>
+	</extension>
+</playlist>
