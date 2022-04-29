@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Jennifer%20Juniper/(No%20video)%20Jennifer%20Juniper.webm</location>
+			<duration>160180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Garfielf-theme/MP3/BEGNAGRAD_Coc&#39;n-Rolla.mp3</location>
+			<title>BEGNAGRAD_Coc&#39;n-Rolla.mp3</title>
+			<creator>BEGNAGRAD</creator>
+			<album>Coc&#39;n Rolla</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Coc&#39;n Rolla&quot; by the artist &quot;BEGNAGRAD&quot; commonly known as the theme song for the Internet Meme &quot;Garfielf&quot; that features a poorly drawn Garfield saying various things while this song plays in the background.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/BEGNAGRAD/Coc%27n%20Rolla/art.jpg</image>
+			<duration>330146</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hungarian-Dance/Number5/MP3/Johannes-Brahms_-_Hungarian-Dance-No.-5.mp3</location>
+			<title>Johannes-Brahms_-_Hungarian-Dance-No.-5.mp3</title>
+			<creator>Johannes Brahms</creator>
+			<album>Hungarian Dance No. 5</album>
+			<trackNum>1</trackNum>
+			<annotation>A song that many of people have heard of, but don&#39;t know the name of. Hungarian dance number 5 by Johannes Brahms. I am again using the sheet music as the cover for this song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Johannes%20Brahms/Hungarian%20Dance%20No.%205/art.jpg</image>
+			<duration>201387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
