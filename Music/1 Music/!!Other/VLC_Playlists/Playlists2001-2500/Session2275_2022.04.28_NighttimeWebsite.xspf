@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/MP3/03%20Android%20Hell.mp3</location>
+			<title>Android Hell</title>
+			<creator>Aperture Science Psychoacoustics Laboratories</creator>
+			<album>Portal</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/MP3/cover.png</image>
+			<duration>225959</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/MP3/06%20No%20Cake%20For%20You.mp3</location>
+			<title>No Cake For You</title>
+			<creator>Aperture Science Psychoacoustics Laboratories</creator>
+			<album>Portal</album>
+			<trackNum>6</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/MP3/cover.png</image>
+			<duration>245394</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/MP3/12%20Still%20Alive.mp3</location>
+			<title>Still Alive</title>
+			<creator>Aperture Science Psychoacoustics Laboratories</creator>
+			<album>Portal</album>
+			<trackNum>12</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/MP3/cover.png</image>
+			<duration>176457</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal/Want%20You%20Gone%20(feat.%20the%20Elegant%20Too)%20-%20YouTube.webm</location>
+			<duration>141520</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal/Jonathan%20Coulton%20-%20You%20Wouldn&#39;t%20Know%20(Lego%20Dimensions%20Portal)%20GLaDOS.mp4</location>
+			<duration>204335</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/Portal%20Still%20Alive%20-%20Rock%20Remix%20Cover.mp4</location>
+			<duration>163978</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/Portal%20Live%20from%20[SUBJECT%20HOMETOWN%20HERE]%20Still%20Alive%20OC%20ReMix%20Gamer%20Symphony%20Orchestra.mp4</location>
+			<duration>279126</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
