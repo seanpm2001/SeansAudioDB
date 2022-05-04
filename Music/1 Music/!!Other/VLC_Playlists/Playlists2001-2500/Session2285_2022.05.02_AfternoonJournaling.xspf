@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Matchbox-Twenty_Unwell/MP3/Matchbox-Twenty_Unwell.mp3</location>
+			<title>Matchbox-Twenty_Unwell.mp3</title>
+			<creator>Matchbox Twenty</creator>
+			<album>Unwell</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Unwell&quot; by Alternative Rock band &quot;Matchbox Twenty&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Matchbox%20Twenty/Unwell/art.jpg</image>
+			<duration>227954</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rokiczanka-W-moim-ogr%C3%B3decku/MP3/Rokiczanka_W-moim-ogr%C3%B3decku.mp3</location>
+			<title>Rokiczanka_W-moim-ogródecku.mp3</title>
+			<creator>Rokiczanka</creator>
+			<album>W moim ogródecku</album>
+			<trackNum>1</trackNum>
+			<annotation>I can&#39;t translate the necessary info accurately to fill out info here. All I know is that it is a good song (IMO)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rokiczanka/W%20moim%20ogr%C3%B3decku/art.jpg</image>
+			<duration>238638</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
