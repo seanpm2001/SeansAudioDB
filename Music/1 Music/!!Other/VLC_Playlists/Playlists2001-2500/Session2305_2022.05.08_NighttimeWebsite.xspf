@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Frostbite%20Caves/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Frostbite%20Cave%20Theme.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Frostbite Cave Theme.mp3</title>
+			<creator>PopCap/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Frostbite Cave</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the Frostbite Cave stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Frostbite%20Cave/art.png</image>
+			<duration>601455</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Frostbite%20Caves/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Frostbite%20Cave%20Demonstration%20Mini-Game.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Frostbite Cave Demonstration Mini-Game.mp3</title>
+			<creator>PopCap/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Frostbite Cave</album>
+			<trackNum>3</trackNum>
+			<annotation>The Demonstration Minigame theme song for thwe Frostbite Caves stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Frostbite%20Cave/art.png</image>
+			<duration>419903</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
