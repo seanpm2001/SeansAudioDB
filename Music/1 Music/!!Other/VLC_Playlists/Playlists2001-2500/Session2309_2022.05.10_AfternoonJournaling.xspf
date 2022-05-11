@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/99Luftballons/VideoWithAudio/99%20Luftballons-TMSlTQmDLx4.mkv</location>
+			<duration>228564</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/All-I-Want-For-Christmas-Is-Collective-Consciousness/VideoWithAudio/All%20I%20Want%20For%20Christmas%20Is%20Collective%20Consciousness-vX8auatwCP0.mp4</location>
+			<duration>95109</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/It_Has_to_Be_This_Way/VideoWithAudio/Extended/Metal%20Gear%20Rising%20-%20Revengeance%20OST%20%20%20It%20Has%20To%20Be%20This%20Way%20Extended-ZYAPgPH9hsI.mp4</location>
+			<duration>302162</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Focus_Hocus-Pocus/VideoWithAudio/Focus%20-%20Hocus%20Pocus-MV0F_XiR48Q.webm</location>
+			<duration>402660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/%D0%91%D1%83%D0%B5%D1%80%D0%B0%D0%BA%20-%20%D0%A3%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D1%8C%20%D0%BE%D1%82%20%D0%B1%D0%B5%D0%B7%D0%B4%D0%B5%D0%BB%D1%8C%D1%8F/%D0%91%D1%83%D0%B5%D1%80%D0%B0%D0%BA%20-%20%D0%A3%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D1%8C%20%D0%BE%D1%82%20%D0%B1%D0%B5%D0%B7%D0%B4%D0%B5%D0%BB%D1%8C%D1%8F-qzvcM2d1M8k.mkv</location>
+			<duration>155940</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Lucy-In-The-Sky-With-Diamonds/Lucy%20In%20The%20Sky%20With%20Diamonds%20(Remastered%202009)-naoknj1ebqI.mkv</location>
+			<duration>208480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/99Luftballons/VideoWithAudio/99%20Luftballons-TMSlTQmDLx4.mkv</location>
+			<duration>228564</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
