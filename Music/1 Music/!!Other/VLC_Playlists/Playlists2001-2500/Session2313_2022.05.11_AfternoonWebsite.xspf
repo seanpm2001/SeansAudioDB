@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Chapter_2/AudioOnly/Album/FLAC/Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2022%20Spamton.flac</location>
+			<title>Spamton</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>22</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>42947</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Chapter_2/AudioOnly/Album/FLAC/Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2038%20Deal%20Gone%20Wrong.flac</location>
+			<title>Deal Gone Wrong</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>38</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>31326</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Chapter_2/AudioOnly/Album/FLAC/Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2039%20BIG%20SHOT.flac</location>
+			<title>BIG SHOT</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>39</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>142285</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Chapter_2/AudioOnly/Album/FLAC/Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2003%20My%20Castle%20Town.flac</location>
+			<title>My Castle Town</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>3</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>127554</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

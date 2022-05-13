@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/99Luftballons/VideoWithAudio/99%20Luftballons-TMSlTQmDLx4.mkv</location>
+			<duration>228564</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/All-I-Want-For-Christmas-Is-Collective-Consciousness/VideoWithAudio/All%20I%20Want%20For%20Christmas%20Is%20Collective%20Consciousness-vX8auatwCP0.mp4</location>
+			<duration>95109</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Chico-Alvarez-Val&#39;-Carretero_Congo-%20to-Cuba/VideoWithAudio/Chico%20Alvarez%20%20Val&#39;%20Carretero%20%20%20Congo%20to%20Cuba-9kOsFH_CS4w.webm</location>
+			<duration>417760</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/It_Has_to_Be_This_Way/VideoWithAudio/Extended/Metal%20Gear%20Rising%20-%20Revengeance%20OST%20%20%20It%20Has%20To%20Be%20This%20Way%20Extended-ZYAPgPH9hsI.mp4</location>
+			<duration>302162</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
