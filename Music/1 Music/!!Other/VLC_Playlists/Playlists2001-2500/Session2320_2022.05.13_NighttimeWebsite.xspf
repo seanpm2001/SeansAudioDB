@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Lucy-In-The-Sky-With-Diamonds/Lucy%20In%20The%20Sky%20With%20Diamonds%20(Remastered%202009)-naoknj1ebqI.mkv</location>
+			<duration>208480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Chapter_2/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2003%20My%20Castle%20Town.aiff</location>
+			<title>My Castle Town</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>3</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>127554</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Chapter_2/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2026%20Pandora%20Palace.aiff</location>
+			<title>Pandora Palace</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>26</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>99600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Chapter_2/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2035%20Knock%20You%20Down%20!!.aiff</location>
+			<title>Knock You Down !!</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>35</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>146461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
