@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Chapter_2/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2003%20My%20Castle%20Town.aiff</location>
+			<title>My Castle Town</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>3</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>127554</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Deltarune/Chapter_2/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2044%20You%20Can%20Always%20Come%20Home.aiff</location>
+			<title>You Can Always Come Home</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>44</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>103200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
