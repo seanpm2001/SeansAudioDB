@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Nom%20Nom%20Nom/MP3/NomNomNom_30Minutes.mp3</location>
+			<title>NomNomNom_30Minutes.mp3</title>
+			<creator>Unknown</creator>
+			<album>Nom Nom Nom</album>
+			<trackNum>1</trackNum>
+			<annotation>Nom Nom Nom Nom Nom Nom Nom
+I would have chosen the GIF version of this image, but it would have problems playing, and would kind of defeat the purpose of not viewing the video version.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown/Nom%20Nom%20Nom/art.jpg</image>
+			<duration>1800093</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hozier%20-%20Take%20me%20to%20church/MP3/Hozier-Take-me-to-church.mp3</location>
+			<title>Hozier-Take-me-to-church.mp3</title>
+			<creator>Hozier</creator>
+			<album>Take me to Church</album>
+			<trackNum>1</trackNum>
+			<annotation>This song managed to get played without a massive &quot;Christian&quot; uproar, possibly because of this religious group set not being able to understand big words.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Hozier/Take%20me%20to%20Church/art.jpg</image>
+			<duration>256062</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hava-Nagila/MP3/Hava-Nagila.mp3</location>
+			<title>Hava-Nagila.mp3</title>
+			<creator>Idelsohn or Nathanson (disputed)</creator>
+			<album>Hava Nagila</album>
+			<trackNum>1</trackNum>
+			<annotation>The Jewish folk song Hava Nagila. Its original creator is commonly disputed, it was either composed by Idelsohn or Nathanson. It was composed in 1918 to celebrate victory over the Ottoman Empire in World War I. The song name translates to &quot;Let us rejoice&quot; in English. I am using a picture of the sheet music as the album art, rather than the flag of Israel.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Idelsohn%20or%20Nathanson%20%28disputed%29/Hava%20Nagila/art.png</image>
+			<duration>165233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Der-Bayerische-Defiliermarsch/MP3/Der-Bayerische-Defiliermarsch.mp3</location>
+			<title>Der-Bayerische-Defiliermarsch.mp3</title>
+			<creator>Unknown</creator>
+			<album>Der Bayerische Defiliermarsch</album>
+			<trackNum>1</trackNum>
+			<annotation>The marching song &quot;Der Bayerische Defiliermarsch&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown/Der%20Bayerische%20Defiliermarsch/art.jpg</image>
+			<duration>115156</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Flamingo/Extended/MP3/Flamingo%2010%20hours.mp3</location>
+			<title>Flamingo 10 hours.mp3</title>
+			<creator>Kero Kero Bonito</creator>
+			<album>Flamingo</album>
+			<trackNum>1</trackNum>
+			<annotation>The original English with Japanese version of the song &quot;Flamingo&quot; by Kero Kero Bonito</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kero%20Kero%20Bonito/Flamingo/art.png</image>
+			<duration>37508376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
