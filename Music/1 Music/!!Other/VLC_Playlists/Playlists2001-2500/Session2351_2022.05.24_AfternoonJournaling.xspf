@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Alpha/OGG/C418%20-%20Minecraft%20-%20Volume%20Alpha%20-%2020%20Dog.ogg</location>
+			<title>Dog</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Alpha</album>
+			<trackNum>20</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Alpha/OGG/cover.png</image>
+			<duration>145000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Alpha/OGG/C418%20-%20Minecraft%20-%20Volume%20Alpha%20-%2006%20Moog%20City.ogg</location>
+			<title>Moog City</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Alpha</album>
+			<trackNum>6</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Alpha/OGG/cover.png</image>
+			<duration>160000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Alpha/OGG/C418%20-%20Minecraft%20-%20Volume%20Alpha%20-%2017%20Excuse.ogg</location>
+			<title>Excuse</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Alpha</album>
+			<trackNum>17</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Alpha/OGG/cover.png</image>
+			<duration>124000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Alpha/OGG/C418%20-%20Minecraft%20-%20Volume%20Alpha%20-%2019%20Cat.ogg</location>
+			<title>Cat</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Alpha</album>
+			<trackNum>19</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Alpha/OGG/cover.png</image>
+			<duration>186000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
