@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Line%20birds%20theme/AudioOnly/MP3/Line-Birds_Theme.mp3</location>
+			<title>Line-Birds_Theme.mp3</title>
+			<creator>Alex Khaskin</creator>
+			<album>Flying Adventures (Line Birds Theme Song)</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the game &quot;Line Birds&quot; which is a royalty free song produced by Alex Khaskin.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Alex%20Khaskin/Flying%20Adventures%20%28Line%20Birds%20Theme%20Song%29/art.png</image>
+			<duration>53350</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20Farm%20theme%20song/MP3/Zombie_Farm_Theme.mp3</location>
+			<title>Zombie_Farm_Theme.mp3</title>
+			<creator>The Play Forge</creator>
+			<album>Zombie Farm Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Play%20Forge/Zombie%20Farm%20Soundtrack/art.png</image>
+			<duration>60011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20Cafe%20OST/MP3/Zombie_Cafe_Theme.mp3</location>
+			<title>Zombie_Cafe_Theme.mp3</title>
+			<creator>Beeline Games</creator>
+			<album>Zombie Cafe Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Beeline%20Games/Zombie%20Cafe%20Soundtrack/art.jpg</image>
+			<duration>66359</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Drunken-Sailor_Irish-Rovers/MP3/Irish-Rovers_Drunken-Sailor.mp3</location>
+			<title>Irish-Rovers_Drunken-Sailor.mp3</title>
+			<creator>Irish Rovers</creator>
+			<album>Drunken Sailor</album>
+			<trackNum>1</trackNum>
+			<annotation>The Irish Rovers cover on the 19th century Sea Shanty known as &quot;the drunken sailor&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Irish%20Rovers/Drunken%20Sailor/art.jpg</image>
+			<duration>159070</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Claire%20De%20Lune%20Claude%20Debussy/MP3/Claire-de-Lune_Claude-Debussy.mp3</location>
+			<title>Claire-de-Lune_Claude-Debussy.mp3</title>
+			<creator>Claude Debussy</creator>
+			<album>Claire De Lune</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Claire de Lune&quot; by the French artist &quot;Claude Debussy&quot; I got the names mixed up originally, this has been fixed in this files media information.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Claude%20Debussy/Claire%20De%20Lune/art.jpg</image>
+			<duration>302220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
