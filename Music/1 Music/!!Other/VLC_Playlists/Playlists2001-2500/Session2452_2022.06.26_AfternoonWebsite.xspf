@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-knuckles-original-sound-version-complete/15.%20Icecap%20Zone%201%20(Sonic%203%20&amp;%20Knuckles).mp3</location>
+			<title>Icecap Zone 1 (Sonic 3 &amp; Knuckles)</title>
+			<creator>VA</creator>
+			<album>Sonic The Hedgehog 3 &amp; Knuckles</album>
+			<trackNum>15</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/VA/Sonic%20The%20Hedgehog%203%20%26%20Knuckles/art.jpg</image>
+			<duration>173191</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-knuckles-original-sound-version-complete/16.%20Icecap%20Zone%202%20(Sonic%203%20&amp;%20Knuckles).mp3</location>
+			<title>Icecap Zone 2 (Sonic 3 &amp; Knuckles)</title>
+			<creator>VA</creator>
+			<album>Sonic The Hedgehog 3 &amp; Knuckles</album>
+			<trackNum>16</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/VA/Sonic%20The%20Hedgehog%203%20%26%20Knuckles/art.jpg</image>
+			<duration>199392</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-knuckles-original-sound-version-complete/19.%20Mushroom%20Hill%20Zone%201%20(Sonic%203%20&amp;%20Knuckles).mp3</location>
+			<title>Mushroom Hill Zone 1 (Sonic 3 &amp; Knuckles)</title>
+			<creator>VA</creator>
+			<album>Sonic The Hedgehog 3 &amp; Knuckles</album>
+			<trackNum>19</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/VA/Sonic%20The%20Hedgehog%203%20%26%20Knuckles/art.jpg</image>
+			<duration>91376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-knuckles-original-sound-version-complete/20.%20Mushroom%20Hill%20Zone%202%20(Sonic%203%20&amp;%20Knuckles).mp3</location>
+			<title>Mushroom Hill Zone 2 (Sonic 3 &amp; Knuckles)</title>
+			<creator>VA</creator>
+			<album>Sonic The Hedgehog 3 &amp; Knuckles</album>
+			<trackNum>20</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/VA/Sonic%20The%20Hedgehog%203%20%26%20Knuckles/art.jpg</image>
+			<duration>86622</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-knuckles-original-sound-version-complete/40.%20Bonus%20Stage%203%20(Gumball%20Machine)%20(Sonic%203%20&amp;%20Knuckles).mp3</location>
+			<title>Bonus Stage 3 (Gumball Machine) (Sonic 3 &amp; Knuckles)</title>
+			<creator>VA</creator>
+			<album>Sonic The Hedgehog 3 &amp; Knuckles</album>
+			<trackNum>40</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/VA/Sonic%20The%20Hedgehog%203%20%26%20Knuckles/art.jpg</image>
+			<duration>73900</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-knuckles-original-sound-version-complete/44.%20Competiton%20(Sonic%203%20&amp;%20Knuckles).mp3</location>
+			<title>Competiton (Sonic 3 &amp; Knuckles)</title>
+			<creator>VA</creator>
+			<album>Sonic The Hedgehog 3 &amp; Knuckles</album>
+			<trackNum>44</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/VA/Sonic%20The%20Hedgehog%203%20%26%20Knuckles/art.jpg</image>
+			<duration>77610</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
