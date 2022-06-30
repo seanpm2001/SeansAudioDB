@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-classic-mobile-soundtrack/Green%20Hill%20Zone.mp3</location>
+			<duration>1799003</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-classic-mobile-soundtrack/Title%20Screen.mp3</location>
+			<duration>10994</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-classic-mobile-soundtrack/Marble%20Zone.mp3</location>
+			<duration>1799003</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-classic-mobile-soundtrack/Star%20Light%20Zone.mp3</location>
+			<duration>1799003</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/segasonic-the-hedgehog-1993/01.%20Quick!%20Escape!%20(Volcanic%20Vault%20Zone).mp3</location>
+			<title>Quick! Escape! (Volcanic Vault Zone)</title>
+			<creator>Hiroshi Kawaguchi, Keitaro Hanada, Naoki Tokiwa</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Hiroshi%20Kawaguchi%2C%20Keitaro%20Hanada%2C%20Naoki%20Tokiwa/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>68728</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/segasonic-the-hedgehog-1993/03.%20I&#39;ll%20Get%20You%20Yet!%20(Eggman&#39;s%20Island%20Map).mp3</location>
+			<title>I&#39;ll Get You Yet! (Eggman&#39;s Island Map)</title>
+			<creator>Hiroshi Kawaguchi, Keitaro Hanada, Naoki Tokiwa</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Hiroshi%20Kawaguchi%2C%20Keitaro%20Hanada%2C%20Naoki%20Tokiwa/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>76617</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/segasonic-the-hedgehog-1993/04.%20Ice%20&amp;%20Water%20(Icy%20Isle%20Zone%20~%20Wild%20Water%20Way%20Zone).mp3</location>
+			<title>Ice &amp; Water (Icy Isle Zone ~ Wild Water Way Zone)</title>
+			<creator>Hiroshi Kawaguchi, Keitaro Hanada, Naoki Tokiwa</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Hiroshi%20Kawaguchi%2C%20Keitaro%20Hanada%2C%20Naoki%20Tokiwa/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>191504</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-blast-sega-master-system/02%20-%20Title%20Screen.mp3</location>
+			<title>Title Screen</title>
+			<creator>Kojiro Mikusa</creator>
+			<album>Sonic Blast</album>
+			<duration>23379</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-blast-sega-master-system/05%20-%20Green%20Hill%20Zone.mp3</location>
+			<title>Green Hill Zone</title>
+			<creator>Kojiro Mikusa</creator>
+			<album>Sonic Blast</album>
+			<duration>81894</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-blast-sega-master-system/18%20-%20Game%20Over.mp3</location>
+			<title>Game Over</title>
+			<creator>Kojiro Mikusa</creator>
+			<album>Sonic Blast</album>
+			<duration>5511</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-blast-sega-master-system/06%20-%20Life%20Gained.mp3</location>
+			<title>Life Gained</title>
+			<creator>Kojiro Mikusa</creator>
+			<album>Sonic Blast</album>
+			<duration>1750</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-blast-sega-master-system/07%20-%20Act%20Complete.mp3</location>
+			<title>Act Complete</title>
+			<creator>Kojiro Mikusa</creator>
+			<album>Sonic Blast</album>
+			<duration>3265</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-blast-sega-master-system/09%20-%20Boss%20Theme.mp3</location>
+			<title>Boss Theme</title>
+			<creator>Kojiro Mikusa</creator>
+			<album>Sonic Blast</album>
+			<duration>84689</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-blast-sega-master-system/10%20-%20Boss%20Defeat.mp3</location>
+			<title>Boss Defeat</title>
+			<creator>Kojiro Mikusa</creator>
+			<album>Sonic Blast</album>
+			<duration>3709</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-blast-sega-master-system/11%20-%20Yellow%20Desert%20Zone.mp3</location>
+			<title>Yellow Desert Zone</title>
+			<creator>Kojiro Mikusa</creator>
+			<album>Sonic Blast</album>
+			<duration>83748</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-blast-sega-master-system/12-%20Red%20Volcano%20Zone.mp3</location>
+			<title>Red Volcano Zone</title>
+			<creator>Kojiro Mikusa</creator>
+			<album>Sonic Blast</album>
+			<duration>123037</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-labyrinth/01.%20Title%20Screen.mp3</location>
+			<title>Title Screen</title>
+			<creator>Atsuko Iwanaga</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Iwanaga/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>27480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-labyrinth/02.%20Menu.mp3</location>
+			<title>Menu</title>
+			<creator>Atsuko Iwanaga</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Iwanaga/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>68989</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-labyrinth/03.%20Act%20Start.mp3</location>
+			<title>Act Start</title>
+			<creator>Atsuko Iwanaga</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Iwanaga/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>3500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-labyrinth/04.%20Act%201.mp3</location>
+			<title>Act 1</title>
+			<creator>Atsuko Iwanaga</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Iwanaga/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>121574</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-labyrinth/05.%20Act%20Clear.mp3</location>
+			<title>Act Clear</title>
+			<creator>Atsuko Iwanaga</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Iwanaga/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>2220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-labyrinth/07.%20Act%202.mp3</location>
+			<title>Act 2</title>
+			<creator>Atsuko Iwanaga</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Iwanaga/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>122462</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-labyrinth/09.%20Act%203.mp3</location>
+			<title>Act 3</title>
+			<creator>Atsuko Iwanaga</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Iwanaga/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>111177</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-labyrinth/10.%20Boss.mp3</location>
+			<title>Boss</title>
+			<creator>Atsuko Iwanaga</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Iwanaga/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>92003</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-labyrinth/11.%20Act%204.mp3</location>
+			<title>Act 4</title>
+			<creator>Atsuko Iwanaga</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>11</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Iwanaga/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>72751</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-labyrinth/12.%20Pinch!.mp3</location>
+			<title>Pinch!</title>
+			<creator>Atsuko Iwanaga</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>12</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Iwanaga/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>30903</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-labyrinth/13.%20Final%20Boss.mp3</location>
+			<title>Final Boss</title>
+			<creator>Atsuko Iwanaga</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>13</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Iwanaga/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>101955</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+	</extension>
+</playlist>
