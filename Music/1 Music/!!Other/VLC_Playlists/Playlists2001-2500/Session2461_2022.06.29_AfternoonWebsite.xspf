@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%203%20(PC)%20OST/Album/MP3V320/(PH)%20-%20Bejeweled%203%20-%2017%20Take%20Your%20Time.mp3</location>
+			<title>Take Your Time</title>
+			<creator>(PH)</creator>
+			<album>Bejeweled 3</album>
+			<trackNum>17</trackNum>
+			<annotation>Visit https://skaven252.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%28PH%29/Bejeweled%203/art.jpg</image>
+			<duration>186331</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
