@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-2006-original-soundtrack/1-09.%20Soleanna%20Castle%20Town.mp3</location>
+			<title>Soleanna Castle Town</title>
+			<creator>Mariko Nanba</creator>
+			<album>SONIC THE HEDGEHOG: Original Soundtrack</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Mariko%20Nanba/SONIC%20THE%20HEDGEHOG_%20Original%20Soundtrack/art.png</image>
+			<duration>153913</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-2006-original-soundtrack/2-06.%20Soleanna%20Forest.mp3</location>
+			<title>Soleanna Forest</title>
+			<creator>Mariko Nanba</creator>
+			<album>SONIC THE HEDGEHOG: Original Soundtrack</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Mariko%20Nanba/SONIC%20THE%20HEDGEHOG_%20Original%20Soundtrack/art.png</image>
+			<duration>128208</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-2006-original-soundtrack/1-09.%20Soleanna%20Castle%20Town.mp3</location>
+			<title>Soleanna Castle Town</title>
+			<creator>Mariko Nanba</creator>
+			<album>SONIC THE HEDGEHOG: Original Soundtrack</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Mariko%20Nanba/SONIC%20THE%20HEDGEHOG_%20Original%20Soundtrack/art.png</image>
+			<duration>153913</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
