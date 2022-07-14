@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-genesis-2006-gameboy-advance/15a%20Drowning%20(Faster).mp3</location>
+			<title>Drowning (Faster)</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog: Genesis</album>
+			<duration>9874</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-genesis-2006-gameboy-advance/15%20Drowning.mp3</location>
+			<title>Drowning</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog: Genesis</album>
+			<duration>11990</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-genesis-2006-gameboy-advance/03%20Green%20Hill%20Zone.mp3</location>
+			<title>Green Hill Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog: Genesis</album>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Nakamura/Sonic%20the%20Hedgehog_%20Genesis/art</image>
+			<duration>103079</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-genesis-2006-gameboy-advance/04%20Marble%20Zone.mp3</location>
+			<title>Marble Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog: Genesis</album>
+			<duration>86073</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
