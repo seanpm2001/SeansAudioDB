@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/MP3/115%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Post%20Office%20-%20Pelly.mp3</location>
+			<title>Post Office - Pelly</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>115</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>56128</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/MP3/117%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Nookling%20Junction.mp3</location>
+			<title>Nookling Junction</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>117</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>109444</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/MP3/033%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%207%20PM.mp3</location>
+			<title>7 PM</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>33</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>102208</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/MP3/021%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%207%20AM.mp3</location>
+			<title>7 AM</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>21</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>105052</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/MP3/014%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%2012%20AM.mp3</location>
+			<title>12 AM</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>14</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>89212</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/MP3/172%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Saharah.mp3</location>
+			<title>Saharah</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>172</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>10064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/MP3/125%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Happy%20Home%20Showcase.mp3</location>
+			<title>Happy Home Showcase</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>125</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>147028</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
