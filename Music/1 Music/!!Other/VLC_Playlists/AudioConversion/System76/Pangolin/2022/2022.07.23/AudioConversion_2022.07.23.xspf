@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Slava_Ukraini/MP3/Slava_Ukraini!.mp3</location>
+			<title>Slava_Ukraini!.mp3</title>
+			<creator>Marcus Paus</creator>
+			<album>«Слава Україні!» Slava Ukraini!</album>
+			<trackNum>1</trackNum>
+			<annotation>Slava Ukraini!
+Glory to Ukraine!
+Слава Україні!
+
+This song was composed by Marcus Paus as a composition of the Norwegian Armed Forces and is an ode to the ongoing 2022 Russian Invasion of Ukraine</annotation>
+			<image>file:///home/seanpm2001/Downloads/Slava_Ukraini!_(song).jpg</image>
+			<duration>261855</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Slava_Ukraini/OGG/Slava_Ukraini!.ogg</location>
+			<duration>261000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Slava_Ukraini/Viola_Solo/MP3/Marcus_Paus_&#39;Slava%20Ukraini&#39;_for_viola_solo.mp3</location>
+			<title>Marcus_Paus_&#39;Slava Ukraini&#39;_for_viola_solo.mp3</title>
+			<creator>Marcus Paus</creator>
+			<album>Slava Ukraini! Viola solo version</album>
+			<trackNum>1</trackNum>
+			<annotation>A viola solo version of the Marcus Paus song, Slava Ukraini!</annotation>
+			<image>file:///home/seanpm2001/Downloads/Slava_Ukraini!_(song).jpeg</image>
+			<duration>263838</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Slava_Ukraini/Viola_Solo/OGG/Marcus_Paus_&#39;Slava%20Ukraini&#39;_for_viola_solo.ogg</location>
+			<duration>263000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
