@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/OGG/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2013%20Aria%20Math.ogg</location>
+			<title>Aria Math</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>13</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Beta/OGG/cover.jpg</image>
+			<duration>310000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/OGG/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2030%20Intro.ogg</location>
+			<title>Intro</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>30</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Beta/OGG/cover.jpg</image>
+			<duration>276000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/OGG/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2005%20Flake.ogg</location>
+			<title>Flake</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>5</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Beta/OGG/cover.jpg</image>
+			<duration>170000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/OGG/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2003%20Dead%20Voxel.ogg</location>
+			<title>Dead Voxel</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>3</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Beta/OGG/cover.jpg</image>
+			<duration>296000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/OGG/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2022%20Mellohi.ogg</location>
+			<title>Mellohi</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>22</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Beta/OGG/cover.jpg</image>
+			<duration>98000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
