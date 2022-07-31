@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20(PC,%20iOS,%20Android)/Album/AIFF/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2016%20Zombotany%20(Unreleased%20Track).aiff</location>
+			<title>Zombotany (Unreleased Track)</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>16</trackNum>
+			<annotation>Visit https://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%20Soundtrack/art.jpg</image>
+			<duration>77961</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20(PC,%20iOS,%20Android)/Album/AIFF/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2014%20Brainiac%20Maniac.aiff</location>
+			<title>Brainiac Maniac</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>14</trackNum>
+			<annotation>Visit https://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%20Soundtrack/art.jpg</image>
+			<duration>102605</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20(PC,%20iOS,%20Android)/Album/AIFF/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2004%20Grasswalk.aiff</location>
+			<title>Grasswalk</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit https://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%20Soundtrack/art.jpg</image>
+			<duration>148261</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20(PC,%20iOS,%20Android)/Album/AIFF/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2006%20Moongrains.aiff</location>
+			<title>Moongrains</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>6</trackNum>
+			<annotation>Visit https://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%20Soundtrack/art.jpg</image>
+			<duration>145842</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20(PC,%20iOS,%20Android)/Album/AIFF/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2022%20Moongrains%20IN-GAME.aiff</location>
+			<title>Moongrains IN-GAME</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>22</trackNum>
+			<annotation>Visit https://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%20Soundtrack/art.jpg</image>
+			<duration>193378</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.%20zombies%20series/Plants%20vs.%20zombies%20(PC,%20iOS,%20Android)/Album/AIFF/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2011%20Rigor%20Mormist.aiff</location>
+			<title>Rigor Mormist</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>11</trackNum>
+			<annotation>Visit https://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%20Soundtrack/art.jpg</image>
+			<duration>112508</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
