@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Downloads/iBlast_Moki_SFX/Intro/MP3/iBlast_Moki_Original_Intro.mp3</location>
+			<title>iBlast_Moki_Original_Intro.mp3</title>
+			<creator>Godzilab</creator>
+			<album>Godzilab intro</album>
+			<trackNum>1</trackNum>
+			<annotation>The intro to iBlast Moki 1, slightly different from the intro to iBlast Moki 2. A choir sings &quot;GOD-ZEE-LAB&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Godzilab/Godzilab%20intro/art.png</image>
+			<duration>4187</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Downloads/iBlast_Moki_SFX/Intro/OGG/iBlast_Moki_Original_Intro.ogg</location>
+			<duration>4000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Downloads/iBlast_Moki_2_SFX/Intro/MP3/GODZILAB.mp3</location>
+			<title>GODZILAB.mp3</title>
+			<creator>Godzilab</creator>
+			<album>Godzilab Intro 2</album>
+			<trackNum>1</trackNum>
+			<annotation>The Godzilab intro from 2011, iBlast Moki 2.</annotation>
+			<image>file:///home/seanpm2001/Pictures/Intro/Full/Godzilab_SlightlyWideLogo.png</image>
+			<duration>4519</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Downloads/iBlast_Moki_2_SFX/Intro/OGG/GODZILAB.ogg</location>
+			<duration>4000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
