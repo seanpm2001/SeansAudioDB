@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/Portal2OST_InternetArchive/Portal2-OST-Volume-1/Portal2-01-Science_is_Fun.mp3</location>
+			<title>Science is Fun</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Aperture%20Science%20Psychoacoustics%20Laboratory/Portal%202_%20Songs%20to%20Test%20By/art</image>
+			<duration>153312</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/Portal2OST_InternetArchive/Portal2-OST-Volume-1/Portal2-18-Adrenal_Vapor.mp3</location>
+			<title>Adrenal Vapor</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By</album>
+			<trackNum>18</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Aperture%20Science%20Psychoacoustics%20Laboratory/Portal%202_%20Songs%20to%20Test%20By/art</image>
+			<duration>156055</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/Portal2OST_InternetArchive/Portal2-OST-Volume-1/Portal2-19-Turret_Wife_Serenade.mp3</location>
+			<title>Turret Wife Serenade</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By</album>
+			<trackNum>19</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Aperture%20Science%20Psychoacoustics%20Laboratory/Portal%202_%20Songs%20to%20Test%20By/art</image>
+			<duration>98742</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/Portal2OST_InternetArchive/Portal2-OST-Volume-1/Portal2-20-I_Made_It_All_Up.mp3</location>
+			<title>I Made It All Up</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By</album>
+			<trackNum>20</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Aperture%20Science%20Psychoacoustics%20Laboratory/Portal%202_%20Songs%20to%20Test%20By/art</image>
+			<duration>236382</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
