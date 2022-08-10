@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/36%20Dirac%20Shore.mp3</location>
+			<title>Dirac Shore</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>36</trackNum>
+			<annotation>0</annotation>
+			<duration>86677</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/04%20Brane%20Scan.mp3</location>
+			<title>Brane Scan</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>0</annotation>
+			<duration>100835</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/43%20Lambda%20Core.mp3</location>
+			<title>Lambda Core</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>43</trackNum>
+			<annotation>0</annotation>
+			<duration>104597</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Pet%20shop%20story/MP3/Pet-Shop-Story-Theme-Song.mp3</location>
+			<title>Pet-Shop-Story-Theme-Song.mp3</title>
+			<creator>Storm8 / TeamLava</creator>
+			<album>Pet Shop Story theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the mobile video game &quot;Pet Shop Story&quot; by the developer Storm8 / TeamLava</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Storm8%20_%20TeamLava/Pet%20Shop%20Story%20theme%20song/art.jpg</image>
+			<duration>190598</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bill%20Wurtz/MP3/Bill-Wurtz_And-the-day-goes-on.mp3</location>
+			<title>Bill-Wurtz_And-the-day-goes-on.mp3</title>
+			<creator>Bill Wurtz</creator>
+			<album>And the day goes on</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;and the day goes on&quot; by the artist Bill Wurtz.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bill%20Wurtz/And%20the%20day%20goes%20on/art.png</image>
+			<duration>131222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bill%20Wurtz/MP3/Bill-Wurtz_Mt.-St.-Helens-Is-About-To-Blow-Up.mp3</location>
+			<title>Bill-Wurtz_Mt.-St.-Helens-Is-About-To-Blow-Up.mp3</title>
+			<creator>Bill Wurtz</creator>
+			<album>Mt. St. Helens is about to blow up</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Mt. St. Helens is about to Blow up&quot; by the artist Bill Wurtz.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bill%20Wurtz/Mt.%20St.%20Helens%20is%20about%20to%20blow%20up/art.png</image>
+			<duration>202798</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Hava-Nagila/MIDI/MP3/Hava_nagila.ogg.mp3</location>
+			<duration>111255</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/God_Save_The_Queen/MP3/United_States_Navy_Band_-_God_Save_the_Queen.mp3</location>
+			<title>United_States_Navy_Band_-_God_Save_the_Queen.mp3</title>
+			<creator>United States Navy Band</creator>
+			<album>God save the Queen</album>
+			<trackNum>1</trackNum>
+			<annotation>The anthem of the United Kingdom (formerly Great Britain) and its associated territories, recomposed by the United States Navy.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/United%20States%20Navy%20Band/God%20save%20the%20Queen/art.png</image>
+			<duration>63041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg</location>
+			<duration>203000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20takeover%20OST/MP3/ZombieTakeoverTrailer.mp3</location>
+			<title>ZombieTakeoverTrailer.mp3</title>
+			<creator>Pocket Gems</creator>
+			<album>Zombie Takeover Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The trailer for the Pocket Gems game Zombie Takeover. Some splicing and editing is needed to separate a chunk of the music from the soundtrack, the rest can be cut out.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Pocket%20Gems/Zombie%20Takeover%20Soundtrack/art.jpg</image>
+			<duration>174742</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sky%20Burger%20theme/MP3/Sky_Burger_Theme.mp3</location>
+			<title>Sky_Burger_Theme.mp3</title>
+			<creator>NimbleBit</creator>
+			<album>Sky Burger soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/NimbleBit/Sky%20Burger%20soundtrack/art.jpg</image>
+			<duration>72132</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_Working-hard-song-2.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_Working-hard-song-2.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>The second ingame song for the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>54107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_Title.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_Title.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon</album>
+			<trackNum>1</trackNum>
+			<annotation>The title song for the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon/art.jpg</image>
+			<duration>31877</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_Working-hard-song-1.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_Working-hard-song-1.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>The first ingame song for the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>60717</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_Working-hard-song-3.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_Working-hard-song-3.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>The third ingame song for the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>85402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Windows96/Albums/GradientHorizont/Album/AIFF/Windows96%20-%20Gradient%20Horizont%20-%2004%20Vision.aiff</location>
+			<title>Vision</title>
+			<creator>Windows96</creator>
+			<album>Gradient Horizont</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit https://windows96.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Windows96/Gradient%20Horizont/art.jpg</image>
+			<duration>172432</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Windows96/Albums/GradientHorizont/Album/AIFF/Windows96%20-%20Gradient%20Horizont%20-%2006%20Origami.aiff</location>
+			<title>Origami</title>
+			<creator>Windows96</creator>
+			<album>Gradient Horizont</album>
+			<trackNum>6</trackNum>
+			<annotation>Visit https://windows96.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Windows96/Gradient%20Horizont/art.jpg</image>
+			<duration>144476</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Windows96/Albums/GradientHorizont/Album/AIFF/Windows96%20-%20Gradient%20Horizont%20-%2012%20Last%20Station.aiff</location>
+			<title>Last Station</title>
+			<creator>Windows96</creator>
+			<album>Gradient Horizont</album>
+			<trackNum>12</trackNum>
+			<annotation>Visit https://windows96.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Windows96/Gradient%20Horizont/art.jpg</image>
+			<duration>212997</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+	</extension>
+</playlist>
