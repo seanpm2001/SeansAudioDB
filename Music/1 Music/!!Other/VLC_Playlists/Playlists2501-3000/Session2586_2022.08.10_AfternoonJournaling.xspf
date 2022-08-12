@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_Working-hard-song-2.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_Working-hard-song-2.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>The second ingame song for the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>54107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/CityVille/MP3/CityVille_Theme_Song.mp3</location>
+			<title>CityVille_Theme_Song.mp3</title>
+			<creator>Zynga</creator>
+			<album>CityVille Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Zynga/CityVille%20Soundtrack/art.png</image>
+			<duration>98464</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%202%20Deluxe%20(PC)%20OST/Album/AIFF/Skaven%20252%20-%20Bejeweled%202%20-%2001%20Bejeweled%202%20Theme.aiff</location>
+			<title>Bejeweled 2 Theme</title>
+			<creator>Skaven 252</creator>
+			<album>Bejeweled 2</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit https://skaven252.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20252/Bejeweled%202/art.jpg</image>
+			<duration>119954</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%202%20Deluxe%20(PC)%20OST/Album/AIFF/Skaven%20252%20-%20Bejeweled%202%20-%2002%20Beyond%20the%20Network.aiff</location>
+			<title>Beyond the Network</title>
+			<creator>Skaven 252</creator>
+			<album>Bejeweled 2</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit https://skaven252.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20252/Bejeweled%202/art.jpg</image>
+			<duration>72706</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%202%20Deluxe%20(PC)%20OST/Album/AIFF/Skaven%20252%20-%20Bejeweled%202%20-%2003%20The%20Journey%20Begins.aiff</location>
+			<title>The Journey Begins</title>
+			<creator>Skaven 252</creator>
+			<album>Bejeweled 2</album>
+			<trackNum>3</trackNum>
+			<annotation>Visit https://skaven252.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20252/Bejeweled%202/art.jpg</image>
+			<duration>104960</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%202%20Deluxe%20(PC)%20OST/Album/AIFF/Skaven%20252%20-%20Bejeweled%202%20-%2004%20Rain%20of%20Lights.aiff</location>
+			<title>Rain of Lights</title>
+			<creator>Skaven 252</creator>
+			<album>Bejeweled 2</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit https://skaven252.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20252/Bejeweled%202/art.jpg</image>
+			<duration>87466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
