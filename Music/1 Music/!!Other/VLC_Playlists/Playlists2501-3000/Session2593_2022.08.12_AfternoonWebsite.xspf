@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Tiny%20death%20star%20(iOS%20&amp;%20Android)%20OST/MP3/Tiny-Death-Star_Force-Theme.mp3</location>
+			<title>Tiny-Death-Star_Force-Theme.mp3</title>
+			<creator>NimbleBit / Disney</creator>
+			<album>Tiny Death Star soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>The force theme song for the mobile video game Tiny Death Star, the main Star Wars force theme (8 bit cover) song 2 of 4</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/NimbleBit%20_%20Disney/Tiny%20Death%20Star%20soundtrack/art.png</image>
+			<duration>37232</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Tiny%20death%20star%20(iOS%20&amp;%20Android)%20OST/MP3/Tiny-Death-Star_The-Imperial-March.mp3</location>
+			<title>Tiny-Death-Star_The-Imperial-March.mp3</title>
+			<creator>NimbleBit / Disney</creator>
+			<album>Tiny Death Star soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>The Imperial march Star Wars theme (8 bit cover) song 3 of 4</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/NimbleBit%20_%20Disney/Tiny%20Death%20Star%20soundtrack/art.png</image>
+			<duration>74300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Tiny%20death%20star%20(iOS%20&amp;%20Android)%20OST/MP3/Tiny-Death-Star_Main-Star-Wars-Theme.mp3</location>
+			<title>Tiny-Death-Star_Main-Star-Wars-Theme.mp3</title>
+			<creator>NimbleBit / Disney</creator>
+			<album>Tiny Death Star soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The main theme song for the mobile video game Tiny Death Star, the main Star Wars theme (8 bit cover) song 1 of 4</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/NimbleBit%20_%20Disney/Tiny%20Death%20Star%20soundtrack/art.png</image>
+			<duration>87022</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
