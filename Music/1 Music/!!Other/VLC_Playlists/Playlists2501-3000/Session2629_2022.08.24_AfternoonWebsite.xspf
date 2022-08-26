@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pocket%20Gems%20series/Pet%20Hotel%20OST/MP3/Pet_Hotel_Main_Theme.mp3</location>
+			<title>Pet_Hotel_Main_Theme.mp3</title>
+			<creator>Pocket Gems</creator>
+			<album>Tap Pet Hotel OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Pocket%20Gems/Tap%20Pet%20Hotel%20OST/art.jpg</image>
+			<duration>110559</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Pocket_Potions_OST/MP3/Pocket-Potions-Theme-song-uncut.mp3</location>
+			<title>Pocket-Potions-Theme-song-uncut.mp3</title>
+			<creator>Breaktime Studios</creator>
+			<album>Pocket Potions soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The trailer for the Pocket Potions game, in audio format. The closest I can get to a quality version of the song at the moment.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Breaktime%20Studios/Pocket%20Potions%20soundtrack/art.png</image>
+			<duration>60037</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Pocket_Potions_OST/MP3/Pocket-Potions-Theme-song-low-quality.mp3</location>
+			<title>Pocket-Potions-Theme-song-low-quality.mp3</title>
+			<creator>Breaktime Studios</creator>
+			<album>Pocket Potions soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>A very low quality version of the Pocket Potions soundtrack, rare remaining footage of the game.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Breaktime%20Studios/Pocket%20Potions%20soundtrack/art.png</image>
+			<duration>122653</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sweden%20Anthem/MP3/United_States_Navy_Band_-_Sweden.mp3</location>
+			<title>United_States_Navy_Band_-_Sweden.mp3</title>
+			<creator>United States Navy Band</creator>
+			<album>Sweden National Anthem</album>
+			<trackNum>1</trackNum>
+			<annotation>The anthem of the Kingdom of Sweden, recomposed by the United States Navy.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/United%20States%20Navy%20Band/Sweden%20National%20Anthem/art.png</image>
+			<duration>87571</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
