@@ -9,10 +9,26 @@
 
 | Specification | Condition |
 |---|---|
-| **Capacity** | `512 gigabytes or higher` |
+| **Capacity** | `1000 gigabytes/1 terabyte or higher` |
 | **File system** | `Btrfs` |
 | **Manufacturer** | Either: `SanDisk` `Samsung` other/reliable |
 | **Durabilitity:** | [See below](#Durability) |
+
+#### Capacity
+
+The capacity was increased on 2022, August 29th from 512 gigabytes (minimum) to 1000 gigabytes (minimum) this was done to future-proof the project for a minimum of 5 years.
+
+#### Original candidate
+
+Samsung Evo 512 gigabytes
+
+[Warning: Amazon link](https://www.amazon.com/SAMSUNG-Adapter-microSDXC-MB-ME512KA-AM/dp/B09B1HMJ9Z/)
+
+**No longer planned, as my preference has jumped to 1 terabyte**
+
+#### Btrfs
+
+Btrfs (B-TRee File System) is being used for this project, opposed to ext4, NTFS, FAT32, or another file system. [See below for more info](#Benefits-of-Brtfs)
 
 #### Durability
 
@@ -33,6 +49,18 @@ The latest 3 playlists will be backed up on a daily basis, as they are the only 
 3. Compression is baked in, a huge win for SD cards (since SD cards normally trade CPU cycles for file i/o due to how slow they are) 
 4. File system is basically as durable as the SD card itself (abusive hotplugging (taking the SD card out while files are being copied/read, before unmounting) is not a complete loss, but it isn't recommended) system will rarely/never need to have the `fsck` command executed on it
 
+##### Why not ext4?
+
+ext4 doesn't fit my needs entirely, Btrfs is more suited for this project.
+
+##### Why not NTFS?
+
+NTFS has really good file name paths, but is not compatible with my setup, especially due to at least 200 files and folders being written in a way that would prevent NTFS from loading them/NTFS working at all. Plus, I plan to stay away from Windows, outside of virtual machine usage.
+
+##### Why not FAT32?
+
+FAT32 has similar limitations to NTFS, but is designed for much smaller storage mediums (but has support for up to 2 terabytes of space) due to its limitations (file name limits) and reliance on Windows, I can't use it.
+
 ***
 
 ### File info
@@ -41,9 +69,9 @@ The latest 3 playlists will be backed up on a daily basis, as they are the only 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Wednesday, August 24th at 7:51 pm PST)`
+**File version:** `2 (2022, Monday, August 29th at 7:41 pm PST)`
 
-**Line count (including blank lines and compiler line):** `88`
+**Line count (including blank lines and compiler line):** `137`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -79,6 +107,27 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Monday, August 29th at 7:41 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table
+- [x] Added the `Capacity` section 
+- [x] Added the `Original candidate` section
+- [x] Added the `Btrfs` section
+- [x] Added the `Durability` section
+- [x] `Benefits of Btrfs` section
+- - [x] Added the `Why not ext4` section
+- - [x] Added the `Why not NTFS` section
+- - [x] Added the `Why not FAT32` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 
