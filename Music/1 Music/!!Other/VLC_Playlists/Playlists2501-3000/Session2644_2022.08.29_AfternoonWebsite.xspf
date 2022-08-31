@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-advance-2/04%20Leaf%20Forest%20Act%201.mp3</location>
+			<title>Leaf Forest Act 1</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Teruhiko Nakagawa, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 2</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-advance-2/Folder.jpg</image>
+			<duration>147043</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-advance-2/05%20Leaf%20Forest%20Act%202.mp3</location>
+			<title>Leaf Forest Act 2</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Teruhiko Nakagawa, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 2</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-advance-2/Folder.jpg</image>
+			<duration>150047</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-advance-2/19%20Boss.mp3</location>
+			<title>Boss</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Teruhiko Nakagawa, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 2</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-advance-2/Folder.jpg</image>
+			<duration>153051</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-advance-2/03%20Zone%20Select%201.mp3</location>
+			<title>Zone Select 1</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Teruhiko Nakagawa, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 2</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-advance-2/Folder.jpg</image>
+			<duration>43049</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-advance-2/35%20Zone%20Select%202.mp3</location>
+			<title>Zone Select 2</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Teruhiko Nakagawa, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 2</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-advance-2/Folder.jpg</image>
+			<duration>104045</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
