@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-knuckles-sonic-the-hedgehog-3/07%20Rings%20and%20Diamonds%20Land.mp3</location>
+			<title>Rings and Diamonds Land</title>
+			<creator>Howard Drossin</creator>
+			<album>Sonic &amp; Knuckles / Sonic the Hedgehog 3</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Howard%20Drossin/Sonic%20%26%20Knuckles%20_%20Sonic%20the%20Hedgehog%203/art</image>
+			<duration>286198</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-knuckles-sonic-the-hedgehog-3/02%20Mushroom%20Hill.mp3</location>
+			<title>Mushroom Hill</title>
+			<creator>Howard Drossin</creator>
+			<album>Sonic &amp; Knuckles / Sonic the Hedgehog 3</album>
+			<trackNum>2</trackNum>
+			<duration>183667</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-knuckles-sonic-the-hedgehog-3/09%20Deathegg.mp3</location>
+			<title>Deathegg</title>
+			<creator>Howard Drossin</creator>
+			<album>Sonic &amp; Knuckles / Sonic the Hedgehog 3</album>
+			<trackNum>9</trackNum>
+			<duration>181055</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-knuckles-sonic-the-hedgehog-3/10%20Boss%20the%20Boss.mp3</location>
+			<title>Boss the Boss</title>
+			<creator>Howard Drossin</creator>
+			<album>Sonic &amp; Knuckles / Sonic the Hedgehog 3</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Howard%20Drossin/Sonic%20%26%20Knuckles%20_%20Sonic%20the%20Hedgehog%203/art</image>
+			<duration>257568</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-knuckles-sonic-the-hedgehog-3/04%20The%20Boss.mp3</location>
+			<title>The Boss</title>
+			<creator>Howard Drossin</creator>
+			<album>Sonic &amp; Knuckles / Sonic the Hedgehog 3</album>
+			<trackNum>4</trackNum>
+			<duration>268069</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-knuckles-sonic-the-hedgehog-3/01%20Theme%20of%20&#39;Sonic%20&amp;%20Knuckles&#39;.mp3</location>
+			<title>Theme of &quot;Sonic &amp; Knuckles&quot;</title>
+			<creator>Howard Drossin</creator>
+			<album>Sonic &amp; Knuckles / Sonic the Hedgehog 3</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Howard%20Drossin/Sonic%20%26%20Knuckles%20_%20Sonic%20the%20Hedgehog%203/art</image>
+			<duration>75389</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

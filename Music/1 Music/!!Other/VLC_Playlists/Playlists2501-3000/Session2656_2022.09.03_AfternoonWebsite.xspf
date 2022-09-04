@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/29%20-%20Staff%20Roll.mp3</location>
+			<title>Staff Roll</title>
+			<creator>Michael Jackson, Brad Buxer</creator>
+			<album>Sonic the Hedgehog 3</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/cover.jpg</image>
+			<duration>134452</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/21%20-%20Chrome%20Gadget.mp3</location>
+			<title>Chrome Gadget</title>
+			<creator>Tatsuyuki Maeda, Tomonori Sawada, Sachio Ogawa, Masayuki Nagao, Masanori Hikichi</creator>
+			<album>Sonic the Hedgehog 3</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/cover.jpg</image>
+			<duration>130011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/03%20-%20Angel%20Island%20Zone%20Act%201.mp3</location>
+			<title>Angel Island Zone Act 1</title>
+			<creator>Tatsuyuki Maeda, Tomonori Sawada, Sachio Ogawa, Masayuki Nagao, Masanori Hikichi</creator>
+			<album>Sonic the Hedgehog 3</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/cover.jpg</image>
+			<duration>141139</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/35%20-%20Game%20Over.mp3</location>
+			<title>Game Over</title>
+			<creator>Jun Senoue</creator>
+			<album>Sonic the Hedgehog 3</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/cover.jpg</image>
+			<duration>8254</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/04%20-%20Angel%20Island%20Zone%20Act%202.mp3</location>
+			<title>Angel Island Zone Act 2</title>
+			<creator>Tatsuyuki Maeda, Tomonori Sawada, Sachio Ogawa, Masayuki Nagao, Masanori Hikichi</creator>
+			<album>Sonic the Hedgehog 3</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/cover.jpg</image>
+			<duration>137717</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/18%20-%20Competition%20Menu.mp3</location>
+			<title>Competition Menu</title>
+			<creator>Michael Jackson, Brad Buxer</creator>
+			<album>Sonic the Hedgehog 3</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/cover.jpg</image>
+			<duration>118073</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
