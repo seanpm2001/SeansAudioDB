@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Windows96/Albums/GradientHorizont/Album/AIFF/Windows96%20-%20Gradient%20Horizont%20-%2010%20Motion.aiff</location>
+			<title>Motion</title>
+			<creator>Windows96</creator>
+			<album>Gradient Horizont</album>
+			<trackNum>10</trackNum>
+			<annotation>Visit https://windows96.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Windows96/Gradient%20Horizont/art.jpg</image>
+			<duration>194786</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Homebrew%20Channel%20OST/MP3/The-Homebrew-Channel-theme.mp3</location>
+			<title>The-Homebrew-Channel-theme.mp3</title>
+			<creator>Homebrew Community</creator>
+			<album>The Homebrew Channel theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the Homebrew channel on the Nintendo Wii once it has been bluebombed with a blueletter.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Homebrew%20Community/The%20Homebrew%20Channel%20theme%20song/art.jpg</image>
+			<duration>88825</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
