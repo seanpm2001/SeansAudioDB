@@ -9,22 +9,32 @@
 
 | Specification | Condition |
 |---|---|
-| **Capacity** | `1000 gigabytes/1 terabyte or higher` |
+| **Capacity** | `500/512 gigabytes` |
 | **File system** | `Btrfs` |
 | **Manufacturer** | Either: `SanDisk` `Samsung` other/reliable |
 | **Durabilitity:** | [See below](#Durability) |
 
 #### Capacity
 
-The capacity was increased on 2022, August 29th from 512 gigabytes (minimum) to 1000 gigabytes (minimum) this was done to future-proof the project for a minimum of 5 years.
+The capacity was increased on 2022, August 29th from 512 gigabytes (minimum) to 1000 gigabytes (minimum) this was done to future-proof the project for a minimum of 5 years. The original design still remains, it has been restored, and [`split off`](/Portable/SD-Card/II/) on 2022 September 7th.
 
-#### Original candidate
+#### Candidates
 
-Samsung Evo 512 gigabytes
+##### Samsung Evo 512 gigabytes
 
 [Warning: Amazon link](https://www.amazon.com/SAMSUNG-Adapter-microSDXC-MB-ME512KA-AM/dp/B09B1HMJ9Z/)
 
-**No longer planned, as my preference has jumped to 1 terabyte**
+> **List price upon entry:** `$46.99 (-45% sale, $84.99)`
+
+>**Ratings:** `Very good`
+
+##### Sandisk Extreme 512 gigabytes
+
+[Warning: Amazon link](https://www.amazon.com/SanDisk-512GB-microSDXC-Memory-Adapter/dp/B08GXXKY6P/)
+
+> **List price upon entry:** `$55.85 (-44% sale, $99.99)`
+
+>**Ratings:** `Very good`
 
 #### Btrfs
 
@@ -69,9 +79,9 @@ FAT32 has similar limitations to NTFS, but is designed for much smaller storage 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2022, Monday, August 29th at 7:41 pm PST)`
+**File version:** `3 (2022, Wednesday, September 7th at 9:50 pm PST)`
 
-**Line count (including blank lines and compiler line):** `137`
+**Line count (including blank lines and compiler line):** `162`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -128,6 +138,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p lang="en"><b>Version 3 (2022, Wednesday, September 7th at 9:50 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the table
+- [x] Updated the `Capacity` section, mentioning the recent split
+- [x] Updated the candidates section, renaming it, and adding 2 entries
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 3
 
 </details>
 
