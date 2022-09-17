@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/FLAC/007%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Prologue%20-%20Go%20See%20Tom%20Nook.flac</location>
+			<title>Prologue - Go See Tom Nook</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>45673</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/FLAC/008%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Prologue%20-%20Where%20Do%20You%20Want%20Your%20House.flac</location>
+			<title>Prologue - Where Do You Want Your House?</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>78743</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
