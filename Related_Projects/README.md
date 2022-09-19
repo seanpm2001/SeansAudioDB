@@ -49,6 +49,18 @@ A tool for adding Comma Separated Values (CSV) data to media metadata
 
 **No other mirrors currently available.**
 
+#### Seanwallawalla-Audio
+
+:octocat: [`GitHub link`](https://github.com/seanpm2001/Seanwallawalla-Audio/)
+
+**No other mirrors currently available.**
+
+#### Seanpm2001-Audio
+
+:octocat: [`GitHub link`](https://github.com/seanpm2001/Seanpm2001-Audio/)
+
+**No other mirrors currently available.**
+
 ### Audio Git-image
 
 #### SeansLifeArchive_Images_Audacity
@@ -77,9 +89,9 @@ A tool for adding Comma Separated Values (CSV) data to media metadata
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Wednesday, August 31st at 8:53 pm PST)`
+**File version:** `2 (2022, Sunday, September 18th at 8:41 pm PST)`
 
-**Line count (including blank lines and compiler line):** `123`
+**Line count (including blank lines and compiler line):** `158`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -113,6 +125,29 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `Audio Git-image` section
 - [x] Added the `file info` section
 - [x] Added the `file history` section
+- [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Sunday, September 18th at 8:41 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Audio documentation` section
+- - [x] Added 2 new entries
+- [x] Updated the `file info` section
+- - [x] Added the file type
+- - [x] Added the version number
+- - [x] Added the line counter
+- - [x] Added the version date
+- - [x] Added the language
+- - [x] Added the encoding
+- - [x] Added the DST warning
+- - [x] Added the special rendering notice
+- [x] Updated the `file history` section
+- -[x] Added an entry for version 2
 - [ ] No other changes in version 1
 
 </details>
