@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hatsune%20Miku/MP3/bing%20bong.mp3</location>
+			<title>bing bong.mp3</title>
+			<creator>YT:Hatsune Miku</creator>
+			<album>Hatsune Miku Covers</album>
+			<trackNum>4</trackNum>
+			<annotation>The song &quot;bing bong&quot; covered by Hatsune Miku.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/YT_Hatsune%20Miku/Hatsune%20Miku%20Covers/art.jpg</image>
+			<duration>122235</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hatsune%20Miku/MP3/miku%20forever....mp3</location>
+			<title>miku forever....mp3</title>
+			<creator>YT:Hatsune Miku</creator>
+			<album>Hatsune Miku Covers</album>
+			<trackNum>5</trackNum>
+			<annotation>The song &quot;Miku forever...&quot; by Hatsune Miku.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/YT_Hatsune%20Miku/Hatsune%20Miku%20Covers/art.jpg</image>
+			<duration>147183</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hatsune%20Miku/MP3/o%20b%20l%20i%20v%20i%20o%20n.mp3</location>
+			<title>o b l i v i o n.mp3</title>
+			<creator>YT:Hatsune Miku</creator>
+			<album>Hatsune Miku covers</album>
+			<trackNum>6</trackNum>
+			<annotation>The song &quot;Oblivion&quot; by Hatsune Miku.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/YT_Hatsune%20Miku/Hatsune%20Miku%20covers/art.jpg</image>
+			<duration>252378</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
