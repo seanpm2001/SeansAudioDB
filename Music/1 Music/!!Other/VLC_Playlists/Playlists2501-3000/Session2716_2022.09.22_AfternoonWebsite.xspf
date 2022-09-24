@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/AncientMusic/MP3/Hurrian-Hymn-no.6_-_c.1400-B.C.mp3</location>
+			<title>Hurrian-Hymn-no.6_-_c.1400-B.C.mp3</title>
+			<creator>Unknown Hurrian Musician</creator>
+			<album>Hurrian Hymns</album>
+			<trackNum>1</trackNum>
+			<annotation>The song is dated to about 1400 BC, but VLC won&#39;t let me write a date with negative numbers, more than 4 digits, or letters, so I defaulted to 0000. I also got a GIF (non-animated) file to work as the preview for this album. This is the oldest known song in the world and comes from the Ancient Hurrian people.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown%20Hurrian%20Musician/Hurrian%20Hymns/art</image>
+			<duration>342449</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hillary%20Stagg%20-%20The%20Edge%20of%20Forever/(No%20video)%20With%20Me%20Now%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.webm</location>
+			<duration>276920</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hillary%20Stagg%20-%20The%20Edge%20of%20Forever/(No%20video)%20Forever%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.webm</location>
+			<duration>676780</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hava-Nagila/MP3/Hava-Nagila.mp3</location>
+			<title>Hava-Nagila.mp3</title>
+			<creator>Idelsohn or Nathanson (disputed)</creator>
+			<album>Hava Nagila</album>
+			<trackNum>1</trackNum>
+			<annotation>The Jewish folk song Hava Nagila. Its original creator is commonly disputed, it was either composed by Idelsohn or Nathanson. It was composed in 1918 to celebrate victory over the Ottoman Empire in World War I. The song name translates to &quot;Let us rejoice&quot; in English. I am using a picture of the sheet music as the album art, rather than the flag of Israel.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Idelsohn%20or%20Nathanson%20%28disputed%29/Hava%20Nagila/art.png</image>
+			<duration>165233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Its%20too%20late%20to%20apologize/Timbaland%20-%20Apologize%20ft.%20OneRepublic-ZSM3w1v-A_Y.mkv</location>
+			<duration>188700</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/epic%20sax%20guy/MP3/Epic-Sax-Guy.mp3</location>
+			<title>Epic-Sax-Guy.mp3</title>
+			<creator>Sergey Stepanov + SunStroke</creator>
+			<album>SunStroke Project</album>
+			<trackNum>1</trackNum>
+			<annotation>Sergey Stepanov is commonly known as Epic Sax Guy. I can&#39;t find the name of this particular performance.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Sergey%20Stepanov%20%2B%20SunStroke/SunStroke%20Project/art.jpg</image>
+			<duration>264029</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Castlevania%20OST/Compilation/MP3/Castlevania-NES-Music-Full-OST-Soundtrack.mp3</location>
+			<title>Castlevania-NES-Music-Full-OST-Soundtrack.mp3</title>
+			<creator>Konami</creator>
+			<album>Castlevania NES Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The full soundtrack from the first Castlevania game. This was an NES game.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Castlevania%20NES%20Soundtrack/art.jpg</image>
+			<duration>1008812</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
