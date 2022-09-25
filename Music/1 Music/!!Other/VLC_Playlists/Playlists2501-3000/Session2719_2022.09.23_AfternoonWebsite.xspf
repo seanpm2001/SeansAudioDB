@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Moana/Remixes/(No%20video)%20What%20can%20I%20say%20except%20the%20N%20word.webm</location>
+			<duration>127221</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Rick%20Astley/MP3/Rick-Astley_Whenever-you-need-somebody.mp3</location>
+			<title>Rick-Astley_Whenever-you-need-somebody.mp3</title>
+			<creator>Rick Astley</creator>
+			<album>Whenever you need somebody</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Whenever you need somebody&quot; by artist &quot;Rick Astley&quot; this song is a cover of the 1985 song &quot;Whenever you need somebody&quot; by artist Stock Aitken Waterma.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Rick%20Astley/Whenever%20you%20need%20somebody/art.jpg</image>
+			<duration>205985</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/Cipher%20-%20Kevin%20Macleod%201%20Hour%20Loop.m4a</location>
+			<duration>5790081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/Kevin%20Macleod%20the%20builder%201%20hour.m4a</location>
+			<duration>3683358</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/Kevin%20Macleod%20One-Eyed%20Meistro%201%20hour.m4a</location>
+			<duration>3701771</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Sex%20Offender%20Shuffle/Sex%20Offender%20Shuffle%20YT.m4a</location>
+			<duration>236634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Oregon%20Trail%20-%20American%20Settler%20OST/MP3/The-Oregon-Trail_American-Settler_Music-uncut-trailer.mp3</location>
+			<title>The-Oregon-Trail_American-Settler_Music-uncut-trailer.mp3</title>
+			<creator>Gameloft</creator>
+			<album>The Oregon Trail: American Settler soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the game &quot;The Oregon Trail: American Settler&quot; from Gameloft. This is just the trailer, and it contains sound effects that interrupt the footage. I can hardly find anything else online at the moment, so this will have to do.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Gameloft/The%20Oregon%20Trail_%20American%20Settler%20soundtrack/art.jpg</image>
+			<duration>57190</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
