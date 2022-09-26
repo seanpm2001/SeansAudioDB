@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Oregon%20Trail%20-%20American%20Settler%20OST/MP3/The-Oregon-Trail_American-Settler_Music-uncut-trailer.mp3</location>
+			<title>The-Oregon-Trail_American-Settler_Music-uncut-trailer.mp3</title>
+			<creator>Gameloft</creator>
+			<album>The Oregon Trail: American Settler soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the game &quot;The Oregon Trail: American Settler&quot; from Gameloft. This is just the trailer, and it contains sound effects that interrupt the footage. I can hardly find anything else online at the moment, so this will have to do.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Gameloft/The%20Oregon%20Trail_%20American%20Settler%20soundtrack/art.jpg</image>
+			<duration>57190</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Journey%20-%20Don&#39;t%20stop%20believing/MP3/Journey-Don&#39;t-stop-believing.mp3</location>
+			<title>Journey-Don&#39;t-stop-believing.mp3</title>
+			<creator>Journey</creator>
+			<album>Don&#39;t stop believing</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Journey/Don%27t%20stop%20believing/art.jpg</image>
+			<duration>250210</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Do%20you%20believe%20in%20magic/(No%20video)%20The%20lovin&#39;%20spoonful%20-%20Do%20you%20believe%20in%20magic.webm</location>
+			<duration>127401</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Growtopia/startopia_theme.ogg</location>
+			<title>Startopia Theme</title>
+			<creator>Cory Mollenhour</creator>
+			<album>Growtopia</album>
+			<duration>60000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
