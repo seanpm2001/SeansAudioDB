@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hollaback%20Girl/MP3/Hollaback-Girl-Explicit.mp3</location>
+			<title>Hollaback-Girl-Explicit.mp3</title>
+			<creator>Hollaback Girl</creator>
+			<album>Hollaback Girl</album>
+			<trackNum>1</trackNum>
+			<annotation>B A N A N A S</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Hollaback%20Girl/Hollaback%20Girl/art.jpg</image>
+			<duration>207056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/M.I.A-Bad-Girls-Instrumental/MP3/M.I.A._Bad-Girls-Instrumental.mp3</location>
+			<title>M.I.A._Bad-Girls-Instrumental.mp3</title>
+			<creator>M.I.A.</creator>
+			<album>Bad Girls (Instrumental)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bad girls&quot; in Instrumental format, by the British band M.I.A.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/M.I.A./Bad%20Girls%20%28Instrumental%29/art.jpg</image>
+			<duration>228737</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ocean%20Man/MP3/Ween-Ocean-Man.mp3</location>
+			<title>Ween-Ocean-Man.mp3</title>
+			<creator>Ween</creator>
+			<album>Ocean Man</album>
+			<trackNum>1</trackNum>
+			<annotation>Weenie Hut General!?!?!?</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Ween/Ocean%20Man/art.jpg</image>
+			<duration>127512</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/A-HA/MP3/Take-on-me.mp3</location>
+			<title>Take-on-me.mp3</title>
+			<creator>A-HA</creator>
+			<album>Take on Me</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/A-HA/Take%20on%20Me/art.jpg</image>
+			<duration>227170</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Space%20Oddity/MP3/David-Bowie_Space-Oddity.mp3</location>
+			<title>David-Bowie_Space-Oddity.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Space Oddity</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Space Oddity&quot; by David Bowie.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Space%20Oddity/art.jpg</image>
+			<duration>304937</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Queen%20-%20don&#39;t%20stop%20me%20now/MP3/Queen_Don&#39;t-Stop-Me-Now.mp3</location>
+			<title>Queen_Don&#39;t-Stop-Me-Now.mp3</title>
+			<creator>Queen</creator>
+			<album>Don&#39;t stop me now</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;don&#39;t stop me now&quot; from the British band &quot;Queen&quot; another one of their best songs, but really, what Queen song isn&#39;t good?</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/Don%27t%20stop%20me%20now/art.jpg</image>
+			<duration>209537</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Queen%20-%20We%20are%20the%20champions/MP3/Queen_We-Are-The-Champions.mp3</location>
+			<title>Queen_We-Are-The-Champions.mp3</title>
+			<creator>Queen</creator>
+			<album>We are the champions</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;We are the Champions&quot; by the British rock band &quot;Queen&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/We%20are%20the%20champions/art.jpg</image>
+			<duration>180646</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tetris%20(Game%20Boy)%20OST/Tetris%20(Game%20Boy)%20-%2001.%20Title%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>39659</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tetris%20(Game%20Boy)%20OST/Tetris%20(Game%20Boy)%20-%2002.%20A-Type%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>180070</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tetris%20(Game%20Boy)%20OST/Tetris%20(Game%20Boy)%20-%2003.%20B-Type%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>180070</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
