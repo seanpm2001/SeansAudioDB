@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Batman_Beatbox/Batman%20Beatbox-ApMzw-tyHmg.mp4</location>
+			<duration>74606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Moskau/MP3/Moskau-1979.mp3</location>
+			<title>Moskau-1979.mp3</title>
+			<creator>Dschinghis Khan</creator>
+			<album>Moskau</album>
+			<trackNum>1</trackNum>
+			<annotation>This is the German version of the song. English and Russian versions also exist.
+Dschinghis Khan translates to Genghis Khan in some countries such as Australia)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Dschinghis%20Khan/Moskau/art.jpg</image>
+			<duration>266981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/99Luftballons/VideoWithAudio/99%20Luftballons-TMSlTQmDLx4.mkv</location>
+			<duration>228564</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Big%20data%20-%20Bombs%20over%20brooklyn/MP3/Big-data_Bombs-over-Brooklyn.mp3</location>
+			<title>Big-data_Bombs-over-Brooklyn.mp3</title>
+			<creator>Big Data</creator>
+			<album>Bombs over Brooklyn</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bombs over Brooklyn&quot; by the band &quot;Big data&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Big%20Data/Bombs%20over%20Brooklyn/art.png</image>
+			<duration>222285</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hinder-Lips-of-an-angel/Hinder%20-%20Lips%20Of%20An%20Angel%20(Official%20Music%20Video)-RiSfTyrvJlg.mkv</location>
+			<duration>257440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gy%C3%B6ngyhaj%C3%BA%20l%C3%A1ny/(No%20video)%20Gy%C3%B6ngyhaj%C3%BA%20l%C3%A1ny.webm</location>
+			<duration>349680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gangstas%20paradise/MP3/Coolio_Gangsta&#39;s-Paradise.mp3</location>
+			<title>Coolio_Gangsta&#39;s-Paradise.mp3</title>
+			<creator>Coolio</creator>
+			<album>Gangsta&#39;s Paradise</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Gangsta&#39;s Paradise&quot; by rapper Coolio. I prefer Weird Al Yankovics cover, &quot;Amish Paradise&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Coolio/Gangsta%27s%20Paradise/art.jpg</image>
+			<duration>256114</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Niklas%20Ahlstr%C3%B6m%20%E2%80%93%20Vanilla%20Urban%204/(No%20video)%20Niklas%20Ahlstr%C3%B6m%20%E2%80%93%20Vanilla%20Urban%204.m4a</location>
+			<duration>290620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hava-Nagila/MP3/Hava-Nagila.mp3</location>
+			<title>Hava-Nagila.mp3</title>
+			<creator>Idelsohn or Nathanson (disputed)</creator>
+			<album>Hava Nagila</album>
+			<trackNum>1</trackNum>
+			<annotation>The Jewish folk song Hava Nagila. Its original creator is commonly disputed, it was either composed by Idelsohn or Nathanson. It was composed in 1918 to celebrate victory over the Ottoman Empire in World War I. The song name translates to &quot;Let us rejoice&quot; in English. I am using a picture of the sheet music as the album art, rather than the flag of Israel.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Idelsohn%20or%20Nathanson%20%28disputed%29/Hava%20Nagila/art.png</image>
+			<duration>165233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
