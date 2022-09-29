@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/All-I-Want-For-Christmas-Is-Collective-Consciousness/VideoWithAudio/All%20I%20Want%20For%20Christmas%20Is%20Collective%20Consciousness-vX8auatwCP0.mp4</location>
+			<duration>95109</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hinder%20-%20Better%20than%20me/Hinder%20-%20Better%20Than%20Me%20(Official%20Video)-TEXBmw2jBcA.mkv</location>
+			<duration>223840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/We%20didn&#39;t%20start%20the%20fire/MP3/BillyJoel-WeDidn&#39;tStartTheFire.mp3</location>
+			<title>BillyJoel-WeDidn&#39;tStartTheFire.mp3</title>
+			<creator>Billy Joel</creator>
+			<album>We didn&#39;t start the fire</album>
+			<trackNum>1</trackNum>
+			<annotation>We didn&#39;t start the fire. It was always burning since the worlds been turning.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Billy%20Joel/We%20didn%27t%20start%20the%20fire/art.jpg</image>
+			<duration>245378</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Twenty_%C3%B8ne_Pil%C3%B8ts/MP3/21-pilots_Heathens.mp3</location>
+			<title>21-pilots_Heathens.mp3</title>
+			<creator>twenty øne piløts</creator>
+			<album>Heathens</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Heathens&quot; by the band twenty øne piløts.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/twenty%20%C3%B8ne%20pil%C3%B8ts/Heathens/art.jpg</image>
+			<duration>217844</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Twenty_%C3%B8ne_Pil%C3%B8ts/MP3/21-pilots_We-are-young.mp3</location>
+			<title>21-pilots_We-are-young.mp3</title>
+			<creator>twenty øne piløts</creator>
+			<album>We are young</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;We are young&quot; by twenty øne piløts</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/twenty%20%C3%B8ne%20pil%C3%B8ts/We%20are%20young/art.jpg</image>
+			<duration>252224</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Twenty_%C3%B8ne_Pil%C3%B8ts/MP3/21-pilots_Stressed-out.mp3</location>
+			<title>21-pilots_Stressed-out.mp3</title>
+			<creator>twenty øne piløts</creator>
+			<album>Stressed out</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Stressed out&quot; by the band twenty øne piløts.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/twenty%20%C3%B8ne%20pil%C3%B8ts/Stressed%20out/art.jpg</image>
+			<duration>225106</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Nirvana/Nirvana%20-%20Smells%20Like%20Teen%20Spirit%20(Lyrics)-zYxkezUr8MQ.mkv</location>
+			<duration>301372</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/All%20your%20base%20are%20belong%20to%20us/[HD]%20All%20Your%20Base%20Are%20Belong%20To%20Us-jQE66WA2s-A.webm</location>
+			<duration>261180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Enya-Only-time/MP3/Enya_Only-time.mp3</location>
+			<title>Enya_Only-time.mp3</title>
+			<creator>Enya</creator>
+			<album>Only time</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Only time&quot; by Irish singer Enya.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Enya/Only%20time/art.jpg</image>
+			<duration>215754</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>

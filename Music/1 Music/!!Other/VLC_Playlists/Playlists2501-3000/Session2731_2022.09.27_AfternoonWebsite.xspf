@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/AudioOnly/Track%2029.flac</location>
+			<title>Neutrino Trap (Hurricane Strings) [Alpha V0.52]</title>
+			<creator>Kelly Bailey</creator>
+			<album>Half-Life Original Soundtrack</album>
+			<trackNum>29</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kelly%20Bailey/Half-Life%20Original%20Soundtrack/art.jpg</image>
+			<duration>97160</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/AudioOnly/Track%2010.flac</location>
+			<title>Valve Theme (Long Version)</title>
+			<creator>Kelly Bailey</creator>
+			<album>Half-Life Original Soundtrack</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kelly%20Bailey/Half-Life%20Original%20Soundtrack/art.jpg</image>
+			<duration>82732</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Claire%20De%20Lune%20Claude%20Debussy/MP3/Claire-de-Lune_Claude-Debussy.mp3</location>
+			<title>Claire-de-Lune_Claude-Debussy.mp3</title>
+			<creator>Claude Debussy</creator>
+			<album>Claire De Lune</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Claire de Lune&quot; by the French artist &quot;Claude Debussy&quot; I got the names mixed up originally, this has been fixed in this files media information.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Claude%20Debussy/Claire%20De%20Lune/art.jpg</image>
+			<duration>302220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Merge%20Plane%20OST/MP3/Merge_Plane_OST_MainTheme_Extended.mp3</location>
+			<title>Merge_Plane_OST_MainTheme_Extended.mp3</title>
+			<creator>Unknown Artist</creator>
+			<album>Merge Plane OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown%20Artist/Merge%20Plane%20OST/art.png</image>
+			<duration>316039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Lollipop%20Chainsaw%20-%20You%20Spin%20me%20right%20round/MP3/Lollipop-Chainsaw-OST-You-Spin-Me-Round-(Like-a-Record)-(by-Dead-or-Alive).mp3</location>
+			<title>Lollipop-Chainsaw-OST-You-Spin-Me-Round-(Like-a-Record)-(by-Dead-or-Alive).mp3</title>
+			<creator>Dead or Alive</creator>
+			<album>You spin me right round</album>
+			<trackNum>1</trackNum>
+			<annotation>I originally thought this song was by Lollipop Chainsaw, which I have found isn&#39;t even a band. I still have to keep the wrong name here, as everything was set up this way. I will make a corrected version in the future.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Dead%20or%20Alive/You%20spin%20me%20right%20round/art.jpg</image>
+			<duration>184224</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Turn%20down%20for%20what/MP3/DJ-Snake_Turn-down-for-what.mp3</location>
+			<title>DJ-Snake_Turn-down-for-what.mp3</title>
+			<creator>DJ Snake</creator>
+			<album>Turn down for what</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Turn down for what&quot; by the artist DJ Snake. The music video is completely weird, I recommend checking it out, as it is one of the most bizzare music videos I have ever seen.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/DJ%20Snake/Turn%20down%20for%20what/art.jpg</image>
+			<duration>216016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Friends%20(show)%20OST/Remixes/(No%20video)%20Friends%20theme%20with%20gunshots.webm</location>
+			<duration>12501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
