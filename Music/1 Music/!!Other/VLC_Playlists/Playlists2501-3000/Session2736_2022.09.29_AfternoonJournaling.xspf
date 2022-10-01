@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/DDLC%20(Doki%20Doki%20Literature%20Club)/(No%20video)%20Nick%20Kaelar%20(Varien)%20-%20%E3%80%8CDoki%20Doki%20%E3%83%89%E3%82%AD%E3%83%89%E3%82%AD%E3%80%8D.webm</location>
+			<duration>222300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Eye%20of%20the%20Tiger/MP3/Survivor_Eye-of-the-Tiger.mp3</location>
+			<title>Survivor_Eye-of-the-Tiger.mp3</title>
+			<creator>Survivor</creator>
+			<album>Eye of the Tiger</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;eye of the tiger&quot; by the rock band &quot;survivor&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Survivor/Eye%20of%20the%20Tiger/art.jpg</image>
+			<duration>268026</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Do%20you%20believe%20in%20magic/(No%20video)%20The%20lovin&#39;%20spoonful%20-%20Do%20you%20believe%20in%20magic.webm</location>
+			<duration>127401</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20A%20Little%20Heart%20to%20Heart.mp3</location>
+			<duration>93989</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20%20Saxton&#39;s%20dillema.mp3</location>
+			<duration>71784</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20Soldier%20of%20Dance.mp3</location>
+			<duration>68127</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20MEDIC!.mp3</location>
+			<duration>154019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20It%20Hates%20Me%20So%20Much.mp3</location>
+			<duration>129307</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Dumb%20Ways%20to%20Die/AudioOnly/MP3/Dumb-Ways-to-Die-Theme-song.mp3</location>
+			<title>Dumb-Ways-to-Die-Theme-song.mp3</title>
+			<creator>Metro Trains (Melbourne, Australia)</creator>
+			<album>Dumb Ways to Die</album>
+			<trackNum>2</trackNum>
+			<annotation>The song from the music video unlocked once you play Dumb Ways to die and get a score of 800, and after you agree to be safe around trains.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Metro%20Trains%20%28Melbourne%2C%20Australia%29/Dumb%20Ways%20to%20Die/art.jpg</image>
+			<duration>181952</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Melanie%20-%20Brand%20new%20key/MP3/Melanie-Brand-new-key.mp3</location>
+			<title>Melanie-Brand-new-key.mp3</title>
+			<creator>Melanie</creator>
+			<album>Beautiful People: The greatest hits of Melanie</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Melanie/Beautiful%20People_%20The%20greatest%20hits%20of%20Melanie/art.png</image>
+			<duration>146451</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
