@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Clappy/Clappy.webm</location>
+			<duration>406932</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hava-Nagila/MP3/Hava-Nagila.mp3</location>
+			<title>Hava-Nagila.mp3</title>
+			<creator>Idelsohn or Nathanson (disputed)</creator>
+			<album>Hava Nagila</album>
+			<trackNum>1</trackNum>
+			<annotation>The Jewish folk song Hava Nagila. Its original creator is commonly disputed, it was either composed by Idelsohn or Nathanson. It was composed in 1918 to celebrate victory over the Ottoman Empire in World War I. The song name translates to &quot;Let us rejoice&quot; in English. I am using a picture of the sheet music as the album art, rather than the flag of Israel.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Idelsohn%20or%20Nathanson%20%28disputed%29/Hava%20Nagila/art.png</image>
+			<duration>165233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bill%20Nye%20theme/MP3/Bill-Nye-The-Science-Guy_Theme-song.mp3</location>
+			<title>Bill-Nye-The-Science-Guy_Theme-song.mp3</title>
+			<creator>Bill Nye</creator>
+			<album>Bill Nye the Science guy Theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the TV show Bill Nye the Science Guy. This version is from a YouTube video, and contains ~16.75 seconds of filler audio about amphibians before the theme starts. I hope to get a cropped version in the future.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Bill%20Nye/Bill%20Nye%20the%20Science%20guy%20Theme%20song/art.jpg</image>
+			<duration>46715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/19%20Lab%20Practicum.mp3</location>
+			<title>Lab Practicum</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>19</trackNum>
+			<annotation>0</annotation>
+			<duration>174840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/12%20Apprehension%20and%20Evasion.mp3</location>
+			<title>Apprehension and Evasion</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>12</trackNum>
+			<annotation>0</annotation>
+			<duration>137773</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/14%20Our%20Resurrected%20Teleport.mp3</location>
+			<title>Our Resurrected Teleport</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>14</trackNum>
+			<annotation>0</annotation>
+			<duration>71787</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/15%20Miscount%20Detected.mp3</location>
+			<title>Miscount Detected</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>15</trackNum>
+			<annotation>0</annotation>
+			<duration>48329</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/17%20Triage%20at%20Dawn.mp3</location>
+			<title>Triage at Dawn</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>17</trackNum>
+			<annotation>0</annotation>
+			<duration>45482</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/All-in-one/Bejeweled%20twist%20full%20soundtrack.ogg</location>
+			<duration>7373000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>

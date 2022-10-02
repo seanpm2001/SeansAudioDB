@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hell/MP3/Disturbed-Hell.mp3</location>
+			<title>Disturbed-Hell.mp3</title>
+			<creator>Disturbed</creator>
+			<album>Hell</album>
+			<trackNum>1</trackNum>
+			<annotation>Something that once scared me as a young child, the face was the scariest thing at the time, although I was brave and got past it. Ah 2009.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Disturbed/Hell/art.jpg</image>
+			<duration>252222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Beach%20Boys%20-%20Wouldn&#39;t%20it%20be%20nice/MP3/Beach-Boys_Wouldn&#39;t-It-be-nice.mp3</location>
+			<title>Beach-Boys_Wouldn&#39;t-It-be-nice.mp3</title>
+			<creator>Beach Boys</creator>
+			<album>Wouldn&#39;t it be nice</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Wouldn&#39;t it be nice&quot; by the band &quot;Beach Boys&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Beach%20Boys/Wouldn%27t%20it%20be%20nice/art.jpg</image>
+			<duration>153112</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20of%20Thrones/(No%20video)%20Game%20of%20Thrones%20-%20Main%20Theme%20(Extended)%20HD.webm</location>
+			<duration>255580</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
