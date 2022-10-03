@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Tchaikovsky/MP3/Tchaikovsky-1812-overture-(with-cannons).mp3</location>
+			<title>Tchaikovsky-1812-overture-(with-cannons).mp3</title>
+			<creator>Pyotr Ilyich Tchaikovsky</creator>
+			<album>1812 Overture</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Pyotr%20Ilyich%20Tchaikovsky/1812%20Overture/art.jpg</image>
+			<duration>908031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Senbonzakura/MP3/Senbonzakura.mp3</location>
+			<title>Senbonzakura.mp3</title>
+			<creator>Lindsay Sterling</creator>
+			<album>Senbonzakura (violin cover)</album>
+			<trackNum>1</trackNum>
+			<annotation>A violin cover of the song Senbonzakura.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Lindsay%20Sterling/Senbonzakura%20%28violin%20cover%29/art.jpg</image>
+			<duration>204574</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/remix/Undertale%20%20Megalovania%20-%20Metal%20Cover%20RichaadEB(1).mp4</location>
+			<duration>195001</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/remix/%E2%99%AB%20Undertale%20-%20Megalovania%20-%20Minecraft%20Note%20block%20song%20!.mp4</location>
+			<duration>155295</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/remix/ASGORE%20THE%20SHOGUN%20OF%20THE%20MOUNTAIN%20-%20480p.mp4</location>
+			<duration>200156</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/remix/BATTLE%20AGAINST%20A%20TRUE%20SAMURAI%20480p.mp4</location>
+			<duration>162679</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
