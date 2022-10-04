@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/remix/Bonetrousle%20but%20it%20never%20starts%20-%20Undertale-K84Hrsb-wBE.mp4</location>
+			<duration>57656</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Undertale/remix/DOGGOLOVANIA%20[YTPMV].mp4</location>
+			<duration>175102</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Touhou%20OST/UN%20Owen%20Was%20Her-%20Full%20version%20-%20YouTube.mp4</location>
+			<duration>320853</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ronald%20McDonald%20insanity/MP3/Ronald-McDonald-insanity.mp3</location>
+			<title>Ronald-McDonald-insanity.mp3</title>
+			<creator>McDonald&#39;s Japan</creator>
+			<album>Ronald McDonald Insanity</album>
+			<trackNum>1</trackNum>
+			<annotation>Ronald McDonald goes completely insane in Japan between 2004 and 2007</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/McDonald%27s%20Japan/Ronald%20McDonald%20Insanity/art.jpg</image>
+			<duration>318338</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/David-Bowie_Changes/MP3/David-Bowie_Changes-(2015-Remaster).mp3</location>
+			<title>David-Bowie_Changes-(2015-Remaster).mp3</title>
+			<creator>David Bowie</creator>
+			<album>Changes (2015 remaster)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Changes&quot; from David Bowie, the 2015 remasterd version.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Changes%20%282015%20remaster%29/art.jpg</image>
+			<duration>217714</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Mr.Blue%20Sky/MP3/Mr.BlueSky.mp3</location>
+			<title>Mr.BlueSky.mp3</title>
+			<creator>ELO (Electric Light Orchestra)</creator>
+			<album>Mr. Blue Sky</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/ELO%20%28Electric%20Light%20Orchestra%29/Mr.%20Blue%20Sky/art.jpg</image>
+			<duration>294619</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
