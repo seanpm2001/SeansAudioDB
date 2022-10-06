@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Spooky%20Scary%20Skeletons/MP3/Spooky-Scary-Skeletons-Original-Song+Video.mp3</location>
+			<title>Spooky-Scary-Skeletons-Original-Song+Video.mp3</title>
+			<creator>Andrew Gold</creator>
+			<album>Halloween Howls</album>
+			<trackNum>1</trackNum>
+			<annotation>A shorter version of the Spooky Scary Skeletons music video.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Andrew%20Gold/Halloween%20Howls/art.jpg</image>
+			<duration>172495</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Spooky%20Scary%20Skeletons/MP3/It-Must-Be-Halloween.mp3</location>
+			<title>It-Must-Be-Halloween.mp3</title>
+			<creator>Andrew Gold</creator>
+			<album>It must be Halloween</album>
+			<trackNum>1</trackNum>
+			<annotation>I am unable to determine the genre.
+This might have to be moved to a different folder.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Andrew%20Gold/It%20must%20be%20Halloween/art.jpg</image>
+			<duration>114242</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Goosebumps%20theme/MP3/Goosebumps-(Theme-Song).mp3</location>
+			<title>Goosebumps-(Theme-Song).mp3</title>
+			<creator>R.L. Stine</creator>
+			<album>Goosebumps</album>
+			<trackNum>1</trackNum>
+			<annotation>The Goosebumps theme song.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/R.L.%20Stine/Goosebumps/art.jpg</image>
+			<duration>68632</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Monster%20mash/MP3/Monster_Mash.mp3</location>
+			<title>Monster_Mash.mp3</title>
+			<creator>Bobby &quot;Boris&quot; Pickett</creator>
+			<album>Monster Mash</album>
+			<trackNum>1</trackNum>
+			<annotation>They did the mash! They did the monster mash.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Bobby%20_Boris_%20Pickett/Monster%20Mash/art.jpg</image>
+			<duration>263245</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Sonic%20X/MP3/Sonic-X-intro.mp3</location>
+			<title>Sonic-X-intro.mp3</title>
+			<creator>Yoshihiro Ike (池 頼広)</creator>
+			<album>Sonic X: Original Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the Sonic X Anime, English dub by 4kids.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Yoshihiro%20Ike%20%28%E6%B1%A0%20%E9%A0%BC%E5%BA%83%29/Sonic%20X_%20Original%20Soundtrack/art.jpg</image>
+			<duration>60090</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Salve-Regina_Hail-Holy-Queen/MP3/Salve-Regina_Hail-Holy-Queen.mp3</location>
+			<title>Salve-Regina_Hail-Holy-Queen.mp3</title>
+			<creator>Salve Regina</creator>
+			<album>Hail Holy Queen</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Hail Holy Queen, part of Salve Regina. A Latin song from Medieval Europe, recomposed in the 1950s.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Salve%20Regina/Hail%20Holy%20Queen/art.jpg</image>
+			<duration>118892</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Bee%20Gees%20-%20Stayin%20alive%20[Bardcore]%20Medieval.webm</location>
+			<duration>289140</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Camila%20Cabello%20-%20Havana%20[Bardcore]%20Medieval.webm</location>
+			<duration>168680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Gotye%20-%20Someone%20that%20I%20used%20to%20know%20[bardcore]%20medievel%20with%20lyrics.webm</location>
+			<duration>268980</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20AHA%20-%20Take%20on%20me%20[Bardcore]%20medievel.webm</location>
+			<duration>226060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Aqua%20-%20Barbie%20Girl%20[Bardcore]%20medieval.webm</location>
+			<duration>179660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Boney%20-%20Rasputin%20[bardcore]%20medievel.webm</location>
+			<duration>273500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Coldplay%20-%20Viva%20La%20Vida%20[Bardcore]%20medieval.webm</location>
+			<duration>243740</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/The%20Animals%20-%20House%20of%20the%20rising%20sun/(No%20video)%20The%20Animals%20-%20House%20of%20the%20Rising%20Sun%20(1964)%20HQ-Widescreen%20%E2%99%AB%E2%99%A5%2056%20YEARS%20AGO.webm</location>
+			<duration>248500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Friends%20(show)%20OST/(No%20video)%20Friends%20theme%20song.webm</location>
+			<duration>192040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song3.mp3</location>
+			<title>Virtual_City_Playground_OST_Song3.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>136864</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song2.mp3</location>
+			<title>Virtual_City_Playground_OST_Song2.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>133546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song4.mp3</location>
+			<title>Virtual_City_Playground_OST_Song4.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>121687</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song1.mp3</location>
+			<title>Virtual_City_Playground_OST_Song1.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>63512</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Cyriak/(NoVideo)%20Welcome%20to%20kitty%20city.m4a</location>
+			<duration>108855</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Cyriak/(NoVideo)%207%20billion.webm</location>
+			<duration>142060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/DespicableMe%20OST/VideoWithAudio/Despicable%20Me%20(Soundtrack)%20-%20Despicable%20Me%20(The%20Neptunes)-HflX1WlIbSU.webm</location>
+			<duration>252820</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/DespicableMe%20OST/VideoWithAudio/Despicable%20Me%20(Soundtrack)%20-%20Beautiful%20Egypt%20[Pt.%202]-O9qPV5IS7j0.mkv</location>
+			<duration>60061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hello%20world/hello%20world.mp4</location>
+			<duration>115404</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hello%20world/hello%20world%20[but%20i%20looped%20it%20a%20couple%20times%20seamlessly].mp4</location>
+			<duration>276202</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Wii%20series/Wii%20theme/remixes/Murcy%20-%20Wii%20Turn%20Up%20(Wii%20Menu%20Remix).mp4</location>
+			<duration>197068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+	</extension>
+</playlist>
