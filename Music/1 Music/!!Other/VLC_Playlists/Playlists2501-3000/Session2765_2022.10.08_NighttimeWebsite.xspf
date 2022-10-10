@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/Still%20Alive%20-%20UMGSO%20-%20Spring%20Concert%202009.mp4</location>
+			<duration>321875</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Fortunate-Son_EurobeatRemix/VideoWithAudio/Fortunate%20Son%20_%20Eurobeat%20Remix-KtJ79ZjJ3lM.mkv</location>
+			<duration>169343</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/MIDI/Vinesauce_Joel/(No%20video)%20[Vinesauce]%20Scary%20Monsters%20and%20Nice%20Sprites%20(MIDI%20Version).webm</location>
+			<duration>236820</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/MIDI/WikiMIDIs/Pascal_Provost_-_Side_By_Side.ogg</location>
+			<title>Side By Side</title>
+			<creator>Atoma</creator>
+			<duration>75000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/MIDI/WikiMIDIs/Ented,_Nokturn_a-moll_-_Jesienny.ogg</location>
+			<duration>271000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/MIDI/WikiMIDIs/MIDI_playback_sample.ogg</location>
+			<duration>131000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Pocket%20Planes%20OST/Unofficial/AirTravel/VideoWithAudio/Pocket%20Planes%20-%20AirTravel%20_%20Melbourne%20To%20London!-pSph0Ll1gwY.mkv</location>
+			<duration>348540</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Hatsune%20Miku/MP3/The%20Apocalypse.mp3</location>
+			<title>The Apocalypse.mp3</title>
+			<creator>YT:Hatsune Miku</creator>
+			<album>Hatsune Miku covers</album>
+			<trackNum>1</trackNum>
+			<annotation>The Apocalypse, vocalized by Hatsune Miku.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/YT_Hatsune%20Miku/Hatsune%20Miku%20covers/art.jpg</image>
+			<duration>154627</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/OGG/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2013%20Aria%20Math.ogg</location>
+			<title>Aria Math</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>13</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Beta/OGG/cover.jpg</image>
+			<duration>310000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/OGG/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2019%20The%20End.ogg</location>
+			<title>The End</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>19</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Beta/OGG/cover.jpg</image>
+			<duration>904000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/OGG/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2027%20Mall.ogg</location>
+			<title>Mall</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>27</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Beta/OGG/cover.jpg</image>
+			<duration>198000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/OGG/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2014%20Kyoto.ogg</location>
+			<title>Kyoto</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>14</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Beta/OGG/cover.jpg</image>
+			<duration>249000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/OGG/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2018%20Dreiton.ogg</location>
+			<title>Dreiton</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>18</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Beta/OGG/cover.jpg</image>
+			<duration>497000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/OGG/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2007%20Concrete%20Halls.ogg</location>
+			<title>Concrete Halls</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>7</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Beta/OGG/cover.jpg</image>
+			<duration>254000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/OGG/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2001%20Ki.ogg</location>
+			<title>Ki</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Minecraft%20%28PC%2C%20iOS%2C%20Android%2C%20XBOX%2C%20etc%29%20OST/Album/Minecraft_-_Volume_Beta/OGG/cover.jpg</image>
+			<duration>92000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+	</extension>
+</playlist>
