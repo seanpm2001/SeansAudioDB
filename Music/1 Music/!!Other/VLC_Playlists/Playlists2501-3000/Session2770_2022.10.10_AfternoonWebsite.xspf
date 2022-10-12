@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Team%20Fortress%202/TF2%20Voicelines/MP3/Soldier-voicelines.mp3</location>
+			<title>Soldier-voicelines.mp3</title>
+			<creator>Valve / Team Fortress 2</creator>
+			<album>Soldier voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All voicelines from the Soldier in Team Fortress 2. Nearly 21 minutes of audio.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20_%20Team%20Fortress%202/Soldier%20voicelines/art.png</image>
+			<duration>1256847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Team%20Fortress%202/TF2%20Voicelines/MP3/Scout-voicelines.mp3</location>
+			<title>Scout-voicelines.mp3</title>
+			<creator>Valve / Team Fortress 2</creator>
+			<album>Scout voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All voicelines from the Scout from Team Fortress 2. Nearly 13 minutes of audio.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20_%20Team%20Fortress%202/Scout%20voicelines/art.png</image>
+			<duration>772245</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Team%20Fortress%202/TF2%20Voicelines/MP3/Engineer-voicelines.mp3</location>
+			<title>Engineer-voicelines.mp3</title>
+			<creator>Valve / Team Fortress 2</creator>
+			<album>Engineer voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All Engineer voicelines from Team Fortress 2. Nearly 14 minutes of audio</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20_%20Team%20Fortress%202/Engineer%20voicelines/art.png</image>
+			<duration>824700</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/PepsiMan/(NoVideo)PepsiMan.webm</location>
+			<duration>51361</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ronald%20McDonald%20insanity/MP3/Ronald-McDonald-insanity.mp3</location>
+			<title>Ronald-McDonald-insanity.mp3</title>
+			<creator>McDonald&#39;s Japan</creator>
+			<album>Ronald McDonald Insanity</album>
+			<trackNum>1</trackNum>
+			<annotation>Ronald McDonald goes completely insane in Japan between 2004 and 2007</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/McDonald%27s%20Japan/Ronald%20McDonald%20Insanity/art.jpg</image>
+			<duration>318338</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
