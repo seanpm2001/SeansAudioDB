@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/Album/AIFF/Romain%20G%20-%20Happy%20Street/Romain%20G%20-%20Happy%20Street%20-%2001%20Happy%20Street.aiff</location>
+			<title>Happy Street</title>
+			<creator>Romain G</creator>
+			<album>Happy Street</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/Happy%20Street/art.jpg</image>
+			<duration>93259</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/Album/AIFF/Romain%20G%20-%20Happy%20Street/Romain%20G%20-%20Happy%20Street%20-%2002%20Main%20Street.aiff</location>
+			<title>Main Street</title>
+			<creator>Romain G</creator>
+			<album>Happy Street</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/Happy%20Street/art.jpg</image>
+			<duration>257142</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/Album/AIFF/Romain%20G%20-%20Happy%20Street/Romain%20G%20-%20Happy%20Street%20-%2004%20Sleepy%20Street.aiff</location>
+			<title>Sleepy Street</title>
+			<creator>Romain G</creator>
+			<album>Happy Street</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/Happy%20Street/art.jpg</image>
+			<duration>176245</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/Album/AIFF/Romain%20G%20-%20Happy%20Street/Romain%20G%20-%20Happy%20Street%20-%2005%20New%20Street.aiff</location>
+			<title>New Street</title>
+			<creator>Romain G</creator>
+			<album>Happy Street</album>
+			<trackNum>5</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/Happy%20Street/art.jpg</image>
+			<duration>214793</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/Album/AIFF/Romain%20G%20-%20Happy%20Street/Romain%20G%20-%20Happy%20Street%20-%2006%20Beeeh!.aiff</location>
+			<title>Beeeh!</title>
+			<creator>Romain G</creator>
+			<album>Happy Street</album>
+			<trackNum>6</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/Happy%20Street/art.jpg</image>
+			<duration>939</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Happy%20Street%20OST/Album/AIFF/Romain%20G%20-%20Happy%20Street/Romain%20G%20-%20Happy%20Street%20-%2003%20Party%20Street.aiff</location>
+			<title>Party Street</title>
+			<creator>Romain G</creator>
+			<album>Happy Street</album>
+			<trackNum>3</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/Happy%20Street/art.jpg</image>
+			<duration>93410</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Team%20Fortress%202/TF2%20Voicelines/MP3/Demoman-voicelines.mp3</location>
+			<title>Demoman-voicelines.mp3</title>
+			<creator>Valve / Team Fortress 2</creator>
+			<album>Demoman voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All voicelines of the Demoman from Team Fortress 2. Over 15 minutes of audio.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20_%20Team%20Fortress%202/Demoman%20voicelines/art.png</image>
+			<duration>922842</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Team%20Fortress%202/TF2%20Voicelines/MP3/Sniper-voicelines.mp3</location>
+			<title>Sniper-voicelines.mp3</title>
+			<creator>Valve / Team Fortress 2</creator>
+			<album>Sniper voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All the voicelines of the Sniper from Team Fortress 2. Over 18 minutes of audio.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20_%20Team%20Fortress%202/Sniper%20voicelines/art.png</image>
+			<duration>1089879</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Team%20Fortress%202/TF2%20Voicelines/MP3/Spy-voicelines.mp3</location>
+			<title>Spy-voicelines.mp3</title>
+			<creator>Valve / Team Fortress 2</creator>
+			<album>Spy voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All the voicelines from the Spy in Team Fortress 2. Over 15 and a half minutes of audio.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20_%20Team%20Fortress%202/Spy%20voicelines/art.png</image>
+			<duration>936687</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Team%20Fortress%202/TF2%20Voicelines/MP3/Medic-voicelines.mp3</location>
+			<title>Medic-voicelines.mp3</title>
+			<creator>Valve / Team Fortress 2</creator>
+			<album>Medic voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All the voicelines from the Medic in Team Fortress 2. Over 15 minutes of audio.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20_%20Team%20Fortress%202/Medic%20voicelines/art.png</image>
+			<duration>924958</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/3%20Sound%20Effects/Team%20Fortress%202/TF2%20Voicelines/MP3/Pyro-voicelines.mp3</location>
+			<title>Pyro-voicelines.mp3</title>
+			<creator>Valve / Team Fortress 2</creator>
+			<album>Pyro voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>Pyro voicelines from Team Fortress 2. Nearly 4 minutes of muffled audio.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20_%20Team%20Fortress%202/Pyro%20voicelines/art.jpg</image>
+			<duration>231036</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Alan%20walker/MP3/Alan-Walker_Spectre.mp3</location>
+			<title>Alan-Walker_Spectre.mp3</title>
+			<creator>Alan Walker</creator>
+			<album>Spectre</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Spectre&quot; by the artist &quot;Alan Walker&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Alan%20Walker/Spectre/art.jpg</image>
+			<duration>226021</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Alan%20walker/MP3/Alan-Walker_Fade.mp3</location>
+			<title>Alan-Walker_Fade.mp3</title>
+			<creator>Alan Walker</creator>
+			<album>Fade</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Fade&quot; by the artist &quot;Alan Walker&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Alan%20Walker/Fade/art.jpg</image>
+			<duration>260058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+	</extension>
+</playlist>
