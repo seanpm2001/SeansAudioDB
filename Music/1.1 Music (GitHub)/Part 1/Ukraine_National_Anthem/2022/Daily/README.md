@@ -8,7 +8,8 @@ I know I should have started this much earlier if I were to do it all, but I am 
 - [x] Day 1: 2022, October 10th
 - [x] Day 2: 2022, October 11th
 - [x] Day 3: 2022, October 12th
-- [ ] Day 4 (coming soon)
+- [x] Day 4: 2022, October 13th
+- [ ] Day 5 (coming soon)
 
 ***
 
@@ -18,9 +19,9 @@ I know I should have started this much earlier if I were to do it all, but I am 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Wednesday, October 12th at 11:10 pm PST)`
+**File version:** `2 (2022, Thursday, October 13th at 10:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `61`
+**Line count (including blank lines and compiler line):** `076`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -48,12 +49,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 - [x] Started the file
 - [x] Added the title section
-- [x] Added the amain list
+- [x] Added the main list
 - [x] Added the file info section
 - [x] Added the changelog
 - [ ] No other changes in version 1
 
 </details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Thursday, October 13th at 10:28 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main list
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 2
+
+</details>
+
 
 </details>
 
