@@ -5,13 +5,16 @@
 
 I know I should have started this much earlier if I were to do it all, but I am doing it now.
 
+To clarify: I am requiring myself to listen to a variation of the Ukraine anthem at least once per day. It isn't the only thing I listen to each day. The variety remains the same. I also expect that the end of this war may be years away, so this is a long term goal.
+
 - [x] 🇺🇦️ Day 1: 2022, October 10th
 - [x] 🇺🇦️ Day 2: 2022, October 11th
 - [x] 🇺🇦️ Day 3: 2022, October 12th
 - [x] 🇺🇦️ Day 4: 2022, October 13th
 - [x] 🇺🇦️ Day 5: 2022, October 14th
 - [x] 🇺🇦️ Day 6: 2022, October 15th
-- [ ] Day 7 (coming soon)
+- [x] 🇺🇦️ Day 7: 2022, October 16th
+- [ ] Day 8 (coming soon)
 
 ***
 
@@ -21,9 +24,9 @@ I know I should have started this much earlier if I were to do it all, but I am 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2022, Saturday, October 15th at 8:03 pm PST)`
+**File version:** `5 (2022, Sunday, October 16th at 9:31 pm PST)`
 
-**Line count (including blank lines and compiler line):** `089`
+**Line count (including blank lines and compiler line):** `120`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -94,6 +97,20 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p lang="en"><b>Version 5 (2022, Sunday, October 16th at 9:31 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Added some clarifications to the header
+- [x] Updated the main list to include an entry for 2022 October 16th
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 5
 
 </details>
 
