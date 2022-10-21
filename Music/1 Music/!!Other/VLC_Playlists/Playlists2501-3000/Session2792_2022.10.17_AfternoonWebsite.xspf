@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/AudioOnly/Half-Life%20Menu%20Music%20(PS2%20Version).mp3</location>
+			<title>Half-Life Menu Music (PS2 Version)</title>
+			<creator>Ben Houge</creator>
+			<album>Half-Life (Playstation 2)</album>
+			<annotation>                              </annotation>
+			<duration>53750</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/AudioOnly/Track%2012.flac</location>
+			<title>Alien Shock</title>
+			<creator>Kelly Bailey</creator>
+			<album>Half-Life Original Soundtrack</album>
+			<trackNum>12</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kelly%20Bailey/Half-Life%20Original%20Soundtrack/art.jpg</image>
+			<duration>36240</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/AudioOnly/Track%2017.flac</location>
+			<title>Hard Technology Rock</title>
+			<creator>Kelly Bailey</creator>
+			<album>Half-Life Original Soundtrack</album>
+			<trackNum>17</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kelly%20Bailey/Half-Life%20Original%20Soundtrack/art.jpg</image>
+			<duration>100385</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/AudioOnly/Track%2005.flac</location>
+			<title>Zero Point Energy Field (Cavern Ambience)</title>
+			<creator>Kelly Bailey</creator>
+			<album>Half-Life Original Soundtrack</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kelly%20Bailey/Half-Life%20Original%20Soundtrack/art.jpg</image>
+			<duration>99945</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/AudioOnly/Track%2003.flac</location>
+			<title>Klaxon Beat</title>
+			<creator>Kelly Bailey</creator>
+			<album>Half-Life Original Soundtrack</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kelly%20Bailey/Half-Life%20Original%20Soundtrack/art.jpg</image>
+			<duration>60105</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Half%20Life%201%20OST/AudioOnly/Track%2020.flac</location>
+			<title>Dirac Shore (Dimensionless Deepness)</title>
+			<creator>Kelly Bailey</creator>
+			<album>Half-Life Original Soundtrack</album>
+			<trackNum>20</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kelly%20Bailey/Half-Life%20Original%20Soundtrack/art.jpg</image>
+			<duration>84545</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song1.mp3</location>
+			<title>Virtual_City_Playground_OST_Song1.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>63512</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song2.mp3</location>
+			<title>Virtual_City_Playground_OST_Song2.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>133546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song3.mp3</location>
+			<title>Virtual_City_Playground_OST_Song3.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>136864</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
