@@ -17,7 +17,10 @@ Even after the war ends, I will still listen to the anthem from time to time.
 - [x] 🇺🇦️ Day 6: 2022, October 15th
 - [x] 🇺🇦️ Day 7: 2022, October 16th
 - [x] 🇺🇦️ Day 8: 2022, October 17th
-- [ ] Day 9 (coming soon)
+- [x] 🇺🇦️ Day 9: 2022, October 18th
+- [x] 🇺🇦️ Day 10: 2022, October 19th
+- [x] 🇺🇦️ Day 11: 2022, October 20th
+- [ ] Day 12 (coming soon)
 
 ***
 
@@ -27,9 +30,9 @@ Even after the war ends, I will still listen to the anthem from time to time.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2022, Monday, October 17th at 10:34 pm PST)`
+**File version:** `7 (2022, Thursday, October 20th at 8:41 pm PST)`
 
-**Line count (including blank lines and compiler line):** `136`
+**Line count (including blank lines and compiler line):** `152`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -127,6 +130,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 6
+
+</details>
+
+<details><summary><p lang="en"><b>Version 7 (2022, Thursday, October 20th at 8:41 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2022 October 18th, 2022, October 19th, and 2022 October 20th (there was a little delay, as I have been struggling with my workload lately)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 7
 
 </details>
 
