@@ -18,6 +18,8 @@ The following 6 audio files are applicable:
 | `National_anthem_of_Ukraine,_instrumental.oga.ogx` | **Location:** `///1 Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx` |
 | `Ukrainian_national_anthem_1916_(complete).ogg` | **location:** `///1 Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg` |
 
+<!-- TODO: Make these into functional links, the right side will be the link, the left side will be plain text !-->
+
 Even after the war ends, I will still listen to the anthem from time to time.
 
 - [x] 🇺🇦️ Day 1: 2022, October 10th
@@ -35,7 +37,8 @@ Even after the war ends, I will still listen to the anthem from time to time.
 - [x] 🇺🇦️ Day 13: 2022, October 22nd
 - [x] 🇺🇦️ Day 14: 2022, October 23rd
 - [x] 🇺🇦️ Day 15: 2022, October 24th
-- [ ] Day 16 (coming soon)
+- [x] 🇺🇦️ Day 16: 2022, October 25th
+- [ ] Day 17 (coming soon)
 
 ***
 
@@ -45,9 +48,9 @@ Even after the war ends, I will still listen to the anthem from time to time.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (2022, Monday, October 24th at 6:54 pm PST)`
+**File version:** `11 (2022, Tuesday, October 25th at 8:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `207`
+**Line count (including blank lines and compiler line):** `223`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -198,6 +201,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 10
+
+</details>
+
+<details><summary><p lang="en"><b>Version 11 (2022, Tuesday, October 25th at 8:25 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2022, October 25th (day 16)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 11
 
 </details>
 
