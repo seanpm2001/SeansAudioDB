@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Madonna%20-%20Ray%20of%20light/MP3/Madonna_Ray-of-light.mp3</location>
+			<title>Madonna_Ray-of-light.mp3</title>
+			<creator>Madonna</creator>
+			<album>Ray of Light</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Ray of light&quot; by the artist Madonna.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Madonna/Ray%20of%20Light/art.jpg</image>
+			<duration>306949</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Geometry%20dash%20series/Geometry%20Dash/MP3/Geometry-Dash_Full-OST.mp3</location>
+			<title>Geometry-Dash_Full-OST.mp3</title>
+			<creator>RobTop Games</creator>
+			<album>Geometry Dash Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The full soundtrack for the game &quot;Geometry Dash&quot; by RobTop Games.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/RobTop%20Games/Geometry%20Dash%20Soundtrack/art.png</image>
+			<duration>3620027</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Pink%20guy/PINK%20GUY%20-%20HELP%20(128%20%20kbps).mp3</location>
+			<duration>164992</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Supercell%20series/Clash%20of%20Clans/Clash%20of%20Clans%20Builder%20Base%20Music/Clash%20of%20Clans%20Builder%20Base%20Music/Builder%20Base%20-%20Night%20Attacking.mp3</location>
+			<title>Builder Base - Night Attacking</title>
+			<creator>Supercell</creator>
+			<album>Supercell</album>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Supercell/Supercell/art</image>
+			<duration>185104</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Supercell%20series/Clash%20of%20Clans/Clash%20of%20Clans%20Builder%20Base%20Music/Clash%20of%20Clans%20Builder%20Base%20Music/Builder%20Base%20-%20Village%20Music%20Part%201.mp3</location>
+			<title>Builder Base - Village Music Part 1</title>
+			<creator>Supercell</creator>
+			<album>Supercell</album>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Supercell/Supercell/art</image>
+			<duration>128314</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Supercell%20series/Clash%20of%20Clans/Clash%20of%20Clans%20Builder%20Base%20Music/Clash%20of%20Clans%20Builder%20Base%20Music/Builder%20Base%20-%20Village%20Music%20Part%202.mp3</location>
+			<title>Builder Base - Village Music Part 2</title>
+			<creator>Supercell</creator>
+			<album>Supercell</album>
+			<duration>205088</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
