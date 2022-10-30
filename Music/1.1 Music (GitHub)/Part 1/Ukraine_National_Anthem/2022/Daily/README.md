@@ -41,7 +41,8 @@ Even after the war ends, I will still listen to the anthem from time to time.
 - [x] 🇺🇦️ Day 17: 2022, October 26th
 - [x] 🇺🇦️ Day 18: 2022, October 27th
 - [x] 🇺🇦️ Day 19: 2022, October 28th
-- [ ] Day 20 (coming soon)
+- [x] 🇺🇦️ Day 20: 2022, October 29th
+- [ ] Day 21 (coming soon)
 
 ***
 
@@ -51,9 +52,9 @@ Even after the war ends, I will still listen to the anthem from time to time.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2022, Friday, October 28th at 10:08 pm PST)`
+**File version:** `15 (2022, Saturday, October 29th at 7:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `265`
+**Line count (including blank lines and compiler line):** `279`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -256,6 +257,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 14
+
+</details>
+
+<details><summary><p lang="en"><b>Version 15 (2022, Saturday, October 29th at 7:57 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2022, October 29th (day 20)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 15
 
 </details>
 
