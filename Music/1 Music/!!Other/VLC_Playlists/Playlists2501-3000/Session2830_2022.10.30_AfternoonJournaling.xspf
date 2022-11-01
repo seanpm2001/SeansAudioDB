@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Gangnam%20Style/MP3/Psy-GangnamStyle.mp3</location>
+			<title>Psy-GangnamStyle.mp3</title>
+			<creator>Psy</creator>
+			<album>Gangnam Style</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Psy/Gangnam%20Style/art.jpg</image>
+			<duration>252222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Castle%20Theme%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<title>Castle Theme - New Super Mario Bros..mp3</title>
+			<creator>Nintendo</creator>
+			<album>New Super Mario Bros. (DS) soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>The castle stage theme for New Super Mario Bros. (DS) not to be confused with the Fortress stage theme.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/New%20Super%20Mario%20Bros.%20%28DS%29%20soundtrack/art.jpg</image>
+			<duration>98856</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Chapter_1/AudioOnly/Album/AIFF/Laura%20Shigihara%20-%20DELTARUNE%20Chapter%201%20OST%20-%2039%20Don&#39;t%20Forget.aiff</location>
+			<title>Don&#39;t Forget</title>
+			<creator>Laura Shigihara</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>39</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>51424</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Chapter_1/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%201%20OST%20-%2004%20Susie.aiff</location>
+			<title>Susie</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>27428</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Chapter_1/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%201%20OST%20-%2031%20Darkness%20Falls.aiff</location>
+			<title>Darkness Falls</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>31</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>66976</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Chapter_2/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2041%20Dialtone.aiff</location>
+			<title>Dialtone</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>41</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>44307</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Chapter_2/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2038%20Deal%20Gone%20Wrong.aiff</location>
+			<title>Deal Gone Wrong</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>38</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>31326</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
