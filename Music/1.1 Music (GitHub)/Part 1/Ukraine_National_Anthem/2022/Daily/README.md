@@ -11,12 +11,12 @@ The following 6 audio files are applicable:
 
 | **🇺🇦️** | **📂️** |
 |---|---|
-| `Marcus_Paus_'Slava Ukraini'_for_viola_solo.ogg` | **Location:** [`///1.1 Music (GitHub)/Part 1/Slava_Ukraini!/AudioOnly/Viola_Solo/OGG/Marcus_Paus_'Slava Ukraini'_for_viola_solo.ogg`](/Music/1.1%20Music%20(GitHub)/Part%201/Slava_Ukraini!/AudioOnly/Viola_Solo/OGG/Marcus_Paus_'Slava Ukraini'_for_viola_solo.ogg) |
-| `Marcus_Paus_'Slava Ukraini'_for_viola_solo.mp3` | **Location:** [`///1.1 Music (GitHub)/Part 1/Slava_Ukraini!/AudioOnly/Viola_Solo/MP3/Marcus_Paus_'Slava Ukraini'_for_viola_solo.mp3`](/Music/1.1%20Music%20(GitHub)/Part%201/Slava_Ukraini!/AudioOnly/Viola_Solo/MP3/Marcus_Paus_'Slava Ukraini'_for_viola_solo.mp3) |
+| `Marcus_Paus_'Slava Ukraini'_for_viola_solo.ogg` | **Location:** [`///1.1 Music (GitHub)/Part 1/Slava_Ukraini!/AudioOnly/Viola_Solo/OGG/Marcus_Paus_'Slava Ukraini'_for_viola_solo.ogg`](/Music/1.1%20Music%20(GitHub)/Part%201/Slava_Ukraini!/AudioOnly/Viola_Solo/OGG/Marcus_Paus_%91Slava Ukraini%91_for_viola_solo.ogg) |
+| `Marcus_Paus_'Slava Ukraini'_for_viola_solo.mp3` | **Location:** [`///1.1 Music (GitHub)/Part 1/Slava_Ukraini!/AudioOnly/Viola_Solo/MP3/Marcus_Paus_'Slava Ukraini'_for_viola_solo.mp3`](/Music/1.1%20Music%20(GitHub)/Part%201/Slava_Ukraini!/AudioOnly/Viola_Solo/MP3/Marcus_Paus_%91Slava Ukraini%91_for_viola_solo.mp3) |
 | `Marcus_Paus_'Slava Ukraini'.mp3` | **Location:** [`///1.1 Music (GitHub)/Part 1/Slava_Ukraini!/AudioOnly/MP3/Slava_Ukraini!.mp3`](/Music/1.1%20Music%20(GitHub)/Part%201/Slava_Ukraini!/AudioOnly/MP3/Slava_Ukraini!.mp3) |
 | `Marcus_Paus_'Slava Ukraini'.ogg` | **Location:** [`///1.1 Music (GitHub)/Part 1/Slava_Ukraini!/AudioOnly/OGG/Slava_Ukraini!.ogg`](/Music/1.1%20Music%20(GitHub)/Part%201/Slava_Ukraini!/AudioOnly/OGG/Slava_Ukraini!.ogg) |
-| `National_anthem_of_Ukraine,_instrumental.oga.ogx` | **Location:** [`///1 Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx`](`/Music/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx) |
-| `Ukrainian_national_anthem_1916_(complete).ogg` | **location:** [`///1 Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg`](/Music/1 Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg) |
+| `National_anthem_of_Ukraine,_instrumental.oga.ogx` | **Location:** [`///1 Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx`](/Music/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx) |
+| `Ukrainian_national_anthem_1916_(complete).ogg` | **Location:** [`///1 Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg`](/Music/1%20Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg) |
 
 <!-- TODO: Make these into functional links, the right side will be the link, the left side will be plain text !-->
 <!-- IN PROGRESS: I can't ensure these links work with the GitHub source code editor, so I will have to publish to find out - 2022, November 2nd !-->
@@ -57,9 +57,9 @@ Even after the war ends, I will still listen to the anthem from time to time.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `19 (2022, Wednesday, November 2nd at 2:39 pm PST)`
+**File version:** `20 (2022, Wednesday, November 2nd at 2:50 pm PST)`
 
-**Line count (including blank lines and compiler line):** `337`
+**Line count (including blank lines and compiler line):** `350`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -328,6 +328,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 19
+
+</details>
+
+<details><summary><p lang="en"><b>Version 20 (2022, Wednesday, November 2nd at 2:50 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table to try and attempt local links to the 6 songs (attempt 2)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 20
 
 </details>
 
