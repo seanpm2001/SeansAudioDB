@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rick%20and%20Morty%20-%20Human%20Music/Human%20Music.mp4</location>
+			<duration>40078</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rick%20and%20Morty%20-%20Human%20Music/Rick%20and%20Morty%20-%20Human%20music.mp4</location>
+			<duration>17950</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Wings%20to%20fly/English/MP3/Wings-to-Fly_Hayley-Westenra-(%E7%BF%BC%E3%82%92%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84).mp3</location>
+			<title>Wings-to-Fly_Hayley-Westenra-(翼をください).mp3</title>
+			<creator>Hayley Westenra</creator>
+			<album>Wings to fly</album>
+			<trackNum>1</trackNum>
+			<annotation>An English cover of the song &quot;Wings to fly&quot; by Hayley Westenra. I cannot determine the date for this version, so I am dating it to the songs origin year (1970)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Hayley%20Westenra/Wings%20to%20fly/art.png</image>
+			<duration>327925</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Troll/MP3/Troll-Song.mp3</location>
+			<title>Troll-Song.mp3</title>
+			<creator>Eduard Khil</creator>
+			<album>Troll Song</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Eduard%20Khil/Troll%20Song/art.png</image>
+			<duration>161367</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
