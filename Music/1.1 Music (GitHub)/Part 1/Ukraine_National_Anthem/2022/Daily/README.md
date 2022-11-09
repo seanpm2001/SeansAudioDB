@@ -9,6 +9,8 @@ To clarify: I am requiring myself to listen to a variation of the Ukraine anthem
 
 The following 6 audio files are applicable:
 
+[`See the following issue about this table: #38`](https://github.com/seanpm2001/SeansAudioDB/issues/38/)
+
 | **🇺🇦️** | **📂️** |
 |---|---|
 | `Marcus_Paus_'Slava Ukraini'_for_viola_solo.mp3` | **Location:** [`///1.1 Music (GitHub)/Part 1/Slava_Ukraini!/AudioOnly/Viola_Solo/OGG/Marcus_Paus_'Slava Ukraini'_for_viola_solo.ogg`](/Music//1.1%20Music%20(GitHub)/Part%201/Slava_Ukraini%33/AudioOnly/Viola_Solo/OGG/Marcus_Paus_'Slava Ukraini'_for_viola_solo.ogg) |
@@ -52,7 +54,8 @@ Even after the war ends, I will still listen to the anthem from time to time.
 - [x] 🇺🇦️ Day 27: 2022, November 5th
 - [x] 🇺🇦️ Day 28: 2022, November 6th
 - [x] 🇺🇦️ Day 29: 2022, November 7th
-- [ ] Day 30 (coming soon)
+- [x] 🇺🇦️ Day 30: 2022, November 8th
+- [ ] Day 31 (coming soon)
 
 ***
 
@@ -62,9 +65,9 @@ Even after the war ends, I will still listen to the anthem from time to time.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `24 (2022, Monday, November 7th at 7:55 pm PST)`
+**File version:** `25 (2022, Tuesday, November 8th at 7:53 pm PST)`
 
-**Line count (including blank lines and compiler line):** `410`
+**Line count (including blank lines and compiler line):** `427`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -401,6 +404,20 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 24
+
+</details>
+
+<details><summary><p lang="en"><b>Version 25 (2022, Tuesday, November 8th at 7:53 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2022, November 8th (day 30)
+- [x] Added a link above the table about the ongoing table formatting issue
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 25
 
 </details>
 
