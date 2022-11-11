@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/MenAtWork/MP3/MenAtWork-DownUnder.mp3</location>
+			<title>MenAtWork-DownUnder.mp3</title>
+			<creator>MenAtWork</creator>
+			<album>Land Down Under</album>
+			<trackNum>1</trackNum>
+			<annotation>Down under? More like 6 feet down under. - Engineer (Team Fortress 2)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/MenAtWork/Land%20Down%20Under/art.jpg</image>
+			<duration>221606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20The%20Art%20of%20War.mp3</location>
+			<duration>137431</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20Dreams%20of%20Cruelty.mp3</location>
+			<duration>65959</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20Archimedes.mp3</location>
+			<duration>244978</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20Drunken%20Pipe%20Bomb.mp3</location>
+			<duration>91037</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Team%20Fortress%202(PC,%20XBOX,%20PS3.etc)%20OST/Raw%20Audio/MP3/Team%20Fortress%202%20Soundtrack%20_%20Dapper%20Cadaver.mp3</location>
+			<duration>117839</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
