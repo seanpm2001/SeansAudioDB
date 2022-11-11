@@ -55,7 +55,9 @@ Even after the war ends, I will still listen to the anthem from time to time.
 - [x] 🇺🇦️ Day 28: 2022, November 6th
 - [x] 🇺🇦️ Day 29: 2022, November 7th
 - [x] 🇺🇦️ Day 30: 2022, November 8th
-- [ ] Day 31 (coming soon)
+- [x] 🇺🇦️ Day 31: 2022, November 9th
+- [x] 🇺🇦️ Day 32: 2022, November 10th
+- [ ] Day 33 (coming soon)
 
 ***
 
@@ -65,9 +67,9 @@ Even after the war ends, I will still listen to the anthem from time to time.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `25 (2022, Tuesday, November 8th at 7:53 pm PST)`
+**File version:** `26 (2022, Thursday, November 9th at 7:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `427`
+**Line count (including blank lines and compiler line):** `442`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -418,6 +420,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 25
+
+</details>
+
+<details><summary><p lang="en"><b>Version 26 (2022, Thursday, November 10th at 7:37 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2022, November 9th (day 31) and 2022, November 10th (day 32)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 26
 
 </details>
 
