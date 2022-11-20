@@ -65,7 +65,8 @@ Even after the war ends, I will still listen to the anthem from time to time.
 - [x] 🇺🇦️ Day 38: 2022, November 16th
 - [x] 🇺🇦️ Day 39: 2022, November 17th
 - [x] 🇺🇦️ Day 40: 2022, November 18th
-- [ ] Day 41 (coming soon)
+- [x] 🇺🇦️ Day 41: 2022, November 19th
+- [ ] Day 42 (coming soon)
 
 ***
 
@@ -75,9 +76,9 @@ Even after the war ends, I will still listen to the anthem from time to time.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `34 (2022, Friday, November 18th at 7:29 pm PST)`
+**File version:** `35 (2022, Saturday, November 19th at 5:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `554`
+**Line count (including blank lines and compiler line):** `568`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -522,7 +523,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><p lang="en"><b>Version 33 (2022, Wednesday, November 17th at 6:07 pm PST)</b></p></summary>
+<details><summary><p lang="en"><b>Version 33 (2022, Thursday, November 17th at 6:07 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -535,7 +536,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><p lang="en"><b>Version 34 (2022, Thursday, November 18th at 7:29 pm PST)</b></p></summary>
+<details><summary><p lang="en"><b>Version 34 (2022, Friday, November 18th at 7:29 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -545,6 +546,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 34
+
+</details>
+
+<details><summary><p lang="en"><b>Version 35 (2022, Saturday, November 19th at 5:54 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2022, November 19th (day 41)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 35
 
 </details>
 
