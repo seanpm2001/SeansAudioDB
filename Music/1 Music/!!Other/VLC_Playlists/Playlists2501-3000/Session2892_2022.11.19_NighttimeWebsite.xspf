@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Ultimate%20Battle%20Mashup/MP3/ultimate%20battle%20mashup%20collection.mp3</location>
+			<title>ultimate battle mashup collection.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 Ultimate battle mashup comp</album>
+			<trackNum>1</trackNum>
+			<annotation>A compilation of mashups of the Ultimate Battle themes from the game Plants Vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20Ultimate%20battle%20mashup%20comp/art.png</image>
+			<duration>9896392</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Demonstration%20Minigame%20Mashup/MP3/demo%20minigame%20mashup%20collection.mp3</location>
+			<title>demo minigame mashup collection.mp3</title>
+			<creator>Popcap Games/EA</creator>
+			<album>Plants vs. Zombies 2 Demo Minigame mashup (remix compilation)</album>
+			<trackNum>1</trackNum>
+			<annotation>A compilation of mashups of the Demonstration Minigame themes from the game Plants Vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Popcap%20Games_EA/Plants%20vs.%20Zombies%202%20Demo%20Minigame%20mashup%20%28remix%20compilation%29/art.png</image>
+			<duration>7525996</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
