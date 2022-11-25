@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Guajira-guantanamera/MP3/Guajira-guantanamera.mp3</location>
+			<title>Guajira-guantanamera.mp3</title>
+			<creator>Guajira-guantanamera</creator>
+			<album>Guantanamera</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Guantanamera by Guajira. A popular Cuban song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Guajira-guantanamera/Guantanamera/art.jpg</image>
+			<duration>312095</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/1000%20miles/MP3/Vanessa-Carlton_1000-miles.mp3</location>
+			<title>Vanessa-Carlton_1000-miles.mp3</title>
+			<creator>Vanessa Carlton</creator>
+			<album>1000 miles</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Vanessa%20Carlton/1000%20miles/art.jpg</image>
+			<duration>268757</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Apandah/MP3/inbirth-Sweet-Tooth-(Apandah%E2%80%99s-Outro).mp3</location>
+			<title>inbirth-Sweet-Tooth-(Apandah’s-Outro).mp3</title>
+			<creator>Inbirth</creator>
+			<album>Sweet Tooth</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Sweet tooth&quot; by &quot;inbirth&quot; commonly used as the outro song in the YouTuber Apandah&#39;s videos.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Inbirth/Sweet%20Tooth/art.jpg</image>
+			<duration>121452</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Engineer%20Gaming/MP3/Engineer-Gaming.mp3</location>
+			<title>Engineer-Gaming.mp3</title>
+			<creator>Engineer Gaming</creator>
+			<album>Engineer Gaming</album>
+			<trackNum>1</trackNum>
+			<annotation>Engineer Gaming</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Engineer%20Gaming/Engineer%20Gaming/art.jpg</image>
+			<duration>169465</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rocket%20League%20OST/Remixes/New%20Rocket%20League%20Intro%20Music%20Got%20Me%20Like%20(FULL%20VERSION)-ar5oob5elZs.mkv</location>
+			<duration>192400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Vibing%20Cat/VideoWithAudio/Cat%20Vibing%20To%20Ievan%20Polkka%20(Official%20Video%20HD)%20Cat%20Vibing%20To%20Music%20_%20Cat%20Vibing%20Meme-NUYvbT6vTPs.mkv</location>
+			<duration>174939</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Discord/Ringtone/MP3/Discord-Incoming-Call-sound.mp3</location>
+			<title>Discord-Incoming-Call-sound.mp3</title>
+			<creator>Discord</creator>
+			<album>Incoming call sound</album>
+			<trackNum>1</trackNum>
+			<annotation>The incoming call sound on Discord.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Discord/Incoming%20call%20sound/art.png</image>
+			<duration>300679</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AngryGermanKid/Remixes/AGK%20Tylenol.mp4</location>
+			<duration>112292</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
