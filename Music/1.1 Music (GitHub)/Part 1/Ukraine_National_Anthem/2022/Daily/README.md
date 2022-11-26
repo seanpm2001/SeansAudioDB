@@ -71,7 +71,8 @@ Even after the war ends, I will still listen to the anthem from time to time.
 - [x] 🇺🇦️ Day 44: 2022, November 22nd
 - [x] 🇺🇦️ Day 45: 2022, November 23rd
 - [x] 🇺🇦️ Day 46: 2022, November 24th
-- [ ] Day 47 (coming soon)
+- [x] 🇺🇦️ Day 47: 2022, November 25th
+- [ ] Day 48 (coming soon)
 
 ***
 
@@ -81,9 +82,9 @@ Even after the war ends, I will still listen to the anthem from time to time.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `40 (2022, Thursday, November 24th at 8:02 pm PST)`
+**File version:** `41 (2022, Friday, November 25th at 7:50 pm PST)`
 
-**Line count (including blank lines and compiler line):** `638`
+**Line count (including blank lines and compiler line):** `652`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -629,6 +630,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 40
+
+</details>
+
+<details><summary><p lang="en"><b>Version 41 (2022, Friday, November 25th at 7:50 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2022, November 25th (day 47)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 41
 
 </details>
 
