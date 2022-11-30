@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Over%20the%20Horizon/Compilation/The%20Evolution%20of%20Over%20the%20Horizon%20(2011-2018)%20(Samsung%20Galaxy%20Theme).mp3</location>
+			<title>The Evolution of Over the Horizon (2011-2018) (Samsung Galaxy Theme)</title>
+			<creator>fjchuen</creator>
+			<album>The Evolution of Over the Horizon (2011-2018) (Samsung Galaxy Theme)</album>
+			<annotation>Download Youtube videos and MP3 on GenYoutube.net </annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/fjchuen/The%20Evolution%20of%20Over%20the%20Horizon%20%282011-2018%29%20%28Samsung%20Galaxy%20Theme%29/art.jpg</image>
+			<duration>1392606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Pet%20shop%20story/MP3/Pet-Shop-Story-Theme-Song.mp3</location>
+			<title>Pet-Shop-Story-Theme-Song.mp3</title>
+			<creator>Storm8 / TeamLava</creator>
+			<album>Pet Shop Story theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the mobile video game &quot;Pet Shop Story&quot; by the developer Storm8 / TeamLava</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Storm8%20_%20TeamLava/Pet%20Shop%20Story%20theme%20song/art.jpg</image>
+			<duration>190598</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sweden%20Anthem/MP3/United_States_Navy_Band_-_Sweden.mp3</location>
+			<title>United_States_Navy_Band_-_Sweden.mp3</title>
+			<creator>United States Navy Band</creator>
+			<album>Sweden National Anthem</album>
+			<trackNum>1</trackNum>
+			<annotation>The anthem of the Kingdom of Sweden, recomposed by the United States Navy.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/United%20States%20Navy%20Band/Sweden%20National%20Anthem/art.png</image>
+			<duration>87571</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
