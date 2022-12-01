@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Dumb%20Ways%20to%20Die/AudioOnly/MP3/Dumb-Ways-to-Die-Theme-song.mp3</location>
+			<title>Dumb-Ways-to-Die-Theme-song.mp3</title>
+			<creator>Metro Trains (Melbourne, Australia)</creator>
+			<album>Dumb Ways to Die</album>
+			<trackNum>2</trackNum>
+			<annotation>The song from the music video unlocked once you play Dumb Ways to die and get a score of 800, and after you agree to be safe around trains.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Metro%20Trains%20%28Melbourne%2C%20Australia%29/Dumb%20Ways%20to%20Die/art.jpg</image>
+			<duration>181952</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/TMNT4%20Big%20apple%203%20am/MP3/TMNT-4-SNES_BigApple3AM.mp3</location>
+			<title>TMNT-4-SNES_BigApple3AM.mp3</title>
+			<creator>Konami</creator>
+			<album>Teenage Mutant Ninja Turtles 4 Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Big Apple 3AM&quot; from the SNES game Teenage Mutant Ninja Turtles IV.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Teenage%20Mutant%20Ninja%20Turtles%204%20Soundtrack/art.jpg</image>
+			<duration>900481</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Titanic/MP3/Celine-Dion_My-heart-will-go-on.mp3</location>
+			<title>Celine-Dion_My-heart-will-go-on.mp3</title>
+			<creator>Celine Dion</creator>
+			<album>My heart will go on</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;My heart will go on&quot; by singer Celine Dion. Used in the Titanic movie from 1996.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Celine%20Dion/My%20heart%20will%20go%20on/art.jpg</image>
+			<duration>280486</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Titanic/MP3/Titanic-theme-song_Bad-recorder-remix.mp3</location>
+			<title>Titanic-theme-song_Bad-recorder-remix.mp3</title>
+			<creator>Shittyflute</creator>
+			<album>My heart will go on (Bad recorder remix)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;My heart will go on&quot; poorly played on a recorder for comedic value.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shittyflute/My%20heart%20will%20go%20on%20%28Bad%20recorder%20remix%29/art.jpg</image>
+			<duration>255983</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
