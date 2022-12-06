@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Christmas2022/Dr.Liz/MP3/Timeless%20Ways%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.mp3</location>
+			<title>Timeless Ways - Hilary Stagg - The Edge of Forever.mp3</title>
+			<creator>Hilary Stagg</creator>
+			<album>The Edge of Forever</album>
+			<trackNum>1</trackNum>
+			<annotation>Song 1 of 7 - Timeles Ways - Hilary Stagg - The Edge of Forever</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Hilary%20Stagg/The%20Edge%20of%20Forever/art.jpg</image>
+			<duration>376026</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Christmas2022/Dr.Liz/OGG/Timeless%20Ways%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.ogg</location>
+			<duration>375957</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Christmas2022/Dr.Liz/MP3/Inspirations%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.mp3</location>
+			<title>Inspirations - Hilary Stagg - The Edge of Forever.mp3</title>
+			<creator>Hilary Stagg</creator>
+			<album>The Edge of Forever</album>
+			<trackNum>2</trackNum>
+			<annotation>Song 2 of 7 - Inspirations - Hilary Stagg - The Edge of Forever</annotation>
+			<image>file:///home/seanpm2001/Desktop/Christmas2022/Cover.jpg</image>
+			<duration>394670</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Christmas2022/Dr.Liz/OGG/Inspirations%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.ogg</location>
+			<duration>394596</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Christmas2022/Dr.Liz/MP3/With%20Me%20Now%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.mp3</location>
+			<title>With Me Now - Hilary Stagg - The Edge of Forever.mp3</title>
+			<creator>Hilary Stagg</creator>
+			<album>The Edge of Forever</album>
+			<trackNum>3</trackNum>
+			<annotation>Song 3 of 7 - With Me Now - Hilary Stagg - The Edge of Forever</annotation>
+			<image>file:///home/seanpm2001/Desktop/Christmas2022/Cover.jpg</image>
+			<duration>276908</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Christmas2022/Dr.Liz/OGG/With%20Me%20Now%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.ogg</location>
+			<duration>276834</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Christmas2022/Dr.Liz/MP3/The%20End%20is%20the%20Beginning%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.mp3</location>
+			<title>The End is the Beginning - Hilary Stagg - The Edge of Forever.mp3</title>
+			<creator>HIlary Stagg</creator>
+			<album>The Edge of Forever</album>
+			<trackNum>4</trackNum>
+			<annotation>Song 4 of 7 - The End is the Beginning - Hilary Stagg - The Edge of Forever</annotation>
+			<image>file:///home/seanpm2001/Desktop/Christmas2022/Cover.jpg</image>
+			<duration>397915</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Christmas2022/Dr.Liz/OGG/The%20End%20is%20the%20Beginning%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.ogg</location>
+			<duration>397850</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Christmas2022/Dr.Liz/MP3/Prelude%20to%20love%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.mp3</location>
+			<title>Prelude to love - Hilary Stagg - The Edge of Forever.mp3</title>
+			<creator>Hilary Stagg</creator>
+			<album>The Edge of Forever</album>
+			<trackNum>5</trackNum>
+			<annotation>Song 5 of 7 - Prelude to love - Hilary Stagg - The Edge of Forever</annotation>
+			<image>file:///home/seanpm2001/Desktop/Christmas2022/Cover.jpg</image>
+			<duration>275210</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Christmas2022/Dr.Liz/OGG/Prelude%20to%20love%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.ogg</location>
+			<duration>275255</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Christmas2022/Dr.Liz/MP3/Simple%20and%20sweet%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.mp3</location>
+			<title>Simple and sweet - Hilary Stagg - The Edge of Forever.mp3</title>
+			<creator>Hilary Stagg</creator>
+			<album>The Edge of Forever</album>
+			<trackNum>6</trackNum>
+			<annotation>Song 6 of 7 - Simple and sweet - Hilary Stagg - The Edge of Forever</annotation>
+			<image>file:///home/seanpm2001/Desktop/Christmas2022/Cover.jpg</image>
+			<duration>500891</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Christmas2022/Dr.Liz/OGG/Simple%20and%20sweet%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.ogg</location>
+			<duration>500831</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Christmas2022/Dr.Liz/MP3/Forever%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.mp3</location>
+			<title>Forever - Hilary Stagg - The Edge of Forever.mp3</title>
+			<creator>Hilary Stagg</creator>
+			<album>The Edge of Forever</album>
+			<trackNum>7</trackNum>
+			<annotation>Song 7 of 7 - Forever - Hilary Stagg - The Edge of Forever</annotation>
+			<image>file:///home/seanpm2001/Desktop/Christmas2022/Cover.jpg</image>
+			<duration>676764</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/Christmas2022/Dr.Liz/OGG/Forever%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.ogg</location>
+			<duration>676702</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+	</extension>
+</playlist>
