@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_EasterEggs.mp3</location>
+			<title>AngryBirdsSeasons_EasterEggs.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>65549</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_PCVersion_HogsandKisses.mp3</location>
+			<title>AngryBirdsSeasons_PCVersion_HogsandKisses.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>88955</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_HogsandKisses.mp3</location>
+			<title>AngryBirdsSeasons_HogsandKisses.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>84436</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_MarieHamtoinette.mp3</location>
+			<title>AngryBirdsSeasons_MarieHamtoinette.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>86161</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_EasterEggs.mp3</location>
+			<title>AngryBirdsSeasons_EasterEggs.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>65549</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_BacktoSchool.mp3</location>
+			<title>AngryBirdsSeasons_BacktoSchool.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>82085</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_OriginalPiglantis.mp3</location>
+			<title>AngryBirdsSeasons_OriginalPiglantis.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>77748</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_CherryBlossom.mp3</location>
+			<title>AngryBirdsSeasons_CherryBlossom.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>72028</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bad%20piggies%20OST/Bad%20Piggies%20Soundtrack%20Bad%20Piggies%20Theme%20ABFT%20-%20YouTube.mp4</location>
+			<duration>160961</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
