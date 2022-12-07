@@ -3,11 +3,19 @@
 
 # Playing the anthem of Ukraine every day until the Russo-Ukrainian war ends
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the lead section]</b></p></summary>
+
 I know I should have started this much earlier if I were to do it all, but I am doing it now.
 
 To clarify: I am requiring myself to listen to a variation of the Ukraine anthem at least once per day. It isn't the only thing I listen to each day. The variety remains the same. I also expect that the end of this war may be years away, so this is a long term goal.
 
 The following 6 audio files are applicable:
+
+</details>
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the song table]</b></p></summary>
 
 [`See the following issue about this table: #38`](https://github.com/seanpm2001/SeansAudioDB/issues/38/)
 
@@ -23,7 +31,13 @@ The following 6 audio files are applicable:
 <!-- TODO: Make these into functional links, the right side will be the link, the left side will be plain text !-->
 <!-- IN PROGRESS: I can't ensure these links work with the GitHub source code editor, so I will have to publish to find out - 2022, November 2nd !-->
 
+</details>
+
+***
+
 Even after the war ends, I will still listen to the anthem from time to time.
+
+***
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section list]</b><p></summary>
 
@@ -84,7 +98,8 @@ Even after the war ends, I will still listen to the anthem from time to time.
 - [x] 🇺🇦️ Day 55: 2022, December 3rd
 - [x] 🇺🇦️ Day 56: 2022, December 4th
 - [x] 🇺🇦️ Day 57: 2022, December 5th
-- [ ] Day 58: 2022, December 6th (coming soon)
+- [x] 🇺🇦️ Day 58: 2022, December 6th
+- [ ] Day 59: 2022, December 7th (coming soon)
 
 </details>
 
@@ -130,6 +145,97 @@ _This list is currently a work in progress, and is not yet caught up_
 - [x] 🇺🇦️ Day 34: 2022, Tuesday, March 29th
 - [x] 🇺🇦️ Day 35: 2022, Wednesday, March 30th
 - [x] 🇺🇦️ Day 36: 2022, Thursday, March 31st
+- [x] 🇺🇦️ Day 37: 2022, Friday, April 1st
+- [x] 🇺🇦️ Day 38: 2022, Saturday, April 2nd
+- [x] 🇺🇦️ Day 39: 2022, Sunday, April 3rd
+- [x] 🇺🇦️ Day 40: 2022, Monday, April 4th
+- [x] 🇺🇦️ Day 41: 2022, Tuesday, April 5th
+- [x] 🇺🇦️ Day 42: 2022, Wednesday, April 6th
+- [x] 🇺🇦️ Day 43: 2022, Thursday, April 7th
+- [x] 🇺🇦️ Day 44: 2022, Friday, April 8th
+- [x] 🇺🇦️ Day 45: 2022, Saturday, April 9th
+- [x] 🇺🇦️ Day 46: 2022, Sunday, April 10th
+- [x] 🇺🇦️ Day 47: 2022, Monday, April 11th
+- [x] 🇺🇦️ Day 48: 2022, Tuesday, April 12th
+- [x] 🇺🇦️ Day 49: 2022, Wednesday, April 13th
+- [x] 🇺🇦️ Day 50: 2022, Thursday, April 14th
+- [x] 🇺🇦️ Day 51: 2022, Friday, April 15th
+- [x] 🇺🇦️ Day 52: 2022, Saturday, April 16th
+- [x] 🇺🇦️ Day 53: 2022, Sunday, April 17th
+- [x] 🇺🇦️ Day 54: 2022, Monday, April 18th
+- [x] 🇺🇦️ Day 55: 2022, Tuesday, April 19th
+- [x] 🇺🇦️ Day 56: 2022, Wednesday, April 20th
+- [x] 🇺🇦️ Day 57: 2022, Thursday, April 21st
+- [x] 🇺🇦️ Day 58: 2022, Friday, April 22nd
+- [x] 🇺🇦️ Day 59: 2022, Saturday, April 23rd
+- [x] 🇺🇦️ Day 60: 2022, Sunday, April 24th
+- [x] 🇺🇦️ Day 61: 2022, Sunday, April 25th
+- [x] 🇺🇦️ Day 62: 2022, Sunday, April 26th
+- [x] 🇺🇦️ Day 63: 2022, Sunday, April 27th
+- [x] 🇺🇦️ Day 64: 2022, Sunday, April 28th
+- [x] 🇺🇦️ Day 65: 2022, Sunday, April 29th
+- [x] 🇺🇦️ Day 66: 2022, Sunday, April 30th
+- [x] 🇺🇦️ Day 67: 2022, Monday, May 1st
+- [x] 🇺🇦️ Day 68: 2022, Tuesday, May 2nd
+- [x] 🇺🇦️ Day 69: 2022, Wednesday, May 3rd
+- [x] 🇺🇦️ Day 70: 2022, Thursday, May 4th
+- [x] 🇺🇦️ Day 71: 2022, Friday, May 5th
+- [x] 🇺🇦️ Day 72: 2022, Saturday, May 6th
+- [x] 🇺🇦️ Day 73: 2022, Sunday, May 7th
+- [x] 🇺🇦️ Day 74: 2022, Monday, May 8th
+- [x] 🇺🇦️ Day 75: 2022, Tuesday, May 9th
+- [x] 🇺🇦️ Day 76: 2022, Wednesday, May 10th
+- [x] 🇺🇦️ Day 77: 2022, Thursday, May 11th
+- [x] 🇺🇦️ Day 78: 2022, Friday, May 12th
+- [x] 🇺🇦️ Day 79: 2022, Saturday, May 13th
+- [x] 🇺🇦️ Day 80: 2022, Sunday, May 14th
+- [x] 🇺🇦️ Day 81: 2022, Monday, May 15th
+- [x] 🇺🇦️ Day 82: 2022, Tuesday, May 16th
+- [x] 🇺🇦️ Day 83: 2022, Wednesday, May 17th
+- [x] 🇺🇦️ Day 84: 2022, Thursday, May 18th
+- [x] 🇺🇦️ Day 85: 2022, Friday, May 19th
+- [x] 🇺🇦️ Day 86: 2022, Saturday, May 20th
+- [x] 🇺🇦️ Day 87: 2022, Sunday, May 21st
+- [x] 🇺🇦️ Day 88: 2022, Monday, May 22nd
+- [x] 🇺🇦️ Day 89: 2022, Tuesday, May 23rd
+- [x] 🇺🇦️ Day 90: 2022, Wednesday, May 24th
+- [x] 🇺🇦️ Day 91: 2022, Thursday, May 25th
+- [x] 🇺🇦️ Day 92: 2022, Friday, May 26th
+- [x] 🇺🇦️ Day 93: 2022, Saturday, May 27th
+- [x] 🇺🇦️ Day 94: 2022, Sunday, May 28th
+- [x] 🇺🇦️ Day 95: 2022, Monday, May 29th
+- [x] 🇺🇦️ Day 96: 2022, Tuesday, May 30th
+- [x] 🇺🇦️ Day 97: 2022, Wednesday, May 31st
+- [x] 🇺🇦️ Day 98: 2022, Thursday, June 1st
+- [x] 🇺🇦️ Day 99: 2022, Friday, June 2nd
+- [x] 🇺🇦️ Day 100: 2022, Saturday, June 3rd
+- [x] 🇺🇦️ Day 101: 2022, Sunday, June 4th
+- [x] 🇺🇦️ Day 102: 2022, Monday, June 5th
+- [x] 🇺🇦️ Day 103: 2022, Tuesday, June 6th
+- [x] 🇺🇦️ Day 104: 2022, Wednesday, June 7th
+- [x] 🇺🇦️ Day 105: 2022, Thursday, June 8th
+- [x] 🇺🇦️ Day 106: 2022, Friday, June 9th
+- [x] 🇺🇦️ Day 107: 2022, Saturday, June 10th
+- [x] 🇺🇦️ Day 108: 2022, Sunday, June 11th
+- [x] 🇺🇦️ Day 109: 2022, Monday, June 12th
+- [x] 🇺🇦️ Day 110: 2022, Tuesday, June 13th
+- [x] 🇺🇦️ Day 111: 2022, Wednesday, June 14th
+- [x] 🇺🇦️ Day 112: 2022, Thursday, June 15th
+- [x] 🇺🇦️ Day 113: 2022, Friday, June 16th
+- [x] 🇺🇦️ Day 114: 2022, Saturday, June 17th
+- [x] 🇺🇦️ Day 115: 2022, Sunday, June 18th
+- [x] 🇺🇦️ Day 116: 2022, Monday, June 19th
+- [x] 🇺🇦️ Day 117: 2022, Tuesday, June 20th
+- [x] 🇺🇦️ Day 118: 2022, Wednesday, June 21st
+- [x] 🇺🇦️ Day 119: 2022, Thursday, June 22nd
+- [x] 🇺🇦️ Day 120: 2022, Friday, June 23rd
+- [x] 🇺🇦️ Day 121: 2022, Saturday, June 24th
+- [x] 🇺🇦️ Day 122: 2022, Sunday, June 25th
+- [x] 🇺🇦️ Day 123: 2022, Monday, June 26th
+- [x] 🇺🇦️ Day 124: 2022, Tuesday, June 27th
+- [x] 🇺🇦️ Day 125: 2022, Wednesday, June 28th
+- [x] 🇺🇦️ Day 126: 2022, Thursday, June 29th
+- [x] 🇺🇦️ Day 127: 2022, Friday, June 30th
 
 **Todo:** Add 1 month (or more) of data per day. We are going to be here for a while anyways.
 
@@ -546,10 +652,349 @@ _This list is currently a work in progress, and is not yet caught up_
 - [x] 🇺🇦️ Day 403: 2015, March 29th
 - [x] 🇺🇦️ Day 404: 2015, March 30th
 - [x] 🇺🇦️ Day 405: 2015, March 31st
+- [x] 🇺🇦️ Day 406: 2015, April 1st
+- [x] 🇺🇦️ Day 407: 2015, April 2nd
+- [x] 🇺🇦️ Day 408: 2015, April 3rd
+- [x] 🇺🇦️ Day 409: 2015, April 4th
+- [x] 🇺🇦️ Day 410: 2015, April 5th
+- [x] 🇺🇦️ Day 411: 2015, April 6th
+- [x] 🇺🇦️ Day 412: 2015, April 7th
+- [x] 🇺🇦️ Day 413: 2015, April 8th
+- [x] 🇺🇦️ Day 414: 2015, April 9th
+- [x] 🇺🇦️ Day 415: 2015, April 10th
+- [x] 🇺🇦️ Day 416: 2015, April 11th
+- [x] 🇺🇦️ Day 417: 2015, April 12th
+- [x] 🇺🇦️ Day 418: 2015, April 13th
+- [x] 🇺🇦️ Day 419: 2015, April 14th
+- [x] 🇺🇦️ Day 420: 2015, April 15th
+- [x] 🇺🇦️ Day 421: 2015, April 16th
+- [x] 🇺🇦️ Day 422: 2015, April 17th
+- [x] 🇺🇦️ Day 423: 2015, April 18th
+- [x] 🇺🇦️ Day 424: 2015, April 19th
+- [x] 🇺🇦️ Day 425: 2015, April 20th
+- [x] 🇺🇦️ Day 426: 2015, April 21st
+- [x] 🇺🇦️ Day 427: 2015, April 22nd
+- [x] 🇺🇦️ Day 428: 2015, April 23rd
+- [x] 🇺🇦️ Day 429: 2015, April 24th
+- [x] 🇺🇦️ Day 430: 2015, April 25th
+- [x] 🇺🇦️ Day 431: 2015, April 26th
+- [x] 🇺🇦️ Day 432: 2015, April 27th
+- [x] 🇺🇦️ Day 433: 2015, April 28th
+- [x] 🇺🇦️ Day 434: 2015, April 29th
+- [x] 🇺🇦️ Day 435: 2015, April 30th
+- [x] 🇺🇦️ Day 436: 2015, May 1st
+- [x] 🇺🇦️ Day 437: 2015, May 2nd
+- [x] 🇺🇦️ Day 438: 2015, May 3rd
+- [x] 🇺🇦️ Day 439: 2015, May 4th
+- [x] 🇺🇦️ Day 440: 2015, May 5th
+- [x] 🇺🇦️ Day 441: 2015, May 6th
+- [x] 🇺🇦️ Day 442: 2015, May 7th
+- [x] 🇺🇦️ Day 443: 2015, May 8th
+- [x] 🇺🇦️ Day 444: 2015, May 9th
+- [x] 🇺🇦️ Day 445: 2015, May 10th
+- [x] 🇺🇦️ Day 446: 2015, May 11th
+- [x] 🇺🇦️ Day 447: 2015, May 12th
+- [x] 🇺🇦️ Day 448: 2015, May 13th
+- [x] 🇺🇦️ Day 449: 2015, May 14th
+- [x] 🇺🇦️ Day 450: 2015, May 15th
+- [x] 🇺🇦️ Day 451: 2015, May 16th
+- [x] 🇺🇦️ Day 452: 2015, May 17th
+- [x] 🇺🇦️ Day 453: 2015, May 18th
+- [x] 🇺🇦️ Day 454: 2015, May 19th
+- [x] 🇺🇦️ Day 455: 2015, May 20th
+- [x] 🇺🇦️ Day 456: 2015, May 21st
+- [x] 🇺🇦️ Day 457: 2015, May 22nd
+- [x] 🇺🇦️ Day 458: 2015, May 23rd
+- [x] 🇺🇦️ Day 459: 2015, May 24th
+- [x] 🇺🇦️ Day 460: 2015, May 25th
+- [x] 🇺🇦️ Day 461: 2015, May 26th
+- [x] 🇺🇦️ Day 462: 2015, May 27th
+- [x] 🇺🇦️ Day 463: 2015, May 28th
+- [x] 🇺🇦️ Day 464: 2015, May 29th
+- [x] 🇺🇦️ Day 465: 2015, May 30th
+- [x] 🇺🇦️ Day 466: 2015, May 31st
+- [x] 🇺🇦️ Day 467: 2015, June 1st
+- [x] 🇺🇦️ Day 468: 2015, June 2nd
+- [x] 🇺🇦️ Day 469: 2015, June 3rd
+- [x] 🇺🇦️ Day 470: 2015, June 4th
+- [x] 🇺🇦️ Day 471: 2015, June 5th
+- [x] 🇺🇦️ Day 472: 2015, June 6th
+- [x] 🇺🇦️ Day 473: 2015, June 7th
+- [x] 🇺🇦️ Day 474: 2015, June 8th
+- [x] 🇺🇦️ Day 475: 2015, June 9th
+- [x] 🇺🇦️ Day 476: 2015, June 10th
+- [x] 🇺🇦️ Day 477: 2015, June 11th
+- [x] 🇺🇦️ Day 478: 2015, June 12th
+- [x] 🇺🇦️ Day 479: 2015, June 13th
+- [x] 🇺🇦️ Day 480: 2015, June 14th
+- [x] 🇺🇦️ Day 481: 2015, June 15th
+- [x] 🇺🇦️ Day 482: 2015, June 16th
+- [x] 🇺🇦️ Day 483: 2015, June 17th
+- [x] 🇺🇦️ Day 484: 2015, June 18th
+- [x] 🇺🇦️ Day 485: 2015, June 19th
+- [x] 🇺🇦️ Day 486: 2015, June 20th
+- [x] 🇺🇦️ Day 487: 2015, June 21st
+- [x] 🇺🇦️ Day 488: 2015, June 22nd
+- [x] 🇺🇦️ Day 489: 2015, June 23rd
+- [x] 🇺🇦️ Day 490: 2015, June 24th
+- [x] 🇺🇦️ Day 491: 2015, June 25th
+- [x] 🇺🇦️ Day 492: 2015, June 26th
+- [x] 🇺🇦️ Day 493: 2015, June 27th
+- [x] 🇺🇦️ Day 494: 2015, June 28th
+- [x] 🇺🇦️ Day 495: 2015, June 29th
+- [x] 🇺🇦️ Day 496: 2015, June 30th
+- [x] 🇺🇦️ Day 497: 2015, July 1st
+- [x] 🇺🇦️ Day 498: 2015, July 2nd
+- [x] 🇺🇦️ Day 499: 2015, July 3rd
+- [x] 🇺🇦️ Day 500: 2015, July 4th
+- [x] 🇺🇦️ Day 501: 2015, July 5th
+- [x] 🇺🇦️ Day 502: 2015, July 6th
+- [x] 🇺🇦️ Day 503: 2015, July 7th
+- [x] 🇺🇦️ Day 504: 2015, July 8th
+- [x] 🇺🇦️ Day 505: 2015, July 9th
+- [x] 🇺🇦️ Day 506: 2015, July 10th
+- [x] 🇺🇦️ Day 507: 2015, July 11th
+- [x] 🇺🇦️ Day 508: 2015, July 12th
+- [x] 🇺🇦️ Day 509: 2015, July 13th
+- [x] 🇺🇦️ Day 510: 2015, July 14th
+- [x] 🇺🇦️ Day 511: 2015, July 15th
+- [x] 🇺🇦️ Day 512: 2015, July 16th
+- [x] 🇺🇦️ Day 513: 2015, July 17th
+- [x] 🇺🇦️ Day 514: 2015, July 18th
+- [x] 🇺🇦️ Day 515: 2015, July 19th
+- [x] 🇺🇦️ Day 516: 2015, July 20th
+- [x] 🇺🇦️ Day 517: 2015, July 21st
+- [x] 🇺🇦️ Day 518: 2015, July 22nd
+- [x] 🇺🇦️ Day 519: 2015, July 23rd
+- [x] 🇺🇦️ Day 520: 2015, July 24th
+- [x] 🇺🇦️ Day 521: 2015, July 25th
+- [x] 🇺🇦️ Day 522: 2015, July 26th
+- [x] 🇺🇦️ Day 523: 2015, July 27th
+- [x] 🇺🇦️ Day 524: 2015, July 28th
+- [x] 🇺🇦️ Day 525: 2015, July 29th
+- [x] 🇺🇦️ Day 526: 2015, July 30th
+- [x] 🇺🇦️ Day 527: 2015, July 31st
+- [x] 🇺🇦️ Day 528: 2015, August 1st
+- [x] 🇺🇦️ Day 529: 2015, August 2nd
+- [x] 🇺🇦️ Day 530: 2015, August 3rd
+- [x] 🇺🇦️ Day 531: 2015, August 4th
+- [x] 🇺🇦️ Day 532: 2015, August 5th
+- [x] 🇺🇦️ Day 533: 2015, August 6th
+- [x] 🇺🇦️ Day 534: 2015, August 7th
+- [x] 🇺🇦️ Day 535: 2015, August 8th
+- [x] 🇺🇦️ Day 536: 2015, August 9th
+- [x] 🇺🇦️ Day 537: 2015, August 10th
+- [x] 🇺🇦️ Day 538: 2015, August 11th
+- [x] 🇺🇦️ Day 539: 2015, August 12th
+- [x] 🇺🇦️ Day 540: 2015, August 13th
+- [x] 🇺🇦️ Day 541: 2015, August 14th
+- [x] 🇺🇦️ Day 542: 2015, August 15th
+- [x] 🇺🇦️ Day 543: 2015, August 16th
+- [x] 🇺🇦️ Day 544: 2015, August 17th
+- [x] 🇺🇦️ Day 545: 2015, August 18th
+- [x] 🇺🇦️ Day 546: 2015, August 19th
+- [x] 🇺🇦️ Day 547: 2015, August 20th
+- [x] 🇺🇦️ Day 548: 2015, August 21st
+- [x] 🇺🇦️ Day 549: 2015, August 22nd
+- [x] 🇺🇦️ Day 550: 2015, August 23rd
+- [x] 🇺🇦️ Day 551: 2015, August 24th
+- [x] 🇺🇦️ Day 552: 2015, August 25th
+- [x] 🇺🇦️ Day 553: 2015, August 26th
+- [x] 🇺🇦️ Day 554: 2015, August 27th
+- [x] 🇺🇦️ Day 555: 2015, August 28th
+- [x] 🇺🇦️ Day 556: 2015, August 29th
+- [x] 🇺🇦️ Day 557: 2015, August 30th
+- [x] 🇺🇦️ Day 558: 2015, August 31st
+- [x] 🇺🇦️ Day 559: 2015, September 1st
+- [x] 🇺🇦️ Day 560: 2015, September 2nd
+- [x] 🇺🇦️ Day 561: 2015, September 3rd
+- [x] 🇺🇦️ Day 562: 2015, September 4th
+- [x] 🇺🇦️ Day 563: 2015, September 5th
+- [x] 🇺🇦️ Day 564: 2015, September 6th
+- [x] 🇺🇦️ Day 565: 2015, September 7th
+- [x] 🇺🇦️ Day 566: 2015, September 8th
+- [x] 🇺🇦️ Day 567: 2015, September 9th
+- [x] 🇺🇦️ Day 568: 2015, September 10th
+- [x] 🇺🇦️ Day 569: 2015, September 11th
+- [x] 🇺🇦️ Day 570: 2015, September 12th
+- [x] 🇺🇦️ Day 571: 2015, September 13th
+- [x] 🇺🇦️ Day 572: 2015, September 14th
+- [x] 🇺🇦️ Day 573: 2015, September 15th
+- [x] 🇺🇦️ Day 574: 2015, September 16th
+- [x] 🇺🇦️ Day 575: 2015, September 17th
+- [x] 🇺🇦️ Day 576: 2015, September 18th
+- [x] 🇺🇦️ Day 577: 2015, September 19th
+- [x] 🇺🇦️ Day 578: 2015, September 20th
+- [x] 🇺🇦️ Day 579: 2015, September 21st
+- [x] 🇺🇦️ Day 580: 2015, September 22nd
+- [x] 🇺🇦️ Day 581: 2015, September 23rd
+- [x] 🇺🇦️ Day 582: 2015, September 24th
+- [x] 🇺🇦️ Day 583: 2015, September 25th
+- [x] 🇺🇦️ Day 584: 2015, September 26th
+- [x] 🇺🇦️ Day 585: 2015, September 27th
+- [x] 🇺🇦️ Day 586: 2015, September 28th
+- [x] 🇺🇦️ Day 587: 2015, September 29th
+- [x] 🇺🇦️ Day 588: 2015, September 30th
+- [x] 🇺🇦️ Day 589: 2015, October 1st
+- [x] 🇺🇦️ Day 590: 2015, October 2nd
+- [x] 🇺🇦️ Day 591: 2015, October 3rd
+- [x] 🇺🇦️ Day 592: 2015, October 4th
+- [x] 🇺🇦️ Day 593: 2015, October 5th
+- [x] 🇺🇦️ Day 594: 2015, October 6th
+- [x] 🇺🇦️ Day 595: 2015, October 7th
+- [x] 🇺🇦️ Day 596: 2015, October 8th
+- [x] 🇺🇦️ Day 597: 2015, October 9th
+- [x] 🇺🇦️ Day 598: 2015, October 10th
+- [x] 🇺🇦️ Day 599: 2015, October 11th
+- [x] 🇺🇦️ Day 600: 2015, October 12th
+- [x] 🇺🇦️ Day 601: 2015, October 13th
+- [x] 🇺🇦️ Day 602: 2015, October 14th
+- [x] 🇺🇦️ Day 603: 2015, October 15th
+- [x] 🇺🇦️ Day 604: 2015, October 16th
+- [x] 🇺🇦️ Day 605: 2015, October 17th
+- [x] 🇺🇦️ Day 606: 2015, October 18th
+- [x] 🇺🇦️ Day 607: 2015, October 19th
+- [x] 🇺🇦️ Day 608: 2015, October 20th
+- [x] 🇺🇦️ Day 609: 2015, October 21st
+- [x] 🇺🇦️ Day 610: 2015, October 22nd
+- [x] 🇺🇦️ Day 611: 2015, October 23rd
+- [x] 🇺🇦️ Day 612: 2015, October 24th
+- [x] 🇺🇦️ Day 613: 2015, October 25th
+- [x] 🇺🇦️ Day 614: 2015, October 26th
+- [x] 🇺🇦️ Day 615: 2015, October 27th
+- [x] 🇺🇦️ Day 616: 2015, October 28th
+- [x] 🇺🇦️ Day 617: 2015, October 29th
+- [x] 🇺🇦️ Day 618: 2015, October 30th
+- [x] 🇺🇦️ Day 619: 2015, October 31st
+- [x] 🇺🇦️ Day 620: 2015, November 1st
+- [x] 🇺🇦️ Day 621: 2015, November 2nd
+- [x] 🇺🇦️ Day 622: 2015, November 3rd
+- [x] 🇺🇦️ Day 623: 2015, November 4th
+- [x] 🇺🇦️ Day 624: 2015, November 5th
+- [x] 🇺🇦️ Day 625: 2015, November 6th
+- [x] 🇺🇦️ Day 626: 2015, November 7th
+- [x] 🇺🇦️ Day 627: 2015, November 8th
+- [x] 🇺🇦️ Day 628: 2015, November 9th
+- [x] 🇺🇦️ Day 629: 2015, November 10th
+- [x] 🇺🇦️ Day 630: 2015, November 11th
+- [x] 🇺🇦️ Day 631: 2015, November 12th
+- [x] 🇺🇦️ Day 632: 2015, November 13th
+- [x] 🇺🇦️ Day 633: 2015, November 14th
+- [x] 🇺🇦️ Day 634: 2015, November 15th
+- [x] 🇺🇦️ Day 635: 2015, November 16th
+- [x] 🇺🇦️ Day 636: 2015, November 17th
+- [x] 🇺🇦️ Day 637: 2015, November 18th
+- [x] 🇺🇦️ Day 638: 2015, November 19th
+- [x] 🇺🇦️ Day 639: 2015, November 20th
+- [x] 🇺🇦️ Day 640: 2015, November 21st
+- [x] 🇺🇦️ Day 641: 2015, November 22nd
+- [x] 🇺🇦️ Day 642: 2015, November 23rd
+- [x] 🇺🇦️ Day 643: 2015, November 24th
+- [x] 🇺🇦️ Day 644: 2015, November 25th
+- [x] 🇺🇦️ Day 645: 2015, November 26th
+- [x] 🇺🇦️ Day 646: 2015, November 27th
+- [x] 🇺🇦️ Day 647: 2015, November 28th
+- [x] 🇺🇦️ Day 648: 2015, November 29th
+- [x] 🇺🇦️ Day 649: 2015, November 30th
+- [x] 🇺🇦️ Day 650: 2015, December 1st
+- [x] 🇺🇦️ Day 651: 2015, December 2nd
+- [x] 🇺🇦️ Day 652: 2015, December 3rd
+- [x] 🇺🇦️ Day 653: 2015, December 4th
+- [x] 🇺🇦️ Day 654: 2015, December 5th
+- [x] 🇺🇦️ Day 655: 2015, December 6th
+- [x] 🇺🇦️ Day 656: 2015, December 7th
+- [x] 🇺🇦️ Day 657: 2015, December 8th
+- [x] 🇺🇦️ Day 658: 2015, December 9th
+- [x] 🇺🇦️ Day 659: 2015, December 10th
+- [x] 🇺🇦️ Day 660: 2015, December 11th
+- [x] 🇺🇦️ Day 661: 2015, December 12th
+- [x] 🇺🇦️ Day 662: 2015, December 13th
+- [x] 🇺🇦️ Day 663: 2015, December 14th
+- [x] 🇺🇦️ Day 664: 2015, December 15th
+- [x] 🇺🇦️ Day 665: 2015, December 16th
+- [x] 🇺🇦️ Day 666: 2015, December 17th
+- [x] 🇺🇦️ Day 667: 2015, December 18th
+- [x] 🇺🇦️ Day 668: 2015, December 19th
+- [x] 🇺🇦️ Day 669: 2015, December 20th
+- [x] 🇺🇦️ Day 670: 2015, December 21st
+- [x] 🇺🇦️ Day 671: 2015, December 22nd
+- [x] 🇺🇦️ Day 672: 2015, December 23rd
+- [x] 🇺🇦️ Day 673: 2015, December 24th
+- [x] 🇺🇦️ Day 674: 2015, December 25th
+- [x] 🇺🇦️ Day 675: 2015, December 26th
+- [x] 🇺🇦️ Day 676: 2015, December 27th
+- [x] 🇺🇦️ Day 677: 2015, December 28th
+- [x] 🇺🇦️ Day 678: 2015, December 29th
+- [x] 🇺🇦️ Day 679: 2015, December 30th
+- [x] 🇺🇦️ Day 680: 2015, December 31st
+- [x] 🇺🇦️ Day 681: 2016, January 1st
+- [x] 🇺🇦️ Day 682: 2016, January 2nd
+- [x] 🇺🇦️ Day 683: 2016, January 3rd
+- [x] 🇺🇦️ Day 684: 2016, January 4th
+- [x] 🇺🇦️ Day 685: 2016, January 5th
+- [x] 🇺🇦️ Day 686: 2016, January 6th
+- [x] 🇺🇦️ Day 687: 2016, January 7th
+- [x] 🇺🇦️ Day 688: 2016, January 8th
+- [x] 🇺🇦️ Day 689: 2016, January 9th
+- [x] 🇺🇦️ Day 690: 2016, January 10th
+- [x] 🇺🇦️ Day 691: 2016, January 11th
+- [x] 🇺🇦️ Day 692: 2016, January 12th
+- [x] 🇺🇦️ Day 693: 2016, January 13th
+- [x] 🇺🇦️ Day 694: 2016, January 14th
+- [x] 🇺🇦️ Day 695: 2016, January 15th
+- [x] 🇺🇦️ Day 696: 2016, January 16th
+- [x] 🇺🇦️ Day 697: 2016, January 17th
+- [x] 🇺🇦️ Day 698: 2016, January 18th
+- [x] 🇺🇦️ Day 699: 2016, January 19th
+- [x] 🇺🇦️ Day 700: 2016, January 20th
+- [x] 🇺🇦️ Day 701: 2016, January 21st
+- [x] 🇺🇦️ Day 702: 2016, January 22nd
+- [x] 🇺🇦️ Day 703: 2016, January 23rd
+- [x] 🇺🇦️ Day 704: 2016, January 24th
+- [x] 🇺🇦️ Day 705: 2016, January 25th
+- [x] 🇺🇦️ Day 706: 2016, January 26th
+- [x] 🇺🇦️ Day 707: 2016, January 27th
+- [x] 🇺🇦️ Day 708: 2016, January 28th
+- [x] 🇺🇦️ Day 709: 2016, January 29th
+- [x] 🇺🇦️ Day 710: 2016, January 30th
+- [x] 🇺🇦️ Day 711: 2016, January 31st
+- [x] 🇺🇦️ Day 712: 2016, February 1st
+- [x] 🇺🇦️ Day 713: 2016, February 2nd
+- [x] 🇺🇦️ Day 714: 2016, February 3rd
+- [x] 🇺🇦️ Day 715: 2016, February 4th
+- [x] 🇺🇦️ Day 716: 2016, February 5th
+- [x] 🇺🇦️ Day 717: 2016, February 6th
+- [x] 🇺🇦️ Day 718: 2016, February 7th
+- [x] 🇺🇦️ Day 719: 2016, February 8th
+- [x] 🇺🇦️ Day 720: 2016, February 9th
+- [x] 🇺🇦️ Day 721: 2016, February 10th
+- [x] 🇺🇦️ Day 722: 2016, February 11th
+- [x] 🇺🇦️ Day 723: 2016, February 12th
+- [x] 🇺🇦️ Day 724: 2016, February 13th
+- [x] 🇺🇦️ Day 725: 2016, February 14th
+- [x] 🇺🇦️ Day 726: 2016, February 15th
+- [x] 🇺🇦️ Day 727: 2016, February 16th
+- [x] 🇺🇦️ Day 728: 2016, February 17th
+- [x] 🇺🇦️ Day 729: 2016, February 18th
+- [x] 🇺🇦️ Day 730: 2016, February 19th
+- [x] 🇺🇦️ Day 731: 2016, February 20th
+- [x] 🇺🇦️ Day 732: 2016, February 21st
+- [x] 🇺🇦️ Day 733: 2016, February 22nd
+- [x] 🇺🇦️ Day 734: 2016, February 23rd
+- [x] 🇺🇦️ Day 735: 2016, February 24th
+- [x] 🇺🇦️ Day 736: 2016, February 25th
+- [x] 🇺🇦️ Day 737: 2016, February 26th
+- [x] 🇺🇦️ Day 738: 2016, February 27th
+- [x] 🇺🇦️ Day 739: 2016, February 28th
+- [x] 🇺🇦️ Day 740: 2016, February 29th
+- [x] ℹ️ List incomplete, less than 2500 entries left to be added until caught up
+- [ ] 740/3211, 23.04% complete (as of 2022, Tuesday, December 6th)
 
 **Todo:** Add 1 month (or more) of data per day. We are going to be here for a while anyways.
 
-After #### days, it is still Ukraine. Slava Ukraini!
+After 3211 days, it is still Ukraine. Slava Ukraini!
+
+[Jump ahead calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
 
 </details>
 
@@ -561,9 +1006,9 @@ After #### days, it is still Ukraine. Slava Ukraini!
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `51 (2022, Monday, December 5th at 5:31 pm PST)`
+**File version:** `52 (2022, Tuesday, December 6th at 5:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,263`
+**Line count (including blank lines and compiler line):** `1,723`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1254,6 +1699,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 51
+
+</details>
+
+<details><summary><p lang="en"><b>Version 52 (2022, Tuesday, December 6th at 5:17 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2022, December 6th (day 58)
+- [x] Updated the list of all days of the war since the 2022 Invasion (incomplete, 127 days)
+- [x] Updated the list of all days of the war (incomplete, 740 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 52
 
 </details>
 
