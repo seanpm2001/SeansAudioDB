@@ -100,7 +100,8 @@ Even after the war ends, I will still listen to the anthem from time to time.
 - [x] 🇺🇦️ Day 57: 2022, December 5th
 - [x] 🇺🇦️ Day 58: 2022, December 6th
 - [x] 🇺🇦️ Day 59: 2022, December 7th
-- [ ] Day 60: 2022, December 8th (coming soon)
+- [x] 🇺🇦️ Day 60: 2022, December 8th
+- [ ] Day 61: 2022, December 9th (coming soon)
 
 </details>
 
@@ -268,8 +269,73 @@ _This list is currently a work in progress, and is not yet caught up_
 - [x] 🇺🇦️ Day 156: 2022, Saturday, July 29th
 - [x] 🇺🇦️ Day 157: 2022, Sunday, July 30th
 - [x] 🇺🇦️ Day 158: 2022, Monday, July 31st
+- [x] 🇺🇦️ Day 159: 2022, Tuesday, August 1st
+- [x] 🇺🇦️ Day 160: 2022, Wednesday, August 2nd
+- [x] 🇺🇦️ Day 161: 2022, Thursday, August 3rd
+- [x] 🇺🇦️ Day 162: 2022, Friday, August 4th
+- [x] 🇺🇦️ Day 163: 2022, Saturday, August 5th
+- [x] 🇺🇦️ Day 164: 2022, Sunday, August 6th
+- [x] 🇺🇦️ Day 165: 2022, Monday, August 7th
+- [x] 🇺🇦️ Day 166: 2022, Tuesday, August 8th
+- [x] 🇺🇦️ Day 167: 2022, Wednesday, August 9th
+- [x] 🇺🇦️ Day 168: 2022, Thursday, August 10th
+- [x] 🇺🇦️ Day 169: 2022, Friday, August 11th
+- [x] 🇺🇦️ Day 170: 2022, Saturday, August 12th
+- [x] 🇺🇦️ Day 171: 2022, Sunday, August 13th
+- [x] 🇺🇦️ Day 172: 2022, Monday, August 14th
+- [x] 🇺🇦️ Day 173: 2022, Tuesday, August 15th
+- [x] 🇺🇦️ Day 174: 2022, Wednesday, August 16th
+- [x] 🇺🇦️ Day 175: 2022, Thursday, August 17th
+- [x] 🇺🇦️ Day 176: 2022, Friday, August 18th
+- [x] 🇺🇦️ Day 177: 2022, Saturday, August 19th
+- [x] 🇺🇦️ Day 178: 2022, Sunday, August 20th
+- [x] 🇺🇦️ Day 179: 2022, Sunday, August 21st
+- [x] 🇺🇦️ Day 180: 2022, Monday, August 22nd
+- [x] 🇺🇦️ Day 181: 2022, Tuesday, August 23rd
+- [x] 🇺🇦️ Day 182: 2022, Wednesday, August 24th
+- [x] 🇺🇦️ Day 183: 2022, Thursday, August 25th
+- [x] 🇺🇦️ Day 184: 2022, Friday, August 26th
+- [x] 🇺🇦️ Day 185: 2022, Saturday, August 27th
+- [x] 🇺🇦️ Day 186: 2022, Sunday, August 28th
+- [x] 🇺🇦️ Day 187: 2022, Monday, August 29th
+- [x] 🇺🇦️ Day 188: 2022, Tuesday, August 30th
+- [x] 🇺🇦️ Day 189: 2022, Wednesday, August 31st
+- [x] 🇺🇦️ Day 190: 2022, Thursday, September 1st
+- [x] 🇺🇦️ Day 191: 2022, Friday, September 2nd
+- [x] 🇺🇦️ Day 192: 2022, Saturday, September 3rd
+- [x] 🇺🇦️ Day 193: 2022, Sunday, September 4th
+- [x] 🇺🇦️ Day 194: 2022, Monday, September 5th
+- [x] 🇺🇦️ Day 195: 2022, Tuesday, September 6th
+- [x] 🇺🇦️ Day 196: 2022, Wednesday, September 7th
+- [x] 🇺🇦️ Day 197: 2022, Thursday, September 8th
+- [x] 🇺🇦️ Day 198: 2022, Friday, September 9th
+- [x] 🇺🇦️ Day 199: 2022, Saturday, September 10th
+- [x] 🇺🇦️ Day 200: 2022, Sunday, September 11th
+- [x] 🇺🇦️ Day 201: 2022, Monday, September 12th
+- [x] 🇺🇦️ Day 202: 2022, Tuesday, September 13th
+- [x] 🇺🇦️ Day 203: 2022, Wednesday, September 14th
+- [x] 🇺🇦️ Day 204: 2022, Thursday, September 15th
+- [x] 🇺🇦️ Day 205: 2022, Friday, September 16th
+- [x] 🇺🇦️ Day 206: 2022, Saturday, September 17th
+- [x] 🇺🇦️ Day 207: 2022, Sunday, September 18th
+- [x] 🇺🇦️ Day 208: 2022, Monday, September 19th
+- [x] 🇺🇦️ Day 209: 2022, Tuesday, September 20th
+- [x] 🇺🇦️ Day 210: 2022, Wednesday, September 21st
+- [x] 🇺🇦️ Day 211: 2022, Thursday, September 22nd
+- [x] 🇺🇦️ Day 212: 2022, Friday, September 23rd
+- [x] 🇺🇦️ Day 213: 2022, Saturday, September 24th
+- [x] 🇺🇦️ Day 214: 2022, Sunday, September 25th
+- [x] 🇺🇦️ Day 215: 2022, Monday, September 26th
+- [x] 🇺🇦️ Day 216: 2022, Tuesday, September 27th
+- [x] 🇺🇦️ Day 217: 2022, Wednesday, September 28th
+- [x] 🇺🇦️ Day 218: 2022, Thursday, September 29th
+- [x] 🇺🇦️ Day 219: 2022, Friday, September 30th
 
 **Todo:** Add 1 month (or more) of data per day. We are going to be here for a while anyways.
+
+<!-- Log
+2022.12.08 - 2 months added, 1 extra month was added to make up for the error on the other list
+!-->
 
 </details>
 
@@ -278,6 +344,14 @@ _This list is currently a work in progress, and is not yet caught up_
 <details><summary><p><b>[Click/tap here to expand/collapse a full timeline (Russo-Ukrainian war)]</b></p></summary>
 
 _This list is currently a work in progress, and is not yet caught up_
+
+### 2016, June 10th continuation error
+
+A severe error was spotted (9 days were missing) and now I have to figure out what to do before I can resume this list. I will try to fix this tomorrow (2022, Friday, December 9th)
+
+Internal notes:
+
+Since I am copying 1 month at a time, then pasting it back and adding in the numbers via find & replace, this issue likely won't reoccur once a full year of good data is added, unless you are to partially copy a month, like what may have happened here.
 
 - [x] 🇺🇦️ Day 1: 2014, February 20th
 - [x] 🇺🇦️ Day 2: 2014, February 21st
@@ -1375,12 +1449,104 @@ _This list is currently a work in progress, and is not yet caught up_
 - [x] 🇺🇦️ Day 1094: 2017, February 26th
 - [x] 🇺🇦️ Day 1095: 2017, February 27th
 - [x] 🇺🇦️ Day 1096: 2017, February 28th
+- [x] 🇺🇦️ Day 1097: 2017, March 1st
+- [x] 🇺🇦️ Day 1098: 2017, March 2nd
+- [x] 🇺🇦️ Day 1099: 2017, March 3rd
+- [x] 🇺🇦️ Day 1100: 2017, March 4th
+- [x] 🇺🇦️ Day 1101: 2017, March 5th
+- [x] 🇺🇦️ Day 1102: 2017, March 6th
+- [x] 🇺🇦️ Day 1103: 2017, March 7th
+- [x] 🇺🇦️ Day 1104: 2017, March 8th
+- [x] 🇺🇦️ Day 1105: 2017, March 9th
+- [x] 🇺🇦️ Day 1106: 2017, March 10th
+- [x] 🇺🇦️ Day 1107: 2017, March 11th
+- [x] 🇺🇦️ Day 1108: 2017, March 12th
+- [x] 🇺🇦️ Day 1109: 2017, March 13th
+- [x] 🇺🇦️ Day 1110: 2017, March 14th
+- [x] 🇺🇦️ Day 1111: 2017, March 15th
+- [x] 🇺🇦️ Day 1112: 2017, March 16th
+- [x] 🇺🇦️ Day 1113: 2017, March 17th
+- [x] 🇺🇦️ Day 1114: 2017, March 18th
+- [x] 🇺🇦️ Day 1115: 2017, March 19th
+- [x] 🇺🇦️ Day 1116: 2017, March 20th
+- [x] 🇺🇦️ Day 1117: 2017, March 21st
+- [x] 🇺🇦️ Day 1118: 2017, March 22nd
+- [x] 🇺🇦️ Day 1119: 2017, March 23rd
+- [x] 🇺🇦️ Day 1120: 2017, March 24th
+- [x] 🇺🇦️ Day 1121: 2017, March 25th
+- [x] 🇺🇦️ Day 1122: 2017, March 26th
+- [x] 🇺🇦️ Day 1123: 2017, March 27th
+- [x] 🇺🇦️ Day 1124: 2017, March 28th
+- [x] 🇺🇦️ Day 1125: 2017, March 29th
+- [x] 🇺🇦️ Day 1126: 2017, March 30th
+- [x] 🇺🇦️ Day 1127: 2017, March 31st
+- [x] 🇺🇦️ Day 1128: 2017, April 1st
+- [x] 🇺🇦️ Day 1129: 2017, April 2nd
+- [x] 🇺🇦️ Day 1130: 2017, April 3rd
+- [x] 🇺🇦️ Day 1131: 2017, April 4th
+- [x] 🇺🇦️ Day 1132: 2017, April 5th
+- [x] 🇺🇦️ Day 1133: 2017, April 6th
+- [x] 🇺🇦️ Day 1134: 2017, April 7th
+- [x] 🇺🇦️ Day 1135: 2017, April 8th
+- [x] 🇺🇦️ Day 1136: 2017, April 9th
+- [x] 🇺🇦️ Day 1137: 2017, April 10th
+- [x] 🇺🇦️ Day 1138: 2017, April 11th
+- [x] 🇺🇦️ Day 1139: 2017, April 12th
+- [x] 🇺🇦️ Day 1140: 2017, April 13th
+- [x] 🇺🇦️ Day 1141: 2017, April 14th
+- [x] 🇺🇦️ Day 1142: 2017, April 15th
+- [x] 🇺🇦️ Day 1143: 2017, April 16th
+- [x] 🇺🇦️ Day 1144: 2017, April 17th
+- [x] 🇺🇦️ Day 1145: 2017, April 18th
+- [x] 🇺🇦️ Day 1146: 2017, April 19th
+- [x] 🇺🇦️ Day 1147: 2017, April 20th
+- [x] 🇺🇦️ Day 1148: 2017, April 21st
+- [x] 🇺🇦️ Day 1149: 2017, April 22nd
+- [x] 🇺🇦️ Day 1150: 2017, April 23rd
+- [x] 🇺🇦️ Day 1151: 2017, April 24th
+- [x] 🇺🇦️ Day 1152: 2017, April 25th
+- [x] 🇺🇦️ Day 1153: 2017, April 26th
+- [x] 🇺🇦️ Day 1154: 2017, April 27th
+- [x] 🇺🇦️ Day 1155: 2017, April 28th
+- [x] 🇺🇦️ Day 1156: 2017, April 29th
+- [x] 🇺🇦️ Day 1157: 2017, April 30th
+- [x] 🇺🇦️ Day 1158: 2017, May 1st
+- [x] 🇺🇦️ Day 1159: 2017, May 2nd
+- [x] 🇺🇦️ Day 1160: 2017, May 3rd
+- [x] 🇺🇦️ Day 1161: 2017, May 4th
+- [x] 🇺🇦️ Day 1162: 2017, May 5th
+- [x] 🇺🇦️ Day 1163: 2017, May 6th
+- [x] 🇺🇦️ Day 1164: 2017, May 7th
+- [x] 🇺🇦️ Day 1165: 2017, May 8th
+- [x] 🇺🇦️ Day 1166: 2017, May 9th
+- [x] 🇺🇦️ Day 1167: 2017, May 10th
+- [x] 🇺🇦️ Day 1168: 2017, May 11th
+- [x] 🇺🇦️ Day 1169: 2017, May 12th
+- [x] 🇺🇦️ Day 1170: 2017, May 13th
+- [x] 🇺🇦️ Day 1171: 2017, May 14th
+- [x] 🇺🇦️ Day 1172: 2017, May 15th
+- [x] 🇺🇦️ Day 1173: 2017, May 16th
+- [x] 🇺🇦️ Day 1174: 2017, May 17th
+- [x] 🇺🇦️ Day 1175: 2017, May 18th
+- [x] 🇺🇦️ Day 1176: 2017, May 19th
+- [x] 🇺🇦️ Day 1177: 2017, May 20th
+- [x] 🇺🇦️ Day 1178: 2017, May 21st
+- [x] 🇺🇦️ Day 1179: 2017, May 22nd
+- [x] 🇺🇦️ Day 1180: 2017, May 23rd
+- [x] 🇺🇦️ Day 1181: 2017, May 24th
+- [x] 🇺🇦️ Day 1182: 2017, May 25th
+- [x] 🇺🇦️ Day 1183: 2017, May 26th
+- [x] 🇺🇦️ Day 1184: 2017, May 27th
+- [x] 🇺🇦️ Day 1185: 2017, May 28th
+- [x] 🇺🇦️ Day 1186: 2017, May 29th
+- [x] 🇺🇦️ Day 1187: 2017, May 30th
+- [x] 🇺🇦️ Day 1188: 2017, May 31st
 - [x] ℹ️ List incomplete, less than 2200 entries left to be added until caught up
 - [ ] 1096/3212, 34.12% complete (as of 2022, Wednesday, December 7th)
 
 **Todo:** Add 1 month (or more) of data per day. We are going to be here for a while anyways.
 
-After 3212 days, it is still Ukraine. Slava Ukraini!
+After 3213 days, it is still Ukraine. Slava Ukraini!
 
 [Jump ahead calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
 
@@ -1394,9 +1560,9 @@ After 3212 days, it is still Ukraine. Slava Ukraini!
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `53 (2022, Wednesday, December 7th at 11:27 pm PST)`
+**File version:** `54 (2022, Thursday, December 8th at 7:11 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,126`
+**Line count (including blank lines and compiler line):** `2,308`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2117,6 +2283,22 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 53
+
+</details>
+
+<details><summary><p lang="en"><b>Version 54 (2022, Thursday, December 8th at 7:11 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2022, December 8th (day 60)
+- [x] Updated the list of all days of the war since the 2022 Invasion (incomplete, 219 days)
+- [x] Updated the list of all days of the war (incomplete, 1,096+ERROR days)
+- - [x] Added the `2016 June 10th continuation error` section
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 54
 
 </details>
 
