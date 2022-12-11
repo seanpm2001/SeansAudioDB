@@ -101,15 +101,15 @@ Even after the war ends, I will still listen to the anthem from time to time.
 - [x] 🇺🇦️ Day 58: 2022, December 6th
 - [x] 🇺🇦️ Day 59: 2022, December 7th
 - [x] 🇺🇦️ Day 60: 2022, December 8th
-- [ ] Day 61: 2022, December 9th (coming soon)
+- [x] 🇺🇦️ Day 61: 2022, December 9th
+- [x] 🇺🇦️ Day 62: 2022, December 10th
+- [ ] Day 63: 2022, December 11th (coming soon)
 
 </details>
 
 ***
 
 <details><summary><p><b>[Click/tap here to expand/collapse a full timeline (2022 invasion)]</b></p></summary>
-
-_This list is currently a work in progress, and is not yet caught up_
 
 - [x] 🇺🇦️ Day 1: 2022, Thursday, February 24th
 - [x] 🇺🇦️ Day 2: 2022, Friday, February 25th
@@ -330,8 +330,78 @@ _This list is currently a work in progress, and is not yet caught up_
 - [x] 🇺🇦️ Day 217: 2022, Wednesday, September 28th
 - [x] 🇺🇦️ Day 218: 2022, Thursday, September 29th
 - [x] 🇺🇦️ Day 219: 2022, Friday, September 30th
+- [x] 🇺🇦️ Day 220: 2022, Saturday, October 1st
+- [x] 🇺🇦️ Day 221: 2022, Sunday, October 2nd
+- [x] 🇺🇦️ Day 222: 2022, Monday, October 3rd
+- [x] 🇺🇦️ Day 223: 2022, Tuesday, October 4th
+- [x] 🇺🇦️ Day 224: 2022, Wednesday, October 5th
+- [x] 🇺🇦️ Day 225: 2022, Thursday, October 6th
+- [x] 🇺🇦️ Day 226: 2022, Friday, October 7th
+- [x] 🇺🇦️ Day 227: 2022, Saturday, October 8th
+- [x] 🇺🇦️ Day 228: 2022, Sunday, October 9th
+- [x] 🇺🇦️ Day 229: 2022, Monday, October 10th
+- [x] 🇺🇦️ Day 230: 2022, Tuesday, October 11th
+- [x] 🇺🇦️ Day 231: 2022, Wedndesday, October 12th
+- [x] 🇺🇦️ Day 232: 2022, Thursday, October 13th
+- [x] 🇺🇦️ Day 233: 2022, Friday, October 14th
+- [x] 🇺🇦️ Day 234: 2022, Saturday, October 15th
+- [x] 🇺🇦️ Day 235: 2022, Sunday, October 16th
+- [x] 🇺🇦️ Day 236: 2022, Monday, October 17th
+- [x] 🇺🇦️ Day 237: 2022, Tuesday, October 18th
+- [x] 🇺🇦️ Day 238: 2022, Wednesday, October 19th
+- [x] 🇺🇦️ Day 239: 2022, Thursday, October 20th
+- [x] 🇺🇦️ Day 240: 2022, Friday, October 21st
+- [x] 🇺🇦️ Day 241: 2022, Saturday, October 22nd
+- [x] 🇺🇦️ Day 242: 2022, Sunday, October 23rd
+- [x] 🇺🇦️ Day 243: 2022, Monday, October 24th
+- [x] 🇺🇦️ Day 244: 2022, Tuesday, October 25th
+- [x] 🇺🇦️ Day 245: 2022, Wednesday, October 26th
+- [x] 🇺🇦️ Day 246: 2022, Thursday, October 27th
+- [x] 🇺🇦️ Day 247: 2022, Friday, October 28th
+- [x] 🇺🇦️ Day 248: 2022, Saturday, October 29th
+- [x] 🇺🇦️ Day 249: 2022, Sunday, October 30th
+- [x] 🇺🇦️ Day 250: 2022, Monday, October 31st
+- [x] 🇺🇦️ Day 251: 2022, Tuesday, November 1st
+- [x] 🇺🇦️ Day 252: 2022, Wednesday, November 2nd
+- [x] 🇺🇦️ Day 253: 2022, Thursday, November 3rd
+- [x] 🇺🇦️ Day 254: 2022, Friday, November 4th
+- [x] 🇺🇦️ Day 255: 2022, Saturday, November 5th
+- [x] 🇺🇦️ Day 256: 2022, Sunday, November 6th
+- [x] 🇺🇦️ Day 257: 2022, Monday, November 7th
+- [x] 🇺🇦️ Day 258: 2022, Tuesday, November 8th
+- [x] 🇺🇦️ Day 259: 2022, Wednesday, November 9th
+- [x] 🇺🇦️ Day 260: 2022, Thursday, November 10th
+- [x] 🇺🇦️ Day 261: 2022, Friday, November 11th
+- [x] 🇺🇦️ Day 262: 2022, Saturday, November 12th
+- [x] 🇺🇦️ Day 263: 2022, Sunday, November 13th
+- [x] 🇺🇦️ Day 264: 2022, Monday, November 14th
+- [x] 🇺🇦️ Day 265: 2022, Tuesday, November 15th
+- [x] 🇺🇦️ Day 266: 2022, Wednesday, November 16th
+- [x] 🇺🇦️ Day 267: 2022, Thursday, November 17th
+- [x] 🇺🇦️ Day 268: 2022, Friday, November 18th
+- [x] 🇺🇦️ Day 269: 2022, Saturday, November 19th
+- [x] 🇺🇦️ Day 270: 2022, Sunday, November 20th
+- [x] 🇺🇦️ Day 271: 2022, Monday, November 21st
+- [x] 🇺🇦️ Day 272: 2022, Tuesday, November 22nd
+- [x] 🇺🇦️ Day 273: 2022, Wednesday, November 23rd
+- [x] 🇺🇦️ Day 274: 2022, Thursday, November 24th
+- [x] 🇺🇦️ Day 275: 2022, Friday, November 25th
+- [x] 🇺🇦️ Day 276: 2022, Saturday, November 26th
+- [x] 🇺🇦️ Day 277: 2022, Sunday, November 27th
+- [x] 🇺🇦️ Day 278: 2022, Monday, November 28th
+- [x] 🇺🇦️ Day 279: 2022, Tuesday, November 29th
+- [x] 🇺🇦️ Day 280: 2022, Wednesday, November 30th
+- [x] 🇺🇦️ Day 281: 2022, Thursday, December 1st
+- [x] 🇺🇦️ Day 282: 2022, Friday, December 2nd
+- [x] 🇺🇦️ Day 283: 2022, Saturday, December 3rd
+- [x] 🇺🇦️ Day 284: 2022, Sunday, December 4th
+- [x] 🇺🇦️ Day 285: 2022, Monday, December 5th
+- [x] 🇺🇦️ Day 286: 2022, Tuesday, December 6th
+- [x] 🇺🇦️ Day 287: 2022, Wednesday, December 7th
+- [x] 🇺🇦️ Day 288: 2022, Thursday, December 8th
+- [x] 🇺🇦️ Day 289: 2022, Friday, December 9th
+- [x] 🇺🇦️ Day 290: 2022, Saturday, December 10th
 
-**Todo:** Add 1 month (or more) of data per day. We are going to be here for a while anyways.
 
 <!-- Log
 2022.12.08 - 2 months added, 1 extra month was added to make up for the error on the other list
@@ -348,6 +418,10 @@ _This list is currently a work in progress, and is not yet caught up_
 ### 2016, June 10th continuation error
 
 A severe error was spotted (9 days were missing) and now I have to figure out what to do before I can resume this list. I will try to fix this tomorrow (2022, Friday, December 9th)
+
+Edit1: The issue was not fixed on 2022, Friday, December 9th. Work on this project was skipped entirely for that day
+
+Edit2: The issue was fixed on 2022, Saturday, December 10th, and the range has been increased from 2017 to 2019. I will keep a watchful eye to try and prevent this from happening agao
 
 Internal notes:
 
@@ -1185,368 +1259,1015 @@ Since I am copying 1 month at a time, then pasting it back and adding in the num
 - [x] 🇺🇦️ Day 830: 2016, May 29th
 - [x] 🇺🇦️ Day 831: 2016, May 30th
 - [x] 🇺🇦️ Day 832: 2016, May 31st
-- [x] 🇺🇦️ Day 833: 2016, June 10th
-- [x] 🇺🇦️ Day 834: 2016, June 11th
-- [x] 🇺🇦️ Day 835: 2016, June 12th
-- [x] 🇺🇦️ Day 836: 2016, June 13th
-- [x] 🇺🇦️ Day 837: 2016, June 14th
-- [x] 🇺🇦️ Day 838: 2016, June 15th
-- [x] 🇺🇦️ Day 839: 2016, June 16th
-- [x] 🇺🇦️ Day 840: 2016, June 17th
-- [x] 🇺🇦️ Day 841: 2016, June 18th
-- [x] 🇺🇦️ Day 842: 2016, June 19th
-- [x] 🇺🇦️ Day 843: 2016, June 20th
-- [x] 🇺🇦️ Day 844: 2016, June 21st
-- [x] 🇺🇦️ Day 845: 2016, June 22nd
-- [x] 🇺🇦️ Day 846: 2016, June 23rd
-- [x] 🇺🇦️ Day 847: 2016, June 24th
-- [x] 🇺🇦️ Day 848: 2016, June 25th
-- [x] 🇺🇦️ Day 849: 2016, June 26th
-- [x] 🇺🇦️ Day 850: 2016, June 27th
-- [x] 🇺🇦️ Day 851: 2016, June 28th
-- [x] 🇺🇦️ Day 852: 2016, June 29th
-- [x] 🇺🇦️ Day 853: 2016, June 30th
-- [x] 🇺🇦️ Day 854: 2016, July 1st
-- [x] 🇺🇦️ Day 855: 2016, July 2nd
-- [x] 🇺🇦️ Day 856: 2016, July 3rd
-- [x] 🇺🇦️ Day 857: 2016, July 4th
-- [x] 🇺🇦️ Day 858: 2016, July 5th
-- [x] 🇺🇦️ Day 859: 2016, July 6th
-- [x] 🇺🇦️ Day 860: 2016, July 7th
-- [x] 🇺🇦️ Day 861: 2016, July 8th
-- [x] 🇺🇦️ Day 862: 2016, July 9th
-- [x] 🇺🇦️ Day 863: 2016, July 10th
-- [x] 🇺🇦️ Day 864: 2016, July 11th
-- [x] 🇺🇦️ Day 865: 2016, July 12th
-- [x] 🇺🇦️ Day 866: 2016, July 13th
-- [x] 🇺🇦️ Day 867: 2016, July 14th
-- [x] 🇺🇦️ Day 868: 2016, July 15th
-- [x] 🇺🇦️ Day 869: 2016, July 16th
-- [x] 🇺🇦️ Day 870: 2016, July 17th
-- [x] 🇺🇦️ Day 871: 2016, July 18th
-- [x] 🇺🇦️ Day 872: 2016, July 19th
-- [x] 🇺🇦️ Day 873: 2016, July 20th
-- [x] 🇺🇦️ Day 874: 2016, July 21st
-- [x] 🇺🇦️ Day 875: 2016, July 22nd
-- [x] 🇺🇦️ Day 876: 2016, July 23rd
-- [x] 🇺🇦️ Day 877: 2016, July 24th
-- [x] 🇺🇦️ Day 878: 2016, July 25th
-- [x] 🇺🇦️ Day 879: 2016, July 26th
-- [x] 🇺🇦️ Day 880: 2016, July 27th
-- [x] 🇺🇦️ Day 881: 2016, July 28th
-- [x] 🇺🇦️ Day 882: 2016, July 29th
-- [x] 🇺🇦️ Day 883: 2016, July 30th
-- [x] 🇺🇦️ Day 884: 2016, July 31st
-- [x] 🇺🇦️ Day 885: 2016, August 1st
-- [x] 🇺🇦️ Day 886: 2016, August 2nd
-- [x] 🇺🇦️ Day 887: 2016, August 3rd
-- [x] 🇺🇦️ Day 888: 2016, August 4th
-- [x] 🇺🇦️ Day 889: 2016, August 5th
-- [x] 🇺🇦️ Day 890: 2016, August 6th
-- [x] 🇺🇦️ Day 891: 2016, August 7th
-- [x] 🇺🇦️ Day 892: 2016, August 8th
-- [x] 🇺🇦️ Day 893: 2016, August 9th
-- [x] 🇺🇦️ Day 894: 2016, August 10th
-- [x] 🇺🇦️ Day 895: 2016, August 11th
-- [x] 🇺🇦️ Day 896: 2016, August 12th
-- [x] 🇺🇦️ Day 897: 2016, August 13th
-- [x] 🇺🇦️ Day 898: 2016, August 14th
-- [x] 🇺🇦️ Day 899: 2016, August 15th
-- [x] 🇺🇦️ Day 900: 2016, August 16th
-- [x] 🇺🇦️ Day 901: 2016, August 17th
-- [x] 🇺🇦️ Day 902: 2016, August 18th
-- [x] 🇺🇦️ Day 903: 2016, August 19th
-- [x] 🇺🇦️ Day 904: 2016, August 20th
-- [x] 🇺🇦️ Day 905: 2016, August 21st
-- [x] 🇺🇦️ Day 906: 2016, August 22nd
-- [x] 🇺🇦️ Day 907: 2016, August 23rd
-- [x] 🇺🇦️ Day 908: 2016, August 24th
-- [x] 🇺🇦️ Day 909: 2016, August 25th
-- [x] 🇺🇦️ Day 910: 2016, August 26th
-- [x] 🇺🇦️ Day 911: 2016, August 27th
-- [x] 🇺🇦️ Day 912: 2016, August 28th
-- [x] 🇺🇦️ Day 913: 2016, August 29th
-- [x] 🇺🇦️ Day 914: 2016, August 30th
-- [x] 🇺🇦️ Day 915: 2016, August 31st
-- [x] 🇺🇦️ Day 916: 2016, September 1st
-- [x] 🇺🇦️ Day 917: 2016, September 2nd
-- [x] 🇺🇦️ Day 918: 2016, September 3rd
-- [x] 🇺🇦️ Day 919: 2016, September 4th
-- [x] 🇺🇦️ Day 920: 2016, September 5th
-- [x] 🇺🇦️ Day 921: 2016, September 6th
-- [x] 🇺🇦️ Day 922: 2016, September 7th
-- [x] 🇺🇦️ Day 923: 2016, September 8th
-- [x] 🇺🇦️ Day 924: 2016, September 9th
-- [x] 🇺🇦️ Day 925: 2016, September 10th
-- [x] 🇺🇦️ Day 926: 2016, September 11th
-- [x] 🇺🇦️ Day 927: 2016, September 12th
-- [x] 🇺🇦️ Day 928: 2016, September 13th
-- [x] 🇺🇦️ Day 929: 2016, September 14th
-- [x] 🇺🇦️ Day 930: 2016, September 15th
-- [x] 🇺🇦️ Day 931: 2016, September 16th
-- [x] 🇺🇦️ Day 932: 2016, September 17th
-- [x] 🇺🇦️ Day 933: 2016, September 18th
-- [x] 🇺🇦️ Day 934: 2016, September 19th
-- [x] 🇺🇦️ Day 935: 2016, September 20th
-- [x] 🇺🇦️ Day 936: 2016, September 21st
-- [x] 🇺🇦️ Day 937: 2016, September 22nd
-- [x] 🇺🇦️ Day 938: 2016, September 23rd
-- [x] 🇺🇦️ Day 939: 2016, September 24th
-- [x] 🇺🇦️ Day 940: 2016, September 25th
-- [x] 🇺🇦️ Day 941: 2016, September 26th
-- [x] 🇺🇦️ Day 942: 2016, September 27th
-- [x] 🇺🇦️ Day 943: 2016, September 28th
-- [x] 🇺🇦️ Day 944: 2016, September 29th
-- [x] 🇺🇦️ Day 945: 2016, September 30th
-- [x] 🇺🇦️ Day 946: 2016, October 1st
-- [x] 🇺🇦️ Day 947: 2016, October 2nd
-- [x] 🇺🇦️ Day 948: 2016, October 3rd
-- [x] 🇺🇦️ Day 949: 2016, October 4th
-- [x] 🇺🇦️ Day 950: 2016, October 5th
-- [x] 🇺🇦️ Day 951: 2016, October 6th
-- [x] 🇺🇦️ Day 952: 2016, October 7th
-- [x] 🇺🇦️ Day 953: 2016, October 8th
-- [x] 🇺🇦️ Day 954: 2016, October 9th
-- [x] 🇺🇦️ Day 955: 2016, October 10th
-- [x] 🇺🇦️ Day 956: 2016, October 11th
-- [x] 🇺🇦️ Day 957: 2016, October 12th
-- [x] 🇺🇦️ Day 958: 2016, October 13th
-- [x] 🇺🇦️ Day 959: 2016, October 14th
-- [x] 🇺🇦️ Day 960: 2016, October 15th
-- [x] 🇺🇦️ Day 961: 2016, October 16th
-- [x] 🇺🇦️ Day 962: 2016, October 17th
-- [x] 🇺🇦️ Day 963: 2016, October 18th
-- [x] 🇺🇦️ Day 964: 2016, October 19th
-- [x] 🇺🇦️ Day 965: 2016, October 20th
-- [x] 🇺🇦️ Day 966: 2016, October 21st
-- [x] 🇺🇦️ Day 967: 2016, October 22nd
-- [x] 🇺🇦️ Day 968: 2016, October 23rd
-- [x] 🇺🇦️ Day 969: 2016, October 24th
-- [x] 🇺🇦️ Day 970: 2016, October 25th
-- [x] 🇺🇦️ Day 971: 2016, October 26th
-- [x] 🇺🇦️ Day 972: 2016, October 27th
-- [x] 🇺🇦️ Day 973: 2016, October 28th
-- [x] 🇺🇦️ Day 974: 2016, October 29th
-- [x] 🇺🇦️ Day 975: 2016, October 30th
-- [x] 🇺🇦️ Day 976: 2016, October 31st
-- [x] 🇺🇦️ Day 977: 2016, November 1st
-- [x] 🇺🇦️ Day 978: 2016, November 2nd
-- [x] 🇺🇦️ Day 979: 2016, November 3rd
-- [x] 🇺🇦️ Day 980: 2016, November 4th
-- [x] 🇺🇦️ Day 981: 2016, November 5th
-- [x] 🇺🇦️ Day 982: 2016, November 6th
-- [x] 🇺🇦️ Day 983: 2016, November 7th
-- [x] 🇺🇦️ Day 984: 2016, November 8th
-- [x] 🇺🇦️ Day 985: 2016, November 9th
-- [x] 🇺🇦️ Day 986: 2016, November 10th
-- [x] 🇺🇦️ Day 987: 2016, November 11th
-- [x] 🇺🇦️ Day 988: 2016, November 12th
-- [x] 🇺🇦️ Day 989: 2016, November 13th
-- [x] 🇺🇦️ Day 990: 2016, November 14th
-- [x] 🇺🇦️ Day 991: 2016, November 15th
-- [x] 🇺🇦️ Day 992: 2016, November 16th
-- [x] 🇺🇦️ Day 993: 2016, November 17th
-- [x] 🇺🇦️ Day 994: 2016, November 18th
-- [x] 🇺🇦️ Day 995: 2016, November 19th
-- [x] 🇺🇦️ Day 996: 2016, November 20th
-- [x] 🇺🇦️ Day 997: 2016, November 21st
-- [x] 🇺🇦️ Day 998: 2016, November 22nd
-- [x] 🇺🇦️ Day 999: 2016, November 23rd
-- [x] 🇺🇦️ Day 1000: 2016, November 24th
-- [x] 🇺🇦️ Day 1001: 2016, November 25th
-- [x] 🇺🇦️ Day 1002: 2016, November 26th
-- [x] 🇺🇦️ Day 1003: 2016, November 27th
-- [x] 🇺🇦️ Day 1004: 2016, November 28th
-- [x] 🇺🇦️ Day 1005: 2016, November 29th
-- [x] 🇺🇦️ Day 1006: 2016, November 30th
-- [x] 🇺🇦️ Day 1007: 2016, December 1st
-- [x] 🇺🇦️ Day 1008: 2016, December 2nd
-- [x] 🇺🇦️ Day 1009: 2016, December 3rd
-- [x] 🇺🇦️ Day 1010: 2016, December 4th
-- [x] 🇺🇦️ Day 1011: 2016, December 5th
-- [x] 🇺🇦️ Day 1012: 2016, December 6th
-- [x] 🇺🇦️ Day 1013: 2016, December 7th
-- [x] 🇺🇦️ Day 1014: 2016, December 8th
-- [x] 🇺🇦️ Day 1015: 2016, December 9th
-- [x] 🇺🇦️ Day 1016: 2016, December 10th
-- [x] 🇺🇦️ Day 1017: 2016, December 11th
-- [x] 🇺🇦️ Day 1018: 2016, December 12th
-- [x] 🇺🇦️ Day 1019: 2016, December 13th
-- [x] 🇺🇦️ Day 1020: 2016, December 14th
-- [x] 🇺🇦️ Day 1021: 2016, December 15th
-- [x] 🇺🇦️ Day 1022: 2016, December 16th
-- [x] 🇺🇦️ Day 1023: 2016, December 17th
-- [x] 🇺🇦️ Day 1024: 2016, December 18th
-- [x] 🇺🇦️ Day 1025: 2016, December 19th
-- [x] 🇺🇦️ Day 1026: 2016, December 20th
-- [x] 🇺🇦️ Day 1027: 2016, December 21st
-- [x] 🇺🇦️ Day 1028: 2016, December 22nd
-- [x] 🇺🇦️ Day 1029: 2016, December 23rd
-- [x] 🇺🇦️ Day 1030: 2016, December 24th
-- [x] 🇺🇦️ Day 1031: 2016, December 25th
-- [x] 🇺🇦️ Day 1032: 2016, December 26th
-- [x] 🇺🇦️ Day 1033: 2016, December 27th
-- [x] 🇺🇦️ Day 1034: 2016, December 28th
-- [x] 🇺🇦️ Day 1035: 2016, December 29th
-- [x] 🇺🇦️ Day 1036: 2016, December 30th
-- [x] 🇺🇦️ Day 1037: 2016, December 31st
-- [x] 🇺🇦️ Day 1038: 2017, January 1st
-- [x] 🇺🇦️ Day 1039: 2017, January 2nd
-- [x] 🇺🇦️ Day 1040: 2017, January 3rd
-- [x] 🇺🇦️ Day 1041: 2017, January 4th
-- [x] 🇺🇦️ Day 1042: 2017, January 5th
-- [x] 🇺🇦️ Day 1043: 2017, January 6th
-- [x] 🇺🇦️ Day 1044: 2017, January 7th
-- [x] 🇺🇦️ Day 1045: 2017, January 8th
-- [x] 🇺🇦️ Day 1046: 2017, January 9th
-- [x] 🇺🇦️ Day 1047: 2017, January 10th
-- [x] 🇺🇦️ Day 1048: 2017, January 11th
-- [x] 🇺🇦️ Day 1049: 2017, January 12th
-- [x] 🇺🇦️ Day 1050: 2017, January 13th
-- [x] 🇺🇦️ Day 1051: 2017, January 14th
-- [x] 🇺🇦️ Day 1052: 2017, January 15th
-- [x] 🇺🇦️ Day 1053: 2017, January 16th
-- [x] 🇺🇦️ Day 1054: 2017, January 17th
-- [x] 🇺🇦️ Day 1055: 2017, January 18th
-- [x] 🇺🇦️ Day 1056: 2017, January 19th
-- [x] 🇺🇦️ Day 1057: 2017, January 20th
-- [x] 🇺🇦️ Day 1058: 2017, January 21st
-- [x] 🇺🇦️ Day 1059: 2017, January 22nd
-- [x] 🇺🇦️ Day 1060: 2017, January 23rd
-- [x] 🇺🇦️ Day 1061: 2017, January 24th
-- [x] 🇺🇦️ Day 1062: 2017, January 25th
-- [x] 🇺🇦️ Day 1063: 2017, January 26th
-- [x] 🇺🇦️ Day 1064: 2017, January 27th
-- [x] 🇺🇦️ Day 1065: 2017, January 28th
-- [x] 🇺🇦️ Day 1066: 2017, January 29th
-- [x] 🇺🇦️ Day 1067: 2017, January 30th
-- [x] 🇺🇦️ Day 1068: 2017, January 31st
-- [x] 🇺🇦️ Day 1069: 2017, February 1st
-- [x] 🇺🇦️ Day 1070: 2017, February 2nd
-- [x] 🇺🇦️ Day 1071: 2017, February 3rd
-- [x] 🇺🇦️ Day 1072: 2017, February 4th
-- [x] 🇺🇦️ Day 1073: 2017, February 5th
-- [x] 🇺🇦️ Day 1074: 2017, February 6th
-- [x] 🇺🇦️ Day 1075: 2017, February 7th
-- [x] 🇺🇦️ Day 1076: 2017, February 8th
-- [x] 🇺🇦️ Day 1077: 2017, February 9th
-- [x] 🇺🇦️ Day 1078: 2017, February 10th
-- [x] 🇺🇦️ Day 1079: 2017, February 11th
-- [x] 🇺🇦️ Day 1080: 2017, February 12th
-- [x] 🇺🇦️ Day 1081: 2017, February 13th
-- [x] 🇺🇦️ Day 1082: 2017, February 14th
-- [x] 🇺🇦️ Day 1083: 2017, February 15th
-- [x] 🇺🇦️ Day 1084: 2017, February 16th
-- [x] 🇺🇦️ Day 1085: 2017, February 17th
-- [x] 🇺🇦️ Day 1086: 2017, February 18th
-- [x] 🇺🇦️ Day 1087: 2017, February 19th
-- [x] 🇺🇦️ Day 1088: 2017, February 20th
-- [x] 🇺🇦️ Day 1089: 2017, February 21st
-- [x] 🇺🇦️ Day 1090: 2017, February 22nd
-- [x] 🇺🇦️ Day 1091: 2017, February 23rd
-- [x] 🇺🇦️ Day 1092: 2017, February 24th
-- [x] 🇺🇦️ Day 1093: 2017, February 25th
-- [x] 🇺🇦️ Day 1094: 2017, February 26th
-- [x] 🇺🇦️ Day 1095: 2017, February 27th
-- [x] 🇺🇦️ Day 1096: 2017, February 28th
-- [x] 🇺🇦️ Day 1097: 2017, March 1st
-- [x] 🇺🇦️ Day 1098: 2017, March 2nd
-- [x] 🇺🇦️ Day 1099: 2017, March 3rd
-- [x] 🇺🇦️ Day 1100: 2017, March 4th
-- [x] 🇺🇦️ Day 1101: 2017, March 5th
-- [x] 🇺🇦️ Day 1102: 2017, March 6th
-- [x] 🇺🇦️ Day 1103: 2017, March 7th
-- [x] 🇺🇦️ Day 1104: 2017, March 8th
-- [x] 🇺🇦️ Day 1105: 2017, March 9th
-- [x] 🇺🇦️ Day 1106: 2017, March 10th
-- [x] 🇺🇦️ Day 1107: 2017, March 11th
-- [x] 🇺🇦️ Day 1108: 2017, March 12th
-- [x] 🇺🇦️ Day 1109: 2017, March 13th
-- [x] 🇺🇦️ Day 1110: 2017, March 14th
-- [x] 🇺🇦️ Day 1111: 2017, March 15th
-- [x] 🇺🇦️ Day 1112: 2017, March 16th
-- [x] 🇺🇦️ Day 1113: 2017, March 17th
-- [x] 🇺🇦️ Day 1114: 2017, March 18th
-- [x] 🇺🇦️ Day 1115: 2017, March 19th
-- [x] 🇺🇦️ Day 1116: 2017, March 20th
-- [x] 🇺🇦️ Day 1117: 2017, March 21st
-- [x] 🇺🇦️ Day 1118: 2017, March 22nd
-- [x] 🇺🇦️ Day 1119: 2017, March 23rd
-- [x] 🇺🇦️ Day 1120: 2017, March 24th
-- [x] 🇺🇦️ Day 1121: 2017, March 25th
-- [x] 🇺🇦️ Day 1122: 2017, March 26th
-- [x] 🇺🇦️ Day 1123: 2017, March 27th
-- [x] 🇺🇦️ Day 1124: 2017, March 28th
-- [x] 🇺🇦️ Day 1125: 2017, March 29th
-- [x] 🇺🇦️ Day 1126: 2017, March 30th
-- [x] 🇺🇦️ Day 1127: 2017, March 31st
-- [x] 🇺🇦️ Day 1128: 2017, April 1st
-- [x] 🇺🇦️ Day 1129: 2017, April 2nd
-- [x] 🇺🇦️ Day 1130: 2017, April 3rd
-- [x] 🇺🇦️ Day 1131: 2017, April 4th
-- [x] 🇺🇦️ Day 1132: 2017, April 5th
-- [x] 🇺🇦️ Day 1133: 2017, April 6th
-- [x] 🇺🇦️ Day 1134: 2017, April 7th
-- [x] 🇺🇦️ Day 1135: 2017, April 8th
-- [x] 🇺🇦️ Day 1136: 2017, April 9th
-- [x] 🇺🇦️ Day 1137: 2017, April 10th
-- [x] 🇺🇦️ Day 1138: 2017, April 11th
-- [x] 🇺🇦️ Day 1139: 2017, April 12th
-- [x] 🇺🇦️ Day 1140: 2017, April 13th
-- [x] 🇺🇦️ Day 1141: 2017, April 14th
-- [x] 🇺🇦️ Day 1142: 2017, April 15th
-- [x] 🇺🇦️ Day 1143: 2017, April 16th
-- [x] 🇺🇦️ Day 1144: 2017, April 17th
-- [x] 🇺🇦️ Day 1145: 2017, April 18th
-- [x] 🇺🇦️ Day 1146: 2017, April 19th
-- [x] 🇺🇦️ Day 1147: 2017, April 20th
-- [x] 🇺🇦️ Day 1148: 2017, April 21st
-- [x] 🇺🇦️ Day 1149: 2017, April 22nd
-- [x] 🇺🇦️ Day 1150: 2017, April 23rd
-- [x] 🇺🇦️ Day 1151: 2017, April 24th
-- [x] 🇺🇦️ Day 1152: 2017, April 25th
-- [x] 🇺🇦️ Day 1153: 2017, April 26th
-- [x] 🇺🇦️ Day 1154: 2017, April 27th
-- [x] 🇺🇦️ Day 1155: 2017, April 28th
-- [x] 🇺🇦️ Day 1156: 2017, April 29th
-- [x] 🇺🇦️ Day 1157: 2017, April 30th
-- [x] 🇺🇦️ Day 1158: 2017, May 1st
-- [x] 🇺🇦️ Day 1159: 2017, May 2nd
-- [x] 🇺🇦️ Day 1160: 2017, May 3rd
-- [x] 🇺🇦️ Day 1161: 2017, May 4th
-- [x] 🇺🇦️ Day 1162: 2017, May 5th
-- [x] 🇺🇦️ Day 1163: 2017, May 6th
-- [x] 🇺🇦️ Day 1164: 2017, May 7th
-- [x] 🇺🇦️ Day 1165: 2017, May 8th
-- [x] 🇺🇦️ Day 1166: 2017, May 9th
-- [x] 🇺🇦️ Day 1167: 2017, May 10th
-- [x] 🇺🇦️ Day 1168: 2017, May 11th
-- [x] 🇺🇦️ Day 1169: 2017, May 12th
-- [x] 🇺🇦️ Day 1170: 2017, May 13th
-- [x] 🇺🇦️ Day 1171: 2017, May 14th
-- [x] 🇺🇦️ Day 1172: 2017, May 15th
-- [x] 🇺🇦️ Day 1173: 2017, May 16th
-- [x] 🇺🇦️ Day 1174: 2017, May 17th
-- [x] 🇺🇦️ Day 1175: 2017, May 18th
-- [x] 🇺🇦️ Day 1176: 2017, May 19th
-- [x] 🇺🇦️ Day 1177: 2017, May 20th
-- [x] 🇺🇦️ Day 1178: 2017, May 21st
-- [x] 🇺🇦️ Day 1179: 2017, May 22nd
-- [x] 🇺🇦️ Day 1180: 2017, May 23rd
-- [x] 🇺🇦️ Day 1181: 2017, May 24th
-- [x] 🇺🇦️ Day 1182: 2017, May 25th
-- [x] 🇺🇦️ Day 1183: 2017, May 26th
-- [x] 🇺🇦️ Day 1184: 2017, May 27th
-- [x] 🇺🇦️ Day 1185: 2017, May 28th
-- [x] 🇺🇦️ Day 1186: 2017, May 29th
-- [x] 🇺🇦️ Day 1187: 2017, May 30th
-- [x] 🇺🇦️ Day 1188: 2017, May 31st
-- [x] ℹ️ List incomplete, less than 2200 entries left to be added until caught up
-- [ ] 1096/3212, 34.12% complete (as of 2022, Wednesday, December 7th)
+- [x] 🇺🇦️ Day 833: 2016, June 1st
+- [x] 🇺🇦️ Day 834: 2016, June 2nd
+- [x] 🇺🇦️ Day 835: 2016, June 3rd
+- [x] 🇺🇦️ Day 836: 2016, June 4th
+- [x] 🇺🇦️ Day 837: 2016, June 5th
+- [x] 🇺🇦️ Day 838: 2016, June 6th
+- [x] 🇺🇦️ Day 839: 2016, June 7th
+- [x] 🇺🇦️ Day 840: 2016, June 8th
+- [x] 🇺🇦️ Day 841: 2016, June 9th
+- [x] 🇺🇦️ Day 842: 2016, June 10th
+- [x] 🇺🇦️ Day 843: 2016, June 11th
+- [x] 🇺🇦️ Day 844: 2016, June 12th
+- [x] 🇺🇦️ Day 845: 2016, June 13th
+- [x] 🇺🇦️ Day 846: 2016, June 14th
+- [x] 🇺🇦️ Day 847: 2016, June 15th
+- [x] 🇺🇦️ Day 848: 2016, June 16th
+- [x] 🇺🇦️ Day 849: 2016, June 17th
+- [x] 🇺🇦️ Day 850: 2016, June 18th
+- [x] 🇺🇦️ Day 851: 2016, June 19th
+- [x] 🇺🇦️ Day 852: 2016, June 20th
+- [x] 🇺🇦️ Day 853: 2016, June 21st
+- [x] 🇺🇦️ Day 854: 2016, June 22nd
+- [x] 🇺🇦️ Day 855: 2016, June 23rd
+- [x] 🇺🇦️ Day 856: 2016, June 24th
+- [x] 🇺🇦️ Day 857: 2016, June 25th
+- [x] 🇺🇦️ Day 858: 2016, June 26th
+- [x] 🇺🇦️ Day 859: 2016, June 27th
+- [x] 🇺🇦️ Day 860: 2016, June 28th
+- [x] 🇺🇦️ Day 861: 2016, June 29th
+- [x] 🇺🇦️ Day 862: 2016, June 30th
+- [x] 🇺🇦️ Day 863: 2016, July 1st
+- [x] 🇺🇦️ Day 864: 2016, July 2nd
+- [x] 🇺🇦️ Day 865: 2016, July 3rd
+- [x] 🇺🇦️ Day 866: 2016, July 4th
+- [x] 🇺🇦️ Day 867: 2016, July 5th
+- [x] 🇺🇦️ Day 868: 2016, July 6th
+- [x] 🇺🇦️ Day 869: 2016, July 7th
+- [x] 🇺🇦️ Day 870: 2016, July 8th
+- [x] 🇺🇦️ Day 871: 2016, July 9th
+- [x] 🇺🇦️ Day 872: 2016, July 10th
+- [x] 🇺🇦️ Day 873: 2016, July 11th
+- [x] 🇺🇦️ Day 874: 2016, July 12th
+- [x] 🇺🇦️ Day 875: 2016, July 13th
+- [x] 🇺🇦️ Day 876: 2016, July 14th
+- [x] 🇺🇦️ Day 877: 2016, July 15th
+- [x] 🇺🇦️ Day 878: 2016, July 16th
+- [x] 🇺🇦️ Day 879: 2016, July 17th
+- [x] 🇺🇦️ Day 880: 2016, July 18th
+- [x] 🇺🇦️ Day 881: 2016, July 19th
+- [x] 🇺🇦️ Day 882: 2016, July 20th
+- [x] 🇺🇦️ Day 883: 2016, July 21st
+- [x] 🇺🇦️ Day 884: 2016, July 22nd
+- [x] 🇺🇦️ Day 885: 2016, July 23rd
+- [x] 🇺🇦️ Day 886: 2016, July 24th
+- [x] 🇺🇦️ Day 887: 2016, July 25th
+- [x] 🇺🇦️ Day 888: 2016, July 26th
+- [x] 🇺🇦️ Day 889: 2016, July 27th
+- [x] 🇺🇦️ Day 890: 2016, July 28th
+- [x] 🇺🇦️ Day 891: 2016, July 29th
+- [x] 🇺🇦️ Day 892: 2016, July 30th
+- [x] 🇺🇦️ Day 893: 2016, July 31st
+- [x] 🇺🇦️ Day 894: 2016, August 1st
+- [x] 🇺🇦️ Day 895: 2016, August 2nd
+- [x] 🇺🇦️ Day 896: 2016, August 3rd
+- [x] 🇺🇦️ Day 897: 2016, August 4th
+- [x] 🇺🇦️ Day 898: 2016, August 5th
+- [x] 🇺🇦️ Day 899: 2016, August 6th
+- [x] 🇺🇦️ Day 900: 2016, August 7th
+- [x] 🇺🇦️ Day 901: 2016, August 8th
+- [x] 🇺🇦️ Day 902: 2016, August 9th
+- [x] 🇺🇦️ Day 903: 2016, August 10th
+- [x] 🇺🇦️ Day 904: 2016, August 11th
+- [x] 🇺🇦️ Day 905: 2016, August 12th
+- [x] 🇺🇦️ Day 906: 2016, August 13th
+- [x] 🇺🇦️ Day 907: 2016, August 14th
+- [x] 🇺🇦️ Day 908: 2016, August 15th
+- [x] 🇺🇦️ Day 909: 2016, August 16th
+- [x] 🇺🇦️ Day 910: 2016, August 17th
+- [x] 🇺🇦️ Day 911: 2016, August 18th
+- [x] 🇺🇦️ Day 912: 2016, August 19th
+- [x] 🇺🇦️ Day 913: 2016, August 20th
+- [x] 🇺🇦️ Day 914: 2016, August 21st
+- [x] 🇺🇦️ Day 915: 2016, August 22nd
+- [x] 🇺🇦️ Day 916: 2016, August 23rd
+- [x] 🇺🇦️ Day 917: 2016, August 24th
+- [x] 🇺🇦️ Day 918: 2016, August 25th
+- [x] 🇺🇦️ Day 919: 2016, August 26th
+- [x] 🇺🇦️ Day 920: 2016, August 27th
+- [x] 🇺🇦️ Day 921: 2016, August 28th
+- [x] 🇺🇦️ Day 922: 2016, August 29th
+- [x] 🇺🇦️ Day 923: 2016, August 30th
+- [x] 🇺🇦️ Day 924: 2016, August 31st
+- [x] 🇺🇦️ Day 925: 2016, September 1st
+- [x] 🇺🇦️ Day 926: 2016, September 2nd
+- [x] 🇺🇦️ Day 927: 2016, September 3rd
+- [x] 🇺🇦️ Day 928: 2016, September 4th
+- [x] 🇺🇦️ Day 929: 2016, September 5th
+- [x] 🇺🇦️ Day 930: 2016, September 6th
+- [x] 🇺🇦️ Day 931: 2016, September 7th
+- [x] 🇺🇦️ Day 932: 2016, September 8th
+- [x] 🇺🇦️ Day 933: 2016, September 9th
+- [x] 🇺🇦️ Day 934: 2016, September 10th
+- [x] 🇺🇦️ Day 935: 2016, September 11th
+- [x] 🇺🇦️ Day 936: 2016, September 12th
+- [x] 🇺🇦️ Day 937: 2016, September 13th
+- [x] 🇺🇦️ Day 938: 2016, September 14th
+- [x] 🇺🇦️ Day 939: 2016, September 15th
+- [x] 🇺🇦️ Day 940: 2016, September 16th
+- [x] 🇺🇦️ Day 941: 2016, September 17th
+- [x] 🇺🇦️ Day 942: 2016, September 18th
+- [x] 🇺🇦️ Day 943: 2016, September 19th
+- [x] 🇺🇦️ Day 944: 2016, September 20th
+- [x] 🇺🇦️ Day 945: 2016, September 21st
+- [x] 🇺🇦️ Day 946: 2016, September 22nd
+- [x] 🇺🇦️ Day 947: 2016, September 23rd
+- [x] 🇺🇦️ Day 948: 2016, September 24th
+- [x] 🇺🇦️ Day 949: 2016, September 25th
+- [x] 🇺🇦️ Day 950: 2016, September 26th
+- [x] 🇺🇦️ Day 951: 2016, September 27th
+- [x] 🇺🇦️ Day 952: 2016, September 28th
+- [x] 🇺🇦️ Day 953: 2016, September 29th
+- [x] 🇺🇦️ Day 954: 2016, September 30th
+- [x] 🇺🇦️ Day 955: 2016, October 1st
+- [x] 🇺🇦️ Day 956: 2016, October 2nd
+- [x] 🇺🇦️ Day 957: 2016, October 3rd
+- [x] 🇺🇦️ Day 958: 2016, October 4th
+- [x] 🇺🇦️ Day 959: 2016, October 5th
+- [x] 🇺🇦️ Day 960: 2016, October 6th
+- [x] 🇺🇦️ Day 961: 2016, October 7th
+- [x] 🇺🇦️ Day 962: 2016, October 8th
+- [x] 🇺🇦️ Day 963: 2016, October 9th
+- [x] 🇺🇦️ Day 964: 2016, October 10th
+- [x] 🇺🇦️ Day 965: 2016, October 11th
+- [x] 🇺🇦️ Day 966: 2016, October 12th
+- [x] 🇺🇦️ Day 967: 2016, October 13th
+- [x] 🇺🇦️ Day 968: 2016, October 14th
+- [x] 🇺🇦️ Day 969: 2016, October 15th
+- [x] 🇺🇦️ Day 970: 2016, October 16th
+- [x] 🇺🇦️ Day 971: 2016, October 17th
+- [x] 🇺🇦️ Day 972: 2016, October 18th
+- [x] 🇺🇦️ Day 973: 2016, October 19th
+- [x] 🇺🇦️ Day 974: 2016, October 20th
+- [x] 🇺🇦️ Day 975: 2016, October 21st
+- [x] 🇺🇦️ Day 976: 2016, October 22nd
+- [x] 🇺🇦️ Day 977: 2016, October 23rd
+- [x] 🇺🇦️ Day 978: 2016, October 24th
+- [x] 🇺🇦️ Day 979: 2016, October 25th
+- [x] 🇺🇦️ Day 980: 2016, October 26th
+- [x] 🇺🇦️ Day 981: 2016, October 27th
+- [x] 🇺🇦️ Day 982: 2016, October 28th
+- [x] 🇺🇦️ Day 983: 2016, October 29th
+- [x] 🇺🇦️ Day 984: 2016, October 30th
+- [x] 🇺🇦️ Day 985: 2016, October 31st
+- [x] 🇺🇦️ Day 986: 2016, November 1st
+- [x] 🇺🇦️ Day 987: 2016, November 2nd
+- [x] 🇺🇦️ Day 988: 2016, November 3rd
+- [x] 🇺🇦️ Day 989: 2016, November 4th
+- [x] 🇺🇦️ Day 990: 2016, November 5th
+- [x] 🇺🇦️ Day 991: 2016, November 6th
+- [x] 🇺🇦️ Day 992: 2016, November 7th
+- [x] 🇺🇦️ Day 993: 2016, November 8th
+- [x] 🇺🇦️ Day 994: 2016, November 9th
+- [x] 🇺🇦️ Day 995: 2016, November 10th
+- [x] 🇺🇦️ Day 996: 2016, November 11th
+- [x] 🇺🇦️ Day 997: 2016, November 12th
+- [x] 🇺🇦️ Day 998: 2016, November 13th
+- [x] 🇺🇦️ Day 999: 2016, November 14th
+- [x] 🇺🇦️ Day 1000: 2016, November 15th
+- [x] 🇺🇦️ Day 1001: 2016, November 16th
+- [x] 🇺🇦️ Day 1002: 2016, November 17th
+- [x] 🇺🇦️ Day 1003: 2016, November 18th
+- [x] 🇺🇦️ Day 1004: 2016, November 19th
+- [x] 🇺🇦️ Day 1005: 2016, November 20th
+- [x] 🇺🇦️ Day 1006: 2016, November 21st
+- [x] 🇺🇦️ Day 1007: 2016, November 22nd
+- [x] 🇺🇦️ Day 1008: 2016, November 23rd
+- [x] 🇺🇦️ Day 1009: 2016, November 24th
+- [x] 🇺🇦️ Day 1010: 2016, November 25th
+- [x] 🇺🇦️ Day 1011: 2016, November 26th
+- [x] 🇺🇦️ Day 1012: 2016, November 27th
+- [x] 🇺🇦️ Day 1013: 2016, November 28th
+- [x] 🇺🇦️ Day 1014: 2016, November 29th
+- [x] 🇺🇦️ Day 1015: 2016, November 30th
+- [x] 🇺🇦️ Day 1016: 2016, December 1st
+- [x] 🇺🇦️ Day 1017: 2016, December 2nd
+- [x] 🇺🇦️ Day 1018: 2016, December 3rd
+- [x] 🇺🇦️ Day 1019: 2016, December 4th
+- [x] 🇺🇦️ Day 1020: 2016, December 5th
+- [x] 🇺🇦️ Day 1021: 2016, December 6th
+- [x] 🇺🇦️ Day 1022: 2016, December 7th
+- [x] 🇺🇦️ Day 1023: 2016, December 8th
+- [x] 🇺🇦️ Day 1024: 2016, December 9th
+- [x] 🇺🇦️ Day 1025: 2016, December 10th
+- [x] 🇺🇦️ Day 1026: 2016, December 11th
+- [x] 🇺🇦️ Day 1027: 2016, December 12th
+- [x] 🇺🇦️ Day 1028: 2016, December 13th
+- [x] 🇺🇦️ Day 1029: 2016, December 14th
+- [x] 🇺🇦️ Day 1030: 2016, December 15th
+- [x] 🇺🇦️ Day 1031: 2016, December 16th
+- [x] 🇺🇦️ Day 1032: 2016, December 17th
+- [x] 🇺🇦️ Day 1033: 2016, December 18th
+- [x] 🇺🇦️ Day 1034: 2016, December 19th
+- [x] 🇺🇦️ Day 1035: 2016, December 20th
+- [x] 🇺🇦️ Day 1036: 2016, December 21st
+- [x] 🇺🇦️ Day 1037: 2016, December 22nd
+- [x] 🇺🇦️ Day 1038: 2016, December 23rd
+- [x] 🇺🇦️ Day 1039: 2016, December 24th
+- [x] 🇺🇦️ Day 1040: 2016, December 25th
+- [x] 🇺🇦️ Day 1041: 2016, December 26th
+- [x] 🇺🇦️ Day 1042: 2016, December 27th
+- [x] 🇺🇦️ Day 1043: 2016, December 28th
+- [x] 🇺🇦️ Day 1044: 2016, December 29th
+- [x] 🇺🇦️ Day 1045: 2016, December 30th
+- [x] 🇺🇦️ Day 1046: 2016, December 31st
+- [x] 🇺🇦️ Day 1047: 2017, January 1st
+- [x] 🇺🇦️ Day 1048: 2017, January 2nd
+- [x] 🇺🇦️ Day 1049: 2017, January 3rd
+- [x] 🇺🇦️ Day 1050: 2017, January 4th
+- [x] 🇺🇦️ Day 1051: 2017, January 5th
+- [x] 🇺🇦️ Day 1052: 2017, January 6th
+- [x] 🇺🇦️ Day 1053: 2017, January 7th
+- [x] 🇺🇦️ Day 1054: 2017, January 8th
+- [x] 🇺🇦️ Day 1055: 2017, January 9th
+- [x] 🇺🇦️ Day 1056: 2017, January 10th
+- [x] 🇺🇦️ Day 1057: 2017, January 11th
+- [x] 🇺🇦️ Day 1058: 2017, January 12th
+- [x] 🇺🇦️ Day 1059: 2017, January 13th
+- [x] 🇺🇦️ Day 1060: 2017, January 14th
+- [x] 🇺🇦️ Day 1061: 2017, January 15th
+- [x] 🇺🇦️ Day 1062: 2017, January 16th
+- [x] 🇺🇦️ Day 1063: 2017, January 17th
+- [x] 🇺🇦️ Day 1064: 2017, January 18th
+- [x] 🇺🇦️ Day 1065: 2017, January 19th
+- [x] 🇺🇦️ Day 1066: 2017, January 20th
+- [x] 🇺🇦️ Day 1067: 2017, January 21st
+- [x] 🇺🇦️ Day 1068: 2017, January 22nd
+- [x] 🇺🇦️ Day 1069: 2017, January 23rd
+- [x] 🇺🇦️ Day 1070: 2017, January 24th
+- [x] 🇺🇦️ Day 1071: 2017, January 25th
+- [x] 🇺🇦️ Day 1072: 2017, January 26th
+- [x] 🇺🇦️ Day 1073: 2017, January 27th
+- [x] 🇺🇦️ Day 1074: 2017, January 28th
+- [x] 🇺🇦️ Day 1075: 2017, January 29th
+- [x] 🇺🇦️ Day 1076: 2017, January 30th
+- [x] 🇺🇦️ Day 1077: 2017, January 31st
+- [x] 🇺🇦️ Day 1078: 2017, February 1st
+- [x] 🇺🇦️ Day 1079: 2017, February 2nd
+- [x] 🇺🇦️ Day 1080: 2017, February 3rd
+- [x] 🇺🇦️ Day 1081: 2017, February 4th
+- [x] 🇺🇦️ Day 1082: 2017, February 5th
+- [x] 🇺🇦️ Day 1083: 2017, February 6th
+- [x] 🇺🇦️ Day 1084: 2017, February 7th
+- [x] 🇺🇦️ Day 1085: 2017, February 8th
+- [x] 🇺🇦️ Day 1086: 2017, February 9th
+- [x] 🇺🇦️ Day 1087: 2017, February 10th
+- [x] 🇺🇦️ Day 1088: 2017, February 11th
+- [x] 🇺🇦️ Day 1089: 2017, February 12th
+- [x] 🇺🇦️ Day 1090: 2017, February 13th
+- [x] 🇺🇦️ Day 1091: 2017, February 14th
+- [x] 🇺🇦️ Day 1092: 2017, February 15th
+- [x] 🇺🇦️ Day 1093: 2017, February 16th
+- [x] 🇺🇦️ Day 1094: 2017, February 17th
+- [x] 🇺🇦️ Day 1095: 2017, February 18th
+- [x] 🇺🇦️ Day 1096: 2017, February 19th
+- [x] 🇺🇦️ Day 1097: 2017, February 20th
+- [x] 🇺🇦️ Day 1098: 2017, February 21st
+- [x] 🇺🇦️ Day 1099: 2017, February 22nd
+- [x] 🇺🇦️ Day 1100: 2017, February 23rd
+- [x] 🇺🇦️ Day 1101: 2017, February 24th
+- [x] 🇺🇦️ Day 1102: 2017, February 25th
+- [x] 🇺🇦️ Day 1103: 2017, February 26th
+- [x] 🇺🇦️ Day 1104: 2017, February 27th
+- [x] 🇺🇦️ Day 1105: 2017, February 28th
+- [x] 🇺🇦️ Day 1106: 2017, March 1st
+- [x] 🇺🇦️ Day 1107: 2017, March 2nd
+- [x] 🇺🇦️ Day 1108: 2017, March 3rd
+- [x] 🇺🇦️ Day 1109: 2017, March 4th
+- [x] 🇺🇦️ Day 1110: 2017, March 5th
+- [x] 🇺🇦️ Day 1111: 2017, March 6th
+- [x] 🇺🇦️ Day 1112: 2017, March 7th
+- [x] 🇺🇦️ Day 1113: 2017, March 8th
+- [x] 🇺🇦️ Day 1114: 2017, March 9th
+- [x] 🇺🇦️ Day 1115: 2017, March 10th
+- [x] 🇺🇦️ Day 1116: 2017, March 11th
+- [x] 🇺🇦️ Day 1117: 2017, March 12th
+- [x] 🇺🇦️ Day 1118: 2017, March 13th
+- [x] 🇺🇦️ Day 1119: 2017, March 14th
+- [x] 🇺🇦️ Day 1120: 2017, March 15th
+- [x] 🇺🇦️ Day 1121: 2017, March 16th
+- [x] 🇺🇦️ Day 1122: 2017, March 17th
+- [x] 🇺🇦️ Day 1123: 2017, March 18th
+- [x] 🇺🇦️ Day 1124: 2017, March 19th
+- [x] 🇺🇦️ Day 1125: 2017, March 20th
+- [x] 🇺🇦️ Day 1126: 2017, March 21st
+- [x] 🇺🇦️ Day 1127: 2017, March 22nd
+- [x] 🇺🇦️ Day 1128: 2017, March 23rd
+- [x] 🇺🇦️ Day 1129: 2017, March 24th
+- [x] 🇺🇦️ Day 1130: 2017, March 25th
+- [x] 🇺🇦️ Day 1131: 2017, March 26th
+- [x] 🇺🇦️ Day 1132: 2017, March 27th
+- [x] 🇺🇦️ Day 1133: 2017, March 28th
+- [x] 🇺🇦️ Day 1134: 2017, March 29th
+- [x] 🇺🇦️ Day 1135: 2017, March 30th
+- [x] 🇺🇦️ Day 1136: 2017, March 31st
+- [x] 🇺🇦️ Day 1137: 2017, April 1st
+- [x] 🇺🇦️ Day 1138: 2017, April 2nd
+- [x] 🇺🇦️ Day 1139: 2017, April 3rd
+- [x] 🇺🇦️ Day 1140: 2017, April 4th
+- [x] 🇺🇦️ Day 1141: 2017, April 5th
+- [x] 🇺🇦️ Day 1142: 2017, April 6th
+- [x] 🇺🇦️ Day 1143: 2017, April 7th
+- [x] 🇺🇦️ Day 1144: 2017, April 8th
+- [x] 🇺🇦️ Day 1145: 2017, April 9th
+- [x] 🇺🇦️ Day 1146: 2017, April 10th
+- [x] 🇺🇦️ Day 1147: 2017, April 11th
+- [x] 🇺🇦️ Day 1148: 2017, April 12th
+- [x] 🇺🇦️ Day 1149: 2017, April 13th
+- [x] 🇺🇦️ Day 1150: 2017, April 14th
+- [x] 🇺🇦️ Day 1151: 2017, April 15th
+- [x] 🇺🇦️ Day 1152: 2017, April 16th
+- [x] 🇺🇦️ Day 1153: 2017, April 17th
+- [x] 🇺🇦️ Day 1154: 2017, April 18th
+- [x] 🇺🇦️ Day 1155: 2017, April 19th
+- [x] 🇺🇦️ Day 1156: 2017, April 20th
+- [x] 🇺🇦️ Day 1157: 2017, April 21st
+- [x] 🇺🇦️ Day 1158: 2017, April 22nd
+- [x] 🇺🇦️ Day 1159: 2017, April 23rd
+- [x] 🇺🇦️ Day 1160: 2017, April 24th
+- [x] 🇺🇦️ Day 1161: 2017, April 25th
+- [x] 🇺🇦️ Day 1162: 2017, April 26th
+- [x] 🇺🇦️ Day 1163: 2017, April 27th
+- [x] 🇺🇦️ Day 1164: 2017, April 28th
+- [x] 🇺🇦️ Day 1165: 2017, April 29th
+- [x] 🇺🇦️ Day 1166: 2017, April 30th
+- [x] 🇺🇦️ Day 1167: 2017, May 1st
+- [x] 🇺🇦️ Day 1168: 2017, May 2nd
+- [x] 🇺🇦️ Day 1169: 2017, May 3rd
+- [x] 🇺🇦️ Day 1170: 2017, May 4th
+- [x] 🇺🇦️ Day 1171: 2017, May 5th
+- [x] 🇺🇦️ Day 1172: 2017, May 6th
+- [x] 🇺🇦️ Day 1173: 2017, May 7th
+- [x] 🇺🇦️ Day 1174: 2017, May 8th
+- [x] 🇺🇦️ Day 1175: 2017, May 9th
+- [x] 🇺🇦️ Day 1176: 2017, May 10th
+- [x] 🇺🇦️ Day 1177: 2017, May 11th
+- [x] 🇺🇦️ Day 1178: 2017, May 12th
+- [x] 🇺🇦️ Day 1179: 2017, May 13th
+- [x] 🇺🇦️ Day 1180: 2017, May 14th
+- [x] 🇺🇦️ Day 1181: 2017, May 15th
+- [x] 🇺🇦️ Day 1182: 2017, May 16th
+- [x] 🇺🇦️ Day 1183: 2017, May 17th
+- [x] 🇺🇦️ Day 1184: 2017, May 18th
+- [x] 🇺🇦️ Day 1185: 2017, May 19th
+- [x] 🇺🇦️ Day 1186: 2017, May 20th
+- [x] 🇺🇦️ Day 1187: 2017, May 21st
+- [x] 🇺🇦️ Day 1188: 2017, May 22nd
+- [x] 🇺🇦️ Day 1189: 2017, May 23rd
+- [x] 🇺🇦️ Day 1190: 2017, May 24th
+- [x] 🇺🇦️ Day 1191: 2017, May 25th
+- [x] 🇺🇦️ Day 1192: 2017, May 26th
+- [x] 🇺🇦️ Day 1193: 2017, May 27th
+- [x] 🇺🇦️ Day 1194: 2017, May 28th
+- [x] 🇺🇦️ Day 1195: 2017, May 29th
+- [x] 🇺🇦️ Day 1196: 2017, May 30th
+- [x] 🇺🇦️ Day 1197: 2017, May 31st
+- [x] 🇺🇦️ Day 1198: 2017, June 1st
+- [x] 🇺🇦️ Day 1199: 2017, June 2nd
+- [x] 🇺🇦️ Day 1200: 2017, June 3rd
+- [x] 🇺🇦️ Day 1201: 2017, June 4th
+- [x] 🇺🇦️ Day 1202: 2017, June 5th
+- [x] 🇺🇦️ Day 1203: 2017, June 6th
+- [x] 🇺🇦️ Day 1204: 2017, June 7th
+- [x] 🇺🇦️ Day 1205: 2017, June 8th
+- [x] 🇺🇦️ Day 1206: 2017, June 9th
+- [x] 🇺🇦️ Day 1207: 2017, June 10th
+- [x] 🇺🇦️ Day 1208: 2017, June 11th
+- [x] 🇺🇦️ Day 1209: 2017, June 12th
+- [x] 🇺🇦️ Day 1210: 2017, June 13th
+- [x] 🇺🇦️ Day 1211: 2017, June 14th
+- [x] 🇺🇦️ Day 1212: 2017, June 15th
+- [x] 🇺🇦️ Day 1213: 2017, June 16th
+- [x] 🇺🇦️ Day 1214: 2017, June 17th
+- [x] 🇺🇦️ Day 1215: 2017, June 18th
+- [x] 🇺🇦️ Day 1216: 2017, June 19th
+- [x] 🇺🇦️ Day 1217: 2017, June 20th
+- [x] 🇺🇦️ Day 1218: 2017, June 21st
+- [x] 🇺🇦️ Day 1219: 2017, June 22nd
+- [x] 🇺🇦️ Day 1220: 2017, June 23rd
+- [x] 🇺🇦️ Day 1221: 2017, June 24th
+- [x] 🇺🇦️ Day 1222: 2017, June 25th
+- [x] 🇺🇦️ Day 1223: 2017, June 26th
+- [x] 🇺🇦️ Day 1224: 2017, June 27th
+- [x] 🇺🇦️ Day 1225: 2017, June 28th
+- [x] 🇺🇦️ Day 1226: 2017, June 29th
+- [x] 🇺🇦️ Day 1227: 2017, June 30th
+- [x] 🇺🇦️ Day 1228: 2017, July 1st
+- [x] 🇺🇦️ Day 1229: 2017, July 2nd
+- [x] 🇺🇦️ Day 1230: 2017, July 3rd
+- [x] 🇺🇦️ Day 1231: 2017, July 4th
+- [x] 🇺🇦️ Day 1232: 2017, July 5th
+- [x] 🇺🇦️ Day 1233: 2017, July 6th
+- [x] 🇺🇦️ Day 1234: 2017, July 7th
+- [x] 🇺🇦️ Day 1235: 2017, July 8th
+- [x] 🇺🇦️ Day 1236: 2017, July 9th
+- [x] 🇺🇦️ Day 1237: 2017, July 10th
+- [x] 🇺🇦️ Day 1238: 2017, July 11th
+- [x] 🇺🇦️ Day 1239: 2017, July 12th
+- [x] 🇺🇦️ Day 1240: 2017, July 13th
+- [x] 🇺🇦️ Day 1241: 2017, July 14th
+- [x] 🇺🇦️ Day 1242: 2017, July 15th
+- [x] 🇺🇦️ Day 1243: 2017, July 16th
+- [x] 🇺🇦️ Day 1244: 2017, July 17th
+- [x] 🇺🇦️ Day 1245: 2017, July 18th
+- [x] 🇺🇦️ Day 1246: 2017, July 19th
+- [x] 🇺🇦️ Day 1247: 2017, July 20th
+- [x] 🇺🇦️ Day 1248: 2017, July 21st
+- [x] 🇺🇦️ Day 1249: 2017, July 22nd
+- [x] 🇺🇦️ Day 1250: 2017, July 23rd
+- [x] 🇺🇦️ Day 1251: 2017, July 24th
+- [x] 🇺🇦️ Day 1252: 2017, July 25th
+- [x] 🇺🇦️ Day 1253: 2017, July 26th
+- [x] 🇺🇦️ Day 1254: 2017, July 27th
+- [x] 🇺🇦️ Day 1255: 2017, July 28th
+- [x] 🇺🇦️ Day 1256: 2017, July 29th
+- [x] 🇺🇦️ Day 1257: 2017, July 30th
+- [x] 🇺🇦️ Day 1258: 2017, July 31st
+- [x] 🇺🇦️ Day 1259: 2017, August 1st
+- [x] 🇺🇦️ Day 1260: 2017, August 2nd
+- [x] 🇺🇦️ Day 1261: 2017, August 3rd
+- [x] 🇺🇦️ Day 1262: 2017, August 4th
+- [x] 🇺🇦️ Day 1263: 2017, August 5th
+- [x] 🇺🇦️ Day 1264: 2017, August 6th
+- [x] 🇺🇦️ Day 1265: 2017, August 7th
+- [x] 🇺🇦️ Day 1266: 2017, August 8th
+- [x] 🇺🇦️ Day 1267: 2017, August 9th
+- [x] 🇺🇦️ Day 1268: 2017, August 10th
+- [x] 🇺🇦️ Day 1269: 2017, August 11th
+- [x] 🇺🇦️ Day 1270: 2017, August 12th
+- [x] 🇺🇦️ Day 1271: 2017, August 13th
+- [x] 🇺🇦️ Day 1272: 2017, August 14th
+- [x] 🇺🇦️ Day 1273: 2017, August 15th
+- [x] 🇺🇦️ Day 1274: 2017, August 16th
+- [x] 🇺🇦️ Day 1275: 2017, August 17th
+- [x] 🇺🇦️ Day 1276: 2017, August 18th
+- [x] 🇺🇦️ Day 1277: 2017, August 19th
+- [x] 🇺🇦️ Day 1278: 2017, August 20th
+- [x] 🇺🇦️ Day 1279: 2017, August 21st
+- [x] 🇺🇦️ Day 1280: 2017, August 22nd
+- [x] 🇺🇦️ Day 1281: 2017, August 23rd
+- [x] 🇺🇦️ Day 1282: 2017, August 24th
+- [x] 🇺🇦️ Day 1283: 2017, August 25th
+- [x] 🇺🇦️ Day 1284: 2017, August 26th
+- [x] 🇺🇦️ Day 1285: 2017, August 27th
+- [x] 🇺🇦️ Day 1286: 2017, August 28th
+- [x] 🇺🇦️ Day 1287: 2017, August 29th
+- [x] 🇺🇦️ Day 1288: 2017, August 30th
+- [x] 🇺🇦️ Day 1289: 2017, August 31st
+- [x] 🇺🇦️ Day 1290: 2017, September 1st
+- [x] 🇺🇦️ Day 1291: 2017, September 2nd
+- [x] 🇺🇦️ Day 1292: 2017, September 3rd
+- [x] 🇺🇦️ Day 1293: 2017, September 4th
+- [x] 🇺🇦️ Day 1294: 2017, September 5th
+- [x] 🇺🇦️ Day 1295: 2017, September 6th
+- [x] 🇺🇦️ Day 1296: 2017, September 7th
+- [x] 🇺🇦️ Day 1297: 2017, September 8th
+- [x] 🇺🇦️ Day 1298: 2017, September 9th
+- [x] 🇺🇦️ Day 1299: 2017, September 10th
+- [x] 🇺🇦️ Day 1300: 2017, September 11th
+- [x] 🇺🇦️ Day 1301: 2017, September 12th
+- [x] 🇺🇦️ Day 1302: 2017, September 13th
+- [x] 🇺🇦️ Day 1303: 2017, September 14th
+- [x] 🇺🇦️ Day 1304: 2017, September 15th
+- [x] 🇺🇦️ Day 1305: 2017, September 16th
+- [x] 🇺🇦️ Day 1306: 2017, September 17th
+- [x] 🇺🇦️ Day 1307: 2017, September 18th
+- [x] 🇺🇦️ Day 1308: 2017, September 19th
+- [x] 🇺🇦️ Day 1309: 2017, September 20th
+- [x] 🇺🇦️ Day 1310: 2017, September 21st
+- [x] 🇺🇦️ Day 1311: 2017, September 22nd
+- [x] 🇺🇦️ Day 1312: 2017, September 23rd
+- [x] 🇺🇦️ Day 1313: 2017, September 24th
+- [x] 🇺🇦️ Day 1314: 2017, September 25th
+- [x] 🇺🇦️ Day 1315: 2017, September 26th
+- [x] 🇺🇦️ Day 1316: 2017, September 27th
+- [x] 🇺🇦️ Day 1317: 2017, September 28th
+- [x] 🇺🇦️ Day 1318: 2017, September 29th
+- [x] 🇺🇦️ Day 1319: 2017, September 30th
+- [x] 🇺🇦️ Day 1320: 2017, October 1st
+- [x] 🇺🇦️ Day 1321: 2017, October 2nd
+- [x] 🇺🇦️ Day 1322: 2017, October 3rd
+- [x] 🇺🇦️ Day 1323: 2017, October 4th
+- [x] 🇺🇦️ Day 1324: 2017, October 5th
+- [x] 🇺🇦️ Day 1325: 2017, October 6th
+- [x] 🇺🇦️ Day 1326: 2017, October 7th
+- [x] 🇺🇦️ Day 1327: 2017, October 8th
+- [x] 🇺🇦️ Day 1328: 2017, October 9th
+- [x] 🇺🇦️ Day 1329: 2017, October 10th
+- [x] 🇺🇦️ Day 1330: 2017, October 11th
+- [x] 🇺🇦️ Day 1331: 2017, October 12th
+- [x] 🇺🇦️ Day 1332: 2017, October 13th
+- [x] 🇺🇦️ Day 1333: 2017, October 14th
+- [x] 🇺🇦️ Day 1334: 2017, October 15th
+- [x] 🇺🇦️ Day 1335: 2017, October 16th
+- [x] 🇺🇦️ Day 1336: 2017, October 17th
+- [x] 🇺🇦️ Day 1337: 2017, October 18th
+- [x] 🇺🇦️ Day 1338: 2017, October 19th
+- [x] 🇺🇦️ Day 1339: 2017, October 20th
+- [x] 🇺🇦️ Day 1340: 2017, October 21st
+- [x] 🇺🇦️ Day 1341: 2017, October 22nd
+- [x] 🇺🇦️ Day 1342: 2017, October 23rd
+- [x] 🇺🇦️ Day 1343: 2017, October 24th
+- [x] 🇺🇦️ Day 1344: 2017, October 25th
+- [x] 🇺🇦️ Day 1345: 2017, October 26th
+- [x] 🇺🇦️ Day 1346: 2017, October 27th
+- [x] 🇺🇦️ Day 1347: 2017, October 28th
+- [x] 🇺🇦️ Day 1348: 2017, October 29th
+- [x] 🇺🇦️ Day 1349: 2017, October 30th
+- [x] 🇺🇦️ Day 1350: 2017, October 31st
+- [x] 🇺🇦️ Day 1351: 2017, November 1st
+- [x] 🇺🇦️ Day 1352: 2017, November 2nd
+- [x] 🇺🇦️ Day 1353: 2017, November 3rd
+- [x] 🇺🇦️ Day 1354: 2017, November 4th
+- [x] 🇺🇦️ Day 1355: 2017, November 5th
+- [x] 🇺🇦️ Day 1356: 2017, November 6th
+- [x] 🇺🇦️ Day 1357: 2017, November 7th
+- [x] 🇺🇦️ Day 1358: 2017, November 8th
+- [x] 🇺🇦️ Day 1359: 2017, November 9th
+- [x] 🇺🇦️ Day 1360: 2017, November 10th
+- [x] 🇺🇦️ Day 1361: 2017, November 11th
+- [x] 🇺🇦️ Day 1362: 2017, November 12th
+- [x] 🇺🇦️ Day 1363: 2017, November 13th
+- [x] 🇺🇦️ Day 1364: 2017, November 14th
+- [x] 🇺🇦️ Day 1365: 2017, November 15th
+- [x] 🇺🇦️ Day 1366: 2017, November 16th
+- [x] 🇺🇦️ Day 1367: 2017, November 17th
+- [x] 🇺🇦️ Day 1368: 2017, November 18th
+- [x] 🇺🇦️ Day 1369: 2017, November 19th
+- [x] 🇺🇦️ Day 1370: 2017, November 20th
+- [x] 🇺🇦️ Day 1371: 2017, November 21st
+- [x] 🇺🇦️ Day 1372: 2017, November 22nd
+- [x] 🇺🇦️ Day 1373: 2017, November 23rd
+- [x] 🇺🇦️ Day 1374: 2017, November 24th
+- [x] 🇺🇦️ Day 1375: 2017, November 25th
+- [x] 🇺🇦️ Day 1376: 2017, November 26th
+- [x] 🇺🇦️ Day 1377: 2017, November 27th
+- [x] 🇺🇦️ Day 1378: 2017, November 28th
+- [x] 🇺🇦️ Day 1379: 2017, November 29th
+- [x] 🇺🇦️ Day 1380: 2017, November 30th
+- [x] 🇺🇦️ Day 1381: 2017, December 1st
+- [x] 🇺🇦️ Day 1382: 2017, December 2nd
+- [x] 🇺🇦️ Day 1383: 2017, December 3rd
+- [x] 🇺🇦️ Day 1384: 2017, December 4th
+- [x] 🇺🇦️ Day 1385: 2017, December 5th
+- [x] 🇺🇦️ Day 1386: 2017, December 6th
+- [x] 🇺🇦️ Day 1387: 2017, December 7th
+- [x] 🇺🇦️ Day 1388: 2017, December 8th
+- [x] 🇺🇦️ Day 1389: 2017, December 9th
+- [x] 🇺🇦️ Day 1390: 2017, December 10th
+- [x] 🇺🇦️ Day 1391: 2017, December 11th
+- [x] 🇺🇦️ Day 1392: 2017, December 12th
+- [x] 🇺🇦️ Day 1393: 2017, December 13th
+- [x] 🇺🇦️ Day 1394: 2017, December 14th
+- [x] 🇺🇦️ Day 1395: 2017, December 15th
+- [x] 🇺🇦️ Day 1396: 2017, December 16th
+- [x] 🇺🇦️ Day 1397: 2017, December 17th
+- [x] 🇺🇦️ Day 1398: 2017, December 18th
+- [x] 🇺🇦️ Day 1399: 2017, December 19th
+- [x] 🇺🇦️ Day 1400: 2017, December 20th
+- [x] 🇺🇦️ Day 1401: 2017, December 21st
+- [x] 🇺🇦️ Day 1402: 2017, December 22nd
+- [x] 🇺🇦️ Day 1403: 2017, December 23rd
+- [x] 🇺🇦️ Day 1404: 2017, December 24th
+- [x] 🇺🇦️ Day 1405: 2017, December 25th
+- [x] 🇺🇦️ Day 1406: 2017, December 26th
+- [x] 🇺🇦️ Day 1407: 2017, December 27th
+- [x] 🇺🇦️ Day 1408: 2017, December 28th
+- [x] 🇺🇦️ Day 1409: 2017, December 29th
+- [x] 🇺🇦️ Day 1410: 2017, December 30th
+- [x] 🇺🇦️ Day 1411: 2017, December 31st
+- [x] 🇺🇦️ Day 1412: 2018, January 1st
+- [x] 🇺🇦️ Day 1413: 2018, January 2nd
+- [x] 🇺🇦️ Day 1414: 2018, January 3rd
+- [x] 🇺🇦️ Day 1415: 2018, January 4th
+- [x] 🇺🇦️ Day 1416: 2018, January 5th
+- [x] 🇺🇦️ Day 1417: 2018, January 6th
+- [x] 🇺🇦️ Day 1418: 2018, January 7th
+- [x] 🇺🇦️ Day 1419: 2018, January 8th
+- [x] 🇺🇦️ Day 1420: 2018, January 9th
+- [x] 🇺🇦️ Day 1421: 2018, January 10th
+- [x] 🇺🇦️ Day 1422: 2018, January 11th
+- [x] 🇺🇦️ Day 1423: 2018, January 12th
+- [x] 🇺🇦️ Day 1424: 2018, January 13th
+- [x] 🇺🇦️ Day 1425: 2018, January 14th
+- [x] 🇺🇦️ Day 1426: 2018, January 15th
+- [x] 🇺🇦️ Day 1427: 2018, January 16th
+- [x] 🇺🇦️ Day 1428: 2018, January 17th
+- [x] 🇺🇦️ Day 1429: 2018, January 18th
+- [x] 🇺🇦️ Day 1430: 2018, January 19th
+- [x] 🇺🇦️ Day 1431: 2018, January 20th
+- [x] 🇺🇦️ Day 1432: 2018, January 21st
+- [x] 🇺🇦️ Day 1433: 2018, January 22nd
+- [x] 🇺🇦️ Day 1434: 2018, January 23rd
+- [x] 🇺🇦️ Day 1435: 2018, January 24th
+- [x] 🇺🇦️ Day 1436: 2018, January 25th
+- [x] 🇺🇦️ Day 1437: 2018, January 26th
+- [x] 🇺🇦️ Day 1438: 2018, January 27th
+- [x] 🇺🇦️ Day 1439: 2018, January 28th
+- [x] 🇺🇦️ Day 1440: 2018, January 29th
+- [x] 🇺🇦️ Day 1441: 2018, January 30th
+- [x] 🇺🇦️ Day 1442: 2018, January 31st
+- [x] 🇺🇦️ Day 1443: 2018, February 1st
+- [x] 🇺🇦️ Day 1444: 2018, February 2nd
+- [x] 🇺🇦️ Day 1445: 2018, February 3rd
+- [x] 🇺🇦️ Day 1446: 2018, February 4th
+- [x] 🇺🇦️ Day 1447: 2018, February 5th
+- [x] 🇺🇦️ Day 1448: 2018, February 6th
+- [x] 🇺🇦️ Day 1449: 2018, February 7th
+- [x] 🇺🇦️ Day 1450: 2018, February 8th
+- [x] 🇺🇦️ Day 1451: 2018, February 9th
+- [x] 🇺🇦️ Day 1452: 2018, February 10th
+- [x] 🇺🇦️ Day 1453: 2018, February 11th
+- [x] 🇺🇦️ Day 1454: 2018, February 12th
+- [x] 🇺🇦️ Day 1455: 2018, February 13th
+- [x] 🇺🇦️ Day 1456: 2018, February 14th
+- [x] 🇺🇦️ Day 1457: 2018, February 15th
+- [x] 🇺🇦️ Day 1458: 2018, February 16th
+- [x] 🇺🇦️ Day 1459: 2018, February 17th
+- [x] 🇺🇦️ Day 1460: 2018, February 18th
+- [x] 🇺🇦️ Day 1461: 2018, February 19th
+- [x] 🇺🇦️ Day 1462: 2018, February 20th
+- [x] 🇺🇦️ Day 1463: 2018, February 21st
+- [x] 🇺🇦️ Day 1464: 2018, February 22nd
+- [x] 🇺🇦️ Day 1465: 2018, February 23rd
+- [x] 🇺🇦️ Day 1466: 2018, February 24th
+- [x] 🇺🇦️ Day 1467: 2018, February 25th
+- [x] 🇺🇦️ Day 1468: 2018, February 26th
+- [x] 🇺🇦️ Day 1469: 2018, February 27th
+- [x] 🇺🇦️ Day 1470: 2018, February 28th
+- [x] 🇺🇦️ Day 1471: 2018, March 1st
+- [x] 🇺🇦️ Day 1472: 2018, March 2nd
+- [x] 🇺🇦️ Day 1473: 2018, March 3rd
+- [x] 🇺🇦️ Day 1474: 2018, March 4th
+- [x] 🇺🇦️ Day 1475: 2018, March 5th
+- [x] 🇺🇦️ Day 1476: 2018, March 6th
+- [x] 🇺🇦️ Day 1477: 2018, March 7th
+- [x] 🇺🇦️ Day 1478: 2018, March 8th
+- [x] 🇺🇦️ Day 1479: 2018, March 9th
+- [x] 🇺🇦️ Day 1480: 2018, March 10th
+- [x] 🇺🇦️ Day 1481: 2018, March 11th
+- [x] 🇺🇦️ Day 1482: 2018, March 12th
+- [x] 🇺🇦️ Day 1483: 2018, March 13th
+- [x] 🇺🇦️ Day 1484: 2018, March 14th
+- [x] 🇺🇦️ Day 1485: 2018, March 15th
+- [x] 🇺🇦️ Day 1486: 2018, March 16th
+- [x] 🇺🇦️ Day 1487: 2018, March 17th
+- [x] 🇺🇦️ Day 1488: 2018, March 18th
+- [x] 🇺🇦️ Day 1489: 2018, March 19th
+- [x] 🇺🇦️ Day 1490: 2018, March 20th
+- [x] 🇺🇦️ Day 1491: 2018, March 21st
+- [x] 🇺🇦️ Day 1492: 2018, March 22nd
+- [x] 🇺🇦️ Day 1493: 2018, March 23rd
+- [x] 🇺🇦️ Day 1494: 2018, March 24th
+- [x] 🇺🇦️ Day 1495: 2018, March 25th
+- [x] 🇺🇦️ Day 1496: 2018, March 26th
+- [x] 🇺🇦️ Day 1497: 2018, March 27th
+- [x] 🇺🇦️ Day 1498: 2018, March 28th
+- [x] 🇺🇦️ Day 1499: 2018, March 29th
+- [x] 🇺🇦️ Day 1500: 2018, March 30th
+- [x] 🇺🇦️ Day 1501: 2018, March 31st
+- [x] 🇺🇦️ Day 1502: 2018, April 1st
+- [x] 🇺🇦️ Day 1503: 2018, April 2nd
+- [x] 🇺🇦️ Day 1504: 2018, April 3rd
+- [x] 🇺🇦️ Day 1505: 2018, April 4th
+- [x] 🇺🇦️ Day 1506: 2018, April 5th
+- [x] 🇺🇦️ Day 1507: 2018, April 6th
+- [x] 🇺🇦️ Day 1508: 2018, April 7th
+- [x] 🇺🇦️ Day 1509: 2018, April 8th
+- [x] 🇺🇦️ Day 1510: 2018, April 9th
+- [x] 🇺🇦️ Day 1511: 2018, April 10th
+- [x] 🇺🇦️ Day 1512: 2018, April 11th
+- [x] 🇺🇦️ Day 1513: 2018, April 12th
+- [x] 🇺🇦️ Day 1514: 2018, April 13th
+- [x] 🇺🇦️ Day 1515: 2018, April 14th
+- [x] 🇺🇦️ Day 1516: 2018, April 15th
+- [x] 🇺🇦️ Day 1517: 2018, April 16th
+- [x] 🇺🇦️ Day 1518: 2018, April 17th
+- [x] 🇺🇦️ Day 1519: 2018, April 18th
+- [x] 🇺🇦️ Day 1520: 2018, April 19th
+- [x] 🇺🇦️ Day 1521: 2018, April 20th
+- [x] 🇺🇦️ Day 1522: 2018, April 21st
+- [x] 🇺🇦️ Day 1523: 2018, April 22nd
+- [x] 🇺🇦️ Day 1524: 2018, April 23rd
+- [x] 🇺🇦️ Day 1525: 2018, April 24th
+- [x] 🇺🇦️ Day 1526: 2018, April 25th
+- [x] 🇺🇦️ Day 1527: 2018, April 26th
+- [x] 🇺🇦️ Day 1528: 2018, April 27th
+- [x] 🇺🇦️ Day 1529: 2018, April 28th
+- [x] 🇺🇦️ Day 1530: 2018, April 29th
+- [x] 🇺🇦️ Day 1531: 2018, April 30th
+- [x] 🇺🇦️ Day 1532: 2018, May 1st
+- [x] 🇺🇦️ Day 1533: 2018, May 2nd
+- [x] 🇺🇦️ Day 1534: 2018, May 3rd
+- [x] 🇺🇦️ Day 1535: 2018, May 4th
+- [x] 🇺🇦️ Day 1536: 2018, May 5th
+- [x] 🇺🇦️ Day 1537: 2018, May 6th
+- [x] 🇺🇦️ Day 1538: 2018, May 7th
+- [x] 🇺🇦️ Day 1539: 2018, May 8th
+- [x] 🇺🇦️ Day 1540: 2018, May 9th
+- [x] 🇺🇦️ Day 1541: 2018, May 10th
+- [x] 🇺🇦️ Day 1542: 2018, May 11th
+- [x] 🇺🇦️ Day 1543: 2018, May 12th
+- [x] 🇺🇦️ Day 1544: 2018, May 13th
+- [x] 🇺🇦️ Day 1545: 2018, May 14th
+- [x] 🇺🇦️ Day 1546: 2018, May 15th
+- [x] 🇺🇦️ Day 1547: 2018, May 16th
+- [x] 🇺🇦️ Day 1548: 2018, May 17th
+- [x] 🇺🇦️ Day 1549: 2018, May 18th
+- [x] 🇺🇦️ Day 1550: 2018, May 19th
+- [x] 🇺🇦️ Day 1551: 2018, May 20th
+- [x] 🇺🇦️ Day 1552: 2018, May 21st
+- [x] 🇺🇦️ Day 1553: 2018, May 22nd
+- [x] 🇺🇦️ Day 1554: 2018, May 23rd
+- [x] 🇺🇦️ Day 1555: 2018, May 24th
+- [x] 🇺🇦️ Day 1556: 2018, May 25th
+- [x] 🇺🇦️ Day 1557: 2018, May 26th
+- [x] 🇺🇦️ Day 1558: 2018, May 27th
+- [x] 🇺🇦️ Day 1559: 2018, May 28th
+- [x] 🇺🇦️ Day 1560: 2018, May 29th
+- [x] 🇺🇦️ Day 1561: 2018, May 30th
+- [x] 🇺🇦️ Day 1562: 2018, May 31st
+- [x] 🇺🇦️ Day 1563: 2018, June 1st
+- [x] 🇺🇦️ Day 1564: 2018, June 2nd
+- [x] 🇺🇦️ Day 1565: 2018, June 3rd
+- [x] 🇺🇦️ Day 1566: 2018, June 4th
+- [x] 🇺🇦️ Day 1567: 2018, June 5th
+- [x] 🇺🇦️ Day 1568: 2018, June 6th
+- [x] 🇺🇦️ Day 1569: 2018, June 7th
+- [x] 🇺🇦️ Day 1570: 2018, June 8th
+- [x] 🇺🇦️ Day 1571: 2018, June 9th
+- [x] 🇺🇦️ Day 1572: 2018, June 10th
+- [x] 🇺🇦️ Day 1573: 2018, June 11th
+- [x] 🇺🇦️ Day 1574: 2018, June 12th
+- [x] 🇺🇦️ Day 1575: 2018, June 13th
+- [x] 🇺🇦️ Day 1576: 2018, June 14th
+- [x] 🇺🇦️ Day 1577: 2018, June 15th
+- [x] 🇺🇦️ Day 1578: 2018, June 16th
+- [x] 🇺🇦️ Day 1579: 2018, June 17th
+- [x] 🇺🇦️ Day 1580: 2018, June 18th
+- [x] 🇺🇦️ Day 1581: 2018, June 19th
+- [x] 🇺🇦️ Day 1582: 2018, June 20th
+- [x] 🇺🇦️ Day 1583: 2018, June 21st
+- [x] 🇺🇦️ Day 1584: 2018, June 22nd
+- [x] 🇺🇦️ Day 1585: 2018, June 23rd
+- [x] 🇺🇦️ Day 1586: 2018, June 24th
+- [x] 🇺🇦️ Day 1587: 2018, June 25th
+- [x] 🇺🇦️ Day 1588: 2018, June 26th
+- [x] 🇺🇦️ Day 1589: 2018, June 27th
+- [x] 🇺🇦️ Day 1590: 2018, June 28th
+- [x] 🇺🇦️ Day 1591: 2018, June 29th
+- [x] 🇺🇦️ Day 1592: 2018, June 30th
+- [x] 🇺🇦️ Day 1593: 2018, July 1st
+- [x] 🇺🇦️ Day 1594: 2018, July 2nd
+- [x] 🇺🇦️ Day 1595: 2018, July 3rd
+- [x] 🇺🇦️ Day 1596: 2018, July 4th
+- [x] 🇺🇦️ Day 1597: 2018, July 5th
+- [x] 🇺🇦️ Day 1598: 2018, July 6th
+- [x] 🇺🇦️ Day 1599: 2018, July 7th
+- [x] 🇺🇦️ Day 1600: 2018, July 8th
+- [x] 🇺🇦️ Day 1601: 2018, July 9th
+- [x] 🇺🇦️ Day 1602: 2018, July 10th
+- [x] 🇺🇦️ Day 1603: 2018, July 11th
+- [x] 🇺🇦️ Day 1604: 2018, July 12th
+- [x] 🇺🇦️ Day 1605: 2018, July 13th
+- [x] 🇺🇦️ Day 1606: 2018, July 14th
+- [x] 🇺🇦️ Day 1607: 2018, July 15th
+- [x] 🇺🇦️ Day 1608: 2018, July 16th
+- [x] 🇺🇦️ Day 1609: 2018, July 17th
+- [x] 🇺🇦️ Day 1610: 2018, July 18th
+- [x] 🇺🇦️ Day 1611: 2018, July 19th
+- [x] 🇺🇦️ Day 1612: 2018, July 20th
+- [x] 🇺🇦️ Day 1613: 2018, July 21st
+- [x] 🇺🇦️ Day 1614: 2018, July 22nd
+- [x] 🇺🇦️ Day 1615: 2018, July 23rd
+- [x] 🇺🇦️ Day 1616: 2018, July 24th
+- [x] 🇺🇦️ Day 1617: 2018, July 25th
+- [x] 🇺🇦️ Day 1618: 2018, July 26th
+- [x] 🇺🇦️ Day 1619: 2018, July 27th
+- [x] 🇺🇦️ Day 1620: 2018, July 28th
+- [x] 🇺🇦️ Day 1621: 2018, July 29th
+- [x] 🇺🇦️ Day 1622: 2018, July 30th
+- [x] 🇺🇦️ Day 1623: 2018, July 31st
+- [x] 🇺🇦️ Day 1624: 2018, August 1st
+- [x] 🇺🇦️ Day 1625: 2018, August 2nd
+- [x] 🇺🇦️ Day 1626: 2018, August 3rd
+- [x] 🇺🇦️ Day 1627: 2018, August 4th
+- [x] 🇺🇦️ Day 1628: 2018, August 5th
+- [x] 🇺🇦️ Day 1629: 2018, August 6th
+- [x] 🇺🇦️ Day 1630: 2018, August 7th
+- [x] 🇺🇦️ Day 1631: 2018, August 8th
+- [x] 🇺🇦️ Day 1632: 2018, August 9th
+- [x] 🇺🇦️ Day 1633: 2018, August 10th
+- [x] 🇺🇦️ Day 1634: 2018, August 11th
+- [x] 🇺🇦️ Day 1635: 2018, August 12th
+- [x] 🇺🇦️ Day 1636: 2018, August 13th
+- [x] 🇺🇦️ Day 1637: 2018, August 14th
+- [x] 🇺🇦️ Day 1638: 2018, August 15th
+- [x] 🇺🇦️ Day 1639: 2018, August 16th
+- [x] 🇺🇦️ Day 1640: 2018, August 17th
+- [x] 🇺🇦️ Day 1641: 2018, August 18th
+- [x] 🇺🇦️ Day 1642: 2018, August 19th
+- [x] 🇺🇦️ Day 1643: 2018, August 20th
+- [x] 🇺🇦️ Day 1644: 2018, August 21st
+- [x] 🇺🇦️ Day 1645: 2018, August 22nd
+- [x] 🇺🇦️ Day 1646: 2018, August 23rd
+- [x] 🇺🇦️ Day 1647: 2018, August 24th
+- [x] 🇺🇦️ Day 1648: 2018, August 25th
+- [x] 🇺🇦️ Day 1649: 2018, August 26th
+- [x] 🇺🇦️ Day 1650: 2018, August 27th
+- [x] 🇺🇦️ Day 1651: 2018, August 28th
+- [x] 🇺🇦️ Day 1652: 2018, August 29th
+- [x] 🇺🇦️ Day 1653: 2018, August 30th
+- [x] 🇺🇦️ Day 1654: 2018, August 31st
+- [x] 🇺🇦️ Day 1655: 2018, September 1st
+- [x] 🇺🇦️ Day 1656: 2018, September 2nd
+- [x] 🇺🇦️ Day 1657: 2018, September 3rd
+- [x] 🇺🇦️ Day 1658: 2018, September 4th
+- [x] 🇺🇦️ Day 1659: 2018, September 5th
+- [x] 🇺🇦️ Day 1660: 2018, September 6th
+- [x] 🇺🇦️ Day 1661: 2018, September 7th
+- [x] 🇺🇦️ Day 1662: 2018, September 8th
+- [x] 🇺🇦️ Day 1663: 2018, September 9th
+- [x] 🇺🇦️ Day 1664: 2018, September 10th
+- [x] 🇺🇦️ Day 1665: 2018, September 11th
+- [x] 🇺🇦️ Day 1666: 2018, September 12th
+- [x] 🇺🇦️ Day 1667: 2018, September 13th
+- [x] 🇺🇦️ Day 1668: 2018, September 14th
+- [x] 🇺🇦️ Day 1669: 2018, September 15th
+- [x] 🇺🇦️ Day 1670: 2018, September 16th
+- [x] 🇺🇦️ Day 1671: 2018, September 17th
+- [x] 🇺🇦️ Day 1672: 2018, September 18th
+- [x] 🇺🇦️ Day 1673: 2018, September 19th
+- [x] 🇺🇦️ Day 1674: 2018, September 20th
+- [x] 🇺🇦️ Day 1675: 2018, September 21st
+- [x] 🇺🇦️ Day 1676: 2018, September 22nd
+- [x] 🇺🇦️ Day 1677: 2018, September 23rd
+- [x] 🇺🇦️ Day 1678: 2018, September 24th
+- [x] 🇺🇦️ Day 1679: 2018, September 25th
+- [x] 🇺🇦️ Day 1680: 2018, September 26th
+- [x] 🇺🇦️ Day 1681: 2018, September 27th
+- [x] 🇺🇦️ Day 1682: 2018, September 28th
+- [x] 🇺🇦️ Day 1683: 2018, September 29th
+- [x] 🇺🇦️ Day 1684: 2018, September 30th
+- [x] 🇺🇦️ Day 1685: 2018, October 1st
+- [x] 🇺🇦️ Day 1686: 2018, October 2nd
+- [x] 🇺🇦️ Day 1687: 2018, October 3rd
+- [x] 🇺🇦️ Day 1688: 2018, October 4th
+- [x] 🇺🇦️ Day 1689: 2018, October 5th
+- [x] 🇺🇦️ Day 1690: 2018, October 6th
+- [x] 🇺🇦️ Day 1691: 2018, October 7th
+- [x] 🇺🇦️ Day 1692: 2018, October 8th
+- [x] 🇺🇦️ Day 1693: 2018, October 9th
+- [x] 🇺🇦️ Day 1694: 2018, October 10th
+- [x] 🇺🇦️ Day 1695: 2018, October 11th
+- [x] 🇺🇦️ Day 1696: 2018, October 12th
+- [x] 🇺🇦️ Day 1697: 2018, October 13th
+- [x] 🇺🇦️ Day 1698: 2018, October 14th
+- [x] 🇺🇦️ Day 1699: 2018, October 15th
+- [x] 🇺🇦️ Day 1700: 2018, October 16th
+- [x] 🇺🇦️ Day 1701: 2018, October 17th
+- [x] 🇺🇦️ Day 1702: 2018, October 18th
+- [x] 🇺🇦️ Day 1703: 2018, October 19th
+- [x] 🇺🇦️ Day 1704: 2018, October 20th
+- [x] 🇺🇦️ Day 1705: 2018, October 21st
+- [x] 🇺🇦️ Day 1706: 2018, October 22nd
+- [x] 🇺🇦️ Day 1707: 2018, October 23rd
+- [x] 🇺🇦️ Day 1708: 2018, October 24th
+- [x] 🇺🇦️ Day 1709: 2018, October 25th
+- [x] 🇺🇦️ Day 1710: 2018, October 26th
+- [x] 🇺🇦️ Day 1711: 2018, October 27th
+- [x] 🇺🇦️ Day 1712: 2018, October 28th
+- [x] 🇺🇦️ Day 1713: 2018, October 29th
+- [x] 🇺🇦️ Day 1714: 2018, October 30th
+- [x] 🇺🇦️ Day 1715: 2018, October 31st
+- [x] 🇺🇦️ Day 1716: 2018, November 1st
+- [x] 🇺🇦️ Day 1717: 2018, November 2nd
+- [x] 🇺🇦️ Day 1718: 2018, November 3rd
+- [x] 🇺🇦️ Day 1719: 2018, November 4th
+- [x] 🇺🇦️ Day 1720: 2018, November 5th
+- [x] 🇺🇦️ Day 1721: 2018, November 6th
+- [x] 🇺🇦️ Day 1722: 2018, November 7th
+- [x] 🇺🇦️ Day 1723: 2018, November 8th
+- [x] 🇺🇦️ Day 1724: 2018, November 9th
+- [x] 🇺🇦️ Day 1725: 2018, November 10th
+- [x] 🇺🇦️ Day 1726: 2018, November 11th
+- [x] 🇺🇦️ Day 1727: 2018, November 12th
+- [x] 🇺🇦️ Day 1728: 2018, November 13th
+- [x] 🇺🇦️ Day 1729: 2018, November 14th
+- [x] 🇺🇦️ Day 1730: 2018, November 15th
+- [x] 🇺🇦️ Day 1731: 2018, November 16th
+- [x] 🇺🇦️ Day 1732: 2018, November 17th
+- [x] 🇺🇦️ Day 1733: 2018, November 18th
+- [x] 🇺🇦️ Day 1734: 2018, November 19th
+- [x] 🇺🇦️ Day 1735: 2018, November 20th
+- [x] 🇺🇦️ Day 1736: 2018, November 21st
+- [x] 🇺🇦️ Day 1737: 2018, November 22nd
+- [x] 🇺🇦️ Day 1738: 2018, November 23rd
+- [x] 🇺🇦️ Day 1739: 2018, November 24th
+- [x] 🇺🇦️ Day 1740: 2018, November 25th
+- [x] 🇺🇦️ Day 1741: 2018, November 26th
+- [x] 🇺🇦️ Day 1742: 2018, November 27th
+- [x] 🇺🇦️ Day 1743: 2018, November 28th
+- [x] 🇺🇦️ Day 1744: 2018, November 29th
+- [x] 🇺🇦️ Day 1745: 2018, November 30th
+- [x] 🇺🇦️ Day 1746: 2018, December 1st
+- [x] 🇺🇦️ Day 1747: 2018, December 2nd
+- [x] 🇺🇦️ Day 1748: 2018, December 3rd
+- [x] 🇺🇦️ Day 1749: 2018, December 4th
+- [x] 🇺🇦️ Day 1750: 2018, December 5th
+- [x] 🇺🇦️ Day 1751: 2018, December 6th
+- [x] 🇺🇦️ Day 1752: 2018, December 7th
+- [x] 🇺🇦️ Day 1753: 2018, December 8th
+- [x] 🇺🇦️ Day 1754: 2018, December 9th
+- [x] 🇺🇦️ Day 1755: 2018, December 10th
+- [x] 🇺🇦️ Day 1756: 2018, December 11th
+- [x] 🇺🇦️ Day 1757: 2018, December 12th
+- [x] 🇺🇦️ Day 1758: 2018, December 13th
+- [x] 🇺🇦️ Day 1759: 2018, December 14th
+- [x] 🇺🇦️ Day 1760: 2018, December 15th
+- [x] 🇺🇦️ Day 1761: 2018, December 16th
+- [x] 🇺🇦️ Day 1762: 2018, December 17th
+- [x] 🇺🇦️ Day 1763: 2018, December 18th
+- [x] 🇺🇦️ Day 1764: 2018, December 19th
+- [x] 🇺🇦️ Day 1765: 2018, December 20th
+- [x] 🇺🇦️ Day 1766: 2018, December 21st
+- [x] 🇺🇦️ Day 1767: 2018, December 22nd
+- [x] 🇺🇦️ Day 1768: 2018, December 23rd
+- [x] 🇺🇦️ Day 1769: 2018, December 24th
+- [x] 🇺🇦️ Day 1770: 2018, December 25th
+- [x] 🇺🇦️ Day 1771: 2018, December 26th
+- [x] 🇺🇦️ Day 1772: 2018, December 27th
+- [x] 🇺🇦️ Day 1773: 2018, December 28th
+- [x] 🇺🇦️ Day 1774: 2018, December 29th
+- [x] 🇺🇦️ Day 1775: 2018, December 30th
+- [x] 🇺🇦️ Day 1776: 2018, December 31st
+- [x] 🇺🇦️ Day 1777: 2019, January 1st
+- [x] 🇺🇦️ Day 1778: 2019, January 2nd
+- [x] 🇺🇦️ Day 1779: 2019, January 3rd
+- [x] 🇺🇦️ Day 1780: 2019, January 4th
+- [x] 🇺🇦️ Day 1781: 2019, January 5th
+- [x] 🇺🇦️ Day 1782: 2019, January 6th
+- [x] 🇺🇦️ Day 1783: 2019, January 7th
+- [x] 🇺🇦️ Day 1784: 2019, January 8th
+- [x] 🇺🇦️ Day 1785: 2019, January 9th
+- [x] 🇺🇦️ Day 1786: 2019, January 10th
+- [x] 🇺🇦️ Day 1787: 2019, January 11th
+- [x] 🇺🇦️ Day 1788: 2019, January 12th
+- [x] 🇺🇦️ Day 1789: 2019, January 13th
+- [x] 🇺🇦️ Day 1790: 2019, January 14th
+- [x] 🇺🇦️ Day 1791: 2019, January 15th
+- [x] 🇺🇦️ Day 1792: 2019, January 16th
+- [x] 🇺🇦️ Day 1793: 2019, January 17th
+- [x] 🇺🇦️ Day 1794: 2019, January 18th
+- [x] 🇺🇦️ Day 1795: 2019, January 19th
+- [x] 🇺🇦️ Day 1796: 2019, January 20th
+- [x] 🇺🇦️ Day 1797: 2019, January 21st
+- [x] 🇺🇦️ Day 1798: 2019, January 22nd
+- [x] 🇺🇦️ Day 1799: 2019, January 23rd
+- [x] 🇺🇦️ Day 1800: 2019, January 24th
+- [x] 🇺🇦️ Day 1801: 2019, January 25th
+- [x] 🇺🇦️ Day 1802: 2019, January 26th
+- [x] 🇺🇦️ Day 1803: 2019, January 27th
+- [x] 🇺🇦️ Day 1804: 2019, January 28th
+- [x] 🇺🇦️ Day 1805: 2019, January 29th
+- [x] 🇺🇦️ Day 1806: 2019, January 30th
+- [x] 🇺🇦️ Day 1807: 2019, January 31st
+- [x] 🇺🇦️ Day 1808: 2019, February 1st
+- [x] 🇺🇦️ Day 1809: 2019, February 2nd
+- [x] 🇺🇦️ Day 1810: 2019, February 3rd
+- [x] 🇺🇦️ Day 1811: 2019, February 4th
+- [x] 🇺🇦️ Day 1812: 2019, February 5th
+- [x] 🇺🇦️ Day 1813: 2019, February 6th
+- [x] 🇺🇦️ Day 1814: 2019, February 7th
+- [x] 🇺🇦️ Day 1815: 2019, February 8th
+- [x] 🇺🇦️ Day 1816: 2019, February 9th
+- [x] 🇺🇦️ Day 1817: 2019, February 10th
+- [x] 🇺🇦️ Day 1818: 2019, February 11th
+- [x] 🇺🇦️ Day 1819: 2019, February 12th
+- [x] 🇺🇦️ Day 1820: 2019, February 13th
+- [x] 🇺🇦️ Day 1821: 2019, February 14th
+- [x] 🇺🇦️ Day 1822: 2019, February 15th
+- [x] 🇺🇦️ Day 1823: 2019, February 16th
+- [x] 🇺🇦️ Day 1824: 2019, February 17th
+- [x] 🇺🇦️ Day 1825: 2019, February 18th
+- [x] 🇺🇦️ Day 1826: 2019, February 19th
+- [x] 🇺🇦️ Day 1827: 2019, February 20th
+- [x] 🇺🇦️ Day 1828: 2019, February 21st
+- [x] 🇺🇦️ Day 1829: 2019, February 22nd
+- [x] 🇺🇦️ Day 1830: 2019, February 23rd
+- [x] 🇺🇦️ Day 1831: 2019, February 24th
+- [x] 🇺🇦️ Day 1832: 2019, February 25th
+- [x] 🇺🇦️ Day 1833: 2019, February 26th
+- [x] 🇺🇦️ Day 1834: 2019, February 27th
+- [x] 🇺🇦️ Day 1835: 2019, February 28th
+- [x] ℹ️ List incomplete, less than 1400 entries left to be added until caught up
+- [ ] 1835/3215, 57.07% complete (as of 2022, Saturday, December 10th)
 
 **Todo:** Add 1 month (or more) of data per day. We are going to be here for a while anyways.
 
-After 3213 days, it is still Ukraine. Slava Ukraini!
+After 3215 days, it is still Ukraine. Slava Ukraini!
 
 [Jump ahead calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
 
@@ -1560,9 +2281,9 @@ After 3213 days, it is still Ukraine. Slava Ukraini!
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `54 (2022, Thursday, December 8th at 7:11 pm PST)`
+**File version:** `55 (2022, Saturday, December 10th at 9:14 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,308`
+**Line count (including blank lines and compiler line):** `3,046`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2299,6 +3020,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 54
+
+</details>
+
+<details><summary><p lang="en"><b>Version 55 (2022, Saturday, December 10th at 9:14 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2022, December 9th (day 61)
+- [x] Updated the main list to include an entry for 2022, December 10th (day 62)
+- [x] Updated the list of all days of the war since the 2022 Invasion (290 days)
+- [x] Updated the list of all days of the war (incomplete, 1,835 days)
+- - [x] Updated the `2016 June 10th continuation error` section
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 55
 
 </details>
 
