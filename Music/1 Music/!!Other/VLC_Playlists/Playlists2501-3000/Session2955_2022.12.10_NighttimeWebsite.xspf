@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Twenty_%C3%B8ne_Pil%C3%B8ts/MP3/21-pilots_Stressed-out.mp3</location>
+			<title>21-pilots_Stressed-out.mp3</title>
+			<creator>twenty øne piløts</creator>
+			<album>Stressed out</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Stressed out&quot; by the band twenty øne piløts.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/twenty%20%C3%B8ne%20pil%C3%B8ts/Stressed%20out/art.jpg</image>
+			<duration>225106</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Twenty_%C3%B8ne_Pil%C3%B8ts/MP3/21-pilots_We-are-young.mp3</location>
+			<title>21-pilots_We-are-young.mp3</title>
+			<creator>twenty øne piløts</creator>
+			<album>We are young</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;We are young&quot; by twenty øne piløts</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/twenty%20%C3%B8ne%20pil%C3%B8ts/We%20are%20young/art.jpg</image>
+			<duration>252222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Twenty_%C3%B8ne_Pil%C3%B8ts/MP3/21-pilots_Heathens.mp3</location>
+			<title>21-pilots_Heathens.mp3</title>
+			<creator>twenty øne piløts</creator>
+			<album>Heathens</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Heathens&quot; by the band twenty øne piløts.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/twenty%20%C3%B8ne%20pil%C3%B8ts/Heathens/art.jpg</image>
+			<duration>217844</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deep%20Blue%20Something%20-%20Breakfast%20At%20Tiffany&#39;s/MP3/Deep-Blue-Something_Breakfast-at-Tiffanys.mp3</location>
+			<title>Deep-Blue-Something_Breakfast-at-Tiffanys.mp3</title>
+			<creator>Deep Blue Something</creator>
+			<album>Breakfast at Tiffanys</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Breakfast at Tiffany&#39;s&quot; by the band Deep Blue Something. It is regarded as their best song, and they are said to be a one hit wonder.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Deep%20Blue%20Something/Breakfast%20at%20Tiffanys/art.jpg</image>
+			<duration>259170</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Geometry%20dash%20series/Geometry%20Dash/MP3/Geometry-Dash_Full-OST.mp3</location>
+			<title>Geometry-Dash_Full-OST.mp3</title>
+			<creator>RobTop Games</creator>
+			<album>Geometry Dash Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The full soundtrack for the game &quot;Geometry Dash&quot; by RobTop Games.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/RobTop%20Games/Geometry%20Dash%20Soundtrack/art.png</image>
+			<duration>3620027</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

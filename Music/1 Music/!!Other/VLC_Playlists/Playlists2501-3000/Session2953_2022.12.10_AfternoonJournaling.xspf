@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Portal%202/Turrets/AudioOnly/MP3/Portal-2-Turret-Sounds.mp3</location>
+			<title>Portal-2-Turret-Sounds.mp3</title>
+			<creator>Valve</creator>
+			<album>Portal 2 - Functional turrets</album>
+			<trackNum>1</trackNum>
+			<annotation>All the voicelines for the functional turrets in Portal 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Valve/Portal%202%20-%20Functional%20turrets/art.jpg</image>
+			<duration>202327</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Portal%202/Turrets/AudioOnly/MP3/Portal-2-Defective-Turret-Sounds.mp3</location>
+			<title>Portal-2-Defective-Turret-Sounds.mp3</title>
+			<creator>Valve</creator>
+			<album>Portal 2 Turrets (defective)</album>
+			<trackNum>1</trackNum>
+			<annotation>All the voicelines for the defective turrets in Portal 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Valve/Portal%202%20Turrets%20%28defective%29/art.jpg</image>
+			<duration>231402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Turn%20down%20for%20what/MP3/DJ-Snake_Turn-down-for-what.mp3</location>
+			<title>DJ-Snake_Turn-down-for-what.mp3</title>
+			<creator>DJ Snake</creator>
+			<album>Turn down for what</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Turn down for what&quot; by the artist DJ Snake. The music video is completely weird, I recommend checking it out, as it is one of the most bizzare music videos I have ever seen.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/DJ%20Snake/Turn%20down%20for%20what/art.jpg</image>
+			<duration>216016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg</location>
+			<duration>203360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

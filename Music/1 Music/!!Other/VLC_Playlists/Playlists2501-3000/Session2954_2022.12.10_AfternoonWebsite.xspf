@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/02%20CP%20Violation.mp3</location>
+			<title>CP Violation</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>0</annotation>
+			<duration>105511</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/03%20The%20Innsbruck%20Experiment.mp3</location>
+			<title>The Innsbruck Experiment</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<duration>67581</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/27%20Particle%20Ghost.mp3</location>
+			<title>Particle Ghost</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>27</trackNum>
+			<annotation>0</annotation>
+			<duration>100417</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/43%20Lambda%20Core.mp3</location>
+			<title>Lambda Core</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>43</trackNum>
+			<annotation>0</annotation>
+			<duration>104597</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/20%20Nova%20Prospekt.mp3</location>
+			<title>Nova Prospekt</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>20</trackNum>
+			<annotation>0</annotation>
+			<duration>117867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mega%20Panda%20Theme/MP3/Mega-Panda-Theme-Song-Uncut.mp3</location>
+			<title>Mega-Panda-Theme-Song-Uncut.mp3</title>
+			<creator>NimbleBit</creator>
+			<album>Mega Panda theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song to the game Mega Panda by NimbleBit LLC.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/NimbleBit/Mega%20Panda%20theme%20song/art.png</image>
+			<duration>120590</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Harlem%20Shake/MP3/Baauer_Harlem-Shake.mp3</location>
+			<title>Baauer_Harlem-Shake.mp3</title>
+			<creator>Baauer</creator>
+			<album>Harlem Shake</album>
+			<trackNum>1</trackNum>
+			<annotation>The original Harlem Shake song by artist Baauer, the basis of a popular Internet Meme in 2013.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Baauer/Harlem%20Shake/art.jpg</image>
+			<duration>196215</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Hilary%20Stagg%20-%20The%20Edge%20of%20Forever/MP3/Forever%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.mp3</location>
+			<title>Forever - Hilary Stagg - The Edge of Forever.mp3</title>
+			<creator>Hilary Stagg</creator>
+			<album>The Edge of Forever</album>
+			<trackNum>7</trackNum>
+			<annotation>Song 7 of 7 - Forever - Hilary Stagg - The Edge of Forever</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Hilary%20Stagg/The%20Edge%20of%20Forever/art.jpg</image>
+			<duration>676767</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Hilary%20Stagg%20-%20The%20Edge%20of%20Forever/MP3/Simple%20and%20sweet%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.mp3</location>
+			<title>Simple and sweet - Hilary Stagg - The Edge of Forever.mp3</title>
+			<creator>Hilary Stagg</creator>
+			<album>The Edge of Forever</album>
+			<trackNum>6</trackNum>
+			<annotation>Song 6 of 7 - Simple and sweet - Hilary Stagg - The Edge of Forever</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Hilary%20Stagg/The%20Edge%20of%20Forever/art.jpg</image>
+			<duration>500883</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Hilary%20Stagg%20-%20The%20Edge%20of%20Forever/MP3/Inspirations%20-%20Hilary%20Stagg%20-%20The%20Edge%20of%20Forever.mp3</location>
+			<title>Inspirations - Hilary Stagg - The Edge of Forever.mp3</title>
+			<creator>Hilary Stagg</creator>
+			<album>The Edge of Forever</album>
+			<trackNum>2</trackNum>
+			<annotation>Song 2 of 7 - Inspirations - Hilary Stagg - The Edge of Forever</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Hilary%20Stagg/The%20Edge%20of%20Forever/art.jpg</image>
+			<duration>394669</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Dumb%20Ways%20to%20Die/AudioOnly/MP3/Dumb-Ways-to-Die-Theme-song.mp3</location>
+			<title>Dumb-Ways-to-Die-Theme-song.mp3</title>
+			<creator>Metro Trains (Melbourne, Australia)</creator>
+			<album>Dumb Ways to Die</album>
+			<trackNum>2</trackNum>
+			<annotation>The song from the music video unlocked once you play Dumb Ways to die and get a score of 800, and after you agree to be safe around trains.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Metro%20Trains%20%28Melbourne%2C%20Australia%29/Dumb%20Ways%20to%20Die/art.jpg</image>
+			<duration>181952</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Dumb%20Ways%20to%20Die/Remixes/[YTP]%20Dumb%20ways%20to%20dumb%20-%20YouTube.mp4</location>
+			<duration>111130</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+	</extension>
+</playlist>
