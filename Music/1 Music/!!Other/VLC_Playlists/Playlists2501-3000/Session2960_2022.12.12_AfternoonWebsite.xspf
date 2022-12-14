@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/French-Accordion-Traditionell-Musette/MP3/French-Accordian-Traditionell-Musette.mp3</location>
+			<title>French-Accordian-Traditionell-Musette.mp3</title>
+			<creator>France</creator>
+			<album>Traditionell Musette</album>
+			<trackNum>1</trackNum>
+			<annotation>The classic theme song of France.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/France/Traditionell%20Musette/art.png</image>
+			<duration>144387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Guns%20N&#39;%20Roses/MP3/Guns-N&#39;-Roses_Welcome-to-the-jungle.mp3</location>
+			<title>Guns-N&#39;-Roses_Welcome-to-the-jungle.mp3</title>
+			<creator>Guns N&#39; Roses</creator>
+			<album>Welcome to the jungle</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Welcome to the jungle&quot; by the band Guns N&#39; Roses.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Guns%20N%27%20Roses/Welcome%20to%20the%20jungle/art.jpg</image>
+			<duration>273616</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/ComputerClan%20theme%20(drifting2%20by%20AudioNautex)/MP3/Drifting-2_Audionautix.mp3</location>
+			<title>Drifting-2_Audionautix.mp3</title>
+			<creator>AudioNautix</creator>
+			<album>Drifting 2</album>
+			<trackNum>1</trackNum>
+			<annotation>The year &quot;2012&quot; is just a guess, I am unsure when this song was actually published.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/AudioNautix/Drifting%202/art.jpg</image>
+			<duration>238001</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Gotye/MP3/Gotye-SomebodyThatIUsedToKnow.mp3</location>
+			<title>Gotye-SomebodyThatIUsedToKnow.mp3</title>
+			<creator>Gotye</creator>
+			<album>Somebody that I used to know</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Gotye/Somebody%20that%20I%20used%20to%20know/art.jpg</image>
+			<duration>243915</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rokiczanka-W-moim-ogr%C3%B3decku/MP3/Rokiczanka_W-moim-ogr%C3%B3decku.mp3</location>
+			<title>Rokiczanka_W-moim-ogródecku.mp3</title>
+			<creator>Rokiczanka</creator>
+			<album>W moim ogródecku</album>
+			<trackNum>1</trackNum>
+			<annotation>I can&#39;t translate the necessary info accurately to fill out info here. All I know is that it is a good song (IMO)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rokiczanka/W%20moim%20ogr%C3%B3decku/art.jpg</image>
+			<duration>238638</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

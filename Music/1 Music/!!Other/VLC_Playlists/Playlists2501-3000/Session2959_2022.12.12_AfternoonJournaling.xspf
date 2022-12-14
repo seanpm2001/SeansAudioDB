@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AdVenture_Capitalist/AudioOnly/MP3/moon%20theme.mp3</location>
+			<duration>174969</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AdVenture_Capitalist/AudioOnly/MP3/earth%20theme.mp3</location>
+			<duration>311512</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AdVenture_Capitalist/AudioOnly/MP3/for%20the%20love%20of%20money%20event.mp3</location>
+			<duration>300541</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AdVenture_Capitalist/AudioOnly/MP3/the%20root%20of%20all%20evil%20event.mp3</location>
+			<duration>317390</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AdVenture_Capitalist/AudioOnly/MP3/Making%20it%20rain%20event.mp3</location>
+			<duration>290875</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AdVenture_Capitalist/AudioOnly/MP3/live%20rich%20and%20profit%20event.mp3</location>
+			<duration>301638</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AdVenture_Capitalist/AudioOnly/MP3/mars%20theme.mp3</location>
+			<duration>185105</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AdVenture_Capitalist/AudioOnly/MP3/Insert%20coin%20to%20continue%20event.mp3</location>
+			<duration>292338</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bj%C3%B6rk%20-%20I%20Remember%20You/MP3/Bj%C3%B6rk_I-Remember-You.mp3</location>
+			<title>Björk_I-Remember-You.mp3</title>
+			<creator>Björk</creator>
+			<album>Venus as a Boy (B Side)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I remember you&quot; by the Swedish artist Björk. This is the B-side song for Venus as a Boy.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bj%C3%B6rk/Venus%20as%20a%20Boy%20%28B%20Side%29/art.jpg</image>
+			<duration>253031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/Raw%20audio/AIFF/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2005%20Ruins.aiff</location>
+			<title>Ruins</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>5</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/toby%20fox/UNDERTALE%20Soundtrack/art.jpg</image>
+			<duration>92282</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
