@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Pretty_Pet_Salon/OGG/hko_shibuya109_v1.ogg</location>
+			<title>hko_shibuya109_v1</title>
+			<trackNum>16</trackNum>
+			<duration>48953</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Pretty_Pet_Salon/OGG/PetSalon_BGM1.ogg</location>
+			<title>PetSalon_BGM1</title>
+			<trackNum>18</trackNum>
+			<duration>73430</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Pretty_Pet_Salon/OGG/PetSalon_BGM2.ogg</location>
+			<title>PetSalon_BGM2</title>
+			<trackNum>19</trackNum>
+			<duration>76120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Pretty_Pet_Salon/OGG/hko_purincafe_v2.ogg</location>
+			<title>hko_purincafe_v2</title>
+			<trackNum>15</trackNum>
+			<duration>15203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Pretty_Pet_Salon/OGG/hko_hellomyfriend_v2.ogg</location>
+			<title>hko_hellomyfriend_v2</title>
+			<trackNum>14</trackNum>
+			<duration>37198</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Merge%20Plane%20OST/MP3/Merge_Plane_OST_SpeedUp2x_Extended.mp3</location>
+			<title>Merge_Plane_OST_SpeedUp2x_Extended.mp3</title>
+			<creator>Unknown Artist</creator>
+			<album>Merge Plane OST</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown%20Artist/Merge%20Plane%20OST/art.png</image>
+			<duration>1800041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Merge%20Plane%20OST/MP3/Merge_Plane_OST_MainTheme_Extended.mp3</location>
+			<title>Merge_Plane_OST_MainTheme_Extended.mp3</title>
+			<creator>Unknown Artist</creator>
+			<album>Merge Plane OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown%20Artist/Merge%20Plane%20OST/art.png</image>
+			<duration>316039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stupid%20Zombies%202%20theme/MP3/Stupid-zombies-theme.mp3</location>
+			<title>Stupid-zombies-theme.mp3</title>
+			<creator>Game Resort</creator>
+			<album>Stupid Zombies 2 Theme</album>
+			<trackNum>1</trackNum>
+			<annotation>I am unable to find the release year.
+The first game has the exact same song, but the third doesn&#39;t.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Game%20Resort/Stupid%20Zombies%202%20Theme/art.jpg</image>
+			<duration>98490</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stupid%20Zombies%20theme/MP3/Stupid-zombies-theme.mp3</location>
+			<title>Stupid-zombies-theme.mp3</title>
+			<creator>Game Resort</creator>
+			<album>Stupid Zombies Theme</album>
+			<trackNum>1</trackNum>
+			<annotation>I am unable to find the release year.
+The second game has the exact same song, but the third doesn&#39;t.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Game%20Resort/Stupid%20Zombies%20Theme/art.png</image>
+			<duration>98491</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stupid%20Zombies%203%20theme/MP3/Stupid-zombies-3-theme.mp3</location>
+			<title>Stupid-zombies-3-theme.mp3</title>
+			<creator>Game Resort</creator>
+			<album>Stupid Zombies 3 theme</album>
+			<trackNum>1</trackNum>
+			<annotation>Cannot find the release date for this song/this game.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Game%20Resort/Stupid%20Zombies%203%20theme/art.jpg</image>
+			<duration>139529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20Cafe%20OST/MP3/Zombie_Cafe_Theme.mp3</location>
+			<title>Zombie_Cafe_Theme.mp3</title>
+			<creator>Beeline Games</creator>
+			<album>Zombie Cafe Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Beeline%20Games/Zombie%20Cafe%20Soundtrack/art.jpg</image>
+			<duration>66359</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20Farm%20theme%20song/MP3/Zombie_Farm_Theme.mp3</location>
+			<title>Zombie_Farm_Theme.mp3</title>
+			<creator>The Play Forge</creator>
+			<album>Zombie Farm Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Play%20Forge/Zombie%20Farm%20Soundtrack/art.png</image>
+			<duration>60011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zorba_The_Greek/MP3/Mikis-Theodorakis_-_Zorba-The-Greek_-_Zorba&#39;s-Dance.mp3</location>
+			<title>Mikis-Theodorakis_-_Zorba-The-Greek_-_Zorba&#39;s-Dance.mp3</title>
+			<creator>Mikis Theodorakis</creator>
+			<album>Zorba the Greek</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Zorbas dance from the movie Zorba the Greek.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Mikis%20Theodorakis/Zorba%20the%20Greek/art.jpg</image>
+			<duration>242243</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Restaurant%20story/MP3/Restaurant-Story-Theme_High-Quality.mp3</location>
+			<title>Restaurant-Story-Theme_High-Quality.mp3</title>
+			<creator>Storm8 / TeamLava</creator>
+			<album>Restaurant Story Theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the mobile video game &quot;Restaurant Story&quot; by the developer Storm8/TeamLava.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Storm8%20_%20TeamLava/Restaurant%20Story%20Theme%20song/art.png</image>
+			<duration>204104</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bakery%20Story/MP3/BakeryStoryTheme.mp3</location>
+			<title>BakeryStoryTheme.mp3</title>
+			<creator>Storm8 / TeamLava</creator>
+			<album>Bakery Story theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>A full quality version of the theme song for the mobile game, Bakery Story.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Storm8%20_%20TeamLava/Bakery%20Story%20theme%20song/art.jpg</image>
+			<duration>189971</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Call%20me%20maybe/MP3/Carly-Rae-Jepsen_Call-Me-Maybe.mp3</location>
+			<title>Carly-Rae-Jepsen_Call-Me-Maybe.mp3</title>
+			<creator>Carly Rae Jepsen</creator>
+			<album>Call me Maybe</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Call me Maybe&quot; by the artist &quot;Carly Rae Jepsen&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Carly%20Rae%20Jepsen/Call%20me%20Maybe/art.jpg</image>
+			<duration>199376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shawn%20Mendes%20-%20Treat%20you%20better/MP3/Shawn-Mendes_Treat-you-better.mp3</location>
+			<title>Shawn-Mendes_Treat-you-better.mp3</title>
+			<creator>Shawn Mendes</creator>
+			<album>Treat you Better</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;treat you better&quot; by artist Shawn Mendes.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shawn%20Mendes/Treat%20you%20Better/art.jpg</image>
+			<duration>256166</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pocket%20Gems%20series/Pet%20Hotel%20OST/MP3/Pet_Hotel_Main_Theme.mp3</location>
+			<title>Pet_Hotel_Main_Theme.mp3</title>
+			<creator>Pocket Gems</creator>
+			<album>Tap Pet Hotel OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Pocket%20Gems/Tap%20Pet%20Hotel%20OST/art.jpg</image>
+			<duration>110559</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Yandere%20simulator/MP3/[OLD,%20CHECK%20DESCRIPTION]%20Tsubasa%20wo%20Kudasai%20-%20Instrumental%20(Yandere%20Simulator%20Promo%20Concept).mp3</location>
+			<title>[OLD, CHECK DESCRIPTION] Tsubasa wo Kudasai - Instrumental (Yandere Simulator Promo Concept).mp3</title>
+			<creator>Yandere Dev</creator>
+			<album>Yandere Simulator INDEV OST</album>
+			<trackNum>20</trackNum>
+			<annotation>A piano instrumental version of the Japanese song Tsubasa wo Kudasei (translation: please give me wings) used as the song for the promotional concept of Yandere Simulator.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yandere%20Dev/Yandere%20Simulator%20INDEV%20OST/art.png</image>
+			<duration>243366</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20V/MP3/Metal-Gear-Solid%20V_The-Phantom-Pain_Nuclear.mp3</location>
+			<title>Metal-Gear-Solid V_The-Phantom-Pain_Nuclear.mp3</title>
+			<creator>Konami</creator>
+			<album>Metal Gear Solid V - The Phantom Pain soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Nuclear&quot; from the video game Metal Gear Solid V - The Phantom Pain</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Metal%20Gear%20Solid%20V%20-%20The%20Phantom%20Pain%20soundtrack/art.jpg</image>
+			<duration>302847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20Peace%20Walker/MP3/Metal-Gear-Solid_Peace-Walker_Heavens-Divide.mp3</location>
+			<title>Metal-Gear-Solid_Peace-Walker_Heavens-Divide.mp3</title>
+			<creator>Konami</creator>
+			<album>Metal Gear Solid - Peace Walker soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Heavens divide&quot; from the video game Metal Gear Solid - Peace Walker</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Metal%20Gear%20Solid%20-%20Peace%20Walker%20soundtrack/art.jpg</image>
+			<duration>313662</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+	</extension>
+</playlist>
