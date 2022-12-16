@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Uptown%20funk/MP3/Uptown-funk.mp3</location>
+			<title>Uptown-funk.mp3</title>
+			<creator>Mark Ronson</creator>
+			<album>Uptown funk</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Uptown funk&quot; from Mark Ronson, featuring Bruno Mars.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Mark%20Ronson/Uptown%20funk/art.jpg</image>
+			<duration>270377</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Darude/MP3/Darude_Sandstorm.mp3</location>
+			<title>Darude_Sandstorm.mp3</title>
+			<creator>Darude</creator>
+			<album>Sandstorm</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Sandstorm&quot; by the artist &quot;Darude&quot; this is an instrumental song, it contains no talking, although it contains a dog barking at one point.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Darude/Sandstorm/art.jpg</image>
+			<duration>232290</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Riptide/MP3/Vance-Joy-Riptide.mp3</location>
+			<title>Vance-Joy-Riptide.mp3</title>
+			<creator>Vance Joy</creator>
+			<album>Riptide</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Vance%20Joy/Riptide/art.jpg</image>
+			<duration>198931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Beach%20Boys%20-%20Wouldn&#39;t%20it%20be%20nice/MP3/Beach-Boys_Wouldn&#39;t-It-be-nice.mp3</location>
+			<title>Beach-Boys_Wouldn&#39;t-It-be-nice.mp3</title>
+			<creator>Beach Boys</creator>
+			<album>Wouldn&#39;t it be nice</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Wouldn&#39;t it be nice&quot; by the band &quot;Beach Boys&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Beach%20Boys/Wouldn%27t%20it%20be%20nice/art.jpg</image>
+			<duration>153112</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Initial%20D%20Night%20of%20Fire%20magic%20drift%20bus/MP3/Initial-D_Night-of-Fire-(Magic-Drift-Bus-MIDI).mp3</location>
+			<title>Initial-D_Night-of-Fire-(Magic-Drift-Bus-MIDI).mp3</title>
+			<creator>Dream / Niko / Initial D</creator>
+			<album>Night of Fire</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Night of Fire, by Initial D, which is actually Niko WHICH was actually remixed by Dream.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Dream%20_%20Niko%20_%20Initial%20D/Night%20of%20Fire/art.jpg</image>
+			<duration>291301</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Konosuba/AudioOnly/Konosuba1/Opening/MP3/KONOSUBA%20-%20God&#39;s%20blessing%20on%20this%20wonderful%20world!%20-%20Opening%20-%20Fantastic%20Dreamer.mp3</location>
+			<title>KONOSUBA - God&#39;s blessing on this wonderful world! - Opening - Fantastic Dreamer.mp3</title>
+			<creator>Natsume Akatsuki</creator>
+			<album>KonoSuba Anime soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The opening theme song for Season 1 of the KonoSuba Anime Television Series.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Natsume%20Akatsuki/KonoSuba%20Anime%20soundtrack/art.png</image>
+			<duration>99352</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Konosuba/AudioOnly/Konosuba1/Ending/MP3/KONOSUBA%20-%20God&#39;s%20blessing%20on%20this%20wonderful%20world!%20-%20Ending%20-%20Chisana%20Boken-sha.mp3</location>
+			<title>KONOSUBA - God&#39;s blessing on this wonderful world! - Ending - Chisana Boken-sha.mp3</title>
+			<creator>Masato Koda</creator>
+			<album>KonoSuba Anime Soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>The outro song for Season 1 of the KonoSuba Anime Television series.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Koda/KonoSuba%20Anime%20Soundtrack/art.png</image>
+			<duration>99927</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Konosuba/AudioOnly/Konosuba2/Opening/MP3/KONOSUBA%20-%20God&#39;s%20blessing%20on%20this%20wonderful%20world!%202%20-%20Opening%20-%20Tomorrow.mp3</location>
+			<title>KONOSUBA - God&#39;s blessing on this wonderful world! 2 - Opening - Tomorrow.mp3</title>
+			<creator>Masato Koda</creator>
+			<album>KonoSuba Anime Soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>The intro song for Season 2 of the KonoSuba Anime Television Series.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Koda/KonoSuba%20Anime%20Soundtrack/art.png</image>
+			<duration>100345</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Konosuba/AudioOnly/Konosuba2/Ending/MP3/KONOSUBA%20-%20God&#39;s%20blessing%20on%20this%20wonderful%20world!%202%20-%20Ending%20-%20Ouchi%20ni%20Kaeritai.mp3</location>
+			<title>KONOSUBA - God&#39;s blessing on this wonderful world! 2 - Ending - Ouchi ni Kaeritai.mp3</title>
+			<creator>Masato Koda</creator>
+			<album>KonoSuba Anime Soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>The outro song for Season 2 of the KonoSuba Anime Television Series.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Koda/KonoSuba%20Anime%20Soundtrack/art.png</image>
+			<duration>99874</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
