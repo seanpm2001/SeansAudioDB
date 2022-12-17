@@ -109,6 +109,7 @@ Even after the war ends, I will still listen to the anthem from time to time.
 - [x] 🇺🇦️ Day 66: 2022, December 14th
 - [x] 🇺🇦️ Day 67: 2022, December 15th
 - [x] 🇺🇦️ Day 68: 2022, December 16th
+- [x] 🇺🇦️ Day 69: 2022, December 17th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -414,6 +415,7 @@ Even after the war ends, I will still listen to the anthem from time to time.
 - [x] 🇺🇦️ Day 294: 2022, Wednesday, December 14th
 - [x] 🇺🇦️ Day 295: 2022, Thursday, December 15th
 - [x] 🇺🇦️ Day 296: 2022, Friday, December 16th
+- [x] 🇺🇦️ Day 297: 2022, Saturdau, December 17th
 
 <!-- Log
 2022.12.08 - 2 months added, 1 extra month was added to make up for the error on the other list
@@ -3647,8 +3649,9 @@ Even after the war ends, I will still listen to the anthem from time to time.
 - [x] 🇺🇦️ Day 3219: 2022, December 14th
 - [x] 🇺🇦️ Day 3220: 2022, December 15th
 - [x] 🇺🇦️ Day 3221: 2022, December 16th
+- [x] 🇺🇦️ Day 3222: 2022, December 17th
 
-After 3,221 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+After 3,222 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
 
 **NOTICE:** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -3662,9 +3665,9 @@ After 3,221 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `61 (2022, Friday, December 16th at 5:20 pm PST)`
+**File version:** `62 (2022, Saturday, December 17th at 3:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,518`
+**Line count (including blank lines and compiler line):** `4,536`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -4487,7 +4490,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > Changes:
 
-- [x] Updated the main list to include an entry for 2022, December 15th (day 66)
+- [x] Updated the main list to include an entry for 2022, December 15th (day 67)
 - - [x] Removed the `Coming soon` entry, in the rare chance that the war could end the next day
 - [x] Updated the list of all days of the war since the 2022 Invasion (295 days)
 - [x] Updated the list of all days of the war (3,220 days)
@@ -4503,12 +4506,27 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > Changes:
 
-- [x] Updated the main list to include an entry for 2022, December 16th (day 67)
+- [x] Updated the main list to include an entry for 2022, December 16th (day 68)
 - [x] Updated the list of all days of the war since the 2022 Invasion (296 days)
 - [x] Updated the list of all days of the war (3,221 days)
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 61
+
+</details>
+
+<details><summary><p lang="en"><b>Version 62 (2022, Saturday, December 17th at 3:55 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2022, December 17th (day 69)
+- [x] Updated the list of all days of the war since the 2022 Invasion (297 days)
+- [x] Updated the list of all days of the war (3,222 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 62
 
 </details>
 
