@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Smash%20Mouth%20-%20All%20star%20[Bardcore]%20medievel.webm</location>
+			<duration>185420</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Matthew%20Wilder%20-%20Break%20my%20stride%20[Bardcore]%20medievel.webm</location>
+			<duration>193260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20I&#39;m%20blue%20[bardcore]%20medievel.webm</location>
+			<duration>280680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Boney%20-%20Rasputin%20[bardcore]%20medievel.webm</location>
+			<duration>273500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Dragostea%20Din%20Tei%20(Numa%20Numa)%20[Bardcore]%20medieval.m4a</location>
+			<duration>177237</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Girls%20Just%20wanna%20have%20fun%20[Bardcore]%20medieval.webm</location>
+			<duration>193700</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Friends%20theme%20[Bardcore]%20medieval.m4a</location>
+			<duration>64644</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Camila%20Cabello%20-%20Havana%20[Bardcore]%20Medieval.webm</location>
+			<duration>168680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Lil%20Nas%20X%20-%20Old%20town%20road%20[Bardcore]%20medieval.webm</location>
+			<duration>121901</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Metal%20Gear%20Solid%20theme%20(Medieval%20Style).webm</location>
+			<duration>198800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Minecraft%20-%20Sweden%20[Bardcore]%20medieval.m4a</location>
+			<duration>126757</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Mii%20channel%20theme%20[Bardcore]%20Miidievel.webm</location>
+			<duration>120061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+	</extension>
+</playlist>
