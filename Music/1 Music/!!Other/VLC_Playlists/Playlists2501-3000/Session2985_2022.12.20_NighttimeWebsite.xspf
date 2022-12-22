@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zuma%20deluxe/(No%20video)%20Main%20Theme%20(Zuma%20Deluxe).m4a</location>
+			<duration>69079</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zuma%20deluxe/(No%20video)%20Main%20Menu%20Theme%20(Zuma%20Deluxe).m4a</location>
+			<duration>68057</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zuma%20deluxe/(No%20video)%20In%20Game%20Music%20Suite%20(Zuma%20Deluxe).m4a</location>
+			<duration>463098</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zuma%20deluxe/(No%20video)%20Gauntlet%20Menu%20(Zuma%20Deluxe).m4a</location>
+			<duration>49063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zuma%20deluxe/(No%20video)%20Danger%20(Zuma%20Deluxe).m4a</location>
+			<duration>49063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Storm8TeamLavaSeries/Farm%20story/AudioOnly/MP3/LowQuality/FarmStoryTheme(uncut).mp3</location>
+			<creator>MP3 Recorder</creator>
+			<album>Fragile Heart</album>
+			<duration>75411</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Storm8TeamLavaSeries/City%20story/AudioOnly/MP3/LowQuality/CityStoryThemeLowQuality(Uncut).mp3</location>
+			<creator>MP3 Recorder</creator>
+			<album>Fragile Heart</album>
+			<duration>127904</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Storm8TeamLavaSeries/Bakery%20Story/MP3/BakeryStoryTheme.mp3</location>
+			<title>BakeryStoryTheme.mp3</title>
+			<creator>Storm8 / TeamLava</creator>
+			<album>Bakery Story theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>A full quality version of the theme song for the mobile game, Bakery Story.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Storm8%20_%20TeamLava/Bakery%20Story%20theme%20song/art.jpg</image>
+			<duration>189971</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Space%20Oddity/MP3/David-Bowie_Space-Oddity.mp3</location>
+			<title>David-Bowie_Space-Oddity.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Space Oddity</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Space Oddity&quot; by David Bowie.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Space%20Oddity/art.jpg</image>
+			<duration>304937</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mad%20world/MP3/Mad_World.mp3</location>
+			<title>Mad_World.mp3</title>
+			<creator>Mad World</creator>
+			<album>Mad World</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Mad%20World/Mad%20World/art.jpg</image>
+			<duration>200081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Walk%20the%20dinosaur/MP3/Who-(Not-was)_Walk-the-dinosaur.mp3</location>
+			<title>Who-(Not-was)_Walk-the-dinosaur.mp3</title>
+			<creator>Who (not was)</creator>
+			<album>Walk the Dinosaur</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Walk the Dinosaur&quot; by the band &quot;Who (not was)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Who%20%28not%20was%29/Walk%20the%20Dinosaur/art.jpg</image>
+			<duration>214396</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Thats%20amore/MP3/Dean-Martin_That&#39;s-Amore.mp3</location>
+			<title>Dean-Martin_That&#39;s-Amore.mp3</title>
+			<creator>Dean Martin</creator>
+			<album>That&#39;s Amore</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;That&#39;s Amore&quot; from the artist Dean Martin, although it was composed and written by composer Harry Warren and lyricist Jack Brooks originally.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Dean%20Martin/That%27s%20Amore/art.jpg</image>
+			<duration>186967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20Rio%20OST/Angry%20birds%20Rio%20main%20theme.mp4</location>
+			<duration>139180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20Rio%20OST/Angry%20Birds%20Rio%20(cutscene%20theme)%20-%20YouTube.mp4</location>
+			<duration>60860</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20Rio%20OST/Angry%20birds%20Rio%20main%20theme%202.mp4</location>
+			<duration>128197</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_SouthHamerica.mp3</location>
+			<title>AngryBirdsSeasons_SouthHamerica.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>81771</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_EasterEggs.mp3</location>
+			<title>AngryBirdsSeasons_EasterEggs.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>65549</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_CherryBlossom.mp3</location>
+			<title>AngryBirdsSeasons_CherryBlossom.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>72028</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_ArcticEggspedition.mp3</location>
+			<title>AngryBirdsSeasons_ArcticEggspedition.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>74849</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_HogsandKisses.mp3</location>
+			<title>AngryBirdsSeasons_HogsandKisses.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>84436</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_PCVersion_SeasonsGreedings.mp3</location>
+			<title>AngryBirdsSeasons_PCVersion_SeasonsGreedings.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>93422</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_WinterWonderham.mp3</location>
+			<title>AngryBirdsSeasons_WinterWonderham.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>63407</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_WinterWonderham_withAmbience.mp3</location>
+			<title>AngryBirdsSeasons_WinterWonderham_withAmbience.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>84723</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_PCVersion_HogsandKisses.mp3</location>
+			<title>AngryBirdsSeasons_PCVersion_HogsandKisses.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>88956</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_OriginalPiglantis.mp3</location>
+			<title>AngryBirdsSeasons_OriginalPiglantis.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>77749</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_NewWinterWonderham.mp3</location>
+			<title>AngryBirdsSeasons_NewWinterWonderham.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>110794</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+	</extension>
+</playlist>
