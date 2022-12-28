@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!iBlast%20Moki%20series/iBlast%20Moki%202/Audio%20only/AIFF/Romain%20Gauthier%20-%20iBlast%20Moki%202%20-%2008%20iBlast%20Moki%20-%20Background%20Music%201%20(2009).aiff</location>
+			<title>iBlast Moki - Background Music 1 (2009)</title>
+			<creator>Romain Gauthier</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>8</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20Gauthier/iBlast%20Moki%202/art.jpg</image>
+			<duration>246291</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!iBlast%20Moki%20series/iBlast%20Moki%202/Audio%20only/AIFF/Romain%20Gauthier%20-%20iBlast%20Moki%202%20-%2009%20iBlast%20Moki%20-%20Background%20Music%202%20(2009).aiff</location>
+			<title>iBlast Moki - Background Music 2 (2009)</title>
+			<creator>Romain Gauthier</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>9</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20Gauthier/iBlast%20Moki%202/art.jpg</image>
+			<duration>213891</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Slava_Ukraini!/AudioOnly/MP3/Slava_Ukraini!.mp3</location>
+			<title>Slava_Ukraini!.mp3</title>
+			<creator>Marcus Paus</creator>
+			<album>«Слава Україні!» Slava Ukraini!</album>
+			<trackNum>1</trackNum>
+			<annotation>Slava Ukraini!
+Glory to Ukraine!
+Слава Україні!
+
+This song was composed by Marcus Paus as a composition of the Norwegian Armed Forces and is an ode to the ongoing 2022 Russian Invasion of Ukraine</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Marcus%20Paus/%C2%AB%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%21%C2%BB%20Slava%20Ukraini%21/art.jpg</image>
+			<duration>261861</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/MP3/Bejeweled%20Twist%20Music%20-%20Challenge%201.mp3</location>
+			<title>Bejeweled Twist Music - Challenge 1.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Challenge mode</album>
+			<trackNum>2</trackNum>
+			<annotation>The main challenge mode theme for Bejeweled Twist.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Challenge%20mode/art.jpg</image>
+			<duration>1234616</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/MP3/Bejeweled%20Twist%20Music%20-%20Challenge%202.mp3</location>
+			<title>Bejeweled Twist Music - Challenge 2.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Challenge mode</album>
+			<trackNum>3</trackNum>
+			<annotation>The secondary challenge mode song for Bejeweled Twist.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Challenge%20mode/art.jpg</image>
+			<duration>347413</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
