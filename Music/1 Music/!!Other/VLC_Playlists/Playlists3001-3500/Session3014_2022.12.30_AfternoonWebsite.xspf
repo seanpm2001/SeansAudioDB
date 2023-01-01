@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Fernando%20-%20Abba/MP3/ABBA-Fernando.mp3</location>
+			<title>ABBA-Fernando.mp3</title>
+			<creator>ABBA</creator>
+			<album>Fernando</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Fernando&quot; by the Swedish group &quot;ABBA&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/ABBA/Fernando/art.jpg</image>
+			<duration>254547</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Adele/MP3/Adele-Hello.mp3</location>
+			<title>Adele-Hello.mp3</title>
+			<creator>Adele</creator>
+			<album>Hello</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Adele/Hello/art.jpg</image>
+			<duration>294018</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20John%20Denver%20-%20Take%20Me%20Home%20Country%20Roads%20[Bardcore]%20medievel.webm</location>
+			<duration>193180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Country%20roads/(No%20video)%20John%20Denver%20-%20Take%20me%20home%20country%20roads.webm</location>
+			<duration>198380</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stereotypical-music-from-around-the-world/MP3/(BEST-VERSION)-Stereotypical-Music-Around-The-World.mp3</location>
+			<title>(BEST-VERSION)-Stereotypical-Music-Around-The-World.mp3</title>
+			<creator>YouTubeUser:PlaneZap</creator>
+			<album>Stereotypical Music from around the world</album>
+			<trackNum>1</trackNum>
+			<annotation>A collection of 45 songs of various stereotypical music from around the world. It really helped fill holes in my music collection</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/YouTubeUser_PlaneZap/Stereotypical%20Music%20from%20around%20the%20world/art.png</image>
+			<duration>918872</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
