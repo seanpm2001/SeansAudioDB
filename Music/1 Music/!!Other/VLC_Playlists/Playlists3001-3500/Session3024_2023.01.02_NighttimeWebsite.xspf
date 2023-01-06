@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Samba-de-Janeiro/MP3/Samba-de-Janeiro.mp3</location>
+			<title>Samba-de-Janeiro.mp3</title>
+			<creator>Bellini</creator>
+			<album>Samba de Janeiro</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Samba de Janeiro by German band Bellini.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bellini/Samba%20de%20Janeiro/art.jpg</image>
+			<duration>169178</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rick-Astley_Whenever-you-need-somebody/MP3/Rick-Astley_Whenever-you-need-somebody.mp3</location>
+			<title>Rick-Astley_Whenever-you-need-somebody.mp3</title>
+			<creator>Rick Astley</creator>
+			<album>Whenever you need somebody</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Whenever you need somebody&quot; by artist &quot;Rick Astley&quot; this song is a cover of the 1985 song &quot;Whenever you need somebody&quot; by artist Stock Aitken Waterma.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rick%20Astley/Whenever%20you%20need%20somebody/art.jpg</image>
+			<duration>205985</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Adele/MP3/Adele-Hello.mp3</location>
+			<title>Adele-Hello.mp3</title>
+			<creator>Adele</creator>
+			<album>Hello</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Adele/Hello/art.jpg</image>
+			<duration>294018</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-game-soundtrack/29%20Launch%20Base%20Zone%20Act%201.mp3</location>
+			<duration>122737</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-game-soundtrack/30%20Launch%20Base%20Zone%20Act%202.mp3</location>
+			<duration>122658</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-game-soundtrack/32%20Fanfare.mp3</location>
+			<duration>11953</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-game-soundtrack/31%20Final%20Boss.mp3</location>
+			<duration>120335</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-game-soundtrack/17%20Act%202%20Boss.mp3</location>
+			<duration>82274</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>

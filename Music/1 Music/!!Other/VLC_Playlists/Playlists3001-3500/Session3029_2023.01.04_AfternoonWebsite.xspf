@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/My%20hope%20will%20never%20die/MP3/Dr_My-hope-will-never-die.mp3</location>
+			<title>Dr_My-hope-will-never-die.mp3</title>
+			<creator>Dr</creator>
+			<album>I keep holding on</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I keep holding on&quot; by Dr. I cannot determine the year of this song, as its MLG counterpart has so much popularity that it makes it hard to determine the year. So I am using the approximated start of the MLG era as the year. Same goes with the album art, I tried several things, this is as close as I could get.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Dr/I%20keep%20holding%20on/art.jpg</image>
+			<duration>216747</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Crab%20Rave/MP3/Crab_Rave.mp3</location>
+			<title>Crab_Rave.mp3</title>
+			<creator>NoiseStorm</creator>
+			<album>Crab Rave</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/NoiseStorm/Crab%20Rave/art.jpg</image>
+			<duration>192244</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/M.I.A-Bad-Girls-Instrumental/MP3/M.I.A._Bad-Girls-Instrumental.mp3</location>
+			<title>M.I.A._Bad-Girls-Instrumental.mp3</title>
+			<creator>M.I.A.</creator>
+			<album>Bad Girls (Instrumental)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bad girls&quot; in Instrumental format, by the British band M.I.A.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/M.I.A./Bad%20Girls%20%28Instrumental%29/art.jpg</image>
+			<duration>228737</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nintendo%20DS%20OST/MP3/Nintendo%20DSi%20Camera%20-%20Nintendo%20DSi%20Music%20Extended.mp3</location>
+			<title>Nintendo DSi Camera - Nintendo DSi Music Extended.mp3</title>
+			<creator>Nintendo</creator>
+			<album>Nintendo DSi system soundtrack (extended)</album>
+			<trackNum>15</trackNum>
+			<annotation>The main song for the Nintendo DSi camera program.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Nintendo%20DSi%20system%20soundtrack%20%28extended%29/art.jpg</image>
+			<duration>1880342</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nintendo%20DS%20OST/MP3/Nintendo%20DSi%20Sound%20(Main%20Menu)%20-%20Nintendo%20DSi%20Music%20Extended.mp3</location>
+			<title>Nintendo DSi Sound (Main Menu) - Nintendo DSi Music Extended.mp3</title>
+			<creator>Nintendo</creator>
+			<album>Nintendo DSi system soundtrack (extended)</album>
+			<trackNum>2</trackNum>
+			<annotation>The main menu song for the Nintendo DSi sound settings menu.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Nintendo%20DSi%20system%20soundtrack%20%28extended%29/art.jpg</image>
+			<duration>1800250</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nintendo%20DS%20OST/MP3/Nintendo%20DSi%20Camera%20(Tutorial)%20-%20Nintendo%20DSi%20Music%20Extended.mp3</location>
+			<title>Nintendo DSi Camera (Tutorial) - Nintendo DSi Music Extended.mp3</title>
+			<creator>Nintendo</creator>
+			<album>Nintendo DSi system soundtrack (extended)</album>
+			<trackNum>14</trackNum>
+			<annotation>The tutorial song for the Nintendo DSi camera program.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Nintendo%20DSi%20system%20soundtrack%20%28extended%29/art.jpg</image>
+			<duration>1841054</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
