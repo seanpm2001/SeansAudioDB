@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Senbonzakura/MP3/Senbonzakura.mp3</location>
+			<title>Senbonzakura.mp3</title>
+			<creator>Lindsay Sterling</creator>
+			<album>Senbonzakura (violin cover)</album>
+			<trackNum>1</trackNum>
+			<annotation>A violin cover of the song Senbonzakura.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lindsay%20Sterling/Senbonzakura%20%28violin%20cover%29/art.jpg</image>
+			<duration>204572</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Senbonzakura/Miku/AudioOnly/M4A/Hatsune%20Miku%20-%20Senbonzakura%20-%20Lyrics%20(Kan_Rom_Eng)%20[F1tWiEPc5yg].m4a</location>
+			<duration>245296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/iMovie_OST/Buddy/AudioOnly/M4A/Buddy%20(w_sheet)%20(iMovie%20Jingle%20Theme)%20[P086bauEXAU].m4a</location>
+			<duration>79181</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Senbonzakura/Miku/AudioOnly/M4A/Hatsune%20Miku%20-%20Senbonzakura%20-%20Lyrics%20(Kan_Rom_Eng)%20[F1tWiEPc5yg].m4a</location>
+			<duration>245296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/TheLonelyIsland_I&#39;m-on-a-boat/AudioOnly/M4A/The%20Lonely%20Island%20-%20I&#39;m%20On%20A%20Boat%20(Explicit%20Version)%20ft.%20T-Pain%20(Official%20Video)%20[avaSdC0QOUM].m4a</location>
+			<duration>184158</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Al_Maiten_Suite/AudioOnly/M4A/Al%20Maiten%20Suite%20[dNsWwPYm6Ds].m4a</location>
+			<duration>777531</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
