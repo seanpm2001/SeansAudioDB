@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/In-praise-of-Genghis-Khan/MP3/In-Praise-of-Genghis-Khan.mp3</location>
+			<title>In-Praise-of-Genghis-Khan.mp3</title>
+			<creator>A descendant of Genghis Khan</creator>
+			<album>In Praise of Genghis Khan</album>
+			<trackNum>1</trackNum>
+			<annotation>A song about Genghis Khan. I can&#39;t determine the author or year, but it is likely a descendant of Genghis Khan.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/A%20descendant%20of%20Genghis%20Khan/In%20Praise%20of%20Genghis%20Khan/art.jpg</image>
+			<duration>302560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Harlem%20Shake/MP3/Baauer_Harlem-Shake.mp3</location>
+			<title>Baauer_Harlem-Shake.mp3</title>
+			<creator>Baauer</creator>
+			<album>Harlem Shake</album>
+			<trackNum>1</trackNum>
+			<annotation>The original Harlem Shake song by artist Baauer, the basis of a popular Internet Meme in 2013.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Baauer/Harlem%20Shake/art.jpg</image>
+			<duration>196215</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tunak%20Tunak%20Tun/MP3/Daler-Mehndi_Tunak-Tunak-Tun.mp3</location>
+			<title>Daler-Mehndi_Tunak-Tunak-Tun.mp3</title>
+			<creator>Daler Mehndi</creator>
+			<album>Tunak Tunak Tun</album>
+			<trackNum>1</trackNum>
+			<annotation>A lot of people think of the music video rather than the song, as the music video was pretty good (CGI) for Indian technology at the time (1998) but has become laughable to many. I personally like the song as well.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Daler%20Mehndi/Tunak%20Tunak%20Tun/art.jpg</image>
+			<duration>256375</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
