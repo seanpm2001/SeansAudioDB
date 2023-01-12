@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/La-Salsa-Lleg%C3%B3/MP3/Sonora-Carruseles_La-Salsa-Lleg%C3%B3.mp3</location>
+			<title>Sonora-Carruseles_La-Salsa-Llegó.mp3</title>
+			<creator>Sonora Carruseles</creator>
+			<album>La Salsa Llegó</album>
+			<trackNum>1</trackNum>
+			<annotation>I cannot translate the sources enough to get proper information on this song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Sonora%20Carruseles/La%20Salsa%20Lleg%C3%B3/art.jpg</image>
+			<duration>281793</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/midnight%20north%20jazz%20space.slash.house/MP3/Midnight-North_This-is-a-jazz-space.mp3</location>
+			<title>Midnight-North_This-is-a-jazz-space.mp3</title>
+			<creator>Midnight North</creator>
+			<album>This is a Jazz space</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;This is a jazz space&quot; by the band &quot;Midnight North&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Midnight%20North/This%20is%20a%20Jazz%20space/art.jpg</image>
+			<duration>158389</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Troll/MP3/Troll-Song.mp3</location>
+			<title>Troll-Song.mp3</title>
+			<creator>Eduard Khil</creator>
+			<album>Troll Song</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Eduard%20Khil/Troll%20Song/art.png</image>
+			<duration>161368</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Troll/Remix/MP3/Rainbow-Trololo.mp3</location>
+			<title>Rainbow-Trololo.mp3</title>
+			<creator>Eduard Khil</creator>
+			<album>Troll Song Remixes</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Eduard%20Khil/Troll%20Song%20Remixes/art.png</image>
+			<duration>113798</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Troll/Remix/MP3/[YTPMV]-Megatrololovania-Megalovania-Undertale.mp3</location>
+			<title>[YTPMV]-Megatrololovania-Megalovania-Undertale.mp3</title>
+			<creator>Eduard Khil</creator>
+			<album>Troll Song Remixes</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Eduard%20Khil/Troll%20Song%20Remixes/art.png</image>
+			<duration>156926</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/CityVille/MP3/CityVille_Theme_Song.mp3</location>
+			<title>CityVille_Theme_Song.mp3</title>
+			<creator>Zynga</creator>
+			<album>CityVille Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Zynga/CityVille%20Soundtrack/art.png</image>
+			<duration>98464</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/BiSH/MP3/BiSH-My-landscape.mp3</location>
+			<title>BiSH-My-landscape.mp3</title>
+			<creator>BiSH (Brand new Idol SHit)</creator>
+			<album>THE GUERRiLLA BiSH</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/BiSH%20%28Brand%20new%20Idol%20SHit%29/THE%20GUERRiLLA%20BiSH/art.jpg</image>
+			<duration>339445</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
