@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rokiczanka-W-moim-ogr%C3%B3decku/MP3/Rokiczanka_W-moim-ogr%C3%B3decku.mp3</location>
+			<title>Rokiczanka_W-moim-ogródecku.mp3</title>
+			<creator>Rokiczanka</creator>
+			<album>W moim ogródecku</album>
+			<trackNum>1</trackNum>
+			<annotation>I can&#39;t translate the necessary info accurately to fill out info here. All I know is that it is a good song (IMO)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rokiczanka/W%20moim%20ogr%C3%B3decku/art.jpg</image>
+			<duration>238638</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Radiohead/MP3/Radiohead_Creep.mp3</location>
+			<title>Radiohead_Creep.mp3</title>
+			<creator>Radiohead</creator>
+			<album>Creep</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Creep&quot; by the band &quot;Radiohead&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Radiohead/Creep/art.jpg</image>
+			<duration>236574</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Call%20me%20maybe/MP3/Carly-Rae-Jepsen_Call-Me-Maybe.mp3</location>
+			<title>Carly-Rae-Jepsen_Call-Me-Maybe.mp3</title>
+			<creator>Carly Rae Jepsen</creator>
+			<album>Call me Maybe</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Call me Maybe&quot; by the artist &quot;Carly Rae Jepsen&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Carly%20Rae%20Jepsen/Call%20me%20Maybe/art.jpg</image>
+			<duration>199376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/11%20Slow%20Light.mp3</location>
+			<title>Slow Light</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>11</trackNum>
+			<annotation>0</annotation>
+			<duration>44750</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/12%20Apprehension%20and%20Evasion.mp3</location>
+			<title>Apprehension and Evasion</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>12</trackNum>
+			<annotation>0</annotation>
+			<duration>137773</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/03%20The%20Innsbruck%20Experiment.mp3</location>
+			<title>The Innsbruck Experiment</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<duration>67581</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/17%20Triage%20at%20Dawn.mp3</location>
+			<title>Triage at Dawn</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>17</trackNum>
+			<annotation>0</annotation>
+			<duration>45482</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/38%20Negative%20Pressure.mp3</location>
+			<title>Negative Pressure</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>38</trackNum>
+			<annotation>0</annotation>
+			<duration>117737</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/37%20Escape%20Array.mp3</location>
+			<title>Escape Array</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>37</trackNum>
+			<annotation>0</annotation>
+			<duration>87043</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Half%20Life%202%20OST/AudioOnly/32%20Black%20Mesa%20Inbound.mp3</location>
+			<title>Black Mesa Inbound</title>
+			<creator>Valve</creator>
+			<album>Half-Life 2 Soundtrack</album>
+			<trackNum>32</trackNum>
+			<annotation>0</annotation>
+			<duration>133880</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
