@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Senbonzakura/Miku/AudioOnly/M4A/Hatsune%20Miku%20-%20Senbonzakura%20-%20Lyrics%20(Kan_Rom_Eng)%20[F1tWiEPc5yg].m4a</location>
+			<duration>245296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/MargaritaVille/AudioOnly/M4A/Jimmy%20Buffett%20-%20Margaritaville%20(Lyrics)%20[ue2-ZVxpVjc].m4a</location>
+			<duration>248315</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Don&#39;t%20be%20racist%20I%20am%20a%20building/MP3/Don&#39;tBeRacistIAmABuilding.mp3</location>
+			<title>Don&#39;tBeRacistIAmABuilding.mp3</title>
+			<creator>Mike Coker</creator>
+			<album>Don&#39;t be racist I am a building</album>
+			<trackNum>1</trackNum>
+			<annotation>I can&#39;t find good information about this song online, I thought information on this would be more common, as it has been a meme for years, and memes receive significant coverage. As such, I can&#39;t figure out the exact Genre, date, or album name. Hopefully Genius is accurate on this one, it is the only source I can find.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Mike%20Coker/Don%27t%20be%20racist%20I%20am%20a%20building/art.jpg</image>
+			<duration>81039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Osiris/MP3/Ancient-Egyptian-Music-Osiris.mp3</location>
+			<title>Ancient-Egyptian-Music-Osiris.mp3</title>
+			<creator>Ancient Egypt</creator>
+			<album>Osiris</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Osiris, composed in Ancient Egypt thousands of years ago.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ancient%20Egypt/Osiris/art.jpg</image>
+			<duration>198931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Modern%20Day/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Modern%20Day%20Theme.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Modern Day Theme.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies soundtrack / Modern Day</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the Modern Day stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%20soundtrack%20_%20Modern%20Day/art.png</image>
+			<duration>666840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Modern%20Day/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Modern%20Day_%20Demonstration%20Mini-Game%20Extended.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Modern Day_ Demonstration Mini-Game Extended.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Modern Day</album>
+			<trackNum>4</trackNum>
+			<annotation>The Demonstration Minigame theme song for the Modern Day stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Modern%20Day/art.png</image>
+			<duration>909468</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Modern%20Day/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Modern%20Day_%20Ultimate%20Battle%20Extended.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Modern Day_ Ultimate Battle Extended.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Modern Day</album>
+			<trackNum>5</trackNum>
+			<annotation>The Ultimate Battle theme song for the Modern Day stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Modern%20Day/art.png</image>
+			<duration>908449</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Over%20the%20Horizon/Samsung%20Galaxy%20S20%20FE/Over_the_Horizon.mp3</location>
+			<title>Over the Horizon</title>
+			<creator>Samsung</creator>
+			<album>Brand Music 2020</album>
+			<trackNum>1</trackNum>
+			<annotation>Samsung</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Samsung/Brand%20Music%202020/art.jpg</image>
+			<duration>206158</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Over%20the%20Horizon/Compilation/The%20Evolution%20of%20Over%20the%20Horizon%20(2011-2018)%20(Samsung%20Galaxy%20Theme).mp3</location>
+			<title>The Evolution of Over the Horizon (2011-2018) (Samsung Galaxy Theme)</title>
+			<creator>fjchuen</creator>
+			<album>The Evolution of Over the Horizon (2011-2018) (Samsung Galaxy Theme)</album>
+			<annotation>Download Youtube videos and MP3 on GenYoutube.net </annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/fjchuen/The%20Evolution%20of%20Over%20the%20Horizon%20%282011-2018%29%20%28Samsung%20Galaxy%20Theme%29/art.jpg</image>
+			<duration>1392606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
