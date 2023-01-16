@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Marconi%20Union%20-%20Weightless/MP3/Marconi-Union_Weightless.mp3</location>
+			<title>Marconi-Union_Weightless.mp3</title>
+			<creator>Marconi Union</creator>
+			<album>Weightless</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Weightless&quot; by Marconi Union.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Marconi%20Union/Weightless/art.jpg</image>
+			<duration>488867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/MargaritaVille/AudioOnly/M4A/Jimmy%20Buffett%20-%20Margaritaville%20(Lyrics)%20[ue2-ZVxpVjc].m4a</location>
+			<duration>248315</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stanford-Brua/MP3/Norwegian-Folk-Song_Stanford-Brua.mp3</location>
+			<title>Norwegian-Folk-Song_Stanford-Brua.mp3</title>
+			<creator>Norway</creator>
+			<album>Stanford Brua</album>
+			<trackNum>1</trackNum>
+			<annotation>The Norwegian Folk song &quot;Stanford Brua&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Norway/Stanford%20Brua/art.jpg</image>
+			<duration>302011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
