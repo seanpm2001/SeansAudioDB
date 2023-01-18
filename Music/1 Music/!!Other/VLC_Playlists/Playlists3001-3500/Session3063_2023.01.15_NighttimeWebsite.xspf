@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stanford-Brua/MP3/Norwegian-Folk-Song_Stanford-Brua.mp3</location>
+			<title>Norwegian-Folk-Song_Stanford-Brua.mp3</title>
+			<creator>Norway</creator>
+			<album>Stanford Brua</album>
+			<trackNum>1</trackNum>
+			<annotation>The Norwegian Folk song &quot;Stanford Brua&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Norway/Stanford%20Brua/art.jpg</image>
+			<duration>302011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Live-and-let-die/AudioOnly/M4A/Live%20And%20Let%20Die%20(2018%20Remaster)%20[NR0UmZcf89E].m4a</location>
+			<duration>192783</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>

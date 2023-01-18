@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stanford-Brua/MP3/Norwegian-Folk-Song_Stanford-Brua.mp3</location>
+			<title>Norwegian-Folk-Song_Stanford-Brua.mp3</title>
+			<creator>Norway</creator>
+			<album>Stanford Brua</album>
+			<trackNum>1</trackNum>
+			<annotation>The Norwegian Folk song &quot;Stanford Brua&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Norway/Stanford%20Brua/art.jpg</image>
+			<duration>302011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/French-Accordion-Traditionell-Musette/MP3/French-Accordian-Traditionell-Musette.mp3</location>
+			<title>French-Accordian-Traditionell-Musette.mp3</title>
+			<creator>France</creator>
+			<album>Traditionell Musette</album>
+			<trackNum>1</trackNum>
+			<annotation>The classic theme song of France.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/France/Traditionell%20Musette/art.png</image>
+			<duration>144387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Erika/MP3/Erika-1930.mp3</location>
+			<title>Erika-1930.mp3</title>
+			<creator>Herms Niel</creator>
+			<album>Erika (1930)</album>
+			<trackNum>1</trackNum>
+			<annotation>A song that is associated with Nazism, but has no anti-semitic lyrics. The video I recently got 45 songs from (Stereotypical music from around the world) has some pretty controversial songs in it, this is one of them.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Herms%20Niel/Erika%20%281930%29/art.jpg</image>
+			<duration>179104</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Twenty_%C3%B8ne_Pil%C3%B8ts/MP3/21-pilots_Stressed-out.mp3</location>
+			<title>21-pilots_Stressed-out.mp3</title>
+			<creator>twenty øne piløts</creator>
+			<album>Stressed out</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Stressed out&quot; by the band twenty øne piløts.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/twenty%20%C3%B8ne%20pil%C3%B8ts/Stressed%20out/art.jpg</image>
+			<duration>225106</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Twenty_%C3%B8ne_Pil%C3%B8ts/MP3/21-pilots_Heathens.mp3</location>
+			<title>21-pilots_Heathens.mp3</title>
+			<creator>twenty øne piløts</creator>
+			<album>Heathens</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Heathens&quot; by the band twenty øne piløts.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/twenty%20%C3%B8ne%20pil%C3%B8ts/Heathens/art.jpg</image>
+			<duration>217844</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Twenty_%C3%B8ne_Pil%C3%B8ts/MP3/21-pilots_We-are-young.mp3</location>
+			<title>21-pilots_We-are-young.mp3</title>
+			<creator>twenty øne piløts</creator>
+			<album>We are young</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;We are young&quot; by twenty øne piløts</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/twenty%20%C3%B8ne%20pil%C3%B8ts/We%20are%20young/art.jpg</image>
+			<duration>252222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Pink%20guy/PINK%20GUY%20-%20HELP%20(128%20%20kbps).mp3</location>
+			<duration>164991</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Pink%20guy/PINK%20GUY%20-%20PLEASE%20STOP%20CALLING%20ME%20GAY%20(128%20%20kbps).mp3</location>
+			<duration>139886</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Pink%20guy/PINK%20GUY%20-%20MEME%20MACHINE%20(128%20%20kbps).mp3</location>
+			<duration>130822</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Live-and-let-die/AudioOnly/M4A/Live%20And%20Let%20Die%20(2018%20Remaster)%20[NR0UmZcf89E].m4a</location>
+			<duration>192783</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
