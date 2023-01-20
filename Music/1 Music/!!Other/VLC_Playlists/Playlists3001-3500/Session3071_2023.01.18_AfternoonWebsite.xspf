@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stanford-Brua/MP3/Norwegian-Folk-Song_Stanford-Brua.mp3</location>
+			<title>Norwegian-Folk-Song_Stanford-Brua.mp3</title>
+			<creator>Norway</creator>
+			<album>Stanford Brua</album>
+			<trackNum>1</trackNum>
+			<annotation>The Norwegian Folk song &quot;Stanford Brua&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Norway/Stanford%20Brua/art.jpg</image>
+			<duration>302011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Guajira-guantanamera/MP3/Guajira-guantanamera.mp3</location>
+			<title>Guajira-guantanamera.mp3</title>
+			<creator>Guajira-guantanamera</creator>
+			<album>Guantanamera</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Guantanamera by Guajira. A popular Cuban song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Guajira-guantanamera/Guantanamera/art.jpg</image>
+			<duration>312095</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rokiczanka-W-moim-ogr%C3%B3decku/MP3/Rokiczanka_W-moim-ogr%C3%B3decku.mp3</location>
+			<title>Rokiczanka_W-moim-ogródecku.mp3</title>
+			<creator>Rokiczanka</creator>
+			<album>W moim ogródecku</album>
+			<trackNum>1</trackNum>
+			<annotation>I can&#39;t translate the necessary info accurately to fill out info here. All I know is that it is a good song (IMO)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rokiczanka/W%20moim%20ogr%C3%B3decku/art.jpg</image>
+			<duration>238638</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Idle%20Miner%20Tycoon%20OST/MP3/Idle%20Miner%20Tycoon%20Soundtrack%201%20-%20Start%20Continent%20Theme.mp3</location>
+			<title>Idle Miner Tycoon Soundtrack 1 - Start Continent Theme.mp3</title>
+			<creator>Kolibri Games</creator>
+			<album>Idle Miner Tycoon Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The first song in the Idle Miner Tycoon soundtrack that is played on the Start continent.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kolibri%20Games/Idle%20Miner%20Tycoon%20Soundtrack/art.png</image>
+			<duration>126937</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
