@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/01%20-%20Title.mp3</location>
+			<title>Title</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>00000115 000000D3 00000624</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>84099</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/02%20-%20Game%20Select.mp3</location>
+			<title>Game Select</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>00000073 000000EC 000002D5</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>38307</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/04%20-%20Overworld.mp3</location>
+			<title>Overworld</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>000000DC 00000100 00000387</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>94587</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/05%20-%20Underground.mp3</location>
+			<title>Underground</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>5</trackNum>
+			<annotation>00000083 0000008C 00000183</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>27123</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/06%20-%20Subspace.mp3</location>
+			<title>Subspace</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>6</trackNum>
+			<annotation>0000008C 00000073 000002E8</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>33723</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/08%20-%20Birdo%20-%20Boss%20Nearby.mp3</location>
+			<title>Birdo/Boss Nearby</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>8</trackNum>
+			<annotation>00000055 00000059 00000129</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>31923</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/09%20-%20Area%20with%20Gate%20-%20Boss.mp3</location>
+			<title>Boss</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>9</trackNum>
+			<annotation>0000008C 00000070 00000200</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>25515</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/10%20-%20Boss%20Cleared.mp3</location>
+			<title>Boss Cleared</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>10</trackNum>
+			<annotation>000000F6 000000DF 000006F2</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>6459</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/14%20-%20Wart.mp3</location>
+			<title>Wart</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>14</trackNum>
+			<annotation>00000065 00000067 00000132</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>39963</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/15%20-%20Ending%20-%20Cast.mp3</location>
+			<title>Ending/Cast</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>15</trackNum>
+			<annotation>000000A4 00000139 00000202</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>107619</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/16%20-%20Fifth%20Cherry.mp3</location>
+			<title>Fifth Cherry</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>16</trackNum>
+			<annotation>0000012B 00000169 000002CA</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>2403</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/36%20-%20Bonus%20Stage.mp3</location>
+			<title>Bonus Stage</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>36</trackNum>
+			<annotation>000000A5 000000A6 00000303</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>57603</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/32%20-%20Mario%20Bros.%20Stage%20Theme%202.mp3</location>
+			<title>Mario Bros. Stage Theme 2</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>32</trackNum>
+			<annotation>0000009C 00000092 00000266</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>70467</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/28%20-%20Mario%20Bros.%20Title.mp3</location>
+			<title>Mario Bros. Title</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>28</trackNum>
+			<annotation>00000091 000000AA 000004C1</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>17499</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/29%20-%20Mario%20Bros.%20Game%20Start.mp3</location>
+			<title>Mario Bros. Game Start</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>29</trackNum>
+			<annotation>00000102 00000102 00000191</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>6699</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/30%20-%20Mario%20Bros.%20Stages%201-4,%2012-16.mp3</location>
+			<title>Mario Bros. Stages 1-4, 12-16</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>30</trackNum>
+			<annotation>00000098 00000096 000001AA</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>70467</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/MP3/Bejeweled%20Twist%20Music%20-%20Classic%201%20Panic.mp3</location>
+			<title>Bejeweled Twist Music - Classic 1 Panic.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Classic mode</album>
+			<trackNum>2</trackNum>
+			<annotation>The panic version of the first classic mode song for Bejeweled Twist. This song plays when a bomb gem or doom gem is getting close to 0 (specifically when it ticks down to 5 or less)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Classic%20mode/art.jpg</image>
+			<duration>366221</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/MP3/Bejeweled%20Twist%20Music%20-%20Main%20Menu.mp3</location>
+			<title>Bejeweled Twist Music - Main Menu.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist Main OST</album>
+			<trackNum>2</trackNum>
+			<annotation>The main menu theme song for Bejeweled Twist.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20Main%20OST/art.jpg</image>
+			<duration>117324</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/MP3/Bejeweled%20Twist%20Music%20-%20Classic%202%20Panic.mp3</location>
+			<title>Bejeweled Twist Music - Classic 2 Panic.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Classic mode</album>
+			<trackNum>4</trackNum>
+			<annotation>The panic version of the classic mode 2 song of Bejeweled Twist.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Classic%20mode/art.jpg</image>
+			<duration>379935</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/MP3/Bejeweled%20Twist%20Music%20-%20Classic%203%20Panic.mp3</location>
+			<title>Bejeweled Twist Music - Classic 3 Panic.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Classic mode</album>
+			<trackNum>6</trackNum>
+			<annotation>The panic version of the classic mode 3 song for Bejeweled Twist.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Classic%20mode/art.jpg</image>
+			<duration>338923</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/MP3/Bejeweled%20Twist%20Music%20-%20Classic%204%20Panic.mp3</location>
+			<title>Bejeweled Twist Music - Classic 4 Panic.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Classic Mode</album>
+			<trackNum>8</trackNum>
+			<annotation>The panic version of the fourth classic mode song of Bejeweled Twist.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Classic%20Mode/art.jpg</image>
+			<duration>383723</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/MP3/Bejeweled%20Twist%20Music%20-%20Classic%205%20Panic.mp3</location>
+			<title>Bejeweled Twist Music - Classic 5 Panic.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Classic mode</album>
+			<trackNum>10</trackNum>
+			<annotation>The panic version of the 5th classic mode song of Bejeweled Twist.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Classic%20mode/art.jpg</image>
+			<duration>383828</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+	</extension>
+</playlist>
