@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Low%20Rider/MP3/Low-Rider.mp3</location>
+			<title>Low-Rider.mp3</title>
+			<creator>WAR</creator>
+			<album>Low Rider</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Low rider&quot; by WAR. Recorded in 1974, released in 1975.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/WAR/Low%20Rider/art.jpg</image>
+			<duration>191539</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Twenty_%C3%B8ne_Pil%C3%B8ts/MP3/21-pilots_Stressed-out.mp3</location>
+			<title>21-pilots_Stressed-out.mp3</title>
+			<creator>twenty øne piløts</creator>
+			<album>Stressed out</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Stressed out&quot; by the band twenty øne piløts.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/twenty%20%C3%B8ne%20pil%C3%B8ts/Stressed%20out/art.jpg</image>
+			<duration>225106</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Twenty_%C3%B8ne_Pil%C3%B8ts/MP3/21-pilots_Heathens.mp3</location>
+			<title>21-pilots_Heathens.mp3</title>
+			<creator>twenty øne piløts</creator>
+			<album>Heathens</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Heathens&quot; by the band twenty øne piløts.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/twenty%20%C3%B8ne%20pil%C3%B8ts/Heathens/art.jpg</image>
+			<duration>217844</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Enya-Only-time/MP3/Enya_Only-time.mp3</location>
+			<title>Enya_Only-time.mp3</title>
+			<creator>Enya</creator>
+			<album>Only time</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Only time&quot; by Irish singer Enya.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Enya/Only%20time/art.jpg</image>
+			<duration>215754</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-knuckles-sonic-the-hedgehog-3/02%20Mushroom%20Hill.mp3</location>
+			<title>Mushroom Hill</title>
+			<creator>Howard Drossin</creator>
+			<album>Sonic &amp; Knuckles / Sonic the Hedgehog 3</album>
+			<trackNum>2</trackNum>
+			<duration>183667</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-knuckles-sonic-the-hedgehog-3/05%20Sandopolis.mp3</location>
+			<title>Sandopolis</title>
+			<creator>Howard Drossin</creator>
+			<album>Sonic &amp; Knuckles / Sonic the Hedgehog 3</album>
+			<trackNum>5</trackNum>
+			<duration>177920</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
