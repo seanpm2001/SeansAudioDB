@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Journey%20-%20Don&#39;t%20stop%20believing/MP3/Journey-Don&#39;t-stop-believing.mp3</location>
+			<title>Journey-Don&#39;t-stop-believing.mp3</title>
+			<creator>Journey</creator>
+			<album>Don&#39;t stop believing</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Journey/Don%27t%20stop%20believing/art.jpg</image>
+			<duration>250210</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Pink%20guy/PINK%20GUY%20-%20HELP%20(128%20%20kbps).mp3</location>
+			<duration>164992</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bear-hugger-theme/MP3/Punch-Out_Wii_Bear-Hugger-theme.mp3</location>
+			<title>Punch-Out_Wii_Bear-Hugger-theme.mp3</title>
+			<creator>Next Level Games</creator>
+			<album>PunchOut!!! For the Nintendo Wii</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme for fighting Bear Hugger in the Wii version of the video game Punchout.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Next%20Level%20Games/PunchOut%21%21%21%20For%20the%20Nintendo%20Wii/art.jpg</image>
+			<duration>283151</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Lint-Roller/AudioOnly/M4A/Cxdy%20-%20Lint%20Roller%20[4gjQbEpU3TE].m4a</location>
+			<duration>168972</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The-Devils-Piano/AudioOnly/M4A/Audio%20Hertz%20_%20The%20Devil&#39;s%20Piano%20[An4kjnz6d3Q].m4a</location>
+			<duration>160613</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Michael%20Jackson%20-%20Bad/MP3/Michael-Jackson_Bad.mp3</location>
+			<title>Michael-Jackson_Bad.mp3</title>
+			<creator>Michael Jackson</creator>
+			<album>Bad</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;bad&quot; by artist &quot;Michael Jackson&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Michael%20Jackson/Bad/art.jpg</image>
+			<duration>246107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Enya-Only-time/MP3/Enya_Only-time.mp3</location>
+			<title>Enya_Only-time.mp3</title>
+			<creator>Enya</creator>
+			<album>Only time</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Only time&quot; by Irish singer Enya.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Enya/Only%20time/art.jpg</image>
+			<duration>215754</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
