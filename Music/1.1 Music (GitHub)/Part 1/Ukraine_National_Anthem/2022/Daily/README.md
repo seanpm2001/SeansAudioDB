@@ -158,6 +158,7 @@ The following 6 audio files are applicable:
 - [x] 🇺🇦️ Day 115: 2023, February 1st
 - [x] 🇺🇦️ Day 116: 2023, February 2nd
 - [x] 🇺🇦️ Day 117: 2023, February 3rd
+- [x] 🇺🇦️ Day 118: 2023, February 4th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -512,6 +513,7 @@ The following 6 audio files are applicable:
 - [x] 🇺🇦️ Day 343: 2023, Wednesday, February 1st
 - [x] 🇺🇦️ Day 344: 2023, Thursday, February 2nd
 - [x] 🇺🇦️ Day 345: 2023, Friday, February 3rd
+- [x] 🇺🇦️ Day 346: 2023, Saturday, February 4th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time, which is 10 hours ahead of your time
@@ -3798,8 +3800,9 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3268: 2023, February 1st
 - [x] 🇺🇦️ Day 3269: 2023, February 2nd
 - [x] 🇺🇦️ Day 3270: 2023, February 3rd
+- [x] 🇺🇦️ Day 3271: 2023, February 4th
 
-After 3,270 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+After 3,271 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -3815,9 +3818,9 @@ After 3,270 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `99 (2023, Friday, February 3rd at 6:13 pm PST)`
+**File version:** `100 (2023, Saturday, February 4th at 3:33 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,249`
+**Line count (including blank lines and compiler line):** `5,267`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -5239,7 +5242,22 @@ After 3,270 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the list of all days of the war (3,270 days)
 - [x] Updated the file info section
 - [x] Updated the changelog
-- [ ] No other changes in version 90
+- [ ] No other changes in version 99
+
+</details>
+
+<details><summary><p lang="en"><b>Version 100 (2023, Saturday, February 4th at 3:33 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2023, February 4th (day 118)
+- [x] Updated the list of all days of the war since the 2022 Invasion (346 days)
+- [x] Updated the list of all days of the war (3,271 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 100
 
 </details>
 
