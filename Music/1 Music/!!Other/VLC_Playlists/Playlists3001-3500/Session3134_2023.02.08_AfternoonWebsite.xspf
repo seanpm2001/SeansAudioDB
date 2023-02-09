@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg</location>
+			<duration>203360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Slava_Ukraini!/AudioOnly/MP3/Slava_Ukraini!.mp3</location>
+			<title>Slava_Ukraini!.mp3</title>
+			<creator>Marcus Paus</creator>
+			<album>«Слава Україні!» Slava Ukraini!</album>
+			<trackNum>1</trackNum>
+			<annotation>Slava Ukraini!
+Glory to Ukraine!
+Слава Україні!
+
+This song was composed by Marcus Paus as a composition of the Norwegian Armed Forces and is an ode to the ongoing 2022 Russian Invasion of Ukraine</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Marcus%20Paus/%C2%AB%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%21%C2%BB%20Slava%20Ukraini%21/art.jpg</image>
+			<duration>261861</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tchaikovsky/MP3/Tchaikovsky-1812-overture-(with-cannons).mp3</location>
+			<title>Tchaikovsky-1812-overture-(with-cannons).mp3</title>
+			<creator>Pyotr Ilyich Tchaikovsky</creator>
+			<album>1812 Overture</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Pyotr%20Ilyich%20Tchaikovsky/1812%20Overture/art.jpg</image>
+			<duration>908031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Claire%20De%20Lune%20Claude%20Debussy/MP3/Claire-de-Lune_Claude-Debussy.mp3</location>
+			<title>Claire-de-Lune_Claude-Debussy.mp3</title>
+			<creator>Claude Debussy</creator>
+			<album>Claire De Lune</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Claire de Lune&quot; by the French artist &quot;Claude Debussy&quot; I got the names mixed up originally, this has been fixed in this files media information.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Claude%20Debussy/Claire%20De%20Lune/art.jpg</image>
+			<duration>302220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
