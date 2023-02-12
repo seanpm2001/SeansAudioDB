@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Chandellier/MP3/Sia-Chandelier-(Official-Video).mp3</location>
+			<title>Sia-Chandelier-(Official-Video).mp3</title>
+			<creator>Sia</creator>
+			<album>Chandelier</album>
+			<trackNum>1</trackNum>
+			<annotation>The 2014 song &quot;chandelier&quot; by the artist &quot;Sia&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Sia/Chandelier/art.jpg</image>
+			<duration>231324</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Senbonzakura/Miku/AudioOnly/M4A/Hatsune%20Miku%20-%20Senbonzakura%20-%20Lyrics%20(Kan_Rom_Eng)%20[F1tWiEPc5yg].m4a</location>
+			<duration>245296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/ComputerClan%20theme%20(drifting2%20by%20AudioNautex)/MP3/Drifting-2_Audionautix.mp3</location>
+			<title>Drifting-2_Audionautix.mp3</title>
+			<creator>AudioNautix</creator>
+			<album>Drifting 2</album>
+			<trackNum>1</trackNum>
+			<annotation>The year &quot;2012&quot; is just a guess, I am unsure when this song was actually published.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/AudioNautix/Drifting%202/art.jpg</image>
+			<duration>238001</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cowboy%20bebop%20-%20cats%20on%20mars/MP3/Cowboy-Bebop-Cats-on-Mars.mp3</location>
+			<title>Cowboy-Bebop-Cats-on-Mars.mp3</title>
+			<creator>Cowboy Bebop</creator>
+			<album>Cowboy Bebop - Cats on Mars</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Cowboy%20Bebop/Cowboy%20Bebop%20-%20Cats%20on%20Mars/art.jpg</image>
+			<duration>181168</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Coc&#39;n%20rolla%20(Garfielf%20theme)/MP3/BEGNAGRAD_Coc&#39;n-Rolla.mp3</location>
+			<title>BEGNAGRAD_Coc&#39;n-Rolla.mp3</title>
+			<creator>BEGNAGRAD</creator>
+			<album>Coc&#39;n Rolla</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Coc&#39;n Rolla&quot; by the artist &quot;BEGNAGRAD&quot; commonly known as the theme song for the Internet Meme &quot;Garfielf&quot; that features a poorly drawn Garfield saying various things while this song plays in the background.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/BEGNAGRAD/Coc%27n%20Rolla/art.jpg</image>
+			<duration>330146</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Hungarian-Dance/Number5/MP3/Johannes-Brahms_-_Hungarian-Dance-No.-5.mp3</location>
+			<title>Johannes-Brahms_-_Hungarian-Dance-No.-5.mp3</title>
+			<creator>Johannes Brahms</creator>
+			<album>Hungarian Dance No. 5</album>
+			<trackNum>1</trackNum>
+			<annotation>A song that many of people have heard of, but don&#39;t know the name of. Hungarian dance number 5 by Johannes Brahms. I am again using the sheet music as the cover for this song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Johannes%20Brahms/Hungarian%20Dance%20No.%205/art.jpg</image>
+			<duration>201387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Queen%20-%20Bohemian%20Rhapsody/MP3/Queen_Bohemian-Rhapsody.mp3</location>
+			<title>Queen_Bohemian-Rhapsody.mp3</title>
+			<creator>Queen</creator>
+			<album>Bohemian Rhapsody</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bohemian Rhapsody&quot; by the British band Queen. It is one of their best songs, and it also can work well as a speaker test.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/Bohemian%20Rhapsody/art.jpg</image>
+			<duration>354831</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Dvorak_Songs-my-mother-taught-me/Ringtone_Samsung/AudioOnly/M4A/Samsung%20Ringtone%20-%20Dvorak%20-%20Songs%20My%20Mother%20Taught%20Me%20[Q4_-QFfTejw].m4a</location>
+			<duration>38430</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
