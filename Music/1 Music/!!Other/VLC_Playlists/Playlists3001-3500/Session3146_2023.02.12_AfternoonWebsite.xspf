@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Queen%20-%20Another%20one%20bites%20the%20dust/MP3/Queen_Another-one-bites-the-dust.mp3</location>
+			<title>Queen_Another-one-bites-the-dust.mp3</title>
+			<creator>Queen</creator>
+			<album>Another one bites the dust</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Another one bites the dust&quot; by the British Rock band &quot;Queen&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/Another%20one%20bites%20the%20dust/art.jpg</image>
+			<duration>222755</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Queen%20-%20don&#39;t%20stop%20me%20now/MP3/Queen_Don&#39;t-Stop-Me-Now.mp3</location>
+			<title>Queen_Don&#39;t-Stop-Me-Now.mp3</title>
+			<creator>Queen</creator>
+			<album>Don&#39;t stop me now</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;don&#39;t stop me now&quot; from the British band &quot;Queen&quot; another one of their best songs, but really, what Queen song isn&#39;t good?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/Don%27t%20stop%20me%20now/art.jpg</image>
+			<duration>209537</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
