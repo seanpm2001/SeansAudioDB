@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20Rio%20OST/Angry%20birds%20Rio%20main%20theme%202.mp4</location>
+			<duration>128197</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20Rio%20OST/Angry%20birds%20Rio%20main%20theme.mp4</location>
+			<duration>139180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cyriak/(NoVideo)%20Baaa.m4a</location>
+			<duration>79087</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cyriak/(NoAudio)%20Breakfast.mp4</location>
+			<duration>153560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cyriak/(NoVideo)%20Breakfast.m4a</location>
+			<duration>153646</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cyriak/(No%20video)%20Cyriak%20-%20The%20existential%20threat.webm</location>
+			<duration>203640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cyriak/(NoVideo)%207%20billion.webm</location>
+			<duration>142060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cyriak/(NoVideo)%20Meow%20Mix.m4a</location>
+			<duration>110921</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Running%20in%20the%2090s/MP3/Running-in-the-90s-gradually-speeding-up-from-0-to-400-percent.mp3</location>
+			<title>Running-in-the-90s-gradually-speeding-up-from-0-to-400-percent.mp3</title>
+			<creator>Maurizio De Jorio</creator>
+			<album>Running in the 90s</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Running in the 90s&quot; by Maurizio De Jorio, gradually speeding up from 0.01% to 400.0% speed.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Maurizio%20De%20Jorio/Running%20in%20the%2090s/art.jpg</image>
+			<duration>276411</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Running%20in%20the%2090s/MP3/Running-in-the-90s.mp3</location>
+			<title>Running-in-the-90s.mp3</title>
+			<creator>Maurizio De Jorio</creator>
+			<album>Running in the 90s</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;running in the 90s&quot; by artist Maurizio De Jorio</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Maurizio%20De%20Jorio/Running%20in%20the%2090s/art.jpg</image>
+			<duration>286338</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Friends%20(show)%20OST/(No%20video)%20Friends%20theme%20song.webm</location>
+			<duration>192040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>
