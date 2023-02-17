@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rainbow%20Tylenol%20Remixes/Rainbows%20Make%20Me%20Crylenol.mp4</location>
+			<duration>112986</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Malihini-Mele/MP3/Malihini-Mele.mp3</location>
+			<title>Malihini-Mele.mp3</title>
+			<creator>Andy Cummings and his Hawaiians</creator>
+			<album>Malihini Mele</album>
+			<trackNum>1</trackNum>
+			<annotation>The classic Hawaiian song &quot;Malihini Mele&quot; by Andy Cummings and his Hawaiians.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Andy%20Cummings%20and%20his%20Hawaiians/Malihini%20Mele/art.jpg</image>
+			<duration>167506</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Chocolate%20Rain/MP3/Chocolate-Rain.mp3</location>
+			<title>Chocolate-Rain.mp3</title>
+			<creator>Tay Zonday</creator>
+			<album>Chocolate Rain</album>
+			<trackNum>1</trackNum>
+			<annotation>A song by Tay Zonday regarding the abuse caused by racism and anti-semitism.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tay%20Zonday/Chocolate%20Rain/art.jpg</image>
+			<duration>292398</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
