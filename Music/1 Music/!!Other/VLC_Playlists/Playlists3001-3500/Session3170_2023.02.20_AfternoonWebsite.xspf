@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/Black%20Vortex%201%20Hour%20-%20Kevin%20Macleod.m4a</location>
+			<duration>3810696</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/Cipher%20-%20Kevin%20Macleod%201%20Hour%20Loop.m4a</location>
+			<duration>5790081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/Kevin%20Macleod%20Local%20Forecast%20Elevator%201%20hour.m4a</location>
+			<duration>3602227</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/Kevin%20Macleod%20the%20builder%201%20hour.m4a</location>
+			<duration>3683358</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/CaramelDansen/MP3/caramelldansen.mp3</location>
+			<title>caramelldansen.mp3</title>
+			<creator>Caramell</creator>
+			<album>SuperGott</album>
+			<trackNum>1</trackNum>
+			<annotation>I originally spelled this song wrong, there is 2 l&#39;s not 1. I spelled it Carameldansen, when it should have been Caramelldansen
+Despite the song originating in Sweden, the art style imitates the style of Japanese Anime.
+This song became an Internet meme in the mid 2000s.
+</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Caramell/SuperGott/art.jpg</image>
+			<duration>176858</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tchaikovsky/MP3/Tchaikovsky-1812-overture-(with-cannons).mp3</location>
+			<title>Tchaikovsky-1812-overture-(with-cannons).mp3</title>
+			<creator>Pyotr Ilyich Tchaikovsky</creator>
+			<album>1812 Overture</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Pyotr%20Ilyich%20Tchaikovsky/1812%20Overture/art.jpg</image>
+			<duration>908031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
