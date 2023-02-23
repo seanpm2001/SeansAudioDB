@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Coldplay/MP3/Coldplay-Clocks.mp3</location>
+			<title>Coldplay-Clocks.mp3</title>
+			<creator>Coldplay</creator>
+			<album>Clocks</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Clocks from the band Coldplay.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Coldplay/Clocks/art.jpg</image>
+			<duration>258935</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Coldplay/MP3/Coldplay-Viva-la-vida.mp3</location>
+			<title>Coldplay-Viva-la-vida.mp3</title>
+			<creator>Coldplay</creator>
+			<album>Viva La Vida</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Viva La Vida from Coldplay. The lyrics are about the demise of King Louis XVI (16) of France, and the start of the 1789 French Revolution.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Coldplay/Viva%20La%20Vida/art.jpg</image>
+			<duration>242086</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
