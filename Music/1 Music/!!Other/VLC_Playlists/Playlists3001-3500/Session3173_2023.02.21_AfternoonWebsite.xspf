@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-the-complete-soundtrack/1-10%20Collision%20Chaos%20JP.mp3</location>
+			<title>Collision Chaos JP</title>
+			<creator>Masafumi Ogata</creator>
+			<album>Sonic CD ~ The Complete Soundtrack 2.0</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masafumi%20Ogata/Sonic%20CD%20~%20The%20Complete%20Soundtrack%202.0/art.png</image>
+			<duration>221100</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-the-complete-soundtrack/1-19%20Quartz%20Quadrant%20&#39;P&#39;%20Mix.mp3</location>
+			<title>Quartz Quadrant &#39;P&#39; Mix</title>
+			<creator>Naofumi Hataya</creator>
+			<album>Sonic CD ~ The Complete Soundtrack 2.0</album>
+			<trackNum>19</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Naofumi%20Hataya/Sonic%20CD%20~%20The%20Complete%20Soundtrack%202.0/art.png</image>
+			<duration>145423</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>

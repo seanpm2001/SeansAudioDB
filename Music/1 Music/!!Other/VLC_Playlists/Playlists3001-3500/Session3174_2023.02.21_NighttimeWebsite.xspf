@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/AIFF/Gudang%20-%20Nostalgi%20Gaius%20-%2002%20Software.aiff</location>
+			<title>Software</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit https://windows96.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Gudang/Nostalgi%20Gaius/art.jpg</image>
+			<duration>142766</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/AIFF/Gudang%20-%20Nostalgi%20Gaius%20-%2013%20Gaius.aiff</location>
+			<title>Gaius</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>13</trackNum>
+			<annotation>Visit https://windows96.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Gudang/Nostalgi%20Gaius/art.jpg</image>
+			<duration>203257</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/AIFF/Gudang%20-%20Nostalgi%20Gaius%20-%2006%20Augustus.aiff</location>
+			<title>Augustus</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>6</trackNum>
+			<annotation>Visit https://windows96.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Gudang/Nostalgi%20Gaius/art.jpg</image>
+			<duration>177483</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Pon%20Pon%20Pon/MP3/PonPonPon.mp3</location>
+			<title>PonPonPon.mp3</title>
+			<creator>Kyary Pamyu Pamyu</creator>
+			<album>PONPONPON</album>
+			<trackNum>1</trackNum>
+			<annotation>My current only J-Pop song in my collection, with a very... creative music video (it is completely crazy) An EP by Kyary Pamyu Pamyu.
+&quot;PonPonPon&quot; (stylized as PONPONPON) is a song and debut single by Japanese singer Kyary Pamyu Pamyu. It was released as the lead single for her EP, Moshi Moshi Harajuku, and later included on her debut album, &quot;Pamyu Pamyu Revolution&quot;. The song was written and produced by Yasutaka Nakata of Capsule. The music video, a psychedelic tribute to kawaisa and Decora culture, was released to YouTube on July 16, 2011 and became a viral hit. On 27 July 2012 was released (and re-released on 3 January 2013) a limited edition of a 7&#39; LP with A side: PONPONPON -extended mix- and Side B: Cherry Bon Bon -extended mix-, exclusive for DJs. The song was launched on iTunes internationally in 23 countries, and set records for a Japanese song, reaching #1 in Finland and #4 in Belgium. As of 2012, the song sold over 1 million digital downloads. As of 2016, the music video has over 100 million views on YouTube. Internationally, the song has been featured in G-Eazy&#39;s single &quot;Lost in Translation&quot;, FACE&#39;s &quot;Night Fever&quot;, and was featured in The Simpsons episode &quot;Married to the Blob&quot;. PonPonPon is featured on 2012 Japan game, Just Dance Wii 2. The Japan Times in 2019 listed &quot;PonPonPon&quot; among the most influential J-Pop songs of the 2010s decade, noting the music video&#39;s extravagant aesthetics and electronic production. Description taken from Wikipedia/PonPonPon (page was last edited on 7 June 2021, at 03:45 (UTC))
+I am using the correct album cover, I originally had a different one.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kyary%20Pamyu%20Pamyu/PONPONPON/art.jpg</image>
+			<duration>254625</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/BiSH/MP3/BiSH-My-landscape.mp3</location>
+			<title>BiSH-My-landscape.mp3</title>
+			<creator>BiSH (Brand new Idol SHit)</creator>
+			<album>THE GUERRiLLA BiSH</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/BiSH%20%28Brand%20new%20Idol%20SHit%29/THE%20GUERRiLLA%20BiSH/art.jpg</image>
+			<duration>339445</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
