@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Healing/Kevin%20MacLeod%20-%2001%20-%20Aretes.mp3</location>
+			<title>Aretes</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Healing</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Healing/art.jpg</image>
+			<duration>276435</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Healing/Kevin%20MacLeod%20-%2002%20-%20Bright%20Wish.mp3</location>
+			<title>Bright Wish</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Healing</album>
+			<trackNum>2</trackNum>
+			<annotation> 0000043A 00000364 000019A8 00001A2B 00004682 00004492 00007DD6 00007CF4 000046B6 00004478</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Healing/art.jpg</image>
+			<duration>40884</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Healing/Kevin%20MacLeod%20-%2005%20-%20Friday%20Morning.mp3</location>
+			<title>Friday Morning</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Healing</album>
+			<trackNum>5</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Healing/art.jpg</image>
+			<duration>210342</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Healing/Kevin%20MacLeod%20-%2006%20-%20Healing.mp3</location>
+			<title>Healing</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Healing</album>
+			<trackNum>6</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Healing/art.jpg</image>
+			<duration>520075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/AudioOnly/MP3/Fruit%20Ninja%20-%20Music-menu.mp3</location>
+			<title>Fruit Ninja - Music-menu.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The title theme for the video game Fruit Ninja by HalfBrick.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20soundtrack/art.png</image>
+			<duration>25791</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP3/fruit%20ninja%20kinect%208%20bit%20menu%20theme%20extended.mp3</location>
+			<title>fruit ninja kinect 8 bit menu theme extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja Kinect Soundtrack extended</album>
+			<trackNum>1</trackNum>
+			<annotation>The Fruit Ninja for Kinect theme song extended to 31 minutes.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20Kinect%20Soundtrack%20extended/art.png</image>
+			<duration>1860985</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP3/fruit%20ninja%20background%20theme%20theme%20extended.mp3</location>
+			<title>fruit ninja background theme theme extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja Soundtrack (extended)</album>
+			<trackNum>3</trackNum>
+			<annotation>An extended version of the in-game background theme for Fruit Ninja. To prevent the song from being cut off, this extended version lasts an extra 2 minutes (32 minutes)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20Soundtrack%20%28extended%29/art.png</image>
+			<duration>1976683</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP3/fruit%20ninja%20dojo%20theme%20theme%20extended.mp3</location>
+			<title>fruit ninja dojo theme theme extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja soundtrack extended</album>
+			<trackNum>2</trackNum>
+			<annotation>An extended version of the Fruit Ninja Dojo theme. To prevent song cutoff, the audio is extended to nearly 31 minutes, instead of being just 30 minutes long.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20soundtrack%20extended/art.png</image>
+			<duration>1811117</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP3/fruit%20ninja%20older%20menu%20theme%20extended.mp3</location>
+			<title>fruit ninja older menu theme extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja soundtrack extended</album>
+			<trackNum>1</trackNum>
+			<annotation>An extended version of the original Fruit Ninja menu theme song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20soundtrack%20extended/art.png</image>
+			<duration>1807408</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP3/fruit%20ninja%20modern%20menu%20theme%20extended.mp3</location>
+			<title>fruit ninja modern menu theme extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja modern soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>An extended version of the modern Fruit Ninja menu theme song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20modern%20soundtrack/art.png</image>
+			<duration>1821096</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Ukraine/Speeches/Volodymyr_Zelenskyy/Address-to-United-States-Congress_2022/MP3/Ukrainian_Pres_Zelenskyy_Address_to_Congress.mp3</location>
+			<annotation>https://archive.org/details/ictvil-Ukrainian_Pres_Zelenskyy_Address_to_Congress</annotation>
+			<duration>1585466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Famous%20Classics/Kevin%20MacLeod%20-%2002%20-%20Canon%20in%20D%20Major.mp3</location>
+			<title>Canon in D Major</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Famous Classics</album>
+			<trackNum>2</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Famous%20Classics/art.jpg</image>
+			<duration>355714</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Famous%20Classics/Kevin%20MacLeod%20-%2010%20-%20Sheep%20May%20Safely%20Graze%20-%20BWV%20208.mp3</location>
+			<title>Sheep May Safely Graze - BWV 208</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Famous Classics</album>
+			<trackNum>10</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Famous%20Classics/art.jpg</image>
+			<duration>237536</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+	</extension>
+</playlist>
