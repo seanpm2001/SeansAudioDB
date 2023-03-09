@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Godzilab%20Series/iBlast%20Moki/Raw%20Audio/Romain%20Gauthier%20-%20iBlast%20Moki%20-%20Background%20Music%201%20(2010).mp3</location>
+			<title>iBlast Moki - Background Music 1 (2009)</title>
+			<creator>Romain Gauthier</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>8</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20Gauthier/iBlast%20Moki%202/art.jpg</image>
+			<duration>246366</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Godzilab%20Series/iBlast%20Moki/Raw%20Audio/Romain%20Gauthier%20-%20iBlast%20Moki%20-%20Background%20Music%202%20(2009).aiff</location>
+			<title>iBlast Moki - Background Music 2 (2009)</title>
+			<creator>Romain Gauthier</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>9</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20Gauthier/iBlast%20Moki%202/art.jpg</image>
+			<duration>213891</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Godzilab%20Series/iBlast%20Moki/Raw%20Audio/Romain%20Gauthier%20-%20iBlast%20Moki%20-%20Extended%20Title%20(2010).mp3</location>
+			<title>iBlast Moki - Extended Title (2009)</title>
+			<creator>Romain Gauthier</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>7</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20Gauthier/iBlast%20Moki%202/art.jpg</image>
+			<duration>164676</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Godzilab%20Series/Happy%20Street%20OST/Album/AIFF/Romain%20G%20-%20Happy%20Street/Romain%20G%20-%20Happy%20Street%20-%2004%20Sleepy%20Street.aiff</location>
+			<title>Sleepy Street</title>
+			<creator>Romain G</creator>
+			<album>Happy Street</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/Happy%20Street/art.jpg</image>
+			<duration>176245</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Godzilab%20Series/Happy%20Street%20OST/Album/AIFF/Romain%20G%20-%20Happy%20Street/Romain%20G%20-%20Happy%20Street%20-%2005%20New%20Street.aiff</location>
+			<title>New Street</title>
+			<creator>Romain G</creator>
+			<album>Happy Street</album>
+			<trackNum>5</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/Happy%20Street/art.jpg</image>
+			<duration>214793</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Godzilab%20Series/Happy%20Street%20OST/Album/AIFF/Romain%20G%20-%20Happy%20Street/Romain%20G%20-%20Happy%20Street%20-%2002%20Main%20Street.aiff</location>
+			<title>Main Street</title>
+			<creator>Romain G</creator>
+			<album>Happy Street</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/Happy%20Street/art.jpg</image>
+			<duration>257142</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
