@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sparta%20Remixes/AudioOnly/MP3/This%20is%20Sparta!%20Last%20techno%20remix.mp3</location>
+			<duration>133956</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sparta%20Remixes/AudioOnly/MP3/This%20is%20Patrick_%20EXTENDED%20SPARTA%20REMIX.mp3</location>
+			<duration>130116</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sparta%20Remixes/AudioOnly/MP3/Don&#39;t%20Touch%20The%20Thermostat!%20[Sparta%20FAP%20Remix].mp3</location>
+			<duration>166897</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sparta%20Remixes/AudioOnly/MP3/[HD]%20Windows%207%20Sparta%20Remix%20(with%20video!).mp3</location>
+			<duration>127452</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/We%20are%20number%20one/MP3/Lazy-Town_We-are-Number-One.mp3</location>
+			<title>Lazy-Town_We-are-Number-One.mp3</title>
+			<creator>Lazy Town</creator>
+			<album>We are number one</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;We are number one&quot; from the TV series Lazy Town. Although Stefán is dead, at least he didn&#39;t die alone or without support. Thanks to the Internet and its community for supporting Stefán and making his final years better. Stefán_Karl_Stefánsson 1975-2018.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lazy%20Town/We%20are%20number%20one/art.jpg</image>
+			<duration>170197</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/We%20are%20number%20one/MP3/We-Are-Number-One-but-it&#39;s-Linkin-Park-(We-Are-Numb).mp3</location>
+			<title>We-Are-Number-One-but-it&#39;s-Linkin-Park-(We-Are-Numb).mp3</title>
+			<creator>Lazy Town / Linkin Park</creator>
+			<album>We are number one (remixes)</album>
+			<trackNum>1</trackNum>
+			<annotation>A remix of the song &quot;we are number one&quot; in the style of the Linkin Park song &quot;Numb&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lazy%20Town%20_%20Linkin%20Park/We%20are%20number%20one%20%28remixes%29/art.jpg</image>
+			<duration>123986</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
