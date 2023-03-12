@@ -3,21 +3,34 @@
 
 # Playing the anthem of Ukraine every day until the Russo-Ukrainian war ends
 
-<details open><summary><p><b>[Click/tap here to expand/collapse the lead section]</b></p></summary>
+# Виконання гімну України щодня, поки не закінчиться російсько-українська війна
+
+> **Warning** **This document was translated into Ukrainian with Bing Translate, there may be errors.**
+
+> **Warning** **Цей документ був перекладений на українську мову з перекладом Bing, можуть бути помилки.**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the lead section] [Натисніть / торкніться тут, щоб розгорнути / згорнути розділ потенційних клієнтів]</b></p></summary>
 
 I know I should have started this much earlier if I were to do it all, but I am doing it now.
 
+Я знаю, що мені слід було б почати це набагато раніше, якби я все це зробив, але я роблю це зараз.
+
 To clarify: I am requiring myself to listen to a variation of the Ukraine anthem at least once per day. It isn't the only thing I listen to each day. The variety remains the same. I also expect that the end of this war may be years away, so this is a long term goal.
 
+Щоб уточнити: я вимагаю від себе хоча б раз на день слухати варіацію гімну України. Це не єдине, що я слухаю щодня. Сорт залишається колишнім. Я також очікую, що до кінця цієї війни можуть піти роки, тому це довгострокова мета.
+
 The following 6 audio files are applicable:
+
+Застосовні наступні 6 аудіофайлів:
 
 </details>
 
 ---
 
-<details open><summary><p><b>[Click/tap here to expand/collapse the song table]</b></p></summary>
+<details open><summary><p><b>[Click/tap here to expand/collapse the song table] [Клацніть/торкніться тут, щоб розгорнути/згорнути таблицю пісень]</b></p></summary>
 
-[`See the following issue about this table: #38`](https://github.com/seanpm2001/SeansAudioDB/issues/38/)
+| [`See the following issue about this table: #38`](https://github.com/seanpm2001/SeansAudioDB/issues/38/) | [`Перегляньте наведений нижче випуск цієї таблиці: #38`](https://github.com/seanpm2001/SeansAudioDB/issues/38/) |
+|---|---|
 
 | **🇺🇦️** | **📂️** |
 |---|---|
@@ -37,9 +50,11 @@ The following 6 audio files are applicable:
 
 > **Note** Even after the war ends, I will still listen to the anthem from time to time.
 
+> **Note** Навіть після закінчення війни я все одно буду час від часу слухати гімн. 
+
 ***
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section list]</b><p></summary>
+<details open><summary><p><b>[Click/tap here to expand/collapse this section list] [Клацніть або торкніться тут, щоб розгорнути/згорнути цей список розділів]</b><p></summary>
 
 - [x] 🇺🇦️ Day 1: 2022, October 10th
 - [x] 🇺🇦️ Day 2: 2022, October 11th
@@ -194,6 +209,7 @@ The following 6 audio files are applicable:
 - [x] 🇺🇦️ Day 151: 2023, March 9th
 - [x] 🇺🇦️ Day 152: 2023, March 10th
 - [x] 🇺🇦️ Day 153: 2023, March 11th
+- [x] 🇺🇦️ Day 154: 2023, March 12th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -201,7 +217,7 @@ The following 6 audio files are applicable:
 
 ***
 
-<details><summary><p><b>[Click/tap here to expand/collapse a full timeline (2022 invasion)]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse a full timeline (2022 invasion)] [Клацніть/торкніться тут, щоб розгорнути/згорнути повну часову шкалу (вторгнення 2022 року)]</b></p></summary>
 
 - [x] 🇺🇦️ Day 1: 2022, Thursday, February 24th
 - [x] 🇺🇦️ Day 2: 2022, Friday, February 25th
@@ -584,6 +600,7 @@ The following 6 audio files are applicable:
 - [x] 🇺🇦️ Day 379: 2023, Thursday, March 9th
 - [x] 🇺🇦️ Day 380: 2023, Friday, March 10th
 - [x] 🇺🇦️ Day 381: 2023, Saturday, March 11th
+- [x] 🇺🇦️ Day 382: 2023, Sunday, March 12th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time, which is 10 hours ahead of your time
@@ -597,7 +614,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ***
 
-<details><summary><p><b>[Click/tap here to expand/collapse a full timeline (Russo-Ukrainian war)]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse a full timeline (Russo-Ukrainian war)] [Натисніть / торкніться тут, щоб розширити / згорнути повну хронологію (російсько-українська війна)]</b></p></summary>
 
 - [x] 🇺🇦️ Day 1: 2014, February 20th
 - [x] 🇺🇦️ Day 2: 2014, February 21st
@@ -3906,12 +3923,15 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3304: 2023, March 9th
 - [x] 🇺🇦️ Day 3305: 2023, March 10th
 - [x] 🇺🇦️ Day 3306: 2023, March 11th
+- [x] 🇺🇦️ Day 3307: 2023, March 12th
 
-After 3,306 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+After 3,307 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
 
-після 3,306 днів, це все ще Україна. Слава Україні! (translated with Bing Translate, there may be errors)
+після 3,307 днів, це все ще Україна. Слава Україні!
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
+
+> **Note** Цифри неправильні з невідомої точки до 2022 року, 11 грудня. Я знаю, що правильно зрозумів дати, цифри можна переписати за допомогою автоматизації. Це лише 1 номер вимкнено.
 
 <!-- **NOTICE:** !-->
 
@@ -3921,23 +3941,39 @@ After 3,306 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 
 ### File info
 
-<details><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
+### Інформація про файл
+
+<details><summary><p lang="en"><b><u>[Click/tap here to expand/collapse this section] [Натисніть / торкніться тут, щоб розгорнути / згорнути цей розділ]</u></b></p></summary>
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `135 (2023, Saturday, March 11th at 12:48 pm PST)`
+**Тип файлу:** `Уцінка (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `5,900`
+**File version:** `136 (2023, Sunday, March 12th at 4:55 pm PST)`
 
-**Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+> **Translation not available**
+
+**Line count (including blank lines and compiler line):** `5,954`
+
+**Кількість рядків (включно з порожніми рядками та рядком компілятора):** `5,900`
+
+**Current article language:** `English (EN_USA)` / `Ukrainian (UK_UKRAINE)` `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
 **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 
+**Кодування:** `UTF-8 (рекомендовано смайлики 12.0 або вище)`
+
 **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+**Весь час UTC-7 (PDT/Тихоокеанський час)** `(Будь ласка, також враховуйте перехід на літній час (літній час) для старіших / новіших записів до тих пір, поки він не буде скасований / більше не дотримується)`
 
 > **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
+> **Note** _У 2022 році, в неділю, 13 березня, о 2:00 ранку за тихоокеанським стандартним часом час вискочив вперед на 1 годину до 3:00 ранку._
+
 > **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+> **Note** **Вам може знадобитися спеціальна підтримка рендеринга для тегу HTML, який використовується в цьому документі**
 
 </details>
 
@@ -3945,7 +3981,9 @@ After 3,306 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 
 ## File history
 
-<details><summary><p lang="en"><b>Click/tap here to expand/collapse the changelog for this project</b></p></summary>
+## Банк файлів
+
+<details><summary><p lang="en"><b>[Click/tap here to expand/collapse the changelog for this project] [Натисніть / торкніться тут, щоб розгорнути / згорнути журнал змін для цього проекту]</b></p></summary>
 
 <details><summary><p lang="en"><b>Version 1 (2022, Wednesday, October 12th at 11:10 pm PST)</b></p></summary>
 
@@ -5891,6 +5929,22 @@ After 3,306 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 135
+
+</details>
+
+<details><summary><p lang="en"><b>Version 136 (2023, Sunday, March 12th at 4:55 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2023, March 12th (day 154)
+- [x] Updated the list of all days of the war since the 2022 Invasion (382 days)
+- [x] Updated the list of all days of the war (3,307 days)
+- [x] Translated almost all non-date, file table, and file history portions of this document into Ukrainian as a second language
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 136
 
 </details>
 
