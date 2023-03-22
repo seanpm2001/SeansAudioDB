@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/AIFF/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2022%20Moongrains%20IN-GAME.aiff</location>
+			<title>Moongrains IN-GAME</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>22</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%20Soundtrack/art.jpg</image>
+			<duration>193378</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/Shrek%202%20Soundtrack%20%20%205.%20Lipps%20Inc%20-%20Funkytown-xrX4gqR2ZQ4.mp3</location>
+			<duration>239596</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/Shrek%202%20Soundtrack%20%20%201.%20Counting%20Crows%20-%20Accidentally%20in%20Love-IcD4gx6c8pI.mp3</location>
+			<duration>188422</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Lint-Roller/AudioOnly/M4A/Cxdy%20-%20Lint%20Roller%20[4gjQbEpU3TE].m4a</location>
+			<duration>168972</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
