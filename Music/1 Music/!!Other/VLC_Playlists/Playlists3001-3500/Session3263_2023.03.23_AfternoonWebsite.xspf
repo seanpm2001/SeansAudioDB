@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Hozier%20-%20Take%20me%20to%20church/MP3/Hozier-Take-me-to-church.mp3</location>
+			<title>Hozier-Take-me-to-church.mp3</title>
+			<creator>Hozier</creator>
+			<album>Take me to Church</album>
+			<trackNum>1</trackNum>
+			<annotation>This song managed to get played without a massive &quot;Christian&quot; uproar, possibly because of this religious group set not being able to understand big words.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Hozier/Take%20me%20to%20Church/art.jpg</image>
+			<duration>256062</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Hollaback%20Girl/MP3/Hollaback-Girl-Explicit.mp3</location>
+			<title>Hollaback-Girl-Explicit.mp3</title>
+			<creator>Hollaback Girl</creator>
+			<album>Hollaback Girl</album>
+			<trackNum>1</trackNum>
+			<annotation>B A N A N A S</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Hollaback%20Girl/Hollaback%20Girl/art.jpg</image>
+			<duration>207057</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Hinder-Lips-of-an-angel/AudioOnly/MP3/Hinder%20-%20Lips%20Of%20An%20Angel%20(Official%20Music%20Video)-RiSfTyrvJlg.mp3</location>
+			<duration>257436</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Chariots%20of%20fire/MP3/Chariots-Of-Fire.mp3</location>
+			<title>Chariots-Of-Fire.mp3</title>
+			<creator>Evángelos Odysséas Papathanassíou (Greek: Ευάγγελος Οδυσσέας Παπαθανασίου)</creator>
+			<album>Chariots of Fire</album>
+			<trackNum>1</trackNum>
+			<annotation>This is a pretty hard song to find, but it is commonly used. It is a pretty iconic song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ev%C3%A1ngelos%20Odyss%C3%A9as%20Papathanass%C3%ADou%20%28Greek_%20%CE%95%CF%85%CE%AC%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82%20%CE%9F%CE%B4%CF%85%CF%83%CF%83%CE%AD%CE%B1%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B8%CE%B1%CE%BD%CE%B1%CF%83%CE%AF%CE%BF%CF%85%29/Chariots%20of%20Fire/art.jpg</image>
+			<duration>209041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Konosuba/AudioOnly/Konosuba2/Opening/MP3/KONOSUBA%20-%20God&#39;s%20blessing%20on%20this%20wonderful%20world!%202%20-%20Opening%20-%20Tomorrow.mp3</location>
+			<title>KONOSUBA - God&#39;s blessing on this wonderful world! 2 - Opening - Tomorrow.mp3</title>
+			<creator>Masato Koda</creator>
+			<album>KonoSuba Anime Soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>The intro song for Season 2 of the KonoSuba Anime Television Series.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Koda/KonoSuba%20Anime%20Soundtrack/art.png</image>
+			<duration>100345</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Konosuba/AudioOnly/Konosuba2/Ending/MP3/KONOSUBA%20-%20God&#39;s%20blessing%20on%20this%20wonderful%20world!%202%20-%20Ending%20-%20Ouchi%20ni%20Kaeritai.mp3</location>
+			<title>KONOSUBA - God&#39;s blessing on this wonderful world! 2 - Ending - Ouchi ni Kaeritai.mp3</title>
+			<creator>Masato Koda</creator>
+			<album>KonoSuba Anime Soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>The outro song for Season 2 of the KonoSuba Anime Television Series.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Koda/KonoSuba%20Anime%20Soundtrack/art.png</image>
+			<duration>99874</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Konosuba/AudioOnly/Kono-Subarashii-Sekai-ni-Shukufuku-wo-OP-&amp;-End-ALL/M4A/Kono%20Subarashii%20Sekai%20ni%20Shukufuku%20wo%20OP%20&amp;%20End%20ALL%20[jTFdapJ3w4E].m4a</location>
+			<duration>916469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
