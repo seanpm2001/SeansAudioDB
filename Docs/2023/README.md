@@ -22,6 +22,7 @@ These are my announcements, blog entries, and questions regarding the usage and 
 - [[2023.03.02] Faster audio conversion](/Docs/2023/Fast-conversion/03_March/02/)
 - [[2023.03.02] YT-DLP slows down](/Docs/2023/YT-DLP-Slowdown/2023/03_March/02/)
 - [[2023.03.14] Trimming macro](/Docs/2023/Trimming-Macro/03_March/14/)
+- [[2023.03.26] The GTA challenge](/Docs/2023/The-GTA-Challenge/03_March/26/)
 
 ### April
 
@@ -61,6 +62,6 @@ These are my announcements, blog entries, and questions regarding the usage and 
 
 ***
 
-**File version:** `1 (2023, Tuesday, March 14th at 7:14 pm PST)`
+**File version:** `2 (2023, Sunday, March 26th at 6:56 pm PST)`
 
 ***
