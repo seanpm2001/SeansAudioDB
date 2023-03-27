@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Angry%20Birds%20ambience/AngryBirdsSpace_RedPlanet_BackroundAmbientNoises.m4a</location>
+			<duration>55426</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Angry%20Birds%20ambience/AngryBirdsSeasons_HogsAndKisses_BackgroundAmbientNoises.m4a</location>
+			<duration>94899</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Angry%20Birds%20ambience/AngryBirdsSeasons_SummerPignic_BackgroundAmbientNoises.m4a</location>
+			<duration>86749</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Angry%20Birds%20ambience/AngryBirdsSeasons_MoonFestival_BackgroundAmbientNoises.m4a</location>
+			<duration>76115</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Angry%20Birds%20ambience/AngryBirdsSeasons_YearOfTheDragon_BackgroundAmbientNoises.m4a</location>
+			<duration>77276</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Angry%20Birds%20ambience/AngryBirdsSeasons_Ham-o-ween_BackgroundAmbientNoises.m4a</location>
+			<duration>50480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/It_Has_to_Be_This_Way/VideoWithAudio/Extended/AudioOnly/MP3/Metal%20Gear%20Rising%20-%20Revengeance%20OST%20%20%20It%20Has%20To%20Be%20This%20Way%20Extended-ZYAPgPH9hsI.mp3</location>
+			<duration>302108</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/Shrek%202%20Soundtrack%20%20%207.%20Eels%20-%20I%20Need%20Some%20Sleep-vTThyYf8zlg.mp3</location>
+			<duration>148037</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/09%20-%20By%20The%20Ol%20Oak-pdwIsVnio4U.mp3</location>
+			<duration>122097</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/10%20-%20Anoying%20Talking%20Animals-mmBPbsYQi_E.mp3</location>
+			<duration>176301</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
