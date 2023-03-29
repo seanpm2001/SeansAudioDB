@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!CommunistAnthems/Compilation/AudioOnly/M4A/National%20Anthems%20of%20all%20Communist%20Countries%20(Instrumental)%20[B-vdp422BPE].m4a</location>
+			<duration>3623916</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/French-Accordion-Traditionell-Musette/MP3/French-Accordian-Traditionell-Musette.mp3</location>
+			<title>French-Accordian-Traditionell-Musette.mp3</title>
+			<creator>France</creator>
+			<album>Traditionell Musette</album>
+			<trackNum>1</trackNum>
+			<annotation>The classic theme song of France.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/France/Traditionell%20Musette/art.png</image>
+			<duration>144387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Theme_Song/AudioOnly/M4A/GTA%20III%20(2001)%20-%20Main%20Theme%20[jjuzjhJQ-IA].m4a</location>
+			<duration>253679</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_Vice-City/Theme_Song/AudioOnly/M4A/GTA%20Vice%20City%20%EF%BC%8A%EF%BC%8ATheme%20Song%EF%BC%8A%EF%BC%8A%20[7pH8DE5sseE].m4a</location>
+			<duration>78948</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Head_Radio/Dil-Don&#39;t_Stripe-Summer/AudioOnly/M4A/GTA%20III%20-%20Head%20Radio%20%20%EF%BC%8A%EF%BC%8ADil-Don&#39;t%20-%20Stripe%20Summer%EF%BC%8A%EF%BC%8A%20[PuOUV7k72Z8].m4a</location>
+			<duration>163074</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_San-Andreas/Theme_Song/AudioOnly/M4A/GTA%20San%20Andreas%20%EF%BC%8A%EF%BC%8ATheme%20Song%EF%BC%8A%EF%BC%8A%20[z52bDnrCJ1A].m4a</location>
+			<duration>79018</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

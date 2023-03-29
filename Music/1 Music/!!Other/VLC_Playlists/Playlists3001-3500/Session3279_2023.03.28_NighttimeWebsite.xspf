@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Head_Radio/Whatever_Good-Thing/AudioOnly/M4A/GTA%20III%20-%20Head%20Radio%20%20%EF%BC%8A%EF%BC%8AWhatever%20-%20Good%20Thing%EF%BC%8A%EF%BC%8A%20[-io1PbLObHY].m4a</location>
+			<duration>180838</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Head_Radio/Conor-and-Jay_Change/AudioOnly/M4A/GTA%20III%20-%20Head%20Radio%20%20%EF%BC%8A%EF%BC%8AConor%20&amp;%20Jay%20-%20Change%EF%BC%8A%EF%BC%8A%20[vjamwACI2MI].m4a</location>
+			<duration>249847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!CommunistAnthems/Compilation/AudioOnly/M4A/National%20Anthems%20of%20all%20Communist%20Countries%20(Instrumental)%20[B-vdp422BPE].m4a</location>
+			<duration>3623916</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Head_Radio/Craig-Gray_Fade-Away/AudioOnly/M4A/GTA%20III%20-%20Head%20Radio%20%20%EF%BC%8A%EF%BC%8ACraig%20Gray%20-%20Fade%20Away%EF%BC%8A%EF%BC%8A%20[RTqquqLmgMw].m4a</location>
+			<duration>191751</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Lips_106/Lucy_Forever/AudioOnly/M4A/GTA%20III%20-%20Lips%20106%20%20%EF%BC%8A%EF%BC%8ALucy%20-%20Forever%EF%BC%8A%EF%BC%8A%20[7eAth3JwCl0].m4a</location>
+			<duration>175218</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Lips_106/April&#39;s-in-Paris_Feels-Like-I-Just-Can&#39;t-Take-No-More/AudioOnly/M4A/GTA%20III%20-%20Lips%20106%20%20%EF%BC%8A%EF%BC%8AApril&#39;s%20in%20Paris%20-%20Feels%20Like%20I%20Just%20Can&#39;t%20Take%20No%20More%EF%BC%8A%EF%BC%8A%20[wSS9Qz5I-4E].m4a</location>
+			<duration>189522</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Lips_106/Da-Shootaz_Grand-Theft-Auto-(Joyride)/AudioOnly/M4A/GTA%20III%20-%20Lips%20106%20%20%EF%BC%8A%EF%BC%8ADa%20Shootaz%20-%20Grand%20Theft%20Auto%20(Joyride)%EF%BC%8A%EF%BC%8A%20[FbwMA3ddGIA].m4a</location>
+			<duration>144034</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
