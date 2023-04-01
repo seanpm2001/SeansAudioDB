@@ -7,20 +7,21 @@ _Part of the GTA III soundtrack._
 
 <!-- [See a metadata list overview of the stations](MetaIndex.ls.txt) **Link may not work** !-->
 
-**Completion progress:** `5` / `9` (`~55.55%` complete)
+**Completion progress:** `9` / `9` (`100.00%` complete)
 
 - [x] Chatterbox FM
-- [ ] Double Clef FM
-- [ ] Flashback 95.6
+- [x] Double Clef FM
+- [x] Flashback 95.6
 - [x] Game FM
 - [x] Head Radio
-- [ ] K-Jah
+- [x] K-Jah
 - [x] Lips 106
 - [x] MSX FM
-- [ ] Rise FM
+- [x] Rise FM
 
 > **Note** Double Clef FM has 2 variants: PC and PS2. They are both counted as the same station (so there are 9 stations, not 10)
 
+<!--
 **Missing songs**
 
 I may miss some songs, please let me know if I missed any.
@@ -32,6 +33,7 @@ The following stations I know are incomplete:
 - [ ] Game FM (some songs may be missing)
 - [ ] K-Jah (all songs missing)
 - [ ] Rise FM (all songs missing)
+!-->
 
 **Fun todo:** Make a custom track player for this playlist, with the station logos, and a similar GUI to GTA III.
 
@@ -39,6 +41,7 @@ The following stations I know are incomplete:
 
 - I have reached the end of the easily accessible songs (from the source I had) on 2023 March 29th. I will have to look deeper to find the rest of the songs.
 - I am not doing this task full time. There may be long periods of time with no progress.
+- I found a better source on 2023, March 30th, and downloaded the rest of the tracks the next day (2023, March 31st) mostly compilations, rather than singles, but the collection is now complete.
 
 ***
 
@@ -48,9 +51,9 @@ The following stations I know are incomplete:
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Wednesday, March 29th at 11:30 am PST)`
+**File version:** `4 (2023, Friday, March 31st at 5:13 pm PST)`
 
-**Line count (including blank lines and compiler line):** `145`
+**Line count (including blank lines and compiler line):** `172`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -128,6 +131,30 @@ The following stations I know are incomplete:
 - - [x] Added an entry for version 3
 - [x] Added the footer
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2023, Friday, March 31st at 5:13 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _The fourth release, completed for now._
+
+> Changes:
+
+- [x] Updated the Station listing
+- - [x] Checked 4 entries
+- - [x] Updated the percentage for the completion progress
+- [x] Hid the missing songs section (now source code (comments) only)
+- [x] updated the notes section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [x] Added the footer
+- [ ] No other changes in version 4
 
 </details>
 
