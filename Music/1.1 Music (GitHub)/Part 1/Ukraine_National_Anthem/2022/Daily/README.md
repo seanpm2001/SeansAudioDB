@@ -233,6 +233,7 @@ The following 6 audio files are applicable:
 - [x] 🇺🇦️ Day 175: 2023, April 2nd
 - [x] 🇺🇦️ Day 176: 2023, April 3rd
 - [x] 🇺🇦️ Day 177: 2023, April 4th
+- [x] 🇺🇦️ Day 178: 2023, April 5th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -646,7 +647,8 @@ The following 6 audio files are applicable:
 - [x] 🇺🇦️ Day 402: 2023, Saturday, April 1st
 - [x] 🇺🇦️ Day 403: 2023, Sunday, April 2nd
 - [x] 🇺🇦️ Day 404: 2023, Monday, April 3rd
-- [x] 🇺🇦️ Day 405: 2023, Monday, April 4th
+- [x] 🇺🇦️ Day 405: 2023, Tuesday, April 4th
+- [x] 🇺🇦️ Day 406: 2023, Wednesday, April 5th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time, which is 10 hours ahead of your time
@@ -3993,10 +3995,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3328: 2023, April 2nd
 - [x] 🇺🇦️ Day 3329: 2023, April 3rd
 - [x] 🇺🇦️ Day 3330: 2023, April 4th
+- [x] 🇺🇦️ Day 3331: 2023, April 5th
 
-After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+After 3,331 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
 
-після 3,330 днів, це все ще Україна. Слава Україні!
+після 3,331 днів, це все ще Україна. Слава Україні!
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -4018,13 +4021,13 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 
 **Тип файлу:** `Уцінка (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `159 (2023, Tuesday, April 4th at 3:44 pm PST)`
+**File version:** `160 (2023, Wednesday, April 5th at 2:32 pm PST)`
 
 > **Translation not available**
 
-**Line count (including blank lines and compiler line):** `6,368`
+**Line count (including blank lines and compiler line):** `6,387`
 
-**Кількість рядків (включно з порожніми рядками та рядком компілятора):** `6,368`
+**Кількість рядків (включно з порожніми рядками та рядком компілятора):** `6,387`
 
 **Current article language:** `English (EN_USA)` / `Ukrainian (UK_UKRAINE)` `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -4067,7 +4070,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Added the changelog
 - [ ] No other changes in version 1
 
-</details>
+</details> <!-- V1 !-->
 
 <details><summary><p lang="en"><b>Version 2 (2022, Thursday, October 13th at 10:28 pm PST)</b></p></summary>
 
@@ -4080,7 +4083,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 2
 
-</details>
+</details> <!-- V2 !-->
 
 <details><summary><p lang="en"><b>Version 3 (2022, Friday, October 14th at 9:21 pm PST)</b></p></summary>
 
@@ -4093,7 +4096,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 3
 
-</details>
+</details> <!-- V3 !-->
 
 <details><summary><p lang="en"><b>Version 4 (2022, Saturday, October 15th at 8:03 pm PST)</b></p></summary>
 
@@ -4106,7 +4109,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 4
 
-</details>
+</details> <!-- V4 !-->
 
 <details><summary><p lang="en"><b>Version 5 (2022, Sunday, October 16th at 9:31 pm PST)</b></p></summary>
 
@@ -4120,7 +4123,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 5
 
-</details>
+</details> <!-- V5 !-->
 
 <details><summary><p lang="en"><b>Version 6 (2022, Monday, October 17th at 10:34 pm PST)</b></p></summary>
 
@@ -4133,7 +4136,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 6
 
-</details>
+</details> <!-- V6 !-->
 
 <details><summary><p lang="en"><b>Version 7 (2022, Thursday, October 20th at 8:41 pm PST)</b></p></summary>
 
@@ -4146,7 +4149,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 7
 
-</details>
+</details> <!-- V7 !-->
 
 <details><summary><p lang="en"><b>Version 8 (2022, Saturday, October 22nd at 12:37 pm PST)</b></p></summary>
 
@@ -4159,7 +4162,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 8
 
-</details>
+</details> <!-- V8 !-->
 
 <details><summary><p lang="en"><b>Version 9 (2022, Sunday, October 23rd at 5:04 pm PST)</b></p></summary>
 
@@ -4172,7 +4175,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 9
 
-</details>
+</details> <!-- V9 !-->
 
 <details><summary><p lang="en"><b>Version 10 (2022, Monday, October 24th at 6:54 pm PST)</b></p></summary>
 
@@ -4186,7 +4189,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 10
 
-</details>
+</details> <!-- V10 !-->
 
 <details><summary><p lang="en"><b>Version 11 (2022, Tuesday, October 25th at 8:25 pm PST)</b></p></summary>
 
@@ -4199,7 +4202,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 11
 
-</details>
+</details> <!-- V11 !-->
 
 <details><summary><p lang="en"><b>Version 12 (2022, Wednesday, October 26th at 7:32 pm PST)</b></p></summary>
 
@@ -4212,7 +4215,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 12
 
-</details>
+</details> <!-- V12 !-->
 
 <details><summary><p lang="en"><b>Version 13 (2022, Thursday, October 27th at 6:17 pm PST)</b></p></summary>
 
@@ -4225,7 +4228,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 13
 
-</details>
+</details> <!-- V13 !-->
 
 <details><summary><p lang="en"><b>Version 14 (2022, Friday, October 28th at 10:08 pm PST)</b></p></summary>
 
@@ -4238,7 +4241,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 14
 
-</details>
+</details> <!-- V14 !-->
 
 <details><summary><p lang="en"><b>Version 15 (2022, Saturday, October 29th at 7:57 pm PST)</b></p></summary>
 
@@ -4251,7 +4254,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 15
 
-</details>
+</details> <!-- V15 !-->
 
 <details><summary><p lang="en"><b>Version 16 (2022, Sunday, October 30th at 10:18 pm PST)</b></p></summary>
 
@@ -4264,7 +4267,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 16
 
-</details>
+</details> <!-- V16 !-->
 
 <details><summary><p lang="en"><b>Version 17 (2022, Monday, October 31st at 10:56 pm PST)</b></p></summary>
 
@@ -4277,7 +4280,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 17
 
-</details>
+</details> <!-- V17 !-->
 
 <details><summary><p lang="en"><b>Version 18 (2022, Tuesday, November 1st at 10:55 pm PST)</b></p></summary>
 
@@ -4290,7 +4293,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 18
 
-</details>
+</details> <!-- V18 !-->
 
 <details><summary><p lang="en"><b>Version 19 (2022, Wednesday, November 2nd at 2:39 pm PST)</b></p></summary>
 
@@ -4304,7 +4307,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 19
 
-</details>
+</details> <!-- V19 !-->
 
 <details><summary><p lang="en"><b>Version 20 (2022, Wednesday, November 2nd at 2:50 pm PST)</b></p></summary>
 
@@ -4317,7 +4320,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 20
 
-</details>
+</details> <!-- V20 !-->
 
 <details><summary><p lang="en"><b>Version 21 (2022, Thursday, November 3rd at 7:46 pm PST)</b></p></summary>
 
@@ -4332,7 +4335,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 21
 
-</details>
+</details> <!-- V21 !-->
 
 <details><summary><p lang="en"><b>Version 22 (2022, Friday, November 4th at 6:42 pm PST)</b></p></summary>
 
@@ -4345,7 +4348,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 22
 
-</details>
+</details> <!-- V22 !-->
 
 <details><summary><p lang="en"><b>Version 23 (2022, Sunday, November 6th at 10:26 pm PST)</b></p></summary>
 
@@ -4359,7 +4362,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 23
 
-</details>
+</details> <!-- V23 !-->
 
 <details><summary><p lang="en"><b>Version 24 (2022, Monday, November 7th at 7:55 pm PST)</b></p></summary>
 
@@ -4372,7 +4375,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 24
 
-</details>
+</details> <!-- V24 !-->
 
 <details><summary><p lang="en"><b>Version 25 (2022, Tuesday, November 8th at 7:53 pm PST)</b></p></summary>
 
@@ -4386,7 +4389,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 25
 
-</details>
+</details> <!-- V25 !-->
 
 <details><summary><p lang="en"><b>Version 26 (2022, Thursday, November 10th at 7:37 pm PST)</b></p></summary>
 
@@ -4399,7 +4402,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 26
 
-</details>
+</details> <!-- V26 !-->
 
 <details><summary><p lang="en"><b>Version 27 (2022, Friday, November 11th at 10:45 pm PST)</b></p></summary>
 
@@ -4412,7 +4415,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 27
 
-</details>
+</details> <!-- V27 !-->
 
 <details><summary><p lang="en"><b>Version 28 (2022, Saturday, November 12th at 7:31 pm PST)</b></p></summary>
 
@@ -4425,7 +4428,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 28
 
-</details>
+</details> <!-- V28 !-->
 
 <details><summary><p lang="en"><b>Version 29 (2022, Sunday, November 13th at 9:32 pm PST)</b></p></summary>
 
@@ -4438,7 +4441,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 29
 
-</details>
+</details> <!-- V29 !-->
 
 <details><summary><p lang="en"><b>Version 30 (2022, Monday, November 14th at 6:37 pm PST)</b></p></summary>
 
@@ -4451,7 +4454,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 30
 
-</details>
+</details> <!-- V30 !-->
 
 <details><summary><p lang="en"><b>Version 31 (2022, Tuesday, November 15th at 3:30 pm PST)</b></p></summary>
 
@@ -4464,7 +4467,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 31
 
-</details>
+</details> <!-- V31 !-->
 
 <details><summary><p lang="en"><b>Version 32 (2022, Wednesday, November 16th at 6:36 pm PST)</b></p></summary>
 
@@ -4477,7 +4480,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 32
 
-</details>
+</details> <!-- V32 !-->
 
 <details><summary><p lang="en"><b>Version 33 (2022, Thursday, November 17th at 6:07 pm PST)</b></p></summary>
 
@@ -4490,7 +4493,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 33
 
-</details>
+</details> <!-- V33 !-->
 
 <details><summary><p lang="en"><b>Version 34 (2022, Friday, November 18th at 7:29 pm PST)</b></p></summary>
 
@@ -4503,7 +4506,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 34
 
-</details>
+</details> <!-- V34 !-->
 
 <details><summary><p lang="en"><b>Version 35 (2022, Saturday, November 19th at 5:54 pm PST)</b></p></summary>
 
@@ -4516,7 +4519,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 35
 
-</details>
+</details> <!-- V35 !-->
 
 <details><summary><p lang="en"><b>Version 36 (2022, Sunday, November 20th at 6:43 pm PST)</b></p></summary>
 
@@ -4529,7 +4532,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 36
 
-</details>
+</details> <!-- V36 !-->
 
 <details><summary><p lang="en"><b>Version 37 (2022, Monday, November 21st at 6:27 pm PST)</b></p></summary>
 
@@ -4542,7 +4545,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 37
 
-</details>
+</details> <!-- V37 !-->
 
 <details><summary><p lang="en"><b>Version 38 (2022, Tuesday, November 22nd at 5:21 pm PST)</b></p></summary>
 
@@ -4555,7 +4558,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 38
 
-</details>
+</details> <!-- V38 !-->
 
 <details><summary><p lang="en"><b>Version 39 (2022, Wednesday, November 23rd at 6:47 pm PST)</b></p></summary>
 
@@ -4568,7 +4571,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 39
 
-</details>
+</details> <!-- V39 !-->
 
 <details><summary><p lang="en"><b>Version 40 (2022, Thursday, November 24th at 8:02 pm PST)</b></p></summary>
 
@@ -4581,7 +4584,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 40
 
-</details>
+</details> <!-- V40 !-->
 
 <details><summary><p lang="en"><b>Version 41 (2022, Friday, November 25th at 7:50 pm PST)</b></p></summary>
 
@@ -4594,7 +4597,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 41
 
-</details>
+</details> <!-- V41 !-->
 
 <details><summary><p lang="en"><b>Version 42 (2022, Saturday, November 26th at 8:14 pm PST)</b></p></summary>
 
@@ -4607,7 +4610,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 42
 
-</details>
+</details> <!-- V42 !-->
 
 <details><summary><p lang="en"><b>Version 43 (2022, Sunday, November 27th at 7:15 pm PST)</b></p></summary>
 
@@ -4620,7 +4623,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 43
 
-</details>
+</details> <!-- V43 !-->
 
 <details><summary><p lang="en"><b>Version 44 (2022, Monday, November 28th at 11:25 pm PST)</b></p></summary>
 
@@ -4633,7 +4636,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 44
 
-</details>
+</details> <!-- V44 !-->
 
 <details><summary><p lang="en"><b>Version 45 (2022, Tuesday, November 29th at 6:39 pm PST)</b></p></summary>
 
@@ -4646,7 +4649,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 45
 
-</details>
+</details> <!-- V45 !-->
 
 <details><summary><p lang="en"><b>Version 46 (2022, Wednesday, November 30th at 6:03 pm PST)</b></p></summary>
 
@@ -4659,7 +4662,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 46
 
-</details>
+</details> <!-- V46 !-->
 
 <details><summary><p lang="en"><b>Version 47 (2022, Thursday, December 1st at 2:36 pm PST)</b></p></summary>
 
@@ -4672,7 +4675,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 47
 
-</details>
+</details> <!-- V47 !-->
 
 <details><summary><p lang="en"><b>Version 48 (2022, Friday, December 2nd at 8:00 pm PST)</b></p></summary>
 
@@ -4685,7 +4688,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 48
 
-</details>
+</details> <!-- V48 !-->
 
 <details><summary><p lang="en"><b>Version 49 (2022, Saturday, December 3rd at 7:45 pm PST)</b></p></summary>
 
@@ -4698,7 +4701,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 49
 
-</details>
+</details> <!-- V49 !-->
 
 <details><summary><p lang="en"><b>Version 50 (2022, Sunday, December 4th at 8:36 pm PST)</b></p></summary>
 
@@ -4711,7 +4714,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 50
 
-</details>
+</details> <!-- V50 !-->
 
 <details><summary><p lang="en"><b>Version 51 (2022, Monday, December 5th at 5:31 pm PST)</b></p></summary>
 
@@ -4726,7 +4729,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 51
 
-</details>
+</details> <!-- V51 !-->
 
 <details><summary><p lang="en"><b>Version 52 (2022, Tuesday, December 6th at 5:17 pm PST)</b></p></summary>
 
@@ -4741,7 +4744,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 52
 
-</details>
+</details> <!-- V52 !-->
 
 <details><summary><p lang="en"><b>Version 53 (2022, Wednesday, December 7th at 11:27 pm PST)</b></p></summary>
 
@@ -4756,7 +4759,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 53
 
-</details>
+</details> <!-- V53 !-->
 
 <details><summary><p lang="en"><b>Version 54 (2022, Thursday, December 8th at 7:11 pm PST)</b></p></summary>
 
@@ -4772,7 +4775,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 54
 
-</details>
+</details> <!-- V54 !-->
 
 <details><summary><p lang="en"><b>Version 55 (2022, Saturday, December 10th at 9:14 pm PST)</b></p></summary>
 
@@ -4789,7 +4792,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 55
 
-</details>
+</details> <!-- V55 !-->
 
 <details><summary><p lang="en"><b>Version 56 (2022, Sunday, December 11th at 8:42 pm PST)</b></p></summary>
 
@@ -4804,7 +4807,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 56
 
-</details>
+</details> <!-- V56 !-->
 
 <details><summary><p lang="en"><b>Version 57 (2022, Monday, December 12th at 6:38 pm PST)</b></p></summary>
 
@@ -4819,7 +4822,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 57
 
-</details>
+</details> <!-- V57 !-->
 
 <details><summary><p lang="en"><b>Version 58 (2022, Tuesday, December 13th at 9:28 pm PST)</b></p></summary>
 
@@ -4834,7 +4837,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 58
 
-</details>
+</details> <!-- V58 !-->
 
 <details><summary><p lang="en"><b>Version 59 (2022, Wednesday, December 14th at 8:05 pm PST)</b></p></summary>
 
@@ -4849,7 +4852,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 59
 
-</details>
+</details> <!-- V59 !-->
 
 <details><summary><p lang="en"><b>Version 60 (2022, Thursday, December 15th at 6:33 pm PST)</b></p></summary>
 
@@ -4865,7 +4868,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 60
 
-</details>
+</details> <!-- V60 !-->
 
 <details><summary><p lang="en"><b>Version 61 (2022, Friday, December 16th at 5:20 pm PST)</b></p></summary>
 
@@ -4880,7 +4883,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 61
 
-</details>
+</details> <!-- V61 !-->
 
 <details><summary><p lang="en"><b>Version 62 (2022, Saturday, December 17th at 3:55 pm PST)</b></p></summary>
 
@@ -4895,7 +4898,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 62
 
-</details>
+</details> <!-- V62 !-->
 
 <details><summary><p lang="en"><b>Version 63 (2022, Sunday, December 18th at 8:31 pm PST)</b></p></summary>
 
@@ -4910,7 +4913,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 63
 
-</details>
+</details> <!-- V63 !-->
 
 <details><summary><p lang="en"><b>Version 64 (2022, Monday, December 19th at 9:49 pm PST)</b></p></summary>
 
@@ -4925,7 +4928,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 64
 
-</details>
+</details> <!-- V64 !-->
 
 <details><summary><p lang="en"><b>Version 65 (2022, Tuesday, December 20th at 6:23 pm PST)</b></p></summary>
 
@@ -4940,7 +4943,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 65
 
-</details>
+</details> <!-- V65 !-->
 
 <details><summary><p lang="en"><b>Version 66 (2022, Wednesday, December 21st at 5:59 pm PST)</b></p></summary>
 
@@ -4955,7 +4958,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 66
 
-</details>
+</details> <!-- V66 !-->
 
 <details><summary><p lang="en"><b>Version 67 (2022, Thursday, December 22nd at 8:18 pm PST)</b></p></summary>
 
@@ -4970,7 +4973,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 67
 
-</details>
+</details> <!-- V67 !-->
 
 <details><summary><p lang="en"><b>Version 68 (2022, Friday, December 23rd at 10:56 pm PST)</b></p></summary>
 
@@ -4985,7 +4988,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 68
 
-</details>
+</details> <!-- V68 !-->
 
 <details><summary><p lang="en"><b>Version 69 (2022, Sunday, December 25th at 5:31 pm PST)</b></p></summary>
 
@@ -5001,7 +5004,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 69
 
-</details>
+</details> <!-- V69 !-->
 
 <details><summary><p lang="en"><b>Version 70 (2022, Tuesday, December 27th at 8:43 pm PST)</b></p></summary>
 
@@ -5017,7 +5020,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 70
 
-</details>
+</details> <!-- V70 !-->
 
 <details><summary><p lang="en"><b>Version 71 (2022, Thursday, December 29th at 9:21 pm PST)</b></p></summary>
 
@@ -5033,7 +5036,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 71
 
-</details>
+</details> <!-- V71 !-->
 
 <details><summary><p lang="en"><b>Version 72 (2022, Saturday, December 31st at 6:10 pm PST)</b></p></summary>
 
@@ -5049,7 +5052,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 72
 
-</details>
+</details> <!-- V72 !-->
 
 <details><summary><p lang="en"><b>Version 73 (2023, Sunday, January 1st at 3:26 pm PST)</b></p></summary>
 
@@ -5064,7 +5067,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 73
 
-</details>
+</details> <!-- V73 !-->
 
 <details><summary><p lang="en"><b>Version 74 (2023, Monday, January 2nd at 11:14 pm PST)</b></p></summary>
 
@@ -5079,7 +5082,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 74
 
-</details>
+</details> <!-- V74 !-->
 
 <details><summary><p lang="en"><b>Version 75 (2023, Thursday, January 5th at 9:55 pm PST)</b></p></summary>
 
@@ -5094,7 +5097,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 75
 
-</details>
+</details> <!-- V75 !-->
 
 <details><summary><p lang="en"><b>Version 76 (2023, Friday, January 6th at 6:32 pm PST)</b></p></summary>
 
@@ -5109,7 +5112,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 76
 
-</details>
+</details> <!-- V76 !-->
 
 <details><summary><p lang="en"><b>Version 77 (2023, Sunday, January 8th at 7:27 pm PST)</b></p></summary>
 
@@ -5125,7 +5128,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 77
 
-</details>
+</details> <!-- V77 !-->
 
 <details><summary><p lang="en"><b>Version 78 (2023, Monday, January 9th at 6:36 pm PST)</b></p></summary>
 
@@ -5140,7 +5143,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 78
 
-</details>
+</details> <!-- V78 !-->
 
 <details><summary><p lang="en"><b>Version 79 (2023, Tuesday, January 10th at 8:25 pm PST)</b></p></summary>
 
@@ -5155,7 +5158,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 79
 
-</details>
+</details> <!-- V79 !-->
 
 <details><summary><p lang="en"><b>Version 80 (2023, Wednesday, January 11th at 11:25 pm PST)</b></p></summary>
 
@@ -5170,7 +5173,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 80
 
-</details>
+</details> <!-- V80 !-->
 
 <details><summary><p lang="en"><b>Version 81 (2023, Friday, January 13th at 10:27 pm PST)</b></p></summary>
 
@@ -5185,7 +5188,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 81
 
-</details>
+</details> <!-- V81 !-->
 
 <details><summary><p lang="en"><b>Version 82 (2023, Saturday, January 14th at 10:43 pm PST)</b></p></summary>
 
@@ -5200,7 +5203,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 82
 
-</details>
+</details> <!-- V82 !-->
 
 <details><summary><p lang="en"><b>Version 83 (2023, Sunday, January 15th at 11:22 pm PST)</b></p></summary>
 
@@ -5215,7 +5218,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 83
 
-</details>
+</details> <!-- V83 !-->
 
 <details><summary><p lang="en"><b>Version 84 (2023, Tuesday, January 17th at 5:19 pm PST)</b></p></summary>
 
@@ -5231,7 +5234,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 84
 
-</details>
+</details> <!-- V84 !-->
 
 <details><summary><p lang="en"><b>Version 85 (2023, Wednesday, January 18th at 4:00 pm PST)</b></p></summary>
 
@@ -5246,7 +5249,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 85
 
-</details>
+</details> <!-- V85 !-->
 
 <details><summary><p lang="en"><b>Version 86 (2023, Thursday, January 19th at 5:59 pm PST)</b></p></summary>
 
@@ -5261,7 +5264,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 86
 
-</details>
+</details> <!-- V86 !-->
 
 <details><summary><p lang="en"><b>Version 87 (2023, Friday, January 20th at 6:36 pm PST)</b></p></summary>
 
@@ -5276,7 +5279,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 87
 
-</details>
+</details> <!-- V87 !-->
 
 <details><summary><p lang="en"><b>Version 88 (2023, Saturday, January 21st at 6:54 pm PST)</b></p></summary>
 
@@ -5291,7 +5294,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 88
 
-</details>
+</details> <!-- V88 !-->
 
 <details><summary><p lang="en"><b>Version 89 (2023, Sunday, January 22nd at 9:29 pm PST)</b></p></summary>
 
@@ -5306,7 +5309,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 89
 
-</details>
+</details> <!-- V89 !-->
 
 <details><summary><p lang="en"><b>Version 90 (2023, Monday, January 23rd at 6:14 pm PST)</b></p></summary>
 
@@ -5321,7 +5324,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 90
 
-</details>
+</details> <!-- V90 !-->
 
 <details><summary><p lang="en"><b>Version 91 (2023, Wednesday, January 25th at 9:17 pm PST)</b></p></summary>
 
@@ -5337,7 +5340,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 91
 
-</details>
+</details> <!-- V91 !-->
 
 <details><summary><p lang="en"><b>Version 92 (2023, Thursday, January 26th at 4:46 pm PST)</b></p></summary>
 
@@ -5352,7 +5355,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 92
 
-</details>
+</details> <!-- V92 !-->
 
 <details><summary><p lang="en"><b>Version 93 (2023, Friday, January 27th at 10:12 pm PST)</b></p></summary>
 
@@ -5367,7 +5370,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 93
 
-</details>
+</details> <!-- V93 !-->
 
 <details><summary><p lang="en"><b>Version 94 (2023, Saturday, January 28th at 6:33 pm PST)</b></p></summary>
 
@@ -5382,7 +5385,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 94
 
-</details>
+</details> <!-- V94 !-->
 
 <details><summary><p lang="en"><b>Version 95 (2023, Monday, January 30th at 10:27 pm PST)</b></p></summary>
 
@@ -5398,7 +5401,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 95
 
-</details>
+</details> <!-- V95 !-->
 
 <details><summary><p lang="en"><b>Version 96 (2023, Tuesday, January 31st at 4:08 pm PST)</b></p></summary>
 
@@ -5413,7 +5416,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 96
 
-</details>
+</details> <!-- V96 !-->
 
 <details><summary><p lang="en"><b>Version 97 (2023, Wednesday, February 1st at 8:20 pm PST)</b></p></summary>
 
@@ -5428,7 +5431,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 97
 
-</details>
+</details> <!-- V97 !-->
 
 <details><summary><p lang="en"><b>Version 98 (2023, Thursday, February 2nd at 3:13 pm PST)</b></p></summary>
 
@@ -5443,7 +5446,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 98
 
-</details>
+</details> <!-- V98 !-->
 
 <details><summary><p lang="en"><b>Version 99 (2023, Friday, February 3rd at 6:13 pm PST)</b></p></summary>
 
@@ -5458,7 +5461,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 99
 
-</details>
+</details> <!-- V99 !-->
 
 <details><summary><p lang="en"><b>Version 100 (2023, Saturday, February 4th at 3:33 pm PST)</b></p></summary>
 
@@ -5473,7 +5476,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 100
 
-</details>
+</details> <!-- V100 !-->
 
 <details><summary><p lang="en"><b>Version 101 (2023, Sunday, February 5th at 4:30 pm PST)</b></p></summary>
 
@@ -5488,7 +5491,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 101
 
-</details>
+</details> <!-- V101 !-->
 
 <details><summary><p lang="en"><b>Version 102 (2023, Monday, February 6th at 4:49 pm PST)</b></p></summary>
 
@@ -5503,7 +5506,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 102
 
-</details>
+</details> <!-- V102 !-->
 
 <details><summary><p lang="en"><b>Version 103 (2023, Tuesday, February 7th at 5:21 pm PST)</b></p></summary>
 
@@ -5518,7 +5521,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 103
 
-</details>
+</details> <!-- V103 !-->
 
 <details><summary><p lang="en"><b>Version 104 (2023, Wednesday, February 8th at 6:59 pm PST)</b></p></summary>
 
@@ -5533,7 +5536,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 104
 
-</details>
+</details> <!-- V104 !-->
 
 <details><summary><p lang="en"><b>Version 105 (2023, Thursday, February 9th at 1:57 pm PST)</b></p></summary>
 
@@ -5548,7 +5551,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 105
 
-</details>
+</details> <!-- V105 !-->
 
 <details><summary><p lang="en"><b>Version 106 (2023, Friday, February 10th at 5:05 pm PST)</b></p></summary>
 
@@ -5563,7 +5566,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 106
 
-</details>
+</details> <!-- V106 !-->
 
 <details><summary><p lang="en"><b>Version 107 (2023, Saturday, February 11th at 4:54 pm PST)</b></p></summary>
 
@@ -5578,7 +5581,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 107
 
-</details>
+</details> <!-- V107 !-->
 
 <details><summary><p lang="en"><b>Version 108 (2023, Sunday, February 12th at 3:16 pm PST)</b></p></summary>
 
@@ -5593,7 +5596,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 108
 
-</details>
+</details> <!-- V108 !-->
 
 <details><summary><p lang="en"><b>Version 109 (2023, Monday, February 13th at 2:24 pm PST)</b></p></summary>
 
@@ -5608,7 +5611,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 109
 
-</details>
+</details> <!-- V109 !-->
 
 <details><summary><p lang="en"><b>Version 110 (2023, Tuesday, February 14th at 4:37 pm PST)</b></p></summary>
 
@@ -5623,7 +5626,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 110
 
-</details>
+</details> <!-- V110 !-->
 
 <details><summary><p lang="en"><b>Version 111 (2023, Wednesday, February 15th at 2:20 pm PST)</b></p></summary>
 
@@ -5638,7 +5641,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 111
 
-</details>
+</details> <!-- V111 !-->
 
 <details><summary><p lang="en"><b>Version 112 (2023, Thursday, February 16th at 6:43 pm PST)</b></p></summary>
 
@@ -5653,7 +5656,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 112
 
-</details>
+</details> <!-- V112 !-->
 
 <details><summary><p lang="en"><b>Version 113 (2023, Friday, February 17th at 12:58 pm PST)</b></p></summary>
 
@@ -5668,7 +5671,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 113
 
-</details>
+</details> <!-- V113 !-->
 
 <details><summary><p lang="en"><b>Version 114 (2023, Saturday, February 18th at 3:31 pm PST)</b></p></summary>
 
@@ -5683,7 +5686,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 114
 
-</details>
+</details> <!-- V114 !-->
 
 <details><summary><p lang="en"><b>Version 115 (2023, Sunday, February 19th at 1:07 pm PST)</b></p></summary>
 
@@ -5698,7 +5701,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 115
 
-</details>
+</details> <!-- V115 !-->
 
 <details><summary><p lang="en"><b>Version 116 (2023, Monday, February 20th at 5:44 pm PST)</b></p></summary>
 
@@ -5713,7 +5716,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 116
 
-</details>
+</details> <!-- V116 !-->
 
 <details><summary><p lang="en"><b>Version 117 (2023, Tuesday, February 21st at 1:52 pm PST)</b></p></summary>
 
@@ -5728,7 +5731,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 117
 
-</details>
+</details> <!-- V117 !-->
 
 <details><summary><p lang="en"><b>Version 118 (2023, Wednesday, February 22nd at 7:32 pm PST)</b></p></summary>
 
@@ -5743,7 +5746,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 118
 
-</details>
+</details> <!-- V118 !-->
 
 <details><summary><p lang="en"><b>Version 119 (2023, Thursday, February 23rd at 2:28 pm PST)</b></p></summary>
 
@@ -5758,7 +5761,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 119
 
-</details>
+</details> <!-- V119 !-->
 
 <details><summary><p lang="en"><b>Version 120 (2023, Friday, February 24th at 8:11 pm PST)</b></p></summary>
 
@@ -5773,7 +5776,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 120
 
-</details>
+</details> <!-- V120 !-->
 
 <details><summary><p lang="en"><b>Version 121 (2023, Saturday, February 25th at 12:43 pm PST)</b></p></summary>
 
@@ -5788,7 +5791,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 121
 
-</details>
+</details> <!-- V121 !-->
 
 <details><summary><p lang="en"><b>Version 122 (2023, Sunday, February 26th at 12:41 pm PST)</b></p></summary>
 
@@ -5803,7 +5806,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 122
 
-</details>
+</details> <!-- V122 !-->
 
 <details><summary><p lang="en"><b>Version 123 (2023, Monday, February 27th at 4:16 pm PST)</b></p></summary>
 
@@ -5818,7 +5821,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 123
 
-</details>
+</details> <!-- V123 !-->
 
 <details><summary><p lang="en"><b>Version 124 (2023, Tuesday, February 28th at 3:59 pm PST)</b></p></summary>
 
@@ -5833,7 +5836,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 124
 
-</details>
+</details> <!-- V124 !-->
 
 <details><summary><p lang="en"><b>Version 125 (2023, Wednesday, March 1st at 5:07 pm PST)</b></p></summary>
 
@@ -5848,7 +5851,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 125
 
-</details>
+</details> <!-- V125 !-->
 
 <details><summary><p lang="en"><b>Version 126 (2023, Thursday, March 2nd at 3:32 pm PST)</b></p></summary>
 
@@ -5863,7 +5866,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 126
 
-</details>
+</details> <!-- V126 !-->
 
 <details><summary><p lang="en"><b>Version 127 (2023, Friday, March 3rd at 4:12 pm PST)</b></p></summary>
 
@@ -5878,7 +5881,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 127
 
-</details>
+</details> <!-- V127 !-->
 
 <details><summary><p lang="en"><b>Version 128 (2023, Saturday, March 4th at 4:37 pm PST)</b></p></summary>
 
@@ -5893,7 +5896,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 128
 
-</details>
+</details> <!-- V128 !-->
 
 <details><summary><p lang="en"><b>Version 129 (2023, Sunday, March 5th at 4:31 pm PST)</b></p></summary>
 
@@ -5908,7 +5911,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 129
 
-</details>
+</details> <!-- V129 !-->
 
 <details><summary><p lang="en"><b>Version 130 (2023, Monday, March 6th at 5:19 pm PST)</b></p></summary>
 
@@ -5923,7 +5926,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 130
 
-</details>
+</details> <!-- V130 !-->
 
 <details><summary><p lang="en"><b>Version 131 (2023, Tuesday, March 7th at 1:38 pm PST)</b></p></summary>
 
@@ -5938,7 +5941,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 131
 
-</details>
+</details> <!-- V131 !-->
 
 <details><summary><p lang="en"><b>Version 132 (2023, Wednesday, March 8th at 4:15 pm PST)</b></p></summary>
 
@@ -5953,7 +5956,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 132
 
-</details>
+</details> <!-- V132 !-->
 
 <details><summary><p lang="en"><b>Version 133 (2023, Thursday, March 9th at 4:11 pm PST)</b></p></summary>
 
@@ -5969,7 +5972,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 133
 
-</details>
+</details> <!-- V133 !-->
 
 <details><summary><p lang="en"><b>Version 134 (2023, Friday, March 10th at 4:35 pm PST)</b></p></summary>
 
@@ -5984,7 +5987,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 134
 
-</details>
+</details> <!-- V134 !-->
 
 <details><summary><p lang="en"><b>Version 135 (2023, Saturday, March 11th at 12:48 pm PST)</b></p></summary>
 
@@ -5999,7 +6002,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 135
 
-</details>
+</details> <!-- V135 !-->
 
 <details><summary><p lang="en"><b>Version 136 (2023, Sunday, March 12th at 4:55 pm PST)</b></p></summary>
 
@@ -6015,7 +6018,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 136
 
-</details>
+</details> <!-- V136 !-->
 
 <details><summary><p lang="en"><b>Version 137 (2023, Monday, March 13th at 7:11 pm PST)</b></p></summary>
 
@@ -6028,9 +6031,9 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the list of all days of the war (3,308 days)
 - [x] Updated the file info section
 - [x] Updated the changelog
-- [ ] No other changes in version 137*
+- [ ] No other changes in version 137
 
-</details>
+</details> <!-- V137 !-->
 
 <details><summary><p lang="en"><b>Version 138 (2023, Tuesday, March 14th at 6:59 pm PST)</b></p></summary>
 
@@ -6045,7 +6048,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 138
 
-</details>
+</details> <!-- V138 !-->
 
 <details><summary><p lang="en"><b>Version 139 (2023, Wednesday, March 15th at 2:06 pm PST)</b></p></summary>
 
@@ -6060,7 +6063,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 139
 
-</details>
+</details> <!-- V139 !-->
 
 <details><summary><p lang="en"><b>Version 140 (2023, Thursday, March 16th at 6:14 pm PST)</b></p></summary>
 
@@ -6075,7 +6078,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 140
 
-</details>
+</details> <!-- V140 !-->
 
 <details><summary><p lang="en"><b>Version 141 (2023, Friday, March 17th at 4:49 pm PST)</b></p></summary>
 
@@ -6090,7 +6093,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 141
 
-</details>
+</details> <!-- V141 !-->
 
 <details><summary><p lang="en"><b>Version 142 (2023, Saturday, March 18th at 4:08 pm PST)</b></p></summary>
 
@@ -6105,7 +6108,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 142
 
-</details>
+</details> <!-- V142 !-->
 
 <details><summary><p lang="en"><b>Version 143 (2023, Sunday, March 19th at 1:23 pm PST)</b></p></summary>
 
@@ -6120,7 +6123,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 143
 
-</details>
+</details> <!-- V143 !-->
 
 <details><summary><p lang="en"><b>Version 144 (2023, Monday, March 20th at 4:14 pm PST)</b></p></summary>
 
@@ -6135,7 +6138,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 144
 
-</details>
+</details> <!-- V144 !-->
 
 <details><summary><p lang="en"><b>Version 145 (2023, Tuesday, March 21st at 8:59 pm PST)</b></p></summary>
 
@@ -6150,7 +6153,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 145
 
-</details>
+</details> <!-- V145 !-->
 
 <details><summary><p lang="en"><b>Version 146 (2023, Wednesday, March 22nd at 4:07 pm PST)</b></p></summary>
 
@@ -6165,7 +6168,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 146
 
-</details>
+</details> <!-- V146 !-->
 
 <details><summary><p lang="en"><b>Version 147 (2023, Thursday, March 23rd at 5:12 pm PST)</b></p></summary>
 
@@ -6180,7 +6183,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 147
 
-</details>
+</details> <!-- V147 !-->
 
 <details><summary><p lang="en"><b>Version 148 (2023, Friday, March 24th at 3:40 pm PST)</b></p></summary>
 
@@ -6195,7 +6198,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 148
 
-</details>
+</details> <!-- V148 !-->
 
 <details><summary><p lang="en"><b>Version 149 (2023, Saturday, March 25th at 5:00 pm PST)</b></p></summary>
 
@@ -6210,7 +6213,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 149
 
-</details>
+</details> <!-- V149 !-->
 
 <details><summary><p lang="en"><b>Version 150 (2023, Sunday, March 26th at 5:59 pm PST)</b></p></summary>
 
@@ -6225,7 +6228,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 150
 
-</details>
+</details> <!-- V150 !-->
 
 <details><summary><p lang="en"><b>Version 151 (2023, Monday, March 27th at 3:21 pm PST)</b></p></summary>
 
@@ -6240,7 +6243,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 151
 
-</details>
+</details> <!-- V151 !-->
 
 <details><summary><p lang="en"><b>Version 152 (2023, Tuesday, March 28th at 12:52 pm PST)</b></p></summary>
 
@@ -6255,7 +6258,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 152
 
-</details>
+</details> <!-- V152 !-->
 
 <details><summary><p lang="en"><b>Version 153 (2023, Wednesday, March 29th at 11:35 am PST)</b></p></summary>
 
@@ -6270,7 +6273,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 153
 
-</details>
+</details> <!-- V153 !-->
 
 <details><summary><p lang="en"><b>Version 154 (2023, Thursday, March 30th at 7:13 pm PST)</b></p></summary>
 
@@ -6285,7 +6288,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 154
 
-</details>
+</details> <!-- V154 !-->
 
 <details><summary><p lang="en"><b>Version 155 (2023, Friday, March 31st at 5:25 pm PST)</b></p></summary>
 
@@ -6300,7 +6303,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 155
 
-</details>
+</details> <!-- V155 !-->
 
 <details><summary><p lang="en"><b>Version 156 (2023, Saturday, April 1st at 5:44 pm PST)</b></p></summary>
 
@@ -6315,7 +6318,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 156
 
-</details>
+</details> <!-- V156 !-->
 
 <details><summary><p lang="en"><b>Version 157 (2023, Sunday, April 2nd at 2:05 pm PST)</b></p></summary>
 
@@ -6330,7 +6333,7 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [x] Updated the changelog
 - [ ] No other changes in version 157
 
-</details>
+</details> <!-- V157 !-->
 
 <details><summary><p lang="en"><b>Version 158 (2023, Monday, April 3rd at 5:55 pm PST)</b></p></summary>
 
@@ -6361,6 +6364,22 @@ After 3,330 days, it is still Ukraine. Slava Ukraini! [Calculation source](https
 - [ ] No other changes in version 159
 
 </details> <!-- V159 !-->
+
+<details><summary><p lang="en"><b>Version 160 (2023, Wednesday, April 5th at 2:32 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] **Developer** Added source comment notes for all dropdowns in the changelog, so that reading and navigating the source code is easier (it previously only applied to V158 and V159)
+- [x] Updated the main list to include an entry for 2023, April 5th (day 178)
+- [x] Updated the list of all days of the war since the 2022 Invasion (406 days)
+- [x] Updated the list of all days of the war (3,331 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 160
+
+</details> <!-- V160 !-->
 
 </details>
 
