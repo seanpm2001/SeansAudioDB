@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Elton-John_Rocket-Man/AudioOnly/M4A/Elton%20John%20-%20Rocket%20Man%20(Royal%20Festival%20Hall,%20London%201972)%20[r_QZe8Z66x8].m4a</location>
+			<duration>264778</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rainbow%20Tylenol%20Remixes/AudioOnly/MP3/Bonetrousle%20Rainbow%20Tylenol.mp3</location>
+			<duration>64993</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rainbow%20Tylenol%20Remixes/AudioOnly/MP3/Super%20Mario%20Tylenol.mp3</location>
+			<duration>111125</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rainbow%20Tylenol%20Remixes/AudioOnly/MP3/Worlds%20smallest%20Rainbow%20Tylenol.mp3</location>
+			<duration>120974</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rainbow%20Tylenol%20Remixes/AudioOnly/MP3/rainbow%20trololo.mp3</location>
+			<duration>113790</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rainbow%20Tylenol%20Remixes/AudioOnly/MP3/AGK%20Tylenol.mp3</location>
+			<duration>112249</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!CommunistAnthems/Compilation/AudioOnly/M4A/National%20Anthems%20of%20all%20Communist%20Countries%20(Instrumental)%20[B-vdp422BPE].m4a</location>
+			<duration>3623916</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

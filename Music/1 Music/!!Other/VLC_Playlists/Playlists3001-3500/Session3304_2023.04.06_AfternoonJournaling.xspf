@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Scatmans%20World/MP3/Scatmans_World.mp3</location>
+			<title>Scatmans_World.mp3</title>
+			<creator>&quot;Scatman&quot; John</creator>
+			<album>Scatmans World</album>
+			<trackNum>1</trackNum>
+			<annotation>Not to be confused with the album of the same name.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/_Scatman_%20John/Scatmans%20World/art.jpg</image>
+			<duration>270116</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/sexy%20saxophone%20song%20(careless%20whisper)/MP3/George-Michael_Careless-Whisper.mp3</location>
+			<title>George-Michael_Careless-Whisper.mp3</title>
+			<creator>George Michael</creator>
+			<album>Careless Whisper</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Careless whisper&quot; by George Michael. Commonly known as &quot;the sexy saxophone song&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/George%20Michael/Careless%20Whisper/art.jpg</image>
+			<duration>301724</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Everytime%20I%20think%20about%20you%20I%20touch%20myself/MP3/Divinyls_I-touch-myself.mp3</location>
+			<title>Divinyls_I-touch-myself.mp3</title>
+			<creator>Divinyls</creator>
+			<album>I touch myself</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I touch myself&quot; by arist Divinyls</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Divinyls/I%20touch%20myself/art.jpg</image>
+			<duration>223147</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Lollipop%20Chainsaw%20-%20You%20Spin%20me%20right%20round/MP3/Lollipop-Chainsaw-OST-You-Spin-Me-Round-(Like-a-Record)-(by-Dead-or-Alive).mp3</location>
+			<title>Lollipop-Chainsaw-OST-You-Spin-Me-Round-(Like-a-Record)-(by-Dead-or-Alive).mp3</title>
+			<creator>Dead or Alive</creator>
+			<album>You spin me right round</album>
+			<trackNum>1</trackNum>
+			<annotation>I originally thought this song was by Lollipop Chainsaw, which I have found isn&#39;t even a band. I still have to keep the wrong name here, as everything was set up this way. I will make a corrected version in the future.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Dead%20or%20Alive/You%20spin%20me%20right%20round/art.jpg</image>
+			<duration>184224</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cotton%20Eye%20Joe/MP3/Cotton-Eye-Joe-Rednex-Remix.mp3</location>
+			<title>Cotton-Eye-Joe-Rednex-Remix.mp3</title>
+			<creator>Rednex</creator>
+			<album>Cotton Eye Joe</album>
+			<trackNum>1</trackNum>
+			<annotation>The popular cover of the song &quot;Cotton eye joe&quot; by the Swedish band &quot;Rednex&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rednex/Cotton%20Eye%20Joe/art.jpg</image>
+			<duration>188195</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Slava_Ukraini!/AudioOnly/MP3/Slava_Ukraini!.mp3</location>
+			<title>Slava_Ukraini!.mp3</title>
+			<creator>Marcus Paus</creator>
+			<album>«Слава Україні!» Slava Ukraini!</album>
+			<trackNum>1</trackNum>
+			<annotation>Slava Ukraini!
+Glory to Ukraine!
+Слава Україні!
+
+This song was composed by Marcus Paus as a composition of the Norwegian Armed Forces and is an ode to the ongoing 2022 Russian Invasion of Ukraine</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Marcus%20Paus/%C2%AB%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%21%C2%BB%20Slava%20Ukraini%21/art.jpg</image>
+			<duration>261861</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
