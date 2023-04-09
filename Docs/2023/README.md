@@ -26,7 +26,7 @@ These are my announcements, blog entries, and questions regarding the usage and 
 
 ### April
 
-- Coming soon
+- [[2023.04.09] Kernel Panic Two](/Docs/2023/Kernel-Panic-Two/04_April/09/)
 
 ### May
 
@@ -62,6 +62,6 @@ These are my announcements, blog entries, and questions regarding the usage and 
 
 ***
 
-**File version:** `2 (2023, Sunday, March 26th at 6:56 pm PST)`
+**File version:** `3 (2023, Sunday, April 9th at 4:38 pm PST)`
 
 ***
