@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!CommunistAnthems/Compilation/AudioOnly/M4A/National%20Anthems%20of%20all%20Communist%20Countries%20(Instrumental)%20[B-vdp422BPE].m4a</location>
+			<duration>3623916</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Godzilab%20Series/iBlast%20Moki/Raw%20Audio/Romain%20Gauthier%20-%20iBlast%20Moki%20-%20Extended%20Title%20(2009).mp3</location>
+			<title>iBlast Moki - Extended Title (2009)</title>
+			<creator>Romain Gauthier</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>7</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20Gauthier/iBlast%20Moki%202/art.jpg</image>
+			<duration>164649</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Polish%20Cow/MP3/Polish-Cow.mp3</location>
+			<title>Polish-Cow.mp3</title>
+			<creator>Lipps Inc.</creator>
+			<album>How long (Ace)</album>
+			<trackNum>1</trackNum>
+			<annotation>The origins of this song go a lot deeper than I expected. The song was originally a 1974 song by the artist Ace, which had a Polish cover in 1980 by Lipps Inc.. It wasn&#39;t until 2020 that it was inserted over a GIF of a dancing cow, spawning the Polish cow meme.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lipps%20Inc./How%20long%20%28Ace%29/art.jpg</image>
+			<duration>243262</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
