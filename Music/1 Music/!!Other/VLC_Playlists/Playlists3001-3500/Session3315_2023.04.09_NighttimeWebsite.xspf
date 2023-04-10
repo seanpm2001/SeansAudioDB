@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/Sanslovania%20-%20A%20Megalovania%20Cover%20Using%20Only%20Sans.mp3</location>
+			<duration>270082</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/Japantale%20-%20Waterfall%20-%20480p.mp3</location>
+			<duration>128418</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/Megabongvania%20Big%20Ben%20plays%20Megalovania%20from%20Undertale%20one%20more%20time.mp3</location>
+			<duration>205271</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/JAPANLOVANIA%202%20-%20480p.mp3</location>
+			<duration>170189</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/MegalOH%20MY%20GODvania.mp3</location>
+			<duration>151904</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/MeGaLoVania%20(Touhou%20Soundfont).mp3</location>
+			<duration>162247</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/MegalOH%20MY%20GODvania.mp3</location>
+			<duration>151903</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/K.K.%20Slider%20-%20Megalovania.mp3</location>
+			<duration>165486</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/MEGALOVANIA%20but%20it%20sounds%20like%20Super%20Mario%2064.mp3</location>
+			<duration>166531</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/%E2%99%AB%20Undertale%20-%20Megalovania%20-%20Minecraft%20Note%20block%20song%20!.mp3</location>
+			<duration>155246</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/Why%20(remastered)%20-%20YouTube.mp3</location>
+			<duration>240406</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/Kaizo%20Sonic%20Genesis%20Series%20OST%20-%20MegaLOVAnia(Genesis%20Ver.).mp3</location>
+			<duration>325618</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+	</extension>
+</playlist>

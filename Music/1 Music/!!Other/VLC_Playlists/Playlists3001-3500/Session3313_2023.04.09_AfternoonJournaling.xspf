@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/Disbelief%20Papyrus%20phase%201%20theme%20-%20Interstellar%20Retribution.mp3</location>
+			<duration>192523</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/Disbelief%20Papyrus%20phase%202%20theme%20-%20Megalo%20Strike%20Back.mp3</location>
+			<duration>184530</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/AudioOnly/MP3/Disbelief%20Papyrus%20phase%203%20theme%20-%20Backbone.mp3</location>
+			<duration>378543</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Schtiffles/MP3/Ghost-house-Schtiffles-good-version.mp3</location>
+			<title>Ghost-house-Schtiffles-good-version.mp3</title>
+			<creator>Schtiffles (via Newgrounds)</creator>
+			<album>Ghost House</album>
+			<trackNum>1</trackNum>
+			<annotation>A cool song from Newgrounds that is commonly used on some YouTube videos due to it being royalty-free.
+The album art is a fanart piece of the ghost from Undertale (which is named Napstablook)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Schtiffles%20%28via%20Newgrounds%29/Ghost%20House/art.jpg</image>
+			<duration>213064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Scrubs/AudioOnly/MP3/Scrubs%20Theme%20song.mp3</location>
+			<duration>220658</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Superman%20theme/MP3/Superman-theme.mp3</location>
+			<title>Superman-theme.mp3</title>
+			<creator>DC Comics</creator>
+			<album>Superman</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the DC comic series character Superman, the classic composition version.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/DC%20Comics/Superman/art.jpg</image>
+			<duration>252901</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
