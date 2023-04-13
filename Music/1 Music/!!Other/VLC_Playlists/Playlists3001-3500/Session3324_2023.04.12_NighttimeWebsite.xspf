@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mega%20Panda%20Theme/MP3/Mega-Panda-Theme-Song-Uncut.mp3</location>
+			<title>Mega-Panda-Theme-Song-Uncut.mp3</title>
+			<creator>NimbleBit</creator>
+			<album>Mega Panda theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song to the game Mega Panda by NimbleBit LLC.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/NimbleBit/Mega%20Panda%20theme%20song/art.png</image>
+			<duration>120590</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Restaurant%20story/MP3/Restaurant-Story-Theme_High-Quality.mp3</location>
+			<title>Restaurant-Story-Theme_High-Quality.mp3</title>
+			<creator>Storm8 / TeamLava</creator>
+			<album>Restaurant Story Theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the mobile video game &quot;Restaurant Story&quot; by the developer Storm8/TeamLava.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Storm8%20_%20TeamLava/Restaurant%20Story%20Theme%20song/art.png</image>
+			<duration>204104</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Audio_Hertz_The-Devils-Piano/AudioOnly/M4A/Audio%20Hertz%20_%20The%20Devil&#39;s%20Piano%20[An4kjnz6d3Q].m4a</location>
+			<duration>160613</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Gay%20Putin/MP3/Vladimir-Putin-I-am-gay-gay-gay-(5-min-original).mp3</location>
+			<title>Vladimir-Putin-I-am-gay-gay-gay-(5-min-original).mp3</title>
+			<creator>Vladimir Putin</creator>
+			<album>Super Gay Putin (extended)</album>
+			<trackNum>1</trackNum>
+			<annotation>A funny meme about Putin that is going to get the KGB to come after me.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Vladimir%20Putin/Super%20Gay%20Putin%20%28extended%29/art.jpg</image>
+			<duration>303213</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Chocolate%20Rain/MP3/Chocolate-Rain.mp3</location>
+			<title>Chocolate-Rain.mp3</title>
+			<creator>Tay Zonday</creator>
+			<album>Chocolate Rain</album>
+			<trackNum>1</trackNum>
+			<annotation>A song by Tay Zonday regarding the abuse caused by racism and anti-semitism.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tay%20Zonday/Chocolate%20Rain/art.jpg</image>
+			<duration>292398</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
