@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sweden%20Anthem/MP3/United_States_Navy_Band_-_Sweden.mp3</location>
+			<title>United_States_Navy_Band_-_Sweden.mp3</title>
+			<creator>United States Navy Band</creator>
+			<album>Sweden National Anthem</album>
+			<trackNum>1</trackNum>
+			<annotation>The anthem of the Kingdom of Sweden, recomposed by the United States Navy.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/United%20States%20Navy%20Band/Sweden%20National%20Anthem/art.png</image>
+			<duration>87571</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rule-Brittania/MP3/Rule-Brittania_Instrumental.mp3</location>
+			<title>Rule-Brittania_Instrumental.mp3</title>
+			<creator>James Thomson</creator>
+			<album>Rule, Brittania!</album>
+			<trackNum>1</trackNum>
+			<annotation>The infamous song Rule Brittania.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/James%20Thomson/Rule%2C%20Brittania%21/art.jpg</image>
+			<duration>132371</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bj%C3%B6rk%20-%20I%20Remember%20You/MP3/Bj%C3%B6rk_I-Remember-You.mp3</location>
+			<title>Björk_I-Remember-You.mp3</title>
+			<creator>Björk</creator>
+			<album>Venus as a Boy (B Side)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I remember you&quot; by the Swedish artist Björk. This is the B-side song for Venus as a Boy.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bj%C3%B6rk/Venus%20as%20a%20Boy%20%28B%20Side%29/art.jpg</image>
+			<duration>253031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Chapter_1/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%201%20OST%20-%2001%20ANOTHER%20HIM.aiff</location>
+			<title>ANOTHER HIM</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>48000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
