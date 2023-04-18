@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Chapter_1/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%201%20OST%20-%2031%20Darkness%20Falls.aiff</location>
+			<title>Darkness Falls</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>31</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>66976</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Songs%20associated%20with%20death%20and%20loss/Conor-and-Jay_Driving-on-Vegas-Road/AudioOnly/M4A/Conor%20&amp;%20Jay%20-%20Driving%20on%20Vegas%20Road%20(ORIGINAL%20FULL%20STUDIO%20VERSION!)%20[lrg1m-B6iXk].m4a</location>
+			<duration>198717</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/Radio_Stations/Rockstar_Radio/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Rockstar%20Radio%20-%20(Old%20Upload)%20[pmGzQGiRuGM].m4a</location>
+			<duration>720283</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/Radio_Stations/Funami_FM/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Funami%20FM%20-%20(Old%20Upload)%20[Ng957KTcNO0].m4a</location>
+			<duration>720423</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/Radio_Stations/Futuro_FM/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Futuro%20FM%20-%20(Old%20Upload)%20[9L19Akxf1eI].m4a</location>
+			<duration>720469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
