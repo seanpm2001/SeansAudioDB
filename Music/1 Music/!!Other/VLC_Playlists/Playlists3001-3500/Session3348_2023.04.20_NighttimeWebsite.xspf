@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Pink%20guy/CLUB_BANGER_3000/AudioOnly/M4A/PINK%20GUY%20-%20CLUB%20BANGER%203000%20[CeYCSiE7dtk].m4a</location>
+			<duration>77323</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Pink%20guy/PINK%20GUY%20-%20HELP%20(128%20%20kbps).mp3</location>
+			<duration>164992</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Head_Radio/Dezma_Life-Is-But-A-Mere-Supply/AudioOnly/M4A/GTA%20III%20-%20Head%20Radio%20%20%EF%BC%8A%EF%BC%8ADezma%20-%20Life%20Is%20But%20A%20Mere%20Supply%EF%BC%8A%EF%BC%8A%20[mcMZyOoN3-0].m4a</location>
+			<duration>157896</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stickman%20Base%20Jumper%20theme%20song/MP3/Stickman-Base-Jumper-theme-song.mp3</location>
+			<title>Stickman-Base-Jumper-theme-song.mp3</title>
+			<creator>Djinnworks</creator>
+			<album>Stickman Base Jumper theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The song used in the Stickman base jumper mobile game.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Djinnworks/Stickman%20Base%20Jumper%20theme%20song/art.png</image>
+			<duration>59332</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bolt%20(Movie)%20OST/AudioOnly/(No%20video)%20I%20Thought%20I%20Lost%20You%20(Soundtrack).webm</location>
+			<duration>216000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bear-hugger-theme/MP3/Punch-Out_Wii_Bear-Hugger-theme.mp3</location>
+			<title>Punch-Out_Wii_Bear-Hugger-theme.mp3</title>
+			<creator>Next Level Games</creator>
+			<album>PunchOut!!! For the Nintendo Wii</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme for fighting Bear Hugger in the Wii version of the video game Punchout.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Next%20Level%20Games/PunchOut%21%21%21%20For%20the%20Nintendo%20Wii/art.jpg</image>
+			<duration>283151</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Pink%20guy/CLUB_BANGER_3000/AudioOnly/M4A/PINK%20GUY%20-%20CLUB%20BANGER%203000%20[CeYCSiE7dtk].m4a</location>
+			<duration>77323</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stanford-Brua/MP3/Norwegian-Folk-Song_Stanford-Brua.mp3</location>
+			<title>Norwegian-Folk-Song_Stanford-Brua.mp3</title>
+			<creator>Norway</creator>
+			<album>Stanford Brua</album>
+			<trackNum>1</trackNum>
+			<annotation>The Norwegian Folk song &quot;Stanford Brua&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Norway/Stanford%20Brua/art.jpg</image>
+			<duration>302011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bag%20Raiders/MP3/BagRaiders-ShootingStars.mp3</location>
+			<title>BagRaiders-ShootingStars.mp3</title>
+			<creator>Bag Raiders</creator>
+			<album>Shooting Stars</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bag%20Raiders/Shooting%20Stars/art.jpg</image>
+			<duration>231611</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
