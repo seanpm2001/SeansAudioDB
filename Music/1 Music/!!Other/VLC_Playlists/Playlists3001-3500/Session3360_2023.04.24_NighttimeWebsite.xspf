@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/remix/Fallen_Down_Remixes/Damn_Daniel/AudioOnly/M4A/damn%20daniel%20fallen%20down%20full%20reprise%20version%20[rcLSsQDze4g].m4a</location>
+			<duration>150814</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Damn_Daniel/Remix/AudioOnly/M4A/damn%20daniel%20(CAASPP%E2%A7%B8SBAC%E2%A7%B8FST%20Test%20Sound)%20[MW6WxAxFFe0].m4a</location>
+			<duration>4343</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/CollegeHumor/CollegeHumor%20Outro%20Beat-Jingle-Song-Music%20(128%20%20kbps).mp3</location>
+			<duration>49711</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/TheLonelyIsland_I&#39;m-on-a-boat/AudioOnly/M4A/The%20Lonely%20Island%20-%20I&#39;m%20On%20A%20Boat%20(Explicit%20Version)%20ft.%20T-Pain%20(Official%20Video)%20[avaSdC0QOUM].m4a</location>
+			<duration>184158</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/TheLonelyIsland_FinestGirl/AudioOnly/M4A/Finest%20Girl%20(Bin%20Laden%20Song)%20-%20Uncensored%20Version%20[Jr9Kaa1sycs].m4a</location>
+			<duration>163771</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/TheLonelyIsland_Jizz-in-my-pants/Uncensored/AudioOnly/M4A/The%20Lonely%20Island%20-%20Jizz%20In%20My%20Pants%20(Official%20Music%20Video)%20[VLnWf1sQkjY].m4a</location>
+			<duration>150373</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/TheLonelyIsland_Jizz-in-my-pants/Censored/AudioOnly/M4A/The%20Lonely%20Island%20-%20J_%20In%20My%20Pants%20[JsSEI2Le-so].m4a</location>
+			<duration>151511</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tchaikovsky/MP3/Tchaikovsky-1812-overture-(with-cannons).mp3</location>
+			<title>Tchaikovsky-1812-overture-(with-cannons).mp3</title>
+			<creator>Pyotr Ilyich Tchaikovsky</creator>
+			<album>1812 Overture</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Pyotr%20Ilyich%20Tchaikovsky/1812%20Overture/art.jpg</image>
+			<duration>908031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
