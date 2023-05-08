@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Back%20in%20Black%20AC-DC/MP3/AC-DC_BackinBlack.mp3</location>
+			<title>AC-DC_BackinBlack.mp3</title>
+			<creator>AC-DC</creator>
+			<album>Back in Black</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/AC-DC/Back%20in%20Black/art.jpg</image>
+			<duration>252117</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Guns%20N&#39;%20Roses/MP3/Guns-N&#39;-Roses_Welcome-to-the-jungle.mp3</location>
+			<title>Guns-N&#39;-Roses_Welcome-to-the-jungle.mp3</title>
+			<creator>Guns N&#39; Roses</creator>
+			<album>Welcome to the jungle</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Welcome to the jungle&quot; by the band Guns N&#39; Roses.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Guns%20N%27%20Roses/Welcome%20to%20the%20jungle/art.jpg</image>
+			<duration>273616</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Samba-de-Janeiro/MP3/Samba-de-Janeiro.mp3</location>
+			<title>Samba-de-Janeiro.mp3</title>
+			<creator>Bellini</creator>
+			<album>Samba de Janeiro</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Samba de Janeiro by German band Bellini.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bellini/Samba%20de%20Janeiro/art.jpg</image>
+			<duration>169178</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/video%20Classica/Kevin%20MacLeod%20-%2003%20-%20Ambler.mp3</location>
+			<title>Ambler</title>
+			<creator>Kevin MacLeod</creator>
+			<album>video Classica</album>
+			<trackNum>3</trackNum>
+			<annotation>ISRC: USUAN1300019</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/video%20Classica/art.jpg</image>
+			<duration>46344</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/video%20Classica/Kevin%20MacLeod%20-%2006%20-%20Jaunty%20Gumption.mp3</location>
+			<title>Jaunty Gumption</title>
+			<creator>Kevin MacLeod</creator>
+			<album>video Classica</album>
+			<trackNum>6</trackNum>
+			<annotation>ISRC: USUAN1300017</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/video%20Classica/art.jpg</image>
+			<duration>118416</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/video%20Classica/Kevin%20MacLeod%20-%2004%20-%20Chee%20Zee%20Caves.mp3</location>
+			<title>Chee Zee Caves</title>
+			<creator>Kevin MacLeod</creator>
+			<album>video Classica</album>
+			<trackNum>4</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/video%20Classica/art.jpg</image>
+			<duration>231787</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/video%20Classica/Kevin%20MacLeod%20-%2010%20-%20Video%20Dungeon%20Boss.mp3</location>
+			<title>Video Dungeon Boss</title>
+			<creator>Kevin MacLeod</creator>
+			<album>video Classica</album>
+			<trackNum>10</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/video%20Classica/art.jpg</image>
+			<duration>134331</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Wonders/Kevin%20MacLeod%20-%2001%20-%20Arcadia.mp3</location>
+			<title>Arcadia</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Wonders</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Wonders/art.jpg</image>
+			<duration>97570</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
