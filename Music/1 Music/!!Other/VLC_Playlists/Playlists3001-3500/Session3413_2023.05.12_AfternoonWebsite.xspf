@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Gas-gas-gas/AudioOnly/M4A/Manuel%20-%20Gas%20Gas%20Gas%20[atuFSv2bLa8].m4a</location>
+			<duration>271837</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rockefeller_Street/Remixes/Nightcore/AudioOnly/M4A/Nightcore%20-%20Rockefeller%20Street%20[hjGZLnja1o8].m4a</location>
+			<duration>147215</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/Calvin-Harris_How-deep-is-your-love/AudioOnly/M4A/NIGHTCORE%20how%20deep%20is%20your%20love%20CALVIN%20HARRIS%20[YuLVaBI-SUM].m4a</location>
+			<duration>179096</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/Everytime-we-touch/AudioOnly/M4A/Nightcore%20-%20Everytime%20We%20Touch%20[uKDuIhNVLyg].m4a</location>
+			<duration>161124</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/Listen-to-your-heart/AudioOnly/M4A/Nightcore%20-%20Listen%20to%20your%20heart%20[ftvWVV4-Ms4].m4a</location>
+			<duration>204081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/Celine-Dion_My-heart-will-go-on/AudioOnly/M4A/Nightcore%20-%20Celine%20Dion%20-%20My%20Heart%20Will%20Go%20On%20[E4ITXOcqT9o].m4a</location>
+			<duration>281960</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
