@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ring%20of%20fire/MP3/Johnny-Cash_Ring-of-fire.mp3</location>
+			<title>Johnny-Cash_Ring-of-fire.mp3</title>
+			<creator>Johnny Cash</creator>
+			<album>Ring of Fire</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;ring of fire&quot; by Johnny Cash.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Johnny%20Cash/Ring%20of%20Fire/art.jpg</image>
+			<duration>163143</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bee%20Gees/Remixes/Nightcore/AudioOnly/M4A/How%20Deep%20Is%20Your%20Love%20-%20Bee%20Gees%20(Nightcore)%20[_kO6SzEqK0g].m4a</location>
+			<duration>217107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bee%20Gees/MP3/Bee-Gees_Stayin-alive.mp3</location>
+			<title>Bee-Gees_Stayin-alive.mp3</title>
+			<creator>Bee Gees</creator>
+			<album>Stayin&#39; Alivw</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Stayin&#39; alive&quot; by Bee Gees. Fun fact: medical classes actually use this song to teach you how to do CPR, as the rhythm of the song is the same as CPR operations. How do I know this? My High School health class did this.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bee%20Gees/Stayin%27%20Alivw/art.jpg</image>
+			<duration>242635</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
