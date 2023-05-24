@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Garden%20Music/Kevin%20MacLeod%20-%2001%20-%20Garden%20Music.mp3</location>
+			<title>Garden Music</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Garden Music</album>
+			<trackNum>1</trackNum>
+			<annotation>USUAN1500081 on Incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Garden%20Music/art.jpg</image>
+			<duration>2477222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!iBlast%20Moki%20series/iBlast%20Moki/Raw%20audio/AIFF/Romain%20G%20-%20iBlast%20Moki%202%20-%2009%20iBlast%20Moki%20-%20Background%20Music%202%20(2009).aiff</location>
+			<title>iBlast Moki - Background Music 2 (2009)</title>
+			<creator>Romain G</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>9</trackNum>
+			<annotation>Visit https://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/iBlast%20Moki%202/art.jpg</image>
+			<duration>213891</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!iBlast%20Moki%20series/iBlast%20Moki/Raw%20audio/AIFF/Romain%20G%20-%20iBlast%20Moki%202%20-%2008%20iBlast%20Moki%20-%20Background%20Music%201%20(2009).aiff</location>
+			<title>iBlast Moki - Background Music 1 (2009)</title>
+			<creator>Romain G</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>8</trackNum>
+			<annotation>Visit https://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20G/iBlast%20Moki%202/art.jpg</image>
+			<duration>246291</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
