@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Macintosh%20Plus%20420/MP3/Macintosh_Plus_420.mp3</location>
+			<title>Macintosh_Plus_420.mp3</title>
+			<creator>Unknown</creator>
+			<album>Macintosh Plus 420</album>
+			<trackNum>1</trackNum>
+			<annotation>Do you understand that it&#39;s all in your head?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown/Macintosh%20Plus%20420/art.jpg</image>
+			<duration>441846</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Break%20my%20stride/MP3/MatthewWilder-BreakMyStride.mp3</location>
+			<title>MatthewWilder-BreakMyStride.mp3</title>
+			<creator>Matthew Wilder</creator>
+			<album>Break my Stride</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Matthew%20Wilder/Break%20my%20Stride/art.jpg</image>
+			<duration>186027</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/midnight%20north%20jazz%20space.slash.house/MP3/Midnight-North_This-is-a-jazz-space.mp3</location>
+			<title>Midnight-North_This-is-a-jazz-space.mp3</title>
+			<creator>Midnight North</creator>
+			<album>This is a Jazz space</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;This is a jazz space&quot; by the band &quot;Midnight North&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Midnight%20North/This%20is%20a%20Jazz%20space/art.jpg</image>
+			<duration>158389</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Dutch-Windmills/MP3/Traditional-Dutch-Music_Dutch-Windmills.mp3</location>
+			<title>Traditional-Dutch-Music_Dutch-Windmills.mp3</title>
+			<creator>Netherlands</creator>
+			<album>Dutch Windmills</album>
+			<trackNum>1</trackNum>
+			<annotation>The traditional Dutch Windmills song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Netherlands/Dutch%20Windmills/art.jpg</image>
+			<duration>189501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/We%20are%20number%20one/MP3/Lazy-Town_We-are-Number-One_BringBackMLG-Edition.mp3</location>
+			<title>Lazy-Town_We-are-Number-One_BringBackMLG-Edition.mp3</title>
+			<creator>Lazy Town</creator>
+			<album>We are number one (remixes)</album>
+			<trackNum>1</trackNum>
+			<annotation>A remix of the Lazy Town song &quot;we are number one&quot; with MLG styling.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lazy%20Town/We%20are%20number%20one%20%28remixes%29/art.jpg</image>
+			<duration>146634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

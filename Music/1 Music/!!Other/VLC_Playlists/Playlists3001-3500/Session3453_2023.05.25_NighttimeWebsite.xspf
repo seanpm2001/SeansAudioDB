@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/We%20are%20number%20one/MP3/Lazy-Town_We-are-Number-One_BringBackMLG-Edition.mp3</location>
+			<title>Lazy-Town_We-are-Number-One_BringBackMLG-Edition.mp3</title>
+			<creator>Lazy Town</creator>
+			<album>We are number one (remixes)</album>
+			<trackNum>1</trackNum>
+			<annotation>A remix of the Lazy Town song &quot;we are number one&quot; with MLG styling.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lazy%20Town/We%20are%20number%20one%20%28remixes%29/art.jpg</image>
+			<duration>146634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/We%20are%20number%20one/MP3/We-Are-Number-One-but-it&#39;s-Linkin-Park-(We-Are-Numb).mp3</location>
+			<title>We-Are-Number-One-but-it&#39;s-Linkin-Park-(We-Are-Numb).mp3</title>
+			<creator>Lazy Town / Linkin Park</creator>
+			<album>We are number one (remixes)</album>
+			<trackNum>1</trackNum>
+			<annotation>A remix of the song &quot;we are number one&quot; in the style of the Linkin Park song &quot;Numb&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lazy%20Town%20_%20Linkin%20Park/We%20are%20number%20one%20%28remixes%29/art.jpg</image>
+			<duration>123986</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Torn/AudioOnly/MP3/Natalie%20Imbruglia%20-%20Torn%20(Official%20Video)-VV1XWJN3nJo.mp3</location>
+			<duration>245840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nokia%20ringtones/Arabic/(No%20video)%20Nokia%20Arabic%20Ringtone%201%20hour.m4a</location>
+			<duration>3852863</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/Rockefeller-street/AudioOnly/M4A/Nightcore%20-%20Rockefeller%20Street%20[hjGZLnja1o8].m4a</location>
+			<duration>147215</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
