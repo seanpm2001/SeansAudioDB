@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Heartbeat-Song/AudioOnly/M4A/[HD]%20Nightcore%20-%20Heartbeat%20Song%20[fXRXLSIYiQc].m4a</location>
+			<duration>167091</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/On-top-of-the-world/AudioOnly/M4A/[HD]%20Nightcore%20-%20On%20top%20of%20the%20world%20[w-oK2ocJxEY].m4a</location>
+			<duration>179932</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Yume-no-tobira/AudioOnly/M4A/[HD]%20Nightcore%20-%20Yume%20no%20tobira%20[AvSojOOZyDg].m4a</location>
+			<duration>99800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Faded-Love/AudioOnly/M4A/[HD]%20Nightcore%20-%20Faded%20Love%20[eqXS251_MkU].m4a</location>
+			<duration>122904</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Trap-Queen/AudioOnly/M4A/[HD]%20Nightcore%20-%20Trap%20Queen%20[n-VXQ_epDuk].m4a</location>
+			<duration>200133</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Footloose/AudioOnly/M4A/[HD]%20Nightcore%20-%20Footloose%20[XvSW5E8QFfk].m4a</location>
+			<duration>185574</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Footloose/AudioOnly/M4A/[HD]%20Nightcore%20-%20Footloose%20[uDfXUrDfyko].m4a</location>
+			<duration>178817</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Ichiban-no-Takaramono/AudioOnly/M4A/[HD]%20Nightcore%20-%20Ichiban%20no%20Takaramono%20[Cio2G7T9jGg].m4a</location>
+			<duration>308733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
