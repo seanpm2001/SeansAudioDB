@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Game%20Dev%20Story%20Tycoon%20OST/MP3/Game-Dev-Story-Tycoon-OST_Working-hard-song-1.mp3</location>
+			<title>Game-Dev-Story-Tycoon-OST_Working-hard-song-1.mp3</title>
+			<creator>Kairosoft (カイロソフト - Kairo sofuto)</creator>
+			<album>Game Dev Story Tycoon soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>The first ingame song for the game &quot;Game Dev Story Tycoon&quot; by Japanese developer Kairosoft.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kairosoft%20%28%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%20-%20Kairo%20sofuto%29/Game%20Dev%20Story%20Tycoon%20soundtrack/art.jpg</image>
+			<duration>60717</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Zombie%20takeover%20OST/MP3/ZombieTakeoverTrailer.mp3</location>
+			<title>ZombieTakeoverTrailer.mp3</title>
+			<creator>Pocket Gems</creator>
+			<album>Zombie Takeover Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The trailer for the Pocket Gems game Zombie Takeover. Some splicing and editing is needed to separate a chunk of the music from the soundtrack, the rest can be cut out.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Pocket%20Gems/Zombie%20Takeover%20Soundtrack/art.jpg</image>
+			<duration>174742</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Space%20Oddity/MP3/David-Bowie_Space-Oddity.mp3</location>
+			<title>David-Bowie_Space-Oddity.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Space Oddity</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Space Oddity&quot; by David Bowie.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Space%20Oddity/art.jpg</image>
+			<duration>304937</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Latinesque/Kevin%20MacLeod%20-%2001%20-%20As%20I%20Figure.mp3</location>
+			<title>As I Figure</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Latinesque</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Latinesque/art.jpg</image>
+			<duration>216843</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Latinesque/Kevin%20MacLeod%20-%2007%20-%20Guiton%20Sketch.mp3</location>
+			<title>Guiton Sketch</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Latinesque</album>
+			<trackNum>7</trackNum>
+			<annotation> 0000007D 000000C2 00001588 0000122B 00004063 00004063 00007F96 00007FD5 00004253 00002129</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Latinesque/art.jpg</image>
+			<duration>34040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Latinesque/Kevin%20MacLeod%20-%2005%20-%20Chee%20Zee%20Beach.mp3</location>
+			<title>Chee Zee Beach</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Latinesque</album>
+			<trackNum>5</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Latinesque/art.jpg</image>
+			<duration>203366</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Latinesque/Kevin%20MacLeod%20-%2012%20-%20No%20Frills%20Salsa.mp3</location>
+			<title>No Frills Salsa</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Latinesque</album>
+			<trackNum>12</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Latinesque/art.jpg</image>
+			<duration>167242</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Latinesque/Kevin%20MacLeod%20-%2014%20-%20Peppy%20Pepe.mp3</location>
+			<title>Peppy Pepe</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Latinesque</album>
+			<trackNum>14</trackNum>
+			<annotation>980a5c31-e6d3-4b3b-8627-b0c1bf36c123</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Latinesque/art.jpg</image>
+			<duration>158777</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
