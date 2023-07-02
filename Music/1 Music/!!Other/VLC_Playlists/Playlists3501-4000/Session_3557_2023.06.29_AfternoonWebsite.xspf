@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg</location>
+			<duration>203360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Space%20Oddity/MP3/David-Bowie_Space-Oddity.mp3</location>
+			<title>David-Bowie_Space-Oddity.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Space Oddity</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Space Oddity&quot; by David Bowie.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Space%20Oddity/art.jpg</image>
+			<duration>304937</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Scatman%20John/MP3/Scatman_ski_ba_bop_ba_dop_bop.mp3</location>
+			<title>Scatman_ski_ba_bop_ba_dop_bop.mp3</title>
+			<creator>&quot;Scatman&quot; John</creator>
+			<album>Scatman</album>
+			<trackNum>1</trackNum>
+			<annotation>The song was originally released in 1994, but was re-released in 1995 for his album &quot;Scatmans world&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/_Scatman_%20John/Scatman/art.jpg</image>
+			<duration>210922</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Limp%20Bizkit/MP3/Limp-Biskit_Rolling_Explicit.mp3</location>
+			<title>Limp-Biskit_Rolling_Explicit.mp3</title>
+			<creator>Limp Bizkit</creator>
+			<album>Rolling</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Rolling&quot; by the artist Limp Bizkit.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Limp%20Bizkit/Rolling/art.jpg</image>
+			<duration>216826</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/MenAtWork/MP3/MenAtWork-DownUnder.mp3</location>
+			<title>MenAtWork-DownUnder.mp3</title>
+			<creator>MenAtWork</creator>
+			<album>Land Down Under</album>
+			<trackNum>1</trackNum>
+			<annotation>Down under? More like 6 feet down under. - Engineer (Team Fortress 2)</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/MenAtWork/Land%20Down%20Under/art.jpg</image>
+			<duration>221606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Gangstas%20paradise/MP3/Coolio_Gangsta&#39;s-Paradise.mp3</location>
+			<title>Coolio_Gangsta&#39;s-Paradise.mp3</title>
+			<creator>Coolio</creator>
+			<album>Gangsta&#39;s Paradise</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Gangsta&#39;s Paradise&quot; by rapper Coolio. I prefer Weird Al Yankovics cover, &quot;Amish Paradise&quot;</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Coolio/Gangsta%27s%20Paradise/art.jpg</image>
+			<duration>256114</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
