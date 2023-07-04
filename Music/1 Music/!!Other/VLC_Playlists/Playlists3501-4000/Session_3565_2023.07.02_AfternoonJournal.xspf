@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/All/(No%20video)%20AHA%20-%20Take%20on%20me%20[Bardcore]%20medievel.webm</location>
+			<duration>226060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/All/(No%20video)%20Haddaway%20-%20What%20is%20love%20[bardcore]%20medievel.webm</location>
+			<duration>232080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/All/(No%20video)%20Seinfeld%20theme%20[Bardcore]%20medievel.m4a</location>
+			<duration>47206</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/All/(No%20video)%20Undertale%20-%20Megalovania%20[Bardcore]%20Medieval.webm</location>
+			<duration>163480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/All/(No%20video)%20Pharrell%20Williams%20-%20Happy%20[Bardcore]%20medievel.webm</location>
+			<duration>231120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/All/(No%20video)%20Matthew%20Wilder%20-%20Break%20my%20stride%20[Bardcore]%20medievel.webm</location>
+			<duration>193260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/All/(No%20video)%20Smash%20Mouth%20-%20I&#39;m%20a%20believer%20[Bardcore]%20medievel.m4a</location>
+			<duration>174265</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/All/(No%20video)%20Queen%20-%20We%20will%20rock%20you%20[bardcore]%20medievel.webm</location>
+			<duration>120441</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bardcore/AudioOnly/All/(No%20video)%20Billie%20Eilish%20-%20Bad%20guy%20[bardcore]%20medievel.webm</location>
+			<duration>166600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Bakery%20Story/MP3/BakeryStoryTheme.mp3</location>
+			<title>BakeryStoryTheme.mp3</title>
+			<creator>Storm8 / TeamLava</creator>
+			<album>Bakery Story theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>A full quality version of the theme song for the mobile game, Bakery Story.</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Storm8%20_%20TeamLava/Bakery%20Story%20theme%20song/art.jpg</image>
+			<duration>189971</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
