@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Silent%20Film-%20Light%20Collection/Kevin%20MacLeod%20-%2009%20-%20Gold%20Rush.mp3</location>
+			<title>Gold Rush</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Silent Film: Light Collection</album>
+			<trackNum>9</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Silent%20Film_%20Light%20Collection/art.jpg</image>
+			<duration>47835</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Silent%20Film-%20Light%20Collection/Kevin%20MacLeod%20-%2010%20-%20Hammock%20Fight.mp3</location>
+			<title>Hammock Fight</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Silent Film: Light Collection</album>
+			<trackNum>10</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Silent%20Film_%20Light%20Collection/art.jpg</image>
+			<duration>41667</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Silent%20Film-%20Light%20Collection/Kevin%20MacLeod%20-%2011%20-%20Hand%20Trolley.mp3</location>
+			<title>Hand Trolley</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Silent Film: Light Collection</album>
+			<trackNum>11</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Silent%20Film_%20Light%20Collection/art.jpg</image>
+			<duration>95187</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Silent%20Film-%20Light%20Collection/Kevin%20MacLeod%20-%2012%20-%20Heroic%20Reception.mp3</location>
+			<title>Heroic Reception</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Silent Film: Light Collection</album>
+			<trackNum>12</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Silent%20Film_%20Light%20Collection/art.jpg</image>
+			<duration>25515</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Silent%20Film-%20Light%20Collection/Kevin%20MacLeod%20-%2013%20-%20Hyperfun.mp3</location>
+			<title>Hyperfun</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Silent Film: Light Collection</album>
+			<trackNum>13</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Silent%20Film_%20Light%20Collection/art.jpg</image>
+			<duration>233329</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Silent%20Film-%20Light%20Collection/Kevin%20MacLeod%20-%2014%20-%20Look%20Busy.mp3</location>
+			<title>Look Busy</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Silent Film: Light Collection</album>
+			<trackNum>14</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Silent%20Film_%20Light%20Collection/art.jpg</image>
+			<duration>107451</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Silent%20Film-%20Light%20Collection/Kevin%20MacLeod%20-%2015%20-%20Merry%20Go.mp3</location>
+			<title>Merry Go</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Silent Film: Light Collection</album>
+			<trackNum>15</trackNum>
+			<annotation> 0000023E 00000411 000028C6 000047A9 00004168 0000F582 00007703 00007E0A 00003A43 00018F14</annotation>
+			<image>file:///home/sean/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Silent%20Film_%20Light%20Collection/art.jpg</image>
+			<duration>120427</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
