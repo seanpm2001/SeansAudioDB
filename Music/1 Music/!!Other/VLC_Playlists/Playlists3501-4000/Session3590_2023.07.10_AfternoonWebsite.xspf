@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Ichiban-no-Takaramono/AudioOnly/M4A/[HD]%20Nightcore%20-%20Ichiban%20no%20Takaramono%20[Cio2G7T9jGg].m4a</location>
+			<duration>308733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/A-thousand-years/AudioOnly/M4A/[HD]%20Nightcore%20-%20A%20thousand%20years%20[hcKXmriKu08].m4a</location>
+			<duration>250265</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/About-to-go-down/AudioOnly/M4A/[HD]%20Nightcore%20-%20About%20to%20go%20down%20[NCS]%20[69nhi8b0fI0].m4a</location>
+			<duration>173082</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/On-top-of-the-world/AudioOnly/M4A/[HD]%20Nightcore%20-%20On%20top%20of%20the%20world%20[w-oK2ocJxEY].m4a</location>
+			<duration>179932</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/If-I-Didn&#39;t-Have-You/AudioOnly/M4A/[HD]%20Nightcore%20-%20%20If%20I%20Didnt%20Have%20You%20[La3DHSVQyl8].m4a</location>
+			<duration>174057</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Slava_Ukraini!/AudioOnly/MP3/Slava_Ukraini!.mp3</location>
+			<title>Slava_Ukraini!.mp3</title>
+			<creator>Marcus Paus</creator>
+			<album>«Слава Україні!» Slava Ukraini!</album>
+			<trackNum>1</trackNum>
+			<annotation>Slava Ukraini!
+Glory to Ukraine!
+Слава Україні!
+
+This song was composed by Marcus Paus as a composition of the Norwegian Armed Forces and is an ode to the ongoing 2022 Russian Invasion of Ukraine</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Marcus%20Paus/%C2%AB%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%21%C2%BB%20Slava%20Ukraini%21/art.jpg</image>
+			<duration>261861</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Traditional-Turkish-Music/MP3/Traditional-Turkish-Music.mp3</location>
+			<title>Traditional-Turkish-Music.mp3</title>
+			<creator>Unknown</creator>
+			<album>Traditional Turkish Music</album>
+			<trackNum>1</trackNum>
+			<annotation>I cannot get good information on this songs genre, artist, or year.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown/Traditional%20Turkish%20Music/art.jpg</image>
+			<duration>376226</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Conor-and-Jay_Driving-on-Vegas-Road/AudioOnly/M4A/Conor%20&amp;%20Jay%20-%20Driving%20on%20Vegas%20Road%20(ORIGINAL%20FULL%20STUDIO%20VERSION!)%20[lrg1m-B6iXk].m4a</location>
+			<duration>198717</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Theme_Song/AudioOnly/M4A/GTA%20III%20(2001)%20-%20Main%20Theme%20[jjuzjhJQ-IA].m4a</location>
+			<duration>253679</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/MaryDancing_Wash-Him-Off/AudioOnly/M4A/Marydancin%20-%20%EF%BC%82Wash%20Him%20Off%EF%BC%82%20-%20(GTA%20III)%20[eZz2j5zzWaI].m4a</location>
+			<duration>109250</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Mission_Complete/AudioOnly/M4A/Grand%20Theft%20Auto%20III%20-%20Mission%20Complete%20(Looped)%20-%20[PC]%20[GcOU-wv-fig].m4a</location>
+			<duration>927614</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Head_Radio/Dil-Don&#39;t_Stripe-Summer/AudioOnly/M4A/GTA%20III%20-%20Head%20Radio%20%20%EF%BC%8A%EF%BC%8ADil-Don&#39;t%20-%20Stripe%20Summer%EF%BC%8A%EF%BC%8A%20[PuOUV7k72Z8].m4a</location>
+			<duration>163074</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+	</extension>
+</playlist>
