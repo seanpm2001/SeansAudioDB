@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tiny%20Tim/MP3/Tiny-Tim_Dancing-in-the-sunlight.mp3</location>
+			<title>Tiny-Tim_Dancing-in-the-sunlight.mp3</title>
+			<creator>Tiny Tim</creator>
+			<album>Dancing in the sunlight / TipToe through the Tulips</album>
+			<trackNum>1</trackNum>
+			<annotation>A cover of the song &quot;Tiptoe throught the tulips&quot; by Tiny Tim. Notable modern usages of this song include the first episode of SpongeBob.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tiny%20Tim/Dancing%20in%20the%20sunlight%20_%20TipToe%20through%20the%20Tulips/art.jpg</image>
+			<duration>125893</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Panjabi-MC_Mundian-To-Bach-Ke/MP3/Panjabi-MC_Mundian-To-Bach-Ke.mp3</location>
+			<title>Panjabi-MC_Mundian-To-Bach-Ke.mp3</title>
+			<creator>Panjabi MC</creator>
+			<album>Mundian To Bach Ke</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Mundian To Bach Ke&quot; by Punjabi artist Panjabi MC. Produced in Great Britain in 2002 as part of the Bhangra movement of Punjavi speakers in the UK.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Panjabi%20MC/Mundian%20To%20Bach%20Ke/art.jpg</image>
+			<duration>238063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pocket%20Gems%20series/Tap%20Zoo%20OST/AudioOnly/MP3/Tap%20Zoo%20-%20iPhone%20&amp;%20iPad%20Gameplay%20Video.mp3</location>
+			<duration>203103</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pocket%20Gems%20series/Pet%20Hotel%20OST/MP3/Pet_Hotel_Main_Theme.mp3</location>
+			<title>Pet_Hotel_Main_Theme.mp3</title>
+			<creator>Pocket Gems</creator>
+			<album>Tap Pet Hotel OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Pocket%20Gems/Tap%20Pet%20Hotel%20OST/art.jpg</image>
+			<duration>110559</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Konosuba/AudioOnly/Kono-Subarashii-Sekai-ni-Shukufuku-wo-OP-&amp;-End-ALL/M4A/Kono%20Subarashii%20Sekai%20ni%20Shukufuku%20wo%20OP%20&amp;%20End%20ALL%20[jTFdapJ3w4E].m4a</location>
+			<duration>916469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-I-Want-For-Christmas-Is-Collective-Consciousness/AudioOnly/MP3/All%20I%20Want%20For%20Christmas%20Is%20Collective%20Consciousness-vX8auatwCP0.mp3</location>
+			<duration>95086</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Alpha/ALAC/C418%20-%20Minecraft%20-%20Volume%20Alpha%20-%2001%20Key.m4a</location>
+			<title>Key</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Alpha</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/C418/Minecraft%20-%20Volume%20Alpha/art.jpg</image>
+			<duration>65000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Alpha/ALAC/C418%20-%20Minecraft%20-%20Volume%20Alpha%20-%2023%20Droopy%20likes%20ricochet.m4a</location>
+			<title>Droopy likes ricochet</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Alpha</album>
+			<trackNum>23</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/C418/Minecraft%20-%20Volume%20Alpha/art.jpg</image>
+			<duration>96235</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
