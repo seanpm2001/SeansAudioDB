@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Medic%20-%20You&#39;re%20my%20sunshine%20(AI%20COVER)%20[_K0lFjx8Ngg].m4a</location>
+			<duration>81967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Medic%20-%20Viva%20la%20vida%20(AI%20COVER)%20[L7i6CMLW5dE].m4a</location>
+			<duration>240281</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Scout%20and%20Sniper%20-%20Numb%20(AI%20COVER)%20[5vZnzgElAAA].m4a</location>
+			<duration>187502</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
