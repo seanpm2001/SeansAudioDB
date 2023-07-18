@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Eminem/Remixes/Rap-God/AI-Covers/Mr.Krabs/AudioOnly/M4A/Mr%20Krabs%20-%20Rap%20God%20(Ai%20Cover)%20[ACR8PowQ3yo].m4a</location>
+			<duration>365668</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/I&#39;m%20blue/Remixes/TF2_Merceneries/AudioOnly/M4A/The%20TF2%20Mercenaries%20sing%20I&#39;m%20BLU%20(da%20ba%20dee)%20[e2AagFK1P_Q].m4a</location>
+			<duration>223098</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Green%20Day/Boulevard_of_broken_dreams/Remixes/AI_Covers/Wario-and-Waluigi/AudioOnly/M4A/Boulevard%20of%20Broken%20Dreams%20-%20Wario%20&amp;%20Waluigi%20AI%20Cover%20[1o83vgQDcBU].m4a</location>
+			<duration>270629</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Scatman%20John/Remixes/AI_Covers/FNAF_PhoneGuy/AudioOnly/M4A/Phone%20Guy%20sings%20Scatman%20(ski%20ba%20bop%20ba%20dop%20bop)%20by%20Scatman%20John%20(AI%20Cover)%20[20LpO59JCBQ].m4a</location>
+			<duration>222773</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Scatmans%20World/Remixes/AI_Covers/Wario/AudioOnly/M4A/Scatman&#39;s%20World%20but%20it&#39;s%20sung%20by%20Wario%20[AI%20COVER]%20[hVIDuYnEkWs].m4a</location>
+			<duration>358888</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Scatmans%20World/Remixes/AI_Covers/Mr.Krabs/AudioOnly/M4A/Mr.%20Krabs%20Sings%20Scatman&#39;s%20World%20[KZmk16dU6m4].m4a</location>
+			<duration>225304</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rick%20Astley/Remixes/AI_Covers/Eric_Cartman/AudioOnly/M4A/Never%20Gonna%20Give%20You%20Up%20(Eric%20Cartman%20AI%20Cover)%20[zlDnajDvKu4].m4a</location>
+			<duration>213763</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Gangnam%20Style/Remixes/AI_Covers/Minecraft_Villager_and_TF2_Heavy/AudioOnly/M4A/Villager%20x%20Heavy%20TF2%20-%20Gangnam%20Style%20(Heavy%20Village%20Style)%20(AI%20Cover)%20[Kg-3Nc47Ms0].m4a</location>
+			<duration>219847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Gangnam%20Style/Remixes/AI_Covers/Luigi/AudioOnly/M4A/Luigi%20-%20Gangnam%20Style%20(AI%20Cover)%20[y9gL6zUHa9A].m4a</location>
+			<duration>219568</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Soldier%20-%20Rocket%20Man%20(AI%20COVER)%20[El3EJNgNUr0].m4a</location>
+			<duration>282053</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/Ordis%20-%20Don&#39;t%20stop%20me%20now%20(AI%20COVER)%20[whNbuwzyM8o].m4a</location>
+			<duration>212022</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Medic%20-%20Let%20it%20go%20(AI%20COVER)%20[ym9r5VRm2k4].m4a</location>
+			<duration>222378</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/Goku%20-%20My%20heart%20will%20go%20on%20(AI%20COVER)%20[Nf8yGcWw4uQ].m4a</location>
+			<duration>277316</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Adolf_Hitler_AI_Covers/Coldplay/Viva-La-Vida/AudioOnly/M4A/Adolf%20Hitler%20-%20Viva%20La%20Vida%20(AI%20Voice%20Cover)%20[02swIJI9c_M].m4a</location>
+			<duration>253957</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Eminem/Remixes/Rap-God/AI-Covers/Mr.Krabs/AudioOnly/M4A/Mr%20Krabs%20-%20Rap%20God%20(Ai%20Cover)%20[ACR8PowQ3yo].m4a</location>
+			<duration>365668</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Eminem/Remixes/Rap-God/AI-Covers/TF2/Scout/AudioOnly/M4A/[TF2]%20Scout%20-%20Rap%20God%20(FULL%20AI%20COVER)%20[8J-tAuzrzeE].m4a</location>
+			<duration>367131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Eminem/Remixes/Without-me/AI-Covers/TF2/Scout/AudioOnly/M4A/scout%20sings%20without%20me%20(AI%20Cover)%20[_B9-lDVJimk].m4a</location>
+			<duration>291341</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Eminem/Remixes/Without-me/AI-Covers/Mr.Krabs/AudioOnly/M4A/Mr.Krabs%20without%20me%20(ai%20cover)%20[oopi9w_pn6Q].m4a</location>
+			<duration>291156</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
