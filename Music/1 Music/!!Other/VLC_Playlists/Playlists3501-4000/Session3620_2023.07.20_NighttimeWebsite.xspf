@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Demoman%20-%20Tunak%20Tunak%20Tun%20(AI%20COVER)%20[rtT19E_Jn2M].m4a</location>
+			<duration>302882</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Pyro%20-%20Caramelldansen%20(AI%20COVER)%20[zODPy9CDMaQ].m4a</location>
+			<duration>175125</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/Squidward%20Tentacles%20-%20The%20Final%20Countdown%20(AI%20COVER)%20[ZFvY8n5ePH8].m4a</location>
+			<duration>312820</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Demoman%20and%20Medic%20-%20Blow%20me%20away%20(AI%20COVER)%20[dfayUNzIIJ0].m4a</location>
+			<duration>207587</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Queen%20-%20Bohemian%20Rhapsody/Remixes/Bohemian_Squidsody/AudioOnly/M4A/Bohemian%20Squidsody%20[ibIybo7LDVY].m4a</location>
+			<duration>361140</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Queen%20-%20Bohemian%20Rhapsody/Remixes/Bohemiku_Rhapsody/AudioOnly/M4A/Bohemiku%20Rhapsody%20[0pCznUUkY6k].m4a</location>
+			<duration>353640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
