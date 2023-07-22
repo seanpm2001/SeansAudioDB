@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pixar%20series/Up_OST/AudioOnly/M4A/Up%20With%20Titles%20[rPszGZ9GgVQ].m4a</location>
+			<duration>52952</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pixar%20series/Up_OST/AudioOnly/M4A/Kevin%20Beak&#39;n%20[Fgb5HFTISKw].m4a</location>
+			<duration>74059</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pixar%20series/Up_OST/AudioOnly/M4A/The%20Spirit%20of%20Adventure%20[hN5DKM72O_s].m4a</location>
+			<duration>149988</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pixar%20series/Up_OST/AudioOnly/M4A/Paradise%20Found%20[pHmsQtXK_pM].m4a</location>
+			<duration>63564</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pixar%20series/Up_OST/AudioOnly/M4A/Three%20Dog%20Dash%20[3oRQNj6tR2Y].m4a</location>
+			<duration>51118</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pixar%20series/Up_OST/AudioOnly/M4A/Up%20With%20End%20Credits%20[PbDrgwb8WSU].m4a</location>
+			<duration>458953</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pixar%20series/Up_OST/AudioOnly/M4A/The%20Small%20Mailman%20Returns%20[xtI5uonk8cA].m4a</location>
+			<duration>191575</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pixar%20series/Up_OST/AudioOnly/M4A/The%20Nickel%20Tour%20[AXbCtVYvYkY].m4a</location>
+			<duration>52534</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pixar%20series/Up_OST/AudioOnly/M4A/Memories%20Can%20Weigh%20You%20Down%20[RM--9ENP9wA].m4a</location>
+			<duration>82325</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pixar%20series/Up_OST/AudioOnly/M4A/Canine%20Conundrum%20[yzI-I2BOYhk].m4a</location>
+			<duration>123680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pixar%20series/Up_OST/AudioOnly/M4A/He&#39;s%20Got%20the%20Bird%20[vZbeBaPIe0g].m4a</location>
+			<duration>29477</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Pixar%20series/Up_OST/AudioOnly/M4A/The%20Ellie%20Badge%20[Gf_ZNJWgwOM].m4a</location>
+			<duration>90360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+	</extension>
+</playlist>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Queen%20-%20Bohemian%20Rhapsody/Remixes/Bohemian_Squidsody/AudioOnly/M4A/Bohemian%20Squidsody%20[ibIybo7LDVY].m4a</location>
+			<duration>361140</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nirvana%20-%20Smells%20like%20teen%20spirit/Remixes/AI_Covers/Eric_Cartman/AudioOnly/M4A/Eric%20Cartman%20-%20Smells%20Like%20Teen%20Spirit%20(AI%20Cover)%20[p0tlYGFpvSM].m4a</location>
+			<duration>304623</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20Rio%20OST/AudioOnly/MP3/Angry%20Birds%20Rio%20(cutscene%20theme)%20-%20YouTube.mp3</location>
+			<duration>60761</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20Rio%20OST/AudioOnly/MP3/Angry%20birds%20Rio%20main%20theme.mp3</location>
+			<duration>139129</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20Rio%20OST/AudioOnly/MP3/Angry%20birds%20Rio%20main%20theme%202.mp3</location>
+			<duration>128157</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Aladdin_OST/Arabian-Nights/Remixes/AI_Covers/King_Julien/AudioOnly/M4A/King%20Julien%20-%20Arabian%20Nights%20(AI%20Cover)%20[yB85FLq40HM].m4a</location>
+			<duration>191426</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Adventure%20Time%20OST/MP3/Adventure-Time_Island-Song-Outro.mp3</location>
+			<title>Adventure-Time_Island-Song-Outro.mp3</title>
+			<creator>Adventure Time / Cartoon Network</creator>
+			<album>Adventure Time production music</album>
+			<trackNum>2</trackNum>
+			<annotation>The end credits song to the TV show Adventure Time.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Adventure%20Time%20_%20Cartoon%20Network/Adventure%20Time%20production%20music/art.jpg</image>
+			<duration>111055</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Space%20Oddity/MP3/David-Bowie_Space-Oddity.mp3</location>
+			<title>David-Bowie_Space-Oddity.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Space Oddity</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Space Oddity&quot; by David Bowie.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Space%20Oddity/art.jpg</image>
+			<duration>304937</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
