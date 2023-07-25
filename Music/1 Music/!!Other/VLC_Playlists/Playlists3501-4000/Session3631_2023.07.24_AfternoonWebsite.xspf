@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The-Supremes_You-can&#39;t-hurry-love/AudioOnly/M4A/The%20Supremes%20-%20You%20Can&#39;t%20Hurry%20Love%20(Official%20Lyric%20Video)%20[ovoBi3pXD_A].m4a</location>
+			<duration>168299</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Phil%20Collins%20-%20In%20the%20air%20tonight/MP3/Phil-Collins_In-the-air-tonight.mp3</location>
+			<title>Phil-Collins_In-the-air-tonight.mp3</title>
+			<creator>Phil Collins</creator>
+			<album>In the air tonight</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;in the air tonight&quot; by the artist Phil Collins</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Phil%20Collins/In%20the%20air%20tonight/art.jpg</image>
+			<duration>293443</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Lionel-Richie_All-night-long/AudioOnly/M4A/Lionel%20Richie%20-%20All%20Night%20Long%20(All%20Night)%20[nqAvFx3NxUM].m4a</location>
+			<duration>228601</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Yandere%20simulator/MP3/[OLD,%20CHECK%20DESCRIPTION]%20Tsubasa%20wo%20Kudasai%20-%20Instrumental%20(Yandere%20Simulator%20Promo%20Concept).mp3</location>
+			<title>[OLD, CHECK DESCRIPTION] Tsubasa wo Kudasai - Instrumental (Yandere Simulator Promo Concept).mp3</title>
+			<creator>Yandere Dev</creator>
+			<album>Yandere Simulator INDEV OST</album>
+			<trackNum>20</trackNum>
+			<annotation>A piano instrumental version of the Japanese song Tsubasa wo Kudasei (translation: please give me wings) used as the song for the promotional concept of Yandere Simulator.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yandere%20Dev/Yandere%20Simulator%20INDEV%20OST/art.png</image>
+			<duration>243366</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

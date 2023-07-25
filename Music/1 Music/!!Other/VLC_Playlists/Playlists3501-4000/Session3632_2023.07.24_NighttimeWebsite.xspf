@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Yandere%20simulator/MP3/Yandere-Chan&#39;s%20Basement%20-%20Yandere%20Simulator.mp3</location>
+			<title>Yandere-Chan&#39;s Basement - Yandere Simulator.mp3</title>
+			<creator>Yandere Dev</creator>
+			<album>Yandere Simulator INDEV OST</album>
+			<trackNum>3</trackNum>
+			<annotation>The theme song that plays in Yandere Chan&#39;s basement.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yandere%20Dev/Yandere%20Simulator%20INDEV%20OST/art.png</image>
+			<duration>153609</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Yandere%20simulator/MP3/Yandere-Chan&#39;s%20Bedroom%20(Day%20and%20Night%20Mix)%20-%20Yandere%20Simulator.mp3</location>
+			<title>Yandere-Chan&#39;s Bedroom (Day and Night Mix) - Yandere Simulator.mp3</title>
+			<creator>Yandere Dev</creator>
+			<album>Yandere Simulator INDEV OST</album>
+			<trackNum>2</trackNum>
+			<annotation>A mix of the daytime and nighttime themes of Yandere Chan&#39;s bedroom.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yandere%20Dev/Yandere%20Simulator%20INDEV%20OST/art.png</image>
+			<duration>161210</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Yandere%20simulator/MP3/Heavier%20Drums%20Concept%20-%20Yandere%20Simulator.mp3</location>
+			<title>Heavier Drums Concept - Yandere Simulator.mp3</title>
+			<creator>Yandere Dev</creator>
+			<album>Yandere Simulator INDEV OST</album>
+			<trackNum>14</trackNum>
+			<annotation>An alternative version of the murder investigation theme, this time with heavier drums.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yandere%20Dev/Yandere%20Simulator%20INDEV%20OST/art.png</image>
+			<duration>169230</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Yandere%20simulator/MP3/Main%20Menu%20-%20Yandere%20Simulator%20OST.mp3</location>
+			<title>Main Menu - Yandere Simulator OST.mp3</title>
+			<creator>Yandere Dev</creator>
+			<album>Yandere Simulator INDEV OST</album>
+			<trackNum>1</trackNum>
+			<annotation>The title theme song for the video game Yandere Simulator.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yandere%20Dev/Yandere%20Simulator%20INDEV%20OST/art.png</image>
+			<duration>81066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
