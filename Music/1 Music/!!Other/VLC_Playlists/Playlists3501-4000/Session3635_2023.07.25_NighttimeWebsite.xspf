@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Leitmotif/Siegfried&#39;s_Horn_Call_E_flat_version_01.wav</location>
+			<duration>12167</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Queen%20-%20Bohemian%20Rhapsody/MP3/Queen_Bohemian-Rhapsody.mp3</location>
+			<title>Queen_Bohemian-Rhapsody.mp3</title>
+			<creator>Queen</creator>
+			<album>Bohemian Rhapsody</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bohemian Rhapsody&quot; by the British band Queen. It is one of their best songs, and it also can work well as a speaker test.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/Bohemian%20Rhapsody/art.jpg</image>
+			<duration>354831</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Thats%20amore/MP3/Dean-Martin_That&#39;s-Amore.mp3</location>
+			<title>Dean-Martin_That&#39;s-Amore.mp3</title>
+			<creator>Dean Martin</creator>
+			<album>That&#39;s Amore</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;That&#39;s Amore&quot; from the artist Dean Martin, although it was composed and written by composer Harry Warren and lyricist Jack Brooks originally.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Dean%20Martin/That%27s%20Amore/art.jpg</image>
+			<duration>186967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/Shrek%202%20Soundtrack%20%20%201.%20Counting%20Crows%20-%20Accidentally%20in%20Love-IcD4gx6c8pI.mp3</location>
+			<duration>188422</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/05%20-%20Fionas%20Room-49t3g9csf5M.mp3</location>
+			<duration>61597</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/Shrek%202%20Soundtrack%20%20%203.%20Butterfly%20Boucher%20&amp;%20David%20Bowie%20-%20Changes-E6xxgNTaiQs.mp3</location>
+			<duration>202110</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/Shrek%202%20Soundtrack%20%20%2013.%20Eddie%20Murphy%20&amp;%20Antonio%20Banderas%20-%20Livin&#39;%20La%20Vida%20Loca-Z5UENeFnI3w.mp3</location>
+			<duration>208902</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/Shrek%202%20Soundtrack%20%20%2010.%20Joseph%20Arthur%20-%20You&#39;re%20So%20True-1cIwzJL84QU.mp3</location>
+			<duration>234842</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/Shrek%202%20Soundtrack%20%20%205.%20Lipps%20Inc%20-%20Funkytown-xrX4gqR2ZQ4.mp3</location>
+			<duration>239596</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
