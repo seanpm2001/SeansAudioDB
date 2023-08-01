@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Coldplay/Viva-la-Viva/Remixes/AI_Covers/TF2/Medic/AudioOnly/M4A/TF2%20Medic%20-%20Viva%20la%20vida%20(AI%20COVER)%20[L7i6CMLW5dE].m4a</location>
+			<duration>240281</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_TeamFortress2/Soldier/Through-the-years/AudioOnly/M4A/TF2%20Soldier%20-%20Through%20the%20years%20(AI%20COVER)%20[UY-DTRqrRJs].m4a</location>
+			<duration>263501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_TeamFortress2/Pyro/Bad-Apple/AudioOnly/M4A/TF2%20Pyro%20-%20Bad%20Apple%20(AI%20COVER)%20[eqzwt0FfYDk].m4a</location>
+			<duration>300490</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_TeamFortress2/Pyro/Caramelldansen/AudioOnly/M4A/TF2%20Pyro%20-%20Caramelldansen%20(AI%20COVER)%20[zODPy9CDMaQ].m4a</location>
+			<duration>175125</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_TeamFortress2/Medic-and-Heavy/Can&#39;t-help-falling-in-love/AudioOnly/M4A/TF2%20Medic%20and%20Heavy%20-%20Can&#39;t%20help%20falling%20in%20love%20(AI%20COVER)%20[Y4ENZrIW8ek].m4a</location>
+			<duration>181302</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_TeamFortress2/Medic-and-Heavy/Mr.-Blue-Sky/AudioOnly/M4A/TF2%20Medic%20and%20Heavy%20-%20Mr%20Blue%20Sky%20(AI%20COVER)%20[wFG_unUfL7Y].m4a</location>
+			<duration>299236</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
