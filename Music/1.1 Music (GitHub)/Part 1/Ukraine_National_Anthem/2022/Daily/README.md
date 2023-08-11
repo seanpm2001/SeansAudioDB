@@ -1,11 +1,14 @@
 
 ***
 
-# Playing the anthem of Ukraine every day until the Russo-Ukrainian war ends
-
-# UA: Виконання гімну України щодня, поки не закінчиться російсько-українська війна
-
-# RU: Играть гимн Украины каждый день, пока не закончится российско-украинская война
+<div align="center">
+    <img alt="Ukraine daily image failed to load. Click/tap here to attempt to view it" src="SeansAudioDB_UkraineDaily_WithWordmark_1024pxIcon_V1_HighCompression.png" width="256" height="256" class="center"/>
+<!-- Old note: SOME MONUMENTAL IMAGE, NOT JUST THE FLAG OF UKRAINE, OR THE COAT OF ARMS OF UKRAINE, BUT A MIXTURE OF THESE INTO SOMETHING GREATER
+SOMETHING GLORIOUS! !-->
+    <H1>Playing the anthem of Ukraine every day until the Russo-Ukrainian war ends</H1>
+    <H1>UA: Виконання гімну України щодня, поки не закінчиться російсько-українська війна</H1>
+    <H1>RU: Играть гимн Украины каждый день, пока не закончится российско-украинская война</H1>
+</div>
 
 > **Warning** **This document was translated into Ukrainian and Russian with Bing Translate, there may be errors.**
 
@@ -377,6 +380,8 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 301: 2023, August 6th
 - [x] 🇺🇦️ Day 302: 2023, August 7th
 - [x] 🇺🇦️ Day 303: 2023, August 8th
+- [x] 🇺🇦️ Day 304: 2023, August 9th
+- [x] 🇺🇦️ Day 305: 2023, August 10th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -917,6 +922,8 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 529, 2023, Sunday, August 6th
 - [x] 🇺🇦️ Day 530, 2023, Monday, August 7th
 - [x] 🇺🇦️ Day 531, 2023, Tuesday, August 8th
+- [x] 🇺🇦️ Day 532, 2023, Wednesday, August 9th
+- [x] 🇺🇦️ Day 533, 2023, Thursday, August 10th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time, which is 10 hours ahead of my time
@@ -4389,12 +4396,14 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3454: 2023, August 6th
 - [x] 🇺🇦️ Day 3455: 2023, August 7th
 - [x] 🇺🇦️ Day 3456: 2023, August 8th
+- [x] 🇺🇦️ Day 3457: 2023, August 9th
+- [x] 🇺🇦️ Day 3458: 2023, August 10th
 
-After 3,456 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+After 3,458 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
 
-UA: після 3,456 днів, це все ще Україна. Слава Україні!
+UA: після 3,458 днів, це все ще Україна. Слава Україні!
 
-RU: Спустя 3,456 дня это все еще Украина. Слава Украине!
+RU: Спустя 3,458 дня это все еще Украина. Слава Украине!
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -4422,15 +4431,15 @@ RU: Спустя 3,456 дня это все еще Украина. Слава У
 
 **RU: Тип файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `279 (2023, Tuesday, August 8th at 07:09 pm PST)`
+**File version:** `280 (2023, Thursday, August 10th at 07:50 pm PST)`
 
 > **Translation not available**
 
-**Line count (including blank lines and compiler line):** `5,675`
+**Line count (including blank lines and compiler line):** `5,704`
 
-**UA: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `5,675`
+**UA: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `5,704`
 
-**RU: Количество строк (включая пустые строки и строку компилятора): `5,675`
+**RU: Количество строк (включая пустые строки и строку компилятора): `5,704`
 
 **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA) / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -5668,6 +5677,26 @@ RU: Спустя 3,456 дня это все еще Украина. Слава У
 - [ ] No other changes in version 279
 
 </details> <!-- V279 !-->
+
+<details><summary><p lang="en"><b>Version 280 (2023, Thursday, August 10th at 07:50 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This file was not updated yesterday due to a lack of time, but I did still listen to the anthem._
+
+> Changes:
+
+- [x] Added a new logo
+- [x] Centered the title section
+- [x] Updated the main list to include an entry for 2023, August 9th (day 304)
+- [x] Updated the main list to include an entry for 2023, August 10th (day 305)
+- [x] Updated the list of all days of the war since the 2022 Invasion (533 days)
+- [x] Updated the list of all days of the war (3,458 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 280
+
+</details> <!-- V280 !-->
 
 </details> <!-- End of file history !-->
 
