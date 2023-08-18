@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-2011/01-jp-palmtree-panic-present.mp3</location>
+			<title>JP Palmtree Panic (Present)</title>
+			<creator>Naofumi Hataya, Masafumi Ogata</creator>
+			<album>Sonic CD (2011)</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Naofumi%20Hataya%2C%20Masafumi%20Ogata/Sonic%20CD%20%282011%29/art.png</image>
+			<duration>229652</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-2011/03-palmtree-panic-past.mp3</location>
+			<title>Palmtree Panic (Past)</title>
+			<creator>Naofumi Hataya, Masafumi Ogata</creator>
+			<album>Sonic CD (2011)</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Naofumi%20Hataya%2C%20Masafumi%20Ogata/Sonic%20CD%20%282011%29/art.png</image>
+			<duration>188482</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-2011/10-collision-chaos-past.mp3</location>
+			<title>Collision Chaos (Past)</title>
+			<creator>Naofumi Hataya, Masafumi Ogata</creator>
+			<album>Sonic CD (2011)</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Naofumi%20Hataya%2C%20Masafumi%20Ogata/Sonic%20CD%20%282011%29/art.png</image>
+			<duration>161367</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-2011/62-jp-game-over.mp3</location>
+			<title>JP Game Over</title>
+			<creator>Naofumi Hataya, Masafumi Ogata</creator>
+			<album>Sonic CD (2011)</album>
+			<trackNum>62</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Naofumi%20Hataya%2C%20Masafumi%20Ogata/Sonic%20CD%20%282011%29/art.png</image>
+			<duration>12024</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-the-complete-soundtrack/1-02%20Sonic%20~%20You%20Can%20Do%20Anything.mp3</location>
+			<title>Sonic ~ You Can Do Anything</title>
+			<creator>Keiko Utoku &amp; Casey Rankin</creator>
+			<album>Sonic CD ~ The Complete Soundtrack 2.0</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Keiko%20Utoku%20%26%20Casey%20Rankin/Sonic%20CD%20~%20The%20Complete%20Soundtrack%202.0/art.png</image>
+			<duration>93831</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charlie-and-the-Chocolate-Factory-2005-Soundtrack/AudioOnly/M4A/Wonka&#39;s%20Welcome%20Song%20[k8R9-AtX_vA].m4a</location>
+			<duration>61404</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Willy-Wonka-and-the-Chocolate-Factory-1971-Soundtrack/AudioOnly/M4A/Pure%20Imagination%20%E2%80%93%C2%A0Willy%20Wonka%20&amp;%20the%20Chocolate%20Factory%20Complete%20Score%20[EiTTpu9CGqc].m4a</location>
+			<duration>253748</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/World%20of%20pure%20imagination/AudioOnly/MP3/pure%20imagination.mp3</location>
+			<duration>199994</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Willy-Wonka-and-the-Chocolate-Factory-1971-Soundtrack/AudioOnly/M4A/Pure%20Imagination%20%E2%80%93%C2%A0Willy%20Wonka%20&amp;%20the%20Chocolate%20Factory%20Complete%20Score%20[EiTTpu9CGqc].m4a</location>
+			<duration>253748</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
