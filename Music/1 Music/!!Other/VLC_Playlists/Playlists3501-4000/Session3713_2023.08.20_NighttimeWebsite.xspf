@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Willy-Wonka-and-the-Chocolate-Factory-1971-Soundtrack/AudioOnly/M4A/Up%20in%20the%20Air%20%E2%80%93%C2%A0Willy%20Wonka%20&amp;%20the%20Chocolate%20Factory%20Complete%20Score%20[P9HaLciYGRU].m4a</location>
+			<duration>158036</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Pink%20guy/AudioOnly/MP3/Thomas%20the%20Frank%20Engine.mp3</location>
+			<duration>180037</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/AudioOnly/MP3/do%20the%20salamander%20song.mp3</location>
+			<duration>137143</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/AudioOnly/MP3/Salamander%20man%20theme.mp3</location>
+			<duration>76748</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/AudioOnly/MP3/Frozen%20Ukelele%20cover.mp3</location>
+			<duration>195266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/AudioOnly/MP3/pink%20guy%20-%20STFU.mp3</location>
+			<duration>224602</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/AudioOnly/MP3/Pink%20Guy%20-%20KYS.mp3</location>
+			<duration>155926</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/AudioOnly/MP3/erecytle%20disfunction%20rap.mp3</location>
+			<duration>97489</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/AudioOnly/MP3/bitches%20ain&#39;t%20shit.mp3</location>
+			<duration>133721</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/AudioOnly/MP3/RIP%20harambe%20tribute%20song.mp3</location>
+			<duration>121940</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/AudioOnly/MP3/Friendzone%20song.mp3</location>
+			<duration>74475</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/AudioOnly/MP3/Weeaboo%20song.mp3</location>
+			<duration>165565</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+	</extension>
+</playlist>

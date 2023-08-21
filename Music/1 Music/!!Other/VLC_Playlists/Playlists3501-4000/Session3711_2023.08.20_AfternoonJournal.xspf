@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2014%20-%20Porch%20Swing%20Days.mp3</location>
+			<title>Porch Swing Days</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>14</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>216291</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2007%20-%20Bicycle.mp3</location>
+			<title>Bicycle</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>7</trackNum>
+			<annotation>Bassman project</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>282413</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2004%20-%20Summer%20Day.mp3</location>
+			<title>Summer Day</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>4</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>198063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2003%20-%20Montauk%20Point.mp3</location>
+			<title>Montauk Point</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>219719</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2005%20-%20Easy%20Lemon.mp3</location>
+			<title>Easy Lemon</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>5</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>126383</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2002%20-%20Despair%20and%20Triumph.mp3</location>
+			<title>Despair and Triumph</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>2</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>285730</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2009%20-%20Blue%20Feather.mp3</location>
+			<title>Blue Feather</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>9</trackNum>
+			<annotation> 00000065 00000060 0000166D 000017CB 00039453 00004134 00007484 00007EC8 0003946D 000394A1</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>278076</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
