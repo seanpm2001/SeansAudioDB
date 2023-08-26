@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_TeamFortress2/Medic/The-Bard&#39;s-Song/AudioOnly/M4A/TF2%20Medic%20-%20The%20Bard&#39;s%20Song%20(AI%20COVER)%20[x6YSdW3CvhY].m4a</location>
+			<duration>208632</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_TeamFortress2/Sniper-and-Administrator/Gotye/Somebody-that-I-used-to-know/AudioOnly/M4A/TF2%20Sniper%20and%20Administrator%20-%20Somebody%20I%20used%20to%20know%20(AI%20COVER)%20[Qdeei62jJyY].m4a</location>
+			<duration>248199</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_TeamFortress2/Demoman/Scotland-the-brave/AudioOnly/M4A/TF2%20Demoman%20-%20Scotland%20The%20Brave%20(AI%20Cover)%20[ruCnMDmluNk].m4a</location>
+			<duration>168136</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Slava_Ukraini!/AudioOnly/MP3/Slava_Ukraini!.mp3</location>
+			<title>Slava_Ukraini!.mp3</title>
+			<creator>Marcus Paus</creator>
+			<album>«Слава Україні!» Slava Ukraini!</album>
+			<trackNum>1</trackNum>
+			<annotation>Slava Ukraini!
+Glory to Ukraine!
+Слава Україні!
+
+This song was composed by Marcus Paus as a composition of the Norwegian Armed Forces and is an ode to the ongoing 2022 Russian Invasion of Ukraine</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Marcus%20Paus/%C2%AB%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%21%C2%BB%20Slava%20Ukraini%21/art.jpg</image>
+			<duration>261861</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg</location>
+			<duration>203360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Slava_Ukraini!/AudioOnly/Viola_Solo/MP3/Marcus_Paus_&#39;Slava%20Ukraini&#39;_for_viola_solo.mp3</location>
+			<title>Marcus_Paus_&#39;Slava Ukraini&#39;_for_viola_solo.mp3</title>
+			<creator>Marcus Paus</creator>
+			<album>Slava Ukraini! Viola solo version</album>
+			<trackNum>1</trackNum>
+			<annotation>A viola solo version of the Marcus Paus song, Slava Ukraini!</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Marcus%20Paus/Slava%20Ukraini%21%20Viola%20solo%20version/art.jpg</image>
+			<duration>263846</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg</location>
+			<duration>203360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Gay%20Putin/MP3/Vladimir-Putin-I-am-gay-gay-gay-(5-min-original).mp3</location>
+			<title>Vladimir-Putin-I-am-gay-gay-gay-(5-min-original).mp3</title>
+			<creator>Vladimir Putin</creator>
+			<album>Super Gay Putin (extended)</album>
+			<trackNum>1</trackNum>
+			<annotation>A funny meme about Putin that is going to get the KGB to come after me.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Vladimir%20Putin/Super%20Gay%20Putin%20%28extended%29/art.jpg</image>
+			<duration>303213</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
