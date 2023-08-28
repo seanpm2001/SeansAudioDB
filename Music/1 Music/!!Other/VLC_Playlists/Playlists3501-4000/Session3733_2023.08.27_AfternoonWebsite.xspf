@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The%20town%20with%20no%20name/Audio/MP3/05.%20Intro%202.mp3</location>
+			<title>Intro 2</title>
+			<creator>The Jester</creator>
+			<album>The Town With No Name Soundtrack</album>
+			<trackNum>5</trackNum>
+			<annotation>ripped by AntiEdgySlav</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Jester/The%20Town%20With%20No%20Name%20Soundtrack/art</image>
+			<duration>64081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The%20town%20with%20no%20name/Audio/MP3/19.%20Animals%20In%20Motion.mp3</location>
+			<title>Animals In Motion</title>
+			<creator>The Jester</creator>
+			<album>The Town With No Name Soundtrack</album>
+			<trackNum>19</trackNum>
+			<annotation>ripped by AntiEdgySlav</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Jester/The%20Town%20With%20No%20Name%20Soundtrack/art</image>
+			<duration>16146</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The%20town%20with%20no%20name/Audio/MP3/18.%20Psycho%20Killer%20Preview.mp3</location>
+			<title>Psycho Killer Preview</title>
+			<creator>The Jester</creator>
+			<album>The Town With No Name Soundtrack</album>
+			<trackNum>18</trackNum>
+			<annotation>ripped by AntiEdgySlav</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Jester/The%20Town%20With%20No%20Name%20Soundtrack/art</image>
+			<duration>250413</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mr.Blue%20Sky/MP3/Mr.BlueSky.mp3</location>
+			<title>Mr.BlueSky.mp3</title>
+			<creator>ELO (Electric Light Orchestra)</creator>
+			<album>Mr. Blue Sky</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/ELO%20%28Electric%20Light%20Orchestra%29/Mr.%20Blue%20Sky/art.jpg</image>
+			<duration>294619</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Heart%20Of%20Courage%20by%20Two%20Steps%20From%20Hell/(NoVideo)HeartOfCourageByTwoStepsFromHell.webm</location>
+			<duration>191040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/iCarly%20OST/(No%20video)%20iCarly%20-%20Miranda%20Cosgrove%20-%20Leave%20it%20all%20to%20me.webm</location>
+			<duration>160020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/99Luftballons/AudioOnly/MP3/99%20Luftballons-TMSlTQmDLx4.mp3</location>
+			<duration>228520</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
