@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Every-time-we-touch/Remixes/Nightcore/AudioOnly/M4A/Nightcore%20-%20Everytime%20We%20Touch%20[uKDuIhNVLyg].m4a</location>
+			<duration>161124</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/El%20Jarabe%20Tapatio-The%20Mexican%20Hat%20Dance/(No%20video)%20El%20Jarabe%20Tapatio-The%20Mexican%20Hat%20Dance.webm</location>
+			<duration>143260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/illuminati%20theme/MP3/IlluminatiTheme.mp3</location>
+			<title>IlluminatiTheme.mp3</title>
+			<creator>X-files</creator>
+			<album>Illuminati theme (meme edition)</album>
+			<trackNum>1</trackNum>
+			<annotation>The meme version of the illuminati theme, from the show &quot;The X-files&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/X-files/Illuminati%20theme%20%28meme%20edition%29/art.png</image>
+			<duration>189998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cxdy_Lint-Roller/AudioOnly/M4A/Cxdy%20-%20Lint%20Roller%20[4gjQbEpU3TE].m4a</location>
+			<duration>168972</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Audio_Hertz/AudioOnly/M4A/Audio%20Hertz%20_%20The%20Devil&#39;s%20Piano%20[An4kjnz6d3Q].m4a</location>
+			<duration>160613</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Slava_Ukraini!/AudioOnly/MP3/Slava_Ukraini!.mp3</location>
+			<title>Slava_Ukraini!.mp3</title>
+			<creator>Marcus Paus</creator>
+			<album>«Слава Україні!» Slava Ukraini!</album>
+			<trackNum>1</trackNum>
+			<annotation>Slava Ukraini!
+Glory to Ukraine!
+Слава Україні!
+
+This song was composed by Marcus Paus as a composition of the Norwegian Armed Forces and is an ode to the ongoing 2022 Russian Invasion of Ukraine</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Marcus%20Paus/%C2%AB%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%21%C2%BB%20Slava%20Ukraini%21/art.jpg</image>
+			<duration>261861</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Badger%20badger%20badger/MP3/BadgerBadgerBadgerMushroom.mp3</location>
+			<title>BadgerBadgerBadgerMushroom.mp3</title>
+			<creator>Jonti PIcking</creator>
+			<album>Adobe Flash Animation/Badgers (song)</album>
+			<trackNum>1</trackNum>
+			<annotation>The badgers song by Jonti picking, a 2003 flash animation. Badgers Badgers Badgers Badgers Badgers Badgers Badgers Badgers Badgers Badgers Badgers Mushroom Mushroom.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Jonti%20PIcking/Adobe%20Flash%20Animation_Badgers%20%28song%29/art.jpg</image>
+			<duration>174010</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Meme_series/PepsiMan/(NoVideo)PepsiMan.webm</location>
+			<duration>51361</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Meme_series/Bazzi%20-%20Mine%20(You%20so%20precious%20when%20you%20smile)/(No%20video)%20Bazzi%20-%20Mine.webm</location>
+			<duration>130021</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Jizz-in-my-pants/Uncensored/AudioOnly/M4A/The%20Lonely%20Island%20-%20Jizz%20In%20My%20Pants%20(Official%20Music%20Video)%20[VLnWf1sQkjY].m4a</location>
+			<duration>150373</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>

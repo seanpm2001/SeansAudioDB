@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/You-re-a-girl/youre-a-girl.opus</location>
+			<duration>42849</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/You%20are%20an%20idiot/MP3/You-are-an-idiot-remix.mp3</location>
+			<title>You-are-an-idiot-remix.mp3</title>
+			<creator>Unknown</creator>
+			<album>You are an idiot malware (remix)</album>
+			<trackNum>2</trackNum>
+			<annotation>A fancy remix of the malware, although it is in Chinese, so I can&#39;t understand what is being said.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown/You%20are%20an%20idiot%20malware%20%28remix%29/art.png</image>
+			<duration>125579</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/You%20are%20an%20idiot/MP3/You-are-an-idiot-virus.mp3</location>
+			<title>You-are-an-idiot-virus.mp3</title>
+			<creator>Unknown</creator>
+			<album>You are an idiot malware</album>
+			<trackNum>1</trackNum>
+			<annotation>You are an idiot! Ha ha ha ha ha ha ha, ha ha ha ha ha
+You are an idiot! Ha ha ha ha ha ha ha, ha ha ha ha ha
+You are an idiot! Ha ha ha ha ha ha ha, ha ha ha ha ha
+This is the you are an idiot malware, a malicious popup that would duplicate itself with epileptic flashing while calling you an idiot.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown/You%20are%20an%20idiot%20malware/art.png</image>
+			<duration>29004</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Good-Thing/AudioOnly/M4A/Good%20Thing%20[lKdIkqqVJ40].m4a</location>
+			<duration>175019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/French-Accordion-Traditionell-Musette/MP3/French-Accordian-Traditionell-Musette.mp3</location>
+			<title>French-Accordian-Traditionell-Musette.mp3</title>
+			<creator>France</creator>
+			<album>Traditionell Musette</album>
+			<trackNum>1</trackNum>
+			<annotation>The classic theme song of France.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/France/Traditionell%20Musette/art.png</image>
+			<duration>144387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Gus%20Johnson/MP3/Guess-you-could-say.mp3</location>
+			<title>Guess-you-could-say.mp3</title>
+			<creator>Gus Johnson</creator>
+			<album>Guess you could say</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Gus you could say&quot; by YouTuber Gus Johnson</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Gus%20Johnson/Guess%20you%20could%20say/art.jpg</image>
+			<duration>158154</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Gus%20Johnson/MP3/Your-friends-from-High-School-who-fell-for-pyramid-schemes.mp3</location>
+			<title>Your-friends-from-High-School-who-fell-for-pyramid-schemes.mp3</title>
+			<creator>Gus Johnson</creator>
+			<album>Your friends from High School who fell for Pyramid Schemes</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Your friends from High School who fell for Pyramid Schemes&quot; by YouTuber Gus Johnson.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Gus%20Johnson/Your%20friends%20from%20High%20School%20who%20fell%20for%20Pyramid%20Schemes/art.jpg</image>
+			<duration>60325</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
