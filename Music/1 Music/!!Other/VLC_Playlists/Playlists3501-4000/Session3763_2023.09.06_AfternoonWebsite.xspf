@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Groovy/Kevin%20MacLeod%20-%2004%20-%20Corncob.mp3</location>
+			<title>Corncob</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Groovy</album>
+			<trackNum>4</trackNum>
+			<annotation> 0000044F 000004F5 00002476 00002C67 0000BF53 000072CB 00007EBC 000080FE 0000BF6D 0000CA72</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Groovy/art.jpg</image>
+			<duration>53946</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Groovy/Kevin%20MacLeod%20-%2012%20-%20Whiskey%20on%20the%20Mississippi.mp3</location>
+			<title>Whiskey on the Mississippi</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Groovy</album>
+			<trackNum>12</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Groovy/art.jpg</image>
+			<duration>195387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Groovy/Kevin%20MacLeod%20-%2007%20-%20Lobby%20Time.mp3</location>
+			<title>Lobby Time</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Groovy</album>
+			<trackNum>7</trackNum>
+			<annotation>ISRC: USUAN1600054</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Groovy/art.jpg</image>
+			<duration>193205</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Groovy/Kevin%20MacLeod%20-%2001%20-%20Funky%20Chunk.mp3</location>
+			<title>Funky Chunk</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Groovy</album>
+			<trackNum>1</trackNum>
+			<annotation>USUAN1500054 from incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Groovy/art.jpg</image>
+			<duration>239024</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Groovy/Kevin%20MacLeod%20-%2011%20-%20BossaBossa.mp3</location>
+			<title>BossaBossa</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Groovy</album>
+			<trackNum>11</trackNum>
+			<annotation>ISRC: USUAN1600055</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Groovy/art.jpg</image>
+			<duration>167292</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Groovy/Kevin%20MacLeod%20-%2009%20-%20Secret%20of%20Tiki%20Island.mp3</location>
+			<title>Secret of Tiki Island</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Groovy</album>
+			<trackNum>9</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Groovy/art.jpg</image>
+			<duration>196079</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

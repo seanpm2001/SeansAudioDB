@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Supercell%20series/Hay%20Day/AudioOnly/APK_Source/ogg/hayday_ingame_music_03_halloween.ogg</location>
+			<duration>92838</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Supercell%20series/Hay%20Day/AudioOnly/APK_Source/ogg/hayday_train_area_music_02_halloween.ogg</location>
+			<duration>102112</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/AIFF/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2001%20Ki.aiff</location>
+			<title>Ki</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/C418/Minecraft%20-%20Volume%20Beta/art.jpg</image>
+			<duration>92000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
