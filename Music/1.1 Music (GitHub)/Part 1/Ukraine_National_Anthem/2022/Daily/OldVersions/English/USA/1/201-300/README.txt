@@ -403,6 +403,17 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 324: 2023, August 29th
 - [x] 🇺🇦️ Day 325: 2023, August 30th
 - [x] 🇺🇦️ Day 326: 2023, August 31st
+- [x] 🇺🇦️ Day 327: 2023, September 1st
+- [x] 🇺🇦️ Day 328: 2023, September 2nd
+- [x] 🇺🇦️ Day 329: 2023, September 3rd
+- [x] 🇺🇦️ Day 330: 2023, September 4th
+- [x] 🇺🇦️ Day 331: 2023, September 5th
+- [x] 🇺🇦️ Day 332: 2023, September 6th
+- [x] 🇺🇦️ Day 333: 2023, September 7th
+- [x] 🇺🇦️ Day 334: 2023, September 8th
+- [x] 🇺🇦️ Day 335: 2023, September 9th
+- [x] 🇺🇦️ Day 336: 2023, September 10th
+- [x] 🇺🇦️ Day 337: 2023, September 11th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -966,9 +977,20 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 552, 2023, Tuesday, August 29th
 - [x] 🇺🇦️ Day 553, 2023, Wednesday, August 30th
 - [x] 🇺🇦️ Day 554, 2023, Thursday, August 31st
+- [x] 🇺🇦️ Day 555, 2023, Friday, September 1st
+- [x] 🇺🇦️ Day 556, 2023, Saturday, September 2nd
+- [x] 🇺🇦️ Day 557, 2023, Sunday, September 3rd
+- [x] 🇺🇦️ Day 558, 2023, Monday, September 4th
+- [x] 🇺🇦️ Day 559, 2023, Monday, September 5th
+- [x] 🇺🇦️ Day 560, 2023, Monday, September 6th
+- [x] 🇺🇦️ Day 561, 2023, Monday, September 7th
+- [x] 🇺🇦️ Day 562, 2023, Monday, September 8th
+- [x] 🇺🇦️ Day 563, 2023, Monday, September 9th
+- [x] 🇺🇦️ Day 564, 2023, Monday, September 10th
+- [x] 🇺🇦️ Day 565, 2023, Monday, September 11th
 
 <!-- Possible confusion note
-The 1 year anniversary may be 1 day off, because they might report it from Ukraines time, which is 10 hours ahead of my time
+The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
 !-->
 
 <!-- Log
@@ -4461,12 +4483,23 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3477: 2023, August 29th
 - [x] 🇺🇦️ Day 3478: 2023, August 30th
 - [x] 🇺🇦️ Day 3479: 2023, August 31st
+- [x] 🇺🇦️ Day 3480: 2023, September 1st
+- [x] 🇺🇦️ Day 3481: 2023, September 2nd
+- [x] 🇺🇦️ Day 3482: 2023, September 3rd
+- [x] 🇺🇦️ Day 3483: 2023, September 4th
+- [x] 🇺🇦️ Day 3484: 2023, September 5th
+- [x] 🇺🇦️ Day 3485: 2023, September 6th
+- [x] 🇺🇦️ Day 3486: 2023, September 7th
+- [x] 🇺🇦️ Day 3487: 2023, September 8th
+- [x] 🇺🇦️ Day 3488: 2023, September 9th
+- [x] 🇺🇦️ Day 3489: 2023, September 10th
+- [x] 🇺🇦️ Day 3490: 2023, September 11th
 
-After 3,479 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+After 3,490 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
 
-UA: після 3,479 днів, це все ще Україна. Слава Україні!
+UA: після 3,490 днів, це все ще Україна. Слава Україні!
 
-RU: Спустя 3,479 дня это все еще Украина. Слава Украине!
+RU: Спустя 3,490 дня это все еще Украина. Слава Украине!
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -4494,15 +4527,15 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 **RU: Тип файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `299 (2023, Thursday, August 31st at 01:11 pm PST)`
+**File version:** `300 (2023, Monday, September 11th at 04:28 pm PST)`
 
 > **Translation not available**
 
-**Line count (including blank lines and compiler line):** `6,100`
+**Line count (including blank lines and compiler line):** `6,124`
 
-**UA: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `6,100`
+**UA: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `6,124`
 
-**RU: Количество строк (включая пустые строки и строку компилятора): `6,100`
+**RU: Количество строк (включая пустые строки и строку компилятора): `6,124`
 
 **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA) / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -5767,8 +5800,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 11th (day 306)
 - [x] Updated the list of all days of the war since the 2022 Invasion (534 days)
 - [x] Updated the list of all days of the war (3,459 days)
@@ -5784,8 +5815,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 12th (day 307)
 - [x] Updated the list of all days of the war since the 2022 Invasion (535 days)
 - [x] Updated the list of all days of the war (3,460 days)
@@ -5801,8 +5830,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 13th (day 308)
 - [x] Updated the list of all days of the war since the 2022 Invasion (536 days)
 - [x] Updated the list of all days of the war (3,461 days)
@@ -5818,8 +5845,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 14th (day 309)
 - [x] Updated the list of all days of the war since the 2022 Invasion (537 days)
 - [x] Updated the list of all days of the war (3,462 days)
@@ -5835,8 +5860,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 15th (day 310)
 - [x] Updated the list of all days of the war since the 2022 Invasion (538 days)
 - [x] Updated the list of all days of the war (3,463 days)
@@ -5852,8 +5875,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 16th (day 311)
 - [x] Updated the list of all days of the war since the 2022 Invasion (539 days)
 - [x] Updated the list of all days of the war (3,464 days)
@@ -5869,8 +5890,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 17th (day 312)
 - [x] Updated the list of all days of the war since the 2022 Invasion (540 days)
 - [x] Updated the list of all days of the war (3,465 days)
@@ -5886,8 +5905,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 18th (day 313)
 - [x] Updated the list of all days of the war since the 2022 Invasion (541 days)
 - [x] Updated the list of all days of the war (3,466 days)
@@ -5903,8 +5920,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 19th (day 314)
 - [x] Updated the list of all days of the war since the 2022 Invasion (542 days)
 - [x] Updated the list of all days of the war (3,467 days)
@@ -5920,8 +5935,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 20th (day 315)
 - [x] Updated the list of all days of the war since the 2022 Invasion (543 days)
 - [x] Updated the list of all days of the war (3,468 days)
@@ -5937,8 +5950,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 21st (day 316)
 - [x] Updated the list of all days of the war since the 2022 Invasion (544 days)
 - [x] Updated the list of all days of the war (3,469 days)
@@ -5954,8 +5965,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 22nd (day 317)
 - [x] Updated the list of all days of the war since the 2022 Invasion (545 days)
 - [x] Updated the list of all days of the war (3,470 days)
@@ -5971,8 +5980,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 23rd (day 318)
 - [x] Updated the list of all days of the war since the 2022 Invasion (546 days)
 - [x] Updated the list of all days of the war (3,471 days)
@@ -5990,8 +5997,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 24th (day 319)
 - [x] Updated the list of all days of the war since the 2022 Invasion (547 days)
 - [x] Updated the list of all days of the war (3,472 days)
@@ -6007,8 +6012,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 25th (day 320)
 - [x] Updated the list of all days of the war since the 2022 Invasion (548 days)
 - [x] Updated the list of all days of the war (3,473 days)
@@ -6026,8 +6029,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 26th (day 321)
 - [x] Updated the main list to include an entry for 2023, August 27th (day 322)
 - [x] Updated the list of all days of the war since the 2022 Invasion (550 days)
@@ -6044,8 +6045,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 28th (day 323)
 - [x] Updated the list of all days of the war since the 2022 Invasion (551 days)
 - [x] Updated the list of all days of the war (3,476 days)
@@ -6063,8 +6062,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 29th (day 324)
 - [x] Updated the main list to include an entry for 2023, August 30th (day 325)
 - [x] Updated the list of all days of the war since the 2022 Invasion (553 days)
@@ -6083,8 +6080,6 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Added a new logo
-- [x] Centered the title section
 - [x] Updated the main list to include an entry for 2023, August 31st (day 326)
 - [x] Updated the list of all days of the war since the 2022 Invasion (554 days)
 - [x] Updated the list of all days of the war (3,479 days)
@@ -6093,6 +6088,35 @@ RU: Спустя 3,479 дня это все еще Украина. Слава У
 - [ ] No other changes in version 299
 
 </details> <!-- V299 !-->
+
+<details><summary><p lang="en"><b>Version 300 (2023, Monday, September 11th at 04:28 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Updates were skipped for 10 full days (2023, September 1st to 2023, September 10th) due to very poor maintenance of projects, due to procrastination and other issues. I am slowly getting everything back under control. This is the longest my schedule has waned in quite some time, and the longest this document has gone without an update. I have been holding the promise during this time, but the repository wasn't updated again until today. Continuing for 1 consecutive day_
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2023, September 1st (day 327)
+- [x] Updated the main list to include an entry for 2023, September 2nd (day 328)
+- [x] Updated the main list to include an entry for 2023, September 3rd (day 329)
+- [x] Updated the main list to include an entry for 2023, September 4th (day 330)
+- [x] Updated the main list to include an entry for 2023, September 5th (day 331)
+- [x] Updated the main list to include an entry for 2023, September 6th (day 332)
+- [x] Updated the main list to include an entry for 2023, September 7th (day 333)
+- [x] Updated the main list to include an entry for 2023, September 8th (day 334)
+- [x] Updated the main list to include an entry for 2023, September 9th (day 335)
+- [x] Updated the main list to include an entry for 2023, September 10th (day 336)
+- [x] Updated the main list to include an entry for 2023, September 11th (day 337)
+- [x] Updated the list of all days of the war since the 2022 Invasion (565 days)
+- [x] Updated the list of all days of the war (3,490 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 300
+- - [x] Fixed errors in entries for version 281 to 299.
+- [ ] No other changes in version 300
+
+</details> <!-- V300 !-->
 
 </details> <!-- End of file history !-->
 
