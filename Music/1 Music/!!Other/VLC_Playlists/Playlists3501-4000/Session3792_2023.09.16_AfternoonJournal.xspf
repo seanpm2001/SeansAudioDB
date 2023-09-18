@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mykola_Lysenko/The-Dneiper-River-Rages/Mykola_Lysenko_-_The_Dnieper_River_Rages.flac</location>
+			<title>Mykola Lysenko - The Dnieper River Rages (Реве та стогне Дніпр широкий)</title>
+			<creator>Albert Krywolt, Pavlo Hunka</creator>
+			<album>Mykola Lysenko CD1 - Nature</album>
+			<trackNum>6</trackNum>
+			<duration>125240</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/AudioOnly/MP3/pink%20guy%20-%20STFU.mp3</location>
+			<duration>224602</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/AudioOnly/MP3/Pink%20Guy%20-%20KYS.mp3</location>
+			<duration>155926</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/AudioOnly/MP3/y2mate.com%20-%20pink_guy_falcon_punch_gA_8w1dz7r8_1080p.mp3</location>
+			<duration>194613</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/AudioOnly/MP3/Filthy%20Frank%20-%20I%20Am%20Beautiful%20[insecurity%20intensifies].mp3</location>
+			<duration>78446</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mykola_Lysenko/Oriental-Melody/Mykola_Lysenko_-_Oriental_Melody_(%D0%A1%D1%85%D1%96%D0%B4%D0%BD%D0%B0_%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D1%96%D1%8F).flac</location>
+			<title>Mykola Lysenko - Oriental Melody (Східна мелодія)</title>
+			<creator>Albert Krywolt, Krisztina Szabó</creator>
+			<album>Mykola Lysenko CD2 - Love</album>
+			<trackNum>2</trackNum>
+			<duration>249266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mykola_Lysenko/On-a-clear-night/Mykola_Lysenko-%D0%92_%D1%8F%D1%81%D0%BD%D1%83_%D0%BD%D1%96%D1%87.ogg</location>
+			<title>Микола Лисенко, Олександр Кониський — В ясну ніч</title>
+			<creator>Мар&#39;яна Почапська, Ілона Ельтек</creator>
+			<duration>157930</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/WAV/Gudang%20-%20Nostalgi%20Gaius%20-%2007%20Anytime%20you%20want.wav</location>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/WAV/cover.jpg</image>
+			<duration>200404</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/WAV/Gudang%20-%20Nostalgi%20Gaius%20-%2014%20Claudius.wav</location>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Windows96/Albums/NostalgiaGaius/WAV/cover.jpg</image>
+			<duration>127964</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
