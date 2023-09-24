@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SpongeBob/Krusty-Krew/C%C3%A9line-Dion/My-heart-will-go-on/AudioOnly/M4A/%EF%BC%82My%20Heart%20Will%20Go%20On%EF%BC%82%20AI%20Krusty%20Krew%20cover%20[l4-IXmzWKyo].m4a</location>
+			<duration>295126</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SpongeBob/Krusty-Krew/Billy-Joel/We-didn&#39;t-start-the-fire/AudioOnly/M4A/Krusty%20Krew-%20We%20Didn&#39;t%20Start%20The%20Fire%20[hMTt1RGdRS8].m4a</location>
+			<duration>245528</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SpongeBob/Krusty-Krew/George-Michael/Careless-Whisper/AudioOnly/M4A/%EF%BC%82Careless%20Whisper%EF%BC%82%20AI%20Krusty%20Krew%20cover%20-%20feat.%20Mrs.%20Puff%20[NqFk7f_BPRA].m4a</location>
+			<duration>304112</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SpongeBob/Krusty-Krew/Elton-John/Piano-Man/AudioOnly/M4A/%EF%BC%82Piano%20Man%EF%BC%82%20AI%20Krusty%20Krew%20cover%20[FOdTO33ZKVc].m4a</location>
+			<duration>334693</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

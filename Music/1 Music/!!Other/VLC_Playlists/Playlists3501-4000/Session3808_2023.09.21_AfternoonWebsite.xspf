@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Roxette_Listen-to-your-heart/AudioOnly/M4A/Roxette%20-%20Listen%20To%20Your%20Heart%20(Official%20Music%20Video)%20[yCC_b5WHLX0].m4a</location>
+			<duration>303462</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Maggie-Rogers/AudioOnly/M4A/Maggie%20Rogers%20-%20That&#39;s%20Where%20I%20Am%20[WdrNXRdkuG4].m4a</location>
+			<duration>252843</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Flourish%20Windows%207/AudioOnly/MP3/Flourish%20(Made%20Out%20Of%20Windows%207%20Sounds).mp3</location>
+			<duration>178443</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/MenAtWork/MP3/MenAtWork-DownUnder.mp3</location>
+			<title>MenAtWork-DownUnder.mp3</title>
+			<creator>MenAtWork</creator>
+			<album>Land Down Under</album>
+			<trackNum>1</trackNum>
+			<annotation>Down under? More like 6 feet down under. - Engineer (Team Fortress 2)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/MenAtWork/Land%20Down%20Under/art.jpg</image>
+			<duration>221606</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Break%20my%20stride/MP3/MatthewWilder-BreakMyStride.mp3</location>
+			<title>MatthewWilder-BreakMyStride.mp3</title>
+			<creator>Matthew Wilder</creator>
+			<album>Break my Stride</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Matthew%20Wilder/Break%20my%20Stride/art</image>
+			<duration>186027</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-knuckles-original-sound-version-complete/26.%20Death%20Egg%20Zone%201%20(Sonic%203%20&amp;%20Knuckles).mp3</location>
+			<title>Death Egg Zone 1 (Sonic 3 &amp; Knuckles)</title>
+			<creator>VA</creator>
+			<album>Sonic The Hedgehog 3 &amp; Knuckles</album>
+			<trackNum>26</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/VA/Sonic%20The%20Hedgehog%203%20%26%20Knuckles/art.jpg</image>
+			<duration>85969</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-knuckles-original-sound-version-complete/27.%20Death%20Egg%20Zone%202%20(Sonic%203%20&amp;%20Knuckles).mp3</location>
+			<title>Death Egg Zone 2 (Sonic 3 &amp; Knuckles)</title>
+			<creator>VA</creator>
+			<album>Sonic The Hedgehog 3 &amp; Knuckles</album>
+			<trackNum>27</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/VA/Sonic%20The%20Hedgehog%203%20%26%20Knuckles/art.jpg</image>
+			<duration>82233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
