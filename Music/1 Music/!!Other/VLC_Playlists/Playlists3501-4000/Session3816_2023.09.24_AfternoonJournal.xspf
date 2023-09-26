@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Hard%20Electronic/Kevin%20MacLeod%20-%2014%20-%20Pinball%20Spring%20160.mp3</location>
+			<title>Pinball Spring 160</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Hard Electronic</album>
+			<trackNum>14</trackNum>
+			<annotation> 0000069D 000007BF 00003E8B 00004271 00005963 00009FB1 00008E42 00008B7E 00013F63 00013F63</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Hard%20Electronic/art</image>
+			<duration>171079</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Hard%20Electronic/Kevin%20MacLeod%20-%2012%20-%20MTA.mp3</location>
+			<title>MTA</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Hard Electronic</album>
+			<trackNum>12</trackNum>
+			<annotation> 00000607 0000067A 00005298 00005DCA 000111E0 0001D753 00007E86 00007E86 00007692 00003D05</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Hard%20Electronic/art</image>
+			<duration>176904</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Hard%20Electronic/Kevin%20MacLeod%20-%2003%20-%20Club%20Diver.mp3</location>
+			<title>Club Diver</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Hard Electronic</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Hard%20Electronic/art</image>
+			<duration>145688</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Frostbite%20Caves/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Frostbite%20Cave%20Demonstration%20Mini-Game.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Frostbite Cave Demonstration Mini-Game.mp3</title>
+			<creator>PopCap/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Frostbite Cave</album>
+			<trackNum>3</trackNum>
+			<annotation>The Demonstration Minigame theme song for thwe Frostbite Caves stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Frostbite%20Cave/art.png</image>
+			<duration>419903</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Frostbite%20Caves/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Frostbite%20Cave%20Ultimate%20Battle.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Frostbite Cave Ultimate Battle.mp3</title>
+			<creator>PopCap/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Frostbite Cave</album>
+			<trackNum>2</trackNum>
+			<annotation>The Ultimate Battle theme song for the Frostbite Cave stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Frostbite%20Cave/art.png</image>
+			<duration>374450</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Pirate%20Seas/MP3/Plants%20Vs.%20Zombies%202%20Music%20-%20Pirate%20Seas_%20Ultimate%20Battle.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Pirate Seas_ Ultimate Battle.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Pirate Seas</album>
+			<trackNum>3</trackNum>
+			<annotation>The Ultimate Battle theme song for the Pirate Seas stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Pirate%20Seas/art.png</image>
+			<duration>407469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
