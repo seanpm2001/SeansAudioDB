@@ -421,11 +421,13 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 342: 2023, September 16th
 - [x] 🇺🇦️ Day 343: 2023, September 17th
 - [x] 🇺🇦️ Day 344: 2023, September 18th
-- [x] 🇺🇦️ Day 343: 2023, September 19th
-- [x] 🇺🇦️ Day 344: 2023, September 20th
-- [x] 🇺🇦️ Day 345: 2023, September 21st
-- [x] 🇺🇦️ Day 346: 2023, September 22nd
-- [x] 🇺🇦️ Day 347: 2023, September 23rd
+- [x] 🇺🇦️ Day 345: 2023, September 19th
+- [x] 🇺🇦️ Day 346: 2023, September 20th
+- [x] 🇺🇦️ Day 347: 2023, September 21st
+- [x] 🇺🇦️ Day 348: 2023, September 22nd
+- [x] 🇺🇦️ Day 349: 2023, September 23rd
+- [x] 🇺🇦️ Day 350: 2023, September 24th
+- [x] 🇺🇦️ Day 351: 2023, September 25th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -1012,6 +1014,8 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 575, 2023, Thursday, September 21st
 - [x] 🇺🇦️ Day 576, 2023, Friday, September 22nd
 - [x] 🇺🇦️ Day 577, 2023, Saturday, September 23rd
+- [x] 🇺🇦️ Day 578, 2023, Sunday, September 24th
+- [x] 🇺🇦️ Day 579, 2023, Monday, September 25th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -4530,12 +4534,14 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3500: 2023, September 21st
 - [x] 🇺🇦️ Day 3501: 2023, September 22nd
 - [x] 🇺🇦️ Day 3502: 2023, September 23rd
+- [x] 🇺🇦️ Day 3503: 2023, September 24th
+- [x] 🇺🇦️ Day 3504: 2023, September 25th
 
-After 3,502 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+After 3,504 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
 
-UA: після 3,502 днів, це все ще Україна. Слава Україні!
+UA: після 3,504 днів, це все ще Україна. Слава Україні!
 
-RU: Спустя 3,502 дня это все еще Украина. Слава Украине!
+RU: Спустя 3,504 дня это все еще Украина. Слава Украине!
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -4563,15 +4569,15 @@ RU: Спустя 3,502 дня это все еще Украина. Слава У
 
 **RU: Тип файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `310 (2023, Saturday, September 23rd at 11:13 pm PST)`
+**File version:** `311 (2023, Monday, September 25th at 10:13 pm PST)`
 
 > **Translation not available**
 
-**Line count (including blank lines and compiler line):** `4,786`
+**Line count (including blank lines and compiler line):** `4,811`
 
-**UA: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `4,786`
+**UA: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `4,811`
 
-**RU: Количество строк (включая пустые строки и строку компилятора): `4,786`
+**RU: Количество строк (включая пустые строки и строку компилятора): `4,811`
 
 **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA) / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -4779,6 +4785,25 @@ RU: Спустя 3,502 дня это все еще Украина. Слава У
 - [ ] No other changes in version 310
 
 </details> <!-- V310 !-->
+
+<details><summary><p lang="en"><b>Version 311 (2023, Monday, September 25th at 10:13 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This update is coming 1 day late, as I had another difficult day, and had to go to bed early._
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2023, September 24th (day 350)
+- [x] Updated the main list to include an entry for 2023, September 25th (day 351)
+- [x] Updated the list of all days of the war since the 2022 Invasion (579 days)
+- [x] Updated the list of all days of the war (3,504 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 311
+- [ ] No other changes in version 311
+
+</details> <!-- V311 !-->
 
 </details> <!-- End of file history !-->
 
