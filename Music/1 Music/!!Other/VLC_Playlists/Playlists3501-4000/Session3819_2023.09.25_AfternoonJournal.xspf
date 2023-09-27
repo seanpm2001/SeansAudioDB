@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/Shrek%202%20soundtrack%20%20%2011.%20Nick%20Cave%20and%20the%20Bad%20Seeds%20-%20People%20Ain&#39;t%20No%20Good-yozMwpxB6-w.mp3</location>
+			<duration>339986</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/Shrek%202%20Soundtrack%20%20%208.Pete%20Yorn%20-%20Ever%20Fallen%20In%20Love-irebRU5t80A.mp3</location>
+			<duration>152242</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/Shrek%202%20Soundtrack%20%20%201.%20Counting%20Crows%20-%20Accidentally%20in%20Love-IcD4gx6c8pI.mp3</location>
+			<duration>188422</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/Shrek%202%20Soundtrack%20%20%205.%20Lipps%20Inc%20-%20Funkytown-xrX4gqR2ZQ4.mp3</location>
+			<duration>239596</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek%202%20OST/AudioOnly/MP3/Shrek%202%20Soundtrack%20%20%203.%20Butterfly%20Boucher%20&amp;%20David%20Bowie%20-%20Changes-E6xxgNTaiQs.mp3</location>
+			<duration>202110</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Marconi%20Union%20-%20Weightless/MP3/Marconi-Union_Weightless.mp3</location>
+			<title>Marconi-Union_Weightless.mp3</title>
+			<creator>Marconi Union</creator>
+			<album>Weightless</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Weightless&quot; by Marconi Union.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Marconi%20Union/Weightless/art.jpg</image>
+			<duration>488867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Songs%20associated%20with%20death%20and%20loss/Conor-and-Jay_Driving-on-Vegas-Road/AudioOnly/M4A/Conor%20&amp;%20Jay%20-%20Driving%20on%20Vegas%20Road%20(ORIGINAL%20FULL%20STUDIO%20VERSION!)%20[lrg1m-B6iXk].m4a</location>
+			<duration>198717</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
