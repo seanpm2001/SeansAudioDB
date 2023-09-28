@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Konosuba/AudioOnly/Kono-Subarashii-Sekai-ni-Shukufuku-wo-OP-&amp;-End-ALL/M4A/Kono%20Subarashii%20Sekai%20ni%20Shukufuku%20wo%20OP%20&amp;%20End%20ALL%20[jTFdapJ3w4E].m4a</location>
+			<duration>916469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Green%20Day/Boulevard_of_broken_dreams/Remixes/AI_Covers/Wario-and-Waluigi/AudioOnly/M4A/Boulevard%20of%20Broken%20Dreams%20-%20Wario%20&amp;%20Waluigi%20AI%20Cover%20[1o83vgQDcBU].m4a</location>
+			<duration>270629</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Green%20Day/Boulevard_of_broken_dreams/Remixes/AI_Covers/Squidward/AudioOnly/M4A/Squidward%20Sings%EF%BC%9A%20Boulevard%20Of%20Broken%20Dreams%20-%20Green%20Day%20(AI%20Cover)%20[ymGAVpIBAgc].m4a</location>
+			<duration>261155</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Green%20Day/Good-riddence_Time-of-your-life/AudioOnly/MP3/y2mate.com%20-%20good_riddance_time_of_your_life_official_music_video_CnQ8N1KacJc_360p.mp3</location>
+			<duration>151276</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Green%20Day/Boulevard_of_broken_dreams/AudioOnly/MP3/boulevard%20of%20broken%20dreams.mp3</location>
+			<duration>287636</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Passenger-of-Shit_Staple-Tapeworms/Staple-Tapeworms/AudioOnly/M4A/Passenger%20Of%20Shit%20-%20Staple%20Tape%20Worms%20On%20My%20Penis%20%7BLYRICS%7D%20[Wq-MqJvapw4].m4a</location>
+			<duration>207401</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Australian-Traditional-Music-Tribal-War-Didgeridoo/MP3/Australian-Traditional-Music_Tribal-War-Didgeridoo.mp3</location>
+			<title>Australian-Traditional-Music_Tribal-War-Didgeridoo.mp3</title>
+			<creator>Indigenous Australia</creator>
+			<album>Tribal War Didgeridoo</album>
+			<trackNum>1</trackNum>
+			<annotation>A song by an I9ndigenous Australian group. I cannot figure out the language or the year.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Indigenous%20Australia/Tribal%20War%20Didgeridoo/art.jpg</image>
+			<duration>533458</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The%20Office%20OST/The%20Office%20Full%20Theme.mp4</location>
+			<duration>149071</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>

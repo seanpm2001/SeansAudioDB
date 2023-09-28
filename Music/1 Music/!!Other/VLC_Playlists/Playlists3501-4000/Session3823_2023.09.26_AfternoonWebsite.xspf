@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Edge-of-Glory/AudioOnly/M4A/[HD]%20Nightcore%20-%20Edge%20of%20Glory%20[5yerfxEkJAA].m4a</location>
+			<duration>220869</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/About-to-go-down/AudioOnly/M4A/[HD]%20Nightcore%20-%20About%20to%20go%20down%20[NCS]%20[69nhi8b0fI0].m4a</location>
+			<duration>173082</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Footloose,-Trap-Queen,-Baby-One-more-Time,%20Tik-Tok...-[Special]/AudioOnly/M4A/[HD]%20Nightcore%20-%20Footloose,%20Trap%20Queen,%20Baby%20One%20more%20Time,%20Tik%20Tok...%20[Special]%20[CrEEOhKLLW8].m4a</location>
+			<duration>1088854</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/About-you-now/AudioOnly/M4A/[HD]%20Nightcore%20-%20About%20you%20now%20[r7V5YvCFYiw].m4a</location>
+			<duration>177331</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Ghost-Town/AudioOnly/M4A/[HD]%20Nightcore%20-%20Ghost%20Town%20[xx4m-DN59_c].m4a</location>
+			<duration>170017</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/Rockefeller-street/AudioOnly/M4A/Nightcore%20-%20Rockefeller%20Street%20[hjGZLnja1o8].m4a</location>
+			<duration>147215</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
