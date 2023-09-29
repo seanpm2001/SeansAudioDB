@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Lost%20City/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Lost%20City%20Theme.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Lost City Theme.mp3</title>
+			<creator>PopCap/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Lost City</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the Lost City stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Lost%20City/art.png</image>
+			<duration>585991</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Lost%20City/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Lost%20City_%20Demonstration%20Mini-Game.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Lost City_ Demonstration Mini-Game.mp3</title>
+			<creator>PopCap/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Lost City</album>
+			<trackNum>3</trackNum>
+			<annotation>The Demonstration Minigame theme song for the Lost City stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Lost%20City/art.png</image>
+			<duration>394094</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Ancient%20Egypt/MP3/Plants%20Vs.%20Zombies%202%20Music%20-%20Ancient%20Egypt_%20Demonstration%20Mini-Game.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Ancient Egypt_ Demonstration Mini-Game.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Ancient Egypt</album>
+			<trackNum>2</trackNum>
+			<annotation>The demonstration minigame stage theme for the Ancient Egypt stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Ancient%20Egypt/art.png</image>
+			<duration>368206</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
