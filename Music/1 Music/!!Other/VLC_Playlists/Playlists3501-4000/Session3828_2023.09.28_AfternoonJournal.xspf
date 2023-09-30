@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Ancient%20Egypt/MP3/Plants%20Vs.%20Zombies%202%20Music%20-%20Ancient%20Egypt_%20Demonstration%20Mini-Game.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Ancient Egypt_ Demonstration Mini-Game.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Ancient Egypt</album>
+			<trackNum>2</trackNum>
+			<annotation>The demonstration minigame stage theme for the Ancient Egypt stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Ancient%20Egypt/art.png</image>
+			<duration>368206</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Ancient%20Egypt/MP3/Plants%20Vs.%20Zombies%202%20Music%20-%20Ancient%20Egypt_%20Ultimate%20Battle.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Ancient Egypt_ Ultimate Battle.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Ancient Egypt</album>
+			<trackNum>3</trackNum>
+			<annotation>The ultimate battle theme for the Ancient Egypt stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Ancient%20Egypt/art.png</image>
+			<duration>269097</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Modern%20Day/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Modern%20Day_%20Demonstration%20Mini-Game%20Extended.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Modern Day_ Demonstration Mini-Game Extended.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Modern Day</album>
+			<trackNum>4</trackNum>
+			<annotation>The Demonstration Minigame theme song for the Modern Day stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Modern%20Day/art.png</image>
+			<duration>909468</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Modern%20Day/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Modern%20Day_%20Ultimate%20Battle%20Extended.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Modern Day_ Ultimate Battle Extended.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Modern Day</album>
+			<trackNum>5</trackNum>
+			<annotation>The Ultimate Battle theme song for the Modern Day stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Modern%20Day/art.png</image>
+			<duration>908449</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Modern%20Day/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Modern%20Day_%20Mid%20Wave%20B%20(Graze%20the%20Roof)%20Extended.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Modern Day_ Mid Wave B (Graze the Roof) Extended.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Modern Day</album>
+			<trackNum>2</trackNum>
+			<annotation>The Mid-wave B track of the Modern Day theme song for the Modern Day stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Modern%20Day/art.png</image>
+			<duration>927362</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
