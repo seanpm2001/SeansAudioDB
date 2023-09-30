@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Ancient%20Egypt/MP3/Plants%20Vs.%20Zombies%202%20Music%20-%20Ancient%20Egypt_%20Demonstration%20Mini-Game.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Ancient Egypt_ Demonstration Mini-Game.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Ancient Egypt</album>
+			<trackNum>2</trackNum>
+			<annotation>The demonstration minigame stage theme for the Ancient Egypt stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Ancient%20Egypt/art.png</image>
+			<duration>368203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
