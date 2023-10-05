@@ -435,6 +435,8 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 356: 2023, September 30th
 - [x] 🇺🇦️ Day 357: 2023, October 1st
 - [x] 🇺🇦️ Day 358: 2023, October 2nd
+- [x] 🇺🇦️ Day 359: 2023, October 3rd
+- [x] 🇺🇦️ Day 360: 2023, October 4th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -1030,6 +1032,8 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 584, 2023, Saturday, September 30th
 - [x] 🇺🇦️ Day 585, 2023, Sunday, October 1st
 - [x] 🇺🇦️ Day 586, 2023, Monday, October 2nd
+- [x] 🇺🇦️ Day 587, 2023, Tuesday, October 3rd
+- [x] 🇺🇦️ Day 588, 2023, Wednesday, October 4th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -4557,12 +4561,14 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3509: 2023, September 30th
 - [x] 🇺🇦️ Day 3510: 2023, October 1st
 - [x] 🇺🇦️ Day 3511: 2023, October 2nd
+- [x] 🇺🇦️ Day 3512: 2023, October 3rd
+- [x] 🇺🇦️ Day 3513: 2023, October 4th
 
-After 3,511 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+After 3,513 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
 
-UA: після 3,511 днів, це все ще Україна. Слава Україні!
+UA: після 3,513 днів, це все ще Україна. Слава Україні!
 
-RU: Спустя 3,511 дня это все еще Украина. Слава Украине!
+RU: Спустя 3,513 дня это все еще Украина. Слава Украине!
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -4590,15 +4596,15 @@ RU: Спустя 3,511 дня это все еще Украина. Слава У
 
 **RU: Тип файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `318 (2023, Monday, October 2nd at 10:11 pm PST)`
+**File version:** `319 (2023, Wednesday, October 4th at 10:56 pm PST)`
 
 > **Translation not available**
 
-**Line count (including blank lines and compiler line):** `4,944`
+**Line count (including blank lines and compiler line):** `4,970`
 
-**UA: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `4,944`
+**UA: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `4,970`
 
-**RU: Количество строк (включая пустые строки и строку компилятора): `4,944`
+**RU: Количество строк (включая пустые строки и строку компилятора): `4,970`
 
 **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA) / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -4928,7 +4934,7 @@ RU: Спустя 3,511 дня это все еще Украина. Слава У
 
 > Changes:
 
-- [x] Updated the main list to include an entry for 2023, October 1st (day 358)
+- [x] Updated the main list to include an entry for 2023, October 2nd (day 358)
 - [x] Updated the list of all days of the war since the 2022 Invasion (586 days)
 - [x] Updated the list of all days of the war (3,511 days)
 - [x] Updated the file info section
@@ -4937,6 +4943,26 @@ RU: Спустя 3,511 дня это все еще Украина. Слава У
 - [ ] No other changes in version 318
 
 </details> <!-- V318 !-->
+
+<details><summary><p lang="en"><b>Version 319 (2023, Wednesday, October 4th at 10:56 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Yesterdays update was skipped due to severe focus issues._
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2023, October 3rd (day 359)
+- [x] Updated the main list to include an entry for 2023, October 4th (day 360)
+- [x] Updated the list of all days of the war since the 2022 Invasion (588 days)
+- [x] Updated the list of all days of the war (3,513 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Updated the entry for version 318
+- - [x] Added an entry for version 319
+- [ ] No other changes in version 319
+
+</details> <!-- V319 !-->
 
 </details> <!-- End of file history !-->
 
