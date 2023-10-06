@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Thatched%20Villagers/Kevin%20MacLeod%20-%2004%20-%20Cattails.mp3</location>
+			<title>Cattails</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Thatched Villagers</album>
+			<trackNum>4</trackNum>
+			<annotation> 00000543 0000051E 00002C7B 00004550 0001075E 0001BB78 00007CEE 00007BF1 00006314 0001BBC6</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Thatched%20Villagers/art.jpg</image>
+			<duration>159036</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Thatched%20Villagers/Kevin%20MacLeod%20-%2009%20-%20Padanaya%20Blokov.mp3</location>
+			<title>Padanaya Blokov</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Thatched Villagers</album>
+			<trackNum>9</trackNum>
+			<annotation> 000003D8 000004D3 00001CE9 00003053 00003DA1 00016524 00007C68 000081FD 00003B7D 00014772</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Thatched%20Villagers/art.jpg</image>
+			<duration>127689</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Thatched%20Villagers/Kevin%20MacLeod%20-%2014%20-%20Thatched%20Villagers.mp3</location>
+			<title>Thatched Villagers</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Thatched Villagers</album>
+			<trackNum>14</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Thatched%20Villagers/art.jpg</image>
+			<duration>245163</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Thatched%20Villagers/Kevin%20MacLeod%20-%2005%20-%20For%20Originz.mp3</location>
+			<title>For Originz</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Thatched Villagers</album>
+			<trackNum>5</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Thatched%20Villagers/art.jpg</image>
+			<duration>218643</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Thatched%20Villagers/Kevin%20MacLeod%20-%2007%20-%20Miri&#39;s%20Magic%20Dance.mp3</location>
+			<title>Miri&#39;s Magic Dance</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Thatched Villagers</album>
+			<trackNum>7</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Thatched%20Villagers/art.jpg</image>
+			<duration>94226</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
