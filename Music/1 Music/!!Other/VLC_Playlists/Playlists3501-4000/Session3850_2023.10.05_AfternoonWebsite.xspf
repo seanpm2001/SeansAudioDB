@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Cut%20the%20rope%20series/Cut%20The%20Rope%20OST%20[all%20games]/02%20Cut!.mp3</location>
+			<title>Cut!</title>
+			<creator>Chillingo</creator>
+			<album>Cut the Rope</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Chillingo/Cut%20the%20Rope/art.png</image>
+			<duration>244088</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Cut%20the%20rope%20series/Cut%20The%20Rope%20OST%20[all%20games]/02%20Twice%20The%20Candy_!.mp3</location>
+			<title>Twice The Candy?!</title>
+			<creator>ZeptoLab</creator>
+			<album>Cut the Rope Time Travel</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/ZeptoLab/Cut%20the%20Rope%20Time%20Travel/art.png</image>
+			<duration>269715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Cut%20the%20rope%20series/Cut%20The%20Rope%20OST%20[all%20games]/01%20Time%20Lapse.mp3</location>
+			<title>Time Lapse</title>
+			<creator>ZeptoLab</creator>
+			<album>Cut the Rope Time Travel</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/ZeptoLab/Cut%20the%20Rope%20Time%20Travel/art.png</image>
+			<duration>271465</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Like-a-virgin/AudioOnly/M4A/[HD]%20Nightcore%20-%20Like%20a%20virgin%20[5M5sL2NWfM8].m4a</location>
+			<duration>164189</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Gloria/AudioOnly/M4A/[HD]%20Nightcore%20-%20Gloria%20[Ed7GMEr3b-Y].m4a</location>
+			<duration>176936</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Halo-Walking-On-Sunshine/AudioOnly/M4A/[HD]%20Nightcore%20-%20Halo%20%E2%A7%B8%20Walking%20On%20Sunshine%20[q-0fOfGPaxA].m4a</location>
+			<duration>106627</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Aishiteru-Banzai/AudioOnly/M4A/[HD]%20Nightcore%20-%20Aishiteru%20Banzai%20[zEm_oIcrAjw].m4a</location>
+			<duration>261457</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Space%20Oddity/MP3/David-Bowie_Space-Oddity.mp3</location>
+			<title>David-Bowie_Space-Oddity.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Space Oddity</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Space Oddity&quot; by David Bowie.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Space%20Oddity/art.jpg</image>
+			<duration>304937</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/Rockefeller-street/AudioOnly/M4A/Nightcore%20-%20Rockefeller%20Street%20[hjGZLnja1o8].m4a</location>
+			<duration>147215</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
