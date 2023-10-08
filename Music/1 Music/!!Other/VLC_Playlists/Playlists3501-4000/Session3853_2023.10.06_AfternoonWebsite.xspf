@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Scatman%20John/MP3/Scatman_ski_ba_bop_ba_dop_bop.mp3</location>
+			<title>Scatman_ski_ba_bop_ba_dop_bop.mp3</title>
+			<creator>&quot;Scatman&quot; John</creator>
+			<album>Scatman</album>
+			<trackNum>1</trackNum>
+			<annotation>The song was originally released in 1994, but was re-released in 1995 for his album &quot;Scatmans world&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/_Scatman_%20John/Scatman/art.jpg</image>
+			<duration>210922</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Safety-Dance/Remixes/On-Crack/AudioOnly/M4A/Safety%20Dance%20On%20Crack%20[W7gyIRA1mXU].m4a</location>
+			<duration>188477</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bakery%20story/MP3/BakeryStoryTheme.mp3</location>
+			<title>BakeryStoryTheme.mp3</title>
+			<creator>Storm8 / TeamLava</creator>
+			<album>Bakery Story theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>A full quality version of the theme song for the mobile game, Bakery Story.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Storm8%20_%20TeamLava/Bakery%20Story%20theme%20song/art.jpg</image>
+			<duration>189971</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/La%20Cucaracha/(No%20video)%20La%20Cucaracha.webm</location>
+			<duration>184300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/La-Salsa-Lleg%C3%B3/MP3/Sonora-Carruseles_La-Salsa-Lleg%C3%B3.mp3</location>
+			<title>Sonora-Carruseles_La-Salsa-Llegó.mp3</title>
+			<creator>Sonora Carruseles</creator>
+			<album>La Salsa Llegó</album>
+			<trackNum>1</trackNum>
+			<annotation>I cannot translate the sources enough to get proper information on this song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Sonora%20Carruseles/La%20Salsa%20Lleg%C3%B3/art.jpg</image>
+			<duration>281793</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Initial%20D%20Night%20of%20Fire%20magic%20drift%20bus/MP3/Initial-D_Night-of-Fire-(Magic-Drift-Bus-MIDI).mp3</location>
+			<title>Initial-D_Night-of-Fire-(Magic-Drift-Bus-MIDI).mp3</title>
+			<creator>Dream / Niko / Initial D</creator>
+			<album>Night of Fire</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Night of Fire, by Initial D, which is actually Niko WHICH was actually remixed by Dream.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Dream%20_%20Niko%20_%20Initial%20D/Night%20of%20Fire/art.jpg</image>
+			<duration>291301</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Marios-Invincible-Song/Extended/AudioOnly/M4A/Starman%20Theme%20with%20lyrics%20(Also%20known%20as%20Mario&#39;s%20Invincible%20Song)%20Extended%20[2pbMXZ04LTI].m4a</location>
+			<duration>604068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Troll/MP3/Troll-Song.mp3</location>
+			<title>Troll-Song.mp3</title>
+			<creator>Eduard Khil</creator>
+			<album>Troll Song</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Eduard%20Khil/Troll%20Song/art.png</image>
+			<duration>161367</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>

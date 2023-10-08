@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/Rockefeller-street/AudioOnly/M4A/Nightcore%20-%20Rockefeller%20Street%20[hjGZLnja1o8].m4a</location>
+			<duration>147215</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/(I&#39;ve-had)-The-Time-of-my-Life/AudioOnly/M4A/[HD]%20Nightcore%20-%20(I%C2%B4ve%20had)%20The%20Time%20of%20my%20Life%20[rMV5Ys4N8iE].m4a</location>
+			<duration>231225</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Edge-of-Glory/AudioOnly/M4A/[HD]%20Nightcore%20-%20Edge%20of%20Glory%20[5yerfxEkJAA].m4a</location>
+			<duration>220869</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Ichiban-no-Takaramono/AudioOnly/M4A/[HD]%20Nightcore%20-%20Ichiban%20no%20Takaramono%20[Cio2G7T9jGg].m4a</location>
+			<duration>308733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
