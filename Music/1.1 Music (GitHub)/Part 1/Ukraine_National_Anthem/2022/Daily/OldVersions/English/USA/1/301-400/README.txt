@@ -442,6 +442,8 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 363: 2023, October 7th
 - [x] 🇺🇦️ Day 364: 2023, October 8th
 - [x] 🇺🇦️ Day 365: 2023, October 9th
+- [x] 🇺🇦️ Day 366: 2023, October 10th
+- [x] 🇺🇦️ Day 367: 2023, October 11th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -1044,6 +1046,8 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 591, 2023, Saturday, October 7th
 - [x] 🇺🇦️ Day 592, 2023, Sunday, October 8th
 - [x] 🇺🇦️ Day 593, 2023, Monday, October 9th
+- [x] 🇺🇦️ Day 594, 2023, Tuesday, October 10th
+- [x] 🇺🇦️ Day 595, 2023, Wednesday, October 11th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -4578,12 +4582,14 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3516: 2023, October 7th
 - [x] 🇺🇦️ Day 3517: 2023, October 8th
 - [x] 🇺🇦️ Day 3518: 2023, October 9th
+- [x] 🇺🇦️ Day 3519: 2023, October 10th
+- [x] 🇺🇦️ Day 3520: 2023, October 11th
 
-After 3,518 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+After 3,520 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
 
-UA: після 3,518 днів, це все ще Україна. Слава Україні!
+UA: після 3,520 днів, це все ще Україна. Слава Україні!
 
-RU: Спустя 3,518 дня это все еще Украина. Слава Украине!
+RU: Спустя 3,520 дня это все еще Украина. Слава Украине!
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -4611,15 +4617,15 @@ RU: Спустя 3,518 дня это все еще Украина. Слава У
 
 **RU: Тип файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `323 (2023, Monday, October 9th at 06:25 pm PST)`
+**File version:** `324 (2023, Wednesday, October 11th at 11:56 pm PST)`
 
 > **Translation not available**
 
-**Line count (including blank lines and compiler line):** `5,053`
+**Line count (including blank lines and compiler line):** `5,078`
 
-**UA: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `5,053`
+**UA: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `5,078`
 
-**RU: Количество строк (включая пустые строки и строку компилятора): `5,053`
+**RU: Количество строк (включая пустые строки и строку компилятора): `5,078`
 
 **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA) / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -5045,7 +5051,26 @@ RU: Спустя 3,518 дня это все еще Украина. Слава У
 - - [x] Added an entry for version 323
 - [ ] No other changes in version 323
 
-</details> <!-- V322 !-->
+</details> <!-- V323 !-->
+
+<details><summary><p lang="en"><b>Version 324 (2023, Wednesday, October 11th at 11:56 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Yesterdays update was skipped due to time issues. This update was just 4 minutes from not being possible today._
+
+> Changes:
+
+- [x] Updated the main list to include an entry for 2023, October 10th (day 366)
+- [x] Updated the main list to include an entry for 2023, October 11th (day 367)
+- [x] Updated the list of all days of the war since the 2022 Invasion (595 days)
+- [x] Updated the list of all days of the war (3,520 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 324
+- [ ] No other changes in version 324
+
+</details> <!-- V324 !-->
 
 </details> <!-- End of file history !-->
 
