@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Portal2_2x09-Almost_At_Fifty_Percent.mp3</location>
+			<title>Almost At Fifty Percent</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By - Volume 2</album>
+			<trackNum>9</trackNum>
+			<annotation>0</annotation>
+			<duration>119013</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/SuperMarioAdvance1_14%20-%20Wart.mp3</location>
+			<title>Wart</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>14</trackNum>
+			<annotation>00000065 00000067 00000132</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>39963</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_Advance_1_30%20Knuckles%20Boss.mp3</location>
+			<title>Knuckles Boss</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<duration>112039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>

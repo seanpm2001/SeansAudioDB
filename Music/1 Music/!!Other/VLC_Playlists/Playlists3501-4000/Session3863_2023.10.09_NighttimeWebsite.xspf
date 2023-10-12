@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Look%20at%20my%20horse/MP3/Look-at-my-horse.mp3</location>
+			<title>Look-at-my-horse.mp3</title>
+			<creator>Weebls Stuff</creator>
+			<album>Look at my horse</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Look at my horse&quot; by Weebls stuff.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Weebls%20Stuff/Look%20at%20my%20horse/art.jpg</image>
+			<duration>124299</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20takeover%20OST/MP3/ZombieTakeoverHack2.mp3</location>
+			<title>ZombieTakeoverHack2.mp3</title>
+			<creator>Pocket Gems</creator>
+			<album>Zombie Takeover Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>Gameplay of a hack of Zombie takeover, converted to MP3. It seems there was no audio here or something, because the MP3 is silent and the OGG won&#39;t show codec information or even play at all.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Pocket%20Gems/Zombie%20Takeover%20Soundtrack/art.jpg</image>
+			<duration>237308</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20takeover%20OST/MP3/ZombieTakeover2012Hack.mp3</location>
+			<title>ZombieTakeover2012Hack.mp3</title>
+			<creator>Pocket Gems</creator>
+			<album>Zombie Takeover Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>Gameplay of a hack of Zombie takeover, converted to MP3. It seems there was no audio here or something, because the MP3 is silent and the OGG won&#39;t show codec information or even play at all.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Pocket%20Gems/Zombie%20Takeover%20Soundtrack/art.jpg</image>
+			<duration>356109</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20takeover%20OST/MP3/ZombieTakeoverTrailer.mp3</location>
+			<title>ZombieTakeoverTrailer.mp3</title>
+			<creator>Pocket Gems</creator>
+			<album>Zombie Takeover Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The trailer for the Pocket Gems game Zombie Takeover. Some splicing and editing is needed to separate a chunk of the music from the soundtrack, the rest can be cut out.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Pocket%20Gems/Zombie%20Takeover%20Soundtrack/art.jpg</image>
+			<duration>174742</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/See-Through-You/AudioOnly/M4A/See%20Through%20You%20[bQ13G6T1vOo].m4a</location>
+			<duration>176970</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/midnight%20north%20jazz%20space.slash.house/MP3/Midnight-North_This-is-a-jazz-space.mp3</location>
+			<title>Midnight-North_This-is-a-jazz-space.mp3</title>
+			<creator>Midnight North</creator>
+			<album>This is a Jazz space</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;This is a jazz space&quot; by the band &quot;Midnight North&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Midnight%20North/This%20is%20a%20Jazz%20space/art.jpg</image>
+			<duration>158389</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Willy-Wonka-and-the-Chocolate-Factory-1971-Soundtrack/AudioOnly/M4A/Pure%20Imagination%20%E2%80%93%C2%A0Willy%20Wonka%20&amp;%20the%20Chocolate%20Factory%20Complete%20Score%20[EiTTpu9CGqc].m4a</location>
+			<duration>253748</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/SuperMarioAdvance1_08%20-%20Birdo%20-%20Boss%20Nearby.mp3</location>
+			<title>Birdo/Boss Nearby</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>8</trackNum>
+			<annotation>00000055 00000059 00000129</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>31923</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_3_and_Knuckles_34.%20Miniboss%20(Sonic%20The%20Hedgehog%203).mp3</location>
+			<title>Miniboss (Sonic The Hedgehog 3)</title>
+			<creator>VA</creator>
+			<album>Sonic The Hedgehog 3 &amp; Knuckles</album>
+			<trackNum>34</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/VA/Sonic%20The%20Hedgehog%203%20%26%20Knuckles/art.jpg</image>
+			<duration>127060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_3_and_Knuckles_35.%20Robotnik%201%20(Sonic%203%20&amp;%20Knuckles).mp3</location>
+			<title>Robotnik 1 (Sonic 3 &amp; Knuckles)</title>
+			<creator>VA</creator>
+			<album>Sonic The Hedgehog 3 &amp; Knuckles</album>
+			<trackNum>35</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/VA/Sonic%20The%20Hedgehog%203%20%26%20Knuckles/art.jpg</image>
+			<duration>57861</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_3_and_Knuckles_36.%20Robotnik%202%20(Sonic%203%20&amp;%20Knuckles).mp3</location>
+			<title>Robotnik 2 (Sonic 3 &amp; Knuckles)</title>
+			<creator>VA</creator>
+			<album>Sonic The Hedgehog 3 &amp; Knuckles</album>
+			<trackNum>36</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/VA/Sonic%20The%20Hedgehog%203%20%26%20Knuckles/art.jpg</image>
+			<duration>69642</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/SuperMarioAdvance4_28%20-%20Boss%20Battle.mp3</location>
+			<title>Boss Battle</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 4: Super Mario Bros. 3 - The Original Soundtrack</album>
+			<trackNum>28</trackNum>
+			<annotation>00000461 000004CD 000014A5</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%204_%20Super%20Mario%20Bros.%203%20-%20The%20Original%20Soundtrack/art.png</image>
+			<duration>49731</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/SuperMarioAdvance4_41%20-%20Bowser%20Battle.mp3</location>
+			<title>Bowser Battle</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 4: Super Mario Bros. 3 - The Original Soundtrack</album>
+			<trackNum>41</trackNum>
+			<annotation>000007C0 0000069D 00001B92</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%204_%20Super%20Mario%20Bros.%203%20-%20The%20Original%20Soundtrack/art.png</image>
+			<duration>38379</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Undertale_86%20Don&#39;t%20Give%20Up.mp3</location>
+			<title>Don&#39;t Give Up</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>86</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/toby%20fox/UNDERTALE%20Soundtrack/art.jpg</image>
+			<duration>122044</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Undertale_87%20Hopes%20and%20Dreams.mp3</location>
+			<title>Hopes and Dreams</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>87</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/toby%20fox/UNDERTALE%20Soundtrack/art.jpg</image>
+			<duration>181316</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Undertale_89%20SAVE%20the%20World.mp3</location>
+			<title>SAVE the World</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>89</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/toby%20fox/UNDERTALE%20Soundtrack/art.jpg</image>
+			<duration>113371</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/SuperMarioAdvance1_14%20-%20Wart.mp3</location>
+			<title>Wart</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>14</trackNum>
+			<annotation>00000065 00000067 00000132</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>39963</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/SuperMarioAdvance1_09%20-%20Area%20with%20Gate%20-%20Boss.mp3</location>
+			<title>Boss</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>9</trackNum>
+			<annotation>0000008C 00000070 00000200</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>25515</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_Mania_2-15%20Eggman%20Boss%202.mp3</location>
+			<title>Eggman Boss 2</title>
+			<creator>Tee Lopes</creator>
+			<album>Sonic Mania: Expanded Soundtrack</album>
+			<trackNum>15</trackNum>
+			<annotation>Ripped, Edited, &amp; Tagged by !!!!! (demon2warrior)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tee%20Lopes/Sonic%20Mania_%20Expanded%20Soundtrack/art.jpg</image>
+			<duration>92865</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_Mania_1-18%20Ruby%20Delusions%20(Eggman%20Boss%201).mp3</location>
+			<title>Ruby Delusions (Eggman Boss 1)</title>
+			<creator>Tee Lopes</creator>
+			<album>Sonic Mania: Expanded Soundtrack</album>
+			<trackNum>18</trackNum>
+			<annotation>Ripped, Edited, &amp; Tagged by !!!!! (demon2warrior)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tee%20Lopes/Sonic%20Mania_%20Expanded%20Soundtrack/art.jpg</image>
+			<duration>144457</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_Mania_2-18%20Ruby%20Illusions%20(Final%20Boss).mp3</location>
+			<title>Ruby Illusions (Final Boss)</title>
+			<creator>Tee Lopes</creator>
+			<album>Sonic Mania: Expanded Soundtrack</album>
+			<trackNum>18</trackNum>
+			<annotation>Ripped, Edited, &amp; Tagged by !!!!! (demon2warrior)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tee%20Lopes/Sonic%20Mania_%20Expanded%20Soundtrack/art.jpg</image>
+			<duration>140382</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic2_1-28%20STH2%20Death%20Egg%20Zone%20(Part1)%20~%20Mega%20Drive%20version%20~.mp3</location>
+			<title>STH2 Death Egg Zone (Part1) ~ Mega Drive version ~</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic The Hedgehog 1&amp;2 Soundtrack</album>
+			<trackNum>28</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Nakamura/Sonic%20The%20Hedgehog%201%262%20Soundtrack/art.png</image>
+			<duration>130273</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic2_1-29%20STH2%20Death%20Egg%20Zone%20(Part2)%20~%20Mega%20Drive%20version%20~.mp3</location>
+			<title>STH2 Death Egg Zone (Part2) ~ Mega Drive version ~</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic The Hedgehog 1&amp;2 Soundtrack</album>
+			<trackNum>29</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Nakamura/Sonic%20The%20Hedgehog%201%262%20Soundtrack/art.png</image>
+			<duration>138083</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Deltarune_C1_13%20Field%20of%20Hopes%20and%20Dreams.mp3</location>
+			<title>Field of Hopes and Dreams</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>13</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>161306</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Deltarune_C1_24%20Vs.%20Susie.mp3</location>
+			<title>Vs. Susie</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>24</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>81110</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Deltarune_C1_33%20THE%20WORLD%20REVOLVING.mp3</location>
+			<title>THE WORLD REVOLVING</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>33</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>101094</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/SuperMario64_1-30%20Koopa&#39;s%20Theme.mp3</location>
+			<title>Koopa&#39;s Theme</title>
+			<creator>Koji Kondo</creator>
+			<album>Super Mario 64 (Soundtrack)</album>
+			<trackNum>30</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Koji%20Kondo/Super%20Mario%2064%20%28Soundtrack%29/art.jpg</image>
+			<duration>149969</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_Advance_1_29%20Boss%20-intro-.mp3</location>
+			<title>Boss -intro-</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<duration>120033</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_Advance_1_30%20Knuckles%20Boss.mp3</location>
+			<title>Knuckles Boss</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<duration>112039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_Advance_1_31%20Cosmic%20Angel%20Zone%20Boss.mp3</location>
+			<title>Cosmic Angel Zone Boss</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<duration>194037</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_Advance_1_32%20X-Zone%20First%20Boss.mp3</location>
+			<title>X-Zone First Boss</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<duration>53054</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_Advance_1_33%20X-Zone%20Second%20Boss.mp3</location>
+			<title>X-Zone Second Boss</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<duration>82050</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Kevin%20MacLeod_1%20-%208bit%20Dungeon%20Boss.mp3</location>
+			<title>8bit Dungeon Boss</title>
+			<creator>Kevin MacLeod</creator>
+			<album>video Classica</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/video%20Classica/art.jpg</image>
+			<duration>172011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Portal2_2x11-I_AM_NOT_A_MORON.mp3</location>
+			<title>I AM NOT A MORON!</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By - Volume 2</album>
+			<trackNum>11</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Aperture%20Science%20Psychoacoustics%20Laboratory/Portal%202_%20Songs%20to%20Test%20By%20-%20Volume%202/art</image>
+			<duration>226873</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Undertale_99%20Power%20of%20-NEO-.mp3</location>
+			<title>Power of &quot;NEO&quot;</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>99</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/toby%20fox/UNDERTALE%20Soundtrack/art.jpg</image>
+			<duration>30667</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/NewSuperMarioBrosWii_Extended_battle.mp3</location>
+			<duration>1799145</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/NewSuperMarioBrosWii_Extended_boss%20theme.mp3</location>
+			<duration>1799981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/NewSuperMarioBrosWii_Extended_mid%20boss.mp3</location>
+			<duration>1799981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Undertale_68%20Death%20by%20Glamour.mp3</location>
+			<title>Death by Glamour</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>68</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/toby%20fox/UNDERTALE%20Soundtrack/art.jpg</image>
+			<duration>134635</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Fluidity_Influence-Boss-Theme.mp3</location>
+			<title>Wii Fluidity Influence Boss (Theme).mp3</title>
+			<creator>Curve Studios</creator>
+			<album>Fluidity/Hydroventure soundtrack</album>
+			<trackNum>7</trackNum>
+			<annotation>The influence boss theme from the Fluidity/Hydroventure WiiWare game.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Curve%20Studios/Fluidity_Hydroventure%20soundtrack/art.jpg</image>
+			<duration>247258</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Undertale_10%20Ghost%20Fight.mp3</location>
+			<title>Ghost Fight</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>10</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/toby%20fox/UNDERTALE%20Soundtrack/art.jpg</image>
+			<duration>56581</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_Advance_3_41%20Chaos%20Angel%20Boss.mp3</location>
+			<title>Chaos Angel Boss</title>
+			<creator>Hideaki Kobayashi, Fumie Kumatani, Tatsuyuki Maeda, Tomoya Ohtani, Masaru Setsumaru, Kenichi Tokoi, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 3</album>
+			<duration>222041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+	</extension>
+</playlist>
