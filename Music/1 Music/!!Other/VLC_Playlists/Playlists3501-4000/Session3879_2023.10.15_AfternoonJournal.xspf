@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Supercell%20series/Clash%20of%20Clans/AudioOnly/2023.10.15_Halloween/clash_cave_combat_music_01.ogg</location>
+			<duration>127613</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Supercell%20series/Clash%20of%20Clans/AudioOnly/2023.10.15_Halloween/clash_cave_prebattle_music_01.ogg</location>
+			<duration>66947</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Supercell%20series/Clash%20of%20Clans/AudioOnly/2023.10.15_Halloween/home_music_part_1.ogg</location>
+			<duration>133815</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Supercell%20series/Clash%20of%20Clans/AudioOnly/2023.10.15_Halloween/home_music_part_2.ogg</location>
+			<duration>89250</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Supercell%20series/Clash%20of%20Clans/AudioOnly/2023.10.15_Halloween/fem_talk.mp3</location>
+			<duration>30093</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Eminem/Remixes/Rap-God/AI-Covers/TF2/Scout/AudioOnly/M4A/[TF2]%20Scout%20-%20Rap%20God%20(FULL%20AI%20COVER)%20[8J-tAuzrzeE].m4a</location>
+			<duration>367131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Eminem/Remixes/Without-me/AI-Covers/TF2/Scout/AudioOnly/M4A/scout%20sings%20without%20me%20(AI%20Cover)%20[_B9-lDVJimk].m4a</location>
+			<duration>291341</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Eminem%20-%20Without%20Me/Remixes/Sam-O-Nella_Enhanced_Version/AudioOnly/M4A/Eminem%20-%20Without%20Me%20(Enhanced%20Edition)%20[WObGx-qKBjE].m4a</location>
+			<duration>291945</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Dumb%20Ways%20to%20Die/Remixes/[YTP]%20Dumb%20ways%20to%20dumb%20-%20360p.mp4</location>
+			<duration>111176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Sponge/Larry/Viva-La-Vida/AudioOnly/M4A/AI%20Sponge%20-%20Larry%20sings%20Viva%20La%20Vida%20[Shd3QuvODmY].m4a</location>
+			<duration>273903</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Adolf_Hitler_AI_Covers/Coldplay/Viva-La-Vida/AudioOnly/M4A/Adolf%20Hitler%20-%20Viva%20La%20Vida%20(AI%20Voice%20Cover)%20[02swIJI9c_M].m4a</location>
+			<duration>253957</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>
