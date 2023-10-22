@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/AudioOnly/MP3/Portal2-2x01-You_Will_Be_Perfect.mp3</location>
+			<title>You Will Be Perfect</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By - Volume 2</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/AudioOnly/MP3/cover.png</image>
+			<duration>159503</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal%202%20music/AudioOnly/MP3/Portal2-2x09-Almost_At_Fifty_Percent.mp3</location>
+			<title>Almost At Fifty Percent</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By - Volume 2</album>
+			<trackNum>9</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Portal%20Series/Portal%202%20music/AudioOnly/MP3/cover.png</image>
+			<duration>119013</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
