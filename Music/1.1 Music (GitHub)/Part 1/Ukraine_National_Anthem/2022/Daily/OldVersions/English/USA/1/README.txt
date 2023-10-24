@@ -456,6 +456,7 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 377: 2023, October 21st
 - [x] 🇺🇦️ Day 378: 2023, October 22nd
 - [x] 🇺🇦️ Day 379: 2023, October 23rd
+- [x] 🇺🇦️ Day 380: 2023, October 24th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -1072,6 +1073,7 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 605, 2023, Saturday, October 21st
 - [x] 🇺🇦️ Day 606, 2023, Sunday, October 22nd
 - [x] 🇺🇦️ Day 607, 2023, Monday, October 23rd
+- [x] 🇺🇦️ Day 608, 2023, Tuesday, October 24th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -4620,12 +4622,13 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3530: 2023, October 21st
 - [x] 🇺🇦️ Day 3531: 2023, October 22nd
 - [x] 🇺🇦️ Day 3532: 2023, October 23rd
+- [x] 🇺🇦️ Day 3533: 2023, October 24th
 
-After 3,532 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+After 3,533 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
 
-UA: після 3,532 днів, це все ще Україна. Слава Україні!
+UA: після 3,533 днів, це все ще Україна. Слава Україні!
 
-RU: Спустя 3,532 дня это все еще Украина. Слава Украине!
+RU: Спустя 3,533 дня это все еще Украина. Слава Украине!
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -4647,33 +4650,29 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 <details><summary><p lang="en"><b><u>[Click/tap here to expand/collapse this section] [UA: Натисніть / торкніться тут, щоб розгорнути / згорнути цей розділ] [RU: Нажмите/коснитесь здесь, чтобы развернуть/свернуть этот раздел]</u></b></p></summary>
 
-**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+- **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+- **UA: Тип файлу:** `Уцінка (*.md *.mkd *.mdown *.markdown)`
+- **RU: Тип файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**UA: Тип файлу:** `Уцінка (*.md *.mkd *.mdown *.markdown)`
+- **File version:** `337 (2023, Tuesday, October 24th at 04:13 pm PST)`
 
-**RU: Тип файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+> **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
-**File version:** `336 (2023, Monday, October 23rd at 06:10 pm PST)`
+> **Translation not available (Russian) Перевод недоступен (Русский)**
 
-> **Translation not available**
+- **Line count (including blank lines and compiler line):** `5,410`
+- **UA: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `5,410`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `5,410`
 
-**Line count (including blank lines and compiler line):** `5,313`
+- **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
-**UA: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `5,313`
+- **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+- **UA: AКодування:** `UTF-8 (рекомендовано смайлики 12.0 або вище)`
+- **RU: Кодировка:** `UTF-8 (рекомендуется Emoji 12.0 или выше)`
 
-**RU: Количество строк (включая пустые строки и строку компилятора): `5,313`
-
-**Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA) / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
-
-**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
-
-**Кодування:** `UTF-8 (рекомендовано смайлики 12.0 або вище)`
-
-**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
-
-**UA: Весь час UTC-7 (PDT/Тихоокеанський час)** `(Будь ласка, також враховуйте перехід на літній час (літній час) для старіших / новіших записів до тих пір, поки він не буде скасований / більше не дотримується)`
-
-**RU: Все время UTC-7 (PDT / тихоокеанское время) ** `(Пожалуйста, также учитывайте летнее время) для старых / новых записей до тех пор, пока оно не будет отменено / больше не соблюдается)`
+- **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+- **UA: Весь час UTC-7 (PDT/Тихоокеанський час)** `(Будь ласка, також враховуйте перехід на літній час (літній час) для старіших / новіших записів до тих пір, поки він не буде скасований / більше не дотримується)`
+- **RU: Все время UTC-7 (PDT / тихоокеанское время)** `(Пожалуйста, также учитывайте летнее время) для старых / новых записей до тех пор, пока оно не будет отменено / больше не соблюдается)`
 
 > **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
@@ -4699,6 +4698,15 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 <details><summary><p lang="en"><b>[Click/tap here to expand/collapse the changelog for this project] [UA: Натисніть / торкніться тут, щоб розгорнути / згорнути журнал змін для цього проекту] [RU: Нажмите/коснитесь здесь, чтобы развернуть/свернуть журнал изменений для этого проекта]</b></p></summary>
 
+**Note** _You have to build the project before these links will work._
+
+- [Versions 1-100](/1%20Music/Ukraine_National_Anthem/2022/Daily/OldVersions/English/USA/1/1-100/)
+- [Versions 101-200](/1%20Music/Ukraine_National_Anthem/2022/Daily/OldVersions/English/USA/1/101-200/)
+- [Versions 201-300](/1%20Music/Ukraine_National_Anthem/2022/Daily/OldVersions/English/USA/1/201-300/)
+- [Versions 301-400](/1%20Music/Ukraine_National_Anthem/2022/Daily/OldVersions/English/USA/1/301-400/)
+
+---
+
 <details><summary><p lang="en"><b>Version 301 (2023, Tuesday, September 12th at 06:02 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -4715,6 +4723,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 301
 
 </details> <!-- V301 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 302 (2023, Wednesday, September 13th at 07:01 pm PST)</b></p></summary>
 
@@ -4734,6 +4744,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V302 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 303 (2023, Thursday, September 14th at 06:40 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -4749,6 +4761,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 303
 
 </details> <!-- V303 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 304 (2023, Friday, September 15th at 08:46 pm PST)</b></p></summary>
 
@@ -4766,6 +4780,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V304 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 305 (2023, Saturday, September 16th at 09:05 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -4781,6 +4797,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 305
 
 </details> <!-- V305 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 305 (2023, Sunday, September 17th at 09:14 pm PST)</b></p></summary>
 
@@ -4798,6 +4816,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V306 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 307 (2023, Monday, September 18th at 07:10 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -4813,6 +4833,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 307
 
 </details> <!-- V307 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 308 (2023, Wednesday, September 20th at 09:48 pm PST)</b></p></summary>
 
@@ -4833,6 +4855,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V308 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 309 (2023, Thursday, September 21st at 11:08 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -4850,6 +4874,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 309
 
 </details> <!-- V309 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 310 (2023, Saturday, September 23rd at 11:13 pm PST)</b></p></summary>
 
@@ -4870,6 +4896,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V310 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 311 (2023, Monday, September 25th at 10:13 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -4889,6 +4917,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V311 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 312 (2023, Tuesday, September 26th at 10:30 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -4904,6 +4934,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 312
 
 </details> <!-- V312 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 313 (2023, Wednesday, September 27th at 08:13 pm PST)</b></p></summary>
 
@@ -4921,6 +4953,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V313 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 314 (2023, Thursday, September 28th at 09:48 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -4936,6 +4970,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 314
 
 </details> <!-- V314 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 315 (2023, Friday, September 29th at 08:53 pm PST)</b></p></summary>
 
@@ -4953,6 +4989,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V315 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 316 (2023, Saturday, September 30th at 10:40 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -4968,6 +5006,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 316
 
 </details> <!-- V316 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 317 (2023, Sunday, October 1st at 04:41 pm PST)</b></p></summary>
 
@@ -4985,6 +5025,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V317 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 318 (2023, Monday, October 2nd at 10:11 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -5000,6 +5042,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 318
 
 </details> <!-- V318 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 319 (2023, Wednesday, October 4th at 10:56 pm PST)</b></p></summary>
 
@@ -5021,6 +5065,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V319 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 320 (2023, Thursday, October 5th at 11:01 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -5036,6 +5082,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 320
 
 </details> <!-- V320 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 321 (2023, Friday, October 6th at 11:53 pm PST)</b></p></summary>
 
@@ -5054,6 +5102,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V321 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 322 (2023, Saturday, October 7th at 11:36 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -5069,6 +5119,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 322
 
 </details> <!-- V322 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 323 (2023, Monday, October 9th at 06:25 pm PST)</b></p></summary>
 
@@ -5089,6 +5141,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V323 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 324 (2023, Wednesday, October 11th at 11:56 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -5108,6 +5162,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V324 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 325 (2023, Thursday, October 12th at 03:29 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -5125,6 +5181,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 325
 
 </details> <!-- V325 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 326 (2023, Friday, October 13th at 04:12 pm PST)</b></p></summary>
 
@@ -5144,6 +5202,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V326 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 327 (2023, Saturday, October 14th at 04:56 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -5162,6 +5222,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V327 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 328 (2023, Sunday, October 15th at 02:43 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -5177,6 +5239,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 328
 
 </details> <!-- V328 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 329 (2023, Monday, October 16th at 06:54 pm PST)</b></p></summary>
 
@@ -5194,6 +5258,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V329 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 330 (2023, Tuesday, October 17th at 04:59 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -5209,6 +5275,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 330
 
 </details> <!-- V330 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 331 (2023, Wednesday, October 18th at 05:39 pm PST)</b></p></summary>
 
@@ -5226,6 +5294,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V331 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 332 (2023, Thursday, October 19th at 07:55 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -5241,6 +5311,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 332
 
 </details> <!-- V332 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 333 (2023, Friday, October 20th at 07:03 pm PST)</b></p></summary>
 
@@ -5258,6 +5330,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V333 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 334 (2023, Saturday, October 21st at 04:01 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -5273,6 +5347,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 334
 
 </details> <!-- V334 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 335 (2023, Sunday, October 22nd at 04:25 pm PST)</b></p></summary>
 
@@ -5291,6 +5367,8 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 
 </details> <!-- V335 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 336 (2023, Monday, October 23rd at 06:10 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -5306,6 +5384,25 @@ RU: Спустя 3,532 дня это все еще Украина. Слава У
 - [ ] No other changes in version 336
 
 </details> <!-- V336 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 337 (2023, Tuesday, October 24th at 04:13 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Added navigation links to older versions of this file (requires the project to be built first due to technical limitations)
+- [x] Updated the main list to include an entry for 2023, October 24th (day 380)
+- [x] Updated the list of all days of the war since the 2022 Invasion (608 days)
+- [x] Updated the list of all days of the war (3,533 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 337
+- [ ] No other changes in version 337
+
+</details> <!-- V337 !-->
 
 </details> <!-- End of file history !-->
 
