@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/MegaSuperArcadeCup.mp3</location>
+			<title>Mega_Super_Arcade_Cup</title>
+			<creator>Eric_Bode</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>60090</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/MysteryLevel.mp3</location>
+			<title>Mystery_Level</title>
+			<creator>Sergei_Stern</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>64086</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Motor_World_Car_Factory_OST/AudioOnly/MP3/JamaicaLevel.mp3</location>
+			<title>Jamaica_Level</title>
+			<creator>Sergei_Stern</creator>
+			<annotation>Copyright_AudioSparx</annotation>
+			<duration>56563</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
