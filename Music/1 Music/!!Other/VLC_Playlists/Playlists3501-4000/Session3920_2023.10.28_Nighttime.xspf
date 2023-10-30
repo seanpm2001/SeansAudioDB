@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic1_1-14%20STH1%20Boss%20~%20Mega%20Drive%20version%20~.mp3</location>
+			<title>STH1 Boss ~ Mega Drive version ~</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic The Hedgehog 1&amp;2 Soundtrack</album>
+			<trackNum>14</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Nakamura/Sonic%20The%20Hedgehog%201%262%20Soundtrack/art.png</image>
+			<duration>82651</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_Advance_2_24%20Final%20Boss.mp3</location>
+			<title>Final Boss</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Teruhiko Nakagawa, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 2</album>
+			<duration>153052</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic2_1-28%20STH2%20Death%20Egg%20Zone%20(Part1)%20~%20Mega%20Drive%20version%20~.mp3</location>
+			<title>STH2 Death Egg Zone (Part1) ~ Mega Drive version ~</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic The Hedgehog 1&amp;2 Soundtrack</album>
+			<trackNum>28</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Nakamura/Sonic%20The%20Hedgehog%201%262%20Soundtrack/art.png</image>
+			<duration>130273</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/SonicPocketAdventure_19.%20vs.%20Knuckles.mp3</location>
+			<title>vs. Knuckles</title>
+			<creator>Maitaro</creator>
+			<album>Sonic the Hedgehog ~Classic Music Collection~</album>
+			<trackNum>19</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Maitaro/Sonic%20the%20Hedgehog%20~Classic%20Music%20Collection~/art.jpg</image>
+			<duration>90253</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/NewSuperMarioBrosDS_Boss%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended%20[ukY3VBSeOeI].m4a</location>
+			<duration>1800081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Aishiteru-Banzai/AudioOnly/M4A/[HD]%20Nightcore%20-%20Aishiteru%20Banzai%20[zEm_oIcrAjw].m4a</location>
+			<duration>261457</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Ichiban-no-Takaramono/AudioOnly/M4A/[HD]%20Nightcore%20-%20Ichiban%20no%20Takaramono%20[Cio2G7T9jGg].m4a</location>
+			<duration>308733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
