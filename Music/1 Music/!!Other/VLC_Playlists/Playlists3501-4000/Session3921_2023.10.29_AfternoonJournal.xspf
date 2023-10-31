@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/We-don&#39;t-talk-anymore/AudioOnly/M4A/[HD]%20Nightcore%20-%20We%20don%C2%B4t%20talk%20anymore%20[Qrq3ot-X4cI].m4a</location>
+			<duration>180698</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/See-you-again/AudioOnly/M4A/[HD]%20Nightcore%20-%20See%20you%20again%20[qbGNuKT13SI].m4a</location>
+			<duration>182463</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Every-breath-you-take/AudioOnly/M4A/[HD]%20Nightcore%20-%20Every%20breath%20you%20take%20[OR5kjrDlw80].m4a</location>
+			<duration>174940</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Mr.-roboto-and-Counting-stars/AudioOnly/M4A/[HD]%20Nightcore%20-%20Mr.%20roboto%20&amp;%20Counting%20stars%20[PbjXxFSbtY0].m4a</location>
+			<duration>185899</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Mad-World/AudioOnly/M4A/[HD]%20Nightcore%20-%20Mad%20World%20[9mmN4zwg34I].m4a</location>
+			<duration>151905</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
