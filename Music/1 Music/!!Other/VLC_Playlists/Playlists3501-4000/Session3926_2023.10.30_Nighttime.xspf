@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Erika/MP3/Erika-1930.mp3</location>
+			<title>Erika-1930.mp3</title>
+			<creator>Herms Niel</creator>
+			<album>Erika (1930)</album>
+			<trackNum>1</trackNum>
+			<annotation>A song that is associated with Nazism, but has no anti-semitic lyrics. The video I recently got 45 songs from (Stereotypical music from around the world) has some pretty controversial songs in it, this is one of them.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Herms%20Niel/Erika%20%281930%29/art.jpg</image>
+			<duration>179104</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/(I&#39;ve-had)-The-Time-of-my-Life/AudioOnly/M4A/[HD]%20Nightcore%20-%20(I%C2%B4ve%20had)%20The%20Time%20of%20my%20Life%20[rMV5Ys4N8iE].m4a</location>
+			<duration>231225</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/A-new-hope/AudioOnly/M4A/[HD]%20Nightcore%20-%20A%20new%20hope%20[q8DH9tTt2eI].m4a</location>
+			<duration>193585</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Battlefield/AudioOnly/M4A/[HD]%20Nightcore%20-%20Battlefield%20[4hEoEfW1baA].m4a</location>
+			<duration>209653</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Creep/AudioOnly/M4A/[HD]%20Nightcore%20-%20%20Creep%20[_s57gqOumXw].m4a</location>
+			<duration>196465</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Wohin-willst-du/AudioOnly/M4A/[HD]%20Nightcore%20-%20Wohin%20willst%20du%20[OYAElzClXIo].m4a</location>
+			<duration>176031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Stitches/AudioOnly/M4A/[HD]%20Nightcore%20-%20Stitches%20[aWBFTNHitCE].m4a</location>
+			<duration>167997</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Radio-hardcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Radio%20hardcore%20[LBv_OtKxtBw].m4a</location>
+			<duration>171341</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Creep/AudioOnly/M4A/[HD]%20Nightcore%20-%20%20Creep%20[_s57gqOumXw].m4a</location>
+			<duration>196465</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
