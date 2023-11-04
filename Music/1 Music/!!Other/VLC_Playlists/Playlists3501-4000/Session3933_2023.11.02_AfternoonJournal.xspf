@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Willy-Wonka-and-the-Chocolate-Factory-1971-Soundtrack/AudioOnly/M4A/Pure%20Imagination%20%E2%80%93%C2%A0Willy%20Wonka%20&amp;%20the%20Chocolate%20Factory%20Complete%20Score%20[EiTTpu9CGqc].m4a</location>
+			<duration>253748</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Willy-Wonka-and-the-Chocolate-Factory-1971-Soundtrack/AudioOnly/M4A/Wonkamania%20%E2%80%93%20Willy%20Wonka%20&amp;%20the%20Chocolate%20Factory%20Complete%20Score%20[OZnJtubOa98].m4a</location>
+			<duration>22292</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Willy-Wonka-and-the-Chocolate-Factory-1971-Soundtrack/AudioOnly/M4A/Up%20in%20the%20Air%20%E2%80%93%C2%A0Willy%20Wonka%20&amp;%20the%20Chocolate%20Factory%20Complete%20Score%20[P9HaLciYGRU].m4a</location>
+			<duration>158036</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Willy-Wonka-and-the-Chocolate-Factory-1971-Soundtrack/AudioOnly/M4A/Oompa%20Loompa%20%232%20%E2%80%93%C2%A0Willy%20Wonka%20&amp;%20the%20Chocolate%20Factory%20Complete%20Score%20[3DqDHzIChgA].m4a</location>
+			<duration>64831</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Willy-Wonka-and-the-Chocolate-Factory-1971-Soundtrack/AudioOnly/M4A/Oompa%20Loompa%20%233%20%E2%80%93%20Willy%20Wonka%20&amp;%20the%20Chocolate%20Factory%20Complete%20Score%20[_YK6BFTX_Hc].m4a</location>
+			<duration>55798</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Willy-Wonka-and-the-Chocolate-Factory-1971-Soundtrack/AudioOnly/M4A/Oompa%20Loompa%C2%A0%E2%80%93%20Willy%20Wonka%20&amp;%20the%20Chocolate%20Factory%20Complete%20Score%20[KIt11Y_1H8U].m4a</location>
+			<duration>56727</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
