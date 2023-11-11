@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Dvorak-Polka/MP3/Dvorak-Polka.mp3</location>
+			<title>Dvorak-Polka.mp3</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Dvorak Polka</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Dvorak Polka&quot; by Kevin MacLeod.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Dvorak%20Polka/art.jpg</image>
+			<duration>105020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/ELO%20(Electric%20Light%20Orchestra)/(No%20video)%20ELO%20-%20Mr.%20Blue%20Sky.webm</location>
+			<duration>294660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Good-Thing/AudioOnly/M4A/Good%20Thing%20[lKdIkqqVJ40].m4a</location>
+			<duration>175019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Billy%20Joel/MP3/Piano-Man.mp3</location>
+			<title>Piano-Man.mp3</title>
+			<creator>Billy Joel</creator>
+			<album>Piano Man</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Billy%20Joel/Piano%20Man/art.jpg</image>
+			<duration>341561</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/99Luftballons/AudioOnly/MP3/99%20Luftballons-TMSlTQmDLx4.mp3</location>
+			<duration>228520</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/CaramelDansen/MP3/caramelldansen.mp3</location>
+			<title>caramelldansen.mp3</title>
+			<creator>Caramell</creator>
+			<album>SuperGott</album>
+			<trackNum>1</trackNum>
+			<annotation>I originally spelled this song wrong, there is 2 l&#39;s not 1. I spelled it Carameldansen, when it should have been Caramelldansen
+Despite the song originating in Sweden, the art style imitates the style of Japanese Anime.
+This song became an Internet meme in the mid 2000s.
+</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Caramell/SuperGott/art.jpg</image>
+			<duration>176858</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/EmersonLakePalmer/LuckyMan/(No%20video)%20EmersonLakePalmer%20-%20Lucky%20Man.webm</location>
+			<duration>277300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Songs-my-mother-taught-me/Ringtone_Samsung/AudioOnly/M4A/Samsung%20Ringtone%20-%20Dvorak%20-%20Songs%20My%20Mother%20Taught%20Me%20[Q4_-QFfTejw].m4a</location>
+			<duration>38430</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/See-Through-You/AudioOnly/M4A/See%20Through%20You%20[bQ13G6T1vOo].m4a</location>
+			<duration>176970</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Electronic-Go-Go/AudioOnly/M4A/Electronic%20Go%20Go%20[gn9F_xMdxEc].m4a</location>
+			<duration>163735</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Cephalopod/Kevin%20MacLeod%20-%2001%20-%20AhDah.mp3</location>
+			<title>AhDah</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Cephalopod</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Cephalopod/art.jpg</image>
+			<duration>171627</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Cephalopod/Kevin%20MacLeod%20-%2009%20-%20Psychedelic%20Crater.mp3</location>
+			<title>Psychedelic Crater</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Cephalopod</album>
+			<trackNum>9</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Cephalopod/art.jpg</image>
+			<duration>200075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Cephalopod/Kevin%20MacLeod%20-%2010%20-%20Takeover%20of%20the%208-bit%20Synths.mp3</location>
+			<title>Takeover of the 8-bit Synths</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Cephalopod</album>
+			<trackNum>10</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Cephalopod/art.jpg</image>
+			<duration>213397</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Cephalopod/Kevin%20MacLeod%20-%2004%20-%20Cut%20Trance.mp3</location>
+			<title>Cut Trance</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Cephalopod</album>
+			<trackNum>4</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Cephalopod/art.jpg</image>
+			<duration>220425</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Cephalopod/Kevin%20MacLeod%20-%2006%20-%20Future%20Gladiator.mp3</location>
+			<title>Future Gladiator</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Cephalopod</album>
+			<trackNum>6</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Cephalopod/art.jpg</image>
+			<duration>217028</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/SSC_Music/Kevin-Macleod_Ether-Disco/Kevin%20MacLeod%20-%2010%20-%20Ether%20Disco.mp3</location>
+			<title>Ether Disco</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>10</trackNum>
+			<annotation>Made with Sonic Foundry ACID 3</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>176070</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Disco%20Ultralounge/Kevin%20MacLeod%20-%2019%20-%20Stringed%20Disco.mp3</location>
+			<title>Stringed Disco</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>19</trackNum>
+			<annotation>Made with Sonic Foundry ACID 3</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>174972</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Disco%20Ultralounge/Kevin%20MacLeod%20-%2003%20-%20Avant%20Jazz.mp3</location>
+			<title>Avant Jazz</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>3</trackNum>
+			<annotation>From the soundtrack to Flux Five</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>41451</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Disco%20Ultralounge/Kevin%20MacLeod%20-%2008%20-%20Disco%20con%20Tutti.mp3</location>
+			<title>Disco con Tutti</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>8</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>236355</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Disco%20Ultralounge/Kevin%20MacLeod%20-%2014%20-%20Mining%20by%20Moonlight.mp3</location>
+			<title>Mining by Moonlight</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>14</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>203667</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Disco%20Ultralounge/Kevin%20MacLeod%20-%2004%20-%20Babylon.mp3</location>
+			<title>Babylon</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>4</trackNum>
+			<annotation> 0000001E 0000001D 000003C5 0000038E 00027B82 0000971F 0000409A 00004195 00021CEB 0001F68D</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>255297</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Candy-Store/AudioOnly/M4A/[HD]%20Nightcore%20-%20Candy%20Store%20[UkJkq69E0PI].m4a</location>
+			<duration>146193</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/Otak%20and%20Loid%20-%20It%20wasn&#39;t%20me%20(AI%20COVER)%20[a4tZ705x5tg].m4a</location>
+			<duration>228299</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Medic%20-%20Viva%20la%20vida%20(AI%20COVER)%20[L7i6CMLW5dE].m4a</location>
+			<duration>240281</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Scout%20and%20Sniper%20-%20Numb%20(AI%20COVER)%20[5vZnzgElAAA].m4a</location>
+			<duration>187502</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/Beerus%20-%20Accidentally%20in%20love%20(AI%20COVER)%20[cf1gLMpl-Es].m4a</location>
+			<duration>193771</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/Goku%20-%20Somebody%20that%20I%20used%20to%20know%20(AI%20COVER)%20[6jwF0R8U7XI].m4a</location>
+			<duration>247781</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/Squidward%20Tentacles%20-%20The%20Final%20Countdown%20(AI%20COVER)%20[ZFvY8n5ePH8].m4a</location>
+			<duration>312820</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+	</extension>
+</playlist>

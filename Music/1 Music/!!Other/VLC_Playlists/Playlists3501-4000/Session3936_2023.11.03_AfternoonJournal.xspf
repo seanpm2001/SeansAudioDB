@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Willy-Wonka-and-the-Chocolate-Factory-1971-Soundtrack/AudioOnly/M4A/Oompa%20Loompa%C2%A0%E2%80%93%20Willy%20Wonka%20&amp;%20the%20Chocolate%20Factory%20Complete%20Score%20[KIt11Y_1H8U].m4a</location>
+			<duration>56727</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charlie-and-the-Chocolate-Factory-2005-Soundtrack/AudioOnly/M4A/Veruca%20Salt%20[_v44mYzFKsA].m4a</location>
+			<duration>133340</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charlie-and-the-Chocolate-Factory-2005-Soundtrack/AudioOnly/M4A/Violet%20Beauregarde%20[V7PAKDOFCGo].m4a</location>
+			<duration>128208</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charlie-and-the-Chocolate-Factory-2005-Soundtrack/AudioOnly/M4A/Augustus%20Gloop%20[9sOhO2UCTW4].m4a</location>
+			<duration>190112</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

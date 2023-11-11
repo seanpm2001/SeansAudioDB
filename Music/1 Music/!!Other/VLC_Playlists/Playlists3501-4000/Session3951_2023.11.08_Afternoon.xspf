@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Konosuba/AudioOnly/Kono-Subarashii-Sekai-ni-Shukufuku-wo-OP-&amp;-End-ALL/M4A/Kono%20Subarashii%20Sekai%20ni%20Shukufuku%20wo%20OP%20&amp;%20End%20ALL%20[jTFdapJ3w4E].m4a</location>
+			<duration>916469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/NewSuperMarioBrosWii_Extended_battle.mp3</location>
+			<duration>1799145</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/NewSuperMarioBrosDS_Boss%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended%20[ukY3VBSeOeI].m4a</location>
+			<duration>1800081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
