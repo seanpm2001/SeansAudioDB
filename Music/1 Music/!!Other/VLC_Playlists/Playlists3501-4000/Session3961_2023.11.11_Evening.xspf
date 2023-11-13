@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/You-raise-me-up-(japanese-version)/AudioOnly/M4A/[HD]%20Nightcore%20-%20%20You%20raise%20me%20up%20(japanese%20version)%20[8ZpZGpLt184].m4a</location>
+			<duration>227254</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Slava_Ukraini!/AudioOnly/MP3/Slava_Ukraini!.mp3</location>
+			<title>Slava_Ukraini!.mp3</title>
+			<creator>Marcus Paus</creator>
+			<album>«Слава Україні!» Slava Ukraini!</album>
+			<trackNum>1</trackNum>
+			<annotation>Slava Ukraini!
+Glory to Ukraine!
+Слава Україні!
+
+This song was composed by Marcus Paus as a composition of the Norwegian Armed Forces and is an ode to the ongoing 2022 Russian Invasion of Ukraine</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Marcus%20Paus/%C2%AB%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%21%C2%BB%20Slava%20Ukraini%21/art.jpg</image>
+			<duration>261861</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Aishiteru-Banzai/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Aishiteru%20Banzai%20[zEm_oIcrAjw].m4a</location>
+			<duration>261457</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Yume-no-tobira/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Yume%20no%20tobira%20[AvSojOOZyDg].m4a</location>
+			<duration>99800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Every-time-we-touch/Remixes/Nightcore/AudioOnly/M4A/Nightcore%20-%20Everytime%20We%20Touch%20[uKDuIhNVLyg].m4a</location>
+			<duration>161124</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

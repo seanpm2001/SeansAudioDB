@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/YoiYou-Kokon/AudioOnly/M4A/[HD]%20Nightcore%20-%20YoiYoi%20Kokon%20[p219Y2KCP28].m4a</location>
+			<duration>227719</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Ichiban-no-Takaramono/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Ichiban%20no%20Takaramono%20[Cio2G7T9jGg].m4a</location>
+			<duration>308733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Wings%20to%20fly/Evangelion/MP3/Evangelion_Tsubasa-wo-Kudasai.mp3</location>
+			<title>Evangelion_Tsubasa-wo-Kudasai.mp3</title>
+			<creator>Evangelion</creator>
+			<album>Wings to fly / Tsubasa wo Kudasai</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Tsubasa wo Kudasai&quot; (Wings to fly) performed in the 2009 Anime Ova/Movie: Evangelion 2.0 (you can (not) advance) from 2009.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Evangelion/Wings%20to%20fly%20_%20Tsubasa%20wo%20Kudasai/art.png</image>
+			<duration>299634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/BiSH/MP3/BiSH-My-landscape.mp3</location>
+			<title>BiSH-My-landscape.mp3</title>
+			<creator>BiSH (Brand new Idol SHit)</creator>
+			<album>THE GUERRiLLA BiSH</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/BiSH%20%28Brand%20new%20Idol%20SHit%29/THE%20GUERRiLLA%20BiSH/art.jpg</image>
+			<duration>339445</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Mattete-Ai-no-Uta/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Mattete%20Ai%20no%20Uta%20[sSbKlMbZ2xM].m4a</location>
+			<duration>314143</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Aishiteru-Banzai/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Aishiteru%20Banzai%20[zEm_oIcrAjw].m4a</location>
+			<duration>261457</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Yume-no-tobira/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Yume%20no%20tobira%20[AvSojOOZyDg].m4a</location>
+			<duration>99800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
