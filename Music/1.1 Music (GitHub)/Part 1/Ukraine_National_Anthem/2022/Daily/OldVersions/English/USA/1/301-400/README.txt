@@ -59,11 +59,19 @@ RU: Применимы следующие 6 аудиофайлов:
 | `Marcus_Paus_'Slava Ukraini'.ogg` | **Location:** [`///1.1 Music (GitHub)/Part 1/Slava_Ukraini!/AudioOnly/OGG/Slava_Ukraini!.ogg`](/Music/1.1%20Music%20(GitHub)/Part%201/Slava_Ukraini!/AudioOnly/OGG/Slava_Ukraini!.ogg) |
 | `National_anthem_of_Ukraine,_instrumental.oga.ogx` | **Location:** [`///1.1 Music (GitHub)/Part 1/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx`](/Music//1.1%20Music%20(GitHub)/Part%201/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx) |
 | `Ukrainian_national_anthem_1916_(complete).ogg` | **Location:** [`///1.1 Music (GitHub)/Part 1/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg`](/Music//1.1%20Music%20(GitHub)/Part%201/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg) |
+| `Marcus_Paus_'Slava Ukraini'_for_viola_solo.mp3` | **Location:** [`///1.1 Music (GitHub)/Part 1/!Ukrainian_Music/Slava_Ukraini!/AudioOnly/Viola_Solo/OGG/Marcus_Paus_'Slava Ukraini'_for_viola_solo.ogg`](/Music//1.1%20Music%20(GitHub)/Part%201/Slava_Ukraini%33/AudioOnly/Viola_Solo/OGG/Marcus_Paus_'Slava Ukraini'_for_viola_solo.ogg) |
+| `Marcus_Paus_'Slava Ukraini'_for_viola_solo.mp3` | **Location:** [`///1.1 Music (GitHub)/Part 1/!Ukrainian_Music/Slava_Ukraini!/AudioOnly/Viola_Solo/MP3/Marcus_Paus_'Slava Ukraini'_for_viola_solo.mp3`](/Music//1.1%20Music%20(GitHub)/Part%201/Slava_Ukraini%33/AudioOnly/Viola_Solo/MP3/Marcus_Paus_'Slava Ukraini'_for_viola_solo3.mp3) |
+| `Marcus_Paus_'Slava Ukraini'.mp3` | **Location:** [`///1.1 Music (GitHub)/Part 1/!Ukrainian_Music/Slava_Ukraini!/AudioOnly/MP3/Slava_Ukraini!.mp3`](/Music/1.1%20Music%20(GitHub)/Part%201/Slava_Ukraini!/AudioOnly/MP3/Slava_Ukraini!.mp3) |
+| `Marcus_Paus_'Slava Ukraini'.ogg` | **Location:** [`///1.1 Music (GitHub)/Part 1/!Ukrainian_Music/Slava_Ukraini!/AudioOnly/OGG/Slava_Ukraini!.ogg`](/Music/1.1%20Music%20(GitHub)/Part%201/Slava_Ukraini!/AudioOnly/OGG/Slava_Ukraini!.ogg) |
+| `National_anthem_of_Ukraine,_instrumental.oga.ogx` | **Location:** [`///1.1 Music (GitHub)/Part 1/!Ukrainian_Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx`](/Music//1.1%20Music%20(GitHub)/Part%201/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx) |
+| `Ukrainian_national_anthem_1916_(complete).ogg` | **Location:** [`///1.1 Music (GitHub)/Part 1/!Ukrainian_Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg`](/Music//1.1%20Music%20(GitHub)/Part%201/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg) |
 
+<!--
 - Starting 2023, November 23rd, the following locations are also valid:
 - [UK/UA] Починаючи з 2023 року, 23 листопада, також діють такі локації:
 - [RU] С 23 ноября 2023 года также действуют следующие локации:
-
+!-->
+<!--
 | **🇺🇦️** | **📂️** |
 |---|---|
 | `Marcus_Paus_'Slava Ukraini'_for_viola_solo.mp3` | **Location:** [`///1.1 Music (GitHub)/Part 1/!Ukrainian_Music/Slava_Ukraini!/AudioOnly/Viola_Solo/OGG/Marcus_Paus_'Slava Ukraini'_for_viola_solo.ogg`](/Music//1.1%20Music%20(GitHub)/Part%201/Slava_Ukraini%33/AudioOnly/Viola_Solo/OGG/Marcus_Paus_'Slava Ukraini'_for_viola_solo.ogg) |
@@ -72,6 +80,7 @@ RU: Применимы следующие 6 аудиофайлов:
 | `Marcus_Paus_'Slava Ukraini'.ogg` | **Location:** [`///1.1 Music (GitHub)/Part 1/!Ukrainian_Music/Slava_Ukraini!/AudioOnly/OGG/Slava_Ukraini!.ogg`](/Music/1.1%20Music%20(GitHub)/Part%201/Slava_Ukraini!/AudioOnly/OGG/Slava_Ukraini!.ogg) |
 | `National_anthem_of_Ukraine,_instrumental.oga.ogx` | **Location:** [`///1.1 Music (GitHub)/Part 1/!Ukrainian_Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx`](/Music//1.1%20Music%20(GitHub)/Part%201/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx) |
 | `Ukrainian_national_anthem_1916_(complete).ogg` | **Location:** [`///1.1 Music (GitHub)/Part 1/!Ukrainian_Music/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg`](/Music//1.1%20Music%20(GitHub)/Part%201/Ukraine_National_Anthem/Original/1916/OGG/Ukrainian_national_anthem_1916_(complete).ogg) |
+!-->
 
 <!-- TODO: Make these into functional links, the right side will be the link, the left side will be plain text !-->
 <!-- IN PROGRESS: I can't ensure these links work with the GitHub source code editor, so I will have to publish to find out - 2022, November 2nd !-->
@@ -90,9 +99,9 @@ RU: Применимы следующие 6 аудиофайлов:
 
 # Counter / Лічильник / Прилавок
 
-- The Ukrainian Flag Emoji appears in this document `4611` times (as of 2023.11.22)
-- UA/UK: У цьому документі з'являється емодзі прапора України `4611` разів (станом на 2023.11.22)
-- RU: Эмодзи Флаг Украины появляется в этом документе `4611` раз (по состоянию на 2023.11.22)
+- The Ukrainian Flag Emoji appears in this document `4614` times (as of 2023.11.23)
+- UA/UK: У цьому документі з'являється емодзі прапора України `4614` разів (станом на 2023.11.23)
+- RU: Эмодзи Флаг Украины появляется в этом документе `4614` раз (по состоянию на 2023.11.23)
 
 ***
 
@@ -1153,6 +1162,7 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 635, 2023, Monday, November 20th
 - [x] 🇺🇦️ Day 636, 2023, Tuesday, November 21st
 - [x] 🇺🇦️ Day 637, 2023, Wednesday, November 22nd
+- [x] 🇺🇦️ Day 638, 2023, Thursday, November 23rd
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -4731,12 +4741,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3560: 2023, November 20th
 - [x] 🇺🇦️ Day 3561: 2023, November 21st
 - [x] 🇺🇦️ Day 3562: 2023, November 22nd
+- [x] 🇺🇦️ Day 3563: 2023, November 23rd
 
-After 3,562 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-
-UA/UK: після 3,562 днів, це все ще Україна. Слава Україні!
-
-RU: Спустя 3,562 дня это все еще Украина. Слава Украине!
+- After 3,563 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 3,563 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 3,563 дня это все еще Украина. Слава Украине!
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -4762,15 +4771,15 @@ RU: Спустя 3,562 дня это все еще Украина. Слава У
 - **UA/UK: Тип файлу:** `Уцінка (*.md *.mkd *.mdown *.markdown)`
 - **RU: Тип файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `348 (2023, Wednesday, November 22nd at 06:18 pm PST)`
+- **File version:** `349 (2023, Thursday, November 23rd at 03:43 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
 > **Translation not available (Russian) Перевод недоступен (Русский)**
 
-- **Line count (including blank lines and compiler line):** `5,750`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `5,750`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `5,750`
+- **Line count (including blank lines and compiler line):** `5,779`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `5,779`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `5,759`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -5741,6 +5750,26 @@ RU: Спустя 3,562 дня это все еще Украина. Слава У
 - [ ] No other changes in version 348
 
 </details> <!-- V348 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 349 (2023, Thursday, Novemebr 23rd at 03:43 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Announced the new valid music locations in `/Part 1/!Ukrainian_Music/`
+- [x] Updated the Ukrainian flag counter section, with a new value of `4614`
+- [x] Updated the main list to include an entry for 2023, November 22nd (day 410)
+- [x] Updated the list of all days of the war since the 2022 Invasion (638 days)
+- [x] Updated the list of all days of the war (3,563 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 349
+- [ ] No other changes in version 349
+
+</details> <!-- V349 !-->
 
 ---
 
