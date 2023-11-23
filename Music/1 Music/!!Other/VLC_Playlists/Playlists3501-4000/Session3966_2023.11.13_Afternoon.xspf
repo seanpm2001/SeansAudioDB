@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!German_Music/S%C3%A4ngerkrieg/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20S%C3%A4ngerkrieg%20[zsna24QXqLM].m4a</location>
+			<duration>193005</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!German_Music/99Luftballons/AudioOnly/MP3/99%20Luftballons-TMSlTQmDLx4.mp3</location>
+			<duration>228526</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!German_Music/Blau-wie-das-Meer/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Blau%20wie%20das%20Meer%20[6HD7NqTFgks].m4a</location>
+			<duration>138090</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!German_Music/Moskau/MP3/Moskau-1979.mp3</location>
+			<title>Moskau-1979.mp3</title>
+			<creator>Dschinghis Khan</creator>
+			<album>Moskau</album>
+			<trackNum>1</trackNum>
+			<annotation>This is the German version of the song. English and Russian versions also exist.
+Dschinghis Khan translates to Genghis Khan in some countries such as Australia)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Dschinghis%20Khan/Moskau/art.jpg</image>
+			<duration>266985</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!German_Music/S%C3%A4ngerkrieg/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20S%C3%A4ngerkrieg%20[zsna24QXqLM].m4a</location>
+			<duration>193005</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

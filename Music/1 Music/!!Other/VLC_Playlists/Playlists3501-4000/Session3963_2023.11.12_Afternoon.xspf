@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/PVZ1_Uraniwa-ni-Zombies-ga!/AudioOnly/MP3_V0/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2017%20Uraniwa%20ni%20Zombies%20ga!.mp3</location>
+			<title>Uraniwa ni Zombies ga!</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>17</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%20Soundtrack/art</image>
+			<duration>159425</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Flamingo/Extended/MP3/Flamingo%2010%20hours.mp3</location>
+			<title>Flamingo 10 hours.mp3</title>
+			<creator>Kero Kero Bonito</creator>
+			<album>Flamingo</album>
+			<trackNum>1</trackNum>
+			<annotation>The original English with Japanese version of the song &quot;Flamingo&quot; by Kero Kero Bonito</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kero%20Kero%20Bonito/Flamingo/art.png</image>
+			<duration>37508376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Senbonzakura/MP3/Senbonzakura.mp3</location>
+			<title>Senbonzakura.mp3</title>
+			<creator>Lindsay Sterling</creator>
+			<album>Senbonzakura (violin cover)</album>
+			<trackNum>1</trackNum>
+			<annotation>A violin cover of the song Senbonzakura.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lindsay%20Sterling/Senbonzakura%20%28violin%20cover%29/art.jpg</image>
+			<duration>204574</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/GTAII_Funami_FM/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Funami%20FM%20-%20(Old%20Upload)%20[Ng957KTcNO0].m4a</location>
+			<duration>720423</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Wings%20to%20fly/Evangelion/MP3/Evangelion_Tsubasa-wo-Kudasai.mp3</location>
+			<title>Evangelion_Tsubasa-wo-Kudasai.mp3</title>
+			<creator>Evangelion</creator>
+			<album>Wings to fly / Tsubasa wo Kudasai</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Tsubasa wo Kudasai&quot; (Wings to fly) performed in the 2009 Anime Ova/Movie: Evangelion 2.0 (you can (not) advance) from 2009.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Evangelion/Wings%20to%20fly%20_%20Tsubasa%20wo%20Kudasai/art.png</image>
+			<duration>299634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/Radio_Stations/Lithium_FM/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Lithium%20FM%20-%20(Old%20Upload)%20[CqEo8PghpkE].m4a</location>
+			<duration>721073</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/Radio_Stations/Head_Radio/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Head%20Radio%20-%20(Old%20Upload)%20[CAM-ayM2A9Y].m4a</location>
+			<duration>1440241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/MP3/Bejeweled%20Twist%20Music%20-%20Challenge%201.mp3</location>
+			<title>Bejeweled Twist Music - Challenge 1.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Challenge mode</album>
+			<trackNum>2</trackNum>
+			<annotation>The main challenge mode theme for Bejeweled Twist.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Challenge%20mode/art.jpg</image>
+			<duration>1234616</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/MP3/Bejeweled%20Twist%20Music%20-%20Classic%202.mp3</location>
+			<title>Bejeweled Twist Music - Classic 2.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Classic mode</album>
+			<trackNum>3</trackNum>
+			<annotation>The second classic mode song for Bejeweled Twist.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Classic%20mode/art.jpg</image>
+			<duration>417839</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

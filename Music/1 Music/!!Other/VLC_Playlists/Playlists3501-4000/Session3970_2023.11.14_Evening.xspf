@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-advance-3-complete-sound-trax-rip/91%20Options%20(alt).mp3</location>
+			<title>Options (alternate)</title>
+			<creator>Hideaki Kobayashi, Fumie Kumatani, Tatsuyuki Maeda, Tomoya Ohtani, Masaru Setsumaru, Kenichi Tokoi, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 3</album>
+			<duration>82050</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-advance-3-complete-sound-trax-rip/25%20Ocean%20Base%20Act%202.mp3</location>
+			<title>Ocean Base Act 2</title>
+			<creator>Hideaki Kobayashi, Fumie Kumatani, Tatsuyuki Maeda, Tomoya Ohtani, Masaru Setsumaru, Kenichi Tokoi, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 3</album>
+			<duration>183066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Slava_Ukraini!/AudioOnly/MP3/Slava_Ukraini!.mp3</location>
+			<title>Slava_Ukraini!.mp3</title>
+			<creator>Marcus Paus</creator>
+			<album>«Слава Україні!» Slava Ukraini!</album>
+			<trackNum>1</trackNum>
+			<annotation>Slava Ukraini!
+Glory to Ukraine!
+Слава Україні!
+
+This song was composed by Marcus Paus as a composition of the Norwegian Armed Forces and is an ode to the ongoing 2022 Russian Invasion of Ukraine</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Marcus%20Paus/%C2%AB%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%21%C2%BB%20Slava%20Ukraini%21/art.jpg</image>
+			<duration>261863</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Polish_Music/Polish%20Cow/MP3/Polish-Cow.mp3</location>
+			<title>Polish-Cow.mp3</title>
+			<creator>Lipps Inc.</creator>
+			<album>How long (Ace)</album>
+			<trackNum>1</trackNum>
+			<annotation>The origins of this song go a lot deeper than I expected. The song was originally a 1974 song by the artist Ace, which had a Polish cover in 1980 by Lipps Inc.. It wasn&#39;t until 2020 that it was inserted over a GIF of a dancing cow, spawning the Polish cow meme.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lipps%20Inc./How%20long%20%28Ace%29/art.jpg</image>
+			<duration>243262</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Polish_Music/Spinning%20toilet%20meme/MP3/Polish-Spinning-Toilet.mp3</location>
+			<title>Polish-Spinning-Toilet.mp3</title>
+			<creator>Basshunter Dota</creator>
+			<album>Polish Spinning Toilet</album>
+			<trackNum>1</trackNum>
+			<annotation>The current set year is incorrect.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Basshunter%20Dota/Polish%20Spinning%20Toilet/art.jpg</image>
+			<duration>118996</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Romanian_Music/O-Zone%20-%20Dragostea%20Din%20Tei%20[Official%20Video]/MP3/O-Zone_Dragostea-Din-Tei.mp3</location>
+			<title>O-Zone_Dragostea-Din-Tei.mp3</title>
+			<creator>O-Zone</creator>
+			<album>Dragostea Din Tei</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Dragostea Din Tei&quot; by the band &quot;O-Zone&quot; it gained significant recognition by the lip syncing video of the song by Gary Brolsma in his video &quot;Numa Numa&quot; released originally in 2004.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/O-Zone/Dragostea%20Din%20Tei/art.jpg</image>
+			<duration>285920</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

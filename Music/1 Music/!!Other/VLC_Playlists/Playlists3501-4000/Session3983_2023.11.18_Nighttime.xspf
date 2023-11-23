@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_TeamFortress2/Pyro/Bad-Apple/AudioOnly/M4A/TF2%20Pyro%20-%20Bad%20Apple%20(AI%20COVER)%20[eqzwt0FfYDk].m4a</location>
+			<duration>300490</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_TeamFortress2/Medic-and-Heavy/Mr.-Blue-Sky/AudioOnly/M4A/TF2%20Medic%20and%20Heavy%20-%20Mr%20Blue%20Sky%20(AI%20COVER)%20[wFG_unUfL7Y].m4a</location>
+			<duration>299236</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Turkish_Music/Traditional-Turkish-Music/MP3/Traditional-Turkish-Music.mp3</location>
+			<title>Traditional-Turkish-Music.mp3</title>
+			<creator>Unknown</creator>
+			<album>Traditional Turkish Music</album>
+			<trackNum>1</trackNum>
+			<annotation>I cannot get good information on this songs genre, artist, or year.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown/Traditional%20Turkish%20Music/art.jpg</image>
+			<duration>376226</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Senbonzakura/Miku/AudioOnly/M4A/Hatsune%20Miku%20-%20Senbonzakura%20-%20Lyrics%20(Kan_Rom_Eng)%20[F1tWiEPc5yg].m4a</location>
+			<duration>245296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Yume-no-tobira/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Yume%20no%20tobira%20[AvSojOOZyDg].m4a</location>
+			<duration>99800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Mattete-Ai-no-Uta/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Mattete%20Ai%20no%20Uta%20[sSbKlMbZ2xM].m4a</location>
+			<duration>314143</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
