@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-advance-3-complete-sound-trax-rip/53%20Staff%20Roll.mp3</location>
+			<title>Staff Roll</title>
+			<creator>Hideaki Kobayashi, Fumie Kumatani, Tatsuyuki Maeda, Tomoya Ohtani, Masaru Setsumaru, Kenichi Tokoi, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 3</album>
+			<duration>232908</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-advance-3-complete-sound-trax-rip/51%20Ending%20A.mp3</location>
+			<title>Ending A</title>
+			<creator>Hideaki Kobayashi, Fumie Kumatani, Tatsuyuki Maeda, Tomoya Ohtani, Masaru Setsumaru, Kenichi Tokoi, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 3</album>
+			<duration>132049</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-advance-3-complete-sound-trax-rip/52%20Ending%20B.mp3</location>
+			<title>Ending B</title>
+			<creator>Hideaki Kobayashi, Fumie Kumatani, Tatsuyuki Maeda, Tomoya Ohtani, Masaru Setsumaru, Kenichi Tokoi, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 3</album>
+			<duration>203050</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Robot-Chicken/Main-Theme/AudioOnly/M4A/Robot%20Chicken%20-%20Theme%20Song%20[9d7k6Mhe93c].m4a</location>
+			<duration>42098</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/iMovie_OST/Buddy/AudioOnly/M4A/Buddy%20(w_sheet)%20(iMovie%20Jingle%20Theme)%20[P086bauEXAU].m4a</location>
+			<duration>79181</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
