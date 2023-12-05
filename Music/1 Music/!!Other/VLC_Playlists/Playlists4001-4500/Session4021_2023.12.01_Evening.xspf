@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Adventure%20Time%20OST/MP3/Adventure-Time_Island-Song-Outro.mp3</location>
+			<title>Adventure-Time_Island-Song-Outro.mp3</title>
+			<creator>Adventure Time / Cartoon Network</creator>
+			<album>Adventure Time production music</album>
+			<trackNum>2</trackNum>
+			<annotation>The end credits song to the TV show Adventure Time.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Adventure%20Time%20_%20Cartoon%20Network/Adventure%20Time%20production%20music/art.jpg</image>
+			<duration>111055</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Marios-Invincible-Song/Extended/AudioOnly/M4A/Starman%20Theme%20with%20lyrics%20(Also%20known%20as%20Mario&#39;s%20Invincible%20Song)%20Extended%20[2pbMXZ04LTI].m4a</location>
+			<duration>604068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rokiczanka-W-moim-ogr%C3%B3decku/MP3/Rokiczanka_W-moim-ogr%C3%B3decku.mp3</location>
+			<title>Rokiczanka_W-moim-ogródecku.mp3</title>
+			<creator>Rokiczanka</creator>
+			<album>W moim ogródecku</album>
+			<trackNum>1</trackNum>
+			<annotation>I can&#39;t translate the necessary info accurately to fill out info here. All I know is that it is a good song (IMO)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rokiczanka/W%20moim%20ogr%C3%B3decku/art.jpg</image>
+			<duration>238638</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/El-Tango-De-Roxanne/MP3/El-Tango-De-Roxanne.mp3</location>
+			<title>El-Tango-De-Roxanne.mp3</title>
+			<creator>The Police (band)</creator>
+			<album>El Tango De Roxanne</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;El Tango De Roxanne&quot; by the English band &quot;The Police&quot; (who are not current or former police officers, it is just the band name)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Police%20%28band%29/El%20Tango%20De%20Roxanne/art.jpg</image>
+			<duration>283908</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Curb%20your%20enthusiasm%20theme/MP3/Curb-your-Enthusiasm-Theme.mp3</location>
+			<title>Curb-your-Enthusiasm-Theme.mp3</title>
+			<creator>Curb Your Enthusiasm</creator>
+			<album>Curb Your Enthusiasm Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Curb%20Your%20Enthusiasm/Curb%20Your%20Enthusiasm%20Soundtrack/art.png</image>
+			<duration>67430</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20Birds%20OST/MP3/Angry-Birds-OST_Main-theme.mp3</location>
+			<title>Angry-Birds-OST_Main-theme.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds OST</album>
+			<trackNum>1</trackNum>
+			<annotation>The original theme song for the mobile game Angry Birds.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20OST/art.png</image>
+			<duration>69755</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_PCVersion_TrickOrTreat.mp3</location>
+			<title>AngryBirdsSeasons_PCVersion_TrickOrTreat.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>94206</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_WinterWonderham.mp3</location>
+			<title>AngryBirdsSeasons_WinterWonderham.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>63407</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_PCVersion_SeasonsGreedings.mp3</location>
+			<title>AngryBirdsSeasons_PCVersion_SeasonsGreedings.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>93421</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/MP3/AngryBirdsSeasons_HogsandKisses.mp3</location>
+			<title>AngryBirdsSeasons_HogsandKisses.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>84436</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Disco%20Ultralounge/Kevin%20MacLeod%20-%2011%20-%20George%20Street%20Shuffle.mp3</location>
+			<title>George Street Shuffle</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>11</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>268306</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Claire%20De%20Lune%20Claude%20Debussy/MP3/Claire-de-Lune_Claude-Debussy.mp3</location>
+			<title>Claire-de-Lune_Claude-Debussy.mp3</title>
+			<creator>Claude Debussy</creator>
+			<album>Claire De Lune</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Claire de Lune&quot; by the French artist &quot;Claude Debussy&quot; I got the names mixed up originally, this has been fixed in this files media information.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Claude%20Debussy/Claire%20De%20Lune/art.jpg</image>
+			<duration>302220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mr.Blue%20Sky/MP3/Mr.BlueSky_Animated.mp3</location>
+			<title>Mr.BlueSky_Animated.mp3</title>
+			<creator>ELO (Electric Light Orchestra)</creator>
+			<album>Mr. Blue Sky (Animated)</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/ELO%20%28Electric%20Light%20Orchestra%29/Mr.%20Blue%20Sky%20%28Animated%29/art.jpg</image>
+			<duration>222938</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mr.Blue%20Sky/MP3/Mr.BlueSky.mp3</location>
+			<title>Mr.BlueSky.mp3</title>
+			<creator>ELO (Electric Light Orchestra)</creator>
+			<album>Mr. Blue Sky</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/ELO%20%28Electric%20Light%20Orchestra%29/Mr.%20Blue%20Sky/art.jpg</image>
+			<duration>294619</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mr.Blue%20Sky/Remixes/AI_Covers/TF2/Medic-and-heavy/AudioOnly/M4A/TF2%20Medic%20and%20Heavy%20-%20Mr%20Blue%20Sky%20(AI%20COVER)%20[wFG_unUfL7Y].m4a</location>
+			<duration>299236</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/My%20hope%20will%20never%20die/MP3/Dr_My-hope-will-never-die.mp3</location>
+			<title>Dr_My-hope-will-never-die.mp3</title>
+			<creator>Dr</creator>
+			<album>I keep holding on</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I keep holding on&quot; by Dr. I cannot determine the year of this song, as its MLG counterpart has so much popularity that it makes it hard to determine the year. So I am using the approximated start of the MLG era as the year. Same goes with the album art, I tried several things, this is as close as I could get.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Dr/I%20keep%20holding%20on/art.jpg</image>
+			<duration>216747</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Skrillex/AudioOnly/M4A/SKRILLEX%20-%20Bangarang%20feat.%20Sirah%20[Official%20Music%20Video]%20[YJVmu6yttiw].m4a</location>
+			<duration>218988</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
