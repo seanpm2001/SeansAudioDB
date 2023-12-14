@@ -83,9 +83,9 @@ RU: Применимы следующие 6 аудиофайлов:
 
 # Counter / Лічильник / Прилавок
 
-- The Ukrainian Flag Emoji appears in this document `4650` times (as of 2023.12.04)
-- UA/UK: У цьому документі з'являється емодзі прапора України `4650` разів (станом на 2023.12.04)
-- RU: Эмодзи Флаг Украины появляется в этом документе `4650` раз (по состоянию на 2023.12.04)
+- The Ukrainian Flag Emoji appears in this document `4673` times (as of 2023.12.13)
+- UA/UK: У цьому документі з'являється емодзі прапора України `4673` разів (станом на 2023.12.13)
+- RU: Эмодзи Флаг Украины появляется в этом документе `4673` раз (по состоянию на 2023.12.13)
 
 ***
 
@@ -512,6 +512,15 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 419: 2023, December 2nd
 - [x] 🇺🇦️ Day 420: 2023, December 3rd
 - [x] 🇺🇦️ Day 421: 2023, December 4th
+- [x] 🇺🇦️ Day 422: 2023, December 5th
+- [x] 🇺🇦️ Day 423: 2023, December 6th
+- [x] 🇺🇦️ Day 424: 2023, December 7th
+- [x] 🇺🇦️ Day 425: 2023, December 8th
+- [x] 🇺🇦️ Day 426: 2023, December 9th
+- [x] 🇺🇦️ Day 427: 2023, December 10th
+- [x] 🇺🇦️ Day 428: 2023, December 11th
+- [x] 🇺🇦️ Day 429: 2023, December 12th
+- [x] 🇺🇦️ Day 430: 2023, December 13th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -1170,6 +1179,15 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 647, 2023, Saturday, December 2nd
 - [x] 🇺🇦️ Day 648, 2023, Sunday, December 3rd
 - [x] 🇺🇦️ Day 649, 2023, Monday, December 4th
+- [x] 🇺🇦️ Day 650, 2023, Tuesday, December 5th
+- [x] 🇺🇦️ Day 651, 2023, Wednesday, December 6th
+- [x] 🇺🇦️ Day 652, 2023, Thursday, December 7th
+- [x] 🇺🇦️ Day 653, 2023, Friday, December 8th
+- [x] 🇺🇦️ Day 654, 2023, Saturday, December 9th
+- [x] 🇺🇦️ Day 655, 2023, Sunday, December 10th
+- [x] 🇺🇦️ Day 656, 2023, Monday, December 11th
+- [x] 🇺🇦️ Day 657, 2023, Tuesday, December 12th
+- [x] 🇺🇦️ Day 658, 2023, Wednesday, December 13th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -4760,10 +4778,19 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3572: 2023, December 2nd
 - [x] 🇺🇦️ Day 3573: 2023, December 3rd
 - [x] 🇺🇦️ Day 3574: 2023, December 4th
+- [x] 🇺🇦️ Day 3575: 2023, December 5th
+- [x] 🇺🇦️ Day 3576: 2023, December 6th
+- [x] 🇺🇦️ Day 3577: 2023, December 7th
+- [x] 🇺🇦️ Day 3578: 2023, December 8th
+- [x] 🇺🇦️ Day 3579: 2023, December 9th
+- [x] 🇺🇦️ Day 3580: 2023, December 10th
+- [x] 🇺🇦️ Day 3581: 2023, December 11th
+- [x] 🇺🇦️ Day 3582: 2023, December 12th
+- [x] 🇺🇦️ Day 3583: 2023, December 13th
 
-- After 3,574 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 3,574 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 3,574 дня это все еще Украина. Слава Украине!
+- After 3,583 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 3,583 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 3,583 дня это все еще Украина. Слава Украине!
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -4789,15 +4816,15 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **UA/UK: Тип файлу:** `Уцінка (*.md *.mkd *.mdown *.markdown)`
 - **RU: Тип файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `358 (2023, Monday, December 4th at 05:38 pm PST)`
+- **File version:** `359 (2023, Wednesday, December 13th at 09:19 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
 > **Translation not available (Russian) Перевод недоступен (Русский)**
 
-- **Line count (including blank lines and compiler line):** `5,973`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `5,973`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `5,973`
+- **Line count (including blank lines and compiler line):** `6,029`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `6,029`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `6,029`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -5964,6 +5991,35 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [ ] No other changes in version 358
 
 </details> <!-- V358 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 359 (2023, Wednesday, December 13th at 09:19 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release was delayed by 9 days, as I have been falling behind again._
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `4673`
+- [x] Updated the main list to include an entry for 2023, December 5th (day 422)
+- [x] Updated the main list to include an entry for 2023, December 6th (day 423)
+- [x] Updated the main list to include an entry for 2023, December 7th (day 424)
+- [x] Updated the main list to include an entry for 2023, December 8th (day 425)
+- [x] Updated the main list to include an entry for 2023, December 9th (day 426)
+- [x] Updated the main list to include an entry for 2023, December 10th (day 427)
+- [x] Updated the main list to include an entry for 2023, December 11th (day 428)
+- [x] Updated the main list to include an entry for 2023, December 12th (day 429)
+- [x] Updated the main list to include an entry for 2023, December 13th (day 430)
+- [x] Updated the list of all days of the war since the 2022 Invasion (658 days)
+- [x] Updated the list of all days of the war (3,583 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 359
+- [ ] No other changes in version 359
+
+</details> <!-- V359 !-->
 
 ---
 
