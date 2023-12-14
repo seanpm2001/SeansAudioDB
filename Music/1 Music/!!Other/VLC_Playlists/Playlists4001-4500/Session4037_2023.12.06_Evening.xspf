@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Ukrainian_Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Ukrainian_Music/Mykola_Lysenko/The-Dneiper-River-Rages/Mykola_Lysenko_-_The_Dnieper_River_Rages.flac</location>
+			<title>Mykola Lysenko - The Dnieper River Rages (Реве та стогне Дніпр широкий)</title>
+			<creator>Albert Krywolt, Pavlo Hunka</creator>
+			<album>Mykola Lysenko CD1 - Nature</album>
+			<trackNum>6</trackNum>
+			<duration>125240</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/C%C3%A9line_Dion/Celine%20Dion%20-%20My-heart-will-go-on/MP3/Celine-Dion_My-heart-will-go-on.mp3</location>
+			<title>Celine-Dion_My-heart-will-go-on.mp3</title>
+			<creator>Celine Dion</creator>
+			<album>My heart will go on</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;My heart will go on&quot; by singer Celine Dion. Used in the Titanic movie from 1996.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Celine%20Dion/My%20heart%20will%20go%20on/art.jpg</image>
+			<duration>280486</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sparta%20Remixes/AudioOnly/MP3/This%20is%20Sparta!%20Last%20techno%20remix.mp3</location>
+			<duration>133956</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Conor-and-Jay_Driving-on-Vegas-Road/AudioOnly/M4A/Conor%20&amp;%20Jay%20-%20Driving%20on%20Vegas%20Road%20(ORIGINAL%20FULL%20STUDIO%20VERSION!)%20[lrg1m-B6iXk].m4a</location>
+			<duration>198717</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/SSC_Music/Kevin-Macleod_Ether-Disco/Kevin%20MacLeod%20-%2010%20-%20Ether%20Disco.mp3</location>
+			<title>Ether Disco</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>10</trackNum>
+			<annotation>Made with Sonic Foundry ACID 3</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>176069</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Akon%20-%20Smack%20that/MP3/Akon_Smack-that.mp3</location>
+			<title>Akon_Smack-that.mp3</title>
+			<creator>Akon</creator>
+			<album>Smack that</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Smack that&quot; by artist Akon, as part of his album &quot;Konvicted&quot; this song features Eminem.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Akon/Smack%20that/art.jpg</image>
+			<duration>251386</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Space%20Oddity/MP3/David-Bowie_Space-Oddity.mp3</location>
+			<title>David-Bowie_Space-Oddity.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Space Oddity</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Space Oddity&quot; by David Bowie.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Space%20Oddity/art.jpg</image>
+			<duration>304937</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-mania-expanded-soundtrack-plus/2-32.%20Big%20Arms%20(Sonic%20Mania%20Adventures%20Special%20Remix).mp3</location>
+			<title>Big Arms (Sonic Mania Adventures Special Remix)</title>
+			<creator>Tee Lopes, Jun Senoue</creator>
+			<album>Sonic Mania: Expanded Soundtrack Plus</album>
+			<trackNum>32</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tee%20Lopes%2C%20Jun%20Senoue/Sonic%20Mania_%20Expanded%20Soundtrack%20Plus/art.jpg</image>
+			<duration>142109</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-mania-expanded-soundtrack-plus/2-13.%20Rogues%20Gallery%20(Mirage%20Saloon%20Zone%20Act%202).mp3</location>
+			<title>Rogues Gallery (Mirage Saloon Zone Act 2)</title>
+			<creator>Tee Lopes</creator>
+			<album>Sonic Mania: Expanded Soundtrack Plus</album>
+			<trackNum>13</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tee%20Lopes/Sonic%20Mania_%20Expanded%20Soundtrack%20Plus/art.jpg</image>
+			<duration>148300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-mania-expanded-soundtrack-plus/2-12.%20Wildstyle%20Pistolero%20(Mirage%20Saloon%20Zone%20Act%202%20K%20Mix).mp3</location>
+			<title>Wildstyle Pistolero (Mirage Saloon Zone Act 2 K Mix)</title>
+			<creator>Tee Lopes</creator>
+			<album>Sonic Mania: Expanded Soundtrack Plus</album>
+			<trackNum>12</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tee%20Lopes/Sonic%20Mania_%20Expanded%20Soundtrack%20Plus/art.jpg</image>
+			<duration>131138</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
