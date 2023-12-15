@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/MP3/Bejeweled%20Twist%20Music%20-%20Challenge%201.mp3</location>
+			<title>Bejeweled Twist Music - Challenge 1.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Challenge mode</album>
+			<trackNum>2</trackNum>
+			<annotation>The main challenge mode theme for Bejeweled Twist.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Challenge%20mode/art.jpg</image>
+			<duration>1234616</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/MP3/Bejeweled%20Twist%20Music%20-%20Challenge%202.mp3</location>
+			<title>Bejeweled Twist Music - Challenge 2.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Challenge mode</album>
+			<trackNum>3</trackNum>
+			<annotation>The secondary challenge mode song for Bejeweled Twist.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Challenge%20mode/art.jpg</image>
+			<duration>347413</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
