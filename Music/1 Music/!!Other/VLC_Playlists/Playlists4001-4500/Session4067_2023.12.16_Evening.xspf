@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Safety-Dance/Remixes/On-Crack/AudioOnly/M4A/Safety%20Dance%20On%20Crack%20[W7gyIRA1mXU].m4a</location>
+			<duration>188477</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tarantella-Napoletana/MP3/Tarantella-Napoletana.mp3</location>
+			<title>Tarantella-Napoletana.mp3</title>
+			<creator>Italy</creator>
+			<album>Tarantella Napoletana</album>
+			<trackNum>1</trackNum>
+			<annotation>I am unable to find good information on the artist, the date, and the genre.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Italy/Tarantella%20Napoletana/art.jpg</image>
+			<duration>162360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Plantasia/MP3/Mort-Garson-Swingin&#39;-Spathiphyllums.mp3</location>
+			<title>Mort-Garson-Swingin&#39;-Spathiphyllums.mp3</title>
+			<creator>Mort Garson</creator>
+			<album>Mother Earths: Plantasia</album>
+			<annotation>warm earth music for plants...
+and the people who love them</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Mort%20Garson/Mother%20Earths_%20Plantasia/art.jpg</image>
+			<duration>174899</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/weird%20al%20yankovic/AudioOnly/MP3/white%20and%20nerdy.mp3</location>
+			<duration>170476</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/weird%20al%20yankovic/AudioOnly/MP3/foil.mp3</location>
+			<duration>152739</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/weird%20al%20yankovic/AudioOnly/MP3/amish%20paradise.mp3</location>
+			<duration>204305</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/weird%20al%20yankovic/AudioOnly/MP3/its%20all%20about%20the%20pentiums.mp3</location>
+			<duration>214597</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
