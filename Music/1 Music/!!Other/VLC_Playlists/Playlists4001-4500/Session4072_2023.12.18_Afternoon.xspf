@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/weird%20al%20yankovic/AudioOnly/MP3/foil.mp3</location>
+			<duration>152737</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/weird%20al%20yankovic/AudioOnly/MP3/Weird%20Al%20Yankovic%20-%20Party%20In%20The%20CIA%20(Parody%20of%20Party%20In%20The%20U.S.A.%20by%20Miley%20Cyrus).mp3</location>
+			<duration>176666</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/weird%20al%20yankovic/AudioOnly/MP3/Weird%20Al%20Yankovic%20-%20Don&#39;t%20Download%20This%20Song.mp3</location>
+			<duration>233252</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/weird%20al%20yankovic/AudioOnly/MP3/Weird%20Al%20Yankovic%20-%20Trapped%20In%20The%20Drive-Thru.mp3</location>
+			<duration>655699</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/weird%20al%20yankovic/AudioOnly/MP3/word%20crimes.mp3</location>
+			<duration>225699</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Spongebob/Season%201/SpongeBob%20Production%20Music%20Fates.mp4</location>
+			<duration>29884</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Songs%20associated%20with%20death%20and%20loss/SpongeBob-Movie-2004_The-Two-Friends-End/MP3/The%20Two%20Friends&#39;%20End%20-%20Gregor%20Narholz.mp3</location>
+			<duration>197879</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
