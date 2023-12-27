@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Wake%20me%20up%20inside/AudioOnly/MP3/wake%20me%20up%20inside.mp3</location>
+			<duration>252867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Melanie%20-%20Brand%20new%20key/MP3/Melanie-Brand-new-key.mp3</location>
+			<title>Melanie-Brand-new-key.mp3</title>
+			<creator>Melanie</creator>
+			<album>Beautiful People: The greatest hits of Melanie</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Melanie/Beautiful%20People_%20The%20greatest%20hits%20of%20Melanie/art.png</image>
+			<duration>146451</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Journey%20-%20Don&#39;t%20stop%20believing/MP3/Journey-Don&#39;t-stop-believing.mp3</location>
+			<title>Journey-Don&#39;t-stop-believing.mp3</title>
+			<creator>Journey</creator>
+			<album>Don&#39;t stop believing</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Journey/Don%27t%20stop%20believing/art.jpg</image>
+			<duration>250210</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/brazillian%20flower/MP3/Brazillian-Flower.mp3</location>
+			<title>Brazillian-Flower.mp3</title>
+			<creator>Unknown</creator>
+			<album>Brazilian Flower</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown/Brazilian%20Flower/art.png</image>
+			<duration>116384</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/OutKast/MP3/OutKast_Hey-Ya-(shake-it-like-a-Polaroid-picture).mp3</location>
+			<title>OutKast_Hey-Ya-(shake-it-like-a-Polaroid-picture).mp3</title>
+			<creator>OutKast</creator>
+			<album>Hey Ya</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Hey Ya&quot; by the band &quot;OutKast&quot; commonly known for the lyric &quot;Shake it like a polaroid picture&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/OutKast/Hey%20Ya/art.jpg</image>
+			<duration>261600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
