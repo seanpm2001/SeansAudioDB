@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%2064/super-mario-64-soundtrack/Super%20Mario%2064%20(Soundtrack)/1-07%20Inside%20The%20Castle%20Walls.mp3</location>
+			<title>Inside The Castle Walls</title>
+			<creator>Koji Kondo</creator>
+			<album>Super Mario 64 (Soundtrack)</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Koji%20Kondo/Super%20Mario%2064%20%28Soundtrack%29/art.jpg</image>
+			<duration>120032</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Tiny%20tower%20(iOS%20&amp;%20Android)%20OST/MP3/Tiny%20Tower%20Music%20-%20This%20Could%20Be%20Fun%20-%20Erik%20Haddad.mp3</location>
+			<title>Tiny Tower Music - This Could Be Fun - Erik Haddad.mp3</title>
+			<creator>NimbleBit LLC, Erik Haddad</creator>
+			<album>Tiny Tower soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>The second in-game song to Tiny Tower. This could be fun, by Eriki Haddad.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/NimbleBit%20LLC%2C%20Erik%20Haddad/Tiny%20Tower%20soundtrack/art.jpg</image>
+			<duration>93422</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Tiny%20tower%20(iOS%20&amp;%20Android)%20OST/MP3/Tiny%20Tower%20Music%20-%20Song%203%20-%20NimbleBit.mp3</location>
+			<title>Tiny Tower Music - Song 3 - NimbleBit.mp3</title>
+			<creator>NimbleBit LLC</creator>
+			<album>Tiny Tower soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>The 3rd song in Tiny Tower. The song is literally titled &quot;song 3&quot; it is currently unknown as to who at NimbleBit composed this song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/NimbleBit%20LLC/Tiny%20Tower%20soundtrack/art.jpg</image>
+			<duration>181560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

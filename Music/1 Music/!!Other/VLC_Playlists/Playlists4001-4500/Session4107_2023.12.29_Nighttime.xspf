@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Sky%20Burger%20theme/MP3/Sky_Burger_Theme.mp3</location>
+			<title>Sky_Burger_Theme.mp3</title>
+			<creator>NimbleBit</creator>
+			<album>Sky Burger soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/NimbleBit/Sky%20Burger%20soundtrack/art.jpg</image>
+			<duration>72132</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mega%20Panda%20Theme/MP3/Mega-Panda-Theme-Song-Uncut.mp3</location>
+			<title>Mega-Panda-Theme-Song-Uncut.mp3</title>
+			<creator>NimbleBit</creator>
+			<album>Mega Panda theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song to the game Mega Panda by NimbleBit LLC.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/NimbleBit/Mega%20Panda%20theme%20song/art.png</image>
+			<duration>120590</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Disco%20Zoo%20OST/AudioOnly/MP3/Zoo%20Theme%20-%20Disco%20Zoo%20OST.mp3</location>
+			<duration>149395</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Disco%20Zoo%20OST/AudioOnly/MP3/Ice%20Age%20-%20Disco%20Zoo%20OST.mp3</location>
+			<duration>134061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Disco%20Zoo%20OST/AudioOnly/MP3/City%20-%20Disco%20Zoo%20OST.mp3</location>
+			<duration>127739</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Disco%20Zoo%20OST/AudioOnly/MP3/Savanna%20-%20Disco%20Zoo%20OST.mp3</location>
+			<duration>147723</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Disco%20Zoo%20OST/AudioOnly/MP3/Outback%20-%20Disco%20Zoo%20OST.mp3</location>
+			<duration>119929</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Disco%20Zoo%20OST/AudioOnly/MP3/Funky%20Menu%20-%20Disco%20Zoo%20OST.mp3</location>
+			<duration>128053</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Disco%20Zoo%20OST/AudioOnly/MP3/Polar%20-%20Disco%20Zoo%20OST.mp3</location>
+			<duration>140043</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Disco%20Zoo%20OST/AudioOnly/MP3/Jurassic%20-%20Disco%20Zoo%20OST.mp3</location>
+			<duration>114887</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!NimbleBitSeries/Disco%20Zoo%20OST/AudioOnly/MP3/Northern%20-%20Disco%20Zoo%20OST.mp3</location>
+			<duration>131788</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>

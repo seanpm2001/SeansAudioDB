@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%2064/super-mario-64-soundtrack/Super%20Mario%2064%20(Soundtrack)/1-07%20Inside%20The%20Castle%20Walls.mp3</location>
+			<title>Inside The Castle Walls</title>
+			<creator>Koji Kondo</creator>
+			<album>Super Mario 64 (Soundtrack)</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Koji%20Kondo/Super%20Mario%2064%20%28Soundtrack%29/art.jpg</image>
+			<duration>120032</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%2064/super-mario-64-soundtrack/Super%20Mario%2064%20(Soundtrack)/1-36%20Piranha%20Plant&#39;s%20Lullaby-Piano.mp3</location>
+			<title>Piranha Plant&#39;s Lullaby-Piano</title>
+			<creator>Koji Kondo</creator>
+			<album>Super Mario 64 (Soundtrack)</album>
+			<trackNum>36</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Koji%20Kondo/Super%20Mario%2064%20%28Soundtrack%29/art.jpg</image>
+			<duration>143073</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%2064/super-mario-64-soundtrack/Super%20Mario%2064%20(Soundtrack)/1-29%20Koopa&#39;s%20Road.mp3</location>
+			<title>Koopa&#39;s Road</title>
+			<creator>Koji Kondo</creator>
+			<album>Super Mario 64 (Soundtrack)</album>
+			<trackNum>29</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Koji%20Kondo/Super%20Mario%2064%20%28Soundtrack%29/art.jpg</image>
+			<duration>131160</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%2064/super-mario-64-soundtrack/Super%20Mario%2064%20(Soundtrack)/1-09%20Dire,%20Dire%20Docks.mp3</location>
+			<title>Dire, Dire Docks</title>
+			<creator>Koji Kondo</creator>
+			<album>Super Mario 64 (Soundtrack)</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Koji%20Kondo/Super%20Mario%2064%20%28Soundtrack%29/art.jpg</image>
+			<duration>186227</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%2064/super-mario-64-soundtrack/Super%20Mario%2064%20(Soundtrack)/1-14%20Cave%20Dungeon.mp3</location>
+			<title>Cave Dungeon</title>
+			<creator>Koji Kondo</creator>
+			<album>Super Mario 64 (Soundtrack)</album>
+			<trackNum>14</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Koji%20Kondo/Super%20Mario%2064%20%28Soundtrack%29/art.jpg</image>
+			<duration>225933</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
