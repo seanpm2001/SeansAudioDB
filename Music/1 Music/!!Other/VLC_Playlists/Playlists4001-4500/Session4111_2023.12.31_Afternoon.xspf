@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20Peace%20Walker/MP3/Metal-Gear-Solid_Peace-Walker_Heavens-Divide.mp3</location>
+			<title>Metal-Gear-Solid_Peace-Walker_Heavens-Divide.mp3</title>
+			<creator>Konami</creator>
+			<album>Metal Gear Solid - Peace Walker soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Heavens divide&quot; from the video game Metal Gear Solid - Peace Walker</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Metal%20Gear%20Solid%20-%20Peace%20Walker%20soundtrack/art.jpg</image>
+			<duration>313662</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/El-Tango-De-Roxanne/MP3/El-Tango-De-Roxanne.mp3</location>
+			<title>El-Tango-De-Roxanne.mp3</title>
+			<creator>The Police (band)</creator>
+			<album>El Tango De Roxanne</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;El Tango De Roxanne&quot; by the English band &quot;The Police&quot; (who are not current or former police officers, it is just the band name)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Police%20%28band%29/El%20Tango%20De%20Roxanne/art.jpg</image>
+			<duration>283908</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Imagine%20-%20John%20Lennon/AudioOnly/MP3/Imagine%20-%20John%20Lennon.mp3</location>
+			<duration>194404</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Brand%20new%20key/(No%20video)%20Melanie%20-%20Brand%20new%20key.webm</location>
+			<duration>146480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Fernando%20-%20Abba/MP3/ABBA-Fernando.mp3</location>
+			<title>ABBA-Fernando.mp3</title>
+			<creator>ABBA</creator>
+			<album>Fernando</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Fernando&quot; by the Swedish group &quot;ABBA&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/ABBA/Fernando/art.jpg</image>
+			<duration>254547</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The%20Beatles/AudioOnly/MP3/Here%20Comes%20The%20Sun%20(Remastered%202009).mp3</location>
+			<duration>185575</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The%20Beatles/AudioOnly/MP3/The%20Beatles%20-%20Hello,%20Goodbye.mp3</location>
+			<duration>208197</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Madonna%20-%20Ray%20of%20light/MP3/Madonna_Ray-of-light.mp3</location>
+			<title>Madonna_Ray-of-light.mp3</title>
+			<creator>Madonna</creator>
+			<album>Ray of Light</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Ray of light&quot; by the artist Madonna.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Madonna/Ray%20of%20Light/art.jpg</image>
+			<duration>306949</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Windows%20series/Windows%20XP/The%20Windows%20XP%20Tour%20Music%20[Original]%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>511489</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Wake%20me%20up%20inside/AudioOnly/MP3/wake%20me%20up%20inside.mp3</location>
+			<duration>252867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
