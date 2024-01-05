@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/AIFF/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2030%20Intro.aiff</location>
+			<title>Intro</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>30</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/C418/Minecraft%20-%20Volume%20Beta/art.jpg</image>
+			<duration>276187</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/AIFF/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2014%20Kyoto.aiff</location>
+			<title>Kyoto</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>14</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/C418/Minecraft%20-%20Volume%20Beta/art.jpg</image>
+			<duration>249000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/AIFF/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2018%20Dreiton.aiff</location>
+			<title>Dreiton</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>18</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/C418/Minecraft%20-%20Volume%20Beta/art.jpg</image>
+			<duration>497000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Beta/AIFF/C418%20-%20Minecraft%20-%20Volume%20Beta%20-%2024%20Strad.aiff</location>
+			<title>Strad</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Beta</album>
+			<trackNum>24</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/C418/Minecraft%20-%20Volume%20Beta/art.jpg</image>
+			<duration>188750</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

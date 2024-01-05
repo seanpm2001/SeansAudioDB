@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Alpha/AIFF/C418%20-%20Minecraft%20-%20Volume%20Alpha%20-%2004%20Death.aiff</location>
+			<title>Death</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Alpha</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/C418/Minecraft%20-%20Volume%20Alpha/art.jpg</image>
+			<duration>41500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Alpha/AIFF/C418%20-%20Minecraft%20-%20Volume%20Alpha%20-%2016%20Thirteen.aiff</location>
+			<title>Thirteen</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Alpha</album>
+			<trackNum>16</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/C418/Minecraft%20-%20Volume%20Alpha/art.jpg</image>
+			<duration>176500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Minecraft%20(PC,%20iOS,%20Android,%20XBOX,%20etc)%20OST/Album/Minecraft_-_Volume_Alpha/AIFF/C418%20-%20Minecraft%20-%20Volume%20Alpha%20-%2022%20Beginning.aiff</location>
+			<title>Beginning</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Alpha</album>
+			<trackNum>22</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/C418/Minecraft%20-%20Volume%20Alpha/art.jpg</image>
+			<duration>102100</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Guajira-guantanamera/MP3/Guajira-guantanamera.mp3</location>
+			<title>Guajira-guantanamera.mp3</title>
+			<creator>Guajira-guantanamera</creator>
+			<album>Guantanamera</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Guantanamera by Guajira. A popular Cuban song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Guajira-guantanamera/Guantanamera/art.jpg</image>
+			<duration>312095</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Pirate%20Seas/MP3/Plants%20Vs.%20Zombies%202%20Music%20-%20Pirate%20Seas_%20Ultimate%20Battle.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Pirate Seas_ Ultimate Battle.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Pirate Seas</album>
+			<trackNum>3</trackNum>
+			<annotation>The Ultimate Battle theme song for the Pirate Seas stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Pirate%20Seas/art.png</image>
+			<duration>407469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
