@@ -81,11 +81,11 @@ RU: Применимы следующие 6 аудиофайлов:
 
 ***
 
-# Counter / Лічильник / Прилавок
+# 🇺🇦️ Counter / Лічильник / Прилавок 🇺🇦️
 
-- The Ukrainian Flag Emoji appears in this document `4742` times (as of 2024.01.05)
-- UA/UK: У цьому документі з'являється емодзі прапора України `4742` разів (станом на 2024.01.05)
-- RU: Эмодзи Флаг Украины появляется в этом документе `4742` раз (по состоянию на 2024.01.05)
+- The Ukrainian Flag Emoji appears in this document `4747` times (as of 2024.01.06)
+- UA/UK: У цьому документі з'являється емодзі прапора України `4747` разів (станом на 2024.01.06)
+- RU: Эмодзи Флаг Украины появляется в этом документе `4747` раз (по состоянию на 2024.01.06)
 
 ***
 
@@ -544,6 +544,7 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 451: 2024, January 3rd
 - [x] 🇺🇦️ Day 452: 2024, January 4th
 - [x] 🇺🇦️ Day 453: 2024, January 5th
+- [x] 🇺🇦️ Day 454: 2024, January 6th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -1234,6 +1235,7 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 679, 2024, Wednesday, January 3rd
 - [x] 🇺🇦️ Day 680, 2024, Thursday, January 4th
 - [x] 🇺🇦️ Day 681, 2024, Friday, January 5th
+- [x] 🇺🇦️ Day 682, 2024, Saturday, January 6th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -4856,10 +4858,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3604: 2024, January 3rd
 - [x] 🇺🇦️ Day 3605: 2024, January 4th
 - [x] 🇺🇦️ Day 3606: 2024, January 5th
+- [x] 🇺🇦️ Day 3607: 2024, January 6th
 
-- After 3,606 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 3,606 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 3,606-- дня это все еще Украина. Слава Украине!
+- After 3,607 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 3,607 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 3,607 дня это все еще Украина. Слава Украине!
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -4885,15 +4888,15 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **UA/UK: Тип файлу:** `Уцінка (*.md *.mkd *.mdown *.markdown)`
 - **RU: Тип файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `381 (2024, Friday, January 5th at 07:44 pm PST)`
+- **File version:** `382 (2024, Saturday, January 6th at 04:40 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
 > **Translation not available (Russian) Перевод недоступен (Русский)**
 
-- **Line count (including blank lines and compiler line):** `6,519`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `6,519`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `6,519`
+- **Line count (including blank lines and compiler line):** `6,541`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `6,541`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `6,541`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -6510,6 +6513,25 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [ ] No other changes in version 381
 
 </details> <!-- V381 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 382 (2024, Saturday, January 6th at 04:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `4747`
+- [x] Updated the main list to include an entry for 2024, January 6th (day 454)
+- [x] Updated the list of all days of the war since the 2022 Invasion (682 days)
+- [x] Updated the list of all days of the war (3,607 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 382
+- [ ] No other changes in version 382
+
+</details> <!-- V382 !-->
 
 ---
 
