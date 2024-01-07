@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Major%20Mayhem/AudioOnly/MP3/LowQuality/Tropics(Uncut).mp3</location>
+			<creator>MP3 Recorder</creator>
+			<album>Fragile Heart</album>
+			<duration>115550</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Major%20Mayhem/AudioOnly/MP3/LowQuality/Desert(Uncut).mp3</location>
+			<creator>MP3 Recorder</creator>
+			<album>Fragile Heart</album>
+			<duration>121582</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Major%20Mayhem/AudioOnly/MP3/LowQuality/MummyBoss(Uncut).mp3</location>
+			<creator>MP3 Recorder</creator>
+			<album>Fragile Heart</album>
+			<duration>138066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/This%20is%20America/MP3/Childish-Gambino_This-Is-America.mp3</location>
+			<title>Childish-Gambino_This-Is-America.mp3</title>
+			<creator>Childish Gambino</creator>
+			<album>This is America</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;this is America&quot; by artist Childish Gambino. I highly recommend watching the music video if you haven&#39;t already, it is very powerful, and has a lot of hidden messages.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Childish%20Gambino/This%20is%20America/art.jpg</image>
+			<duration>244855</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Hotel%20California/MP3/Eagles-Hotel-California.mp3</location>
+			<title>Eagles-Hotel-California.mp3</title>
+			<creator>Eagles</creator>
+			<album>Hotel California</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Eagles/Hotel%20California/art.jpg</image>
+			<duration>390776</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Ultimate%20Battle%20Mashup/MP3/ultimate%20battle%20mashup%20collection.mp3</location>
+			<title>ultimate battle mashup collection.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 Ultimate battle mashup comp</album>
+			<trackNum>1</trackNum>
+			<annotation>A compilation of mashups of the Ultimate Battle themes from the game Plants Vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20Ultimate%20battle%20mashup%20comp/art.png</image>
+			<duration>9896392</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
