@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/Backyard.mp3</location>
+			<trackNum>1</trackNum>
+			<duration>129959</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/LivingRoom.mp3</location>
+			<title>TouchPets MX Sample 2</title>
+			<creator>Bogas Productions</creator>
+			<trackNum>1</trackNum>
+			<duration>115304</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/PetShop.mp3</location>
+			<trackNum>1</trackNum>
+			<duration>96496</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/Town.mp3</location>
+			<title>TouchPets Suburbia loop</title>
+			<creator>Bogas Productions</creator>
+			<trackNum>1</trackNum>
+			<duration>121965</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/LivingRoom2.mp3</location>
+			<title>TouchPets Harmonica Bed</title>
+			<creator>Bogas Productions</creator>
+			<trackNum>1</trackNum>
+			<duration>111360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/MissionLaunch.mp3</location>
+			<title>missionsucceed02</title>
+			<annotation>0</annotation>
+			<duration>32548</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/Visit.mp3</location>
+			<title>Mischievous Cat MX</title>
+			<creator>Bogas Productions 415-362-6558</creator>
+			<trackNum>1</trackNum>
+			<duration>121365</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/DogHouse.mp3</location>
+			<trackNum>1</trackNum>
+			<duration>45348</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/Catnip.mp3</location>
+			<title>Catnip MX</title>
+			<creator>Bogas Productions 415-362-6558</creator>
+			<trackNum>1</trackNum>
+			<duration>57861</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/placeFurniture.caf</location>
+			<duration>692</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/menuinventoryslideopen.caf</location>
+			<duration>887</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/blingNew.caf</location>
+			<duration>1022</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/changeFurnitureCategory.caf</location>
+			<duration>620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/coinspawn_regular.caf</location>
+			<duration>1650</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/coinspawn_special.caf</location>
+			<duration>1818</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/generic_drop.caf</location>
+			<duration>433</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/litterScoop1.caf</location>
+			<duration>1019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/putAwayFurniture.caf</location>
+			<duration>325</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/wobble_couch.caf</location>
+			<duration>770</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/wobble_generic2.caf</location>
+			<duration>550</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/wobble_generic3.caf</location>
+			<duration>562</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/specialButton.caf</location>
+			<duration>1061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/yarnball2.caf</location>
+			<duration>218</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/changeFurnitureCategory.caf</location>
+			<duration>620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/JingleBallRoll1.caf</location>
+			<duration>581</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/JingleBallRoll2.caf</location>
+			<duration>628</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/RCCar_loop.caf</location>
+			<duration>847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/RCCopter_loop.caf</location>
+			<duration>804</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/statjumpnotification.caf</location>
+			<duration>1818</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/scratchingPostPickup.caf</location>
+			<duration>411</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/litterScoop1.caf</location>
+			<duration>1019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/CAF/litterScoop2.caf</location>
+			<duration>995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20life%20OST/FullOST/VOmanScream.wav</location>
+			<duration>1542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20life%20OST/FullOST/VOwomanHi.wav</location>
+			<duration>558</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20life%20OST/FullOST/BGM01.m4a</location>
+			<duration>45697</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20life%20OST/FullOST/SFXbite.wav</location>
+			<duration>900</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/LivingRoom2.mp3</location>
+			<title>TouchPets Harmonica Bed</title>
+			<creator>Bogas Productions</creator>
+			<trackNum>1</trackNum>
+			<duration>111360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/Town.mp3</location>
+			<title>TouchPets Suburbia loop</title>
+			<creator>Bogas Productions</creator>
+			<trackNum>1</trackNum>
+			<duration>121965</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/Backyard.mp3</location>
+			<trackNum>1</trackNum>
+			<duration>129959</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/PetShop.mp3</location>
+			<trackNum>1</trackNum>
+			<duration>96496</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/SunRoom.mp3</location>
+			<trackNum>1</trackNum>
+			<duration>106710</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/Town.mp3</location>
+			<title>TouchPets Suburbia loop</title>
+			<creator>Bogas Productions</creator>
+			<trackNum>1</trackNum>
+			<duration>121965</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+	</extension>
+</playlist>
