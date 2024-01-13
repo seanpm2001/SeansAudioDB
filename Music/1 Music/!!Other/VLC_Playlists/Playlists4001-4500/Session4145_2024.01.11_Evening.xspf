@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mykola_Lysenko/The-Dneiper-River-Rages/Mykola_Lysenko_-_The_Dnieper_River_Rages.flac</location>
+			<title>Mykola Lysenko - The Dnieper River Rages (Реве та стогне Дніпр широкий)</title>
+			<creator>Albert Krywolt, Pavlo Hunka</creator>
+			<album>Mykola Lysenko CD1 - Nature</album>
+			<trackNum>6</trackNum>
+			<duration>125240</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mykola_Lysenko/On-a-clear-night/Mykola_Lysenko-%D0%92_%D1%8F%D1%81%D0%BD%D1%83_%D0%BD%D1%96%D1%87.ogg</location>
+			<title>Микола Лисенко, Олександр Кониський — В ясну ніч</title>
+			<creator>Мар&#39;яна Почапська, Ілона Ельтек</creator>
+			<duration>157930</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mykola_Lysenko/Oriental-Melody/Mykola_Lysenko_-_Oriental_Melody_(%D0%A1%D1%85%D1%96%D0%B4%D0%BD%D0%B0_%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D1%96%D1%8F).flac</location>
+			<title>Mykola Lysenko - Oriental Melody (Східна мелодія)</title>
+			<creator>Albert Krywolt, Krisztina Szabó</creator>
+			<album>Mykola Lysenko CD2 - Love</album>
+			<trackNum>2</trackNum>
+			<duration>249266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rokiczanka-W-moim-ogr%C3%B3decku/MP3/Rokiczanka_W-moim-ogr%C3%B3decku.mp3</location>
+			<title>Rokiczanka_W-moim-ogródecku.mp3</title>
+			<creator>Rokiczanka</creator>
+			<album>W moim ogródecku</album>
+			<trackNum>1</trackNum>
+			<annotation>I can&#39;t translate the necessary info accurately to fill out info here. All I know is that it is a good song (IMO)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rokiczanka/W%20moim%20ogr%C3%B3decku/art.jpg</image>
+			<duration>238638</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bad%20day/MP3/Daniel-Powter_Bad-Day.mp3</location>
+			<title>Daniel-Powter_Bad-Day.mp3</title>
+			<creator>Daniel Powter</creator>
+			<album>Bad Day</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bad Day&quot; by Canadian Pop singer Daniel Powter.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Daniel%20Powter/Bad%20Day/art.jpg</image>
+			<duration>235137</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Rollin%E2%80%99%20at%205/Kevin%20MacLeod%20-%2015%20-%20Off%20to%20Osaka.mp3</location>
+			<title>Off to Osaka</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Rollin’ at 5</album>
+			<trackNum>15</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Rollin%E2%80%99%20at%205/art.jpg</image>
+			<duration>109744</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
