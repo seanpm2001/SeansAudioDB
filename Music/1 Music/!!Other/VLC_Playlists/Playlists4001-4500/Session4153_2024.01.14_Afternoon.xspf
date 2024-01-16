@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/NewSuperMarioBrosWii_Extended_final%20boss%20phase%201.mp3</location>
+			<duration>1798974</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/NewSuperMarioBrosWii_Extended_final%20boss%20phase%202%20main%20track.mp3</location>
+			<duration>1799981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_Advance_3_39%20Eggman%20Attacks!.mp3</location>
+			<title>Eggman Attacks!</title>
+			<creator>Hideaki Kobayashi, Fumie Kumatani, Tatsuyuki Maeda, Tomoya Ohtani, Masaru Setsumaru, Kenichi Tokoi, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 3</album>
+			<duration>147043</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Portal2_2x11-I_AM_NOT_A_MORON.mp3</location>
+			<title>I AM NOT A MORON!</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By - Volume 2</album>
+			<trackNum>11</trackNum>
+			<annotation>0</annotation>
+			<duration>226873</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Sonic_Advance_1_48%20Unknown%20Song%201.mp3</location>
+			<title>Unknown Song 1</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<duration>145058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Deltarune_C2_39%20BIG%20SHOT.mp3</location>
+			<title>BIG SHOT</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>39</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>142315</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Deltarune_C2_35%20Knock%20You%20Down%20!!.mp3</location>
+			<title>Knock You Down !!</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>35</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>146494</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
