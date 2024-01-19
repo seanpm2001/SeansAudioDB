@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/OutKast/MP3/OutKast_Hey-Ya-(shake-it-like-a-Polaroid-picture).mp3</location>
+			<title>OutKast_Hey-Ya-(shake-it-like-a-Polaroid-picture).mp3</title>
+			<creator>OutKast</creator>
+			<album>Hey Ya</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Hey Ya&quot; by the band &quot;OutKast&quot; commonly known for the lyric &quot;Shake it like a polaroid picture&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/OutKast/Hey%20Ya/art.jpg</image>
+			<duration>261600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Yoshis%20Island%20(SNES)%20OST/y2mate.com%20-%20yoshis_island_ost_athletic_oKJ2EZnnZRE.mp3</location>
+			<duration>131344</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Yoshis%20Island%20(SNES)%20OST/y2mate.com%20-%20yoshis_island_ost_map__09AcGKuRTA.mp3</location>
+			<duration>134609</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bon%20Jovi%20-%20Living%20on%20a%20prayer/MP3/Bon-Jovi_Living-on-a-prayer.mp3</location>
+			<title>Bon-Jovi_Living-on-a-prayer.mp3</title>
+			<creator>Bon Jovi</creator>
+			<album>Living on a prayer</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bon%20Jovi/Living%20on%20a%20prayer/art.jpg</image>
+			<duration>248669</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Chariots%20of%20fire/MP3/Chariots-Of-Fire.mp3</location>
+			<title>Chariots-Of-Fire.mp3</title>
+			<creator>Evángelos Odysséas Papathanassíou (Greek: Ευάγγελος Οδυσσέας Παπαθανασίου)</creator>
+			<album>Chariots of Fire</album>
+			<trackNum>1</trackNum>
+			<annotation>This is a pretty hard song to find, but it is commonly used. It is a pretty iconic song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ev%C3%A1ngelos%20Odyss%C3%A9as%20Papathanass%C3%ADou%20%28Greek_%20%CE%95%CF%85%CE%AC%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82%20%CE%9F%CE%B4%CF%85%CF%83%CF%83%CE%AD%CE%B1%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B8%CE%B1%CE%BD%CE%B1%CF%83%CE%AF%CE%BF%CF%85%29/Chariots%20of%20Fire/art.jpg</image>
+			<duration>209041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20Birds%20Rio%20OST/AudioOnly/MP3/ambience_harbor.mp3</location>
+			<duration>46367</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
