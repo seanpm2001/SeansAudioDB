@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Game_FM/Compilation/Commercialized/AudioOnly/M4A/Grand%20Theft%20Auto%20III%20-%20Game%20FM%20-%20[PC]%20[9Ms3JTxizcU].m4a</location>
+			<duration>945819</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Head_Radio/Compilation/Commercialized/AudioOnly/M4A/Grand%20Theft%20Auto%20III%20-%20Head%20Radio%20-%20[PC]%20[Q1DzJ23fY0o].m4a</location>
+			<duration>1408104</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Chatterbox_FM/Compilation/Commercialized/AudioOnly/M4A/Grand%20Theft%20Auto%20III%20-%20Chatterbox%20FM%20-%20[PC]%20[3lPytfSy-04].m4a</location>
+			<duration>3543203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Lips_106/Compilation/Commercialized/AudioOnly/M4A/Grand%20Theft%20Auto%20III%20-%20Lips%20106%20-%20[PC]%20[fRB-scg5Sw8].m4a</location>
+			<duration>1208088</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
