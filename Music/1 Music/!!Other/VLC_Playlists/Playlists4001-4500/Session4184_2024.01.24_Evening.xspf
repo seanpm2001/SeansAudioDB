@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Samba-de-Janeiro/MP3/Samba-de-Janeiro.mp3</location>
+			<title>Samba-de-Janeiro.mp3</title>
+			<creator>Bellini</creator>
+			<album>Samba de Janeiro</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Samba de Janeiro by German band Bellini.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bellini/Samba%20de%20Janeiro/art.jpg</image>
+			<duration>169178</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Players%20House/MP3/Plants%20Vs.%20Zombies%202%20Music%20-%20Front%20Yard%20(Classic).mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Front Yard (Classic).mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Players house</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the first few levels of the game, located at the players house. This theme is also used for some minigames.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Players%20house/art.png</image>
+			<duration>377846</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Ancient%20Egypt/MP3/Plants%20Vs.%20Zombies%202%20Music%20-%20Ancient%20Egypt.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Ancient Egypt.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Ancient Egypt</album>
+			<trackNum>1</trackNum>
+			<annotation>The main level theme for the Ancient Egypt stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Ancient%20Egypt/art.png</image>
+			<duration>420765</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Ancient%20Egypt/MP3/Plants%20Vs.%20Zombies%202%20Music%20-%20Ancient%20Egypt_%20Ultimate%20Battle.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Ancient Egypt_ Ultimate Battle.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Ancient Egypt</album>
+			<trackNum>3</trackNum>
+			<annotation>The ultimate battle theme for the Ancient Egypt stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Ancient%20Egypt/art.png</image>
+			<duration>269097</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Ancient%20Egypt/MP3/Plants%20Vs.%20Zombies%202%20Music%20-%20Ancient%20Egypt_%20Demonstration%20Mini-Game.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Ancient Egypt_ Demonstration Mini-Game.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Ancient Egypt</album>
+			<trackNum>2</trackNum>
+			<annotation>The demonstration minigame stage theme for the Ancient Egypt stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Ancient%20Egypt/art.png</image>
+			<duration>368206</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Lint-Roller/AudioOnly/M4A/Cxdy%20-%20Lint%20Roller%20[4gjQbEpU3TE].m4a</location>
+			<duration>168972</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
