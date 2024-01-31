@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Touch%20Pets%20Dogs%202/AudioOnly/MP3/DogHouse.mp3</location>
+			<trackNum>1</trackNum>
+			<duration>45348</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stripe-Summer/AudioOnly/M4A/Stripe%20Summer%20[tqJPi1AMj_4].m4a</location>
+			<duration>172790</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20life%20OST/FullOST/BGM01.m4a</location>
+			<duration>45697</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing%20New%20Leaf/AudioOnly/MP3/130%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Igloo.mp3</location>
+			<title>Igloo</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>130</trackNum>
+			<annotation>https://archive.org/details/ACNL-OST-v4-FLAC</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>69486</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing/MP3/54%20Igloo.mp3</location>
+			<title>Igloo</title>
+			<creator>Toru Minegishi</creator>
+			<album>Animal Crossing (GC Rip)</album>
+			<trackNum>54</trackNum>
+			<annotation>Tagged by DoomGuy500 and someone on Zophar&#39;s Domain</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toru%20Minegishi/Animal%20Crossing%20%28GC%20Rip%29/art.png</image>
+			<duration>59275</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing/MP3/13%20Working%20For%20Tom%20Nook.mp3</location>
+			<title>Working For Tom Nook</title>
+			<creator>Kenta Nagata</creator>
+			<album>Animal Crossing (GC Rip)</album>
+			<trackNum>13</trackNum>
+			<annotation>Tagged by DoomGuy500 and someone on Zophar&#39;s Domain</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kenta%20Nagata/Animal%20Crossing%20%28GC%20Rip%29/art.png</image>
+			<duration>104964</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Animal%20Crossing%20Series/Animal%20Crossing/MP3/10%20You%20Need%20a%20Place%20to%20Stay....mp3</location>
+			<title>You Need a Place to Stay...</title>
+			<creator>Kazumi Totaka</creator>
+			<album>Animal Crossing (GC Rip)</album>
+			<trackNum>10</trackNum>
+			<annotation>Tagged by DoomGuy500 and someone on Zophar&#39;s Domain</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka/Animal%20Crossing%20%28GC%20Rip%29/art.png</image>
+			<duration>135474</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
