@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%202%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20official/15%20-%20Overworld.mp3</location>
+			<title>Overworld</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 2: Super Mario World - The Original Soundtrack</album>
+			<trackNum>15</trackNum>
+			<annotation>0000015C 0000012F 000003E8</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%202_%20Super%20Mario%20World%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>85995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%202%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20official/16%20-%20Athletic.mp3</location>
+			<title>Athletic</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 2: Super Mario World - The Original Soundtrack</album>
+			<trackNum>16</trackNum>
+			<annotation>000000B3 000000C2 000002BE</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%202_%20Super%20Mario%20World%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>79995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%202%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20official/17%20-%20Underwater.mp3</location>
+			<title>Underwater</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 2: Super Mario World - The Original Soundtrack</album>
+			<trackNum>17</trackNum>
+			<annotation>00000146 000000EB 000003A5</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%202_%20Super%20Mario%20World%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>100995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%202%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20official/30%20-%20Bonus%20Game.mp3</location>
+			<title>Bonus Game</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 2: Super Mario World - The Original Soundtrack</album>
+			<trackNum>30</trackNum>
+			<annotation>00000197 000000D3 000006C0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%202_%20Super%20Mario%20World%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>68979</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%202%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20official/19%20-%20Invincible.mp3</location>
+			<title>Invincible</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 2: Super Mario World - The Original Soundtrack</album>
+			<trackNum>19</trackNum>
+			<annotation>000001B5 000001B5 0000045D</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%202_%20Super%20Mario%20World%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>9987</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%202%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20official/05%20-%20World%201%20-%20Yoshi&#39;s%20Island.mp3</location>
+			<title>World 1 - Yoshi&#39;s Island</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 2: Super Mario World - The Original Soundtrack</album>
+			<trackNum>5</trackNum>
+			<annotation>00000070 000000E0 000001E3</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%202_%20Super%20Mario%20World%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>25971</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%202%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20official/39%20-%20King%20Koopa%20Defeated.mp3</location>
+			<title>Bowser Defeated</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 2: Super Mario World - The Original Soundtrack</album>
+			<trackNum>39</trackNum>
+			<annotation>000002CF 00000220 000006A0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%202_%20Super%20Mario%20World%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>8979</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%202%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20official/22%20-%20Fortress.mp3</location>
+			<title>Fortress</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 2: Super Mario World - The Original Soundtrack</album>
+			<trackNum>22</trackNum>
+			<annotation>000002CA 0000016D 00001111</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%202_%20Super%20Mario%20World%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>157995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%202%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20official/06%20-%20World%203%20-%20Vanilla%20Dome.mp3</location>
+			<title>World 3 - Vanilla Dome</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 2: Super Mario World - The Original Soundtrack</album>
+			<trackNum>6</trackNum>
+			<annotation>00000098 00000074 000001D8</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%202_%20Super%20Mario%20World%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>44979</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
