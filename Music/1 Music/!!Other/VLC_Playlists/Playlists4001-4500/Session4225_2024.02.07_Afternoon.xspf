@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%202%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20official/16%20-%20Athletic.mp3</location>
+			<title>Athletic</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 2: Super Mario World - The Original Soundtrack</album>
+			<trackNum>16</trackNum>
+			<annotation>000000B3 000000C2 000002BE</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%202_%20Super%20Mario%20World%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>79995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%202%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20official/15%20-%20Overworld.mp3</location>
+			<title>Overworld</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 2: Super Mario World - The Original Soundtrack</album>
+			<trackNum>15</trackNum>
+			<annotation>0000015C 0000012F 000003E8</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%202_%20Super%20Mario%20World%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>85995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%202%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20official/37%20-%20King%20Koopa%20Battle%20(Round%201).mp3</location>
+			<title>Bowser Battle (Round 1)</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 2: Super Mario World - The Original Soundtrack</album>
+			<trackNum>37</trackNum>
+			<annotation>0000015D 000001F4 0000040B</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%202_%20Super%20Mario%20World%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>100995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%202%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20official/22%20-%20Fortress.mp3</location>
+			<title>Fortress</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 2: Super Mario World - The Original Soundtrack</album>
+			<trackNum>22</trackNum>
+			<annotation>000002CA 0000016D 00001111</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%202_%20Super%20Mario%20World%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>157995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%202%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20official/24%20-%20Boss%20Battle.mp3</location>
+			<title>Boss Battle</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 2: Super Mario World - The Original Soundtrack</album>
+			<trackNum>24</trackNum>
+			<annotation>00000116 00000129 00000214</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%202_%20Super%20Mario%20World%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>100995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%204%20(GBA,%20DSi)%20OST/Audio%20only/22%20-%20Underwater.mp3</location>
+			<title>Underwater</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 4: Super Mario Bros. 3 - The Original Soundtrack</album>
+			<trackNum>22</trackNum>
+			<annotation>0000086E 000008E2 0000172C</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%204_%20Super%20Mario%20Bros.%203%20-%20The%20Original%20Soundtrack/art.png</image>
+			<duration>61659</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%204%20(GBA,%20DSi)%20OST/Audio%20only/28%20-%20Boss%20Battle.mp3</location>
+			<title>Boss Battle</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 4: Super Mario Bros. 3 - The Original Soundtrack</album>
+			<trackNum>28</trackNum>
+			<annotation>00000461 000004CD 000014A5</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%204_%20Super%20Mario%20Bros.%203%20-%20The%20Original%20Soundtrack/art.png</image>
+			<duration>49731</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
