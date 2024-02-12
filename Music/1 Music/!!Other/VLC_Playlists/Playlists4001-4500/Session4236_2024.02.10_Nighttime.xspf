@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%20Bros%203%20(NES)%20OST/ending%20extended.mp4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%20Bros%203%20(NES)%20OST/king%20koopa%20battle.mp4</location>
+			<duration>1799174</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%20Bros%203%20(NES)%20OST/iced%20land.mp4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%20Bros%203%20(NES)%20OST/cursed%20king%20extended.mp4</location>
+			<duration>1799174</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%20Bros%202%20(NES)%20OST/overworld%20theme.webm</location>
+			<duration>180134</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%20Bros%202%20(NES)%20OST/cave%20theme.webm</location>
+			<duration>180000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%20Bros%202%20(NES)%20OST/wart%20battle.webm</location>
+			<duration>179934</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%20Bros%202%20(NES)%20OST/boss%20battle.webm</location>
+			<duration>180067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Copying%20is%20not%20theft/MP3/Copying_Is_Not_Theft.mp3</location>
+			<title>Copying_Is_Not_Theft.mp3</title>
+			<creator>Nina Paley</creator>
+			<album>Copying is not Theft</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Copying is not Theft&quot; from Nina Paley, a song that questions copyright, and backs up the fact that copying is not theft, and theft is a smear word when it comes to copying files. The cartoon takes Disney styling to mock Disneys abuse of copyright, and to make the song more recognizable and notable.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nina%20Paley/Copying%20is%20not%20Theft/art.png</image>
+			<duration>59672</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AncientMusic/MP3/Hurrian-Hymn-no.6_-_c.1400-B.C.mp3</location>
+			<title>Hurrian-Hymn-no.6_-_c.1400-B.C.mp3</title>
+			<creator>Unknown Hurrian Musician</creator>
+			<album>Hurrian Hymns</album>
+			<trackNum>1</trackNum>
+			<annotation>The song is dated to about 1400 BC, but VLC won&#39;t let me write a date with negative numbers, more than 4 digits, or letters, so I defaulted to 0000. I also got a GIF (non-animated) file to work as the preview for this album. This is the oldest known song in the world and comes from the Ancient Hurrian people.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown%20Hurrian%20Musician/Hurrian%20Hymns/art</image>
+			<duration>342449</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Osiris/MP3/Ancient-Egyptian-Music-Osiris.mp3</location>
+			<title>Ancient-Egyptian-Music-Osiris.mp3</title>
+			<creator>Ancient Egypt</creator>
+			<album>Osiris</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Osiris, composed in Ancient Egypt thousands of years ago.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ancient%20Egypt/Osiris/art.jpg</image>
+			<duration>198931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stanford-Brua/MP3/Norwegian-Folk-Song_Stanford-Brua.mp3</location>
+			<title>Norwegian-Folk-Song_Stanford-Brua.mp3</title>
+			<creator>Norway</creator>
+			<album>Stanford Brua</album>
+			<trackNum>1</trackNum>
+			<annotation>The Norwegian Folk song &quot;Stanford Brua&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Norway/Stanford%20Brua/art.jpg</image>
+			<duration>302011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tarantella-Napoletana/MP3/Tarantella-Napoletana.mp3</location>
+			<title>Tarantella-Napoletana.mp3</title>
+			<creator>Italy</creator>
+			<album>Tarantella Napoletana</album>
+			<trackNum>1</trackNum>
+			<annotation>I am unable to find good information on the artist, the date, and the genre.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Italy/Tarantella%20Napoletana/art.jpg</image>
+			<duration>162360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nirvana/AudioOnly/MP3/Nirvana%20-%20Smells%20Like%20Teen%20Spirit%20(Official%20Music%20Video)-hTWKbfoikeg.mp3</location>
+			<duration>278362</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Spiderman%202/Spiderman%202%20pizza%20theme.webm</location>
+			<duration>87895</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Spiderman%202/remix/spider%20man%20pizza%20theme%20roblox%20edition.mp4</location>
+			<duration>56006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Spiderman%202/remix/Spider-Man%202%20The%20Game%20-%20Pizza%20Theme%20(Orchestral%20Cover)%20-%20You.mp4</location>
+			<duration>132447</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Gotye/MP3/Gotye-SomebodyThatIUsedToKnow.mp3</location>
+			<title>Gotye-SomebodyThatIUsedToKnow.mp3</title>
+			<creator>Gotye</creator>
+			<album>Somebody that I used to know</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Gotye/Somebody%20that%20I%20used%20to%20know/art.jpg</image>
+			<duration>243915</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Elton%20John/MP3/Elton-John_YellowBrickRoad.mp3</location>
+			<title>Elton-John_YellowBrickRoad.mp3</title>
+			<creator>Elton John</creator>
+			<album>Yellow Brick Road</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Elton%20John/Yellow%20Brick%20Road/art.jpg</image>
+			<duration>194229</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Fluidity/AudioOnly/MP3/Wii%20Fluidity%20Aztec%20Map%20Middle%20(Theme).mp3</location>
+			<title>Wii Fluidity Aztec Map Middle (Theme).mp3</title>
+			<creator>Curve Studios</creator>
+			<album>Fluidity/Hydroventure soundtrack</album>
+			<trackNum>12</trackNum>
+			<annotation>The theme for the middle of the Aztec map in the Fluidity/Hydroventure WiiWare game.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Curve%20Studios/Fluidity_Hydroventure%20soundtrack/art.jpg</image>
+			<duration>158755</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Fluidity/AudioOnly/MP3/Wii%20Fluidity%20Menu%20(Theme)%20Longer%20Version.mp3</location>
+			<title>Wii Fluidity Menu (Theme) Longer Version.mp3</title>
+			<creator>Curve Studios</creator>
+			<album>Fluidity/Hydroventure soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The main menu theme song for the Fluidity/Hydroventure WiiWare game.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Curve%20Studios/Fluidity_Hydroventure%20soundtrack/art.jpg</image>
+			<duration>460785</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Fluidity/AudioOnly/MP3/Wii%20Fluidity%20Aztec%20Map%20Left%20Side%20(Theme).mp3</location>
+			<title>Wii Fluidity Aztec Map Left Side (Theme).mp3</title>
+			<creator>Curve Studios</creator>
+			<album>Fluidity/Hydroventure soundtrack</album>
+			<trackNum>11</trackNum>
+			<annotation>The theme song for the left side of the Aztec map in the Fluidity/Hydroventure WiiWare game.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Curve%20Studios/Fluidity_Hydroventure%20soundtrack/art.jpg</image>
+			<duration>170641</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Fluidity/AudioOnly/MP3/Wii%20Fluidity%20Mountain%20Map%20Left%20Side%20(Theme).mp3</location>
+			<title>Wii Fluidity Mountain Map Left Side (Theme).mp3</title>
+			<creator>Curve Studios</creator>
+			<album>Fluidity/Hydroventure soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>The theme for the left side of the mountain map for the Fluidity/Hydroventure WiiWare game.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Curve%20Studios/Fluidity_Hydroventure%20soundtrack/art.jpg</image>
+			<duration>240101</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Fluidity/AudioOnly/MP3/Wii%20Fluidity%20Playroom%20(Theme).mp3</location>
+			<title>Wii Fluidity Playroom (Theme).mp3</title>
+			<creator>Curve Studios</creator>
+			<album>Fluidity/Hydroventure soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>The theme song for the playroom for the Fluidity/Hydroventure WiiWare game.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Curve%20Studios/Fluidity_Hydroventure%20soundtrack/art.jpg</image>
+			<duration>187333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Jimmy%20Barnes/AudioOnly/MP3/Big%20Enough%20Scream%201%20hour.mp3</location>
+			<duration>3607042</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/MP3/Bejeweled%20Twist%20Music%20-%20Main%20Menu.mp3</location>
+			<title>Bejeweled Twist Music - Main Menu.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist Main OST</album>
+			<trackNum>2</trackNum>
+			<annotation>The main menu theme song for Bejeweled Twist.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20Main%20OST/art.jpg</image>
+			<duration>117324</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Main/MP3/Bejeweled%20Twist%20Music%20-%20Loading%20Screen.mp3</location>
+			<title>Bejeweled Twist Music - Loading Screen.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist Main OST</album>
+			<trackNum>1</trackNum>
+			<annotation>The song for when you open Bejeweled Twist and the game starts loading. It depends on how much RAM you have for if you want to hear the whole song or not each time.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20Main%20OST/art.jpg</image>
+			<duration>69441</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%201%20(GBA,%20DSi)%20OST/Extended/Egg%20Rocket%20Zone%20(Remix)%20-%20Sonic%20Advance%20Music%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%201%20(GBA,%20DSi)%20OST/Extended/Newgrounds%20-%20Sonic%20Advance_%20Angel%20Island%20-%20Sonic%20Advance%20Music%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+	</extension>
+</playlist>
