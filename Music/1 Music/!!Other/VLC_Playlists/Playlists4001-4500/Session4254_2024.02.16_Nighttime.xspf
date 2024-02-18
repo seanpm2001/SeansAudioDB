@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/DDLC%20(Doki%20Doki%20Literature%20Club)/(No%20video)%20Doki%20Doki%20Literature%20Club!%20OST%20-%20Play%20With%20Me.webm</location>
+			<duration>173520</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/DDLC%20(Doki%20Doki%20Literature%20Club)/(No%20video)%20Doki%20Doki%20Literature%20Club!%20OST%20-%20Poems%20Are%20Forever%20(Bonus%20Track%20by%20shoji).webm</location>
+			<duration>221600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/DDLC%20(Doki%20Doki%20Literature%20Club)/(No%20video)%20Doki%20Doki%20Literature%20Club!%20OST%20-%20Poem%20Panic!.webm</location>
+			<duration>148500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/DDLC%20(Doki%20Doki%20Literature%20Club)/(No%20video)%20Doki%20Doki%20Literature%20Club!%20OST%20-%20Just%20Monika..webm</location>
+			<duration>202460</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/DDLC%20(Doki%20Doki%20Literature%20Club)/(No%20video)%20Doki%20Doki%20Literature%20Club!%20OST%20-%20Dreams%20Of%20Love%20and%20Literature.webm</location>
+			<duration>249940</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/DDLC%20(Doki%20Doki%20Literature%20Club)/(No%20video)%20Nick%20Kaelar%20(Varien)%20-%20%E3%80%8CDoki%20Doki%20%E3%83%89%E3%82%AD%E3%83%89%E3%82%AD%E3%80%8D.webm</location>
+			<duration>222300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/DDLC%20(Doki%20Doki%20Literature%20Club)/(No%20video)%20Doki%20Doki%20Literature%20Club!%20OST%20-%20Poem%20Panic!.webm</location>
+			<duration>148500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/DDLC%20(Doki%20Doki%20Literature%20Club)/(No%20video)%20Doki%20Doki%20Literature%20Club!%20OST%20-%20Poems%20Are%20Forever%20(Bonus%20Track%20by%20shoji).webm</location>
+			<duration>221600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/DDLC%20(Doki%20Doki%20Literature%20Club)/(No%20video)%20Doki%20Doki%20Literature%20Club!%20OST%20-%20Daijoubu!.webm</location>
+			<duration>185420</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/DDLC%20(Doki%20Doki%20Literature%20Club)/(No%20video)%20Doki%20Doki%20Literature%20Club!%20OST%20-%20Just%20Monika..webm</location>
+			<duration>202460</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
