@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SpongeBob/Mr.Krabs/Macklemore/Thrift-Shop/AudioOnly/M4A/Mr%20Krabs%20-%20Thrift%20Shop%20(AI%20Cover)%20[dqLC08DUgBM].m4a</location>
+			<duration>232734</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SouthPark/Eric-Cartman/Eminem/The-Real-Slim-Shady/AudioOnly/M4A/The%20Real%20Slim%20Shady%20%20%20Eminem%20%20(%20Eric%20Cartman%20AI%20)%20[wmepq97Ghx8].m4a</location>
+			<duration>285351</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SouthPark/Eric-Cartman/Cascada/Everytime-we-touch/AudioOnly/M4A/Cascada%20-%20Everytime%20We%20Touch%20(Eric%20Cartman%20Cover)%20[IwcMvLyjcts].m4a</location>
+			<duration>198183</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SouthPark/Eric-Cartman/Take-on-me/AudioOnly/M4A/Eric%20Cartman%20-%20Take%20On%20Me%20(Ai%20Cover)%20[eavfrUETKrk].m4a</location>
+			<duration>252285</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SouthPark/Eric-Cartman/Rick-Astley_Never-gonna-give-you-up/AudioOnly/M4A/Never%20Gonna%20Give%20You%20Up%20(Eric%20Cartman%20AI%20Cover)%20[zlDnajDvKu4].m4a</location>
+			<duration>213763</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rockefeller_Street/AudioOnly/M4A/Rockefeller%20Street%20[D3Me6YNe9tg].m4a</location>
+			<duration>239687</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Vaportrap%20-%20Succ/VAPORTRAP-%20SUCC%20(Extended)%E3%80%90Lewis%20Lancaster%E3%80%91.mp4</location>
+			<duration>1182871</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Tostarena%20-%20Ruins%20-%20Super%20Mario%20Odyssey%20[OST]-2wWLYg-kgy0.webm</location>
+			<duration>213260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Forgotten%20Isle%201%20-%20Super%20Mario%20Odyssey%20[OST]-SL9K8dnI_nM.webm</location>
+			<duration>88461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Forgotten%20Isle%202%20-%20Super%20Mario%20Odyssey%20[OST]-bGIP3IUgOg8.webm</location>
+			<duration>175420</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
