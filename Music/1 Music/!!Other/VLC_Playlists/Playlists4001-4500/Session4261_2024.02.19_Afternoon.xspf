@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SpongeBob/Squidward-Tentacles/Chicken-Fried/AudioOnly/M4A/Squidward%20Tentacles%20-%20Chicken%20Fried%20(AI%20Cover)%20[lGjtBie-yMU].m4a</location>
+			<duration>236751</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SpongeBob/Squidward-Tentacles/Jimmy-Buffet/Margaritaville/AudioOnly/M4A/Squidward%20Tentacles%20-%20Margaritaville%20(Jimmy%20Buffett%20AI%20Cover)%20[Q1V0YXtnJ_E].m4a</location>
+			<duration>247943</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SpongeBob/Squidward-Tentacles/Europe/The-Final-Countdown/AudioOnly/M4A/Squidward%20Tentacles%20-%20The%20Final%20Countdown%20(AI%20COVER)%20[ZFvY8n5ePH8].m4a</location>
+			<duration>312820</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SpongeBob/Squidward-Tentacles/Queen/Don&#39;t-stop-me-now/AudioOnly/M4A/Squidward%20Sings%20Don&#39;t%20Stop%20Me%20Now%20(A.I.%20Cover)%20[JEJTyLc8F6s].m4a</location>
+			<duration>213880</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
