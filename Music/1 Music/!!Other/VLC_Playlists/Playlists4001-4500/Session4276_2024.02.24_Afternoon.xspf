@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Tostarena%20-%20Night%20-%20Super%20Mario%20Odyssey%20[OST]-SU_87vknCn8.webm</location>
+			<duration>197800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Ruins%20-%20Super%20Mario%20Odyssey%20[OST]-Nh6rQELhAgY.webm</location>
+			<duration>129561</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Shiveria%20-%20Town%20-%20Super%20Mario%20Odyssey%20[OST]-ZHzCG1JhoTo.webm</location>
+			<duration>152260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Bowser%20Battle%201%20-%20Super%20Mario%20Odyssey%20[OST]-9_yTRGElgx4.webm</location>
+			<duration>157940</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
