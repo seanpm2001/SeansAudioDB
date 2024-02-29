@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Bubblaine%20(8-Bit)%20-%20Super%20Mario%20Odyssey%20[OST]-ikPsu5bE49w.webm</location>
+			<duration>223260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/New%20Donk%20City%20-%20Cafe%20-%20Super%20Mario%20Odyssey%20[OST]-vNdgXzGF7nE.webm</location>
+			<duration>291540</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Mount%20Volbono%20-%20Super%20Mario%20Odyssey%20[OST]-T6LZlPjlztU.webm</location>
+			<duration>199460</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Mount%20Volbono%20(8-Bit)%20-%20Super%20Mario%20Odyssey%20[OST]-FTEop3u2GTA.webm</location>
+			<duration>199460</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Toad%20Brigade%20Member%20-%20Super%20Mario%20Odyssey%20[OST]-tklvXwRcXYc.webm</location>
+			<duration>33241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Tostarena%20-%20Ruins%20(8-Bit)%20-%20Super%20Mario%20Odyssey%20[OST]-qCuUbrZHUUs.webm</location>
+			<duration>213260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/VideoWithAudio/Tostarena%20-%20Jaxi%20-%20Super%20Mario%20Odyssey%20[OST]-V9iWpnblNwk.webm</location>
+			<duration>108741</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
