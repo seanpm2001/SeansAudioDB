@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%20Bros%202%20(NES)%20OST/character%20select.webm</location>
+			<duration>180000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%20Bros%202%20(NES)%20OST/title%20theme.webm</location>
+			<duration>29467</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Bros%20series/Super%20Mario%20Bros%202%20(NES)%20OST/cave%20theme.webm</location>
+			<duration>180000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/05%20-%20Underground.mp3</location>
+			<title>Underground</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>5</trackNum>
+			<annotation>00000083 0000008C 00000183</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>27123</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/08%20-%20Birdo%20-%20Boss%20Nearby.mp3</location>
+			<title>Birdo/Boss Nearby</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>8</trackNum>
+			<annotation>00000055 00000059 00000129</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>31923</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/09%20-%20Area%20with%20Gate%20-%20Boss.mp3</location>
+			<title>Boss</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>9</trackNum>
+			<annotation>0000008C 00000070 00000200</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>25515</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/07%20-%20Invincibility.mp3</location>
+			<title>Invincibility</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>7</trackNum>
+			<annotation>00000072 0000008D 000003F7</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>12843</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/14%20-%20Wart.mp3</location>
+			<title>Wart</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>14</trackNum>
+			<annotation>00000065 00000067 00000132</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>39963</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%203%20(GBA,%20DSi)%20OST/Audio%20only/MP3/22%20-%20Big%20Boss.mp3</location>
+			<title>Big Boss</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 3: Yoshi&#39;s Island - The Original Soundtrack</album>
+			<trackNum>22</trackNum>
+			<annotation>000003B0 000002B8 000009EE</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%203_%20Yoshi%27s%20Island%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>120987</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%203%20(GBA,%20DSi)%20OST/Audio%20only/MP3/15%20-%20Castle%20&amp;%20Fortress.mp3</location>
+			<title>Castle &amp; Fortress</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 3: Yoshi&#39;s Island - The Original Soundtrack</album>
+			<trackNum>15</trackNum>
+			<annotation>000001BB 000001B9 000006A6</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%203_%20Yoshi%27s%20Island%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>120003</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%203%20(GBA,%20DSi)%20OST/Audio%20only/MP3/33%20-%20Powerful%20Infant.mp3</location>
+			<title>Powerful Infant</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 3: Yoshi&#39;s Island - The Original Soundtrack</album>
+			<trackNum>33</trackNum>
+			<annotation>00000122 000000FB 0000024C</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%203_%20Yoshi%27s%20Island%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>52971</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%203%20(GBA,%20DSi)%20OST/Audio%20only/MP3/34%20-%20Baby%20Bowser.mp3</location>
+			<title>Baby Bowser</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 3: Yoshi&#39;s Island - The Original Soundtrack</album>
+			<trackNum>34</trackNum>
+			<annotation>00000368 000002E9 00000F50</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%203_%20Yoshi%27s%20Island%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>160011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%203%20(GBA,%20DSi)%20OST/Audio%20only/MP3/09%20-%20Flower%20Garden.mp3</location>
+			<title>Flower Garden</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 3: Yoshi&#39;s Island - The Original Soundtrack</album>
+			<trackNum>9</trackNum>
+			<annotation>000000FE 000001BF 00000340</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%203_%20Yoshi%27s%20Island%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>165003</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%203%20(GBA,%20DSi)%20OST/Audio%20only/MP3/14%20-%20Underground.mp3</location>
+			<title>Underground</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 3: Yoshi&#39;s Island - The Original Soundtrack</album>
+			<trackNum>14</trackNum>
+			<annotation>00000127 00000112 000009A9</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%203_%20Yoshi%27s%20Island%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>98979</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+	</extension>
+</playlist>
