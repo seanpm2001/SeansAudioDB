@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Roxette_Listen-to-your-heart/AudioOnly/M4A/Roxette%20-%20Listen%20To%20Your%20Heart%20(Official%20Music%20Video)%20[yCC_b5WHLX0].m4a</location>
+			<duration>303462</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/EA-ThemePark/FullOST/audio_music_track_2.mp3</location>
+			<duration>98228</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/EA-ThemePark/FullOST/audio_music_track_3.mp3</location>
+			<duration>57947</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20Peace%20Walker/MP3/Metal-Gear-Solid_Peace-Walker_Heavens-Divide.mp3</location>
+			<title>Metal-Gear-Solid_Peace-Walker_Heavens-Divide.mp3</title>
+			<creator>Konami</creator>
+			<album>Metal Gear Solid - Peace Walker soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Heavens divide&quot; from the video game Metal Gear Solid - Peace Walker</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Metal%20Gear%20Solid%20-%20Peace%20Walker%20soundtrack/art.jpg</image>
+			<duration>313662</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20V/MP3/Metal-Gear-Solid%20V_The-Phantom-Pain_Nuclear.mp3</location>
+			<title>Metal-Gear-Solid V_The-Phantom-Pain_Nuclear.mp3</title>
+			<creator>Konami</creator>
+			<album>Metal Gear Solid V - The Phantom Pain soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Nuclear&quot; from the video game Metal Gear Solid V - The Phantom Pain</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Metal%20Gear%20Solid%20V%20-%20The%20Phantom%20Pain%20soundtrack/art.jpg</image>
+			<duration>302847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Major%20Mayhem/AudioOnly/MP3/LowQuality/MummyBoss(Uncut).mp3</location>
+			<creator>MP3 Recorder</creator>
+			<album>Fragile Heart</album>
+			<duration>138066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
