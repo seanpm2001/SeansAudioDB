@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sonic%201,2,3%20Can%20Can/Sonic%20the%20hedgehog%202%20can%20can.mp4</location>
+			<duration>108948</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stripe-Summer/AudioOnly/M4A/Stripe%20Summer%20[tqJPi1AMj_4].m4a</location>
+			<duration>172790</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20Cafe%20OST/FullOST/Zombie%20Jazz.mp3</location>
+			<duration>133992</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bobs%20World%20OST/MP3/Bob&#39;s-World-OST_In-Game-Theme.mp3</location>
+			<title>Bob&#39;s-World-OST_In-Game-Theme.mp3</title>
+			<creator>Bobs World</creator>
+			<album>Bobs World Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>A platformer game that tries to copy Mario that has avoided Nintendos C&amp;D factory for quite some time. Decent soundtrack, although I can&#39;t find the year. This is the in-game music for Bobs World.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bobs%20World/Bobs%20World%20Soundtrack/art.jpg</image>
+			<duration>193421</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bobs%20World%20OST/MP3/Bob&#39;s-World_Super-Adventure_Theme-Song.mp3</location>
+			<title>Bob&#39;s-World_Super-Adventure_Theme-Song.mp3</title>
+			<creator>Bobs World</creator>
+			<album>Bobs World soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>A platformer game that tries to copy Mario that has avoided Nintendos C&amp;D factory for quite some time. Decent soundtrack, although I can&#39;t find the year.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bobs%20World/Bobs%20World%20soundtrack/art.jpg</image>
+			<duration>75215</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Good-Thing/AudioOnly/M4A/Good%20Thing%20[lKdIkqqVJ40].m4a</location>
+			<duration>175019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/See-Through-You/AudioOnly/M4A/See%20Through%20You%20[bQ13G6T1vOo].m4a</location>
+			<duration>176970</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/1700s%20sea%20shanties/(No%20video)%201700s%20sea%20shanties%201hour.m4a</location>
+			<duration>3600068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/2700s%20sea%20shanties/(No%20video)%202700s%20sea%20shanties.webm</location>
+			<duration>121881</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Remixes/Stupid_Race/AudioOnly/M4A/[YTPMV]%20Stupid%20Race%20[1cy_040viv8].m4a</location>
+			<duration>66688</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
