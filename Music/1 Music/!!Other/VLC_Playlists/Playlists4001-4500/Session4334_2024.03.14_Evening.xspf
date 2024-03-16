@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Don%C2%B4t-stop-believing/AudioOnly/M4A/[HD]%20Nightcore%20-%20Don%C2%B4t%20stop%20believing%20(episode%201)%20[mHPN5n-0q58].m4a</location>
+			<duration>191333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Don%C2%B4t-stop-believing-Season5/AudioOnly/M4A/[HD]%20Nightcore%20-%20Don%C2%B4t%20stop%20believin%C2%B4%20%20Season%205%20episode%2013%20[T06LFzzYNN4].m4a</location>
+			<duration>184947</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/Raw%20audio/AIFF/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2098%20Battle%20Against%20a%20True%20Hero.aiff</location>
+			<title>Battle Against a True Hero</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>98</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/toby%20fox/UNDERTALE%20Soundtrack/art.jpg</image>
+			<duration>156800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/Raw%20audio/AIFF/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2005%20Ruins.aiff</location>
+			<title>Ruins</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>5</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/toby%20fox/UNDERTALE%20Soundtrack/art.jpg</image>
+			<duration>92282</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/Raw%20audio/AIFF/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2095%20Bring%20It%20In,%20Guys!.aiff</location>
+			<title>Bring It In, Guys!</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>95</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/toby%20fox/UNDERTALE%20Soundtrack/art.jpg</image>
+			<duration>252182</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/Raw%20audio/AIFF/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2033%20Quiet%20Water.aiff</location>
+			<title>Quiet Water</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>33</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/toby%20fox/UNDERTALE%20Soundtrack/art.jpg</image>
+			<duration>32000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Undertale/Raw%20audio/AIFF/toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2094%20Respite.aiff</location>
+			<title>Respite</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>94</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/toby%20fox/UNDERTALE%20Soundtrack/art.jpg</image>
+			<duration>114000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
