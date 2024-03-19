@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20Farm%20theme%20song/MP3/Zombie_Farm_Theme.mp3</location>
+			<title>Zombie_Farm_Theme.mp3</title>
+			<creator>The Play Forge</creator>
+			<album>Zombie Farm Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Play%20Forge/Zombie%20Farm%20Soundtrack/art.png</image>
+			<duration>60011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20life%20OST/FullOST/BGM01.m4a</location>
+			<duration>45697</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20life%20OST/FullOST/BGM02.m4a</location>
+			<duration>30303</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tap%20Zoo%202%20OST/FullOST/default.mp4</location>
+			<duration>57313</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Flamingo/Extended/MP3/Flamingo%2010%20hours.mp3</location>
+			<title>Flamingo 10 hours.mp3</title>
+			<creator>Kero Kero Bonito</creator>
+			<album>Flamingo</album>
+			<trackNum>1</trackNum>
+			<annotation>The original English with Japanese version of the song &quot;Flamingo&quot; by Kero Kero Bonito</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kero%20Kero%20Bonito/Flamingo/art.png</image>
+			<duration>37508376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bon%20Jovi%20-%20Living%20on%20a%20prayer/MP3/Bon-Jovi_Living-on-a-prayer.mp3</location>
+			<title>Bon-Jovi_Living-on-a-prayer.mp3</title>
+			<creator>Bon Jovi</creator>
+			<album>Living on a prayer</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bon%20Jovi/Living%20on%20a%20prayer/art.jpg</image>
+			<duration>248669</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ronald%20McDonald%20insanity/MP3/Ronald-McDonald-insanity.mp3</location>
+			<title>Ronald-McDonald-insanity.mp3</title>
+			<creator>McDonald&#39;s Japan</creator>
+			<album>Ronald McDonald Insanity</album>
+			<trackNum>1</trackNum>
+			<annotation>Ronald McDonald goes completely insane in Japan between 2004 and 2007</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/McDonald%27s%20Japan/Ronald%20McDonald%20Insanity/art.jpg</image>
+			<duration>318336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Dr.Mario%20Series/Dr.Mario%20(GBA)%20OST/MP3/Dr.MarioGBA_Sneeze-Theme.mp3</location>
+			<title>Dr.MarioGBA_Sneeze-Theme.mp3</title>
+			<creator>Nintendo</creator>
+			<album>Dr. Mario (GBA) Soundtrack</album>
+			<trackNum>5</trackNum>
+			<annotation>The fifth song (out of 7) for the video game Dr. Mario &amp; Puzzle League, by Nintendo, for the GBA (Game Boy Advance)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Dr.%20Mario%20%28GBA%29%20Soundtrack/art.jpg</image>
+			<duration>178634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
