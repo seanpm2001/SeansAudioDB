@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Toto/Remixes/AI_Covers/TF2_Sniper/AudioOnly/M4A/Africa%20but%20Sniper%20from%20TF2%20is%20singing%20it%20(Diff-SVC)%20[WqcK6-Du7dc].m4a</location>
+			<duration>278059</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tarantella-Napoletana/MP3/Tarantella-Napoletana.mp3</location>
+			<title>Tarantella-Napoletana.mp3</title>
+			<creator>Italy</creator>
+			<album>Tarantella Napoletana</album>
+			<trackNum>1</trackNum>
+			<annotation>I am unable to find good information on the artist, the date, and the genre.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Italy/Tarantella%20Napoletana/art.jpg</image>
+			<duration>162360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/El%20Jarabe%20Tapatio-The%20Mexican%20Hat%20Dance/(No%20video)%20El%20Jarabe%20Tapatio-The%20Mexican%20Hat%20Dance.webm</location>
+			<duration>143260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tree-World/V2.05/track01.mp3</location>
+			<annotation> 00000000 00000210 00000A98 000000000039DED8 00000000 001A342A 00000000 00000000 00000000 00000000 00000000 00000000</annotation>
+			<duration>86125</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Weezer%20-%20Beverly%20Hills/MP3/Weezer_Beverly_Hills.mp3</location>
+			<title>Weezer_Beverly_Hills.mp3</title>
+			<creator>Weezer</creator>
+			<album>Beverly Hills</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Beverly hills by the artist Weezer.9</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Weezer/Beverly%20Hills/art.jpg</image>
+			<duration>242192</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
