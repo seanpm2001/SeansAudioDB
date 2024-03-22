@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rokiczanka-W-moim-ogr%C3%B3decku/MP3/Rokiczanka_W-moim-ogr%C3%B3decku.mp3</location>
+			<title>Rokiczanka_W-moim-ogródecku.mp3</title>
+			<creator>Rokiczanka</creator>
+			<album>W moim ogródecku</album>
+			<trackNum>1</trackNum>
+			<annotation>I can&#39;t translate the necessary info accurately to fill out info here. All I know is that it is a good song (IMO)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rokiczanka/W%20moim%20ogr%C3%B3decku/art.jpg</image>
+			<duration>238638</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Not-until-you-return/MP3/Not-until-you-return.mp3</location>
+			<title>Not-until-you-return.mp3</title>
+			<creator>Salar Aghili</creator>
+			<album>Not until you return</album>
+			<trackNum>1</trackNum>
+			<annotation>I cannot translate this.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Salar%20Aghili/Not%20until%20you%20return/art.jpg</image>
+			<duration>377663</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3/y2mate.com%20-%20boss_super_mario_advance_music_extended_G7zCXB7H0YE.mp3</location>
+			<duration>1799859</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3/y2mate.com%20-%20title_super_mario_advance_music_extended_N22WDIu5OAI.mp3</location>
+			<duration>1799859</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
