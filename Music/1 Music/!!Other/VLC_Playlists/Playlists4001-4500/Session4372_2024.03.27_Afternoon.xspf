@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tap%20Zoo%202%20OST/FullOST/default.mp4</location>
+			<duration>57313</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Taylor-Swift_You-belong-with-me/MP3/Taylor-Swift_You-belong-with-me.mp3</location>
+			<title>Taylor-Swift_You-belong-with-me.mp3</title>
+			<creator>Taylor Swift</creator>
+			<album>You belong with me</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;You belong with me&quot; by Singer &amp; Songwriter, Taylor Swift.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Taylor%20Swift/You%20belong%20with%20me/art.png</image>
+			<duration>228346</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Anamalie/Kevin%20MacLeod%20-%2006%20-%20Allada.mp3</location>
+			<title>Allada</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Anamalie</album>
+			<trackNum>6</trackNum>
+			<annotation>USUAN150001 from incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Anamalie/art.jpg</image>
+			<duration>223429</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Anamalie/Kevin%20MacLeod%20-%2009%20-%20Baba%20Yaga.mp3</location>
+			<title>Baba Yaga</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Anamalie</album>
+			<trackNum>9</trackNum>
+			<annotation>USUAN1500079 at incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Anamalie/art.jpg</image>
+			<duration>252059</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Anamalie/Kevin%20MacLeod%20-%2004%20-%20Sardana.mp3</location>
+			<title>Sardana</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Anamalie</album>
+			<trackNum>4</trackNum>
+			<annotation>USUAN1400055 from incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Anamalie/art.jpg</image>
+			<duration>192108</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Anamalie/Kevin%20MacLeod%20-%2003%20-%20Meanwhile%20in%20Bavaria.mp3</location>
+			<title>Meanwhile in Bavaria</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Anamalie</album>
+			<trackNum>3</trackNum>
+			<annotation>incompetech.com - ISRC: USUAN1500057</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Anamalie/art.jpg</image>
+			<duration>214939</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
