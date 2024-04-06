@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Somewhere%20Sunny/Kevin%20MacLeod%20-%2004%20-%20Poofy%20Reel.mp3</location>
+			<title>Poofy Reel</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Somewhere Sunny</album>
+			<trackNum>4</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Somewhere%20Sunny/art.jpg</image>
+			<duration>47979</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Teh%20Jazzes/Kevin%20MacLeod%20-%2001%20-%20Backbay%20Lounge.mp3</location>
+			<title>Backbay Lounge</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Teh Jazzes</album>
+			<trackNum>1</trackNum>
+			<annotation>ISRC: USUAN1700068</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Teh%20Jazzes/art.jpg</image>
+			<duration>266557</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Teh%20Jazzes/Kevin%20MacLeod%20-%2008%20-%20Deuces.mp3</location>
+			<title>Deuces</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Teh Jazzes</album>
+			<trackNum>8</trackNum>
+			<annotation>ISRC: USUAN1700075</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Teh%20Jazzes/art.jpg</image>
+			<duration>190802</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Teh%20Jazzes/Kevin%20MacLeod%20-%2006%20-%20Crinoline%20Dreams.mp3</location>
+			<title>Crinoline Dreams</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Teh Jazzes</album>
+			<trackNum>6</trackNum>
+			<annotation>ISRC: USUAN1700073</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Teh%20Jazzes/art.jpg</image>
+			<duration>246443</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Teh%20Jazzes/Kevin%20MacLeod%20-%2009%20-%20Hard%20Boiled.mp3</location>
+			<title>Hard Boiled</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Teh Jazzes</album>
+			<trackNum>9</trackNum>
+			<annotation>ISRC: USUAN1700076</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Teh%20Jazzes/art.jpg</image>
+			<duration>181032</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Funkorama/Kevin%20MacLeod%20-%2021%20-%20Wah%20Game%20Loop.mp3</location>
+			<title>Wah Game Loop</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Funkorama</album>
+			<trackNum>21</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Funkorama/art.jpg</image>
+			<duration>80303</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Funkorama/Kevin%20MacLeod%20-%2016%20-%20Protofunk.mp3</location>
+			<title>Protofunk</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Funkorama</album>
+			<trackNum>16</trackNum>
+			<annotation>84e43a34-65ba-4b25-b469-18130bdb6b73</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Funkorama/art.jpg</image>
+			<duration>182392</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
