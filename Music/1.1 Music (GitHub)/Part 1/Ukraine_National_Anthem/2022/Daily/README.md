@@ -89,9 +89,9 @@ RU: Применимы следующие 6 аудиофайлов:
 
 # 🇺🇦️ Counter / Лічильник / Прилавок 🇺🇦️
 
-- The Ukrainian Flag Emoji appears in this document `5019` times (as of 2024.04.04)
-- UA/UK: У цьому документі з'являється емодзі прапора України `5019` разів (станом на 2024.04.04)
-- RU: Эмодзи Флаг Украины появляется в этом документе `5019` раз (по состоянию на 2024.04.04)
+- The Ukrainian Flag Emoji appears in this document `5022` times (as of 2024.04.05)
+- UA/UK: У цьому документі з'являється емодзі прапора України `5022` разів (станом на 2024.04.05)
+- RU: Эмодзи Флаг Украины появляется в этом документе `5022` раз (по состоянию на 2024.04.05)
 
 ***
 
@@ -640,6 +640,7 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 541: 2024, April 2nd
 - [x] 🇺🇦️ Day 542: 2024, April 3rd
 - [x] 🇺🇦️ Day 543: 2024, April 4th
+- [x] 🇺🇦️ Day 544: 2024, April 5th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -1420,6 +1421,7 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 769, 2024, Tuesday, April 2nd
 - [x] 🇺🇦️ Day 770, 2024, Wednesday, April 3rd
 - [x] 🇺🇦️ Day 771, 2024, Thursday, April 4th
+- [x] 🇺🇦️ Day 772, 2024, Friday, April 5th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -5132,10 +5134,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3694: 2024, April 2nd
 - [x] 🇺🇦️ Day 3695: 2024, April 3rd
 - [x] 🇺🇦️ Day 3696: 2024, April 4th
+- [x] 🇺🇦️ Day 3697: 2024, April 5th
 
-- After 3,696 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 3,696 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 3,696 дня это все еще Украина. Слава Украине!
+- After 3,697 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 3,697 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 3,697 дня это все еще Украина. Слава Украине!
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -5161,15 +5164,15 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **UA/UK: Тип файлу:** `Уцінка (*.md *.mkd *.mdown *.markdown)`
 - **RU: Тип файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `470 (2024, Thursday, April 4th at 09:41 pm PST)`
+- **File version:** `471 (2024, Friday, April 5th at 08:05 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
 > **Translation not available (Russian) Перевод недоступен (Русский)**
 
-- **Line count (including blank lines and compiler line):** `6,623`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `6,623`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `6,623`
+- **Line count (including blank lines and compiler line):** `6,668`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `6,668`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `6,668`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -5214,6 +5217,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [Versions 401-500](/1%20Music/Ukraine_National_Anthem/2022/Daily/OldVersions/English/USA/1/401-500/)
 
 <!-- - [Versions 501-600](/1%20Music/Ukraine_National_Anthem/2022/Daily/OldVersions/English/USA/1/501-600/) !-->
+<!-- - [Versions 601-700](/1%20Music/Ukraine_National_Anthem/2022/Daily/OldVersions/English/USA/1/601-700/) !-->
 
 ---
 
@@ -6568,17 +6572,38 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 471 (2024, Friday, April 5th at 08:05 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Added a stand with Ukraine banner
+- [x] Updated the Ukrainian flag counter section, with a new value of `5022`
+- [x] Updated the main list to include an entry for 2024, April 5th (day 544)
+- [x] Updated the list of all days of the war since the 2022 Invasion (772 days)
+- [x] Updated the list of all days of the war (3,697 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 471
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 471
+
+</details> <!-- V471 !-->
+
+---
+
 </details> <!-- End of file history !-->
 
 ***
 
 # Additional notes
 
-- Total consecutive days: 543 (as of 2024, Thursday, April 4th)
-- Days with an update: 470 (as of 2024, Thursday, April 4th)
-- Days without an update: 73 (as of 2024, Thursday, April 4th)
+- Total consecutive days: 544 (as of 2024, Friday, April 5th)
+- Days with an update: 471 (as of 2024, Friday, April 5th)
+- Days without an update: 73 (as of 2024, Friday, April 5th)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 470/543 = 86.556% (as of 2024, Thursday, April 4th)
+- Ratio: 471/544 = 86.580% (as of 2024, Friday, April 5th)
 
 <!-- Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
@@ -6598,7 +6623,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 | Row 2 🔹️ | [:octocat: `UHS Datasets/Soundtracks/Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Ukraine/) | [:octocat: `UHS Datasets/Oblasts/Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Oblasts_Ukraine/) | [:octocat: `UHS Datasets/Oblasts/Russia`](https://github.com/seanpm2001/UHS_DataSets_Oblasts_Russia/) | [:octocat: `UHS Datasets/Raions/Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Raions_Ukraine/) | [:octocat: `UHS Datasets/Hromadas/Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Hromadas_Ukraine/) | [:octocat: `UHS Datasets/Vexillology/Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Vexillology_Ukraine/) |
 | Row 3 🟡️ | [:octocat: `UHS Datasets/Heraldry/Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Heraldry_Ukraine/) | [:octocat: `UHS Datasets/Heraldry/Russia`](https://github.com/seanpm2001/UHS_DataSets_Heraldry_Russia/) | [:octocat: `UHS Datasets/Russo-Ukrainian war/Armies/Ukraine`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_Armies_Ukraine/) | [:octocat: `UHS Datasets/Russo-Ukrainian war/Armies/Russia`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_Armies_Russia/) | [:octocat: `UHS Datasets/Leaders/Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Leaders_Ukraine/) | 
 | Row 4 🔵️ | [:octocat: `UHS Datasets/Vexillology/Russia`](https://github.com/seanpm2001/UHS_DataSets_Vexillology_Russia/) | [:octocat: `UHS Datasets/Leaders/Russia`](https://github.com/seanpm2001/UHS_DataSets_Leaders_Russia/) | [:octocat: `UHS Datasets/Generals/Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Generals_Ukraine/) | [:octocat: `UHS Datasets/Generals/Russia`](https://github.com/seanpm2001/UHS_DataSets_Generals_Russia/) | [:octocat: `UHS Datasets/Russo-Ukrainian war/UkraineFrontlinesMap`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_UkraineFrontlinesMap/) |
-| Row 5 🟦️ | [:octocat: `UHS Datasets/Russo-Ukrainian war/RussiaFrontlinesMap`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_RussiaFrontlinesMap/) | [:octocat: `UHS Datasets/Russo-Ukrainian war/UkrainianSpeeches`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_UkrainianSpeeches/) | [:octocat: `UHS Datasets/Russo-Ukrainian war/RussianSpeeches`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_RussianSpeeches/) | [:octocat: `Ukraine History Simulator Firefox profile`](https://github.com/seanpm2001/Ukraine-History-Simulator_Workspace_Firefox/) | [:octocat: `Ukraine History Simulator Docs`](https://github.com/seanpm2001/Ukraine-History-Simulator_Docs/) |
+| Row 5 🟦️ | [:octocat: `UHS Datasets/Russo-Ukrainian war/RussiaFrontlinesMap`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_RussiaFrontlinesMap/) | [:octocat: `UHS Datasets/Russo-Ukrainian war/UkrainianSpeeches`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_UkrainianSpeeches/) | [:octocat: `UHS Datasets/Russo-Ukrainian war/RussianS-peeches`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_RussianSpeeches/) | [:octocat: `Ukraine History Simulator Firefox profile`](https://github.com/seanpm2001/Ukraine-History-Simulator_Workspace_Firefox/) | [:octocat: `Ukraine History Simulator Docs`](https://github.com/seanpm2001/Ukraine-History-Simulator_Docs/) |
 | Row 6 🔷️ | [:octocat: `AI2001 Cat: Linguistics SC: Ukrainian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ukrainian/) | 🇺🇦️ | 💛️ | 💙️ | 🇺🇦️ |
 | Row 7 💛️ | | | | | |
 | Row 8 💙️ | | | | | |
@@ -6614,6 +6639,26 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 | Row 18 🇪🇺️ | | | | | |
 | Row 19 🇺🇳️ | | | | | |
 | Row 20 ✝️ | | | | | |
+| Row 21 🏰️ | | | | | |
+| Row 22 🎭️ | | | | | |
+| Row 23 🌼️ | | | | | |
+| Row 24 ⚽️ | | | | | |
+| Row 25 🏟️ | | | | | |
+| Row 26 🇵🇱️ | | | | | |
+| Row 27 🇲🇩️ | | | | | |
+| Row 28 🇷🇴️ | | | | | |
+| Row 29 🔯️ | | | | | |
+| Row 30 ☪️ | | | | | |
+| Row 31 🥣️ | | | | | |
+| Row 32 🥃️ | | | | | |
+| Row 33 👯‍♀️️ | | | | | |
+| Row 34 🖼️ | | | | | |
+| Row 35 🌄️ | | | | | |
+| Row 36 🇭🇺️ | | | | | |
+| Row 37 🇸🇰️ | | | | | |
+| Row 38 🇧🇾️ | | | | | |
+| Row 39 🇷🇺️ | | | | | |
+| Row 40 🛤️ | | | | | |
 
 <!-- This table took over 20 minutes to write, as it was reformatted several times (from 7 per row to 8 per row to 6 per row) !-->
 
