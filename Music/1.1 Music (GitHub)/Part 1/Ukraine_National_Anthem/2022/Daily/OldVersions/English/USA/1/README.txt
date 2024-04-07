@@ -89,9 +89,9 @@ RU: Применимы следующие 6 аудиофайлов:
 
 # 🇺🇦️ Counter / Лічильник / Прилавок 🇺🇦️
 
-- The Ukrainian Flag Emoji appears in this document `5022` times (as of 2024.04.05)
-- UA/UK: У цьому документі з'являється емодзі прапора України `5022` разів (станом на 2024.04.05)
-- RU: Эмодзи Флаг Украины появляется в этом документе `5022` раз (по состоянию на 2024.04.05)
+- The Ukrainian Flag Emoji appears in this document `5025` times (as of 2024.04.06)
+- UA/UK: У цьому документі з'являється емодзі прапора України `5025` разів (станом на 2024.04.06)
+- RU: Эмодзи Флаг Украины появляется в этом документе `5025` раз (по состоянию на 2024.04.06)
 
 ***
 
@@ -641,6 +641,7 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 542: 2024, April 3rd
 - [x] 🇺🇦️ Day 543: 2024, April 4th
 - [x] 🇺🇦️ Day 544: 2024, April 5th
+- [x] 🇺🇦️ Day 545: 2024, April 6th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -1422,6 +1423,7 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 770, 2024, Wednesday, April 3rd
 - [x] 🇺🇦️ Day 771, 2024, Thursday, April 4th
 - [x] 🇺🇦️ Day 772, 2024, Friday, April 5th
+- [x] 🇺🇦️ Day 773, 2024, Saturday, April 6th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -5135,10 +5137,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3695: 2024, April 3rd
 - [x] 🇺🇦️ Day 3696: 2024, April 4th
 - [x] 🇺🇦️ Day 3697: 2024, April 5th
+- [x] 🇺🇦️ Day 3698: 2024, April 6th
 
-- After 3,697 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 3,697 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 3,697 дня это все еще Украина. Слава Украине!
+- After 3,698 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 3,698 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 3,698 дня это все еще Украина. Слава Украине!
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -5164,15 +5167,15 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **UA/UK: Тип файлу:** `Уцінка (*.md *.mkd *.mdown *.markdown)`
 - **RU: Тип файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `471 (2024, Friday, April 5th at 08:05 pm PST)`
+- **File version:** `472 (2024, Saturday, April 6th at 10:28 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
 > **Translation not available (Russian) Перевод недоступен (Русский)**
 
-- **Line count (including blank lines and compiler line):** `6,668`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `6,668`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `6,668`
+- **Line count (including blank lines and compiler line):** `6,693`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `6,693`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `6,693`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -6593,17 +6596,38 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 472 (2024, Saturday, April 6th at 10:28 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Added a stand with Ukraine banner
+- [x] Updated the Ukrainian flag counter section, with a new value of `5025`
+- [x] Updated the main list to include an entry for 2024, April 6th (day 545)
+- [x] Updated the list of all days of the war since the 2022 Invasion (773 days)
+- [x] Updated the list of all days of the war (3,698 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 472
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 472
+
+</details> <!-- V472 !-->
+
+---
+
 </details> <!-- End of file history !-->
 
 ***
 
 # Additional notes
 
-- Total consecutive days: 544 (as of 2024, Friday, April 5th)
-- Days with an update: 471 (as of 2024, Friday, April 5th)
-- Days without an update: 73 (as of 2024, Friday, April 5th)
+- Total consecutive days: 545 (as of 2024, Saturday, April 6th)
+- Days with an update: 472 (as of 2024, Saturday, April 6th)
+- Days without an update: 73 (as of 2024, Saturday, April 6th)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 471/544 = 86.580% (as of 2024, Friday, April 5th)
+- Ratio: 472/545 = 86.605% (as of 2024, Saturday, April 6th)
 
 <!-- Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
@@ -6654,11 +6678,12 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 | Row 33 👯‍♀️️ | | | | | |
 | Row 34 🖼️ | | | | | |
 | Row 35 🌄️ | | | | | |
-| Row 36 🇭🇺️ | | | | | |
-| Row 37 🇸🇰️ | | | | | |
-| Row 38 🇧🇾️ | | | | | |
-| Row 39 🇷🇺️ | | | | | |
+| Row 36 ❌️🇭🇺️🚫️ | | | | | |
+| Row 37 ❌️🇸🇰️🚫️ | | | | | |
+| Row 38 ❌️🇧🇾️🚫️ | | | | | |
+| Row 39 ❌️🇷🇺️🚫️ | | | | | |
 | Row 40 🛤️ | | | | | |
+| Row 41 🇳.🇦.🇹.🇴 | | | | | |
 
 <!-- This table took over 20 minutes to write, as it was reformatted several times (from 7 per row to 8 per row to 6 per row) !-->
 
