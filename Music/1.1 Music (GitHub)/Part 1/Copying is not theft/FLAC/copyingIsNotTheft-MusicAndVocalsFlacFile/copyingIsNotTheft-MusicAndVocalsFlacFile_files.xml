@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="CINT-ffmpeg2flac.flac" source="original">
+    <format>Flac</format>
+    <mtime>1308945832</mtime>
+    <size>5565712</size>
+    <md5>fc250d817beca028eaba54e72d7afc5b</md5>
+    <crc32>2901a8d1</crc32>
+    <sha1>24305c3f3cddf030514316ad22fd6c420a9cb2a7</sha1>
+    <title>Copying Is Not Theft</title>
+    <creator>Nina Paley</creator>
+    <length>59.64</length>
+    <height>0</height>
+    <width>0</width>
+    <external-identifier-match-date>acoustid:2019-03-18T21:08:33Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:071c478a-7ba2-481a-9f9c-f661cf91cb62</external-identifier>
+  </file>
+  <file name="CINT-ffmpeg2flac.mp3" source="derivative">
+    <creator>Nina Paley</creator>
+    <title>Copying Is Not Theft</title>
+    <bitrate>181</bitrate>
+    <length>00:59</length>
+    <format>VBR MP3</format>
+    <original>CINT-ffmpeg2flac.flac</original>
+    <mtime>1417848416</mtime>
+    <size>1352192</size>
+    <md5>8886beb6b1588ffb7ea32b4ddfe80a6c</md5>
+    <crc32>1d87b571</crc32>
+    <sha1>8600d47dd6a44bb359c669f6457051553b387c0f</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="CINT-ffmpeg2flac.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>CINT-ffmpeg2flac.flac</original>
+    <mtime>1417848421</mtime>
+    <size>637953</size>
+    <md5>f08f99bb856be761679de3363b025fed</md5>
+    <crc32>5a187bc0</crc32>
+    <sha1>57ef5d1cb9e304594781def401c879f2b45f5957</sha1>
+    <length>59.64</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="CINT-ffmpeg2flac.png" source="derivative">
+    <format>PNG</format>
+    <original>CINT-ffmpeg2flac.flac</original>
+    <mtime>1417848425</mtime>
+    <size>12391</size>
+    <md5>63ce8c6cfab985c5630d3e8365a9e518</md5>
+    <crc32>d350bfe4</crc32>
+    <sha1>e9b6dd8393caf107bb99449e89e9dc91ef564c94</sha1>
+  </file>
+  <file name="CINT-ffmpeg2flac_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CINT-ffmpeg2flac.flac</original>
+    <mtime>1417848427</mtime>
+    <size>339283</size>
+    <md5>2a7242134460a54a5423ff8e97012c2d</md5>
+    <crc32>f54feb28</crc32>
+    <sha1>a32418a0f4cc0478a70f00e9a1d216e693782c58</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1533928521</mtime>
+    <size>2955</size>
+    <md5>cb5d466c8657b0edfadbf625e7d7e240</md5>
+    <crc32>f22d92ac</crc32>
+    <sha1>a7a50ea291fccd6e7567353579bea86bb089179a</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="copyingIsNotTheft-MusicAndVocalsFlacFile.ffp" source="derivative">
+    <format>Flac FingerPrint</format>
+    <original>CINT-ffmpeg2flac.flac</original>
+    <mtime>1417848422</mtime>
+    <size>55</size>
+    <md5>3395be1538e22f8df95e275f21ef04b3</md5>
+    <crc32>82bf5f04</crc32>
+    <sha1>f59e08973c82d5a92b2f2cdc5962bc0a6e3d50a3</sha1>
+  </file>
+  <file name="copyingIsNotTheft-MusicAndVocalsFlacFile.md5" source="derivative">
+    <format>Checksums</format>
+    <original>CINT-ffmpeg2flac.flac</original>
+    <mtime>1417848422</mtime>
+    <size>56</size>
+    <md5>e06b971ef726a2af984a23e521a5546d</md5>
+    <crc32>e062d546</crc32>
+    <sha1>d779d020b347c3ed4344fd5b43922664cb59cf3c</sha1>
+  </file>
+  <file name="copyingIsNotTheft-MusicAndVocalsFlacFile_archive.torrent" source="metadata">
+    <btih>3f37a33f62f8a5d8eab90d8b8e9389cadf30c362</btih>
+    <mtime>1533928521</mtime>
+    <size>3240</size>
+    <md5>7884b1c74f3682634edec00aa04cb441</md5>
+    <crc32>cbd438df</crc32>
+    <sha1>97cc3e350dd0f0f9d7c4a54b5451fcb152eeb312</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="copyingIsNotTheft-MusicAndVocalsFlacFile_files.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>34339ef1e306130e3e1c431b20c9e010</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="copyingIsNotTheft-MusicAndVocalsFlacFile_meta.xml" source="metadata">
+    <format>Metadata</format>
+    <mtime>1533928520</mtime>
+    <size>1205</size>
+    <md5>7555bb9e344bb9d93ea32f4a3262a087</md5>
+    <crc32>915441df</crc32>
+    <sha1>06c5c7217adbcadef5b76a809605d7b49d8c0fa4</sha1>
+  </file>
+</files>
