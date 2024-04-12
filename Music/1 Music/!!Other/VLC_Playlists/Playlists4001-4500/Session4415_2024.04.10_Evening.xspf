@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/CaramelDansen/German/CaramelltanzenD.mp4</location>
+			<duration>175228</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Enya/MP3/Enya_Only-time.mp3</location>
+			<title>Enya_Only-time.mp3</title>
+			<creator>Enya</creator>
+			<album>Only time</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Only time&quot; by Irish singer Enya.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Enya/Only%20time/art.jpg</image>
+			<duration>215753</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Every-time-we-touch/Remixes/Nightcore/AudioOnly/M4A/Nightcore%20-%20Everytime%20We%20Touch%20[uKDuIhNVLyg].m4a</location>
+			<duration>161124</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Everytime%20I%20think%20about%20you%20I%20touch%20myself/MP3/Divinyls_I-touch-myself.mp3</location>
+			<title>Divinyls_I-touch-myself.mp3</title>
+			<creator>Divinyls</creator>
+			<album>I touch myself</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;I touch myself&quot; by arist Divinyls</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Divinyls/I%20touch%20myself/art.jpg</image>
+			<duration>223147</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/NightStep/Baddest/AudioOnly/M4A/[HD]%20Nightstep%20-%20Baddest%20[Gp6FN6N1oAM].m4a</location>
+			<duration>182881</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
