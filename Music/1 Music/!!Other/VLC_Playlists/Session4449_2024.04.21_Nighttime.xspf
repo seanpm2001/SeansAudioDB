@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Spain%20-%20Every%20time%20I%20try/MP3/Spain_&#39;Every-Time-I-Try&#39;.mp3</location>
+			<title>Spain_&#39;Every-Time-I-Try&#39;.mp3</title>
+			<creator>Spain (band)</creator>
+			<album>Every Time I Try</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Every time I try&quot; by the band &quot;Spain&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Spain%20%28band%29/Every%20Time%20I%20Try/art.jpg</image>
+			<duration>312252</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Gas-gas-gas/AudioOnly/M4A/Manuel%20-%20Gas%20Gas%20Gas%20[atuFSv2bLa8].m4a</location>
+			<duration>271837</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/Radio_Stations/Rebel_Radio/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Rebel%20Radio%20-%20(Old%20Upload)%20[VwrsEgaQ_Wc].m4a</location>
+			<duration>720237</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/Radio_Stations/Lithium_FM/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Lithium%20FM%20-%20(Old%20Upload)%20[CqEo8PghpkE].m4a</location>
+			<duration>721073</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/Radio_Stations/Heavenly_Radio/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Heavenly%20Radio%20-%20(Old%20Upload)%20[4uxWHm8Flmc].m4a</location>
+			<duration>720260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/Radio_Stations/Head_Radio/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Head%20Radio%20-%20(Old%20Upload)%20[CAM-ayM2A9Y].m4a</location>
+			<duration>1440241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
