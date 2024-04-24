@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Holy SHIT! Flying TOASTERS!.jpg" source="original">
+    <mtime>1544044821</mtime>
+    <size>280881</size>
+    <md5>6f13d2c1f30cb2b4c5224349245cfb37</md5>
+    <crc32>47a3d899</crc32>
+    <sha1>af7d04abe700374830d4ce32e4c7d315e79e0417</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Holy SHIT! Flying TOASTERS!_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Holy SHIT! Flying TOASTERS!.jpg</original>
+    <mtime>1544045085</mtime>
+    <size>7075</size>
+    <md5>a8cb9e65da0d95a7208c3d2c9a4d9846</md5>
+    <crc32>b7920958</crc32>
+    <sha1>1ef17652244268c8b6786471a97706064c670cd9</sha1>
+  </file>
+  <file name="Holy-SHIT!-Flying-TOASTERS!.7z" source="original">
+    <mtime>1599137804</mtime>
+    <size>200580221</size>
+    <md5>abd59fe56c5cb317ebccbe2150bea3b7</md5>
+    <crc32>436edd84</crc32>
+    <sha1>18f49759d3876cd03f3810228e50cc294d60b678</sha1>
+    <format>7z</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1544044836</mtime>
+    <size>17807</size>
+    <md5>0099d31a663195504d2540915da03867</md5>
+    <crc32>b47a41b8</crc32>
+    <sha1>5f33c669ca4366eb13bc4ad6ebd1780f048118fc</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="holyshitflyingtoasters_archive.torrent" source="metadata">
+    <btih>4886ea4e088d31e108e55104f39c2232ed710319</btih>
+    <mtime>1599590903</mtime>
+    <size>10135</size>
+    <md5>2a91ea349ba45d2c745e4b27bdef49a8</md5>
+    <crc32>8e0c5eba</crc32>
+    <sha1>a2c29c0540ddbe7480463b0be6ed54402a9d2234</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="holyshitflyingtoasters_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>326c38a71a7143438ba8e36e360ed3e0</md5>
+  </file>
+  <file name="holyshitflyingtoasters_meta.sqlite" source="original">
+    <mtime>1599590900</mtime>
+    <size>572416</size>
+    <format>Metadata</format>
+    <md5>1b9bbd9d0a2824f921a142ca997badea</md5>
+    <crc32>c6859ee0</crc32>
+    <sha1>7ed8d9fdf10c88faacb8b127741b6e6b6ef9177b</sha1>
+  </file>
+  <file name="holyshitflyingtoasters_meta.xml" source="original">
+    <mtime>1599590901</mtime>
+    <size>8476</size>
+    <format>Metadata</format>
+    <md5>0029ad799d56daf774059531beba2b8c</md5>
+    <crc32>17ea50f1</crc32>
+    <sha1>ee76d742a71dc7e716a3278480c76cffd24ae217</sha1>
+  </file>
+  <file name="holyshitflyingtoasters_rules.conf" source="original">
+    <mtime>1599027195</mtime>
+    <size>9</size>
+    <md5>c6252ae91bcb6e4c9db553057479e7d3</md5>
+    <crc32>4ae60840</crc32>
+    <sha1>fc079ae018899da82fd9dd027c241e886b050c8a</sha1>
+    <format>Derivation Rules</format>
+  </file>
+</files>
