@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1654002380</mtime>
+    <size>3885</size>
+    <md5>874208b2aca865302fd56b94935e2baa</md5>
+    <crc32>324109d8</crc32>
+    <sha1>a09fb6bbe9068184d89be3e2081bf0c01a6d0326</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="werq-by-kevin-macleod.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>werq-by-kevin-macleod.mp3</original>
+    <mtime>1570592144</mtime>
+    <size>23704</size>
+    <md5>e7573346fed4d5045eff1b1735a9daa8</md5>
+    <crc32>944ea5f8</crc32>
+    <sha1>a9ab14b63b681742e57cdc7fc30ac9fdb15bf97a</sha1>
+  </file>
+  <file name="werq-by-kevin-macleod.mp3" source="original">
+    <mtime>1570592052</mtime>
+    <size>6496047</size>
+    <md5>dfbed6c3afb49abd85edf342ba5a6827</md5>
+    <crc32>72f3d98e</crc32>
+    <sha1>9a1296003bffb833c830b9cbeaad34ec2218efec</sha1>
+    <format>VBR MP3</format>
+    <length>162.3</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Werq</title>
+    <creator>Kevin MacLeod</creator>
+    <track>01</track>
+    <artist>Kevin MacLeod</artist>
+    <genre>Dance/Club</genre>
+  </file>
+  <file name="werq-by-kevin-macleod.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>werq-by-kevin-macleod.mp3</original>
+    <mtime>1570592111</mtime>
+    <size>1949029</size>
+    <md5>131229b2e7e443ebd29636a9c4cb6698</md5>
+    <crc32>5fd32b86</crc32>
+    <sha1>b8de72d9aa818e767954ecf2a184b6facb9fa329</sha1>
+    <length>162.3</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="werq-by-kevin-macleod.png" source="derivative">
+    <format>PNG</format>
+    <original>werq-by-kevin-macleod.mp3</original>
+    <mtime>1570592117</mtime>
+    <size>41722</size>
+    <md5>638d5a02cf8b345014072777fb657027</md5>
+    <crc32>db438a78</crc32>
+    <sha1>bad8faaf43e6c3c6b7022e4b3a52eac91beb2e52</sha1>
+  </file>
+  <file name="werq-by-kevin-macleod_archive.torrent" source="metadata">
+    <btih>1b520cc48eae25b750d24dc95a8985617713f977</btih>
+    <mtime>1654002380</mtime>
+    <size>2932</size>
+    <md5>fc6cf4705cc7f891b03c7edfe28fae1f</md5>
+    <crc32>5a815e62</crc32>
+    <sha1>cd2690eac7ef28a4babcce9e9e4d7b471c69a1a7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="werq-by-kevin-macleod_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>189c1c34fb619a0dbcddaf408adb7133</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="werq-by-kevin-macleod_meta.sqlite" source="original">
+    <mtime>1570592084</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>07edfab680b8c1dd74d4c29d4f03d9ee</md5>
+    <crc32>8d1479ee</crc32>
+    <sha1>b1f6aa5b6b8a2ae184e906a292d4e5937098654e</sha1>
+  </file>
+  <file name="werq-by-kevin-macleod_meta.xml" source="original">
+    <mtime>1654002379</mtime>
+    <size>1164</size>
+    <format>Metadata</format>
+    <md5>cff34292bcccfcd8a294bc384db0069e</md5>
+    <crc32>8396af32</crc32>
+    <sha1>6b9ca21af8a4d1e516870d5bd1bca98423ad5ef1</sha1>
+  </file>
+  <file name="werq-by-kevin-macleod_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>werq-by-kevin-macleod.mp3</original>
+    <mtime>1570592123</mtime>
+    <size>334244</size>
+    <md5>a536ad4ce7ad9e66a5f4592ddc238f06</md5>
+    <crc32>329e6626</crc32>
+    <sha1>970c8330ffac547c9b2c61f12aacf5483897eac2</sha1>
+  </file>
+</files>
