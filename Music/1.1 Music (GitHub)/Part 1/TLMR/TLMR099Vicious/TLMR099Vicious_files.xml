@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="TLMR 099 Vicious.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>TLMR 099 Vicious.mp3</original>
+    <mtime>1482018045</mtime>
+    <size>473272</size>
+    <md5>fd155b210f0b5d8e6774905f36370581</md5>
+    <crc32>998a7741</crc32>
+    <sha1>e592da91529909e158771f5b86c9ecc83ff493eb</sha1>
+  </file>
+  <file name="TLMR 099 Vicious.mp3" source="original">
+    <mtime>1482017792</mtime>
+    <size>63962679</size>
+    <md5>980238e465443581199f0ec154e3f3df</md5>
+    <crc32>bd078b99</crc32>
+    <sha1>074c44865b033e36e98f2dba36f30b9fb198abf2</sha1>
+    <format>VBR MP3</format>
+    <length>2664.1</length>
+    <height>640</height>
+    <width>640</width>
+    <artist>Andrew Fish/Vicious</artist>
+    <genre>Podcast</genre>
+    <track>99</track>
+    <title>TLMR 099 Vicious</title>
+    <external-identifier>urn:acoustid:d8b793f9-ffd9-4744-82b3-bbe606d73fae</external-identifier>
+    <external-identifier-match-date>acoustid:2019-04-10T13:13:03Z</external-identifier-match-date>
+  </file>
+  <file name="TLMR 099 Vicious.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>TLMR 099 Vicious.mp3</original>
+    <mtime>1482017926</mtime>
+    <size>30179584</size>
+    <md5>e5c9ac8c5debf0ef06a0bfdbde22da82</md5>
+    <crc32>0ca23a2e</crc32>
+    <sha1>be8489433b1c465fc7bc91a0af53d2530ef604a6</sha1>
+    <length>2664.1</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="TLMR 099 Vicious.png" source="derivative">
+    <format>PNG</format>
+    <original>TLMR 099 Vicious.mp3</original>
+    <mtime>1482017984</mtime>
+    <size>5366</size>
+    <md5>b587f5f4b29c7c0445f47ca9b2d2842a</md5>
+    <crc32>27cd1e2a</crc32>
+    <sha1>048e42d9f9930204b44a2d296b335940baefbcae</sha1>
+  </file>
+  <file name="TLMR099Vicious_archive.torrent" source="metadata">
+    <btih>74f95fcc52d26301e2f2279476f2343d271c6238</btih>
+    <mtime>1654150194</mtime>
+    <size>5937</size>
+    <md5>c2066631e17a4f09c144c95a826291e3</md5>
+    <crc32>b6a4ecb0</crc32>
+    <sha1>87fe63f8c495cbdec929df634fa3cce55acaf1c9</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="TLMR099Vicious_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9b3b7f455d2e15c56141670baf2cfe62</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="TLMR099Vicious_meta.sqlite" source="original">
+    <mtime>1482017808</mtime>
+    <size>14336</size>
+    <md5>eafb09e4b8407a6cd54b1df18a164f22</md5>
+    <crc32>4f150167</crc32>
+    <sha1>1d500bb333963bd1d0f394258a6550b424c63cb7</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="TLMR099Vicious_meta.xml" source="original">
+    <mtime>1654150187</mtime>
+    <size>2084</size>
+    <format>Metadata</format>
+    <md5>8064ea4316d4f9ff9f9cf2f6b87bfd2d</md5>
+    <crc32>7e450c57</crc32>
+    <sha1>f897a9f4be9739f47ab4566d442a8d3ee0b34d2c</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1654076596</mtime>
+    <size>1629</size>
+    <md5>52d08a354ba842fa0500ce57bbee7ae1</md5>
+    <crc32>2f6f5200</crc32>
+    <sha1>7ec308d4a9caa8cddbcfb1af1fd9af857a771de6</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>
