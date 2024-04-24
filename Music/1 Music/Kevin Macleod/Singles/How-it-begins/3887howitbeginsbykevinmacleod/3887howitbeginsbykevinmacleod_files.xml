@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="3887-how-it-begins-by-kevin-macleod.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>3887-how-it-begins-by-kevin-macleod.mp3</original>
+    <mtime>1582568016</mtime>
+    <size>40608</size>
+    <md5>cab0c848ed67dfd5d7b1d4f602bff10b</md5>
+    <crc32>e4920ef6</crc32>
+    <sha1>b796f5ad2e767d99daaac8e1d8cde9349053780a</sha1>
+  </file>
+  <file name="3887-how-it-begins-by-kevin-macleod.mp3" source="original">
+    <mtime>1582567946</mtime>
+    <size>7731868</size>
+    <md5>c28c17b4b82c5d9cfc77fd640e1faf9a</md5>
+    <crc32>a5799180</crc32>
+    <sha1>95533feaf4b884a565e83541d5468861db629489</sha1>
+    <format>VBR MP3</format>
+    <length>190.07</length>
+    <height>400</height>
+    <width>400</width>
+    <title>How it Begins</title>
+    <creator>Kevin MacLeod</creator>
+    <album>Light</album>
+    <track>01</track>
+    <artist>Kevin MacLeod</artist>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2020-09-27T13:30:19Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:9fa67edb-5324-4507-8440-ff7fc85ebbd8</external-identifier>
+  </file>
+  <file name="3887-how-it-begins-by-kevin-macleod.png" source="derivative">
+    <format>PNG</format>
+    <original>3887-how-it-begins-by-kevin-macleod.mp3</original>
+    <mtime>1582568000</mtime>
+    <size>35749</size>
+    <md5>7ad6803be146a16beab9d52cb418125d</md5>
+    <crc32>c0a2606e</crc32>
+    <sha1>7802b59fd301b9ffb26e9cec6dae91d868dc2281</sha1>
+  </file>
+  <file name="3887-how-it-begins-by-kevin-macleod_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>3887-how-it-begins-by-kevin-macleod.mp3</original>
+    <mtime>1582568005</mtime>
+    <size>329339</size>
+    <md5>83d432fef42e2fb7b6f5460012bf5bf8</md5>
+    <crc32>3ce591b0</crc32>
+    <sha1>c93c7c20515c0e7d1e127466ffba56bbdc8b151b</sha1>
+  </file>
+  <file name="3887howitbeginsbykevinmacleod_archive.torrent" source="metadata">
+    <btih>6deea14a2806e9484db07951115c69ca62bfa263</btih>
+    <mtime>1653725083</mtime>
+    <size>2855</size>
+    <md5>39be22d0e14b953ae7ff652867dc0219</md5>
+    <crc32>3f51bc1d</crc32>
+    <sha1>acec326f404a826f370d64c64cfea89948506e16</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="3887howitbeginsbykevinmacleod_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2032dc3a368f4653b9ff5f391609504f</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="3887howitbeginsbykevinmacleod_meta.sqlite" source="original">
+    <mtime>1582567978</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>a7c7d5164ad18b22a7ff62ee32ed1106</md5>
+    <crc32>046e02f3</crc32>
+    <sha1>9ba486d2a3e2a02879571ab36844c769abb46094</sha1>
+  </file>
+  <file name="3887howitbeginsbykevinmacleod_meta.xml" source="original">
+    <mtime>1653725080</mtime>
+    <size>978</size>
+    <format>Metadata</format>
+    <md5>7db746dd7618c670a87ff6fc114178f0</md5>
+    <crc32>8cd0b2cf</crc32>
+    <sha1>6965eea6cc3de34668d5594df6a51f7b531cf199</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1653725082</mtime>
+    <size>3453</size>
+    <md5>ee81cdac2a908a9a6cd0645d82121ddf</md5>
+    <crc32>36600019</crc32>
+    <sha1>f093c7c5191c0f8ece9e62e39352a1660f330f48</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>
