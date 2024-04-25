@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Conor-and-Jay_Change/AudioOnly/M4A/GTA%20III%20-%20Head%20Radio%20%20%EF%BC%8A%EF%BC%8AConor%20&amp;%20Jay%20-%20Change%EF%BC%8A%EF%BC%8A%20[vjamwACI2MI].m4a</location>
+			<duration>249847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/April&#39;s-in-Paris_Feels-Like-I-Just-Can&#39;t-Take-No-More/AudioOnly/M4A/GTA%20III%20-%20Lips%20106%20%20%EF%BC%8A%EF%BC%8AApril&#39;s%20in%20Paris%20-%20Feels%20Like%20I%20Just%20Can&#39;t%20Take%20No%20More%EF%BC%8A%EF%BC%8A%20[wSS9Qz5I-4E].m4a</location>
+			<duration>189522</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boyz-2-Girls_Pray-It-Goes-Ok/AudioOnly/M4A/GTA%20III%20-%20Lips%20106%20%20%EF%BC%8A%EF%BC%8ABoyz%202%20Girls%20-%20Pray%20It%20Goes%20Ok%EF%BC%9F%EF%BC%8A%EF%BC%8A%20[o24aUUtvrWA].m4a</location>
+			<duration>220613</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/05%20-%20Hydrocity%20Zone%20Act%201.mp3</location>
+			<title>Hydrocity Zone Act 1</title>
+			<creator>Michael Jackson, Brad Buxer</creator>
+			<album>Sonic the Hedgehog 3</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/cover.jpg</image>
+			<duration>123664</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/06%20-%20Hydrocity%20Zone%20Act%202.mp3</location>
+			<title>Hydrocity Zone Act 2</title>
+			<creator>Masayuki Nagao</creator>
+			<album>Sonic the Hedgehog 3</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/cover.jpg</image>
+			<duration>114782</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/07%20-%20Marble%20Garden%20Zone%20Act%201.mp3</location>
+			<title>Marble Garden Zone Act 1</title>
+			<creator>Miyoko Takaoka</creator>
+			<album>Sonic the Hedgehog 3</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/cover.jpg</image>
+			<duration>129515</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/08%20-%20Marble%20Garden%20Zone%20Act%202.mp3</location>
+			<title>Marble Garden Zone Act 2</title>
+			<creator>Miyoko Takaoka</creator>
+			<album>Sonic the Hedgehog 3</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/cover.jpg</image>
+			<duration>128209</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/09%20-%20Carnival%20Night%20Zone%20Act%201.mp3</location>
+			<title>Carnival Night Zone Act 1</title>
+			<creator>Michael Jackson, Brad Buxer</creator>
+			<album>Sonic the Hedgehog 3</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/cover.jpg</image>
+			<duration>145110</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>

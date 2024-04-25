@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/La-Salsa-Lleg%C3%B3/MP3/Sonora-Carruseles_La-Salsa-Lleg%C3%B3.mp3</location>
+			<title>Sonora-Carruseles_La-Salsa-Llegó.mp3</title>
+			<creator>Sonora Carruseles</creator>
+			<album>La Salsa Llegó</album>
+			<trackNum>1</trackNum>
+			<annotation>I cannot translate the sources enough to get proper information on this song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Sonora%20Carruseles/La%20Salsa%20Lleg%C3%B3/art.jpg</image>
+			<duration>281793</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Low%20Rider/MP3/Low-Rider.mp3</location>
+			<title>Low-Rider.mp3</title>
+			<creator>WAR</creator>
+			<album>Low Rider</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Low rider&quot; by WAR. Recorded in 1974, released in 1975.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/WAR/Low%20Rider/art.jpg</image>
+			<duration>191539</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tequila%20-%20The%20Champs/MP3/Tequila_The-Champs.mp3</location>
+			<title>Tequila_The-Champs.mp3</title>
+			<creator>The Champs</creator>
+			<album>Tequila</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Tequila&quot; by the band &quot;the champs&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Champs/Tequila/art.jpg</image>
+			<duration>130098</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/You%20reposted%20in%20the%20wrong%20neighborhood/MP3/You-reposted-in-the-wrong-neighborhood.mp3</location>
+			<title>You-reposted-in-the-wrong-neighborhood.mp3</title>
+			<creator>Eminem</creator>
+			<album>Shake that (remix)</album>
+			<trackNum>1</trackNum>
+			<annotation>The popular remix of Shake that known as &quot;you reposted in the wrong neighborhood&quot; a popular meme in 2016.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Eminem/Shake%20that%20%28remix%29/art.jpg</image>
+			<duration>219072</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Chris%20Brown/MP3/Chris-Brown_Look-at-me-now.mp3</location>
+			<title>Chris-Brown_Look-at-me-now.mp3</title>
+			<creator>Chris Brown</creator>
+			<album>Look at me now</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Look at me now&quot; by the artist &quot;Chris Brown&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Chris%20Brown/Look%20at%20me%20now/art.jpg</image>
+			<duration>248408</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Samba-de-Janeiro/MP3/Samba-de-Janeiro.mp3</location>
+			<title>Samba-de-Janeiro.mp3</title>
+			<creator>Bellini</creator>
+			<album>Samba de Janeiro</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Samba de Janeiro by German band Bellini.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bellini/Samba%20de%20Janeiro/art.jpg</image>
+			<duration>169178</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Korn%20-%20Freak%20on%20a%20leash/MP3/Korn-Freak-on-a-leash.mp3</location>
+			<title>Korn-Freak-on-a-leash.mp3</title>
+			<creator>Korn</creator>
+			<album>Freak on a leash</album>
+			<trackNum>1</trackNum>
+			<annotation>Kornhub</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Korn/Freak%20on%20a%20leash/art.jpg</image>
+			<duration>266223</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/My-heart-will-go-on/MP3/Titanic-theme-song_Bad-recorder-remix.mp3</location>
+			<title>Titanic-theme-song_Bad-recorder-remix.mp3</title>
+			<creator>Shittyflute</creator>
+			<album>My heart will go on (Bad recorder remix)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;My heart will go on&quot; poorly played on a recorder for comedic value.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shittyflute/My%20heart%20will%20go%20on%20%28Bad%20recorder%20remix%29/art.jpg</image>
+			<duration>255983</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
