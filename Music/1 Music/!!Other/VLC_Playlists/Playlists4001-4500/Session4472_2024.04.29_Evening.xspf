@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The%20Simpsons%20Movie%20OST/The%20Simpsons%20Movie%20(Soundtrack)%20-%20Carpenter%20Close%20To%20You.mp4</location>
+			<duration>216178</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Space%20Oddity/MP3/David-Bowie_Space-Oddity.mp3</location>
+			<title>David-Bowie_Space-Oddity.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Space Oddity</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Space Oddity&quot; by David Bowie.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Space%20Oddity/art.jpg</image>
+			<duration>304937</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Restaurant%20story/MP3/Restaurant-Story-Theme_High-Quality.mp3</location>
+			<title>Restaurant-Story-Theme_High-Quality.mp3</title>
+			<creator>Storm8 / TeamLava</creator>
+			<album>Restaurant Story Theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the mobile video game &quot;Restaurant Story&quot; by the developer Storm8/TeamLava.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Storm8%20_%20TeamLava/Restaurant%20Story%20Theme%20song/art.png</image>
+			<duration>204104</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Guajira-guantanamera/MP3/Guajira-guantanamera.mp3</location>
+			<title>Guajira-guantanamera.mp3</title>
+			<creator>Guajira-guantanamera</creator>
+			<album>Guantanamera</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Guantanamera by Guajira. A popular Cuban song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Guajira-guantanamera/Guantanamera/art.jpg</image>
+			<duration>312095</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Uptown%20funk/MP3/Uptown-funk.mp3</location>
+			<title>Uptown-funk.mp3</title>
+			<creator>Mark Ronson</creator>
+			<album>Uptown funk</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Uptown funk&quot; from Mark Ronson, featuring Bruno Mars.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Mark%20Ronson/Uptown%20funk/art.jpg</image>
+			<duration>270377</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Live-and-let-die/AudioOnly/M4A/Live%20And%20Let%20Die%20(2018%20Remaster)%20[NR0UmZcf89E].m4a</location>
+			<duration>192783</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
