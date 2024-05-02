@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/LC-Dolida/Sample-2024.04.06/Kevin%20MacLeod%20-%2000%20-%20Gymnopedie%20No%201.mp3</location>
+			<title>Gymnopedie No 1</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation> 0000010C 00000106 00002E12 00002AC2 00027C53 00025AF5 00007E86 000059E0 00025192 00025ADB</annotation>
+			<duration>187092</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/LC-Dolida/Sample-2024.04.06/NES_Pictionary_04_Mini-Game2.mp3</location>
+			<title>Mini-Game 2</title>
+			<creator>VG Music</creator>
+			<album>NES - Pictionary</album>
+			<trackNum>4</trackNum>
+			<annotation>explod.org</annotation>
+			<duration>156295</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-game-soundtrack/27%20Icecap%20Zone%20Act%201.mp3</location>
+			<duration>185640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-game-soundtrack/28%20Icecap%20Zone%20Act%202.mp3</location>
+			<duration>212860</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-game-soundtrack/16%20Act%201%20Boss.mp3</location>
+			<duration>142774</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
