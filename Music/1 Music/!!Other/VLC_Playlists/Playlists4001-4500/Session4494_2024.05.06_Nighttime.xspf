@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Here-comes-the-sun/AudioOnly/M4A/[HD]%20Nightcore%20-%20Here%20comes%20the%20sun%20[taZNN725b-0].m4a</location>
+			<duration>181139</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Gone-tonight/AudioOnly/M4A/[HD]%20Nightcore%20-%20Gone%20tonight%20[GA_NEAA-t2E].m4a</location>
+			<duration>167138</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Fight-Song/AudioOnly/M4A/[HD]%20Nightcore%20-%20Fight%20Song%20[jB71xKfszmA].m4a</location>
+			<duration>167393</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Brave/AudioOnly/M4A/[HD]%20Nightcore%20-%20Brave%20[vypO0A9tq6s].m4a</location>
+			<duration>191542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Fire-and-rain/AudioOnly/M4A/[HD]%20Nightcore%20-%20Fire%20and%20rain%20[vsAxXTaKrzw].m4a</location>
+			<duration>160775</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/All-about-that-bass/AudioOnly/M4A/[HD]%20Nightcore%20-%20All%20about%20that%20bass%20[M2RbtJPZBw8].m4a</location>
+			<duration>153345</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Castles-in-the-Sky/AudioOnly/M4A/[HD]%20Nightcore%20-%20Castles%20in%20the%20Sky%20[QNTJ1A4O29M].m4a</location>
+			<duration>160079</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Faded-Love/AudioOnly/M4A/[HD]%20Nightcore%20-%20Faded%20Love%20[eqXS251_MkU].m4a</location>
+			<duration>122904</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
