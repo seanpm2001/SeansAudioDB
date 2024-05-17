@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Bulgarian-Style/OGG/Free_Software_Song_Bulgarian_Style.ogg</location>
+			<title>Free Software Song</title>
+			<creator>Mark Forry, Yvette Osborne, Ron Fox, Steve Finney, Bill Cope, Kip McAtee, Ernie Provencher, Dan Auvil</creator>
+			<annotation>http://www.gnu.org/music/free-software-song.html</annotation>
+			<duration>187998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Free-as-in-rickrolled/MP3/c85d0c594de9cd97ff2fe2e3f4b027a7_freeasinrickrolled.mp3</location>
+			<title>Free as in Rickrolled</title>
+			<creator>Rick Stallman</creator>
+			<album>Never Gonna Give GNU Up</album>
+			<annotation>0</annotation>
+			<duration>104856</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Lava%20Overworld%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<title>Lava Overworld - New Super Mario Bros..mp3</title>
+			<creator>Nintendo</creator>
+			<album>New Super Mario Bros. (DS) soundtrack</album>
+			<trackNum>10</trackNum>
+			<annotation>The lava overworld stage theme for New Super Mario Bros. (DS) only played on 3 levels in the entire game (world 8: part 2: 8-5, 8-6, 8-8)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/New%20Super%20Mario%20Bros.%20%28DS%29%20soundtrack/art.jpg</image>
+			<duration>76939</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/Toad%20House%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<title>Toad House - New Super Mario Bros..mp3</title>
+			<creator>Nintendo</creator>
+			<album>New Super Mario Bros. (DS) soundtrack</album>
+			<trackNum>19</trackNum>
+			<annotation>The toad house/mega mushroom house theme for New Super Mario Bros. (DS)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/New%20Super%20Mario%20Bros.%20%28DS%29%20soundtrack/art.jpg</image>
+			<duration>101964</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/MP3/World%208%20(Lava)%20-%20New%20Super%20Mario%20Bros..mp3</location>
+			<title>World 8 (Lava) - New Super Mario Bros..mp3</title>
+			<creator>Nintendo</creator>
+			<album>New Super Mario Bros. (DS) soundtrack</album>
+			<trackNum>31</trackNum>
+			<annotation>The theme song for World 8 (lava) part 1, for New Super Mario Bros. (DS)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/New%20Super%20Mario%20Bros.%20%28DS%29%20soundtrack/art.jpg</image>
+			<duration>61004</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Extended/World%208%20Map%20(Part%202)%20-%20New%20Super%20Mario%20Bros.%20Music%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
