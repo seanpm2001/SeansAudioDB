@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="01 Angry Birds Rio Samba.flac" source="original">
+    <mtime>1681728365</mtime>
+    <size>17369966</size>
+    <md5>1c3055bc6ee8f6449c85f3939131f186</md5>
+    <crc32>b0a2e365</crc32>
+    <sha1>5cdf79ee10a594fbe3949762a2849c9224258d54</sha1>
+    <format>Flac</format>
+    <length>139.11</length>
+    <viruscheck>1681728739</viruscheck>
+    <title>Angry Birds Rio Samba</title>
+    <creator>Rovio Mobile</creator>
+    <album>Angry Birds Rio Samba</album>
+    <track>1</track>
+    <artist>Rovio Mobile</artist>
+    <genre>Latin Music</genre>
+  </file>
+  <file name="01 Angry Birds Rio Samba.mp3" source="derivative">
+    <creator>Rovio Mobile</creator>
+    <title>Angry Birds Rio Samba</title>
+    <track>1</track>
+    <album>Angry Birds Rio Samba</album>
+    <genre>Latin Music</genre>
+    <bitrate>210</bitrate>
+    <length>02:19</length>
+    <format>VBR MP3</format>
+    <original>01 Angry Birds Rio Samba.flac</original>
+    <mtime>1681728753</mtime>
+    <size>3651334</size>
+    <md5>a3d573ace4e0160f8401352acdcc73f7</md5>
+    <crc32>08dba7f9</crc32>
+    <sha1>0aa7472e66558c7eff0a9000c4abf1c6944dd50e</sha1>
+  </file>
+  <file name="01 Angry Birds Rio Samba.png" source="derivative">
+    <format>PNG</format>
+    <original>01 Angry Birds Rio Samba.flac</original>
+    <mtime>1681728776</mtime>
+    <size>44283</size>
+    <md5>9e829729882e6330ad9a22da02709b87</md5>
+    <crc32>7e36ae9f</crc32>
+    <sha1>d7ebeb117f4f1691663c71413e485564a0503baa</sha1>
+  </file>
+  <file name="01 Angry Birds Rio Samba_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>01 Angry Birds Rio Samba.flac</original>
+    <mtime>1681728787</mtime>
+    <size>312399</size>
+    <md5>56d19c3ad70eab145bb25b06914ea948</md5>
+    <crc32>58cda377</crc32>
+    <sha1>68bc120e2fe7902236f0a6616c4ef9cd1c81a67a</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1681728810</mtime>
+    <size>9725</size>
+    <md5>eda69edc0412c42923df8bcbf2cf11c7</md5>
+    <crc32>8c2a7b6e</crc32>
+    <sha1>14d9e1bf72ba2fdec7089a8fb122b7c1ba19fe20</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="angry-birds-rio-samba-flac_archive.torrent" source="metadata">
+    <btih>d7b97ba8181c25ad3b073487b575a4799c49d8e5</btih>
+    <mtime>1711122876</mtime>
+    <size>3670</size>
+    <md5>cc08cabcd6df97f000ed71edc2ae45c9</md5>
+    <crc32>e17c89c5</crc32>
+    <sha1>f3ef492c367a5675409b0f093ed5e4384ade4aaa</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="angry-birds-rio-samba-flac_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>3eb6c06c794aba5005724aacec6a589b</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="angry-birds-rio-samba-flac_meta.sqlite" source="original">
+    <mtime>1681728806</mtime>
+    <size>20480</size>
+    <md5>542fc09b4cc919bfa4ed21ea7888094d</md5>
+    <crc32>2535c0f8</crc32>
+    <sha1>a2a495d7aa7128ac2919f080fee3d47ebdbf40a0</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="angry-birds-rio-samba-flac_meta.xml" source="original">
+    <mtime>1682345514</mtime>
+    <size>1127</size>
+    <md5>86709c1a8056063f8e402f9cc016cd5b</md5>
+    <crc32>e41a2fb4</crc32>
+    <sha1>723d03e7ecb4e1b5caef7060cf77f51ec3064423</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="angry-birds-rio-samba-flac_reviews.xml" source="original">
+    <mtime>1711122874</mtime>
+    <size>510</size>
+    <md5>db60b073933b6642648f5903910639b0</md5>
+    <crc32>a86f9247</crc32>
+    <sha1>bdcec56ceb3354e44f2fce4326377f3cd7f39040</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="cover.jpg" source="original">
+    <mtime>1681728779</mtime>
+    <size>104525</size>
+    <md5>be781c2063edaa45096f78f91fdef087</md5>
+    <crc32>0a61b7d7</crc32>
+    <sha1>f22abecfb5a45102f4f06608ae8884a9e3e1dc4f</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="cover_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>cover.jpg</original>
+    <mtime>1681728848</mtime>
+    <size>8424</size>
+    <md5>39ba5566bd1566a82bc7836db35065f6</md5>
+    <crc32>0a67433a</crc32>
+    <sha1>df7e9d3adb89c4e1954e814d27109974a0902e45</sha1>
+  </file>
+</files>
