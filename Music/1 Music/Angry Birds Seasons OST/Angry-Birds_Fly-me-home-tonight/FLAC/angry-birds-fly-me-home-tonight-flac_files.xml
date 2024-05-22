@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="01 Fly Me Home Tonight.flac" source="original">
+    <mtime>1681729448</mtime>
+    <size>20981875</size>
+    <md5>5b6845e2da7f0db9551438592e515dd4</md5>
+    <crc32>7e37c44e</crc32>
+    <sha1>840a723ed82ca707289947040b19bd164837f98b</sha1>
+    <format>Flac</format>
+    <length>183.11</length>
+    <viruscheck>1681730105</viruscheck>
+    <title>Fly Me Home Tonight</title>
+    <creator>Rovio Entertainment Ltd.</creator>
+    <album>Fly Me Home Tonight</album>
+    <track>1</track>
+    <artist>Rovio Entertainment Ltd.</artist>
+    <genre>Jazz</genre>
+  </file>
+  <file name="01 Fly Me Home Tonight.mp3" source="derivative">
+    <creator>Rovio Entertainment Ltd.</creator>
+    <title>Fly Me Home Tonight</title>
+    <track>1</track>
+    <album>Fly Me Home Tonight</album>
+    <genre>Jazz</genre>
+    <bitrate>178</bitrate>
+    <length>03:03</length>
+    <format>VBR MP3</format>
+    <original>01 Fly Me Home Tonight.flac</original>
+    <mtime>1681730162</mtime>
+    <size>4071243</size>
+    <md5>1eec2f410423e4a1dcbbe07a6d359bfe</md5>
+    <crc32>5f8e8e79</crc32>
+    <sha1>a8db0567d7baef0f9d571b11fe4b14bf3a419f33</sha1>
+  </file>
+  <file name="01 Fly Me Home Tonight.png" source="derivative">
+    <format>PNG</format>
+    <original>01 Fly Me Home Tonight.flac</original>
+    <mtime>1681730198</mtime>
+    <size>38247</size>
+    <md5>29f8fd80b51c1ef23c3a71903b9ebd71</md5>
+    <crc32>5bf604b2</crc32>
+    <sha1>41ff18ad98246d010429cd4954d06db06ea1cab2</sha1>
+  </file>
+  <file name="01 Fly Me Home Tonight_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>01 Fly Me Home Tonight.flac</original>
+    <mtime>1681730222</mtime>
+    <size>334012</size>
+    <md5>4afd82f519a53a57b89e9dd5eae8f06a</md5>
+    <crc32>cca8d6ec</crc32>
+    <sha1>791ea77e88210af713e05fa2be72bbfd50091739</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1681729475</mtime>
+    <size>14682</size>
+    <md5>afb48a5ef25ded30f39306f6a5753cb6</md5>
+    <crc32>4915940d</crc32>
+    <sha1>3f0cd22c06d197b9a758eac0233ecca734fc6e3a</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="angry-birds-fly-me-home-tonight-flac_archive.torrent" source="metadata">
+    <btih>4b6eadd31d2036514854cda808278fb1038eea09</btih>
+    <mtime>1682345505</mtime>
+    <size>3866</size>
+    <md5>440d6c925a504d847e5dde00930fd429</md5>
+    <crc32>b697cf65</crc32>
+    <sha1>7f5ed3ea9958bf5847a2e6372346e4c23c23ed66</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="angry-birds-fly-me-home-tonight-flac_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a5ce76e3c2291ce02979bc8bd59a23bd</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="angry-birds-fly-me-home-tonight-flac_meta.sqlite" source="original">
+    <mtime>1681729468</mtime>
+    <size>20480</size>
+    <md5>cf00627182a8dc1b7eb17f50fa6cda2a</md5>
+    <crc32>8a2c904d</crc32>
+    <sha1>71ba6efd1112dbe3d646d5ee759262d71f60088d</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="angry-birds-fly-me-home-tonight-flac_meta.xml" source="original">
+    <mtime>1682345502</mtime>
+    <size>1235</size>
+    <md5>35718e6350f4b6c04956de35314f8fe3</md5>
+    <crc32>bcc25aa8</crc32>
+    <sha1>5c2eaa84238081a0422ae1b3b20a33790751c934</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="cover.jpg" source="original">
+    <mtime>1681729465</mtime>
+    <size>172955</size>
+    <md5>8cb18904ddff6b602f1d7e5c9c6a1561</md5>
+    <crc32>ced15101</crc32>
+    <sha1>4a1708a282491884a3ea325f33905b7bda04c8ff</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="cover_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>cover.jpg</original>
+    <mtime>1681730176</mtime>
+    <size>11244</size>
+    <md5>3d8d10a0d35ba85a1cd774ee56974433</md5>
+    <crc32>9fb9c5df</crc32>
+    <sha1>f1a4054116cf2751f7dd3e6f1f11e355bb7f01ca</sha1>
+  </file>
+</files>
