@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="01 Shuffle &amp; Spawn (Fox Remix).flac" source="original">
+    <mtime>1681729847</mtime>
+    <size>45565490</size>
+    <md5>fd7db1165fe3e459f7795b63ca32e243</md5>
+    <crc32>ee4aa91c</crc32>
+    <sha1>5c5c1d07881bf47c74c4075aa3ebbb2c1ddad75d</sha1>
+    <format>Flac</format>
+    <length>403.33</length>
+    <title>Shuffle &amp; Spawn (Fox Remix)</title>
+    <creator>Bad Piggies</creator>
+    <album>Shuffle &amp; Spawn (Fox Remix)</album>
+    <track>1</track>
+    <artist>Bad Piggies</artist>
+    <genre>Soundtracks</genre>
+  </file>
+  <file name="01 Shuffle &amp; Spawn (Fox Remix).mp3" source="derivative">
+    <creator>Bad Piggies</creator>
+    <title>Shuffle &amp; Spawn (Fox Remix)</title>
+    <track>1</track>
+    <album>Shuffle &amp; Spawn (Fox Remix)</album>
+    <genre>Soundtracks</genre>
+    <bitrate>201</bitrate>
+    <length>06:43</length>
+    <format>VBR MP3</format>
+    <original>01 Shuffle &amp; Spawn (Fox Remix).flac</original>
+    <mtime>1681729997</mtime>
+    <size>10162570</size>
+    <md5>a4d3c7c710096c1938ca84a25cba2848</md5>
+    <crc32>3c04fa63</crc32>
+    <sha1>a28e4cf2917eb0e967477b54b049aa62b43f47c0</sha1>
+  </file>
+  <file name="01 Shuffle &amp; Spawn (Fox Remix).png" source="derivative">
+    <format>PNG</format>
+    <original>01 Shuffle &amp; Spawn (Fox Remix).flac</original>
+    <mtime>1681730047</mtime>
+    <size>44059</size>
+    <md5>0175d895e756aefa0c9eb81e125fcf24</md5>
+    <crc32>4fc20cc0</crc32>
+    <sha1>96c6e39f5095a0e71ca152c6970dad2fa6d511ad</sha1>
+  </file>
+  <file name="01 Shuffle &amp; Spawn (Fox Remix)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>01 Shuffle &amp; Spawn (Fox Remix).flac</original>
+    <mtime>1681730084</mtime>
+    <size>301366</size>
+    <md5>3fadfd250076ee886141c9d0c41b8272</md5>
+    <crc32>cdd925a3</crc32>
+    <sha1>9ac708f3b5ac674c2773d2c6adbdf57a3b4750a1</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1681729881</mtime>
+    <size>13820</size>
+    <md5>15c29db9921b90ce2f62d437de803793</md5>
+    <crc32>92ffb718</crc32>
+    <sha1>f3cf52f9e7e43cda8a8d4252718d6d0b68af2b8c</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="bad-piggies-shuffle-and-spawn-fox-remix-flac_archive.torrent" source="metadata">
+    <btih>05b2e27f15d8568fd9ab03badf2710bb63e9614d</btih>
+    <mtime>1682347520</mtime>
+    <size>5148</size>
+    <md5>f24fe045a247912d1615dce22cb2889e</md5>
+    <crc32>b00e9d28</crc32>
+    <sha1>34411c9f26c04d6baff0bb7e0cec0ab91adc20d3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="bad-piggies-shuffle-and-spawn-fox-remix-flac_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>cca82aa928d405c3a0c57b1e7bab9bc9</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="bad-piggies-shuffle-and-spawn-fox-remix-flac_meta.sqlite" source="original">
+    <mtime>1681729875</mtime>
+    <size>20480</size>
+    <md5>5308d76cc6a1d6b2099c3b0108ab87c9</md5>
+    <crc32>f8c8eff2</crc32>
+    <sha1>3827ed3d630684b1df35b2eca1d0cfca47061b74</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="bad-piggies-shuffle-and-spawn-fox-remix-flac_meta.xml" source="original">
+    <mtime>1682347518</mtime>
+    <size>1238</size>
+    <md5>157200b6cca5d836f144502acd1205a9</md5>
+    <crc32>054bb44f</crc32>
+    <sha1>d2f82134c7ad929afc4c8165428f44b8ef3bd290</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="cover.jpg" source="original">
+    <mtime>1681729870</mtime>
+    <size>222795</size>
+    <md5>9bb737ddfeebc4eb1cc6c37cebfd92a5</md5>
+    <crc32>ab5bcdf4</crc32>
+    <sha1>8fb23476c6f492fb1ea6cd47f8e06257aa4ff143</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="cover_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>cover.jpg</original>
+    <mtime>1681730021</mtime>
+    <size>9836</size>
+    <md5>8ab84dc546e0b64af07071bd54ae7dc8</md5>
+    <crc32>21a5601d</crc32>
+    <sha1>1e0578811c34c78f50b3601420b4f5ca1f869169</sha1>
+  </file>
+</files>
