@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/European-Union-Anthem/AudioOnly/OGG/Anthem_of_Europe_(US_Navy_instrumental_short_version).ogg</location>
+			<title>Anthem of Europe</title>
+			<creator>U.S. Navy Band</creator>
+			<annotation>PD, source: http://www.navyband.navy.mil/anthems/all_countries.htm</annotation>
+			<duration>60957</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20Birds%20Rio%20OST/AudioOnly/FLAC/Angry-Birds-Rio-Samba-FLAC/01%20Angry%20Birds%20Rio%20Samba.mp3</location>
+			<title>Angry Birds Rio Samba</title>
+			<creator>Rovio Mobile</creator>
+			<album>Angry Birds Rio Samba</album>
+			<trackNum>1</trackNum>
+			<annotation>https://archive.org/details/angry-birds-rio-samba-flac</annotation>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20Birds%20Rio%20OST/AudioOnly/FLAC/Angry-Birds-Rio-Samba-FLAC/cover.jpg</image>
+			<duration>139154</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20Birds%20Rio%20OST/AudioOnly/FLAC/Angry-Birds-Rio-Samba-FLAC/01%20Angry%20Birds%20Rio%20Samba.flac</location>
+			<title>Angry Birds Rio Samba</title>
+			<creator>Rovio Mobile</creator>
+			<album>Angry Birds Rio Samba</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio%20Mobile/Angry%20Birds%20Rio%20Samba/art.jpg</image>
+			<duration>139114</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20Birds%20Rio%20OST/AudioOnly/MP3/ab%20rio%20ambience%20warehouse.mp3</location>
+			<duration>45061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20Birds%20Rio%20OST/AudioOnly/MP3/story_music.mp3</location>
+			<duration>17293</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20Birds%20Rio%20OST/AudioOnly/MP3/angry_birds_rio2_theme.mp3</location>
+			<duration>129071</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20Birds%20Rio%20OST/AudioOnly/MP3/ambience%20carnival.mp3</location>
+			<duration>66952</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20Birds%20Rio%20OST/AudioOnly/MP3/ambience%20airport.mp3</location>
+			<duration>54074</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20Birds%20Rio%20OST/AudioOnly/MP3/ambience%20beach.mp3</location>
+			<duration>55066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20Birds%20Rio%20OST/AudioOnly/MP3/ab_theme_rio_boss_lite5.mp3</location>
+			<duration>37956</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>
