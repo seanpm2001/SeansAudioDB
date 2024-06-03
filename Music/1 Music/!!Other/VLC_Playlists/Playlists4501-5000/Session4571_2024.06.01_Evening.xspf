@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Fruits-Basket-OST/Fruits%20Basket;%20Four%20Seasons%20-%20OST/11%20Emai%20Music%20Orchestra%20-%20Epilogue.ogg</location>
+			<title>Epilogue</title>
+			<creator>Emai Music Orchestra</creator>
+			<album>Fruits Basket: Four Seasons</album>
+			<trackNum>11</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Emai%20Music%20Orchestra/Fruits%20Basket_%20Four%20Seasons/art.jpg</image>
+			<duration>172266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Fruits-Basket-OST/Fruits%20Basket;%20Four%20Seasons%20-%20OST/03%20Emai%20Music%20Orchestra%20-%20It%20Makes%20Me%20Want%20to%20Cry%20Without%20Reason.ogg</location>
+			<title>It Makes Me Want to Cry Without Reason</title>
+			<creator>Emai Music Orchestra</creator>
+			<album>Fruits Basket: Four Seasons</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Emai%20Music%20Orchestra/Fruits%20Basket_%20Four%20Seasons/art.jpg</image>
+			<duration>224266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
