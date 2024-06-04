@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Bulgarian-Style/OGG/Free_Software_Song_Bulgarian_Style.ogg</location>
+			<title>Free Software Song</title>
+			<creator>Mark Forry, Yvette Osborne, Ron Fox, Steve Finney, Bill Cope, Kip McAtee, Ernie Provencher, Dan Auvil</creator>
+			<annotation>http://www.gnu.org/music/free-software-song.html</annotation>
+			<duration>187998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Angry%20birds%20seasons%20OST/Angry-Birds_Fly-me-home-tonight/FLAC/01%20Fly%20Me%20Home%20Tonight.flac</location>
+			<title>Fly Me Home Tonight</title>
+			<creator>Rovio Entertainment Ltd.</creator>
+			<album>Fly Me Home Tonight</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio%20Entertainment%20Ltd./Fly%20Me%20Home%20Tonight/art.jpg</image>
+			<duration>183107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Tokyo/AudioOnly/M4A/[HD]%20Nightcore%20-%20Tokyo%20[7EV9dtKCxDo].m4a</location>
+			<duration>176565</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Edge-of-Glory/AudioOnly/M4A/[HD]%20Nightcore%20-%20Edge%20of%20Glory%20[5yerfxEkJAA].m4a</location>
+			<duration>220869</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/(I&#39;ve-had)-The-Time-of-my-Life/AudioOnly/M4A/[HD]%20Nightcore%20-%20(I%C2%B4ve%20had)%20The%20Time%20of%20my%20Life%20[rMV5Ys4N8iE].m4a</location>
+			<duration>231225</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/A-thousand-years/AudioOnly/M4A/[HD]%20Nightcore%20-%20A%20thousand%20years%20[hcKXmriKu08].m4a</location>
+			<duration>250265</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/A-thousand-miles/AudioOnly/M4A/[HD]%20Nightcore%20-%20A%20thousand%20miles%20[mk1kgkeLDTs].m4a</location>
+			<duration>205172</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Aishiteru-Banzai/AudioOnly/M4A/[HD]%20Nightcore%20-%20Aishiteru%20Banzai%20[zEm_oIcrAjw].m4a</location>
+			<duration>261457</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Fire-and-rain/AudioOnly/M4A/[HD]%20Nightcore%20-%20Fire%20and%20rain%20[vsAxXTaKrzw].m4a</location>
+			<duration>160775</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Livin-on-a-prayer/AudioOnly/M4A/[HD]%20Nightcore%20-%20Livin%20on%20a%20prayer%20[3-s2CcHjpmM].m4a</location>
+			<duration>202084</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
