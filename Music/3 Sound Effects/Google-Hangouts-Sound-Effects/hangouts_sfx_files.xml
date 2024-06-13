@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1540859172</mtime>
+    <size>1568</size>
+    <md5>eaa67c56b3c32a57dcb75c5fa9187bdb</md5>
+    <crc32>14b0d1e7</crc32>
+    <sha1>42aec5f95f504d727a4ae58c38907995abe27ca1</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="hangout_ringtone.m4a" source="original">
+    <format>Apple Lossless Audio</format>
+    <mtime>1508361674</mtime>
+    <size>17294</size>
+    <md5>ab39b0bd7c92e8a672707a96ecab4fa5</md5>
+    <crc32>2fa4f7b1</crc32>
+    <sha1>bcf586031c436e78cdda12691d9a3880697b45cf</sha1>
+  </file>
+  <file name="hangout_ringtone.mp3" source="derivative">
+    <bitrate>89.8</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>hangout_ringtone.m4a</original>
+    <mtime>1508361716</mtime>
+    <size>12288</size>
+    <md5>0bb7322f41d587169936d7bef5d42514</md5>
+    <crc32>f2c8c8e6</crc32>
+    <sha1>e924c828a03397e4eebab6941e555b6d8a095979</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="hangout_ringtone.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>hangout_ringtone.m4a</original>
+    <mtime>1508361720</mtime>
+    <size>12048</size>
+    <md5>8d90b18772445f5f5e7c8183216c9a80</md5>
+    <crc32>79baf545</crc32>
+    <sha1>9766d72b3c12da969f9ca94126a3b64799ad5506</sha1>
+    <length>1</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="hangout_ringtone.png" source="derivative">
+    <format>PNG</format>
+    <original>hangout_ringtone.m4a</original>
+    <mtime>1508361726</mtime>
+    <size>11894</size>
+    <md5>3ce0699e483354383c16320b5e6f5113</md5>
+    <crc32>d490376e</crc32>
+    <sha1>c211b853c3c4a80ab635db2061964c4d377714ae</sha1>
+  </file>
+  <file name="hangouts_incoming_call.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>hangouts_incoming_call.ogg</original>
+    <mtime>1508358411</mtime>
+    <size>376</size>
+    <md5>f5b381b5d7aec927510959908881d513</md5>
+    <crc32>ff874f4a</crc32>
+    <sha1>b36c4d9220a3ce187d363d26e0209f0dc027709b</sha1>
+  </file>
+  <file name="hangouts_incoming_call.mp3" source="derivative">
+    <bitrate>127</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>hangouts_incoming_call.ogg</original>
+    <mtime>1508358395</mtime>
+    <size>80896</size>
+    <md5>6b5ad0d2bb62fd19d6fd7ccd161040d6</md5>
+    <crc32>d99ffa0a</crc32>
+    <sha1>c6c8415737330c82eb3b5b0c11ac5486a669435c</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="hangouts_incoming_call.ogg" source="original">
+    <mtime>1508358324</mtime>
+    <size>76425</size>
+    <md5>b1eea45a3c45eef445d5ff64e033e446</md5>
+    <crc32>3fcb0c62</crc32>
+    <sha1>def30f88d4fb4d8465035a6d7e3d4c85f659074a</sha1>
+    <format>Ogg Vorbis</format>
+    <length>5</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="hangouts_incoming_call.png" source="derivative">
+    <format>PNG</format>
+    <original>hangouts_incoming_call.ogg</original>
+    <mtime>1508358402</mtime>
+    <size>5739</size>
+    <md5>ab965de14e88bbcb3dfaae071373623d</md5>
+    <crc32>fa302a0e</crc32>
+    <sha1>a91f25c5c2a328c93895764748735d000e9548ad</sha1>
+  </file>
+  <file name="hangouts_incoming_call_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>hangouts_incoming_call.ogg</original>
+    <mtime>1508358406</mtime>
+    <size>260980</size>
+    <md5>eba4ad220b46769c297315cae1c7141c</md5>
+    <crc32>17f75b71</crc32>
+    <sha1>c871d128ceff783088b16f6738d4842bfe209e61</sha1>
+  </file>
+  <file name="hangouts_message.mp3" source="derivative">
+    <bitrate>125</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>hangouts_message.ogg</original>
+    <mtime>1508358392</mtime>
+    <size>17920</size>
+    <md5>0b2c99f3c366aa8a7cbf72f14806cc60</md5>
+    <crc32>f0a865fa</crc32>
+    <sha1>8baa1e3da70cc325697ad4084818d1d41343a136</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="hangouts_message.ogg" source="original">
+    <mtime>1508358343</mtime>
+    <size>30056</size>
+    <md5>96fbe129a4463ec099d77495ba448380</md5>
+    <crc32>c3d23cfa</crc32>
+    <sha1>eac5588070105c33e3fd28cafa94cdc63126112c</sha1>
+    <format>Ogg Vorbis</format>
+    <length>1.07</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="hangouts_message.png" source="derivative">
+    <format>PNG</format>
+    <original>hangouts_message.ogg</original>
+    <mtime>1508358404</mtime>
+    <size>5568</size>
+    <md5>e90afc949bb0e5ba8d36386b8c2f4cbb</md5>
+    <crc32>d42433d9</crc32>
+    <sha1>b0e732eb6e62bcfb33dc95a3a350719aba1c4acf</sha1>
+  </file>
+  <file name="hangouts_message_2.mp3" source="derivative">
+    <bitrate>113</bitrate>
+    <length>00:01</length>
+    <format>VBR MP3</format>
+    <original>hangouts_message_2.ogg</original>
+    <mtime>1508361718</mtime>
+    <size>17920</size>
+    <md5>2be150f26f2c69aa57c6d7488e725adf</md5>
+    <crc32>2f1fd8cb</crc32>
+    <sha1>25498d406587fb38bbe2b1515ad7a9eadd53866f</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="hangouts_message_2.ogg" source="original">
+    <format>Ogg Vorbis</format>
+    <length>1.16</length>
+    <height>0</height>
+    <width>0</width>
+    <mtime>1508361694</mtime>
+    <size>23294</size>
+    <md5>3c09882ed399b307c01035da0ec91873</md5>
+    <crc32>fd4d1bd0</crc32>
+    <sha1>07298c67f696cd54cb3ab8d9d277bb24940dc5b3</sha1>
+  </file>
+  <file name="hangouts_message_2.png" source="derivative">
+    <format>PNG</format>
+    <original>hangouts_message_2.ogg</original>
+    <mtime>1508361723</mtime>
+    <size>7077</size>
+    <md5>d30c967a504dcc8eb76eecca758a9e56</md5>
+    <crc32>2982c996</crc32>
+    <sha1>5be6f46b6f12abd6add7f462e6b25c14e29357ef</sha1>
+  </file>
+  <file name="hangouts_message_2_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>hangouts_message_2.ogg</original>
+    <mtime>1508361727</mtime>
+    <size>219849</size>
+    <md5>1f96de076e7093eda7a2f70567b42f1e</md5>
+    <crc32>0c2681d2</crc32>
+    <sha1>6f33a6c5c1cff82e68a348e7961ebb3b66433506</sha1>
+  </file>
+  <file name="hangouts_message_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>hangouts_message.ogg</original>
+    <mtime>1508358408</mtime>
+    <size>238998</size>
+    <md5>84e49ca4b14f29eb3ef73af051af9e4b</md5>
+    <crc32>404eac86</crc32>
+    <sha1>57ee92372a47ebd2cd3d433bc9440f54561e692f</sha1>
+  </file>
+  <file name="hangouts_sfx_archive.torrent" source="metadata">
+    <btih>ec290fbe885fe5d9ee72624f6d3c22ce195c7b55</btih>
+    <mtime>1547654500</mtime>
+    <size>5580</size>
+    <md5>848c5e363f4c930d9e4175062305f42f</md5>
+    <crc32>7007c4bc</crc32>
+    <sha1>73d36753e37ced10dce62d04fda3f52b9936d176</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="hangouts_sfx_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>00bcb4343bc41687f574bfe252c9161a</md5>
+  </file>
+  <file name="hangouts_sfx_meta.sqlite" source="original">
+    <mtime>1508358367</mtime>
+    <size>12288</size>
+    <md5>2833651532cb1d1e0ccea2b9f821efde</md5>
+    <crc32>13ce86b1</crc32>
+    <sha1>30973b0fb7c9a1516b5e04f9b711c6f8315f9536</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="hangouts_sfx_meta.xml" source="original">
+    <mtime>1547654499</mtime>
+    <size>887</size>
+    <format>Metadata</format>
+    <md5>50a2f4287aa851e2d69f94faaad0920d</md5>
+    <crc32>3246403e</crc32>
+    <sha1>1517b5c60759d89ad5bbbe9f30a021ef1eef86af</sha1>
+  </file>
+  <file name="hangouts_video_call.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>hangouts_video_call.ogg</original>
+    <mtime>1508361733</mtime>
+    <size>504</size>
+    <md5>d8bdca211fc1f268b16b791a0f12a3a5</md5>
+    <crc32>46ad0d13</crc32>
+    <sha1>ec302e0128dfbb11855c7c3ae3ba8493930c5c54</sha1>
+  </file>
+  <file name="hangouts_video_call.mp3" source="derivative">
+    <bitrate>133</bitrate>
+    <length>00:04</length>
+    <format>VBR MP3</format>
+    <original>hangouts_video_call.ogg</original>
+    <mtime>1508361719</mtime>
+    <size>68096</size>
+    <md5>da5f117c56634444b7a072c83a2750df</md5>
+    <crc32>b8f6f305</crc32>
+    <sha1>b90ad35e13bde6a304bd22d1cf3855245068d9ce</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="hangouts_video_call.ogg" source="original">
+    <format>Ogg Vorbis</format>
+    <length>3.98</length>
+    <height>0</height>
+    <width>0</width>
+    <mtime>1508361677</mtime>
+    <size>70149</size>
+    <md5>33cce995dbc7637d8cbe0531e7c5a6ba</md5>
+    <crc32>c1724a4e</crc32>
+    <sha1>ace70ce842874a0c86d119b04d411b88f10ea581</sha1>
+  </file>
+  <file name="hangouts_video_call.png" source="derivative">
+    <format>PNG</format>
+    <original>hangouts_video_call.ogg</original>
+    <mtime>1508361725</mtime>
+    <size>5568</size>
+    <md5>b2315966b80ca1dd25dd2b9197219ed1</md5>
+    <crc32>c7ad9fdf</crc32>
+    <sha1>5efa4df497b3470de2b34ed75ae2069726b1b942</sha1>
+  </file>
+  <file name="hangouts_video_call_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>hangouts_video_call.ogg</original>
+    <mtime>1508361728</mtime>
+    <size>254371</size>
+    <md5>5ed53c92d38e72e0eba5d07930357983</md5>
+    <crc32>ea97cf02</crc32>
+    <sha1>54a19353f657354a38107dde71cb9d04aa9ecea4</sha1>
+  </file>
+</files>
