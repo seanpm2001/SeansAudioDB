@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Bejeweled%20Twist%20SFX/Bejeweled%20Twist%20-%20ALL%20sounds!%20(main.pak)%20-%20YouTube.mp4</location>
+			<duration>367316</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Bejeweled%20Twist%20SFX/MP3/Bejeweled-twist_All-Sound-effects.mp3</location>
+			<title>Bejeweled-twist_All-Sound-effects.mp3</title>
+			<creator>Skaven / PopCap Games</creator>
+			<album>Bejeweled Twist sound effects</album>
+			<trackNum>1</trackNum>
+			<annotation>All the sound effects from the game Bejeweled Twist, extracted from the game file `MAIN.pak` the video version also has all the backgrounds.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap%20Games/Bejeweled%20Twist%20sound%20effects/art.png</image>
+			<duration>367161</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/SpongeBob%20Movie%202004/Paramount%20PicturesNickelodeon%20Movies%20Intro%20(2004)%20-%20YouTube.mp4</location>
+			<duration>15418</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Portal%201/GLaDOS/AudioOnly/MP3/Portal_GLaDOS-Final-Battle-Speech.mp3</location>
+			<title>Portal_GLaDOS-Final-Battle-Speech.mp3</title>
+			<creator>Ellen McLain / Valve</creator>
+			<album>Portal voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All the voicelines from GLaDOS during the final boss battle from the Valve game Portal (2007)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ellen%20McLain%20_%20Valve/Portal%20voicelines/art.jpg</image>
+			<duration>449765</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Portal%201/GLaDOS/AudioOnly/MP3/Portal-1_All-GLaDOS-Quotes.mp3</location>
+			<title>Portal-1_All-GLaDOS-Quotes.mp3</title>
+			<creator>Ellen McLain / Valve</creator>
+			<album>Portal 1 GLaDOS voicelines</album>
+			<trackNum>1</trackNum>
+			<annotation>All the voicelines from GLaDOS from the Valve game Portal (2007)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ellen%20McLain%20_%20Valve/Portal%201%20GLaDOS%20voicelines/art.jpg</image>
+			<duration>1469668</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Portal%202/GLaDOS/AudioOnly/MP3/Portal-2_All-GLaDOS-Quotes-(Singleplayer-Story).mp3</location>
+			<title>Portal-2_All-GLaDOS-Quotes-(Singleplayer-Story).mp3</title>
+			<creator>Ellen McLain / Valve</creator>
+			<album>GLaDOS (Portal 2)</album>
+			<trackNum>1</trackNum>
+			<annotation>All of the singleplayer GLaDOS voicelines from Portal 2. I don&#39;t have the coop voicelines yet.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ellen%20McLain%20_%20Valve/GLaDOS%20%28Portal%202%29/art.jpg</image>
+			<duration>1790181</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Portal%202/Wheatley/MP3/Slightly-Distored_Wheatley_A-very-minor-case-of-serious-brain-damage.mp3</location>
+			<title>Slightly-Distored_Wheatley_A-very-minor-case-of-serious-brain-damage.mp3</title>
+			<creator>Stephen Merchant @ Valve Corporation</creator>
+			<album>Wheatley voicelines from Portal 2</album>
+			<trackNum>1</trackNum>
+			<annotation>There are so many notable lines from Portal 2, for instance this line that happens within the first 5 minutes of the game. I don&#39;t see why people want to focus solely on &quot;the cake is a lie&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Stephen%20Merchant%20%40%20Valve%20Corporation/Wheatley%20voicelines%20from%20Portal%202/art.jpg</image>
+			<duration>6225</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Portal%202/Wheatley/AudioOnly/MP3/All-Wheatley-voice-lines.mp3</location>
+			<title>All-Wheatley-voice-lines.mp3</title>
+			<creator>Stephen Merchant @ Valve Corporation</creator>
+			<album>Wheatley voicelines (Portal 2)</album>
+			<trackNum>1</trackNum>
+			<annotation>All the voicelines from Wheatley in the hit game Portal 2. 1 hour and 2 minutes of Wheatley being Wheatley.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Stephen%20Merchant%20%40%20Valve%20Corporation/Wheatley%20voicelines%20%28Portal%202%29/art.jpg</image>
+			<duration>3720970</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
