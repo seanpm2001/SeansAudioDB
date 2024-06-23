@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Lady-Antebellum/2008-2021/MP3/(005)%20I%20Run%20To%20You.mp3</location>
+			<title>I Run To You</title>
+			<creator>Lady A</creator>
+			<album>Lady Antebellum</album>
+			<trackNum>5</trackNum>
+			<annotation>https://archive.org/details/lady-antebellum-discography-2008-2021</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lady%20A/Lady%20Antebellum/art.jpg</image>
+			<duration>256058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Lady-Antebellum/2008-2021/MP3/(028)%20Need%20You%20Now.mp3</location>
+			<title>Need You Now</title>
+			<creator>Lady A</creator>
+			<album>Session</album>
+			<trackNum>2</trackNum>
+			<annotation>https://archive.org/details/lady-antebellum-discography-2008-2021</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lady%20A/Session/art.jpg</image>
+			<duration>244669</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Lady-Antebellum/2008-2021/MP3/(014)%20Need%20You%20Now.mp3</location>
+			<title>Need You Now</title>
+			<creator>Lady A</creator>
+			<album>Need You Now</album>
+			<trackNum>1</trackNum>
+			<annotation>https://archive.org/details/lady-antebellum-discography-2008-2021</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lady%20A/Need%20You%20Now/art.jpg</image>
+			<duration>277609</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
