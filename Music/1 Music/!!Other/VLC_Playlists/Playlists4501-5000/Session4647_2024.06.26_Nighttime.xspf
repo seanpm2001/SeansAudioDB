@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/Radio_Stations/Head_Radio/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Head%20Radio%20-%20(Old%20Upload)%20[CAM-ayM2A9Y].m4a</location>
+			<duration>1440241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/Radio_Stations/Rockstar_Radio/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Rockstar%20Radio%20-%20(Old%20Upload)%20[pmGzQGiRuGM].m4a</location>
+			<duration>720283</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/Radio_Stations/Osmosis_Radio/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Osmosis%20Radio%20-%20(Old%20Upload)%20[hr3dVy92BBc].m4a</location>
+			<duration>720771</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/Radio_Stations/Futuro_FM/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Futuro%20FM%20-%20(Old%20Upload)%20[9L19Akxf1eI].m4a</location>
+			<duration>720469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Dark%20Continent/Kevin%20MacLeod%20-%2002%20-%20AngloZulu.mp3</location>
+			<title>AngloZulu</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Dark Continent</album>
+			<trackNum>2</trackNum>
+			<annotation> 000001EE 000001D4 00001400 00001203 00008FC6 00008FC6 0000758C 00006BB1 0000703E 00007C97</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Dark%20Continent/art.jpg</image>
+			<duration>64786</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Dark%20Continent/Kevin%20MacLeod%20-%2017%20-%20Savannah%20(Sketch).mp3</location>
+			<title>Savannah (Sketch)</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Dark Continent</album>
+			<trackNum>17</trackNum>
+			<annotation> 00000268 0000022A 00001D32 00001B9A 0002E5BC 00025C7D 000082E5 00007943 00002F3E 0001F587</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Dark%20Continent/art.jpg</image>
+			<duration>204202</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Dark%20Continent/Kevin%20MacLeod%20-%2016%20-%20Tafi%20Maradi.mp3</location>
+			<title>Tafi Maradi</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Dark Continent</album>
+			<trackNum>16</trackNum>
+			<annotation> 00000394 000003E0 000025BE 000028A1 000096B6 0001CFFA 0000805E 000081BF 0001C782 0000746D</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Dark%20Continent/art.jpg</image>
+			<duration>158853</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

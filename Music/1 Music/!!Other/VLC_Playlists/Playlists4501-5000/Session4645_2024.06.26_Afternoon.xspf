@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Eminem/Remixes/Rap-God/AI-Covers/TF2/Scout/AudioOnly/M4A/[TF2]%20Scout%20-%20Rap%20God%20(FULL%20AI%20COVER)%20[8J-tAuzrzeE].m4a</location>
+			<duration>367131</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Eminem/Remixes/Rap-God/AI-Covers/Mr.Krabs/AudioOnly/M4A/Mr%20Krabs%20-%20Rap%20God%20(Ai%20Cover)%20[ACR8PowQ3yo].m4a</location>
+			<duration>365668</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Eminem/Remixes/Without-me/AI-Covers/TF2/Scout/AudioOnly/M4A/scout%20sings%20without%20me%20(AI%20Cover)%20[_B9-lDVJimk].m4a</location>
+			<duration>291341</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Eminem/Remixes/Without-me/AI-Covers/Mr.Krabs/AudioOnly/M4A/Mr.Krabs%20without%20me%20(ai%20cover)%20[oopi9w_pn6Q].m4a</location>
+			<duration>291156</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Dark%20Continent/Kevin%20MacLeod%20-%2001%20-%20Accralate.mp3</location>
+			<title>Accralate</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Dark Continent</album>
+			<trackNum>1</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Dark%20Continent/art.jpg</image>
+			<duration>305375</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Dark%20Continent/Kevin%20MacLeod%20-%2003%20-%20Arid%20Foothills.mp3</location>
+			<title>Arid Foothills</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Dark Continent</album>
+			<trackNum>3</trackNum>
+			<annotation> 000000C8 0000007F 00000C7E 00000D24 000200F5 00020024 000082FE 000074B1 0002143E 0002039C</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Dark%20Continent/art.jpg</image>
+			<duration>197724</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Dark%20Continent/Kevin%20MacLeod%20-%2005%20-%20At%20The%20Shore.mp3</location>
+			<title>At The Shore</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Dark Continent</album>
+			<trackNum>5</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Dark%20Continent/art.jpg</image>
+			<duration>37875</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Dark%20Continent/Kevin%20MacLeod%20-%2006%20-%20Confused%20State.mp3</location>
+			<title>Confused State</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Dark Continent</album>
+			<trackNum>6</trackNum>
+			<annotation> 000000D4 00000088 00001593 0000073E 00002797 0000A6A1 000081C7 00004115 00002797 0000A687</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Dark%20Continent/art.jpg</image>
+			<duration>174396</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
