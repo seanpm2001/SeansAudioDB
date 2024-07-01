@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_Simpsons/Homer-Simpson/Moana/You&#39;re-Welcome/AudioOnly/M4A/You&#39;re%20Welcome%20(Homer%20Simpson%20AI%20Cover)%20[6ibAmtgqKXQ].m4a</location>
+			<duration>164096</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SouthPark/South-Park-Elementary/Bohemian-Rhapsody/AudioOnly/M4A/South%20Park%20Elementary%20-%20Bohemian%20Rhapsody%20(AI%20Cover)%20[DDRAhQ98nS4].m4a</location>
+			<duration>350297</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SouthPark/Eric-Cartman/Nirvana_Smells-like-teen-spirit/AudioOnly/M4A/Eric%20Cartman%20-%20Smells%20Like%20Teen%20Spirit%20(AI%20Cover)%20[p0tlYGFpvSM].m4a</location>
+			<duration>304623</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SouthPark/Eric-Cartman/Let-it-go/AudioOnly/M4A/Butters%20Stotch%20-%20Let%20it%20Go%20(AI%20Cover)%20[zeFDwJLAUro].m4a</location>
+			<duration>227486</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SouthPark/Eric-Cartman/Take-on-me/AudioOnly/M4A/Eric%20Cartman%20-%20Take%20On%20Me%20(Ai%20Cover)%20[eavfrUETKrk].m4a</location>
+			<duration>252285</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SouthPark/Eric-Cartman/Cascada/Everytime-we-touch/AudioOnly/M4A/Cascada%20-%20Everytime%20We%20Touch%20(Eric%20Cartman%20Cover)%20[IwcMvLyjcts].m4a</location>
+			<duration>198183</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AI_Covers/AI_SouthPark/Eric-Cartman/Eminem/The-Real-Slim-Shady/AudioOnly/M4A/The%20Real%20Slim%20Shady%20%20%20Eminem%20%20(%20Eric%20Cartman%20AI%20)%20[wmepq97Ghx8].m4a</location>
+			<duration>285351</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
