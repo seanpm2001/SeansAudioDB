@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Maggie-Rogers_That&#39;s-where-I-am/AudioOnly/M4A/Maggie%20Rogers%20-%20That&#39;s%20Where%20I%20Am%20[WdrNXRdkuG4].m4a</location>
+			<duration>252843</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ylvis%20-%20What%20does%20the%20fox%20say/MP3/Ylvis-The-fox-(What-does-the-fox-say).mp3</location>
+			<title>Ylvis-The-fox-(What-does-the-fox-say).mp3</title>
+			<creator>Ylvis</creator>
+			<album>The fox (What does the fox say)</album>
+			<trackNum>1</trackNum>
+			<annotation>The popular song &quot;the fox&quot; by Ylvis. What does the fox say?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ylvis/The%20fox%20%28What%20does%20the%20fox%20say%29/art.jpg</image>
+			<duration>224819</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Friends%20(show)%20OST/(No%20video)%20Friends%20theme%20song.webm</location>
+			<duration>192040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Wings%20to%20fly/Evangelion/MP3/Evangelion_Tsubasa-wo-Kudasai.mp3</location>
+			<title>Evangelion_Tsubasa-wo-Kudasai.mp3</title>
+			<creator>Evangelion</creator>
+			<album>Wings to fly / Tsubasa wo Kudasai</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Tsubasa wo Kudasai&quot; (Wings to fly) performed in the 2009 Anime Ova/Movie: Evangelion 2.0 (you can (not) advance) from 2009.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Evangelion/Wings%20to%20fly%20_%20Tsubasa%20wo%20Kudasai/art.png</image>
+			<duration>299634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/You-raise-me-up-(japanese-version)/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20%20You%20raise%20me%20up%20(japanese%20version)%20[8ZpZGpLt184].m4a</location>
+			<duration>227254</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Aishiteru-Banzai/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Aishiteru%20Banzai%20[zEm_oIcrAjw].m4a</location>
+			<duration>261457</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/BiSH/MP3/BiSH-My-landscape.mp3</location>
+			<title>BiSH-My-landscape.mp3</title>
+			<creator>BiSH (Brand new Idol SHit)</creator>
+			<album>THE GUERRiLLA BiSH</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/BiSH%20%28Brand%20new%20Idol%20SHit%29/THE%20GUERRiLLA%20BiSH/art.jpg</image>
+			<duration>339445</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Ichiban-no-Takaramono/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Ichiban%20no%20Takaramono%20[Cio2G7T9jGg].m4a</location>
+			<duration>308733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Cowboy%20bebop%20-%20cats%20on%20mars/MP3/Cowboy-Bebop-Cats-on-Mars.mp3</location>
+			<title>Cowboy-Bebop-Cats-on-Mars.mp3</title>
+			<creator>Cowboy Bebop</creator>
+			<album>Cowboy Bebop - Cats on Mars</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Cowboy%20Bebop/Cowboy%20Bebop%20-%20Cats%20on%20Mars/art.jpg</image>
+			<duration>181168</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
