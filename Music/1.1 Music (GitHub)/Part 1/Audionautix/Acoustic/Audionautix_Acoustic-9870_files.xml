@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Audionautix_Acoustic-9870.jpg" source="original">
+    <format>JPEG</format>
+    <mtime>1329443563</mtime>
+    <size>62376</size>
+    <md5>c69638c3c3d347b8f2a9a8c1c04bbc9e</md5>
+    <crc32>fcf742d8</crc32>
+    <sha1>a32e44e7898a3f85bf0e524b292a296d41fae203</sha1>
+    <rotation>0</rotation>
+  </file>
+  <file name="Audionautix_Acoustic-9870.jpg_meta.txt" source="original">
+    <format>Metadata</format>
+    <mtime>1329443563</mtime>
+    <size>341</size>
+    <md5>aaf70be0ccffedee938a61487ec39daa</md5>
+    <crc32>90d06031</crc32>
+    <sha1>491feea4815d77b57fff957b777835a98bacf6b3</sha1>
+  </file>
+  <file name="Audionautix_Acoustic-9870_archive.torrent" source="metadata">
+    <btih>20ba325076c92195886386008855f7c0db36c0b6</btih>
+    <mtime>1553712485</mtime>
+    <size>16857</size>
+    <md5>732301ac20d869fdb74188619f6a4eca</md5>
+    <crc32>b848e4da</crc32>
+    <sha1>dad84cb2f5f85fe2a68537be2f7a83f0327151c9</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Audionautix_Acoustic-9870_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b5b36878e7667fbc941b3440b7e44fdd</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Audionautix_Acoustic-9870_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1553712480</mtime>
+    <size>1240</size>
+    <md5>238def8f0aa1706401f170c207b197ce</md5>
+    <crc32>1eac7d4a</crc32>
+    <sha1>35f526ca74b6b66be1d6bddaabc98ceabe515a2c</sha1>
+  </file>
+  <file name="Audionautix_Acoustic-9870_reviews.xml" source="original">
+    <mtime>1549487307</mtime>
+    <size>1715</size>
+    <format>Metadata</format>
+    <md5>e12dac7e5d491b377a27aac4c2586d8c</md5>
+    <crc32>409ec4ca</crc32>
+    <sha1>df675cab61598fb9f43c34f50f7368ce53f5036a</sha1>
+  </file>
+  <file name="Audionautix_Acoustic-9870_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Audionautix_Acoustic-9870.jpg</original>
+    <mtime>1415616658</mtime>
+    <size>10132</size>
+    <md5>dba2d41a91bca1d54280875a02c472bb</md5>
+    <crc32>6a17725f</crc32>
+    <sha1>ed0fb523c72feea8dcb69522d5a22894e7b2dab5</sha1>
+  </file>
+  <file name="Jason_Shaw_-_12_MORNINGS.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>153.65</length>
+    <mtime>1317155524</mtime>
+    <size>2458480</size>
+    <md5>8682bf9b9fda128174a498c67503e114</md5>
+    <crc32>2e2ba100</crc32>
+    <sha1>df552e929a6954397c4bc442ac19e54dba61fe0d</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>12 MORNINGS</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:e15ca27f-9fa4-4d40-a11b-e05981d8b0e2</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_12_MORNINGS.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_12_MORNINGS.mp3</original>
+    <mtime>1317160150</mtime>
+    <size>1811424</size>
+    <md5>1b808ad66425eabe94563151be38e96c</md5>
+    <crc32>39cd7f81</crc32>
+    <sha1>9e16b96db7a9c0c37f9be28ee416115cd75f0741</sha1>
+    <length>150.25</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_12_MORNINGS.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_12_MORNINGS.mp3</original>
+    <mtime>1415616681</mtime>
+    <size>12333</size>
+    <md5>79dc6abcca0d2b7caed5b58e660b79a3</md5>
+    <crc32>f95bd668</crc32>
+    <sha1>2164d3bf365b21df1fe74fa2cfcfe9a669345d64</sha1>
+  </file>
+  <file name="Jason_Shaw_-_ACOUSTIC_BLUES.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>152.66</length>
+    <mtime>1317155521</mtime>
+    <size>2442697</size>
+    <md5>9df9fd71a5a837c094c1c65e834db46f</md5>
+    <crc32>b7d796f7</crc32>
+    <sha1>3e2817ccd6c689ad36ca852b47d668b9908b748c</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>ACOUSTIC BLUES</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:e660c5d1-a4c0-46fb-935f-d3948a79c9f2</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_ACOUSTIC_BLUES.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_ACOUSTIC_BLUES.mp3</original>
+    <mtime>1317160113</mtime>
+    <size>1786934</size>
+    <md5>9adab2bbd2cf1f99c9e970c543f438ab</md5>
+    <crc32>d73160</crc32>
+    <sha1>902582d22000a83907af076cb375a6628222155b</sha1>
+    <length>150.04</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_ACOUSTIC_BLUES.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_ACOUSTIC_BLUES.mp3</original>
+    <mtime>1415616702</mtime>
+    <size>12963</size>
+    <md5>d64f7792a2661dc1869ca336de3a4ed9</md5>
+    <crc32>fd350fa7</crc32>
+    <sha1>b6420e544d96bb18bbf0301e7cfd0dd0f15a0281</sha1>
+  </file>
+  <file name="Jason_Shaw_-_FUNKY_JUNKY.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>138.55</length>
+    <mtime>1317155646</mtime>
+    <size>5542183</size>
+    <md5>29b8099573e5a63df8adbb4d01341e7c</md5>
+    <crc32>20d8b8c8</crc32>
+    <sha1>ea179ce540dbd9b8554c4800da6295cb9cbe0459</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>FUNKY JUNKY</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:345ccfb7-00e4-497b-9f53-eca56ac5fe4e</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_FUNKY_JUNKY.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_FUNKY_JUNKY.mp3</original>
+    <mtime>1317160106</mtime>
+    <size>1728781</size>
+    <md5>eeab57b187cca04b5d9c650057ea66d3</md5>
+    <crc32>caf0befc</crc32>
+    <sha1>a039130effe3baea4be412e1406da43a5ceed83d</sha1>
+    <length>135.78</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_FUNKY_JUNKY.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_FUNKY_JUNKY.mp3</original>
+    <mtime>1415616691</mtime>
+    <size>9432</size>
+    <md5>96afca1ad799b9c5fe29a0b659fba5a7</md5>
+    <crc32>feb7e6f8</crc32>
+    <sha1>fdbe0062d1ea57436b1531aa16644178cbe06b9a</sha1>
+  </file>
+  <file name="Jason_Shaw_-_JENNYS_THEME.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>45.78</length>
+    <mtime>1317155513</mtime>
+    <size>915636</size>
+    <md5>f2578b60878f6dd29120b07cb023f4ad</md5>
+    <crc32>8ea2f312</crc32>
+    <sha1>5f6b06afa9434aab169dab82614424d36ce845fc</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>JENNY'S THEME</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:6273c251-e850-4042-b7c4-c247c5ac643c</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_JENNYS_THEME.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_JENNYS_THEME.mp3</original>
+    <mtime>1317160099</mtime>
+    <size>562997</size>
+    <md5>39dea678be4133fc045d19949e8afe06</md5>
+    <crc32>ea907f73</crc32>
+    <sha1>7c2f16a090220095e618964aa0b95c660e5efe5f</sha1>
+    <length>42.96</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_JENNYS_THEME.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_JENNYS_THEME.mp3</original>
+    <mtime>1415616662</mtime>
+    <size>12815</size>
+    <md5>89ed42a03ea888b3b5b346aa4ce72be8</md5>
+    <crc32>863ec055</crc32>
+    <sha1>da9dec0e74b57d73a52dd36fb815278ec001b197</sha1>
+  </file>
+  <file name="Jason_Shaw_-_LAZY_DAY.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>134.08</length>
+    <mtime>1317155597</mtime>
+    <size>2681775</size>
+    <md5>15f1bdadab72559bb2ce1d0f10b27f1c</md5>
+    <crc32>54ce39c2</crc32>
+    <sha1>c00268737c8f0418c88154e0da81b97c2399aebc</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>LAZY DAY</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:c462ab43-e78b-4659-9e3a-8622e625d3f7</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_LAZY_DAY.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_LAZY_DAY.mp3</original>
+    <mtime>1317160119</mtime>
+    <size>1557161</size>
+    <md5>00a809998224a6b869f48459f4b24cd0</md5>
+    <crc32>ee1e790b</crc32>
+    <sha1>e27f2e81889ff4bf44a276b7d40932f5e61966a5</sha1>
+    <length>130.32</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_LAZY_DAY.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_LAZY_DAY.mp3</original>
+    <mtime>1415616676</mtime>
+    <size>11797</size>
+    <md5>d3a3fcc92c2d12d07fed5c7cc764b63d</md5>
+    <crc32>164848f1</crc32>
+    <sha1>109b5636b6ef3307fbde6d98511cfe0b1d01f58e</sha1>
+  </file>
+  <file name="Jason_Shaw_-_MOUNTAIN_SUN.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>153.36</length>
+    <mtime>1317155635</mtime>
+    <size>3067342</size>
+    <md5>50f726876576e36a0ea2632953847cd5</md5>
+    <crc32>59a83c49</crc32>
+    <sha1>00a1e15b0f4479b3be257c07696636f319204d4d</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>MOUNTAIN SUN</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:9c22442b-750e-4bb0-b210-261ccc568b3b</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_MOUNTAIN_SUN.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_MOUNTAIN_SUN.mp3</original>
+    <mtime>1317160125</mtime>
+    <size>1709908</size>
+    <md5>977222c9bf5b20e8f7046a1dc961e6aa</md5>
+    <crc32>509fdd99</crc32>
+    <sha1>c40d2ed621f5553eacb6f2765179792cf3689c68</sha1>
+    <length>149.45</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_MOUNTAIN_SUN.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_MOUNTAIN_SUN.mp3</original>
+    <mtime>1415616686</mtime>
+    <size>12339</size>
+    <md5>1a84dadfaf95e10deeb23b6d136e45d6</md5>
+    <crc32>b1afed7e</crc32>
+    <sha1>190342dde8159e944953dcdc5ac01f7d3deb2ebe</sha1>
+  </file>
+  <file name="Jason_Shaw_-_ONE_FINE_DAY.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>103.52</length>
+    <mtime>1317155650</mtime>
+    <size>2070510</size>
+    <md5>a472b4798df8470f394e6129306011aa</md5>
+    <crc32>1ca5a150</crc32>
+    <sha1>f81848f5395a80ec3a22c9678087ad158ccc148f</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>ONE FINE DAY</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:8fa95aa4-fa70-4b77-9de9-fcb62b95a176</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_ONE_FINE_DAY.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_ONE_FINE_DAY.mp3</original>
+    <mtime>1317160143</mtime>
+    <size>1202308</size>
+    <md5>c98b8cd4bb1ae3625310358ca86a9283</md5>
+    <crc32>c270acd0</crc32>
+    <sha1>2e699b7ec0c4a6347b2f8292dcfbd4d367ce22df</sha1>
+    <length>99.83</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_ONE_FINE_DAY.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_ONE_FINE_DAY.mp3</original>
+    <mtime>1415616672</mtime>
+    <size>12365</size>
+    <md5>15ac30f51418d623cb8125769801e425</md5>
+    <crc32>ff663e08</crc32>
+    <sha1>38a3d8ce9d1d81fc50422288e19334f6a0d50fe3</sha1>
+  </file>
+  <file name="Jason_Shaw_-_RIVER_MEDITATION.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>178.26</length>
+    <mtime>1317155628</mtime>
+    <size>3565236</size>
+    <md5>a6c5166c217d095e815059374e469d9c</md5>
+    <crc32>ca6067d1</crc32>
+    <sha1>32eeed8edd7b0c63b55ebe4f6567389d92b0575e</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>RIVER MEDITATION</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:cf3d0461-c6ac-43de-b8e6-7876971b7628</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_RIVER_MEDITATION.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_RIVER_MEDITATION.mp3</original>
+    <mtime>1317160138</mtime>
+    <size>1984887</size>
+    <md5>32f5f6c3a3b8bb2ed49bf30c3c624e38</md5>
+    <crc32>64f6af37</crc32>
+    <sha1>391a0041e457f53cff02ccd15984ede0660e4944</sha1>
+    <length>173.61</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_RIVER_MEDITATION.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_RIVER_MEDITATION.mp3</original>
+    <mtime>1415616715</mtime>
+    <size>11425</size>
+    <md5>416331964cb7b6fba5ece51cafa2f86f</md5>
+    <crc32>b52e7287</crc32>
+    <sha1>3feb7570575144c95815ae44bfc66c9a99ee1d3f</sha1>
+  </file>
+  <file name="Jason_Shaw_-_ROCKY_TOP.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>104.38</length>
+    <mtime>1317155589</mtime>
+    <size>3340374</size>
+    <md5>365c1e7f419011ad05361d3a6ffa7655</md5>
+    <crc32>dffa5f24</crc32>
+    <sha1>20020ac6f794daf59fa3cf6992a11bc4aff10f63</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>ROCKY TOP</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:3b202477-4f65-4e3f-850a-573347da5475</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_ROCKY_TOP.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_ROCKY_TOP.mp3</original>
+    <mtime>1317160130</mtime>
+    <size>1449196</size>
+    <md5>10429c109b83b1cfe93a0f3f78e240f3</md5>
+    <crc32>7fb068a</crc32>
+    <sha1>2f5e597b5edd5f0c07186b530096d9f05383a8c9</sha1>
+    <length>101.72</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_ROCKY_TOP.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_ROCKY_TOP.mp3</original>
+    <mtime>1415616719</mtime>
+    <size>8852</size>
+    <md5>edd6138b6b146935b334c856415e0cc6</md5>
+    <crc32>5352bbd7</crc32>
+    <sha1>fda7b86163700ca1d2548fe1f3b00125bab9cfee</sha1>
+  </file>
+  <file name="Jason_Shaw_-_RUNNING_WATERS.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>166.66</length>
+    <mtime>1317155576</mtime>
+    <size>6666493</size>
+    <md5>bc17eabbe2ebadaec6c6543880bb1f95</md5>
+    <crc32>c120d92e</crc32>
+    <sha1>9a0055b4a3a339d14087b2c1dc407d958e411737</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>RUNNING WATERS</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:e26da09f-584e-49f5-b77f-954a52e7cf42</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_RUNNING_WATERS.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_RUNNING_WATERS.mp3</original>
+    <mtime>1317160097</mtime>
+    <size>1775870</size>
+    <md5>7651565b39efa2b321c583ee40e5fa4f</md5>
+    <crc32>27ae5179</crc32>
+    <sha1>444b98a5a7f2025a50eecea03550a29be395bea7</sha1>
+    <length>162.16</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_RUNNING_WATERS.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_RUNNING_WATERS.mp3</original>
+    <mtime>1415616667</mtime>
+    <size>11804</size>
+    <md5>adb293ca8ffa0891218919a1930c11fd</md5>
+    <crc32>74da6376</crc32>
+    <sha1>8b7fd80438ca6e37b977814d4f6401eb3c287835</sha1>
+  </file>
+  <file name="Jason_Shaw_-_SERENITY.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>110.42</length>
+    <mtime>1317155572</mtime>
+    <size>2208436</size>
+    <md5>390b243795f06ba1b651e3c923a710ba</md5>
+    <crc32>c9296beb</crc32>
+    <sha1>cf318a40dfbfbdc3f37388489870eaf802671a1b</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>SERENITY</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:9b7e65f0-9b73-4f48-90c3-a6c7f57c766e</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_SERENITY.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_SERENITY.mp3</original>
+    <mtime>1317160090</mtime>
+    <size>1256715</size>
+    <md5>9d2d1a9c6018c130889b1a21d50ec41b</md5>
+    <crc32>a64a8a8d</crc32>
+    <sha1>b5270324a68a92871c7345522906dc9dd46c6aab</sha1>
+    <length>106.31</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_SERENITY.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_SERENITY.mp3</original>
+    <mtime>1415616723</mtime>
+    <size>12935</size>
+    <md5>06dd933aff04fb7dcb3fb992d004a2cc</md5>
+    <crc32>9e856498</crc32>
+    <sha1>74065574e0cabb26c93487bd198d472c3af33bb2</sha1>
+  </file>
+  <file name="Jason_Shaw_-_SIDEWALK.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>146.7</length>
+    <mtime>1317155642</mtime>
+    <size>5868191</size>
+    <md5>13766417a5ae6a36c05bdcf4d801ae58</md5>
+    <crc32>16fc67ec</crc32>
+    <sha1>2cddd46b02b843439758dbf83198462424685c42</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>SIDEWALK</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:dc733991-ad05-4f7f-b8e6-e2069b37c270</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_SIDEWALK.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_SIDEWALK.mp3</original>
+    <mtime>1317160043</mtime>
+    <size>1775349</size>
+    <md5>3ea46b6d57ccf1ff7c1dee95f4061fea</md5>
+    <crc32>7c1ad276</crc32>
+    <sha1>3b345d368e9d00cae0a97b179dd9a219624022bf</sha1>
+    <length>142.94</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_SIDEWALK.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_SIDEWALK.mp3</original>
+    <mtime>1415616757</mtime>
+    <size>12220</size>
+    <md5>cb924a43ff448040acb6d402ca3b1087</md5>
+    <crc32>bfdbe934</crc32>
+    <sha1>e8f8b40943c7a1a1c005bc80d66d95cd023c894f</sha1>
+  </file>
+  <file name="Jason_Shaw_-_SNAPPY.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>50.78</length>
+    <mtime>1317155613</mtime>
+    <size>1015685</size>
+    <md5>263c6e816d0c1326c655aa14ccc09541</md5>
+    <crc32>2d6d07da</crc32>
+    <sha1>4d266d44944eab696f0d04ddcc23d5a5122aca52</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>SNAPPY</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:0b695c13-8173-4e9c-af4b-10fcf8c174aa</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_SNAPPY.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_SNAPPY.mp3</original>
+    <mtime>1317160037</mtime>
+    <size>632406</size>
+    <md5>2bbf8c83e7eb8dfe012b9bb3379084ac</md5>
+    <crc32>529ad676</crc32>
+    <sha1>d69b3a1fc21ee5de40f607e24bbe9aaf5ce6a01d</sha1>
+    <length>47.89</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_SNAPPY.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_SNAPPY.mp3</original>
+    <mtime>1415616726</mtime>
+    <size>11369</size>
+    <md5>14bf827e919ddba5e9553b8e09d5984c</md5>
+    <crc32>f994f4bc</crc32>
+    <sha1>46d83f6172fdc95a4ac15d50c4340949e22e48a9</sha1>
+  </file>
+  <file name="Jason_Shaw_-_SOLO_ACOUSTIC_GUITAR.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>191.58</length>
+    <mtime>1317155528</mtime>
+    <size>7663326</size>
+    <md5>a0ac29bd5b82500f6d9c0a8c22dd5335</md5>
+    <crc32>d683af45</crc32>
+    <sha1>c127aba64ded2d53ba0cdd78fb2e8e08d4b27471</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>SOLO ACOUSTIC GUITAR</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:9c9f73cf-be90-4771-8fff-1751e14d1671</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_SOLO_ACOUSTIC_GUITAR.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_SOLO_ACOUSTIC_GUITAR.mp3</original>
+    <mtime>1317160034</mtime>
+    <size>2337854</size>
+    <md5>59eb0b8a0230533c974c25334fc1a213</md5>
+    <crc32>a71b91cb</crc32>
+    <sha1>3e645458347daab3cb48c96ca9964ad04de51329</sha1>
+    <length>188.97</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_SOLO_ACOUSTIC_GUITAR.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_SOLO_ACOUSTIC_GUITAR.mp3</original>
+    <mtime>1415616733</mtime>
+    <size>10888</size>
+    <md5>45b7c5dd6e05bdd3599790476e91a88c</md5>
+    <crc32>0457c17a</crc32>
+    <sha1>d93d17db16953724629d69767403796f8cf6a15c</sha1>
+  </file>
+  <file name="Jason_Shaw_-_SOUTH_OF_THE_BORDER.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>59.6</length>
+    <mtime>1317155569</mtime>
+    <size>953691</size>
+    <md5>ed7e79ef8e260bfd097c347fdd4fe767</md5>
+    <crc32>fb11911c</crc32>
+    <sha1>65cfa5a538d53fcc49a32ba97ec17aca1df03beb</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>SOUTH OF THE BORDER</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:416d1c13-ad0e-411c-bd77-fe59d8565e54</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_SOUTH_OF_THE_BORDER.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_SOUTH_OF_THE_BORDER.mp3</original>
+    <mtime>1317160026</mtime>
+    <size>702351</size>
+    <md5>aa1df49f9b7692b858e37feed61049d7</md5>
+    <crc32>5d1c88ff</crc32>
+    <sha1>3d1297082221abe653040b3f15fdac657e5d9126</sha1>
+    <length>56.57</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_SOUTH_OF_THE_BORDER.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_SOUTH_OF_THE_BORDER.mp3</original>
+    <mtime>1415616737</mtime>
+    <size>11624</size>
+    <md5>4ef7f2f26c7084b54b70feeafac955db</md5>
+    <crc32>ccd23452</crc32>
+    <sha1>6132f2d215df197c07f1bf52c15310b13f827132</sha1>
+  </file>
+  <file name="Jason_Shaw_-_TENNESEE_HAYRIDE.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>153.28</length>
+    <mtime>1317155566</mtime>
+    <size>6131506</size>
+    <md5>afa8d112e9b0123eca8c4706e54d1052</md5>
+    <crc32>eea51a40</crc32>
+    <sha1>290e363846584a521ffd94e5f2438b1b639d37ca</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>TENNESEE HAYRIDE</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:5c50843d-80c9-4ebb-be68-a0e48e5a6ac6</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_TENNESEE_HAYRIDE.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_TENNESEE_HAYRIDE.mp3</original>
+    <mtime>1317160050</mtime>
+    <size>2125970</size>
+    <md5>8b248adef3e8409c64602a1c18bea123</md5>
+    <crc32>6a53e890</crc32>
+    <sha1>eb4685d49c12e5c896bf8bbb19a99bae616731b5</sha1>
+    <length>150.52</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_TENNESEE_HAYRIDE.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_TENNESEE_HAYRIDE.mp3</original>
+    <mtime>1415616696</mtime>
+    <size>10465</size>
+    <md5>35cd7ddd6558a88ac3b557258b980553</md5>
+    <crc32>ef4e1d80</crc32>
+    <sha1>fe0cbbf7f48f79d314c6b92543b09ae2ce66a351</sha1>
+  </file>
+  <file name="Jason_Shaw_-_THINGAMAJIG.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>233.82</length>
+    <mtime>1317155560</mtime>
+    <size>4676485</size>
+    <md5>d8a97dc3eb0edb788bcaecbabf14ac1e</md5>
+    <crc32>831ad57c</crc32>
+    <sha1>f7a1e9e84a4ee4f37160647056101000bd1dc971</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>THINGAMAJIG</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:72e8d4b7-26d1-4179-931a-7df7f198dd9c</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_THINGAMAJIG.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_THINGAMAJIG.mp3</original>
+    <mtime>1317160060</mtime>
+    <size>2971320</size>
+    <md5>9b11ff7a57929d92b94d19dcf4115de9</md5>
+    <crc32>69977988</crc32>
+    <sha1>67622a31bf1ed1a9865c2d8d345ab68f9fee6908</sha1>
+    <length>231.48</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_THINGAMAJIG.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_THINGAMAJIG.mp3</original>
+    <mtime>1415616710</mtime>
+    <size>9558</size>
+    <md5>ab1d9d30226241a9f6bfe286bf5a34b7</md5>
+    <crc32>8b440b1e</crc32>
+    <sha1>90e31154ce7b538de5eb00817550bc4ac6d4bdb5</sha1>
+  </file>
+  <file name="Jason_Shaw_-_TRAVEL_LIGHT.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>113.29</length>
+    <mtime>1317155545</mtime>
+    <size>2265906</size>
+    <md5>990c16e4554fa6e49ade105d6bad6237</md5>
+    <crc32>45d1c205</crc32>
+    <sha1>b9a650ad48737566fa93370bdbc4278b522b45c5</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>TRAVEL LIGHT</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:c60c7ee5-f5a2-4004-8969-adbf3e2826e0</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_TRAVEL_LIGHT.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_TRAVEL_LIGHT.mp3</original>
+    <mtime>1317160084</mtime>
+    <size>1321038</size>
+    <md5>fe0a66742c9b5a4ee695d62a74c9b41d</md5>
+    <crc32>752d06c9</crc32>
+    <sha1>b3668bb2b5bbd8cd69bc5df58e3388f44354f159</sha1>
+    <length>109.97</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_TRAVEL_LIGHT.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_TRAVEL_LIGHT.mp3</original>
+    <mtime>1415616741</mtime>
+    <size>12233</size>
+    <md5>19d026df2a79de9cb91194d5fd43f581</md5>
+    <crc32>77b0ff2c</crc32>
+    <sha1>62ee9cf3982e6e26eca6f6ede0925567e15868d5</sha1>
+  </file>
+  <file name="Jason_Shaw_-_WHEELS.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>211.38</length>
+    <mtime>1317155557</mtime>
+    <size>3382170</size>
+    <md5>1993982581f0103602c03d53fb0c5aaf</md5>
+    <crc32>ca2b7888</crc32>
+    <sha1>32fa02c79bdc59533e4c2a35b168a8b609e34f63</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>WHEELS</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:1fac2fe9-a2a0-4b91-bb06-4c9045ca0cee</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_WHEELS.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_WHEELS.mp3</original>
+    <mtime>1317160078</mtime>
+    <size>2608066</size>
+    <md5>4dd14f320f41ee8da9bf9608dd7cec7d</md5>
+    <crc32>17cdfcfc</crc32>
+    <sha1>37665a0504fb07813344e89c91e016805e6aa872</sha1>
+    <length>207.16</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_WHEELS.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_WHEELS.mp3</original>
+    <mtime>1415616752</mtime>
+    <size>11831</size>
+    <md5>eb2c3f0fbff65b00698fb5773091fc79</md5>
+    <crc32>80a2ac7f</crc32>
+    <sha1>33c51c6c2bad4ef58e6aceea7c334b375fac2bbf</sha1>
+  </file>
+  <file name="Jason_Shaw_-_WORDS.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>155.82</length>
+    <mtime>1317155540</mtime>
+    <size>2493171</size>
+    <md5>6b77abe3410439a5a9227de0b590f1dc</md5>
+    <crc32>ea4f9f28</crc32>
+    <sha1>928095cd0772911e619c7881c208af62a1d08efd</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>WORDS</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Acoustic</album>
+    <genre>Country</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T18:47:03Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:40508321-be7c-40fa-a3bb-84d47b18adb6</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_WORDS.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_WORDS.mp3</original>
+    <mtime>1317160068</mtime>
+    <size>1729028</size>
+    <md5>ade38152c815a4863b1404e9d085f980</md5>
+    <crc32>b9b78f9f</crc32>
+    <sha1>6054b29ac8a9155b7a5c5e2d107079fcb37162df</sha1>
+    <length>151.65</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_WORDS.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_WORDS.mp3</original>
+    <mtime>1415616745</mtime>
+    <size>11825</size>
+    <md5>de8b3f0e97142ae5c76b2854b2ec16e3</md5>
+    <crc32>e7eb5663</crc32>
+    <sha1>39c63d732c51eeb628e5cf39b0fd534ed598f9a0</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1542339430</mtime>
+    <size>21000</size>
+    <md5>04a64d025c92be9f8aca55d644f408eb</md5>
+    <crc32>89f2fb21</crc32>
+    <sha1>31a0fd44a2a7a80649f6a89811d58626fedcdc27</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

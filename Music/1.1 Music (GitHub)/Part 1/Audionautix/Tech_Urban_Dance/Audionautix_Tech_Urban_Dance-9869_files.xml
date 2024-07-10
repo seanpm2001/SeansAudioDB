@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Audionautix_Tech_Urban_Dance-9869.jpg" source="original">
+    <format>JPEG</format>
+    <mtime>1329442919</mtime>
+    <size>47466</size>
+    <md5>9e946aab4359a5b90ec73f00b5f4fe82</md5>
+    <crc32>4d392c02</crc32>
+    <sha1>dd8b3caf1ae562c27c236fe49cc6f1e4a883c2f8</sha1>
+    <rotation>0</rotation>
+  </file>
+  <file name="Audionautix_Tech_Urban_Dance-9869.jpg_meta.txt" source="original">
+    <format>Metadata</format>
+    <mtime>1329442919</mtime>
+    <size>341</size>
+    <md5>1482a46cc29dec46a1915ba6225f77e5</md5>
+    <crc32>1a7f280</crc32>
+    <sha1>f08fa9620e2597de58ad48e0e6be31eab8964ab4</sha1>
+  </file>
+  <file name="Audionautix_Tech_Urban_Dance-9869_archive.torrent" source="metadata">
+    <btih>7ed0930f04b22323fb9065a973daa96e50559287</btih>
+    <mtime>1553683269</mtime>
+    <size>18814</size>
+    <md5>6d4162364d24dc72a587f252eaef0edf</md5>
+    <crc32>970b288c</crc32>
+    <sha1>f88e48e7b3abb9be9914c566c47588db6cf0c370</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Audionautix_Tech_Urban_Dance-9869_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e93d25e7d3ba81c53faeda66dd30d0ce</md5>
+  </file>
+  <file name="Audionautix_Tech_Urban_Dance-9869_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1553683266</mtime>
+    <size>1214</size>
+    <md5>161ccd793763e7aceb6ae365df1651bb</md5>
+    <crc32>b4abacee</crc32>
+    <sha1>7cebad940f757529a7805769ad898f765ff84ea4</sha1>
+  </file>
+  <file name="Audionautix_Tech_Urban_Dance-9869_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Audionautix_Tech_Urban_Dance-9869.jpg</original>
+    <mtime>1414662658</mtime>
+    <size>8297</size>
+    <md5>b36d962b43845edc70f3f8e21fac7aaf</md5>
+    <crc32>6bfd7647</crc32>
+    <sha1>7c2cddcc6c9b796480b7bc96f0066105a9aaff38</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Boom.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>121.42</length>
+    <mtime>1317156484</mtime>
+    <size>3885675</size>
+    <md5>33a44c24ab9c24e8d7556246a1607214</md5>
+    <crc32>abd4d4c7</crc32>
+    <sha1>fe8b4e5c0a6889043fe96f39c7da788eb0113a40</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Boom</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:48e0425a-99f2-47d1-ba65-d446fb1f182a</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Boom.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Boom.mp3</original>
+    <mtime>1317164571</mtime>
+    <size>1596782</size>
+    <md5>aec58207f1cdadd1af441446b29b87b1</md5>
+    <crc32>9e3624cd</crc32>
+    <sha1>c766d71311f68019103ccca227f15fa006f40c79</sha1>
+    <length>120.33</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Boom.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Boom.mp3</original>
+    <mtime>1414662691</mtime>
+    <size>12554</size>
+    <md5>ac17a3a933095d9c28027c6199331d00</md5>
+    <crc32>d367a06c</crc32>
+    <sha1>2fbd1cde6b61fc33a92f0d555c7c31e34c3fabb2</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Boots_Boots_Boots.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>118.46</length>
+    <mtime>1317156516</mtime>
+    <size>2369351</size>
+    <md5>6b7613803d35dc2fed6fabfc60b7b0e8</md5>
+    <crc32>57ea3bf</crc32>
+    <sha1>bc4e4b8a04efce2b03e6a5027721903d37a3ece7</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Boots Boots Boots</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:d51ea220-6b69-4a2a-bcd9-7ec318c941a3</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Boots_Boots_Boots.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Boots_Boots_Boots.mp3</original>
+    <mtime>1317164506</mtime>
+    <size>1547791</size>
+    <md5>64f0a3aa58410918b6b7bc38bb565296</md5>
+    <crc32>73283509</crc32>
+    <sha1>40b19bf3a9427806e9082dee67c419b5df7e2e79</sha1>
+    <length>114.73</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Boots_Boots_Boots.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Boots_Boots_Boots.mp3</original>
+    <mtime>1414662720</mtime>
+    <size>12376</size>
+    <md5>3ca97f6bd5306bf6e21e13362baa407b</md5>
+    <crc32>af3b993c</crc32>
+    <sha1>b1f3f5e83c6963f04cde3364fdeddbf91eac908b</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Cycles.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>218.72</length>
+    <mtime>1317156489</mtime>
+    <size>8748975</size>
+    <md5>bea5d25618360dffdda9361f10bf6a22</md5>
+    <crc32>dbf4d865</crc32>
+    <sha1>24d31feda88ee7f4b33ebe02c80bc4e126040b70</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Cycles</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:a4dd7e47-7e44-41e4-8440-0a84b81ea4a5</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Cycles.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Cycles.mp3</original>
+    <mtime>1317164501</mtime>
+    <size>2388627</size>
+    <md5>0ebaf1c8c626e36bfb08db1915a06037</md5>
+    <crc32>230bbb93</crc32>
+    <sha1>2182b16eac33345210274aedde8827a79d139ca6</sha1>
+    <length>214.65</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Cycles.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Cycles.mp3</original>
+    <mtime>1414662706</mtime>
+    <size>4311</size>
+    <md5>b0221e7be9341e8b8f61b4a3b2ab5f21</md5>
+    <crc32>26b6224f</crc32>
+    <sha1>6e4b4df7441f6346be27d06452a946fb94be5e15</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Ecstasy_X.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>139.1</length>
+    <mtime>1317156469</mtime>
+    <size>2782085</size>
+    <md5>f5bb4651ab5c9f7be56ffb939c4a8059</md5>
+    <crc32>4a95fbe9</crc32>
+    <sha1>e43c0f8b98845c154fa94c51305e0a4df55899d9</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Ecstasy X</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:e6be6bb8-2e0b-4b0a-a863-00bf89b55aa3</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Ecstasy_X.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Ecstasy_X.mp3</original>
+    <mtime>1317164489</mtime>
+    <size>1757456</size>
+    <md5>0918fe5cbd589135655440fd8885e899</md5>
+    <crc32>888262a3</crc32>
+    <sha1>bfb62041eefbae00ee6c0a8bbfc64a8f39f1431a</sha1>
+    <length>136.41</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Ecstasy_X.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Ecstasy_X.mp3</original>
+    <mtime>1414662664</mtime>
+    <size>9184</size>
+    <md5>4a395a1f2775b088a0ebe835d1fffc78</md5>
+    <crc32>0ebf326e</crc32>
+    <sha1>3f414e426a57a8ba145967047f8554b4d367e84b</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Feels_Good_2_B.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>171.23</length>
+    <mtime>1317156511</mtime>
+    <size>2739767</size>
+    <md5>cb7b56deb57c14c794ac3d27a38b36f6</md5>
+    <crc32>544f0ef7</crc32>
+    <sha1>665b7e2d9f6160840b243d5dc4ce814c6ca3d78a</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Feels Good 2 B</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:c620836e-bd3f-486f-b315-077a4d8adbce</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Feels_Good_2_B.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Feels_Good_2_B.mp3</original>
+    <mtime>1317164513</mtime>
+    <size>1956746</size>
+    <md5>4583945058c06c5390ad1f08223f0497</md5>
+    <crc32>a209955f</crc32>
+    <sha1>0225bf3fd848f70dc57f7a952f2a9b26708ada56</sha1>
+    <length>167.3</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Feels_Good_2_B.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Feels_Good_2_B.mp3</original>
+    <mtime>1414662685</mtime>
+    <size>7856</size>
+    <md5>1c7cd73ad6521578f080be5baf35ab4f</md5>
+    <crc32>396db9d7</crc32>
+    <sha1>133f4538395bf83a45ae2968ba7a809df211e85b</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Forever_Believe.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>162.56</length>
+    <mtime>1317156508</mtime>
+    <size>3251244</size>
+    <md5>5c9c69256d5e8fb01ce9e3be06074b05</md5>
+    <crc32>ca832ce6</crc32>
+    <sha1>fd1a982d75eb270d7a0f1f7bcbd812ec38f1f693</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Forever Believe</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:df668c84-70e9-4f54-b728-26a216451786</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Forever_Believe.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Forever_Believe.mp3</original>
+    <mtime>1317164528</mtime>
+    <size>1991692</size>
+    <md5>ed4e9b2622b854ab8120c1993a64190a</md5>
+    <crc32>ac00f566</crc32>
+    <sha1>5b0a813c7ffd6e78a5a7d5744e79c495125533fa</sha1>
+    <length>158.81</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Forever_Believe.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Forever_Believe.mp3</original>
+    <mtime>1414662697</mtime>
+    <size>13216</size>
+    <md5>e53fed74b3138e7b418f205656bdc5fe</md5>
+    <crc32>541ee768</crc32>
+    <sha1>a3c08d61f5f800a11c71cae7d79981473741f45f</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Get_A_Move_On.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>155.82</length>
+    <mtime>1317156466</mtime>
+    <size>6232861</size>
+    <md5>4e0aac07bec9b170c4aa47e02c966426</md5>
+    <crc32>11186376</crc32>
+    <sha1>f85361da96b5408d668192ae414a587190af7fbe</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Get A Move On</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:e7a361f4-1403-45cd-9702-332d89d1e95e</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Get_A_Move_On.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Get_A_Move_On.mp3</original>
+    <mtime>1317164557</mtime>
+    <size>1805722</size>
+    <md5>7dc84758e1cfc8776e0fcca866ef4c6b</md5>
+    <crc32>601f02ed</crc32>
+    <sha1>3992f76c2f6d9c7c7918c7974dc88ddeeed16b68</sha1>
+    <length>152.01</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Get_A_Move_On.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Get_A_Move_On.mp3</original>
+    <mtime>1414662678</mtime>
+    <size>6613</size>
+    <md5>3e668fa3ec7bed4e4f087e5c8c9079de</md5>
+    <crc32>4c21bba8</crc32>
+    <sha1>9a73b2f047b80ba831850c5e0b2df2ee617fd0e5</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Glitch.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>16.26</length>
+    <mtime>1317156471</mtime>
+    <size>520320</size>
+    <md5>007d2f1eb0047d9bf6244e6e4aa74579</md5>
+    <crc32>196296d4</crc32>
+    <sha1>11b356d82b251f1f376f63591dd936619b50ac5a</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Glitch</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:021b0c72-d4fb-4ba6-ab83-62fe343631e1</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Glitch.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Glitch.mp3</original>
+    <mtime>1317164550</mtime>
+    <size>181833</size>
+    <md5>745d8a1a211dd4f410eb0a86cb352b76</md5>
+    <crc32>b2430b62</crc32>
+    <sha1>d6e479069e27269a568a75eaf0e8f7b3681f862c</sha1>
+    <length>12.77</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Glitch.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Glitch.mp3</original>
+    <mtime>1414662727</mtime>
+    <size>10160</size>
+    <md5>913da58242104e7d91a6bfb686e3e909</md5>
+    <crc32>fb9b4756</crc32>
+    <sha1>20b2445bf7b4159828339feb702fabd577bda428</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Groovy_Baby.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>148.14</length>
+    <mtime>1317156513</mtime>
+    <size>2962853</size>
+    <md5>9c174dca5ee5ac891e75f59aa98a7160</md5>
+    <crc32>5d2bb6ee</crc32>
+    <sha1>b221a9244919944898b25f558f07881035674ce8</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Groovy Baby</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:341822be-af4f-42ea-8405-22860662017e</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Groovy_Baby.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Groovy_Baby.mp3</original>
+    <mtime>1317164540</mtime>
+    <size>1901172</size>
+    <md5>1246a8b0e7b92e34960578a33632aa94</md5>
+    <crc32>dc11679</crc32>
+    <sha1>5ff9b63ef06cb897d80b26408a6d5d632bde6a51</sha1>
+    <length>145.77</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Groovy_Baby.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Groovy_Baby.mp3</original>
+    <mtime>1414662735</mtime>
+    <size>9867</size>
+    <md5>9daa12e17b4503d3f41c2cdc2d82f8f9</md5>
+    <crc32>d98a690e</crc32>
+    <sha1>24eedc4c9f0b6af776db8e994e492327d40ffdf5</sha1>
+  </file>
+  <file name="Jason_Shaw_-_IceCold.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>161.88</length>
+    <mtime>1317156478</mtime>
+    <size>3237661</size>
+    <md5>e0c0f6277dccd78b283742ec0bd338f6</md5>
+    <crc32>a02607d</crc32>
+    <sha1>7ae67f28bd8ceb49bb36c18c629aa8a9ff213930</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>IceCold</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:d0b1ddbf-e2c1-4d79-a509-bf18a73904cf</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_IceCold.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_IceCold.mp3</original>
+    <mtime>1317164482</mtime>
+    <size>1907108</size>
+    <md5>de1af9d7db747c745191fb911e6da221</md5>
+    <crc32>4430a5cc</crc32>
+    <sha1>31add225799482a18b06bc0d1416fca1cf9909ac</sha1>
+    <length>159.67</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_IceCold.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_IceCold.mp3</original>
+    <mtime>1414662672</mtime>
+    <size>10527</size>
+    <md5>5552d7c887c8a99b9c5518d7b338f693</md5>
+    <crc32>a8a53a95</crc32>
+    <sha1>02f3aca685078666761897c7ecc660f4b65e8515</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Namaste.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>328.1</length>
+    <mtime>1317156475</mtime>
+    <size>6562004</size>
+    <md5>9abee8029844ee5acfc7a7ec1d52f3e2</md5>
+    <crc32>762fe0b6</crc32>
+    <sha1>5740dc89905f677468ea0c08d5155cec6d4f831d</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Namaste</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:1eda099e-d81a-4786-a357-6b99a79c9a12</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Namaste.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Namaste.mp3</original>
+    <mtime>1317164475</mtime>
+    <size>3821277</size>
+    <md5>f273f374f2e1e3bba5cc36dc4b6904e2</md5>
+    <crc32>a6de5c7c</crc32>
+    <sha1>7a5c24d4252979daf9616299f6f8d80a461ddfa0</sha1>
+    <length>323.91</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Namaste.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Namaste.mp3</original>
+    <mtime>1414662754</mtime>
+    <size>12123</size>
+    <md5>86c2649907ffe43a786f835a89d6a8fa</md5>
+    <crc32>72f41c51</crc32>
+    <sha1>de263ae00fae6d5d3d24230dc3ef6dac9d3b1d08</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Navajo_Night.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>1440.26</length>
+    <mtime>1317156500</mtime>
+    <size>28805269</size>
+    <md5>f1e642b31e60b310ebbfb645f96f1b02</md5>
+    <crc32>46437f8f</crc32>
+    <sha1>10d0a89fad72dda44f28cb3feb593034f768a935</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Navajo Night</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:8b8e1ddd-1403-4ab3-8bd2-a92ded01ec88</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Navajo_Night.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Navajo_Night.mp3</original>
+    <mtime>1317164401</mtime>
+    <size>13178672</size>
+    <md5>4cd1c050b7c9ffef337a30e88bb7ceff</md5>
+    <crc32>eeedc337</crc32>
+    <sha1>1581f906ed74779a5875de618cccdb9206c758da</sha1>
+    <length>1434.16</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Navajo_Night.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Navajo_Night.mp3</original>
+    <mtime>1414662871</mtime>
+    <size>5141</size>
+    <md5>1decb4c2ff2ede72b064d48c574a67b1</md5>
+    <crc32>22d1252c</crc32>
+    <sha1>dfe3b058e75ddc7ebb9fec814b6c5dbc90ce9eb1</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Night_Rave.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>90.29</length>
+    <mtime>1317156459</mtime>
+    <size>2167163</size>
+    <md5>6810076a79501d68bb66139749b6f8ea</md5>
+    <crc32>525eaa16</crc32>
+    <sha1>1f3907eab27aaffa63af794b32ac6f89736504a1</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Night Rave</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:393ae731-b8cb-4882-a421-ef597c4cdf27</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Night_Rave.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Night_Rave.mp3</original>
+    <mtime>1317164338</mtime>
+    <size>1164226</size>
+    <md5>1f98e4d721fc89f6512e82f8217d329a</md5>
+    <crc32>7f569d32</crc32>
+    <sha1>00dccc3bd378b81921c69a5704d225994cd77d12</sha1>
+    <length>86.37</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Night_Rave.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Night_Rave.mp3</original>
+    <mtime>1414662770</mtime>
+    <size>10354</size>
+    <md5>79dbba6293008407a1b74c0e050de9c2</md5>
+    <crc32>e2c77049</crc32>
+    <sha1>ecb811d498b702f1f2cda4c7762abc484ce990d8</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Nip_The_Slipple.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>164.26</length>
+    <mtime>1317156504</mtime>
+    <size>3285204</size>
+    <md5>d0c5c7112abbf74e56826b9a3f76205f</md5>
+    <crc32>d1876ee6</crc32>
+    <sha1>304a46ce7641f854d7818889fffb88d1507030f2</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Nip The Slipple</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:c9359ec6-1e7d-4163-b834-8a4b2e8d7194</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Nip_The_Slipple.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Nip_The_Slipple.mp3</original>
+    <mtime>1317164327</mtime>
+    <size>2179552</size>
+    <md5>6ec43e15fca9e2401233dad59ee85555</md5>
+    <crc32>7fdf9fb4</crc32>
+    <sha1>b538cd516b204792625f2fb526fbe7c7decee492</sha1>
+    <length>161.49</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Nip_The_Slipple.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Nip_The_Slipple.mp3</original>
+    <mtime>1414662784</mtime>
+    <size>9375</size>
+    <md5>28e58be26753a3ce6e1f28e1b52b2ffe</md5>
+    <crc32>0629c05c</crc32>
+    <sha1>1e2c9ed0246826786721c26ef7a954d44e7a19df</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Pyramids.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>150.3</length>
+    <mtime>1317156463</mtime>
+    <size>6012387</size>
+    <md5>6d7959b95f48a77753b19af2e8b8011d</md5>
+    <crc32>420b711c</crc32>
+    <sha1>a04f86bd09f7d7487bf1fb04c8f320beaa23d842</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Pyramids</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:88296ba7-6e91-4ab1-9d92-2db6a04a4d66</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Pyramids.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Pyramids.mp3</original>
+    <mtime>1317164319</mtime>
+    <size>1847159</size>
+    <md5>e48821bf60888fae8b0aaa8a22a58d37</md5>
+    <crc32>a268dd0f</crc32>
+    <sha1>f6a92fb829362e0f6ae91208809141867a1b6a76</sha1>
+    <length>147.24</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Pyramids.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Pyramids.mp3</original>
+    <mtime>1414662792</mtime>
+    <size>6616</size>
+    <md5>e9e56e60422db44de719cabfa00e0a80</md5>
+    <crc32>87e07236</crc32>
+    <sha1>20296cd4a9c54f41efd442c24b71f1f30b7d8795</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Sk8board.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>126.18</length>
+    <mtime>1317156456</mtime>
+    <size>4037812</size>
+    <md5>3eeabf31662230addfaa15a571525650</md5>
+    <crc32>51e7745a</crc32>
+    <sha1>5d29248e82ca9070542c85923a99b80e918c5894</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Sk8board</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:e76376b4-070a-4bd4-b498-8d3bd645d1b8</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Sk8board.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Sk8board.mp3</original>
+    <mtime>1317164409</mtime>
+    <size>1650235</size>
+    <md5>0f8019a2f7713598ffbba3766ebcef49</md5>
+    <crc32>195f47e</crc32>
+    <sha1>1ddafe14cae09ce07819804f6d19ec6c7fd34f2a</sha1>
+    <length>123.98</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Sk8board.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Sk8board.mp3</original>
+    <mtime>1414662713</mtime>
+    <size>10345</size>
+    <md5>0570b21449c8230be521c925f8615db0</md5>
+    <crc32>93c27a57</crc32>
+    <sha1>1e6e8610e6bb4e67d29d7488ffbf420c7230a26d</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Tech_Talk.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>91.02</length>
+    <mtime>1317156453</mtime>
+    <size>2184717</size>
+    <md5>baf189ca3bc62544d7504efb8982d876</md5>
+    <crc32>7ecf4a5c</crc32>
+    <sha1>b5b00d340f9a3b0a4e9888bd95bcd42ecc575366</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Tech Talk</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:288fb7dc-6ecc-4b08-8360-0044c60666e2</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Tech_Talk.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Tech_Talk.mp3</original>
+    <mtime>1317164417</mtime>
+    <size>1011803</size>
+    <md5>10daf31b1be33a8e45e56dce85ae70f5</md5>
+    <crc32>c18835e9</crc32>
+    <sha1>b5f8d21e86ad4e33617f32ae4c5c1367503e5011</sha1>
+    <length>86.06</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Tech_Talk.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Tech_Talk.mp3</original>
+    <mtime>1414662725</mtime>
+    <size>11240</size>
+    <md5>919b60aa6a0b08970e6b3f4d586f865d</md5>
+    <crc32>5819a869</crc32>
+    <sha1>281f3437e6eeb979de0f1f06d791f3fc860e4fa0</sha1>
+  </file>
+  <file name="Jason_Shaw_-_The_Big_House.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>188.57</length>
+    <mtime>1317156440</mtime>
+    <size>7543163</size>
+    <md5>c65d77647c64b026337ae399a02bb225</md5>
+    <crc32>6bacb715</crc32>
+    <sha1>951272160863196f0d3f199f27eb82dbcb5c5d06</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>The Big House</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:71304dda-5432-418a-b25d-3c700abb4e5d</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_The_Big_House.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_The_Big_House.mp3</original>
+    <mtime>1317164457</mtime>
+    <size>2112285</size>
+    <md5>97e16a15671e6b6a612eb1e966210a43</md5>
+    <crc32>e3467da2</crc32>
+    <sha1>5c37203669df5ec084b5850106b41f80a033bf70</sha1>
+    <length>184.06</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_The_Big_House.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_The_Big_House.mp3</original>
+    <mtime>1414662800</mtime>
+    <size>7536</size>
+    <md5>b515521950e278ba29d21bbd59fdad13</md5>
+    <crc32>51d93b17</crc32>
+    <sha1>c3c653f36d28f807eb596ceea43dbc07838daf21</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Timen_Passing_By.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>248.03</length>
+    <mtime>1317156433</mtime>
+    <size>4960697</size>
+    <md5>32f9d62fc0a01efb772d041acce5e1cb</md5>
+    <crc32>1a2a147e</crc32>
+    <sha1>5c25851be9367ca3d559c3f17c5eb4497edee20f</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Timen Passing By</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:fc8e0e37-8bbe-45e3-9b0e-48491ca395b7</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Timen_Passing_By.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Timen_Passing_By.mp3</original>
+    <mtime>1317164441</mtime>
+    <size>2549388</size>
+    <md5>ac95197aafc8461fc543369d9d6bd67a</md5>
+    <crc32>2007f89a</crc32>
+    <sha1>c83cc10c5bfc961099967b090f24bebd5f5763bc</sha1>
+    <length>243.28</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Timen_Passing_By.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Timen_Passing_By.mp3</original>
+    <mtime>1414662821</mtime>
+    <size>10053</size>
+    <md5>058af9c8f4b5839814a51870b3b09974</md5>
+    <crc32>26ee82d9</crc32>
+    <sha1>121a5f4eca4c2d318dd90e802cc60d4e7274e606</sha1>
+  </file>
+  <file name="Jason_Shaw_-_Vanishing_Horizon.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>163.92</length>
+    <mtime>1317156436</mtime>
+    <size>2622738</size>
+    <md5>cbb0d1a6247f44abeabc7473b93bc1cd</md5>
+    <crc32>1b75fb97</crc32>
+    <sha1>5478b3368681adcd8d613490bca2c6b50a83db0a</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Vanishing Horizon</title>
+    <artist>Jason Shaw</artist>
+    <track>0</track>
+    <album>Audionautix: Tech, Urban, Dance</album>
+    <genre>Electronic</genre>
+    <external-identifier-match-date>acoustid:2019-03-27T10:40:24Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:ddafea35-3ee9-4d64-9f6f-0d21c0b3ad18</external-identifier>
+  </file>
+  <file name="Jason_Shaw_-_Vanishing_Horizon.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Jason_Shaw_-_Vanishing_Horizon.mp3</original>
+    <mtime>1317164424</mtime>
+    <size>1692039</size>
+    <md5>7da1dd1f47fd69ffc58dc02e42586e95</md5>
+    <crc32>b7800946</crc32>
+    <sha1>008f9d81bd8fb4577dc1ffe932f66943174fd3ec</sha1>
+    <length>160.91</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Jason_Shaw_-_Vanishing_Horizon.png" source="derivative">
+    <format>PNG</format>
+    <original>Jason_Shaw_-_Vanishing_Horizon.mp3</original>
+    <mtime>1414662810</mtime>
+    <size>8765</size>
+    <md5>a46c523be5331e15b2bb4fa4334913d9</md5>
+    <crc32>c50a0ce6</crc32>
+    <sha1>f879de3f1c99f7609aff271b11a31812f7200020</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1544627518</mtime>
+    <size>16034</size>
+    <md5>8eae9b77bd9cc9b31868702417c51b40</md5>
+    <crc32>74cd7be9</crc32>
+    <sha1>212d9c0583abdb5d436c26c3606f8618c3b0e74a</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>
