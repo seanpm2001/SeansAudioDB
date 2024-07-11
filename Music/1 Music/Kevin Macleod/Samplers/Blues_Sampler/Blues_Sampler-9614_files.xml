@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Blues_Sampler-9614.jpg" source="original">
+    <format>JPEG</format>
+    <mtime>1329440388</mtime>
+    <size>43088</size>
+    <md5>db716c12005041413a7a85579fb96bc6</md5>
+    <crc32>95360b44</crc32>
+    <sha1>93293196da53d9f78cc715584bb4276cac8bfcb8</sha1>
+    <rotation>0</rotation>
+  </file>
+  <file name="Blues_Sampler-9614.jpg_meta.txt" source="original">
+    <format>Metadata</format>
+    <mtime>1329440388</mtime>
+    <size>341</size>
+    <md5>d2cbf38c193330bda79d3739128324cf</md5>
+    <crc32>c86aef1b</crc32>
+    <sha1>4b79779fc40c5f537ef7584fd106a4580bf78968</sha1>
+  </file>
+  <file name="Blues_Sampler-9614_archive.torrent" source="metadata">
+    <btih>247f156fc08d2b5f0f3a918666b14a0df900b2f0</btih>
+    <mtime>1632623701</mtime>
+    <size>9032</size>
+    <md5>e4debe471a46f925ebf3d74a52fe5760</md5>
+    <crc32>ffca75ae</crc32>
+    <sha1>7b482e437647c7031150ea76ea5ca909dc008f73</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Blues_Sampler-9614_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>036579e81236c935b5576cb7c260c33d</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Blues_Sampler-9614_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1465620578</mtime>
+    <size>1209</size>
+    <md5>889dfde19949b6966f7610bef7b67928</md5>
+    <crc32>82aeb838</crc32>
+    <sha1>3f3b01fc663d786a65d6a98ed87ef54d69cd4117</sha1>
+  </file>
+  <file name="Blues_Sampler-9614_reviews.xml" source="original">
+    <mtime>1632623699</mtime>
+    <size>707</size>
+    <md5>849f0a3e049bc9766418758e32cd483a</md5>
+    <crc32>ec5722f2</crc32>
+    <sha1>7a9af1261674f91260ff3dc4061ed0a003b6b0a3</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Blues_Sampler-9614_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Blues_Sampler-9614.jpg</original>
+    <mtime>1414803846</mtime>
+    <size>3551</size>
+    <md5>9d4296d1a1ea2d86269a7210b91010c5</md5>
+    <crc32>cd860f17</crc32>
+    <sha1>998861816e1761a68845cc595e63d094eee436d2</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_01_-_Niles_Blues.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>156.21</length>
+    <mtime>1317189889</mtime>
+    <size>6248640</size>
+    <md5>0b258a3a3e6c20e29e7ac2b00928836f</md5>
+    <crc32>466cb0e</crc32>
+    <sha1>4c5f65ce94f6edd7bb8f6779164df0ce7811f238</sha1>
+    <height>400</height>
+    <width>400</width>
+    <title>Niles Blues</title>
+    <artist>Kevin MacLeod</artist>
+    <track>1</track>
+    <album>Blues Sampler</album>
+    <genre>Blues</genre>
+  </file>
+  <file name="Kevin_MacLeod_-_01_-_Niles_Blues.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_01_-_Niles_Blues.mp3</original>
+    <mtime>1317232502</mtime>
+    <size>1787401</size>
+    <md5>9971e4f126ebabaab2d5ca358357bbbe</md5>
+    <crc32>19a33569</crc32>
+    <sha1>71c4a538cbce04b448cbc15fc5fc6e5de0824317</sha1>
+    <length>150.82</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_01_-_Niles_Blues.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_01_-_Niles_Blues.mp3</original>
+    <mtime>1414803852</mtime>
+    <size>11600</size>
+    <md5>b0bab61ba224168b4e9f3ba261c16ec2</md5>
+    <crc32>f46fb258</crc32>
+    <sha1>dae7f2abc6de942b644aa4cc577f0355f39e4a2b</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_02_-_Porch_Blues.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>115.61</length>
+    <mtime>1317189935</mtime>
+    <size>4064170</size>
+    <md5>d0473643003e6b7edfafab96d23ca72c</md5>
+    <crc32>7a05de08</crc32>
+    <sha1>3e82df8a66dd073858832d884fd056b8003b9e8c</sha1>
+    <height>400</height>
+    <width>400</width>
+    <title>Porch Blues</title>
+    <artist>Kevin MacLeod</artist>
+    <track>2</track>
+    <album>Blues Sampler</album>
+    <genre>Blues</genre>
+  </file>
+  <file name="Kevin_MacLeod_-_02_-_Porch_Blues.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_02_-_Porch_Blues.mp3</original>
+    <mtime>1317232488</mtime>
+    <size>1117184</size>
+    <md5>a974ec1a92615501ed9fedc6250a6a00</md5>
+    <crc32>9e7adf80</crc32>
+    <sha1>1fbf561445989e1d3c5b85fe2a1f061523018d86</sha1>
+    <length>110.31</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_02_-_Porch_Blues.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_02_-_Porch_Blues.mp3</original>
+    <mtime>1414803858</mtime>
+    <size>9059</size>
+    <md5>3d14293f37ab845518eacbb83cbab03b</md5>
+    <crc32>0fbd3585</crc32>
+    <sha1>47fc4bf7202618004d325eefa6aafdac4746aadb</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_03_-_Matts_Blues.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>170.08</length>
+    <mtime>1317189904</mtime>
+    <size>6803460</size>
+    <md5>0ebd1cfff7de67d3e0b8fb7e8aaaf30b</md5>
+    <crc32>6b8cf0b3</crc32>
+    <sha1>add65be3ddfae2d2410e9d458fdd0631701a7319</sha1>
+    <height>400</height>
+    <width>400</width>
+    <title>Matt's Blues</title>
+    <artist>Kevin MacLeod</artist>
+    <track>3</track>
+    <album>Blues Sampler</album>
+    <genre>Blues</genre>
+  </file>
+  <file name="Kevin_MacLeod_-_03_-_Matts_Blues.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_03_-_Matts_Blues.mp3</original>
+    <mtime>1317232496</mtime>
+    <size>1811685</size>
+    <md5>161d22e339eb538ca42ee28d68b63dbb</md5>
+    <crc32>2f7a71df</crc32>
+    <sha1>57ae591e94344e9756b25f58db9748b2ff332520</sha1>
+    <length>162.58</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_03_-_Matts_Blues.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_03_-_Matts_Blues.mp3</original>
+    <mtime>1414803872</mtime>
+    <size>12103</size>
+    <md5>6cb3ab0bd1d5fee02f5bc29b88ec0617</md5>
+    <crc32>3b242ec4</crc32>
+    <sha1>9b095ab0b975779723a07768b8e5725791dbe620</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_04_-_DD_Groove.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>224.05</length>
+    <mtime>1317189972</mtime>
+    <size>8962286</size>
+    <md5>40efcd434d01be82399246ec6fb5e2bf</md5>
+    <crc32>7a33b20d</crc32>
+    <sha1>b03f7974b0384860b95c6e520393005e10e053db</sha1>
+    <height>400</height>
+    <width>400</width>
+    <title>DD Groove</title>
+    <artist>Kevin MacLeod</artist>
+    <track>4</track>
+    <album>Blues Sampler</album>
+    <genre>Blues</genre>
+  </file>
+  <file name="Kevin_MacLeod_-_04_-_DD_Groove.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_04_-_DD_Groove.mp3</original>
+    <mtime>1317232482</mtime>
+    <size>2490453</size>
+    <md5>be6d8cec885536c5054ef275f00030d5</md5>
+    <crc32>ce809fdb</crc32>
+    <sha1>8fe20d1741979b7aea4de976727df74c4c886b93</sha1>
+    <length>216.97</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_04_-_DD_Groove.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_04_-_DD_Groove.mp3</original>
+    <mtime>1414803864</mtime>
+    <size>12265</size>
+    <md5>52ee52013f4639a65b270efc9b54e9a0</md5>
+    <crc32>7dabc7a7</crc32>
+    <sha1>3d1962707309c311a3c3e6366e92128911dd5aaa</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_05_-_Whiskey_on_the_Mississippi.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>195.43</length>
+    <mtime>1317189940</mtime>
+    <size>7817475</size>
+    <md5>b9720a64ae9e15faca4c7acb98cacca5</md5>
+    <crc32>48d64eef</crc32>
+    <sha1>7025050f80991df76e9c05bc02476f72d8868b7a</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Whiskey on the Mississippi</title>
+    <artist>Kevin MacLeod</artist>
+    <track>5</track>
+    <album>Blues Sampler</album>
+    <genre>Blues</genre>
+  </file>
+  <file name="Kevin_MacLeod_-_05_-_Whiskey_on_the_Mississippi.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_05_-_Whiskey_on_the_Mississippi.mp3</original>
+    <mtime>1317232472</mtime>
+    <size>2167036</size>
+    <md5>8edddec7334066ce070e0276d8801c18</md5>
+    <crc32>d58612db</crc32>
+    <sha1>b44bc2e1e8c6443bd5db4d0722da5418e292868c</sha1>
+    <length>191.84</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_05_-_Whiskey_on_the_Mississippi.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_05_-_Whiskey_on_the_Mississippi.mp3</original>
+    <mtime>1414803898</mtime>
+    <size>10904</size>
+    <md5>955ad546329ddc8b49362c3777ab1c11</md5>
+    <crc32>57ad592d</crc32>
+    <sha1>d4ac41cfb807e61704b1d84c65365b4e1fcb045d</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_06_-_Hustle.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>120.6</length>
+    <mtime>1317189943</mtime>
+    <size>4824325</size>
+    <md5>969dfaff2cb39360c4e6f6903c9d01b6</md5>
+    <crc32>f25e2fb0</crc32>
+    <sha1>fecf993d6ce31786b0c9b607aab079f7925bcd47</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Hustle</title>
+    <artist>Kevin MacLeod</artist>
+    <track>6</track>
+    <album>Blues Sampler</album>
+    <genre>Blues</genre>
+    <external-identifier>urn:acoustid:956fc556-c049-4871-86ea-be7e248affcf</external-identifier>
+  </file>
+  <file name="Kevin_MacLeod_-_06_-_Hustle.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_06_-_Hustle.mp3</original>
+    <mtime>1317232445</mtime>
+    <size>1355609</size>
+    <md5>517548f39ef8257b17ad1492b9379e2c</md5>
+    <crc32>1ce1d19f</crc32>
+    <sha1>095c69df799afa7ea25d1d68f6cac95be8faa695</sha1>
+    <length>116.79</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_06_-_Hustle.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_06_-_Hustle.mp3</original>
+    <mtime>1414803877</mtime>
+    <size>10468</size>
+    <md5>86f865ee6380e9456e5940fa1e0628c3</md5>
+    <crc32>f5ae22b6</crc32>
+    <sha1>8a0a52ceba801b824848b8d88e5e78b498d058e8</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_07_-_Dirt_Rhodes.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>123.17</length>
+    <mtime>1317189956</mtime>
+    <size>4926896</size>
+    <md5>de5b766885edbb73283dddcfc4dc5271</md5>
+    <crc32>247147c0</crc32>
+    <sha1>cdb3a3108d89cb7e5316b87c14a61d6bdcfa9fa4</sha1>
+    <height>400</height>
+    <width>400</width>
+    <title>Dirt Rhodes</title>
+    <artist>Kevin MacLeod</artist>
+    <track>7</track>
+    <album>Blues Sampler</album>
+    <genre>Blues</genre>
+  </file>
+  <file name="Kevin_MacLeod_-_07_-_Dirt_Rhodes.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_07_-_Dirt_Rhodes.mp3</original>
+    <mtime>1317232451</mtime>
+    <size>1300229</size>
+    <md5>de9da2c5c06ee4c592874f56929ebf93</md5>
+    <crc32>fc777016</crc32>
+    <sha1>731dbcdd00ec885a090566be021a879fe5150dee</sha1>
+    <length>116.18</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_07_-_Dirt_Rhodes.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_07_-_Dirt_Rhodes.mp3</original>
+    <mtime>1414803882</mtime>
+    <size>13089</size>
+    <md5>b04053a776e6cd4a1f4a0f531e6bceb3</md5>
+    <crc32>1aa5cfc3</crc32>
+    <sha1>099d7adef4b2adc3c916bde90c30d74c4a2e0778</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_08_-_Slow_Burn.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>231.52</length>
+    <mtime>1317189869</mtime>
+    <size>9261117</size>
+    <md5>a051b5244b3c21206c55d99425c32507</md5>
+    <crc32>5e778721</crc32>
+    <sha1>2fe4be6875e75fd558ac997bd8a25c8306e20a1c</sha1>
+    <height>400</height>
+    <width>400</width>
+    <title>Slow Burn</title>
+    <artist>Kevin MacLeod</artist>
+    <track>8</track>
+    <album>Blues Sampler</album>
+    <genre>Blues</genre>
+  </file>
+  <file name="Kevin_MacLeod_-_08_-_Slow_Burn.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_08_-_Slow_Burn.mp3</original>
+    <mtime>1317232461</mtime>
+    <size>2675959</size>
+    <md5>239246a73633d5c369e59e7c567f6dc2</md5>
+    <crc32>1d15c727</crc32>
+    <sha1>efa4cd723305b10594f752146f25de034a964e0e</sha1>
+    <length>225.46</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_08_-_Slow_Burn.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_08_-_Slow_Burn.mp3</original>
+    <mtime>1414803892</mtime>
+    <size>11524</size>
+    <md5>ffc18d72059886b7a4adc8aa6a578b04</md5>
+    <crc32>4a769f12</crc32>
+    <sha1>ff751a0d8a221342dc02b279fcfa641fca8a7632</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1632623700</mtime>
+    <size>14580</size>
+    <md5>ae33db9b4d9f44c0aeb88844cb3b3b2a</md5>
+    <crc32>45397e1f</crc32>
+    <sha1>021850e6a790e09c35fe1c67b1ba539d5dd77aef</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

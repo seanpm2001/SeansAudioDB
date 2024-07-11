@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Jazz_Sampler-9619.jpg" source="original">
+    <format>JPEG</format>
+    <mtime>1329440120</mtime>
+    <size>42655</size>
+    <md5>997515af0a51799e0fd58c73a9906c42</md5>
+    <crc32>2951c5db</crc32>
+    <sha1>7edcb2d4d25cee42ce94b03fe57027ded146e69f</sha1>
+    <rotation>0</rotation>
+  </file>
+  <file name="Jazz_Sampler-9619.jpg_meta.txt" source="original">
+    <format>Metadata</format>
+    <mtime>1329440120</mtime>
+    <size>341</size>
+    <md5>e5ff633416b41ae2d19a67571a3fb645</md5>
+    <crc32>3c608d1c</crc32>
+    <sha1>ac72fc3fccfcaf0f39dc1738d124175208f415af</sha1>
+  </file>
+  <file name="Jazz_Sampler-9619_archive.torrent" source="metadata">
+    <btih>5df51a6549c92522686af5245a32d9dbb30f58a5</btih>
+    <mtime>1635696634</mtime>
+    <size>11102</size>
+    <md5>93518f4c80686366de675c0037612ba2</md5>
+    <crc32>934654e8</crc32>
+    <sha1>cd872266a99b5cd7237a086bd8083b7671cd8781</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Jazz_Sampler-9619_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>29a1d3f0ad0aa4de0bce4bf86c196cf6</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Jazz_Sampler-9619_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1554417259</mtime>
+    <size>1223</size>
+    <md5>ffe81ed5c2127045f39c0434bd64162d</md5>
+    <crc32>fbe87b9f</crc32>
+    <sha1>983f2d41ba3e5e61886b26055cdc11c93401dee5</sha1>
+  </file>
+  <file name="Jazz_Sampler-9619_reviews.xml" source="original">
+    <mtime>1635696630</mtime>
+    <size>1157</size>
+    <md5>0d686d788ece2c9765881ca20eb808fb</md5>
+    <crc32>a1ccdf8a</crc32>
+    <sha1>5a1ac34470a61c0a87c8df187c7b989b4ddd4b54</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Jazz_Sampler-9619_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Jazz_Sampler-9619.jpg</original>
+    <mtime>1414894715</mtime>
+    <size>3517</size>
+    <md5>1a90bdab5724c1d5fded26d1ee8453dc</md5>
+    <crc32>5eb80497</crc32>
+    <sha1>44c11cf4e5ff11a6b3e8fc6ac49a04907baef44b</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_AcidJazz.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>212.12</length>
+    <mtime>1317189388</mtime>
+    <size>5090909</size>
+    <md5>f49ace86e3ac5a4dca320d8dfbe9b343</md5>
+    <crc32>d3a5d779</crc32>
+    <sha1>100aa2a5b21aa0cd2fb0a04b6c907ec59b1be8ee</sha1>
+    <height>400</height>
+    <width>400</width>
+    <title>AcidJazz</title>
+    <artist>Kevin MacLeod</artist>
+    <track>0</track>
+    <album>Jazz Sampler</album>
+    <genre>Jazz</genre>
+    <external-identifier-match-date>acoustid:2019-04-04T22:33:53Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:5837d9bb-3edc-42ca-ab1d-c4d3aff8ab80</external-identifier>
+  </file>
+  <file name="Kevin_MacLeod_-_AcidJazz.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_AcidJazz.mp3</original>
+    <mtime>1317232643</mtime>
+    <size>2048982</size>
+    <md5>c075dd9a33c4f68a63d80745d579785a</md5>
+    <crc32>42478e28</crc32>
+    <sha1>08db5e0608f7d827d006de147127595d61349a67</sha1>
+    <length>204.49</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_AcidJazz.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_AcidJazz.mp3</original>
+    <mtime>1414894723</mtime>
+    <size>11223</size>
+    <md5>24894df8d307b1f14f32398ca6e956c7</md5>
+    <crc32>94637ea9</crc32>
+    <sha1>0cbf365bde4f224450079263a301367eff76c1e5</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_Acid_Trumpet.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>212.12</length>
+    <mtime>1317189402</mtime>
+    <size>5090909</size>
+    <md5>cd8c7bf7c53c2401e6ce90dfff61e299</md5>
+    <crc32>12de0d65</crc32>
+    <sha1>8ffa62548403f9c6af7cb457135b0e0d8afcada3</sha1>
+    <height>400</height>
+    <width>400</width>
+    <title>Acid Trumpet</title>
+    <artist>Kevin MacLeod</artist>
+    <track>0</track>
+    <album>Jazz Sampler</album>
+    <genre>Jazz</genre>
+    <external-identifier-match-date>acoustid:2019-04-04T22:33:53Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:5837d9bb-3edc-42ca-ab1d-c4d3aff8ab80</external-identifier>
+  </file>
+  <file name="Kevin_MacLeod_-_Acid_Trumpet.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_Acid_Trumpet.mp3</original>
+    <mtime>1317232612</mtime>
+    <size>2048982</size>
+    <md5>d085b957bf5c25ecc0ba3b1f302237c0</md5>
+    <crc32>4ea53027</crc32>
+    <sha1>f4dc4be8bfbdaefc26562d278d5ce6566c0dd9d0</sha1>
+    <length>204.49</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_Acid_Trumpet.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_Acid_Trumpet.mp3</original>
+    <mtime>1414894745</mtime>
+    <size>11223</size>
+    <md5>f1e7e0b7e11928bcac47c7d88e0767d8</md5>
+    <crc32>ba2083f3</crc32>
+    <sha1>d6e5809607b6289d730d654d9fa1c2b38fc7ccb9</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_As_I_Figure.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>220.34</length>
+    <mtime>1317189418</mtime>
+    <size>8813705</size>
+    <md5>fbdb861a13f28c859571e88c05fdecd2</md5>
+    <crc32>cd7208d3</crc32>
+    <sha1>a39d51989d385df91b901a48f26d7a4c3542460e</sha1>
+    <height>400</height>
+    <width>400</width>
+    <title>As I Figure</title>
+    <artist>Kevin MacLeod</artist>
+    <track>0</track>
+    <album>Jazz Sampler</album>
+    <genre>Jazz</genre>
+    <external-identifier-match-date>acoustid:2019-04-04T22:33:53Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:fde49477-b2b8-4dbf-a25c-c5a7fe38b145</external-identifier>
+  </file>
+  <file name="Kevin_MacLeod_-_As_I_Figure.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_As_I_Figure.mp3</original>
+    <mtime>1317232623</mtime>
+    <size>2452008</size>
+    <md5>104fa5b1f53afea6301c832d89428c90</md5>
+    <crc32>3004f56e</crc32>
+    <sha1>296d7ff4359b2adcc35a15a3d008de98fdf9a9d3</sha1>
+    <length>213.24</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_As_I_Figure.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_As_I_Figure.mp3</original>
+    <mtime>1414894776</mtime>
+    <size>11841</size>
+    <md5>04bc8ed614854a2f453a222545bc220d</md5>
+    <crc32>18b0e205</crc32>
+    <sha1>0745d776895e45cfd15c23dda8980b2149ca1d92</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_Backed_Vibes_Clean.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>231.94</length>
+    <mtime>1317189396</mtime>
+    <size>9277779</size>
+    <md5>5ae7a00453000998f4feccfdd1b3a539</md5>
+    <crc32>68ab4fcb</crc32>
+    <sha1>2d8b85f4dbfa6b38b4d1cd07392a830b31b4dc7d</sha1>
+    <height>400</height>
+    <width>400</width>
+    <title>Backed Vibes Clean</title>
+    <artist>Kevin MacLeod</artist>
+    <track>0</track>
+    <album>Jazz Sampler</album>
+    <genre>Jazz</genre>
+    <external-identifier-match-date>acoustid:2019-04-04T22:33:53Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:4b500fb0-a341-4bb5-8cf4-e8332af91e9d</external-identifier>
+  </file>
+  <file name="Kevin_MacLeod_-_Backed_Vibes_Clean.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_Backed_Vibes_Clean.mp3</original>
+    <mtime>1317232632</mtime>
+    <size>1997753</size>
+    <md5>de541e22eb311c7361f59db040d5a3a3</md5>
+    <crc32>be5e49dc</crc32>
+    <sha1>7b1c2c7ad903cc9f16459be3f214fb98260f4503</sha1>
+    <length>222.97</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_Backed_Vibes_Clean.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_Backed_Vibes_Clean.mp3</original>
+    <mtime>1414894758</mtime>
+    <size>14183</size>
+    <md5>f1a7bda8409e57ef34a3589155c76c9d</md5>
+    <crc32>02f6a0c1</crc32>
+    <sha1>47c6d0af5249fd108484d9f7b8df107589cbf0e6</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_Corncob.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>55.53</length>
+    <mtime>1317189414</mtime>
+    <size>2221213</size>
+    <md5>a193f88f0e3bb49450d6cf56aeadce54</md5>
+    <crc32>a3113cb9</crc32>
+    <sha1>79146c763ce800df9caec3cd29b008f9d84f7848</sha1>
+    <height>720</height>
+    <width>720</width>
+    <title>Corncob</title>
+    <artist>Kevin MacLeod</artist>
+    <track>0</track>
+    <album>Jazz Sampler</album>
+    <genre>Bluegrass</genre>
+    <external-identifier-match-date>acoustid:2019-04-04T22:33:53Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:4e650b5f-58e4-4028-bd80-d08e3dc2bdf0</external-identifier>
+  </file>
+  <file name="Kevin_MacLeod_-_Corncob.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_Corncob.mp3</original>
+    <mtime>1317232634</mtime>
+    <size>658683</size>
+    <md5>d2d420eb39801a5f80d62a5ec8a8f955</md5>
+    <crc32>da4e9822</crc32>
+    <sha1>227f695e4c1e49a4c301b0e4fb34127579ce7bb0</sha1>
+    <length>51.47</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_Corncob.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_Corncob.mp3</original>
+    <mtime>1414894768</mtime>
+    <size>12814</size>
+    <md5>d1df9964ed7276dcb31b39d798437f25</md5>
+    <crc32>ae902284</crc32>
+    <sha1>1c0e7588f35f11c85198470b4b528d0cf5b31ccf</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_Dances_and_Dames.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>149.06</length>
+    <mtime>1317189433</mtime>
+    <size>5962419</size>
+    <md5>497e1bc3f1d533088041894bbd06c61b</md5>
+    <crc32>efc0cf14</crc32>
+    <sha1>535afec7b5b889c29fb9f33a79f7e1f69d8faa6b</sha1>
+    <height>400</height>
+    <width>400</width>
+    <title>Dances and Dames</title>
+    <artist>Kevin MacLeod</artist>
+    <track>0</track>
+    <album>Jazz Sampler</album>
+    <genre>Jazz</genre>
+    <external-identifier-match-date>acoustid:2019-04-04T22:33:53Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:dd3f88ac-7c3f-4efc-afd8-68869220ea89</external-identifier>
+  </file>
+  <file name="Kevin_MacLeod_-_Dances_and_Dames.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_Dances_and_Dames.mp3</original>
+    <mtime>1317232604</mtime>
+    <size>1666683</size>
+    <md5>c92f20de770431b1177e77a5fb3b3567</md5>
+    <crc32>e2fe26da</crc32>
+    <sha1>428da2bc5d25dcb0e0059f027c1b66e75da1a80c</sha1>
+    <length>142.93</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_Dances_and_Dames.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_Dances_and_Dames.mp3</original>
+    <mtime>1414894735</mtime>
+    <size>12309</size>
+    <md5>46b1bcebd6e3586085673e5763eca699</md5>
+    <crc32>3c3ad73c</crc32>
+    <sha1>9231ff22b22ebd8305c5dc5f5322a4b0e23ae514</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_Faster_Does_It.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>181.89</length>
+    <mtime>1317189444</mtime>
+    <size>7275665</size>
+    <md5>ff3b40b8162513275777c9a6dd004963</md5>
+    <crc32>45c1222f</crc32>
+    <sha1>ff40bfca6ef39748df3a2fe8bdcc0f675b4b3bbd</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Faster Does It</title>
+    <artist>Kevin MacLeod</artist>
+    <track>0</track>
+    <album>Jazz Sampler</album>
+    <genre>Jazz</genre>
+    <external-identifier-match-date>acoustid:2019-04-04T22:33:53Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:9e182337-25a7-4a6e-823a-f05161d00e01</external-identifier>
+  </file>
+  <file name="Kevin_MacLeod_-_Faster_Does_It.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_Faster_Does_It.mp3</original>
+    <mtime>1317232598</mtime>
+    <size>2354597</size>
+    <md5>ab2116a9334eac9c93e144816575c21b</md5>
+    <crc32>a0b2e40</crc32>
+    <sha1>a1f009dc85c605a38c79c9573e8c82024f98caa8</sha1>
+    <length>179.6</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_Faster_Does_It.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_Faster_Does_It.mp3</original>
+    <mtime>1414894729</mtime>
+    <size>12098</size>
+    <md5>55fc32a7123444dc9efade8737af4b51</md5>
+    <crc32>367d199b</crc32>
+    <sha1>718f7f3ae5c3a78d3f064fdd446ef3c2b2b19125</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_I_Knew_a_Guy.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>166.97</length>
+    <mtime>1317189449</mtime>
+    <size>6044335</size>
+    <md5>363477ad415c9867052a84636f53b374</md5>
+    <crc32>43cce0b5</crc32>
+    <sha1>524b478a91ea76b79dd3dc6db56dfd2866a874f7</sha1>
+    <height>400</height>
+    <width>400</width>
+    <title>I Knew a Guy</title>
+    <artist>Kevin MacLeod</artist>
+    <track>0</track>
+    <album>Jazz Sampler</album>
+    <genre>Jazz</genre>
+    <external-identifier-match-date>acoustid:2019-04-04T22:33:53Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:1aa1279e-e859-4487-bf11-3ac0fe8840c7</external-identifier>
+  </file>
+  <file name="Kevin_MacLeod_-_I_Knew_a_Guy.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_I_Knew_a_Guy.mp3</original>
+    <mtime>1317232576</mtime>
+    <size>1689829</size>
+    <md5>8674a86bd6fdc6a94d6eb0791949939b</md5>
+    <crc32>8c1d9f6c</crc32>
+    <sha1>4cc77f29e0040eb71904bdecb04b3e8a7ead4526</sha1>
+    <length>162.07</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_I_Knew_a_Guy.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_I_Knew_a_Guy.mp3</original>
+    <mtime>1414894782</mtime>
+    <size>12381</size>
+    <md5>1f804bff95eeb457354df6e47610c2f2</md5>
+    <crc32>46dfacf0</crc32>
+    <sha1>48a7809748f80047268cc52c1243a9a0206ef219</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_Night_on_the_Docks_-_Sax.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>174.08</length>
+    <mtime>1317189440</mtime>
+    <size>5919408</size>
+    <md5>a6fa4b9c391bd074e0f8549fb70d53ac</md5>
+    <crc32>ceae5a2c</crc32>
+    <sha1>0f32a515ee44665a86d73dcf8b0fa803f296dfa4</sha1>
+    <height>400</height>
+    <width>400</width>
+    <title>Night on the Docks - Sax</title>
+    <artist>Kevin MacLeod</artist>
+    <track>0</track>
+    <album>Jazz Sampler</album>
+    <genre>Jazz</genre>
+    <external-identifier-match-date>acoustid:2019-04-04T22:33:53Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:891e4e34-c1d2-4da7-a138-24a46725ff9b</external-identifier>
+  </file>
+  <file name="Kevin_MacLeod_-_Night_on_the_Docks_-_Sax.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_Night_on_the_Docks_-_Sax.mp3</original>
+    <mtime>1317232583</mtime>
+    <size>1526330</size>
+    <md5>fb813790a008e7d4c07b03abdbe1a648</md5>
+    <crc32>523937ac</crc32>
+    <sha1>4c83ea582aa56ada04910ab103038fa04af25929</sha1>
+    <length>168.21</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_Night_on_the_Docks_-_Sax.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_Night_on_the_Docks_-_Sax.mp3</original>
+    <mtime>1414894764</mtime>
+    <size>7585</size>
+    <md5>711048518f3aeca17c82cc80b75c1387</md5>
+    <crc32>f74824f6</crc32>
+    <sha1>dbdd968186e25ab16cbb689071a9def60eae244d</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_Off_to_Osaka.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>109.74</length>
+    <mtime>1317189452</mtime>
+    <size>4021693</size>
+    <md5>af63977c45641fadd180208f6565c179</md5>
+    <crc32>855e959e</crc32>
+    <sha1>1ec5360a558dceed79c1fa043a572f002c0927da</sha1>
+    <height>400</height>
+    <width>400</width>
+    <title>Off to Osaka</title>
+    <artist>Kevin MacLeod</artist>
+    <track>0</track>
+    <album>Jazz Sampler</album>
+    <genre>Jazz</genre>
+    <external-identifier-match-date>acoustid:2019-04-04T22:33:53Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:cf343b32-6a88-4ed9-bd6a-47851e74e092</external-identifier>
+  </file>
+  <file name="Kevin_MacLeod_-_Off_to_Osaka.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_Off_to_Osaka.mp3</original>
+    <mtime>1317232588</mtime>
+    <size>1232406</size>
+    <md5>10e6bbbb03bc42b544f702a58e0e1ceb</md5>
+    <crc32>8642344c</crc32>
+    <sha1>a29b62ea4d80723d3281980574bac2319e472b85</sha1>
+    <length>106.81</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_Off_to_Osaka.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_Off_to_Osaka.mp3</original>
+    <mtime>1414894750</mtime>
+    <size>10737</size>
+    <md5>e8b42e9206557a25f813ef17638b7f0f</md5>
+    <crc32>5c8e6ef9</crc32>
+    <sha1>b21a36634a55ee6121bed8740aa6084ca598a176</sha1>
+  </file>
+  <file name="Kevin_MacLeod_-_Vibe_Ace.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>63.02</length>
+    <mtime>1317189455</mtime>
+    <size>2521098</size>
+    <md5>70a401536e92a02879facfd20304059a</md5>
+    <crc32>67c342c2</crc32>
+    <sha1>34d7974ef0737c82d02de01594c7f7461131379b</sha1>
+    <height>720</height>
+    <width>720</width>
+    <title>Vibe Ace</title>
+    <artist>Kevin MacLeod</artist>
+    <track>0</track>
+    <album>Jazz Sampler</album>
+    <genre>Jazz</genre>
+    <external-identifier-match-date>acoustid:2019-04-04T22:33:53Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:8ef6c4ad-d350-4577-8824-fecef294dbb0</external-identifier>
+  </file>
+  <file name="Kevin_MacLeod_-_Vibe_Ace.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Kevin_MacLeod_-_Vibe_Ace.mp3</original>
+    <mtime>1317232591</mtime>
+    <size>612253</size>
+    <md5>80538edc0cfc0463f0e66cff0533def9</md5>
+    <crc32>e6bbe450</crc32>
+    <sha1>273c0803944b5cb9cf08b879d32241940c6e641b</sha1>
+    <length>56</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Kevin_MacLeod_-_Vibe_Ace.png" source="derivative">
+    <format>PNG</format>
+    <original>Kevin_MacLeod_-_Vibe_Ace.mp3</original>
+    <mtime>1414894738</mtime>
+    <size>12540</size>
+    <md5>6892f155370293d0ddd662e79aec2464</md5>
+    <crc32>789946a1</crc32>
+    <sha1>0c508ab22f7b1a9e081850f886a6510039b7cf6a</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1635696632</mtime>
+    <size>14255</size>
+    <md5>ea167edfa7e6329e14004dec18254db6</md5>
+    <crc32>c8f525e1</crc32>
+    <sha1>77b6dd39c39764056edb2192c6738632ec298a5b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

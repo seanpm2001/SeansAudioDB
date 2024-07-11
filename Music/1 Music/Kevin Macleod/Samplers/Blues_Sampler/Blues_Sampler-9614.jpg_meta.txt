@@ -1,0 +1,9 @@
+ETag: "db716c12005041413a7a85579fb96bc6"
+accept: */*
+authorization: LOW U7TwGpIjERYE9cx4:REDACTED_BY_IA_S3
+content-length: 43088
+expect: 100-continue
+host: s3.us.archive.org
+user-agent: curl/7.19.7 (x86_64-pc-linux-gnu) libcurl/7.19.7 OpenSSL/0.9.8k zlib/1.2.3.3 libidn/1.15
+x-archive-queue-derive: 0
+x-upload-date: 2012-02-17T00:59:48.000Z
