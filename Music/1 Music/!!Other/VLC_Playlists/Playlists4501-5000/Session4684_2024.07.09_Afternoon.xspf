@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Chapter_1/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%201%20OST%20-%2013%20Field%20of%20Hopes%20and%20Dreams.aiff</location>
+			<title>Field of Hopes and Dreams</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>13</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>161280</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Chapter_1/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%201%20OST%20-%2014%20Fanfare%20(from%20Rose%20of%20Winter).aiff</location>
+			<title>Fanfare (from Rose of Winter)</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>14</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>15609</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Chapter_1/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%201%20OST%20-%2015%20Lantern.aiff</location>
+			<title>Lantern</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>15</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>68823</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Chapter_1/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%201%20OST%20-%2008%20The%20Legend.aiff</location>
+			<title>The Legend</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>8</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>111272</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Chapter_1/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%201%20OST%20-%2032%20The%20Circus.aiff</location>
+			<title>The Circus</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>32</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>51428</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Chapter_1/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%201%20OST%20-%2030%20Chaos%20King.aiff</location>
+			<title>Chaos King</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>30</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>106122</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
