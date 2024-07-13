@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/Cipher%20-%20Kevin%20Macleod%201%20Hour%20Loop.m4a</location>
+			<duration>5790081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/Samplers/Oddities/Kevin_MacLeod_-_Brightly_Fancy.mp3</location>
+			<title>Brightly Fancy</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Oddities</album>
+			<annotation>URL: http://freemusicarchive.org/music/Kevin_MacLeod/Oddities/Brightly_Fancy
+Comments: http://freemusicarchive.org/
+Curator: 
+Copyright: </annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Oddities/art.jpg</image>
+			<duration>134713</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/Samplers/Oddities/Kevin_MacLeod_-_Plain_Loafer.mp3</location>
+			<title>Plain Loafer</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Oddities</album>
+			<annotation>URL: http://freemusicarchive.org/music/Kevin_MacLeod/Oddities/Plain_Loafer
+Comments: http://freemusicarchive.org/
+Curator: 
+Copyright: </annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Oddities/art.jpg</image>
+			<duration>88058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/Samplers/Oddities/Kevin_MacLeod_-_Petulant_March.mp3</location>
+			<title>Petulant March</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Oddities</album>
+			<annotation>URL: http://freemusicarchive.org/music/Kevin_MacLeod/Oddities/Petulant_March
+Comments: http://freemusicarchive.org/
+Curator: 
+Copyright: </annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Oddities/art.jpg</image>
+			<duration>160992</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/Samplers/Oddities/Kevin_MacLeod_-_Sinfonia_3.mp3</location>
+			<title>Sinfonia 3</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Oddities</album>
+			<annotation>URL: http://freemusicarchive.org/music/Kevin_MacLeod/Oddities/Sinfonia_3
+Comments: http://freemusicarchive.org/
+Curator: 
+Copyright: </annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Oddities/art.jpg</image>
+			<duration>110262</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
