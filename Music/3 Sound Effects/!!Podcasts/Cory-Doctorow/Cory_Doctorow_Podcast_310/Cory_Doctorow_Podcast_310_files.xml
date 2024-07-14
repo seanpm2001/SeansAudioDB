@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory_Doctorow_Podcast_310_-_DRM_Broke_Its_Promise .afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Cory_Doctorow_Podcast_310_-_DRM_Broke_Its_Promise .mp3</original>
+    <mtime>1568078417</mtime>
+    <size>141576</size>
+    <md5>3dd406702c0b876d613a9680fcd894ae</md5>
+    <crc32>74c90c91</crc32>
+    <sha1>e4fd942846771c5db0f46338c669f50316740e2b</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_310_-_DRM_Broke_Its_Promise .mp3" source="original">
+    <mtime>1568077416</mtime>
+    <size>18524160</size>
+    <md5>2b455d6cf9c75df6e48af5a55cca7def</md5>
+    <crc32>4efafbf7</crc32>
+    <sha1>983341c64c4a405c7691013119ec9ab0c9361b50</sha1>
+    <format>VBR MP3</format>
+    <length>762.17</length>
+    <height>525</height>
+    <width>1000</width>
+  </file>
+  <file name="Cory_Doctorow_Podcast_310_-_DRM_Broke_Its_Promise .ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Cory_Doctorow_Podcast_310_-_DRM_Broke_Its_Promise .mp3</original>
+    <mtime>1568078380</mtime>
+    <size>8052708</size>
+    <md5>358c24221d34a62c310a5c83d4541687</md5>
+    <crc32>be0d512f</crc32>
+    <sha1>475bc65e2f9abbc50ab0c58cc24f08cd97f5774c</sha1>
+    <length>762.17</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cory_Doctorow_Podcast_310_-_DRM_Broke_Its_Promise .png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_310_-_DRM_Broke_Its_Promise .mp3</original>
+    <mtime>1568078392</mtime>
+    <size>38064</size>
+    <md5>14941f92818da11c66ec85202093d875</md5>
+    <crc32>0273a700</crc32>
+    <sha1>3ab55d61241a37511d868af54ac203cd16c778e3</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_310_-_DRM_Broke_Its_Promise _spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Cory_Doctorow_Podcast_310_-_DRM_Broke_Its_Promise .mp3</original>
+    <mtime>1568078400</mtime>
+    <size>318868</size>
+    <md5>ccc6ca74e11361a26cc9a875ff4db1fe</md5>
+    <crc32>1c734bf5</crc32>
+    <sha1>1828ba94f79fa65433117a6aca303be68c55d257</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_310_archive.torrent" source="metadata">
+    <btih>2f442bd49e18b03654f1634f8ad8c7bbbc7887eb</btih>
+    <mtime>1653681533</mtime>
+    <size>4178</size>
+    <md5>e1beb6486ccc8cedd172e239c64226ad</md5>
+    <crc32>eb727a6e</crc32>
+    <sha1>396f7ceb206b2defc81c885a4bc198ede02cb151</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_310_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6cc16b49e19719c4c7ef98d661e395c9</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Cory_Doctorow_Podcast_310_meta.sqlite" source="original">
+    <mtime>1568077420</mtime>
+    <size>28672</size>
+    <format>Metadata</format>
+    <md5>e845e45b4e37f660ced2471a863a73d7</md5>
+    <crc32>35ae67ae</crc32>
+    <sha1>9f10c103256c7f543c7e2b05c3628c9cfb58179c</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_310_meta.xml" source="original">
+    <mtime>1653681531</mtime>
+    <size>3785</size>
+    <format>Metadata</format>
+    <md5>26ce0cb410068211908ff7d87a026fb6</md5>
+    <crc32>cf261dcc</crc32>
+    <sha1>96ebcd4ab921fd271071f20d3ad487ecc6b07b76</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1653681532</mtime>
+    <size>11188</size>
+    <md5>4433c260f054724901f786d65d23e2b3</md5>
+    <crc32>2fe58d95</crc32>
+    <sha1>c5351d94d7081be793542f032f440c17360df947</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="feudalism.jpeg" source="original">
+    <mtime>1568076887</mtime>
+    <size>229502</size>
+    <md5>e4be6510f579ed9ce920456b1c7b817f</md5>
+    <crc32>730c6da5</crc32>
+    <sha1>8acc0d15df437b53a846116a8fd7aa42a1367001</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="feudalism_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>feudalism.jpeg</original>
+    <mtime>1568078383</mtime>
+    <size>5865</size>
+    <md5>6cfd8b6b6c184d67a022324bd0608ace</md5>
+    <crc32>4aa60aec</crc32>
+    <sha1>83ffcaac366917d2aeb2dd1e9d3291e12644d546</sha1>
+  </file>
+</files>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory_Doctorow_Podcast_233_Doubling_Down_on_DRM.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>835.24</length>
+    <mtime>1344968223</mtime>
+    <size>16704828</size>
+    <md5>75ffe0fd9a1b148c7acc1aa3f02c0896</md5>
+    <crc32>ca23b18a</crc32>
+    <sha1>b3b0d2f1f9f50f2fd55efaad3e1d7e9c01300e9f</sha1>
+    <height>0</height>
+    <width>0</width>
+    <artist>Cory Doctorow</artist>
+    <genre>Podcast</genre>
+    <title>Doubling Down on DRM</title>
+    <album>http://craphound.com/podcast.php</album>
+    <external-identifier>urn:acoustid:2216b419-fdc4-41e2-b4fe-f2cd59c27aaf</external-identifier>
+    <external-identifier-match-date>acoustid:2019-04-11T04:45:05Z</external-identifier-match-date>
+  </file>
+  <file name="Cory_Doctorow_Podcast_233_Doubling_Down_on_DRM.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Cory_Doctorow_Podcast_233_Doubling_Down_on_DRM.mp3</original>
+    <mtime>1415392160</mtime>
+    <size>8948984</size>
+    <md5>ca4f086c4af5bddf911a9add076137ff</md5>
+    <crc32>b133e18a</crc32>
+    <sha1>42a23154868a1d83eb9105f0abda29d6076dafaf</sha1>
+    <length>835.03</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cory_Doctorow_Podcast_233_Doubling_Down_on_DRM.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_233_Doubling_Down_on_DRM.mp3</original>
+    <mtime>1415392204</mtime>
+    <size>8515</size>
+    <md5>1549d7a63f85ae6fb8cde64d7c9fae34</md5>
+    <crc32>8752e7f3</crc32>
+    <sha1>a075571f9dee55ed70298055f4e292bf5019f4ab</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_233_Doubling_Down_on_DRM_64kb.mp3" source="derivative">
+    <creator>Cory Doctorow</creator>
+    <title>Doubling Down on DRM</title>
+    <album>http://craphound.com/podcast.php</album>
+    <genre>Podcast</genre>
+    <bitrate>64</bitrate>
+    <length>13:55</length>
+    <format>64Kbps MP3</format>
+    <original>Cory_Doctorow_Podcast_233_Doubling_Down_on_DRM.mp3</original>
+    <mtime>1415392111</mtime>
+    <size>6682112</size>
+    <md5>d08d5dd7c2b284fbe68544a4215851f9</md5>
+    <crc32>78d941a1</crc32>
+    <sha1>378c9036e26442eeacb02bf35966f3d82b75587e</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cory_Doctorow_Podcast_233_archive.torrent" source="metadata">
+    <btih>c2d2932f3ca2a4c12a5914c26d8f33b9466dd4f1</btih>
+    <mtime>1554957914</mtime>
+    <size>3592</size>
+    <md5>242f2f7801a9f8790a58a8582cb19dd1</md5>
+    <crc32>aedabe1c</crc32>
+    <sha1>34798daad0576428a29fd6b42cf6e17925cca3c8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_233_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>cb3c88e64d89738110dc06c4db41c5aa</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Cory_Doctorow_Podcast_233_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1708225182</mtime>
+    <size>3256</size>
+    <md5>b05eeabf4004ba8829d3bdfa507f770a</md5>
+    <crc32>5cd6bcdc</crc32>
+    <sha1>49918f48a9f087fbad3f82e0966ec7ebf49d6171</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1534663546</mtime>
+    <size>2638</size>
+    <md5>eef0e80aeefbd76018d41c55a75ef471</md5>
+    <crc32>fa6ff0f5</crc32>
+    <sha1>a1d60f9ee8dee5900a90cf14a82c4a5d62f29b88</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

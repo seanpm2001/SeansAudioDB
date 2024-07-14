@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory Doctorow 2014.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>2328.22</length>
+    <height>0</height>
+    <width>0</width>
+    <mtime>1402657366</mtime>
+    <size>55877890</size>
+    <md5>746f4ef1e8bf3968df637bd221d79f3a</md5>
+    <crc32>e9186789</crc32>
+    <sha1>a70cc8e512513597e04c4b8ed264a2a15ca6adac</sha1>
+    <title>Cory Doctorow keynote</title>
+    <artist>Free Word</artist>
+    <external-identifier>urn:acoustid:unknown</external-identifier>
+  </file>
+  <file name="Cory Doctorow 2014.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Cory Doctorow 2014.mp3</original>
+    <mtime>1402657524</mtime>
+    <size>24407258</size>
+    <md5>4df7160d9659b3e85a69c1f6d4fff07d</md5>
+    <crc32>3eeb84c1</crc32>
+    <sha1>16c30dacf0fa0aadfcde2cfc02bd9ba358f2c6e0</sha1>
+    <length>2328.19</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cory Doctorow 2014.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory Doctorow 2014.mp3</original>
+    <mtime>1414386632</mtime>
+    <size>10232</size>
+    <md5>50dcb7646118ca3d8b21ed91d3781c49</md5>
+    <crc32>9ec08422</crc32>
+    <sha1>93de97229fa3c4d77f5da068e92dd0078d205055</sha1>
+  </file>
+  <file name="Cory Doctorow 2014_64kb.mp3" source="derivative">
+    <creator>Free Word</creator>
+    <title>Cory Doctorow keynote</title>
+    <bitrate>64</bitrate>
+    <length>38:48</length>
+    <format>64Kbps MP3</format>
+    <original>Cory Doctorow 2014.mp3</original>
+    <mtime>1402657435</mtime>
+    <size>18627072</size>
+    <md5>7fc0e821344dbe92a07d1407d5650b10</md5>
+    <crc32>370bb973</crc32>
+    <sha1>c34dcc5c4416f5c5f6ae1a924c563a55676587be</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="CoryDoctorow2014_archive.torrent" source="metadata">
+    <btih>54bced726c7ca99e8e450c056548c330e433ecfa</btih>
+    <mtime>1534463822</mtime>
+    <size>6133</size>
+    <md5>8f04662d5143093db8380760081eb89c</md5>
+    <crc32>9810765d</crc32>
+    <sha1>670f8a0c3ce8342f9d901168517586904d268b82</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="CoryDoctorow2014_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ed30cf1df5f4eda8aca7bdc2ed1ff3df</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="CoryDoctorow2014_meta.sqlite" source="original">
+    <format>Metadata</format>
+    <mtime>1402657381</mtime>
+    <size>12288</size>
+    <md5>b3610f131080c86ae495122379ce16ec</md5>
+    <crc32>ff2a00b6</crc32>
+    <sha1>2fe587da027767f136712485d2e3983d7dab282c</sha1>
+  </file>
+  <file name="CoryDoctorow2014_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1710007759</mtime>
+    <size>1649</size>
+    <md5>b092af180e6d53c31613826175a7fe38</md5>
+    <crc32>b19c451f</crc32>
+    <sha1>eaeba3430e804b5ff9968171c7123f5af42e1f97</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1534463821</mtime>
+    <size>2750</size>
+    <md5>a1c02066dd5705d8ae7176c556259a19</md5>
+    <crc32>1bb77502</crc32>
+    <sha1>852156dba2317c6aa1e4d2326372e1caa6dc11ea</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

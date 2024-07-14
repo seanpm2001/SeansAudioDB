@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory_Doctorow_Podcast_224_A_Whip_to_Beat_Us_With.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>828.62</length>
+    <mtime>1333376160</mtime>
+    <size>19886961</size>
+    <md5>44693468c31564c94260bb0181aea575</md5>
+    <crc32>24a3812d</crc32>
+    <sha1>91ecc785e71a07266e16bd0e1e71f2faf0118c96</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>A Whip to Beat Us With</title>
+    <album>http://craphound.com/podcast.php</album>
+    <artist>Cory Doctorow</artist>
+    <genre>Podcast</genre>
+    <external-identifier>urn:acoustid:bb2b96ba-ed16-4a4d-86f5-c081b3ebb2de</external-identifier>
+  </file>
+  <file name="Cory_Doctorow_Podcast_224_A_Whip_to_Beat_Us_With.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Cory_Doctorow_Podcast_224_A_Whip_to_Beat_Us_With.mp3</original>
+    <mtime>1414383020</mtime>
+    <size>9100550</size>
+    <md5>ac4aa568ff57788f01db1eb5c47889c2</md5>
+    <crc32>3b972b32</crc32>
+    <sha1>72534e2684353eb2ec78d5f2e938119a2027c3a3</sha1>
+    <length>828.45</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cory_Doctorow_Podcast_224_A_Whip_to_Beat_Us_With.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_224_A_Whip_to_Beat_Us_With.mp3</original>
+    <mtime>1414383064</mtime>
+    <size>7952</size>
+    <md5>16213feafb71d13c39f4a617b50d89da</md5>
+    <crc32>5288bf90</crc32>
+    <sha1>5589dc3c1cff8f7cbb3831b0861cb917781a9ac7</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_224_A_Whip_to_Beat_Us_With_64kb.mp3" source="derivative">
+    <creator>Cory Doctorow</creator>
+    <title>A Whip to Beat Us With</title>
+    <album>http://craphound.com/podcast.php</album>
+    <genre>Podcast</genre>
+    <bitrate>64</bitrate>
+    <length>13:48</length>
+    <format>64Kbps MP3</format>
+    <original>Cory_Doctorow_Podcast_224_A_Whip_to_Beat_Us_With.mp3</original>
+    <mtime>1414382959</mtime>
+    <size>6629376</size>
+    <md5>d54017e4caf2f387aa290898b9090613</md5>
+    <crc32>7030edd8</crc32>
+    <sha1>cecac2a564853875db72032352e2a337a97575bf</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cory_Doctorow_Podcast_224_archive.torrent" source="metadata">
+    <btih>2c2dd0097e7390041e3df653c429304cfb0b91c0</btih>
+    <mtime>1534464025</mtime>
+    <size>3720</size>
+    <md5>bd1a485663cf1bb134eeb5f544967916</md5>
+    <crc32>fc688c55</crc32>
+    <sha1>5b08f2b2293796bc16751933e51b9bba579f7683</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_224_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e43fd595ae492c86ef838e789cff5702</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Cory_Doctorow_Podcast_224_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1708980616</mtime>
+    <size>3426</size>
+    <md5>43b238fdb4840fdfd526b9a8c259ac5d</md5>
+    <crc32>d590e9c6</crc32>
+    <sha1>44fbd4c11976f5ed37d366005b90f21758d4d423</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1534464024</mtime>
+    <size>2247</size>
+    <md5>cf3f9d2976e02a816383bafc8b40bd93</md5>
+    <crc32>f8b8afc2</crc32>
+    <sha1>1613beb0600cd75be352dd1599bef49e77899017</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

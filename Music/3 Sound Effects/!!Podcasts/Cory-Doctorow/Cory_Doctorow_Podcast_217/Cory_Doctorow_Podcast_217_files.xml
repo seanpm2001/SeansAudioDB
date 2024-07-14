@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory_Doctorow_Podcast_217_An_Urgent_Christmas_Message.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>170.75</length>
+    <mtime>1324296739</mtime>
+    <size>3415104</size>
+    <md5>1a9c0a351672362aac8efdc031757f30</md5>
+    <crc32>65a1cf0c</crc32>
+    <sha1>b5762227f0acc5bfedbb11e9455beee31c0835e9</sha1>
+    <title>An Urgent Christmas Message</title>
+    <creator>Cory Doctorow</creator>
+    <album>http://craphound.com/podcast.php</album>
+    <height>0</height>
+    <width>0</width>
+    <artist>Cory Doctorow</artist>
+    <genre>Podcast</genre>
+    <external-identifier>urn:acoustid:a4806e55-ecce-459c-b657-c542d018d9a1</external-identifier>
+  </file>
+  <file name="Cory_Doctorow_Podcast_217_An_Urgent_Christmas_Message.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Cory_Doctorow_Podcast_217_An_Urgent_Christmas_Message.mp3</original>
+    <mtime>1414072488</mtime>
+    <size>1899081</size>
+    <md5>2fa6ae89beb996a511dbbcb431965ad7</md5>
+    <crc32>48ccbfc2</crc32>
+    <sha1>c2697a343440e164ad13d71fa8865ac65b6cb24d</sha1>
+    <length>170.54</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cory_Doctorow_Podcast_217_An_Urgent_Christmas_Message.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_217_An_Urgent_Christmas_Message.mp3</original>
+    <mtime>1414072494</mtime>
+    <size>11944</size>
+    <md5>51749ca6be6bd41192da2f1954cc2baf</md5>
+    <crc32>259dd211</crc32>
+    <sha1>8898007a8343170c575a1a2c62db848800939849</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_217_An_Urgent_Christmas_Message_64kb.mp3" source="derivative">
+    <creator>Cory Doctorow</creator>
+    <title>An Urgent Christmas Message</title>
+    <album>http://craphound.com/podcast.php</album>
+    <genre>Podcast</genre>
+    <bitrate>64</bitrate>
+    <length>02:50</length>
+    <format>64Kbps MP3</format>
+    <original>Cory_Doctorow_Podcast_217_An_Urgent_Christmas_Message.mp3</original>
+    <mtime>1414072477</mtime>
+    <size>1366016</size>
+    <md5>d64d82145713e36dce6fe9bf75a8d5e7</md5>
+    <crc32>50ef6e45</crc32>
+    <sha1>a39482af785e40abda1cb7cd4603f30544e9b88d</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cory_Doctorow_Podcast_217_archive.torrent" source="metadata">
+    <btih>ceb33f1b1364178134931044fdf5ac0e2b49c3e9</btih>
+    <mtime>1534464001</mtime>
+    <size>2639</size>
+    <md5>94d3024ccaa40717686c92175b07d57d</md5>
+    <crc32>a2df59c1</crc32>
+    <sha1>e00d6f36fb0bceda461b00fdb4ea9ac9aa924bdf</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_217_files.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>66ea60a1687d5b937538067d619f9a60</md5>
+  </file>
+  <file name="Cory_Doctorow_Podcast_217_meta.xml" source="metadata">
+    <format>Metadata</format>
+    <mtime>1534463998</mtime>
+    <size>1019</size>
+    <md5>fa484a8b198c9a0baefdb57f08807a3f</md5>
+    <crc32>493d13ab</crc32>
+    <sha1>b50681cabbcb60567a5e3cb2eef68f9877d58a10</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1534464000</mtime>
+    <size>3213</size>
+    <md5>87c2a53b04b6145235b4869abcfe4c31</md5>
+    <crc32>0737d264</crc32>
+    <sha1>e903045d89cd297628d4002d2d093a865bd0feb6</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

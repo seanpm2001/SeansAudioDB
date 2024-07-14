@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory_Doctorow_Podcast_220_Digital_Lysenkoism.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>1010.38</length>
+    <mtime>1328552932</mtime>
+    <size>24249201</size>
+    <md5>a924b001aa6411936220cd809ecfcd08</md5>
+    <crc32>07e6c0a6</crc32>
+    <sha1>b803a85e61543c895176a116bdd803c3e7f47807</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Digital Lysenkoism</title>
+    <album>http://craphound.com/podcast.php</album>
+    <artist>Cory Doctorow</artist>
+    <track>001</track>
+    <external-identifier>urn:acoustid:c4351a6f-f1f0-494c-8e5c-8c1ae8009200</external-identifier>
+  </file>
+  <file name="Cory_Doctorow_Podcast_220_Digital_Lysenkoism.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Cory_Doctorow_Podcast_220_Digital_Lysenkoism.mp3</original>
+    <mtime>1415661371</mtime>
+    <size>10860416</size>
+    <md5>9c708962afd4e558a276a39c4949c788</md5>
+    <crc32>744a123e</crc32>
+    <sha1>ca0b15e03476f80c72973aa84e5203854f9020ef</sha1>
+    <length>1010.21</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cory_Doctorow_Podcast_220_Digital_Lysenkoism.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_220_Digital_Lysenkoism.mp3</original>
+    <mtime>1415661427</mtime>
+    <size>7614</size>
+    <md5>2ad17b2e6c544d8ff9a55bf48f6dd8d2</md5>
+    <crc32>65ec1a0c</crc32>
+    <sha1>93fdd977cb2dedd5e6d05079f6ec836c21ab53c8</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_220_Digital_Lysenkoism_64kb.mp3" source="derivative">
+    <creator>Cory Doctorow</creator>
+    <title>Digital Lysenkoism</title>
+    <track>001</track>
+    <album>http://craphound.com/podcast.php</album>
+    <bitrate>64</bitrate>
+    <length>16:50</length>
+    <format>64Kbps MP3</format>
+    <original>Cory_Doctorow_Podcast_220_Digital_Lysenkoism.mp3</original>
+    <mtime>1415661310</mtime>
+    <size>8083456</size>
+    <md5>d9df743e6c0d74ff48c8e765f9d9d797</md5>
+    <crc32>c4ae4d87</crc32>
+    <sha1>b448a97d31102418118877179a925adccf390845</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cory_Doctorow_Podcast_220_archive.torrent" source="metadata">
+    <btih>04dbcb2357f7fbec13504cb9573d386349290ab0</btih>
+    <mtime>1534663507</mtime>
+    <size>4005</size>
+    <md5>46564900bd8808ca66479d55736881ab</md5>
+    <crc32>be136e71</crc32>
+    <sha1>a3a59826f71c79d666d40423e0fa95ebceb81ee7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_220_files.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>4d04bcaa81be9c4841b4fc306a2634ae</md5>
+  </file>
+  <file name="Cory_Doctorow_Podcast_220_meta.xml" source="metadata">
+    <format>Metadata</format>
+    <mtime>1534663506</mtime>
+    <size>3228</size>
+    <md5>d658369ab8d2a20ca9b19c794bdfca3e</md5>
+    <crc32>3014213c</crc32>
+    <sha1>828234e48914b2692adcc2564931bec03470d0d1</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1534402576</mtime>
+    <size>2162</size>
+    <md5>4711af71ef8ec0cfa00f2bf9ed705ca8</md5>
+    <crc32>d61978af</crc32>
+    <sha1>6c098e5ff296391937a5ad445094594639399c08</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory_Doctorow_Podcast_214_Information_Doesnt_Want_to_Be_free.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>477.24</length>
+    <mtime>1318258038</mtime>
+    <size>11453824</size>
+    <md5>4be01e8984091a3ee1b64227464c00c5</md5>
+    <crc32>d76d9bc0</crc32>
+    <sha1>ba6b7ddfb5d10df73f0455bbd57158738dcfc866</sha1>
+    <height>0</height>
+    <width>0</width>
+    <artist>Cory Doctorow</artist>
+    <title>CDP_214_FMx1</title>
+    <album>The Cory Doctorow Podcast</album>
+    <external-identifier>urn:acoustid:1ff4b12a-e5b7-4bcb-8966-673fa974cc96</external-identifier>
+  </file>
+  <file name="Cory_Doctorow_Podcast_214_Information_Doesnt_Want_to_Be_free.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Cory_Doctorow_Podcast_214_Information_Doesnt_Want_to_Be_free.mp3</original>
+    <mtime>1415661327</mtime>
+    <size>5158805</size>
+    <md5>0284b2535e8fac84e39de2ce1b44d419</md5>
+    <crc32>ea5ea767</crc32>
+    <sha1>a9bd7a55450b868223d22c84e6404dd8126bd364</sha1>
+    <length>477.07</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cory_Doctorow_Podcast_214_Information_Doesnt_Want_to_Be_free.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_214_Information_Doesnt_Want_to_Be_free.mp3</original>
+    <mtime>1415661361</mtime>
+    <size>9007</size>
+    <md5>9b2befeac23ebb450953005b6f703380</md5>
+    <crc32>89786240</crc32>
+    <sha1>6e1ceb218bb9179131158e36b3f599424fa4754e</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_214_Information_Doesnt_Want_to_Be_free_64kb.mp3" source="derivative">
+    <creator>Cory Doctorow</creator>
+    <title>CDP_214_FMx1</title>
+    <album>The Cory Doctorow Podcast</album>
+    <bitrate>64</bitrate>
+    <length>07:57</length>
+    <format>64Kbps MP3</format>
+    <original>Cory_Doctorow_Podcast_214_Information_Doesnt_Want_to_Be_free.mp3</original>
+    <mtime>1415661298</mtime>
+    <size>3817984</size>
+    <md5>d79a9ad6bdd2dc4f4c24b81a6d5f7ff3</md5>
+    <crc32>52c44042</crc32>
+    <sha1>f0e2855bec534c260eb20d34d23221e14c5aaa3a</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cory_Doctorow_Podcast_214_archive.torrent" source="metadata">
+    <btih>33faeb24460990086481259adde804c516d8287a</btih>
+    <mtime>1534663510</mtime>
+    <size>3187</size>
+    <md5>c5be7be78f1fbdcdac3cebc331fce3b2</md5>
+    <crc32>6499a6fe</crc32>
+    <sha1>7aeb676a5616560a73f7ef56834f21086dda5a71</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_214_files.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>af83e9b401be3f53ff60d7f9a27be528</md5>
+  </file>
+  <file name="Cory_Doctorow_Podcast_214_meta.xml" source="metadata">
+    <format>Metadata</format>
+    <mtime>1534663508</mtime>
+    <size>1550</size>
+    <md5>2bbf2f113d4fdc9ccd7d400832829783</md5>
+    <crc32>61f00763</crc32>
+    <sha1>61367cb00b96264eaed96378e3a4f319c78179ce</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1534402568</mtime>
+    <size>2561</size>
+    <md5>e2d816b55c7004080489176c364683de</md5>
+    <crc32>13caf54e</crc32>
+    <sha1>0cbeb367e673bd7533bba3542fd6df8adc0c3fe0</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

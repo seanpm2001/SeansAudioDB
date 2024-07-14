@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory_Doctorow_Podcast_232_Music_the_Internets_Original_Sin.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>882.04</length>
+    <mtime>1341897921</mtime>
+    <size>21169051</size>
+    <md5>25bb26e9e51a7dc86698b52fa004f817</md5>
+    <crc32>187f57ef</crc32>
+    <sha1>610788f529ae6a2490aa51e77b400ca645271f39</sha1>
+    <height>0</height>
+    <width>0</width>
+    <title>Music: The Internet's Original Sin</title>
+    <album>http://craphound.com/podcast.php</album>
+    <artist>Cory Doctorow</artist>
+    <genre>Podcast</genre>
+    <external-identifier-match-date>acoustid:2019-03-30T18:03:00Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:11dac7a8-a87a-4b21-b807-f75764672920</external-identifier>
+  </file>
+  <file name="Cory_Doctorow_Podcast_232_Music_the_Internets_Original_Sin.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Cory_Doctorow_Podcast_232_Music_the_Internets_Original_Sin.mp3</original>
+    <mtime>1415661357</mtime>
+    <size>9492109</size>
+    <md5>211e93e485d49bd0794beb2ab55af726</md5>
+    <crc32>5adca59f</crc32>
+    <sha1>770d2aa0bd2cfd259febf5556cffe879c03f5735</sha1>
+    <length>881.87</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cory_Doctorow_Podcast_232_Music_the_Internets_Original_Sin.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_232_Music_the_Internets_Original_Sin.mp3</original>
+    <mtime>1415661404</mtime>
+    <size>8599</size>
+    <md5>eb43a31bc37a32e42eff839023f44c8e</md5>
+    <crc32>eb83b65c</crc32>
+    <sha1>5416b9f1823154cc959a9b14d993ed276f7b4912</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_232_Music_the_Internets_Original_Sin_64kb.mp3" source="derivative">
+    <creator>Cory Doctorow</creator>
+    <title>Music: The Internet's Original Sin</title>
+    <album>http://craphound.com/podcast.php</album>
+    <genre>Podcast</genre>
+    <bitrate>64</bitrate>
+    <length>14:41</length>
+    <format>64Kbps MP3</format>
+    <original>Cory_Doctorow_Podcast_232_Music_the_Internets_Original_Sin.mp3</original>
+    <mtime>1415661311</mtime>
+    <size>7056896</size>
+    <md5>27fedf891d46b188a3c049aee2f602ab</md5>
+    <crc32>249a261a</crc32>
+    <sha1>69bf8ea0f736465f036ac673cff91b7e87afd5b6</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Cory_Doctorow_Podcast_232_archive.torrent" source="metadata">
+    <btih>cebdf06b70af426d7cabfab2b30672e007d6e694</btih>
+    <mtime>1553969000</mtime>
+    <size>3837</size>
+    <md5>c6238696127f46030f5ad69acf11b795</md5>
+    <crc32>447a860b</crc32>
+    <sha1>c2a1fac8ca153e8f97eb1fe45376474d1762e742</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_232_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>680a9163613c6a709077363154fd09b2</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Cory_Doctorow_Podcast_232_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1718226905</mtime>
+    <size>3949</size>
+    <md5>fe021b0fa46b541d5ce50b7378e52ba7</md5>
+    <crc32>b6232855</crc32>
+    <sha1>765318258922615d4491aa1c168faedad66456c5</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1534464041</mtime>
+    <size>2238</size>
+    <md5>a41108b376c20aa64100f3d7a0ca0984</md5>
+    <crc32>140c1fca</crc32>
+    <sha1>57c09c0ece80dcad6e4c07b8334c33abf3dc0b7d</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory_Doctorow_Podcast_458_-_The_Internets_Original_Sin.mp3" source="original">
+    <mtime>1702841832</mtime>
+    <size>21022720</size>
+    <md5>32b00e730cf058141e77c7a5c28b2122</md5>
+    <crc32>2803c26e</crc32>
+    <sha1>a5405a461dd64ea5960345780f09a898e3af0b2f</sha1>
+    <format>VBR MP3</format>
+    <length>870.43</length>
+    <title>The Internet's Original Sin</title>
+    <creator>Cory Doctorow</creator>
+    <album>The Cory Doctorow Podcast</album>
+    <track>01</track>
+    <artist>Cory Doctorow</artist>
+    <genre>Podcast</genre>
+    <comment>000005C0 000005C0 000091DE 000091DE 00052714 00052714 00007BA7 00007BA7 00002DEB 000087D0</comment>
+  </file>
+  <file name="Cory_Doctorow_Podcast_458_-_The_Internets_Original_Sin.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_458_-_The_Internets_Original_Sin.mp3</original>
+    <mtime>1702842176</mtime>
+    <size>43183</size>
+    <md5>d96272aedc98876a74e6554987871802</md5>
+    <crc32>0efcd617</crc32>
+    <sha1>a02afd9d296fbb8ca16e8d67c60314a98ecaf79e</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_458_-_The_Internets_Original_Sin_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Cory_Doctorow_Podcast_458_-_The_Internets_Original_Sin.mp3</original>
+    <mtime>1702842350</mtime>
+    <size>307142</size>
+    <md5>2d911a77b9d040a36363084f595d3494</md5>
+    <crc32>33ba4a93</crc32>
+    <sha1>a845f84a94eb9addfc81f874e54a3f48c36f05cb</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_458_archive.torrent" source="metadata">
+    <btih>0832082965a6365552c0738d4ad18a95290e653f</btih>
+    <mtime>1702899851</mtime>
+    <size>3591</size>
+    <md5>87e88c4ad871ae8e97a0b5fb0ea3e1ce</md5>
+    <crc32>042abb15</crc32>
+    <sha1>1e6b815045aede65032fbb9e4ec97b62de219921</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_458_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>eb2a17a530b8fcc2847f64118b3533cd</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Cory_Doctorow_Podcast_458_meta.sqlite" source="original">
+    <mtime>1702841888</mtime>
+    <size>36864</size>
+    <md5>7bb828a9443591c5cefef5b9e6931264</md5>
+    <crc32>7c6f39fb</crc32>
+    <sha1>db8b33a6f9358bbc58aa5b9e7674dd28f7225f7b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_458_meta.xml" source="original">
+    <mtime>1702899848</mtime>
+    <size>2547</size>
+    <md5>3ad9bcab7d196d7c8e27d49bae3b1c9f</md5>
+    <crc32>a1c0cbfe</crc32>
+    <sha1>e8c7f317e27b01fbd96c505d824149622e5dcb2e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1702841893</mtime>
+    <size>9871</size>
+    <md5>f2018a496a1f36ca67a7adaec69d5b1c</md5>
+    <crc32>ff5a69f6</crc32>
+    <sha1>d982aadb5c5277e4ddb87167c786674441e66edd</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="pacman-copyright.jpg" source="original">
+    <mtime>1702841844</mtime>
+    <size>131123</size>
+    <md5>2629da19288e988a0a83cdf67105990a</md5>
+    <crc32>c85ee6ae</crc32>
+    <sha1>8869dc2b03d79dbb53a5a98587545aea19e8d0c3</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="pacman-copyright_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>pacman-copyright.jpg</original>
+    <mtime>1702842044</mtime>
+    <size>8604</size>
+    <md5>11e3f67bcfdfe15b1ccbde23bf8c974a</md5>
+    <crc32>6c057c71</crc32>
+    <sha1>c1db304b45892cd721f9939519f9d42935f0f50c</sha1>
+  </file>
+</files>
