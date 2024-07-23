@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Calvin-Harris_How-deep-is-your-love/AudioOnly/M4A/Calvin%20Harris%20&amp;%20Disciples%20-%20How%20Deep%20Is%20Your%20Love%20[EgqUJOudrcM].m4a</location>
+			<duration>260575</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Calvin-Harris_How-deep-is-your-love/AudioOnly/M4A/Calvin%20Harris%20&amp;%20Disciples%20-%20How%20Deep%20Is%20Your%20Love%20(Audio)%20[qWWSM3wCiKY].m4a</location>
+			<duration>212788</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/French-Accordion-Traditionell-Musette/MP3/French-Accordian-Traditionell-Musette.mp3</location>
+			<title>French-Accordian-Traditionell-Musette.mp3</title>
+			<creator>France</creator>
+			<album>Traditionell Musette</album>
+			<trackNum>1</trackNum>
+			<annotation>The classic theme song of France.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/France/Traditionell%20Musette/art.png</image>
+			<duration>144387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Pregon-Canastero-(Bulerias-del-Piliya)/MP3/Pregon-Canastero_(Bulerias-del-Piliya).mp3</location>
+			<title>Pregon-Canastero_(Bulerias-del-Piliya).mp3</title>
+			<creator>Pregon Canastero</creator>
+			<album>Bulerias del Piliya</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Pregon Canastero by Bulerias del Piliya.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Pregon%20Canastero/Bulerias%20del%20Piliya/art.jpg</image>
+			<duration>311128</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stereotypical-music-from-around-the-world/MP3/(BEST-VERSION)-Stereotypical-Music-Around-The-World.mp3</location>
+			<title>(BEST-VERSION)-Stereotypical-Music-Around-The-World.mp3</title>
+			<creator>YouTubeUser:PlaneZap</creator>
+			<album>Stereotypical Music from around the world</album>
+			<trackNum>1</trackNum>
+			<annotation>A collection of 45 songs of various stereotypical music from around the world. It really helped fill holes in my music collection</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/YouTubeUser_PlaneZap/Stereotypical%20Music%20from%20around%20the%20world/art.png</image>
+			<duration>918872</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tri-Radi/MP3/Tri-Radi.mp3</location>
+			<title>Tri-Radi.mp3</title>
+			<creator>Bulgaria</creator>
+			<album>Tri Radi</album>
+			<trackNum>1</trackNum>
+			<annotation>I cannot determine the year or artist of this song. Also, the instrumental to this song creeps me out a bit.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Bulgaria/Tri%20Radi/art.jpg</image>
+			<duration>147261</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tarantella-Napoletana/MP3/Tarantella-Napoletana.mp3</location>
+			<title>Tarantella-Napoletana.mp3</title>
+			<creator>Italy</creator>
+			<album>Tarantella Napoletana</album>
+			<trackNum>1</trackNum>
+			<annotation>I am unable to find good information on the artist, the date, and the genre.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Italy/Tarantella%20Napoletana/art.jpg</image>
+			<duration>162360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
