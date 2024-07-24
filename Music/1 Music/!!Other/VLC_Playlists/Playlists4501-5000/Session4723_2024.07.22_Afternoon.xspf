@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/99Luftballons/AudioOnly/MP3/99%20Luftballons-TMSlTQmDLx4.mp3</location>
+			<duration>228520</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!German_Music/S%C3%A4ngerkrieg/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20S%C3%A4ngerkrieg%20[zsna24QXqLM].m4a</location>
+			<duration>193005</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!German_Music/How-far-I&#39;ll-go-[English-and-German]/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20How%20far%20I%C2%B4ll%20go%20[english%20and%20german]%20[klx6-ITE2zM].m4a</location>
+			<duration>131425</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!German_Music/Liebe-ist-meine-Rebbellion/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Liebe%20ist%20meine%20Rebbellion%20[tGu9NGmtY-8].m4a</location>
+			<duration>171433</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!German_Music/Tanzen-im-Regen/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Tanzen%20im%20Regen%20[aaujJchcLHY].m4a</location>
+			<duration>172153</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20V/MP3/Metal-Gear-Solid%20V_The-Phantom-Pain_Nuclear.mp3</location>
+			<title>Metal-Gear-Solid V_The-Phantom-Pain_Nuclear.mp3</title>
+			<creator>Konami</creator>
+			<album>Metal Gear Solid V - The Phantom Pain soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Nuclear&quot; from the video game Metal Gear Solid V - The Phantom Pain</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Metal%20Gear%20Solid%20V%20-%20The%20Phantom%20Pain%20soundtrack/art.jpg</image>
+			<duration>302847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
