@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Llamas%20with%20hats%20theme/MP3/Llamas-with-hats_Main-theme.mp3</location>
+			<title>Llamas-with-hats_Main-theme.mp3</title>
+			<creator>FilmCow / Chris Alex and Jason Steele</creator>
+			<album>Llamas with hats</album>
+			<trackNum>1</trackNum>
+			<annotation>The first theme song for the Llamas with hats video series</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/FilmCow%20_%20Chris%20Alex%20and%20Jason%20Steele/Llamas%20with%20hats/art.jpg</image>
+			<duration>27018</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Curb%20your%20enthusiasm%20theme/MP3/Curb-your-Enthusiasm-Theme.mp3</location>
+			<title>Curb-your-Enthusiasm-Theme.mp3</title>
+			<creator>Curb Your Enthusiasm</creator>
+			<album>Curb Your Enthusiasm Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Curb%20Your%20Enthusiasm/Curb%20Your%20Enthusiasm%20Soundtrack/art.png</image>
+			<duration>67430</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AncientMusic/MP3/Hurrian-Hymn-no.6_-_c.1400-B.C.mp3</location>
+			<title>Hurrian-Hymn-no.6_-_c.1400-B.C.mp3</title>
+			<creator>Unknown Hurrian Musician</creator>
+			<album>Hurrian Hymns</album>
+			<trackNum>1</trackNum>
+			<annotation>The song is dated to about 1400 BC, but VLC won&#39;t let me write a date with negative numbers, more than 4 digits, or letters, so I defaulted to 0000. I also got a GIF (non-animated) file to work as the preview for this album. This is the oldest known song in the world and comes from the Ancient Hurrian people.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown%20Hurrian%20Musician/Hurrian%20Hymns/art</image>
+			<duration>342449</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Osiris/MP3/Ancient-Egyptian-Music-Osiris.mp3</location>
+			<title>Ancient-Egyptian-Music-Osiris.mp3</title>
+			<creator>Ancient Egypt</creator>
+			<album>Osiris</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Osiris, composed in Ancient Egypt thousands of years ago.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ancient%20Egypt/Osiris/art.jpg</image>
+			<duration>198931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Salve-Regina_Hail-Holy-Queen/MP3/Salve-Regina_Hail-Holy-Queen.mp3</location>
+			<title>Salve-Regina_Hail-Holy-Queen.mp3</title>
+			<creator>Salve Regina</creator>
+			<album>Hail Holy Queen</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Hail Holy Queen, part of Salve Regina. A Latin song from Medieval Europe, recomposed in the 1950s.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Salve%20Regina/Hail%20Holy%20Queen/art.jpg</image>
+			<duration>118892</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Conor-and-Jay_Change/AudioOnly/M4A/GTA%20III%20-%20Head%20Radio%20%20%EF%BC%8A%EF%BC%8AConor%20&amp;%20Jay%20-%20Change%EF%BC%8A%EF%BC%8A%20[vjamwACI2MI].m4a</location>
+			<duration>249847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/CityVille/MP3/CityVille_Theme_Song.mp3</location>
+			<title>CityVille_Theme_Song.mp3</title>
+			<creator>Zynga</creator>
+			<album>CityVille Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Zynga/CityVille%20Soundtrack/art.png</image>
+			<duration>98464</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
