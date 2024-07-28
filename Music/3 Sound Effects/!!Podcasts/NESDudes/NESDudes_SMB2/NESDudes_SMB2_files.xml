@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="NESDudes_SMB2_archive.torrent" source="metadata">
+    <btih>a8c3423c46085e936985a82e2e09ce69373cde46</btih>
+    <mtime>1552953988</mtime>
+    <size>10315</size>
+    <md5>0cac565912851dbfc4dbbc5ff815d465</md5>
+    <crc32>e4748b83</crc32>
+    <sha1>253782f6bac84e3277d6e0f8ebb95189e9dad10a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="NESDudes_SMB2_files.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>6d934ac3a4b533c1d87cc43b56053ffc</md5>
+  </file>
+  <file name="NESDudes_SMB2_meta.sqlite" source="original">
+    <mtime>1426863516</mtime>
+    <size>18432</size>
+    <md5>788211cd403309a524b89e42f16e9567</md5>
+    <crc32>f9a7438c</crc32>
+    <sha1>6b366034f7f9817db364cc85ad245d792eaef237</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="NESDudes_SMB2_meta.xml" source="metadata">
+    <mtime>1552953986</mtime>
+    <size>5631</size>
+    <format>Metadata</format>
+    <md5>3743d3d79f93fa769968a909c0f0f885</md5>
+    <crc32>d4ddfd54</crc32>
+    <sha1>97b604e95be5137dff267a56c1b49a4cfef2bb29</sha1>
+  </file>
+  <file name="SMB2 HD.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>SMB2 HD.mp3</original>
+    <mtime>1426864339</mtime>
+    <size>640256</size>
+    <md5>b876d956f1f44ce5c9cc651f8d972e2b</md5>
+    <crc32>423805af</crc32>
+    <sha1>e20adf2042ffb4e739f63b4fdece3fae59db5f02</sha1>
+  </file>
+  <file name="SMB2 HD.mp3" source="original">
+    <mtime>1426863492</mtime>
+    <size>143091712</size>
+    <md5>900951ccf4b7a6a65a5938296606ec70</md5>
+    <crc32>7d623e50</crc32>
+    <sha1>b46c82e38ee61725aa17f3421fa90872b9bee680</sha1>
+    <format>VBR MP3</format>
+    <length>4769.1</length>
+    <height>1400</height>
+    <width>1400</width>
+    <artist>2 Dudes and a NES</artist>
+    <album>2 Dudes and a NES</album>
+    <title>Super Mario Bros. 2</title>
+    <track>1</track>
+    <genre>Podcast</genre>
+    <creator>2 Dudes and a NES</creator>
+    <external-identifier-match-date>acoustid:2019-03-18T21:08:33Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:ff93da4e-1f8d-4276-9c37-63021ce6d73d</external-identifier>
+  </file>
+  <file name="SMB2 HD.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>SMB2 HD.mp3</original>
+    <mtime>1426863726</mtime>
+    <size>51907886</size>
+    <md5>da83de2e5bb39536fd12e8d17621e2d2</md5>
+    <crc32>745c004d</crc32>
+    <sha1>ce5d679f5320c043e73dc3c1d63425f25f8dd65c</sha1>
+    <length>4769.07</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="SMB2 HD.png" source="derivative">
+    <format>PNG</format>
+    <original>SMB2 HD.mp3</original>
+    <mtime>1426863773</mtime>
+    <size>11666</size>
+    <md5>fd04c4323d32a6c6c2832ba0d2adfad6</md5>
+    <crc32>25784bb9</crc32>
+    <sha1>6b6896d2b78ba57306f371a59d20ac39110fbbad</sha1>
+  </file>
+  <file name="SMB2 HD_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>SMB2 HD.mp3</original>
+    <mtime>1426863812</mtime>
+    <size>306099</size>
+    <md5>99c851965fdff35f3f481379c5f2c9f9</md5>
+    <crc32>c07fcc26</crc32>
+    <sha1>92dd9d6360387fdd6b1ab76a809c1bcd6fa459f8</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1534473533</mtime>
+    <size>21158</size>
+    <md5>57303920421a58b18ed091df8842ecf1</md5>
+    <crc32>f0a19c5a</crc32>
+    <sha1>53166a9d0e9bc0516076fba49f76b7d33dc9ebc9</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="super_mario_bros_2.jpg" source="original">
+    <mtime>1426863506</mtime>
+    <size>440029</size>
+    <md5>a57d05fbc92fa46fde3821ea6a80589b</md5>
+    <crc32>75a6754a</crc32>
+    <sha1>5faa30d0113f3392ed65f5486c3fd1af58f6a917</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="super_mario_bros_2_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>super_mario_bros_2.jpg</original>
+    <mtime>1426863728</mtime>
+    <size>10426</size>
+    <md5>ca33b337b039a0d7e73e67e1f417fbe5</md5>
+    <crc32>628a1082</crc32>
+    <sha1>81c97caf516d538fe7515945bb72d0e0635f5a7f</sha1>
+  </file>
+</files>
