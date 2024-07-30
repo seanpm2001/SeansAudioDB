@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal/Want%20You%20Gone%20(feat.%20the%20Elegant%20Too)%20-%20YouTube.webm</location>
+			<duration>141520</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal/Want%20You%20Gone%20-%20Portal%202%20Ending%20Credits%20Song%20-%20Laura%20Shigihara.mp4</location>
+			<duration>132910</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/FLAC/Portal-01-Subject_Name_Here.flac</location>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/FLAC/cover.png</image>
+			<duration>104715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/FLAC/Portal-02-Taste_of_Blood.flac</location>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/FLAC/cover.png</image>
+			<duration>186411</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/Portal%20-%20You&#39;re%20Not%20A%20Good%20Person%20-%20Remix.mp4</location>
+			<duration>282517</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/Portal%20Still%20Alive%20-%20Rock%20Remix%20Cover.mp4</location>
+			<duration>163978</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
