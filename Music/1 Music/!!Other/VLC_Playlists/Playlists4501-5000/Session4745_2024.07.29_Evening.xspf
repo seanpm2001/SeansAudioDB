@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/FLAC/Portal-01-Subject_Name_Here.flac</location>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/FLAC/cover.png</image>
+			<duration>104715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/FLAC/Portal-02-Taste_of_Blood.flac</location>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/FLAC/cover.png</image>
+			<duration>186411</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/FLAC/Portal-03-Android_Hell.flac</location>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/FLAC/cover.png</image>
+			<duration>225886</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Portal%20Series/Portal%201%20music/AudioOnly/FLAC/Portal-04-Self_Esteem_Fund.flac</location>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Portal%20Series/Portal%201%20music/AudioOnly/FLAC/cover.png</image>
+			<duration>210885</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20ELO%20-%20Mr.%20Blue%20Sky%20[Bardcore]%20medievel.m4a</location>
+			<duration>316882</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bardcore/AudioOnly/(No%20video)%20Billie%20Eilish%20-%20Bad%20guy%20[bardcore]%20medievel.webm</location>
+			<duration>166600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
