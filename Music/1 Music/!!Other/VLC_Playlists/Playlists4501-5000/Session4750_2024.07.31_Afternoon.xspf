@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charli-XCX/Brat/15%20365.m4a</location>
+			<title>365</title>
+			<creator>Charli XCX</creator>
+			<album>BRAT</album>
+			<trackNum>15</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Charli%20XCX/BRAT/art.jpg</image>
+			<duration>203685</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charli-XCX/Brat/14%20I%20think%20about%20it%20all%20the%20time.m4a</location>
+			<title>I think about it all the time</title>
+			<creator>Charli XCX</creator>
+			<album>BRAT</album>
+			<trackNum>14</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Charli%20XCX/BRAT/art.jpg</image>
+			<duration>135929</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charli-XCX/Brat/01%20360.m4a</location>
+			<title>360</title>
+			<creator>Charli XCX</creator>
+			<album>BRAT</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Charli%20XCX/BRAT/art.jpg</image>
+			<duration>133863</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charli-XCX/Brat/11%20Apple.m4a</location>
+			<title>Apple</title>
+			<creator>Charli XCX</creator>
+			<album>BRAT</album>
+			<trackNum>11</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Charli%20XCX/BRAT/art.jpg</image>
+			<duration>151788</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Silent%20Partner%20-%20Sad%20past/MP3/Silent-Partner_Sad-past.mp3</location>
+			<title>Silent-Partner_Sad-past.mp3</title>
+			<creator>Silent Partner</creator>
+			<album>Sad past</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;sad past&quot; by Silent Partner. I am unable to determine the year, so I guessed: 2015.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Silent%20Partner/Sad%20past/art.jpg</image>
+			<duration>141462</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
