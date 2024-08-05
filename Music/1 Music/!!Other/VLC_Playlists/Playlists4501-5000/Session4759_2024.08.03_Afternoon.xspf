@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/My-heart-will-go-on/MP3/Titanic-theme-song_Bad-recorder-remix.mp3</location>
+			<title>Titanic-theme-song_Bad-recorder-remix.mp3</title>
+			<creator>Shittyflute</creator>
+			<album>My heart will go on (Bad recorder remix)</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;My heart will go on&quot; poorly played on a recorder for comedic value.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shittyflute/My%20heart%20will%20go%20on%20%28Bad%20recorder%20remix%29/art.jpg</image>
+			<duration>255983</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Niklas%20Ahlstr%C3%B6m%20%E2%80%93%20Vanilla%20Urban%204/(No%20video)%20Niklas%20Ahlstr%C3%B6m%20%E2%80%93%20Vanilla%20Urban%204.m4a</location>
+			<duration>290620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Hell/MP3/Disturbed-Hell.mp3</location>
+			<title>Disturbed-Hell.mp3</title>
+			<creator>Disturbed</creator>
+			<album>Hell</album>
+			<trackNum>1</trackNum>
+			<annotation>Something that once scared me as a young child, the face was the scariest thing at the time, although I was brave and got past it. Ah 2009.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Disturbed/Hell/art.jpg</image>
+			<duration>252222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
