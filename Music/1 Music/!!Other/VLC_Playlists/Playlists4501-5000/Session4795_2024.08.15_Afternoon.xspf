@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/CaramelDansen/German/CaramelltanzenD.mp4</location>
+			<duration>175228</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/CaramelDansen/MP3/caramelldansen.mp3</location>
+			<title>caramelldansen.mp3</title>
+			<creator>Caramell</creator>
+			<album>SuperGott</album>
+			<trackNum>1</trackNum>
+			<annotation>I originally spelled this song wrong, there is 2 l&#39;s not 1. I spelled it Carameldansen, when it should have been Caramelldansen
+Despite the song originating in Sweden, the art style imitates the style of Japanese Anime.
+This song became an Internet meme in the mid 2000s.
+</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Caramell/SuperGott/art.jpg</image>
+			<duration>176858</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Mario-Sunshine-OST/73.%20Corona%20Mountain.flac</location>
+			<title>Corona Mountain</title>
+			<creator>Koji Kondo, Shinobu Tanaka</creator>
+			<album>Super Mario Sunshine Original Soundtrack</album>
+			<trackNum>73</trackNum>
+			<annotation>Rip by: furry bob</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Koji%20Kondo%2C%20Shinobu%20Tanaka/Super%20Mario%20Sunshine%20Original%20Soundtrack/art.jpg</image>
+			<duration>234529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Mario-Sunshine-OST/13.%20Underground.flac</location>
+			<title>Underground</title>
+			<creator>Koji Kondo, Shinobu Tanaka</creator>
+			<album>Super Mario Sunshine Original Soundtrack</album>
+			<trackNum>13</trackNum>
+			<annotation>Rip by: furry bob</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Koji%20Kondo%2C%20Shinobu%20Tanaka/Super%20Mario%20Sunshine%20Original%20Soundtrack/art.jpg</image>
+			<duration>38893</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Mario-Sunshine-OST/17.%20Bianco%20Hills.mp3</location>
+			<title>Bianco Hills</title>
+			<creator>Koji Kondo, Shinobu Tanaka</creator>
+			<album>Super Mario Sunshine Original Soundtrack</album>
+			<trackNum>17</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Koji%20Kondo%2C%20Shinobu%20Tanaka/Super%20Mario%20Sunshine%20Original%20Soundtrack/art.jpg</image>
+			<duration>162792</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
