@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song4.mp3</location>
+			<title>Virtual_City_Playground_OST_Song4.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>121687</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Virtual-City-Playground/MP3/Virtual_City_Playground_OST_Song3.mp3</location>
+			<title>Virtual_City_Playground_OST_Song3.mp3</title>
+			<creator>G5 Games</creator>
+			<album>Virtual City Playground OST</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/G5%20Games/Virtual%20City%20Playground%20OST/art.jpg</image>
+			<duration>136864</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Audionautix/Tech_Urban_Dance/Jason_Shaw_-_Boots_Boots_Boots.mp3</location>
+			<title>Boots Boots Boots</title>
+			<creator>Jason Shaw</creator>
+			<album>Audionautix: Tech, Urban, Dance</album>
+			<annotation>URL: http://freemusicarchive.org/music/Jason_Shaw/Audionautix_Tech_Urban_Dance/TU-BootsBootsBoots
+Comments: http://freemusicarchive.org/
+Curator: ccCommunity
+Copyright: Attribution 3.0 United States: http://creativecommons.org/licenses/by/3.0/us/</annotation>
+			<duration>118263</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Audionautix/Tech_Urban_Dance/Jason_Shaw_-_Cycles.mp3</location>
+			<title>Cycles</title>
+			<creator>Jason Shaw</creator>
+			<album>Audionautix: Tech, Urban, Dance</album>
+			<annotation>URL: http://freemusicarchive.org/music/Jason_Shaw/Audionautix_Tech_Urban_Dance/TU-Cycles
+Comments: http://freemusicarchive.org/
+Curator: ccCommunity
+Copyright: Attribution 3.0 United States: http://creativecommons.org/licenses/by/3.0/us/</annotation>
+			<duration>218621</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
