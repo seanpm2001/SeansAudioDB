@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/CatmooGNU/Freedom-catmoognu.ogx</location>
+			<duration>15233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/Kalimba/free-software-song-organ-kalimba.ogg</location>
+			<title>Free Software Song - kalimba version</title>
+			<creator>Vaba </creator>
+			<duration>46091</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/SC_FSF.flac</location>
+			<duration>45559</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/Daniel-Kelly/the_free_software_song-cover-by-daniel_kelly.mp3</location>
+			<annotation>https://archive.org/details/the_free_software_song-cover-by-daniel_kelly</annotation>
+			<duration>126936</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/Ecantorix/free-software-song-ecantorix.ogg</location>
+			<duration>30336</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/Fenster/Fenster-Free-Software-Song.ogg</location>
+			<title>Free Software Song</title>
+			<creator>Fenster</creator>
+			<duration>179581</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/Herzog/free-software-song-herzog.ogg</location>
+			<title>Free Software Song (Herzog)</title>
+			<duration>96246</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/Espa%C3%B1ol/Free_Software_Song_en_espa%C3%B1ol.ogx</location>
+			<duration>110777</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/Iv%C3%A1n%20Chavero%20y%20Renich%20-%20Canci%C3%B3n%20del%20Software%20Libre.ogg</location>
+			<title>Canción del software libre</title>
+			<creator>Iván Chavero y Renich</creator>
+			<duration>212824</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/jonobacon-freesoftwaresong2.ogg</location>
+			<title>Free Software Song 2</title>
+			<creator>Jono Bacon</creator>
+			<album>Released as a single</album>
+			<trackNum>1</trackNum>
+			<annotation>www.jonobacon.org</annotation>
+			<duration>198000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/Espa%C3%B1ol/Free_Software_Song_en_espa%C3%B1ol.ogx</location>
+			<duration>110777</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+	</extension>
+</playlist>
