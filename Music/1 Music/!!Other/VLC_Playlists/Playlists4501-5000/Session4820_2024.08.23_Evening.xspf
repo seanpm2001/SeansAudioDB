@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/Espa%C3%B1ol/Free_Software_Song_en_espa%C3%B1ol.ogx</location>
+			<duration>110777</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/freesoft.ogg</location>
+			<title>The Free Software Song</title>
+			<creator>Phoenix Imago</creator>
+			<album>52 To Change The World</album>
+			<trackNum>5</trackNum>
+			<duration>193627</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/loneload-free-software-song.ogg</location>
+			<duration>149777</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/markushaist-free-software-song.ogg</location>
+			<title>Free Software Song</title>
+			<creator>Markus Haist</creator>
+			<annotation>http://www.gnu.org/music/free-software-song.html</annotation>
+			<duration>150681</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/pjj-and-hairyone-freesoftwaresong.ogg</location>
+			<title>Free software song by Pjj &amp; Hairyone</title>
+			<creator>Pjj &amp; Hairyone</creator>
+			<annotation>Original song by Richard Stallman (gnu.org),Original song by Richard Stallman (gnu.org)</annotation>
+			<duration>172083</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/Daniel-Kelly/the_free_software_song-cover-by-daniel_kelly.mp3</location>
+			<annotation>https://archive.org/details/the_free_software_song-cover-by-daniel_kelly</annotation>
+			<duration>126936</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Snail%20Bob%20series/Snail%20Bob%201/MP3/Snail%20Bob%201%20-%20Main%20theme.mp3</location>
+			<duration>80039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Snail%20Bob%20series/Snail%20Bob%202/Snail%20Bob%202%20-%20Main%20theme.mp3</location>
+			<duration>90018</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
