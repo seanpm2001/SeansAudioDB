@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Brick-in-yo-face/MP3/Stitches_Brick-in-yo-face.mp3</location>
+			<title>Stitches_Brick-in-yo-face.mp3</title>
+			<creator>Stitches</creator>
+			<album>Brick in yo face</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Brick in Yo face&quot; by Rapper &quot;Stitches&quot; song introduced to me by a family member.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Stitches/Brick%20in%20yo%20face/art.jpg</image>
+			<duration>191330</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Deltarune/Chapter_2/AudioOnly/Album/AIFF/Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2001%20Faint%20Glow.aiff</location>
+			<title>Faint Glow</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>77315</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
