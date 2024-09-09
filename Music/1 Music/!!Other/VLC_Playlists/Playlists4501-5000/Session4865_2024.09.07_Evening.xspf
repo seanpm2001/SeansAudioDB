@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%208%20OST/Mario-Kart-8-Original-Sound-Track/Mario%20Kart%208%20Original%20Sound%20Track/Disc%201/01%20-%20Mario%20Kart%20Stadium.mp3</location>
+			<title>Mario Kart Stadium</title>
+			<creator>Yasuaki Iwata</creator>
+			<album>Mario Kart 8 Original Sound Track</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yasuaki%20Iwata/Mario%20Kart%208%20Original%20Sound%20Track/art.jpg</image>
+			<duration>130119</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%208%20OST/Mario-Kart-8-Original-Sound-Track/Mario%20Kart%208%20Original%20Sound%20Track/Disc%201/18%20-%20Wii%20Moo%20Moo%20Meadows.mp3</location>
+			<title>Wii Moo Moo Meadows</title>
+			<creator>Ryo Nagamatsu</creator>
+			<album>Mario Kart 8 Original Sound Track</album>
+			<trackNum>18</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ryo%20Nagamatsu/Mario%20Kart%208%20Original%20Sound%20Track/art.jpg</image>
+			<duration>130955</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%208%20OST/Mario-Kart-8-Original-Sound-Track/Mario%20Kart%208%20Original%20Sound%20Track/Disc%201/16%20-%20Bowser&#39;s%20Castle.mp3</location>
+			<title>Bowser&#39;s Castle</title>
+			<creator>Atsuko Asahi</creator>
+			<album>Mario Kart 8 Original Sound Track</album>
+			<trackNum>16</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Asahi/Mario%20Kart%208%20Original%20Sound%20Track/art.jpg</image>
+			<duration>153917</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%208%20OST/Mario-Kart-8-Original-Sound-Track/Mario%20Kart%208%20Original%20Sound%20Track/Disc%201/03%20-%20Sweet%20Sweet%20Canyon.mp3</location>
+			<title>Sweet Sweet Canyon</title>
+			<creator>Shiho Fujii</creator>
+			<album>Mario Kart 8 Original Sound Track</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiho%20Fujii/Mario%20Kart%208%20Original%20Sound%20Track/art.jpg</image>
+			<duration>123353</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
