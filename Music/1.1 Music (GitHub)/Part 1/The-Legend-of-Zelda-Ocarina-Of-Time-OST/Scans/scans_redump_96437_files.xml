@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1661789404</mtime>
+    <size>11048</size>
+    <md5>9eb425bbed784bc38911e47af0f9d2db</md5>
+    <crc32>78fa0a2f</crc32>
+    <sha1>b6fe979cd3e35cef19571ad17f8af26907b54946</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="cover.jpg" source="derivative">
+    <format>JPEG</format>
+    <original>cover.tif</original>
+    <mtime>1661789384</mtime>
+    <size>12094466</size>
+    <md5>ed829f616b52e5526dd8bd0accb1c145</md5>
+    <crc32>b65cf24f</crc32>
+    <sha1>352d99783719e233417bb189142a08d7099335f0</sha1>
+  </file>
+  <file name="cover.tif" source="original">
+    <mtime>1661789079</mtime>
+    <size>100035700</size>
+    <md5>f5ab566bdae0a0dcb24cde96fb02150d</md5>
+    <crc32>ae0d6e31</crc32>
+    <sha1>e3796dd8f2656497b9f3bc64b44ea30fbd2d8121</sha1>
+    <format>TIFF</format>
+  </file>
+  <file name="cover_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>cover.tif</original>
+    <mtime>1661789381</mtime>
+    <size>23209</size>
+    <md5>28c5fbcbbb758c20175a101a1bef3bf4</md5>
+    <crc32>4efbc8a1</crc32>
+    <sha1>ed11177e839d8f3d294e0d0af6d8c6c022553ab1</sha1>
+  </file>
+  <file name="disc.jpg" source="derivative">
+    <format>JPEG</format>
+    <original>disc.tif</original>
+    <mtime>1661789397</mtime>
+    <size>11885677</size>
+    <md5>48a1feaa824e6dfd0da973b05c9ec24d</md5>
+    <crc32>0f18089e</crc32>
+    <sha1>a51a3abee47b2275c825752676cbdc2b7ba7cb86</sha1>
+  </file>
+  <file name="disc.tif" source="original">
+    <mtime>1661789232</mtime>
+    <size>103845700</size>
+    <md5>1c317f0d1986ebfd7ad67527ebee4f78</md5>
+    <crc32>e39542a3</crc32>
+    <sha1>77a0f4a70e48e0ea7ce76821efa3bb3baf4907c7</sha1>
+    <format>TIFF</format>
+  </file>
+  <file name="disc_matrix.jpg" source="original">
+    <mtime>1661789237</mtime>
+    <size>1347280</size>
+    <md5>aa4b63c149e4b27b4180af1951eb65e1</md5>
+    <crc32>e96172e6</crc32>
+    <sha1>61f47dbc9a32f57060acdf77043a354924f74e35</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="disc_matrix_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>disc_matrix.jpg</original>
+    <mtime>1661789379</mtime>
+    <size>10407</size>
+    <md5>107ec2b70d841f3a73e2eebdbb53450a</md5>
+    <crc32>f1bb8d08</crc32>
+    <sha1>972750c0548a3e8460905466074b986463c4a035</sha1>
+  </file>
+  <file name="disc_rear.jpg" source="derivative">
+    <format>JPEG</format>
+    <original>disc_rear.tif</original>
+    <mtime>1661789391</mtime>
+    <size>3054282</size>
+    <md5>70de71619a3e0922589bc73416183ff8</md5>
+    <crc32>6cf33d6e</crc32>
+    <sha1>2090b69857e98ff24c12577d2df5c5e4f7713c86</sha1>
+  </file>
+  <file name="disc_rear.tif" source="original">
+    <mtime>1661789351</mtime>
+    <size>103845700</size>
+    <md5>55c85778d6ce710050593aa30bfae0ff</md5>
+    <crc32>6d708bbf</crc32>
+    <sha1>7d0c04b13ca34664ec1b008a32ecc0017dddcda1</sha1>
+    <format>TIFF</format>
+  </file>
+  <file name="disc_rear_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>disc_rear.tif</original>
+    <mtime>1661789388</mtime>
+    <size>19863</size>
+    <md5>8cf3449984e6a6ce7636e1f2b3df1be2</md5>
+    <crc32>ba73163d</crc32>
+    <sha1>221b578ee7639da5ed43a11096f350e93aeba71d</sha1>
+  </file>
+  <file name="disc_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>disc.tif</original>
+    <mtime>1661789395</mtime>
+    <size>24124</size>
+    <md5>d3f453617b92117088ea0a5c7a2112b0</md5>
+    <crc32>dca811d4</crc32>
+    <sha1>6a79de33be240738d2f9320532e2d47d798f495c</sha1>
+  </file>
+  <file name="inlay.jpg" source="derivative">
+    <format>JPEG</format>
+    <original>inlay.tif</original>
+    <mtime>1661794391</mtime>
+    <size>14244690</size>
+    <md5>2bb4296b90dab7944efd5376c6f7af82</md5>
+    <crc32>54db5253</crc32>
+    <sha1>937f584bf408d0ab8e346e521ff3c6a363064e33</sha1>
+  </file>
+  <file name="inlay.tif" source="original">
+    <mtime>1661794353</mtime>
+    <size>120979372</size>
+    <md5>eae4ab79f03205e30940f7fb51163d35</md5>
+    <crc32>55c8245e</crc32>
+    <sha1>fb6032fe52149a207c2e3af7d886f33b86524961</sha1>
+    <format>TIFF</format>
+  </file>
+  <file name="inlay_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>inlay.tif</original>
+    <mtime>1661794388</mtime>
+    <size>21181</size>
+    <md5>5954fe91f5d73566a97ea42f075099cc</md5>
+    <crc32>9aedfb7a</crc32>
+    <sha1>f2404860e5aca39d2bebcc375fc34a88ee13013f</sha1>
+  </file>
+  <file name="scans_redump_96437_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e83412d4ed73894e19fd22a5df97140f</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="scans_redump_96437_meta.sqlite" source="original">
+    <mtime>1661794359</mtime>
+    <size>36864</size>
+    <md5>94aacc0b7a278f8702e8499eeca9d991</md5>
+    <crc32>e2557d69</crc32>
+    <sha1>8276d8d7556ebb530023303dd1459f8e6c850e51</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="scans_redump_96437_meta.xml" source="original">
+    <mtime>1718639971</mtime>
+    <size>1253</size>
+    <md5>71a1cf195a4e741c4008500f8d19838a</md5>
+    <crc32>40e0b612</crc32>
+    <sha1>7d165e1b98755c6d1fdd383e6125ce63f7da3c70</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
