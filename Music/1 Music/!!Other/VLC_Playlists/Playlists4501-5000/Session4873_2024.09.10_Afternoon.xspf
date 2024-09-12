@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_Vice-City/PS2-BoxSet/1-14%20-%20Yankee%20Rose.mp3</location>
+			<title>Yankee Rose</title>
+			<creator>David Lee Roth</creator>
+			<album>Grand Theft Auto Vice City Official Soundtrack Box Set</album>
+			<trackNum>114</trackNum>
+			<annotation>EXK 87009</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Lee%20Roth/Grand%20Theft%20Auto%20Vice%20City%20Official%20Soundtrack%20Box%20Set/art.jpg</image>
+			<duration>229672</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_Vice-City/PS2-BoxSet/2-04%20-%20Kids%20In%20America.mp3</location>
+			<title>Kids In America</title>
+			<creator>Kim Wilde</creator>
+			<album>Grand Theft Auto Vice City Official Soundtrack Box Set</album>
+			<trackNum>204</trackNum>
+			<annotation>EXK 87009</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kim%20Wilde/Grand%20Theft%20Auto%20Vice%20City%20Official%20Soundtrack%20Box%20Set/art.jpg</image>
+			<duration>202453</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_Vice-City/PS2-BoxSet/4-19%20-%20Blox%20Radio%20Commercial.mp3</location>
+			<title>Blox Radio Commercial</title>
+			<album>Grand Theft Auto Vice City Official Soundtrack Box Set</album>
+			<trackNum>419</trackNum>
+			<annotation>EXK 87009</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/68d60691162f122579c38d0cadeb0b3d/art.jpg</image>
+			<duration>69124</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_Vice-City/PS2-BoxSet/6-09%20-%20Ghetto%20Life.mp3</location>
+			<title>Ghetto Life</title>
+			<creator>Rick James</creator>
+			<album>Grand Theft Auto Vice City Official Soundtrack Box Set</album>
+			<trackNum>609</trackNum>
+			<annotation>EXK 87009</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rick%20James/Grand%20Theft%20Auto%20Vice%20City%20Official%20Soundtrack%20Box%20Set/art.jpg</image>
+			<duration>259452</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_Vice-City/PS2-BoxSet/7-09%20-%20La%20Vida%20es%20Una%20Lenteia.mp3</location>
+			<title>La Vida es Una Lenteia</title>
+			<creator>Unaesta</creator>
+			<album>Grand Theft Auto Vice City Official Soundtrack Box Set</album>
+			<trackNum>709</trackNum>
+			<annotation>EXK 87009</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Unaesta/Grand%20Theft%20Auto%20Vice%20City%20Official%20Soundtrack%20Box%20Set/art.jpg</image>
+			<duration>265225</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
