@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Wii Music.jpg" source="original">
+    <mtime>1677172901</mtime>
+    <size>554845</size>
+    <md5>aed78e198ebefa583cb0dda054e7109d</md5>
+    <crc32>f4c165ad</crc32>
+    <sha1>9037a169fc02c96bd055f93f53cf57fbf705f9fc</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Wii Music.txt" source="original">
+    <mtime>1677173293</mtime>
+    <size>2057</size>
+    <md5>a54f7c056f73f408aa630aedcce2dce6</md5>
+    <crc32>363ed25d</crc32>
+    <sha1>702967d70c541ecc79a9ef020f90d493c19ca838</sha1>
+    <format>Text</format>
+    <viruscheck>1677174033</viruscheck>
+  </file>
+  <file name="Wii Music.zip" source="original">
+    <mtime>1677173043</mtime>
+    <size>409223270</size>
+    <md5>21cf5aac853b85aee546b54b01a0aff1</md5>
+    <crc32>b285aeb8</crc32>
+    <sha1>df8877df1d84bf38b28bdfb188ab560307538965</sha1>
+    <format>ZIP</format>
+    <filecount>99</filecount>
+  </file>
+  <file name="Wii Music_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Wii Music.jpg</original>
+    <mtime>1677173300</mtime>
+    <size>26959</size>
+    <md5>89d3bafd94c89041f686c78edddb8b88</md5>
+    <crc32>4ec606d3</crc32>
+    <sha1>d24086720c932536c2d90c24ec75e8836ebe72e8</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1677173102</mtime>
+    <size>24530</size>
+    <md5>7590358d7ceda93ee82bbce7f7901d1a</md5>
+    <crc32>a3e61e37</crc32>
+    <sha1>865fe908d96552f9abb5e33f1a1cdad7623e80ae</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="_rules.conf" source="original">
+    <mtime>1677172834</mtime>
+    <size>7</size>
+    <md5>6c6da25dbec014e39afd8c759b43ca4b</md5>
+    <crc32>f30b3210</crc32>
+    <sha1>bc87893129439e714de015c252807bf274eb7c04</sha1>
+    <format>Derivation Rules</format>
+    <viruscheck>1677173201</viruscheck>
+  </file>
+  <file name="wii-music-soundtrack_archive.torrent" source="metadata">
+    <btih>d182b477c3dbbd182baef178e4480e4314695665</btih>
+    <mtime>1722819490</mtime>
+    <size>18361</size>
+    <md5>1606df90fac60997c875ca652cfb8dbf</md5>
+    <crc32>bb694621</crc32>
+    <sha1>70dc847f919e6fa73d0a477f002dbcbde9e66ca9</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="wii-music-soundtrack_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8aca82ce02bfacdad16ac7950b9c4835</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="wii-music-soundtrack_meta.sqlite" source="original">
+    <mtime>1677173531</mtime>
+    <size>65536</size>
+    <md5>e62fc2ada1ed08555877a401a55da316</md5>
+    <crc32>d932e268</crc32>
+    <sha1>c85c36c542336981fc3d3a708ef3a7fd9c9eb6a5</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="wii-music-soundtrack_meta.xml" source="original">
+    <mtime>1722819488</mtime>
+    <size>7862</size>
+    <md5>3564ec856295c9e70521f7668246d098</md5>
+    <crc32>4d156a49</crc32>
+    <sha1>4dcd545828acea62d5219c733fe12a7d64196dff</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="wii-music-soundtrack_reviews.xml" source="original">
+    <mtime>1689680277</mtime>
+    <size>578</size>
+    <md5>64162429968079caf2dd30ab8a68600a</md5>
+    <crc32>fae46612</crc32>
+    <sha1>6d4e01e26f7664584aafb2325f0deb318f30f8af</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="wii-music-soundtrack_rules.conf" source="original">
+    <mtime>1677173271</mtime>
+    <size>9</size>
+    <md5>c6252ae91bcb6e4c9db553057479e7d3</md5>
+    <crc32>4ae60840</crc32>
+    <sha1>fc079ae018899da82fd9dd027c241e886b050c8a</sha1>
+    <format>Derivation Rules</format>
+    <viruscheck>1677174033</viruscheck>
+  </file>
+</files>
