@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="NTDO-17230_archive.torrent" source="metadata">
+    <btih>4bb66ee18b91b4e1d2a394629b2865a7bdb05b86</btih>
+    <mtime>1722833846</mtime>
+    <size>48214</size>
+    <md5>385ef14a8b6176dd851b3cec670c998c</md5>
+    <crc32>3c9001ab</crc32>
+    <sha1>d0d95742461056114d43f5582ee42118702dac0a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="NTDO-17230_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>f425bc13642ce85be8bdc4ef68111219</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="NTDO-17230_meta.sqlite" source="original">
+    <mtime>1658529884</mtime>
+    <size>311296</size>
+    <md5>1cbf83ec49a0bdf16e32d4892b45d205</md5>
+    <crc32>4bcf3408</crc32>
+    <sha1>76bf7453d8239ff0cb04668e344579d679c9be29</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="NTDO-17230_meta.xml" source="original">
+    <mtime>1722833841</mtime>
+    <size>3645</size>
+    <md5>272c1afc135db1936e3c60fc2b4667c5</md5>
+    <crc32>1cc82100</crc32>
+    <sha1>ca7b45a331974914c1aee0f1141d6254e02a4521</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1658529894</mtime>
+    <size>20815</size>
+    <md5>7c53eae6ffabf86bea7992825f83ee94</md5>
+    <crc32>c14adeee</crc32>
+    <sha1>57ccd43724bdbd97229ce19aeb6752f30d69ebfb</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/01 ドンキーコング リターンズ.flac" source="original">
+    <mtime>1658529538</mtime>
+    <size>10116128</size>
+    <md5>a21f94663188a5e88b40d33fa0040a32</md5>
+    <crc32>21cb10fc</crc32>
+    <sha1>bbed3d7cc158b61a2566ade6d8d35146b80b838d</sha1>
+    <format>Flac</format>
+    <length>96.19</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>ドンキーコング リターンズ</title>
+    <creator>David Wise</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>01</track>
+    <artist>David Wise</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/01 ドンキーコング リターンズ.mp3" source="derivative">
+    <creator>David Wise</creator>
+    <title>ドンキーコング リターンズ</title>
+    <track>01</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>193</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/01 ドンキーコング リターンズ.flac</original>
+    <mtime>1658530038</mtime>
+    <size>2319688</size>
+    <md5>b8ccae7ed9e6b198cb53029d54a3e958</md5>
+    <crc32>9266e230</crc32>
+    <sha1>5d2f89e348b93dc72bf50139169e91b4aa4a38b2</sha1>
+    <length>96.24</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/01 ドンキーコング リターンズ.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/01 ドンキーコング リターンズ.flac</original>
+    <mtime>1658533199</mtime>
+    <size>43878</size>
+    <md5>ca6061858248f819d68247997933fd32</md5>
+    <crc32>bff28fb6</crc32>
+    <sha1>d4d7af83c6e8db3702cb7488946802f04e12db75</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/01 ドンキーコング リターンズ_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/01 ドンキーコング リターンズ.flac</original>
+    <mtime>1658536559</mtime>
+    <size>319183</size>
+    <md5>31f8f52ea0d93252b18ac6c4e99bd4cb</md5>
+    <crc32>2e683e21</crc32>
+    <sha1>7802eef1a94d4026a1e2561c2ab764fd33d22338</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/02 ドンキーコングアイランド.flac" source="original">
+    <mtime>1658529557</mtime>
+    <size>5668813</size>
+    <md5>2d84fb4c726295dd8aec70358927c357</md5>
+    <crc32>0e2acfa5</crc32>
+    <sha1>853f00e5236c2e501fc91933945bf8713b56ecd3</sha1>
+    <format>Flac</format>
+    <length>75.65</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>ドンキーコングアイランド</title>
+    <creator>David Wise</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>02</track>
+    <artist>David Wise</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/02 ドンキーコングアイランド.mp3" source="derivative">
+    <creator>David Wise</creator>
+    <title>ドンキーコングアイランド</title>
+    <track>02</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>193</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/02 ドンキーコングアイランド.flac</original>
+    <mtime>1658530806</mtime>
+    <size>1829272</size>
+    <md5>c1bbf25e84c12274f54713c746d1478f</md5>
+    <crc32>8edc5767</crc32>
+    <sha1>5a5da66514ece17ae1252baf14a911ede31280ee</sha1>
+    <length>75.7</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/02 ドンキーコングアイランド.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/02 ドンキーコングアイランド.flac</original>
+    <mtime>1658533005</mtime>
+    <size>40469</size>
+    <md5>6e1c8f10c60241e81b5455ac8bd1f622</md5>
+    <crc32>c7cd5535</crc32>
+    <sha1>dc5a054ec242d52322f7f746a4b43d66d9696eb1</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/02 ドンキーコングアイランド_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/02 ドンキーコングアイランド.flac</original>
+    <mtime>1658538767</mtime>
+    <size>290098</size>
+    <md5>6b35faf0a8658ca596ba002427045019</md5>
+    <crc32>0ac49e47</crc32>
+    <sha1>94a3092623fb8d607058d8b2a29eebf804cd7f9c</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/03 ティキ族 現る!.flac" source="original">
+    <mtime>1658529563</mtime>
+    <size>6714400</size>
+    <md5>46daa8c9eaaeed9647f68e58cd23d613</md5>
+    <crc32>85126492</crc32>
+    <sha1>76632f9770ec729ed5d7fe84a95320566b13e1e2</sha1>
+    <format>Flac</format>
+    <length>75.71</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>ティキ族 現る!</title>
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>03</track>
+    <artist>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/03 ティキ族 現る!.mp3" source="derivative">
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <title>ティキ族 現る!</title>
+    <track>03</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>186</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/03 ティキ族 現る!.flac</original>
+    <mtime>1658530772</mtime>
+    <size>1762925</size>
+    <md5>576e6071982af29a4c4bfb8929950e31</md5>
+    <crc32>dd9141df</crc32>
+    <sha1>ebfaf56c63815052129e4e277a9856b96276b76a</sha1>
+    <length>75.76</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/03 ティキ族 現る!.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/03 ティキ族 現る!.flac</original>
+    <mtime>1658532950</mtime>
+    <size>35050</size>
+    <md5>0c3a49a4117ca205b19c60f944912d69</md5>
+    <crc32>3c678472</crc32>
+    <sha1>72e5e37c0312f84e4183e80d5f9817faf354747c</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/03 ティキ族 現る!_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/03 ティキ族 現る!.flac</original>
+    <mtime>1658538645</mtime>
+    <size>330317</size>
+    <md5>dc734c9c3633b20af6162c031ab58764</md5>
+    <crc32>f2822e15</crc32>
+    <sha1>e3c976f24591dc50abb7278650fa8fc773866676</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/04 バナナジャングル.flac" source="original">
+    <mtime>1658529578</mtime>
+    <size>14560906</size>
+    <md5>378f1a64d62be700596208afbb523529</md5>
+    <crc32>79ba5fe6</crc32>
+    <sha1>70c7509a6dad0f5d6c608e0031c8c915fb0b0160</sha1>
+    <format>Flac</format>
+    <length>156.64</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>バナナジャングル</title>
+    <creator>David Wise</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>04</track>
+    <artist>David Wise</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/04 バナナジャングル.mp3" source="derivative">
+    <creator>David Wise</creator>
+    <title>バナナジャングル</title>
+    <track>04</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>189</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/04 バナナジャングル.flac</original>
+    <mtime>1658530649</mtime>
+    <size>3706358</size>
+    <md5>d492aca53177d02058dfa36e462dde22</md5>
+    <crc32>87ae67a0</crc32>
+    <sha1>bf97544ae4a97aca8811bf9497f730ce2bd2ff83</sha1>
+    <length>156.68</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/04 バナナジャングル.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/04 バナナジャングル.flac</original>
+    <mtime>1658532733</mtime>
+    <size>44463</size>
+    <md5>ee1e97b43a1c8e1cb8b2a7ecf9d44752</md5>
+    <crc32>afd86133</crc32>
+    <sha1>935e25607f9eab9d3ad822efb9158d2bd5f03a80</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/04 バナナジャングル_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/04 バナナジャングル.flac</original>
+    <mtime>1658537538</mtime>
+    <size>308391</size>
+    <md5>b16e9f281c939e10866c0c18192bac9b</md5>
+    <crc32>b30be85e</crc32>
+    <sha1>d6937e82b35d37d45e24c9f5f209292a97894779</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/05 ボーナスステージ2.flac" source="original">
+    <mtime>1658529585</mtime>
+    <size>5506573</size>
+    <md5>b5fb8a9f17be3f8ad53fa226fcc503d8</md5>
+    <crc32>ea751e2b</crc32>
+    <sha1>536da41cc63e7f9195d2a77ce14c9819b7d9ddcb</sha1>
+    <format>Flac</format>
+    <length>54.24</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>ボーナスステージ2</title>
+    <creator>David Wise</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>05</track>
+    <artist>David Wise</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/05 ボーナスステージ2.mp3" source="derivative">
+    <creator>David Wise</creator>
+    <title>ボーナスステージ2</title>
+    <track>05</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>205</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/05 ボーナスステージ2.flac</original>
+    <mtime>1658530705</mtime>
+    <size>1396945</size>
+    <md5>ff6c08fac2e310e102b3c69be57488b8</md5>
+    <crc32>d084a7e3</crc32>
+    <sha1>149ba1227a92418e21407be11a30f674ac6c0fda</sha1>
+    <length>54.28</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/05 ボーナスステージ2.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/05 ボーナスステージ2.flac</original>
+    <mtime>1658532679</mtime>
+    <size>38526</size>
+    <md5>6d5aacb5a91f6eb9d410660a9bade3c8</md5>
+    <crc32>c96b30d6</crc32>
+    <sha1>4c4cd577027fd04b91016c4d7de0e7bc7132dea2</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/05 ボーナスステージ2_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/05 ボーナスステージ2.flac</original>
+    <mtime>1658538488</mtime>
+    <size>331060</size>
+    <md5>f651301f72909ab17070c1685996306a</md5>
+    <crc32>c34a00a7</crc32>
+    <sha1>76d0037b091e4e825f1ccca85a891b97859636e9</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/06 パクパクパニック.flac" source="original">
+    <mtime>1658529596</mtime>
+    <size>11516388</size>
+    <md5>85490e547d80012b7735f65fd6c977d4</md5>
+    <crc32>58381792</crc32>
+    <sha1>945a0f5b35135691eb1c05e940e2b00f9c2d1cf2</sha1>
+    <format>Flac</format>
+    <length>129.99</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>パクパク パニック</title>
+    <creator>David Wise</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>06</track>
+    <artist>David Wise</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/06 パクパクパニック.mp3" source="derivative">
+    <creator>David Wise</creator>
+    <title>パクパク パニック</title>
+    <track>06</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>194</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/06 パクパクパニック.flac</original>
+    <mtime>1658530464</mtime>
+    <size>3162148</size>
+    <md5>c8ce3af0327191ba3a0d8242fc7c6c7e</md5>
+    <crc32>eb163eb1</crc32>
+    <sha1>22acc03e5cdfda80974e035fa8b39dd4355b7d83</sha1>
+    <length>130.04</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/06 パクパクパニック.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/06 パクパクパニック.flac</original>
+    <mtime>1658532488</mtime>
+    <size>42240</size>
+    <md5>c85caac183f4f91fe5c54717abb2b041</md5>
+    <crc32>ff5f7daa</crc32>
+    <sha1>8ca6b0e216988a81b8d4494910561fbbcc6988d3</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/06 パクパクパニック_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/06 パクパクパニック.flac</original>
+    <mtime>1658538355</mtime>
+    <size>296561</size>
+    <md5>37101c8e6b58492f94cc6333b9352d2c</md5>
+    <crc32>d67a9a2c</crc32>
+    <sha1>66af9359ecf8d5157e93f1a121599dcccc3caa03</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/07 クランキーコングの店.flac" source="original">
+    <mtime>1658529602</mtime>
+    <size>6546067</size>
+    <md5>301698c71c314f76fff5667dabb5d0a8</md5>
+    <crc32>ffe64cd6</crc32>
+    <sha1>6b57ab5de75ce5c53ded5ce8a993a8e98e421714</sha1>
+    <format>Flac</format>
+    <length>77.49</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>クランキーコングの店</title>
+    <creator>David Wise</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>07</track>
+    <artist>David Wise</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/07 クランキーコングの店.mp3" source="derivative">
+    <creator>David Wise</creator>
+    <title>クランキーコングの店</title>
+    <track>07</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>185</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/07 クランキーコングの店.flac</original>
+    <mtime>1658531012</mtime>
+    <size>1792777</size>
+    <md5>a8a417e61921e98c2e9b8b1b36b51b20</md5>
+    <crc32>0950456d</crc32>
+    <sha1>7ccaf19c4333ce9d1f4fd02df4fa7c0007dc567e</sha1>
+    <length>77.53</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/07 クランキーコングの店.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/07 クランキーコングの店.flac</original>
+    <mtime>1658532429</mtime>
+    <size>43972</size>
+    <md5>bb4401c0a89f68301013c209415dc93b</md5>
+    <crc32>6d460a35</crc32>
+    <sha1>991dbbdf904746026c4665de786c301f87ff4db9</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/07 クランキーコングの店_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/07 クランキーコングの店.flac</original>
+    <mtime>1658538015</mtime>
+    <size>314257</size>
+    <md5>c3936351364404f73ba1666823141b43</md5>
+    <crc32>04e96809</crc32>
+    <sha1>aeaf35975c6dadf1b90f1d75d8d803868a5178eb</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/08 サンセット海岸.flac" source="original">
+    <mtime>1658529616</mtime>
+    <size>13596680</size>
+    <md5>f4f5c9486119c1112d7ca9cdd9c246ee</md5>
+    <crc32>c4dc6033</crc32>
+    <sha1>da2bba2b9bba6d15e8c036fe66fbda948603ae56</sha1>
+    <format>Flac</format>
+    <length>143.65</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>サンセット海岸</title>
+    <creator>David Wise</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>08</track>
+    <artist>David Wise</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/08 サンセット海岸.mp3" source="derivative">
+    <creator>David Wise</creator>
+    <title>サンセット海岸</title>
+    <track>08</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>189</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/08 サンセット海岸.flac</original>
+    <mtime>1658531144</mtime>
+    <size>3407923</size>
+    <md5>bcd0b4e5aa885b22dc13f270f06bdab7</md5>
+    <crc32>422abdc6</crc32>
+    <sha1>2eecb0ae73ab22eb70045b5194719c906f66b295</sha1>
+    <length>143.7</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/08 サンセット海岸.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/08 サンセット海岸.flac</original>
+    <mtime>1658533287</mtime>
+    <size>39989</size>
+    <md5>3dc9255e908adb63fedf528b86f2b686</md5>
+    <crc32>15ea09ab</crc32>
+    <sha1>6c2592d06a28cd5743860e1692ee0dff1935070c</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/08 サンセット海岸_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/08 サンセット海岸.flac</original>
+    <mtime>1658537726</mtime>
+    <size>327906</size>
+    <md5>52ab92fd632fc120485aeb7ca99f7613</md5>
+    <crc32>dc7a2dc7</crc32>
+    <sha1>4bf9ff97f98d264f56ce944d1df3552d3de05adb</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/09 トロッコで大ジャンプ!.flac" source="original">
+    <mtime>1658529627</mtime>
+    <size>11911255</size>
+    <md5>2bd96de2bd811f70f12e16be7bc2d98a</md5>
+    <crc32>01293729</crc32>
+    <sha1>0303c27e952569cf7e03d7b553aa31f79a06edc3</sha1>
+    <format>Flac</format>
+    <length>128.28</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>トロッコで大ジャンプ！</title>
+    <creator>David Wise</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>09</track>
+    <artist>David Wise</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/09 トロッコで大ジャンプ!.mp3" source="derivative">
+    <creator>David Wise</creator>
+    <title>トロッコで大ジャンプ！</title>
+    <track>09</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>189</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/09 トロッコで大ジャンプ!.flac</original>
+    <mtime>1658531080</mtime>
+    <size>3038245</size>
+    <md5>2dde61c11a8988553b2d4b11bc07d4af</md5>
+    <crc32>1c61a042</crc32>
+    <sha1>3c1f3850c16c0098a0f3eb555b560fe177fe2ba7</sha1>
+    <length>128.31</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/09 トロッコで大ジャンプ!.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/09 トロッコで大ジャンプ!.flac</original>
+    <mtime>1658535496</mtime>
+    <size>40465</size>
+    <md5>4302db0943ddd68b3f2bc4479de61fb4</md5>
+    <crc32>b67aa9e3</crc32>
+    <sha1>9466dca18ec866352fe546f48a1222f419e94d88</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/09 トロッコで大ジャンプ!_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/09 トロッコで大ジャンプ!.flac</original>
+    <mtime>1658537601</mtime>
+    <size>292331</size>
+    <md5>46ff690ec2a1472ada452cdb6aaae004</md5>
+    <crc32>94f4c1e6</crc32>
+    <sha1>8de5d851a1f3713329bd9dc3921807e0bf5141a8</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/10 リフトのはまべ.flac" source="original">
+    <mtime>1658529640</mtime>
+    <size>14557159</size>
+    <md5>7ebac9bdc41ee3cdbb75a467f4821621</md5>
+    <crc32>1ade7953</crc32>
+    <sha1>0a36952da0c6340efb9d28cc14e0e2608cb52434</sha1>
+    <format>Flac</format>
+    <length>175.67</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>リフトのはまべ</title>
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>10</track>
+    <artist>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/10 リフトのはまべ.mp3" source="derivative">
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <title>リフトのはまべ</title>
+    <track>10</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>208</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/10 リフトのはまべ.flac</original>
+    <mtime>1658532079</mtime>
+    <size>4584047</size>
+    <md5>ac906d9661e0f67fce649b5fabe25850</md5>
+    <crc32>65a1eecb</crc32>
+    <sha1>7cb9f3a568ff5edef03393c9dc840b37478ab1a7</sha1>
+    <length>175.7</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/10 リフトのはまべ.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/10 リフトのはまべ.flac</original>
+    <mtime>1658532578</mtime>
+    <size>46943</size>
+    <md5>294d7e02d4c15a9aa2f6eb10b2063ae8</md5>
+    <crc32>a1386efe</crc32>
+    <sha1>5168d0e1a6e2b680d902b9ac648e1b986619850b</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/10 リフトのはまべ_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/10 リフトのはまべ.flac</original>
+    <mtime>1658537142</mtime>
+    <size>310793</size>
+    <md5>bb5f7c736ac914d50801d1eae3940875</md5>
+    <crc32>444ea389</crc32>
+    <sha1>64c27b304da48db2f3d52fc7199e631fd5b79020</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/11 あらしのビーチ.flac" source="original">
+    <mtime>1658529651</mtime>
+    <size>10442414</size>
+    <md5>adc6aedcea0b798723a6c0c7c0f28a3c</md5>
+    <crc32>da12df3f</crc32>
+    <sha1>982c3202636955f80f63b88afd4dcbd5bc71427b</sha1>
+    <format>Flac</format>
+    <length>133.29</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>あらしのビーチ</title>
+    <creator>Eveline Fischer</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>11</track>
+    <artist>Eveline Fischer</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/11 あらしのビーチ.mp3" source="derivative">
+    <creator>Eveline Fischer</creator>
+    <title>あらしのビーチ</title>
+    <track>11</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>200</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/11 あらしのビーチ.flac</original>
+    <mtime>1658531965</mtime>
+    <size>3338635</size>
+    <md5>47889283534333d066bf3edbde3a659d</md5>
+    <crc32>df616235</crc32>
+    <sha1>d3611ec2fdf11367922ab49d5a3aed22e553a230</sha1>
+    <length>133.33</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/11 あらしのビーチ.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/11 あらしのビーチ.flac</original>
+    <mtime>1658532894</mtime>
+    <size>42291</size>
+    <md5>1f51a3b58e70b793b835e76a58a27fa5</md5>
+    <crc32>5a65e3cf</crc32>
+    <sha1>8a522e49a8de2634016c76316aba6e37d4f40aed</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/11 あらしのビーチ_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/11 あらしのビーチ.flac</original>
+    <mtime>1658536320</mtime>
+    <size>295340</size>
+    <md5>e78e128be1760742cfb970f2c697d8f0</md5>
+    <crc32>5d3a90b0</crc32>
+    <sha1>af875bd9490a12e02534be8e58d24e6a0b021771</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/12 タルたいほうメイズ.flac" source="original">
+    <mtime>1658529659</mtime>
+    <size>9698832</size>
+    <md5>eb2ba3eb8e37b73b55e0c676a0649627</md5>
+    <crc32>a486db1c</crc32>
+    <sha1>788cbabc0e253df72fab8eba04f27cbf7aed55eb</sha1>
+    <format>Flac</format>
+    <length>122.17</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>タルたいほうメイズ</title>
+    <creator>Eveline Fischer</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>12</track>
+    <artist>Eveline Fischer</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/12 タルたいほうメイズ.mp3" source="derivative">
+    <creator>Eveline Fischer</creator>
+    <title>タルたいほうメイズ</title>
+    <track>12</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>197</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/12 タルたいほうメイズ.flac</original>
+    <mtime>1658530253</mtime>
+    <size>3019200</size>
+    <md5>1f51c220ba924956e3e685b4b7426ff8</md5>
+    <crc32>cab5cc88</crc32>
+    <sha1>074ff6e6cd9baebd22a86b2c9ab1aedd323b51c3</sha1>
+    <length>122.2</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/12 タルたいほうメイズ.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/12 タルたいほうメイズ.flac</original>
+    <mtime>1658533071</mtime>
+    <size>39755</size>
+    <md5>35328503989a089262f7a2b34a6df52b</md5>
+    <crc32>ee6ea16c</crc32>
+    <sha1>90a361be17defb15558d204894cd461f90386aa5</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/12 タルたいほうメイズ_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/12 タルたいほうメイズ.flac</original>
+    <mtime>1658535703</mtime>
+    <size>313490</size>
+    <md5>ec498f213318d5a172a485f8f89e7705</md5>
+    <crc32>1e200005</crc32>
+    <sha1>c3ee9390ca41f6222e3d8d4b9ffd649e7d06a9f4</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/13 かい鳥 ステュー.flac" source="original">
+    <mtime>1658529667</mtime>
+    <size>8426068</size>
+    <md5>97e4d2b0c436eaabeb3d022e5f3e1729</md5>
+    <crc32>a52ef238</crc32>
+    <sha1>6af414acd58138a65d8a7e50fc02a2fc03f9ce03</sha1>
+    <format>Flac</format>
+    <length>85.35</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>かい鳥 ステュー</title>
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>13</track>
+    <artist>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/13 かい鳥 ステュー.mp3" source="derivative">
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <title>かい鳥 ステュー</title>
+    <track>13</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>194</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/13 かい鳥 ステュー.flac</original>
+    <mtime>1658531883</mtime>
+    <size>2069409</size>
+    <md5>e965a887dc7ed17569bba42ba6478f37</md5>
+    <crc32>9edb2bee</crc32>
+    <sha1>fb4650c26db68b1e4d30a558c7cf095266a14730</sha1>
+    <length>85.39</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/13 かい鳥 ステュー.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/13 かい鳥 ステュー.flac</original>
+    <mtime>1658533671</mtime>
+    <size>41512</size>
+    <md5>7226b5dee55b05ba3f5ba12794134c89</md5>
+    <crc32>bd2ac710</crc32>
+    <sha1>edd2a8e18063384e284cea1903905bc49bdbffc6</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/13 かい鳥 ステュー_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/13 かい鳥 ステュー.flac</original>
+    <mtime>1658536830</mtime>
+    <size>300771</size>
+    <md5>d4fadf3944ed410f2133e043bac1786f</md5>
+    <crc32>05b7ec14</crc32>
+    <sha1>9d416590995fa5d1a4515bfe41f123f0872f66ad</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/14 モグリャーのこうじげんば.flac" source="original">
+    <mtime>1658529676</mtime>
+    <size>9818480</size>
+    <md5>8e8a644e28e7982455be6e8e2e7be552</md5>
+    <crc32>6fabc3e9</crc32>
+    <sha1>b09d33eac5a7044a553b1bf93d79177069fb7f1b</sha1>
+    <format>Flac</format>
+    <length>85.27</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>モグリャーのこうじげんば</title>
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>14</track>
+    <artist>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/14 モグリャーのこうじげんば.mp3" source="derivative">
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <title>モグリャーのこうじげんば</title>
+    <track>14</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>189</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/14 モグリャーのこうじげんば.flac</original>
+    <mtime>1658531734</mtime>
+    <size>2022375</size>
+    <md5>dc9769144ed41956cf6ddfbabe92e58b</md5>
+    <crc32>e162f14a</crc32>
+    <sha1>91b23bb19280c4dae69d962afd7979664f66171f</sha1>
+    <length>85.32</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/14 モグリャーのこうじげんば.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/14 モグリャーのこうじげんば.flac</original>
+    <mtime>1658533426</mtime>
+    <size>41855</size>
+    <md5>ff5a623078ee43e6cf2d32886ad12f1f</md5>
+    <crc32>a784cba7</crc32>
+    <sha1>de78b88ef8773f24f429cf6cee7974e3871997b9</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/14 モグリャーのこうじげんば_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/14 モグリャーのこうじげんば.flac</original>
+    <mtime>1658536150</mtime>
+    <size>310891</size>
+    <md5>11ed0ec67a38b5d9480cb335fe83f4ec</md5>
+    <crc32>12d9a35a</crc32>
+    <sha1>dbb1f0abf71748121ea7afc63965f090b6e9032d</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/15 バインフォレスト.flac" source="original">
+    <mtime>1658529685</mtime>
+    <size>9001276</size>
+    <md5>1e3503d782aea7c5381d71a0b512b332</md5>
+    <crc32>c787105b</crc32>
+    <sha1>d152578199e33f19125cb6da0172ff6d5aaf6501</sha1>
+    <format>Flac</format>
+    <length>102.75</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>パインフォレスト</title>
+    <creator>Eveline Fischer</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>15</track>
+    <artist>Eveline Fischer</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/15 バインフォレスト.mp3" source="derivative">
+    <creator>Eveline Fischer</creator>
+    <title>パインフォレスト</title>
+    <track>15</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>194</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/15 バインフォレスト.flac</original>
+    <mtime>1658531278</mtime>
+    <size>2502866</size>
+    <md5>f2e176f6d9e4c225ee08d70d8f1080a1</md5>
+    <crc32>2bd02d69</crc32>
+    <sha1>4573f7a7c526e8495fde1e5ad7f8db8415d349ff</sha1>
+    <length>102.79</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/15 バインフォレスト.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/15 バインフォレスト.flac</original>
+    <mtime>1658534756</mtime>
+    <size>42969</size>
+    <md5>77cefdce315ca6ab95e1a480206fa006</md5>
+    <crc32>91fa0e9f</crc32>
+    <sha1>b22aec190ec56f4234affb60ee45534acbed1269</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/15 バインフォレスト_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/15 バインフォレスト.flac</original>
+    <mtime>1658535893</mtime>
+    <size>311122</size>
+    <md5>5eb7844912b56130e12473ada32f34fe</md5>
+    <crc32>5e271e9a</crc32>
+    <sha1>03eb232f43b10c7dc2cf77bd71f2077f91df54d1</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/16 空とぶティキドリー.flac" source="original">
+    <mtime>1658529698</mtime>
+    <size>13885431</size>
+    <md5>3d191e7b63135d4562a462d5256ccf17</md5>
+    <crc32>d2de6ef5</crc32>
+    <sha1>e0ea4bd695349be3728261516580bf61785ccdfc</sha1>
+    <format>Flac</format>
+    <length>128.97</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>空とぶティキドリー</title>
+    <creator>Eveline Fischer</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>16</track>
+    <artist>Eveline Fischer</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/16 空とぶティキドリー.mp3" source="derivative">
+    <creator>Eveline Fischer</creator>
+    <title>空とぶティキドリー</title>
+    <track>16</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>205</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/16 空とぶティキドリー.flac</original>
+    <mtime>1658531194</mtime>
+    <size>3307200</size>
+    <md5>978ee7839d666a16545a66a3319c5d22</md5>
+    <crc32>60ac2693</crc32>
+    <sha1>0ff0d2a94e478953beb19be4c981a61aa5e34cac</sha1>
+    <length>129.02</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/16 空とぶティキドリー.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/16 空とぶティキドリー.flac</original>
+    <mtime>1658532330</mtime>
+    <size>39304</size>
+    <md5>ffc5a1a475ef86a9edaf3a1d99d7aa5c</md5>
+    <crc32>872a29d1</crc32>
+    <sha1>e6727b893d4960852bf63810d40e008fc05654aa</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/16 空とぶティキドリー_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/16 空とぶティキドリー.flac</original>
+    <mtime>1658537466</mtime>
+    <size>302468</size>
+    <md5>c1c4b9d1caf66b6aedadde6bb064450f</md5>
+    <crc32>9fe2ba78</crc32>
+    <sha1>f015d7f54e272b7aedf9316789aa8dab7aae83c0</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/17 ナゾの追せき者 マンゴルビー.flac" source="original">
+    <mtime>1658529710</mtime>
+    <size>12844271</size>
+    <md5>ed99f3be164e1c50de5e2a0daa7fa3e1</md5>
+    <crc32>631bf56c</crc32>
+    <sha1>d706ac4af615c6ba6ae7d05d5cff0f524551ee93</sha1>
+    <format>Flac</format>
+    <length>130.44</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>ナゾの追せき者 マンゴルビー</title>
+    <creator>Eveline Fischer</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>17</track>
+    <artist>Eveline Fischer</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/17 ナゾの追せき者 マンゴルビー.mp3" source="derivative">
+    <creator>Eveline Fischer</creator>
+    <title>ナゾの追せき者 マンゴルビー</title>
+    <track>17</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>206</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/17 ナゾの追せき者 マンゴルビー.flac</original>
+    <mtime>1658532122</mtime>
+    <size>3363884</size>
+    <md5>bbf05809a65721c0967170fef41cbaa8</md5>
+    <crc32>fe5204e0</crc32>
+    <sha1>af1120844098cbf951954557d7031e276be67f7d</sha1>
+    <length>130.48</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/17 ナゾの追せき者 マンゴルビー.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/17 ナゾの追せき者 マンゴルビー.flac</original>
+    <mtime>1658533536</mtime>
+    <size>42383</size>
+    <md5>518311525e3907a56948d0098d1409cb</md5>
+    <crc32>0aec1f0c</crc32>
+    <sha1>489e18fc99dc7507925b56a97ae79ba18dded981</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/17 ナゾの追せき者 マンゴルビー_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/17 ナゾの追せき者 マンゴルビー.flac</original>
+    <mtime>1658538865</mtime>
+    <size>291554</size>
+    <md5>d322ec1a8d206ff616710291cedd3cdf</md5>
+    <crc32>aa904c7b</crc32>
+    <sha1>4e60e1f8927b60d4a158d26ec2988d543f22f93e</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/18 上げ下げゆかの谷.flac" source="original">
+    <mtime>1658529719</mtime>
+    <size>10201599</size>
+    <md5>a60ef271448afb0d5fc9dc9ca24da38a</md5>
+    <crc32>7e196f64</crc32>
+    <sha1>0a7e1898c732f74727ef484c33557100e1659e21</sha1>
+    <format>Flac</format>
+    <length>119.8</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>上げ下げゆかの谷</title>
+    <creator>Eveline Fischer</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>18</track>
+    <artist>Eveline Fischer</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/18 上げ下げゆかの谷.mp3" source="derivative">
+    <creator>Eveline Fischer</creator>
+    <title>上げ下げゆかの谷</title>
+    <track>18</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>189</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/18 上げ下げゆかの谷.flac</original>
+    <mtime>1658530120</mtime>
+    <size>2831421</size>
+    <md5>e67feed28ec5ac62c95a611149d3deb9</md5>
+    <crc32>e81ac139</crc32>
+    <sha1>6c81c13f3b502e379d83e15de55e62359c0fbf26</sha1>
+    <length>119.85</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/18 上げ下げゆかの谷.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/18 上げ下げゆかの谷.flac</original>
+    <mtime>1658532238</mtime>
+    <size>36860</size>
+    <md5>8d106787ebc066f63a3cf38a60e506ab</md5>
+    <crc32>8afae938</crc32>
+    <sha1>a7e9c8a3527a39a993f3c151e8cc2a1aa32f32b3</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/18 上げ下げゆかの谷_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/18 上げ下げゆかの谷.flac</original>
+    <mtime>1658538561</mtime>
+    <size>284986</size>
+    <md5>fb586050837e7bb9255d8efbd90d07cf</md5>
+    <crc32>f50dc48d</crc32>
+    <sha1>2192391bbd63b1e6a6fa4fcc29179e754c73b243</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/19 コンベアスマッシャー.flac" source="original">
+    <mtime>1658529735</mtime>
+    <size>17311622</size>
+    <md5>d99df4a530ce31d6f214b7c4f274f5b5</md5>
+    <crc32>32479667</crc32>
+    <sha1>b2988e2bdc78b64fc27ff6a0784cee692aea6d1f</sha1>
+    <format>Flac</format>
+    <length>167.52</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>コンベアスマッシャー</title>
+    <creator>David Wise</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>19</track>
+    <artist>David Wise</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/19 コンベアスマッシャー.mp3" source="derivative">
+    <creator>David Wise</creator>
+    <title>コンベアスマッシャー</title>
+    <track>19</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>186</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/19 コンベアスマッシャー.flac</original>
+    <mtime>1658531623</mtime>
+    <size>3897854</size>
+    <md5>f0bd09f9ca34ca61eff8840ee4e58b54</md5>
+    <crc32>f88d418a</crc32>
+    <sha1>c9d82d9279ebde7a693e506f57856f14e1f995ea</sha1>
+    <length>167.55</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/19 コンベアスマッシャー.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/19 コンベアスマッシャー.flac</original>
+    <mtime>1658534210</mtime>
+    <size>42636</size>
+    <md5>915a745e9af3c618b116f3bb7782842a</md5>
+    <crc32>d7e3b0df</crc32>
+    <sha1>a605987dcf5344d9fdf2143dddbf0cbddb72541f</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/19 コンベアスマッシャー_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/19 コンベアスマッシャー.flac</original>
+    <mtime>1658539701</mtime>
+    <size>303156</size>
+    <md5>4ff8c81a3cfa2935e5937e64c76c8f21</md5>
+    <crc32>f14807b5</crc32>
+    <sha1>bfedaa5a95d43300529665baf215dfd5205b2729</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/20 スリル!ギアフライト.flac" source="original">
+    <mtime>1658529744</mtime>
+    <size>10306125</size>
+    <md5>8efee2eea323daf18a26af16e5e24a99</md5>
+    <crc32>b8e682f2</crc32>
+    <sha1>bf6f86b5ed3bdefbd9c49263db3c0c0cff5e778a</sha1>
+    <format>Flac</format>
+    <length>86.73</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>スリル！ギアフライト</title>
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>20</track>
+    <artist>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/20 スリル!ギアフライト.mp3" source="derivative">
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <title>スリル！ギアフライト</title>
+    <track>20</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>186</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/20 スリル!ギアフライト.flac</original>
+    <mtime>1658531779</mtime>
+    <size>2025369</size>
+    <md5>56510d7875556c1fe7a34ebcf3c853e7</md5>
+    <crc32>972674f0</crc32>
+    <sha1>8ea43fbf69b8388cf83c032a05646b4f1da5ed47</sha1>
+    <length>86.78</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/20 スリル!ギアフライト.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/20 スリル!ギアフライト.flac</original>
+    <mtime>1658533788</mtime>
+    <size>44199</size>
+    <md5>2d0a7fb062a39dabf467fa74a6c15f45</md5>
+    <crc32>13b8beef</crc32>
+    <sha1>1b3d0eb5029a321c18d7ea5077f67de36e197d47</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/20 スリル!ギアフライト_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/20 スリル!ギアフライト.flac</original>
+    <mtime>1658539534</mtime>
+    <size>293536</size>
+    <md5>20183bc50a3a11d2b6347659f603b888</md5>
+    <crc32>877db22b</crc32>
+    <sha1>7803f031e7994f01fc8b1efd98740b0eb6b5fde4</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/21 ロックンローリング.flac" source="original">
+    <mtime>1658529756</mtime>
+    <size>12944631</size>
+    <md5>27b2874aa9b4d72cbfc6fc1d0b62f454</md5>
+    <crc32>efe49eb3</crc32>
+    <sha1>7dbd2c48f98b816fa2243760ed74c2116db335a0</sha1>
+    <format>Flac</format>
+    <length>116.27</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>ロックンローリング</title>
+    <creator>David Wise</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>21</track>
+    <artist>David Wise</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/21 ロックンローリング.mp3" source="derivative">
+    <creator>David Wise</creator>
+    <title>ロックンローリング</title>
+    <track>21</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>180</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/21 ロックンローリング.flac</original>
+    <mtime>1658531924</mtime>
+    <size>2613921</size>
+    <md5>7cb9ff77b1bf2ec3410cc036e768f76a</md5>
+    <crc32>90d3aad1</crc32>
+    <sha1>e8640484e757e51224a3ec671cd9deabcbffbecd</sha1>
+    <length>116.3</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/21 ロックンローリング.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/21 ロックンローリング.flac</original>
+    <mtime>1658535280</mtime>
+    <size>38734</size>
+    <md5>cf044f04dad943fc13ddd49d9f89c859</md5>
+    <crc32>00f3d91a</crc32>
+    <sha1>ac40d86421e881aea223f56ef17972b3c9bfb94a</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/21 ロックンローリング_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/21 ロックンローリング.flac</original>
+    <mtime>1658539897</mtime>
+    <size>326050</size>
+    <md5>85eae6c768aa122b608f31520b0da467</md5>
+    <crc32>b01dfe62</crc32>
+    <sha1>96d86d53851c6e446d9f8224571fe9aa95713a44</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/22 ロボマスター ドクターチキン.flac" source="original">
+    <mtime>1658529769</mtime>
+    <size>13136969</size>
+    <md5>e1d856df4e999633a1f98b4c8afc51df</md5>
+    <crc32>9368d185</crc32>
+    <sha1>15a470fc7beeb3afed3c613d9faae98e9558523d</sha1>
+    <format>Flac</format>
+    <length>126.51</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>ロボマスター ドクターチキン</title>
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>22</track>
+    <artist>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/22 ロボマスター ドクターチキン.mp3" source="derivative">
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <title>ロボマスター ドクターチキン</title>
+    <track>22</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>187</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/22 ロボマスター ドクターチキン.flac</original>
+    <mtime>1658532024</mtime>
+    <size>2960241</size>
+    <md5>3ab1b601004c88026930314207b48b08</md5>
+    <crc32>733a7780</crc32>
+    <sha1>0ce6c4200c4584b5107d2b6c4624be1b0baa56f8</sha1>
+    <length>126.54</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/22 ロボマスター ドクターチキン.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/22 ロボマスター ドクターチキン.flac</original>
+    <mtime>1658534598</mtime>
+    <size>44704</size>
+    <md5>34692a4410596e482428539b5b3b6446</md5>
+    <crc32>82cf4f0c</crc32>
+    <sha1>5f0883dfb90a4e1803b79dcabc914af43207cd98</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/22 ロボマスター ドクターチキン_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/22 ロボマスター ドクターチキン.flac</original>
+    <mtime>1658539041</mtime>
+    <size>317104</size>
+    <md5>f0718d959e9c88586978c7f1378ed0dc</md5>
+    <crc32>2e4c2f12</crc32>
+    <sha1>fc6021ca8ff95f00e618487840be19ef6af00e4e</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/23 ファイヤーキャッスル.flac" source="original">
+    <mtime>1658529784</mtime>
+    <size>14021210</size>
+    <md5>f9466075e7b20ce69ef3b2d9bfbc6a56</md5>
+    <crc32>bd7f0aae</crc32>
+    <sha1>aef413dd91eb22c3c67374e0f9fd5ecdd3206a17</sha1>
+    <format>Flac</format>
+    <length>139.71</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>ファイアーキャッスル</title>
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>23</track>
+    <artist>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/23 ファイヤーキャッスル.mp3" source="derivative">
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <title>ファイアーキャッスル</title>
+    <track>23</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>188</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/23 ファイヤーキャッスル.flac</original>
+    <mtime>1658532179</mtime>
+    <size>3293323</size>
+    <md5>0fc1673d1d519209563d4da08c750dba</md5>
+    <crc32>ed78fe6c</crc32>
+    <sha1>34f42d2f33e9f2ab2094fee468762149d69395db</sha1>
+    <length>139.76</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/23 ファイヤーキャッスル.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/23 ファイヤーキャッスル.flac</original>
+    <mtime>1658534346</mtime>
+    <size>42579</size>
+    <md5>abfd04e10568d563e14216692685c250</md5>
+    <crc32>49fdcf83</crc32>
+    <sha1>c86e9ab2942ff691f81027d6b1f4ab128e55d513</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/23 ファイヤーキャッスル_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/23 ファイヤーキャッスル.flac</original>
+    <mtime>1658539352</mtime>
+    <size>313638</size>
+    <md5>3c093a05db5fe65d2285e331a5fe8f0d</md5>
+    <crc32>7a4fa7e7</crc32>
+    <sha1>f7245126b07d073c9b3d43902d7bd8d00a78c78c</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/24 ティキトングのテーマ.flac" source="original">
+    <mtime>1658529799</mtime>
+    <size>16632293</size>
+    <md5>3b1d3d7e9cbd2cffd57e5d4d2a61ceb9</md5>
+    <crc32>091fc93f</crc32>
+    <sha1>44dc3cb2dd975f6d8de1c0df5cc108c33ccae840</sha1>
+    <format>Flac</format>
+    <length>163.43</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>ティキトングのテーマ</title>
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>24</track>
+    <artist>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/24 ティキトングのテーマ.mp3" source="derivative">
+    <creator>濱野美奈子, 田島賢, 後田信二 &amp; 松岡大祐</creator>
+    <title>ティキトングのテーマ</title>
+    <track>24</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>199</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/24 ティキトングのテーマ.flac</original>
+    <mtime>1658531839</mtime>
+    <size>4080211</size>
+    <md5>432c9e04dc7fd884353748241f586a2b</md5>
+    <crc32>7de62132</crc32>
+    <sha1>4b969339982509bc2e9b43f489745cf5d614dcd9</sha1>
+    <length>163.47</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/24 ティキトングのテーマ.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/24 ティキトングのテーマ.flac</original>
+    <mtime>1658534064</mtime>
+    <size>42648</size>
+    <md5>a27b3fb0110cba5cd187da93d81936d0</md5>
+    <crc32>7dcd73c6</crc32>
+    <sha1>ecb66046e2ac220b2b8014be1e1d3215e11e6924</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/24 ティキトングのテーマ_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/24 ティキトングのテーマ.flac</original>
+    <mtime>1658539452</mtime>
+    <size>302387</size>
+    <md5>33f02e837fa75fc5833355e267d0be4e</md5>
+    <crc32>1c2e0f50</crc32>
+    <sha1>07d08dba940b4e3afe8b2040304014c4ff80562a</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/25 エンディングスタッフロール.flac" source="original">
+    <mtime>1658529823</mtime>
+    <size>23503367</size>
+    <md5>4b14061f3c08f0f73f0f4cd9edbd7246</md5>
+    <crc32>084967f1</crc32>
+    <sha1>32294663df80fc918f24dedc04ec62bebac09ee9</sha1>
+    <format>Flac</format>
+    <length>217.29</length>
+    <viruscheck>1658529916</viruscheck>
+    <title>エンディングスタッフロール</title>
+    <creator>David Wise</creator>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <track>25</track>
+    <artist>David Wise</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/25 エンディングスタッフロール.mp3" source="derivative">
+    <creator>David Wise</creator>
+    <title>エンディングスタッフロール</title>
+    <track>25</track>
+    <album>ドンキーコング リターンズ オリジナルサウンドトラック</album>
+    <genre>Soundtrack</genre>
+    <bitrate>187</bitrate>
+    <format>VBR MP3</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/25 エンディングスタッフロール.flac</original>
+    <mtime>1658530923</mtime>
+    <size>5096949</size>
+    <md5>0e7bb5fab3242b9b54f006e75fd92f37</md5>
+    <crc32>a30750ad</crc32>
+    <sha1>2390268b01853d47aef8746b6fc35d747e15d028</sha1>
+    <length>217.34</length>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/25 エンディングスタッフロール.png" source="derivative">
+    <format>PNG</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/25 エンディングスタッフロール.flac</original>
+    <mtime>1658535094</mtime>
+    <size>43358</size>
+    <md5>d325c87d2cafa52e74eaf693da036df9</md5>
+    <crc32>efb109c4</crc32>
+    <sha1>581cb9a0b0ebb177a6ebf010736249d1f9c7808c</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/25 エンディングスタッフロール_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/25 エンディングスタッフロール.flac</original>
+    <mtime>1658539195</mtime>
+    <size>315640</size>
+    <md5>efb3b6702f9b4bf66d8cb85ae420b7f5</md5>
+    <crc32>80279e9c</crc32>
+    <sha1>fb57cdc893b6f414c5a342ac39b8a50377c6bebd</sha1>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/Cover.png" source="original">
+    <mtime>1658529828</mtime>
+    <size>5310764</size>
+    <md5>621d7182422ae41fdfdc0e73f3455ba5</md5>
+    <crc32>ee43d931</crc32>
+    <sha1>0998b889c797a4b3995faf2fec0b3888cda30c2a</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/SCANS/Back.png" source="original">
+    <mtime>1658529832</mtime>
+    <size>5051976</size>
+    <md5>d1357bb809c79867bfbc97c00091a04b</md5>
+    <crc32>b644d3dd</crc32>
+    <sha1>115abb30875422611e192e61de3d631152385edd</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/SCANS/Booklet_Inner.png" source="original">
+    <mtime>1658529841</mtime>
+    <size>9570363</size>
+    <md5>d348121da58b208ab697ceb496cf3745</md5>
+    <crc32>aeb6fbdd</crc32>
+    <sha1>7ff0ba7db1189dce7bad4eefcf568af047a8fd30</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/SCANS/Booklet_Outer.png" source="original">
+    <mtime>1658529847</mtime>
+    <size>6476624</size>
+    <md5>cdef0fa56938545546c84eee17421d99</md5>
+    <crc32>c735580d</crc32>
+    <sha1>c129384521f839b2c1f397cb2e4f98700e66c194</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/SCANS/Disc.png" source="original">
+    <mtime>1658529849</mtime>
+    <size>1911986</size>
+    <md5>034dd84712732c572908e4144191828e</md5>
+    <crc32>5ca76523</crc32>
+    <sha1>178bb9bca83e945a3ba1a15c304ae2c8ecf06169</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/SCANS/Front.png" source="original">
+    <mtime>1658529855</mtime>
+    <size>5310764</size>
+    <md5>621d7182422ae41fdfdc0e73f3455ba5</md5>
+    <crc32>ee43d931</crc32>
+    <sha1>0998b889c797a4b3995faf2fec0b3888cda30c2a</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="ドンキーコング リターンズ オリジナルサウンドトラック (ntdo-17230)/SCANS/Tray.png" source="original">
+    <mtime>1658529865</mtime>
+    <size>10800293</size>
+    <md5>881e859bb9fed49afe97f05cc2a22b10</md5>
+    <crc32>76342161</crc32>
+    <sha1>bead594532effe24b749eae1fa5f73469110aeee</sha1>
+    <format>PNG</format>
+  </file>
+</files>
