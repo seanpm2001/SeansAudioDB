@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="A.png" source="original">
+    <mtime>1658340804</mtime>
+    <size>2613745</size>
+    <md5>274419a655eedbc001c07b397f1255d7</md5>
+    <crc32>90df8306</crc32>
+    <sha1>20282af8183e6153078cfacc2a99c8769e53ec4b</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="A_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>A.png</original>
+    <mtime>1658342054</mtime>
+    <size>4806</size>
+    <md5>dd818eae51551423668905d05606a082</md5>
+    <crc32>40cd5088</crc32>
+    <sha1>3737e7bc7623ff6161a41d65545bf2379e4d873a</sha1>
+  </file>
+  <file name="Nintendo-3DS-eShop-BGM_Mid-2015_Late-2018_Early-2020_archive.torrent" source="metadata">
+    <btih>b8e0bca403ac41b15f1dc60ce086865fed10b906</btih>
+    <mtime>1682325988</mtime>
+    <size>4330</size>
+    <md5>e4f17df706c781a2f9fee63300d72c6a</md5>
+    <crc32>6a701379</crc32>
+    <sha1>c86c55ad0cd89108846e793f73fdc7df9980215b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Nintendo-3DS-eShop-BGM_Mid-2015_Late-2018_Early-2020_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>659265a9a5caca684ddfec5c0e322266</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Nintendo-3DS-eShop-BGM_Mid-2015_Late-2018_Early-2020_meta.sqlite" source="original">
+    <mtime>1658341224</mtime>
+    <size>28672</size>
+    <md5>df0c9df3be00267b42a096ce94a6160f</md5>
+    <crc32>05e413e5</crc32>
+    <sha1>4147d7f2165206ab21276fcf1faa9226e2005f2d</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Nintendo-3DS-eShop-BGM_Mid-2015_Late-2018_Early-2020_meta.xml" source="original">
+    <mtime>1682325986</mtime>
+    <size>1060</size>
+    <md5>c44e4f94ab1f16ea47d7aece4d6e22d6</md5>
+    <crc32>3a143de8</crc32>
+    <sha1>fc3b326d778b3c03732cb030b7db4521576f17a5</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1658341231</mtime>
+    <size>4384</size>
+    <md5>7c0d80cc958d677e98edbfcb20e752d2</md5>
+    <crc32>0fca7263</crc32>
+    <sha1>e262b9c366befa1923af5691f5a4476e40e1a87b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="boss_bgm1 (6-1-2020).aac" source="original">
+    <mtime>1658340858</mtime>
+    <size>1143462</size>
+    <md5>249d4862a039e41bdf6617c1ff205f70</md5>
+    <crc32>7bc42904</crc32>
+    <sha1>54aeec5006c794c2a746c0b60f85d62317980072</sha1>
+    <format>Advanced Audio Coding</format>
+    <length>0</length>
+    <viruscheck>1658341608</viruscheck>
+    <track>01</track>
+  </file>
+  <file name="boss_bgm1 (6-1-2020).flac" source="derivative">
+    <format>Flac</format>
+    <original>boss_bgm1 (6-1-2020).wav</original>
+    <mtime>1658342223</mtime>
+    <size>6395499</size>
+    <md5>7e25cbffaa5352330e3d713e4c73b26b</md5>
+    <crc32>28c56025</crc32>
+    <sha1>94930920138e7fa5ed567a8d42f894e06d71ead5</sha1>
+    <length>95.26</length>
+  </file>
+  <file name="boss_bgm1 (6-1-2020).mp3" source="derivative">
+    <bitrate>177</bitrate>
+    <format>VBR MP3</format>
+    <original>boss_bgm1 (6-1-2020).wav</original>
+    <mtime>1658341957</mtime>
+    <size>2117192</size>
+    <md5>7c7fa748fa7a58a022262be71827dbaf</md5>
+    <crc32>c531c06d</crc32>
+    <sha1>81d89cbb84b07a7e3f7e554d075e15d07c072864</sha1>
+    <length>95.33</length>
+  </file>
+  <file name="boss_bgm1 (6-1-2020).png" source="derivative">
+    <format>PNG</format>
+    <original>boss_bgm1 (6-1-2020).wav</original>
+    <mtime>1658342365</mtime>
+    <size>35210</size>
+    <md5>e267952b4cb51c07b452b4715b4081e8</md5>
+    <crc32>4db0834c</crc32>
+    <sha1>0b3579ce64d0a895a9f64c57b08f6c8c681e3162</sha1>
+  </file>
+  <file name="boss_bgm1 (6-1-2020).wav" source="original">
+    <mtime>1658340847</mtime>
+    <size>12193836</size>
+    <md5>3bf2d580f1780a876a0c0a234073ff52</md5>
+    <crc32>3037a290</crc32>
+    <sha1>9e6680961a576156681781a12899339e60470710</sha1>
+    <format>WAVE</format>
+    <length>95.26</length>
+    <track>01</track>
+  </file>
+  <file name="boss_bgm1 (6-1-2020)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>boss_bgm1 (6-1-2020).wav</original>
+    <mtime>1658342529</mtime>
+    <size>345806</size>
+    <md5>2acd240b7bf97a4a1888fe7c4ef2e2cb</md5>
+    <crc32>a4cef052</crc32>
+    <sha1>cd43cc71ddb97ff1b63e31b9f550ece91e7f1bb5</sha1>
+  </file>
+</files>

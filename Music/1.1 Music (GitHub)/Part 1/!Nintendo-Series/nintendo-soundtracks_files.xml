@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Nintendo Soundtracks.jpg" source="original">
+    <mtime>1674234098</mtime>
+    <size>1532818</size>
+    <md5>f0fcfe6759bacf13b7d996197be512f7</md5>
+    <crc32>cbeb8b78</crc32>
+    <sha1>6c95736e5b28618de757a9e723bfbe5db2a3eac0</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Nintendo Soundtracks_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Nintendo Soundtracks.jpg</original>
+    <mtime>1674234749</mtime>
+    <size>19983</size>
+    <md5>c5f179640a240e093f6a6ec25d2912ef</md5>
+    <crc32>1591239b</crc32>
+    <sha1>80ab4d9a0ba4e7b56301ce8b4a33cb38cf5e92a4</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1674234680</mtime>
+    <size>18048</size>
+    <md5>eed3c52755508c7b7a42444ea28d4add</md5>
+    <crc32>58754486</crc32>
+    <sha1>6a546ad2e3930addd9b8f0555e714eee200f3061</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="nintendo-soundtracks_archive.torrent" source="metadata">
+    <btih>19f3c9c809eabd4251487e529719345db0ff9346</btih>
+    <mtime>1722806268</mtime>
+    <size>2145</size>
+    <md5>eb58fb2e8892a48293a443f6db809bd4</md5>
+    <crc32>64caa488</crc32>
+    <sha1>8f83efb57706a6dfeaaabdb182f7258490ebf331</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="nintendo-soundtracks_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>396af2d8855774205a1109778a5c9eb9</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="nintendo-soundtracks_meta.sqlite" source="original">
+    <mtime>1674234674</mtime>
+    <size>20480</size>
+    <md5>44f273619031d7b9960188ea722838e5</md5>
+    <crc32>e9af9bb0</crc32>
+    <sha1>9bab88f6875ad9ee734af50676b2d688decec00c</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="nintendo-soundtracks_meta.xml" source="original">
+    <mtime>1722806266</mtime>
+    <size>35794</size>
+    <md5>68b6457ff9442e8ad4a22d57e0ece03b</md5>
+    <crc32>b2e20ef2</crc32>
+    <sha1>dc295ad36778b9f27e7bcd4f2876cc1074304763</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="nintendo-soundtracks_reviews.xml" source="original">
+    <mtime>1698783372</mtime>
+    <size>673</size>
+    <md5>4c57a541ebd9472052a7b35eb2929d58</md5>
+    <crc32>80ebf5f2</crc32>
+    <sha1>a73d3c4c0072085dc1a7ade48f184b77efb15df5</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

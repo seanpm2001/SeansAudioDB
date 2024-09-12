@@ -1,0 +1,4088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="CD 1/01. Title.flac" source="original">
+    <mtime>1643414232</mtime>
+    <size>7809048</size>
+    <md5>64174f5fdfd08439cc20ff71ce9226a5</md5>
+    <crc32>d9713508</crc32>
+    <sha1>5f7fe45317dbced1e99d1950b1b4d090cf1de9d5</sha1>
+    <format>Flac</format>
+    <length>85.4</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Title</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>1</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/01. Title.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Title</title>
+    <track>1</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>197</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/01. Title.flac</original>
+    <mtime>1643416083</mtime>
+    <size>2203955</size>
+    <md5>5a809c35388e7eaf9b22555d16e66709</md5>
+    <crc32>202a8aac</crc32>
+    <sha1>2637fe6cc748f24e68f21171e6054c85ed2e1020</sha1>
+    <length>85.45</length>
+  </file>
+  <file name="CD 1/01. Title.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/01. Title.flac</original>
+    <mtime>1643418429</mtime>
+    <size>27438</size>
+    <md5>99d41c962d130b1e878112347c86fd62</md5>
+    <crc32>f3e75f82</crc32>
+    <sha1>42d482ab2e7e20ab89b50f923d79b7d456a07575</sha1>
+  </file>
+  <file name="CD 1/01. Title_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/01. Title.flac</original>
+    <mtime>1643420243</mtime>
+    <size>337121</size>
+    <md5>5f8023339d0abad4cb5b2acb756ff919</md5>
+    <crc32>2c1ac5a9</crc32>
+    <sha1>2be36c154e2056fe155cfe811549960d1fbc36a3</sha1>
+  </file>
+  <file name="CD 1/02. Menu Select.flac" source="original">
+    <mtime>1643414239</mtime>
+    <size>13011424</size>
+    <md5>a9f1f73b18ac894c04fa7695b0dd4af8</md5>
+    <crc32>240e84dc</crc32>
+    <sha1>afaa1333531cd3d7b6cb6f517bfe3580a7dd32bf</sha1>
+    <format>Flac</format>
+    <length>111.69</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Menu Select</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>2</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/02. Menu Select.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Menu Select</title>
+    <track>2</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>183</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/02. Menu Select.flac</original>
+    <mtime>1643416671</mtime>
+    <size>2647337</size>
+    <md5>7a01beba1f1b6b792e5103a4c483548b</md5>
+    <crc32>785fe678</crc32>
+    <sha1>49628f560dea6bfbcfae29d2c85635ba28f51fee</sha1>
+    <length>111.73</length>
+  </file>
+  <file name="CD 1/02. Menu Select.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/02. Menu Select.flac</original>
+    <mtime>1643418452</mtime>
+    <size>37692</size>
+    <md5>fb228242931e607b88d9945c34173627</md5>
+    <crc32>7539ddd9</crc32>
+    <sha1>8eab465ab3cddb03cb14f98b3c0577b9dbc00c00</sha1>
+  </file>
+  <file name="CD 1/02. Menu Select_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/02. Menu Select.flac</original>
+    <mtime>1643421314</mtime>
+    <size>325207</size>
+    <md5>a7926598f87abb06d0524bdf9674d4ab</md5>
+    <crc32>ce5d14e6</crc32>
+    <sha1>5e4ffcd5c32b08a64367fedae6f1e194fa8140c5</sha1>
+  </file>
+  <file name="CD 1/03. Prologue.flac" source="original">
+    <mtime>1643414247</mtime>
+    <size>10351857</size>
+    <md5>ced3bcae69dc76b591e6fcfd00672dd3</md5>
+    <crc32>b34e62f1</crc32>
+    <sha1>b1f7a76c8aea9366a88386893e79febcbf55cdea</sha1>
+    <format>Flac</format>
+    <length>108.07</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Prologue</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>3</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/03. Prologue.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Prologue</title>
+    <track>3</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>185</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/03. Prologue.flac</original>
+    <mtime>1643416617</mtime>
+    <size>2598345</size>
+    <md5>b4eca35db08ba9c8780e19dc2a87c9d8</md5>
+    <crc32>717cb475</crc32>
+    <sha1>67192000e91079a2496448777fef0e7d55f8da31</sha1>
+    <length>108.1</length>
+  </file>
+  <file name="CD 1/03. Prologue.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/03. Prologue.flac</original>
+    <mtime>1643418731</mtime>
+    <size>30724</size>
+    <md5>98433905e32759046a47ba2c4e316a3e</md5>
+    <crc32>d2f7557c</crc32>
+    <sha1>41fe8eecdfdbcd4107a668405cfee8a79a5ef07b</sha1>
+  </file>
+  <file name="CD 1/03. Prologue_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/03. Prologue.flac</original>
+    <mtime>1643421172</mtime>
+    <size>313050</size>
+    <md5>71c62d3bfe1c2be9eadfa9802338427b</md5>
+    <crc32>e5393c35</crc32>
+    <sha1>9ad72d090c42137c64f4f32ef5f2f41cb4f7d4b6</sha1>
+  </file>
+  <file name="CD 1/04. Frigate Orpheon.flac" source="original">
+    <mtime>1643414255</mtime>
+    <size>16987625</size>
+    <md5>155b43bcc1c6c6d80d8b92621c426d9e</md5>
+    <crc32>25425466</crc32>
+    <sha1>885b2241d875295b22b152a6b71cef190304ae86</sha1>
+    <format>Flac</format>
+    <length>165.17</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Frigate Orpheon</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>4</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/04. Frigate Orpheon.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Frigate Orpheon</title>
+    <track>4</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>215</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/04. Frigate Orpheon.flac</original>
+    <mtime>1643416196</mtime>
+    <size>4545516</size>
+    <md5>1da3a652e1803d15748730afc44ab8bd</md5>
+    <crc32>a42f3dbf</crc32>
+    <sha1>7af419e99512eacd2dba634887c5b6694ffa4bf2</sha1>
+    <length>165.22</length>
+  </file>
+  <file name="CD 1/04. Frigate Orpheon.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/04. Frigate Orpheon.flac</original>
+    <mtime>1643418927</mtime>
+    <size>33735</size>
+    <md5>d436c67e1416ccbc8ab94154cad8d65b</md5>
+    <crc32>7eeddba5</crc32>
+    <sha1>254adbcce9a726f7da86583f3237591e5b35b97f</sha1>
+  </file>
+  <file name="CD 1/04. Frigate Orpheon_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/04. Frigate Orpheon.flac</original>
+    <mtime>1643420775</mtime>
+    <size>320200</size>
+    <md5>b2acb426198ec7118dc2eff1133f8da7</md5>
+    <crc32>aef67cb5</crc32>
+    <sha1>20dfbe4ad77e692624f061c3cacc17913317661d</sha1>
+  </file>
+  <file name="CD 1/05. VS. Parasite Queen.flac" source="original">
+    <mtime>1643414261</mtime>
+    <size>11604487</size>
+    <md5>7db5283e4b78506d966ebbf8d426c04a</md5>
+    <crc32>35cf32ae</crc32>
+    <sha1>2c165295ccd4123df7e3d24d4bf99a71e020f48a</sha1>
+    <format>Flac</format>
+    <length>96.2</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Parasite Queen</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>5</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/05. VS. Parasite Queen.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>VS. Parasite Queen</title>
+    <track>5</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>200</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/05. VS. Parasite Queen.flac</original>
+    <mtime>1643416113</mtime>
+    <size>2499119</size>
+    <md5>e1fa4405e571ad8b0c3069a37f47f859</md5>
+    <crc32>98bfa1be</crc32>
+    <sha1>394f75f8fa925bac1cca2e92b280b21eb3a08739</sha1>
+    <length>96.24</length>
+  </file>
+  <file name="CD 1/05. VS. Parasite Queen.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/05. VS. Parasite Queen.flac</original>
+    <mtime>1643418904</mtime>
+    <size>35362</size>
+    <md5>3dd3dd05fadd1ff80da44179043b7fa5</md5>
+    <crc32>8f6cd7a3</crc32>
+    <sha1>bf7920742024674303a0eac9fd7aaf0f9f731948</sha1>
+  </file>
+  <file name="CD 1/05. VS. Parasite Queen_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/05. VS. Parasite Queen.flac</original>
+    <mtime>1643421293</mtime>
+    <size>320456</size>
+    <md5>df4a07c0b82aaed2f0f7545591bfd830</md5>
+    <crc32>71cb76a0</crc32>
+    <sha1>3a88fd4ab115e6b0ea6ba623034d5d150bf1a8d4</sha1>
+  </file>
+  <file name="CD 1/06. Frigate Orpheon Escape.flac" source="original">
+    <mtime>1643414267</mtime>
+    <size>10846399</size>
+    <md5>a843584c4a0d16ba0120fa3101001ecb</md5>
+    <crc32>f263c857</crc32>
+    <sha1>3957a0f8b398e7cd9dd67c79c69d467bdaaaa171</sha1>
+    <format>Flac</format>
+    <length>91.4</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Frigate Orpheon Escape</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>6</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/06. Frigate Orpheon Escape.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Frigate Orpheon Escape</title>
+    <track>6</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>198</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/06. Frigate Orpheon Escape.flac</original>
+    <mtime>1643416291</mtime>
+    <size>2363904</size>
+    <md5>ca54faa49560c61cc4759931f93ecdde</md5>
+    <crc32>04013d2e</crc32>
+    <sha1>77f89ad854a88f8ccbbed948d006bdd8faf72d1d</sha1>
+    <length>91.43</length>
+  </file>
+  <file name="CD 1/06. Frigate Orpheon Escape.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/06. Frigate Orpheon Escape.flac</original>
+    <mtime>1643418879</mtime>
+    <size>37887</size>
+    <md5>8b01dfe4649d26614699c0d95a763a82</md5>
+    <crc32>6525dcf2</crc32>
+    <sha1>bbadb011aabaf3c84c88b403b0e52d05eab6f8c7</sha1>
+  </file>
+  <file name="CD 1/06. Frigate Orpheon Escape_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/06. Frigate Orpheon Escape.flac</original>
+    <mtime>1643421335</mtime>
+    <size>309809</size>
+    <md5>3c57a0160f790d10c2abe1871c3ef71e</md5>
+    <crc32>e6c0384d</crc32>
+    <sha1>2919f68acd1ddcf8a67df6f4d4516d6ea5f6fc29</sha1>
+  </file>
+  <file name="CD 1/07. Planet Tallon IV.flac" source="original">
+    <mtime>1643414277</mtime>
+    <size>22703398</size>
+    <md5>8ea7907043e5f9b7cb25d4a76eac656d</md5>
+    <crc32>2015b73a</crc32>
+    <sha1>29265a1fd84fc750cbea2626fbfcfc986f8c536c</sha1>
+    <format>Flac</format>
+    <length>256.93</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Planet Tallon IV</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>7</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/07. Planet Tallon IV.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Planet Tallon IV</title>
+    <track>7</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>189</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/07. Planet Tallon IV.flac</original>
+    <mtime>1643416831</mtime>
+    <size>6162359</size>
+    <md5>8192687f0835f217ed5d72c586234bab</md5>
+    <crc32>e679f9cd</crc32>
+    <sha1>d0b170ddb1385bfdbc455d05f1471685141ae9db</sha1>
+    <length>256.97</length>
+  </file>
+  <file name="CD 1/07. Planet Tallon IV.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/07. Planet Tallon IV.flac</original>
+    <mtime>1643418803</mtime>
+    <size>31975</size>
+    <md5>6cc10bcc81af1e65d50ffac4f079e7c9</md5>
+    <crc32>d925be00</crc32>
+    <sha1>9ff3ef45e5d54ec4b6af90d7819914f7d6aac5c7</sha1>
+  </file>
+  <file name="CD 1/07. Planet Tallon IV_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/07. Planet Tallon IV.flac</original>
+    <mtime>1643421283</mtime>
+    <size>288320</size>
+    <md5>6999e1a3b41f85ec95ab81d30930ea9f</md5>
+    <crc32>0210d815</crc32>
+    <sha1>1f56cfeecc66bfa6477f9618edde84efec4ce518</sha1>
+  </file>
+  <file name="CD 1/08. Ancient Chozo Ruins.flac" source="original">
+    <mtime>1643414282</mtime>
+    <size>9407425</size>
+    <md5>8fa769b908db724d1fbd843e1bc281e5</md5>
+    <crc32>393124a7</crc32>
+    <sha1>56291ffb4049e48de8ac51a8c8923bd8584d929c</sha1>
+    <format>Flac</format>
+    <length>136.6</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Ancient Chozo Ruins</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>8</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/08. Ancient Chozo Ruins.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Ancient Chozo Ruins</title>
+    <track>8</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>184</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/08. Ancient Chozo Ruins.flac</original>
+    <mtime>1643416724</mtime>
+    <size>3245033</size>
+    <md5>48d301e99876631a27b1137bf5c5f43a</md5>
+    <crc32>a081e2ae</crc32>
+    <sha1>91b1433bec9dec36a656c17ad325489f737624f4</sha1>
+    <length>136.65</length>
+  </file>
+  <file name="CD 1/08. Ancient Chozo Ruins.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/08. Ancient Chozo Ruins.flac</original>
+    <mtime>1643418774</mtime>
+    <size>33015</size>
+    <md5>fe2333ee15e03192bae3ef15056e8f29</md5>
+    <crc32>77711bf4</crc32>
+    <sha1>203dca8c6d90cefc5607f9e681fbe7b14b9af4b6</sha1>
+  </file>
+  <file name="CD 1/08. Ancient Chozo Ruins_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/08. Ancient Chozo Ruins.flac</original>
+    <mtime>1643421273</mtime>
+    <size>307838</size>
+    <md5>ed35607c0ae97ded451c9926ede23637</md5>
+    <crc32>891a018d</crc32>
+    <sha1>09ed6b999f88e5ca683c195d29487673ed33b7bb</sha1>
+  </file>
+  <file name="CD 1/09. VS. Hive Totem.flac" source="original">
+    <mtime>1643414288</mtime>
+    <size>10727085</size>
+    <md5>964e9d70a680800ce93aa3d349b04ea4</md5>
+    <crc32>98a14ad7</crc32>
+    <sha1>c9dc3f2e5ae8c68a81d57868c7f652b323063036</sha1>
+    <format>Flac</format>
+    <length>99.43</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Hive Totem</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>9</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/09. VS. Hive Totem.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>VS. Hive Totem</title>
+    <track>9</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>188</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/09. VS. Hive Totem.flac</original>
+    <mtime>1643416849</mtime>
+    <size>2430086</size>
+    <md5>86d71a570afbf4d91a94c569c3ed1a4c</md5>
+    <crc32>80f3e1a9</crc32>
+    <sha1>b9549f98485916e07aeed69cc301d1aceda5e97d</sha1>
+    <length>99.47</length>
+  </file>
+  <file name="CD 1/09. VS. Hive Totem.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/09. VS. Hive Totem.flac</original>
+    <mtime>1643418710</mtime>
+    <size>38049</size>
+    <md5>43fa02fab5c57b3d2fbf33926841320a</md5>
+    <crc32>220b7615</crc32>
+    <sha1>7bace921b850ed08c963507e985c9d82368db02b</sha1>
+  </file>
+  <file name="CD 1/09. VS. Hive Totem_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/09. VS. Hive Totem.flac</original>
+    <mtime>1643421264</mtime>
+    <size>317486</size>
+    <md5>335f678c9182f98da63cbf6dbf9ebe17</md5>
+    <crc32>06ef2036</crc32>
+    <sha1>30a2beb551968e0274c9bc61e136af29811513b3</sha1>
+  </file>
+  <file name="CD 1/10. VS. Giant Beetle.flac" source="original">
+    <mtime>1643414292</mtime>
+    <size>4795882</size>
+    <md5>9faa7858a43f727a978fa4c20d3181a5</md5>
+    <crc32>3039fca0</crc32>
+    <sha1>e66c8ad0d8a866babeac1f45cb25efe58759a166</sha1>
+    <format>Flac</format>
+    <length>45.24</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Giant Beetle</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>10</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/10. VS. Giant Beetle.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>VS. Giant Beetle</title>
+    <track>10</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>196</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/10. VS. Giant Beetle.flac</original>
+    <mtime>1643416863</mtime>
+    <size>1206365</size>
+    <md5>cac659e05fab7717e06f96cff4da94a5</md5>
+    <crc32>61032b0c</crc32>
+    <sha1>129c858292a06f8e52aaa0384e8fd92d28ba31c1</sha1>
+    <length>45.27</length>
+  </file>
+  <file name="CD 1/10. VS. Giant Beetle.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/10. VS. Giant Beetle.flac</original>
+    <mtime>1643418495</mtime>
+    <size>42448</size>
+    <md5>7b868cbeca163c1cd15aea9e223673b7</md5>
+    <crc32>fd6eed54</crc32>
+    <sha1>25eaaaf1f71b2e4c9adf2d06f170474d0c8dcd85</sha1>
+  </file>
+  <file name="CD 1/10. VS. Giant Beetle_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/10. VS. Giant Beetle.flac</original>
+    <mtime>1643421253</mtime>
+    <size>325995</size>
+    <md5>c2326bc7ba98ec6f98e887155e8c3088</md5>
+    <crc32>549de6fb</crc32>
+    <sha1>83ee1e48888ab80c398b5edc077c009cdbb40b7b</sha1>
+  </file>
+  <file name="CD 1/11. Chozo Ruins.flac" source="original">
+    <mtime>1643414303</mtime>
+    <size>27167125</size>
+    <md5>e48716eb62fb04223b7453bd36e4ef1c</md5>
+    <crc32>af56e301</crc32>
+    <sha1>194fde6a52f3753f83216dba9c35d94a7a2fe30f</sha1>
+    <format>Flac</format>
+    <length>252.96</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Chozo Ruins</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>11</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/11. Chozo Ruins.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Chozo Ruins</title>
+    <track>11</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>212</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/11. Chozo Ruins.flac</original>
+    <mtime>1643416453</mtime>
+    <size>6814431</size>
+    <md5>c5f31a38298b0585dd441b55bfea944b</md5>
+    <crc32>572cda8c</crc32>
+    <sha1>f92c70e73605ae90771e78e8e12c468ca9f4a53f</sha1>
+    <length>253</length>
+  </file>
+  <file name="CD 1/11. Chozo Ruins.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/11. Chozo Ruins.flac</original>
+    <mtime>1643418852</mtime>
+    <size>38513</size>
+    <md5>b1e5152a6f901dbcf475db3db0778060</md5>
+    <crc32>98ab1763</crc32>
+    <sha1>c5586a1f660acffcfabc21e85fd10508774e90a6</sha1>
+  </file>
+  <file name="CD 1/11. Chozo Ruins_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/11. Chozo Ruins.flac</original>
+    <mtime>1643421217</mtime>
+    <size>336148</size>
+    <md5>26315906935f410775d618b0e29d7f2d</md5>
+    <crc32>b5080aa3</crc32>
+    <sha1>b5b665a28e43381119e828641af050fb6432fa6a</sha1>
+  </file>
+  <file name="CD 1/12. Energy Core.flac" source="original">
+    <mtime>1643414309</mtime>
+    <size>9384451</size>
+    <md5>ce8de05dccef23182e0cfc61e6befdeb</md5>
+    <crc32>1ef54fd9</crc32>
+    <sha1>62526fbd20f5bcf0923e6166c7fe331e6fc6e037</sha1>
+    <format>Flac</format>
+    <length>80.2</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Energy Core</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>12</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/12. Energy Core.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Energy Core</title>
+    <track>12</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>227</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/12. Energy Core.flac</original>
+    <mtime>1643416153</mtime>
+    <size>2370528</size>
+    <md5>4c0ec6414aab6b43e1ac2d40a147c0e7</md5>
+    <crc32>6892e296</crc32>
+    <sha1>ca9023bed8f62d471571db030736281e6f688d12</sha1>
+    <length>80.25</length>
+  </file>
+  <file name="CD 1/12. Energy Core.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/12. Energy Core.flac</original>
+    <mtime>1643418167</mtime>
+    <size>34222</size>
+    <md5>557cd85149791043c43e7b6115e8a723</md5>
+    <crc32>0f1dcdbe</crc32>
+    <sha1>cc017a5a3acca8c7eb5fbb3c6f07f0b17d712cd8</sha1>
+  </file>
+  <file name="CD 1/12. Energy Core_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/12. Energy Core.flac</original>
+    <mtime>1643421362</mtime>
+    <size>337474</size>
+    <md5>4bca8cd2115db19f8293f849640de9dc</md5>
+    <crc32>e5f8c8af</crc32>
+    <sha1>fda52c06c430fb4036037105d0a6559a299b7c72</sha1>
+  </file>
+  <file name="CD 1/13. VS. Flaahgra.flac" source="original">
+    <mtime>1643414315</mtime>
+    <size>12793151</size>
+    <md5>f34f8160b4d939084fd791a071a04eb7</md5>
+    <crc32>42052ca0</crc32>
+    <sha1>66b3879b70b8857e8866635c06be68a2a74e0e02</sha1>
+    <format>Flac</format>
+    <length>139.77</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Flaahgra</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>13</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/13. VS. Flaahgra.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>VS. Flaahgra</title>
+    <track>13</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>167</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/13. VS. Flaahgra.flac</original>
+    <mtime>1643416175</mtime>
+    <size>3013180</size>
+    <md5>3b489eaee3e44815e38e77fa47b0002d</md5>
+    <crc32>9b965b16</crc32>
+    <sha1>0a508e649d78e8cb8ef3dfb6479c0ab45fdbf993</sha1>
+    <length>139.81</length>
+  </file>
+  <file name="CD 1/13. VS. Flaahgra.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/13. VS. Flaahgra.flac</original>
+    <mtime>1643418364</mtime>
+    <size>35590</size>
+    <md5>29e0f09f02c998a2ae5d401cc5faa319</md5>
+    <crc32>2e95f318</crc32>
+    <sha1>6652f64c0d5fa6d08a1f05c06af3862e66f07d79</sha1>
+  </file>
+  <file name="CD 1/13. VS. Flaahgra_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/13. VS. Flaahgra.flac</original>
+    <mtime>1643421374</mtime>
+    <size>335821</size>
+    <md5>78b28648cbe289762e1de245663fa071</md5>
+    <crc32>fb1af0fa</crc32>
+    <sha1>12d082c9d0e517677cd1e9fd7022aafe6c23c242</sha1>
+  </file>
+  <file name="CD 1/14. Lava Caves (Burning Trail).flac" source="original">
+    <mtime>1643414318</mtime>
+    <size>3186283</size>
+    <md5>fa3f8bc2522c1881c780c8437727a58b</md5>
+    <crc32>8903bf04</crc32>
+    <sha1>dac95759cafcbf9bfa65a6aa40ee43b40e3ac5a8</sha1>
+    <format>Flac</format>
+    <length>41.65</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Lava Caves (Burning Trail)</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>14</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/14. Lava Caves (Burning Trail).mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Lava Caves (Burning Trail)</title>
+    <track>14</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>179</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/14. Lava Caves (Burning Trail).flac</original>
+    <mtime>1643416475</mtime>
+    <size>1030620</size>
+    <md5>1a86a6c7c2fb19f1663548c5d1bee8cf</md5>
+    <crc32>a642ca8b</crc32>
+    <sha1>d6c953079abc912d57a15c1e7f95b7852747b0fa</sha1>
+    <length>41.69</length>
+  </file>
+  <file name="CD 1/14. Lava Caves (Burning Trail).png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/14. Lava Caves (Burning Trail).flac</original>
+    <mtime>1643418994</mtime>
+    <size>30838</size>
+    <md5>d8c8bb4f16f3b3d1a5b7bb705d4988a2</md5>
+    <crc32>7937bc40</crc32>
+    <sha1>3c86f1667f53c77e53d18db9e0ec9195cadbde3a</sha1>
+  </file>
+  <file name="CD 1/14. Lava Caves (Burning Trail)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/14. Lava Caves (Burning Trail).flac</original>
+    <mtime>1643421150</mtime>
+    <size>316116</size>
+    <md5>5b6bc70b1b622844a0c6dbd76bc0d5ed</md5>
+    <crc32>d133171a</crc32>
+    <sha1>1cdff6d0a7bb291baac750cc8c1511f5f47e6dd5</sha1>
+  </file>
+  <file name="CD 1/15. Lava Caves.flac" source="original">
+    <mtime>1643414328</mtime>
+    <size>24401258</size>
+    <md5>f778d35934ea5e4aa781aca4c8878240</md5>
+    <crc32>1edce4f1</crc32>
+    <sha1>2c1748b592d35a1f6ea3c05e2834bdc4a918a7ae</sha1>
+    <format>Flac</format>
+    <length>286.04</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Lava Caves</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>15</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/15. Lava Caves.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Lava Caves</title>
+    <track>15</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>189</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/15. Lava Caves.flac</original>
+    <mtime>1643416551</mtime>
+    <size>6868023</size>
+    <md5>576f9b5102bce66e68a4c289bbd4be6d</md5>
+    <crc32>ce566637</crc32>
+    <sha1>21411b6e057e467715c09dc41703c9519fa516fd</sha1>
+    <length>286.07</length>
+  </file>
+  <file name="CD 1/15. Lava Caves.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/15. Lava Caves.flac</original>
+    <mtime>1643418313</mtime>
+    <size>37860</size>
+    <md5>ff3089aa2e6d832ed2bab21f927bd281</md5>
+    <crc32>63372744</crc32>
+    <sha1>a14651265332518821bfee784481f2735525ca9f</sha1>
+  </file>
+  <file name="CD 1/15. Lava Caves_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/15. Lava Caves.flac</original>
+    <mtime>1643421325</mtime>
+    <size>313329</size>
+    <md5>507c94341adf8b9207fd153b666efe9a</md5>
+    <crc32>9f523399</crc32>
+    <sha1>364cfdaef2bf01ea6018b8554fe970bbd5089996</sha1>
+  </file>
+  <file name="CD 1/16. Ice Valley.flac" source="original">
+    <mtime>1643414337</mtime>
+    <size>21374930</size>
+    <md5>be31408472b905bd5f50f6c00d7f51c9</md5>
+    <crc32>fc23cab6</crc32>
+    <sha1>e0f5b99ece07a0cc115893eb2aa4f6d77b2ee428</sha1>
+    <format>Flac</format>
+    <length>219.87</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Ice Valley</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>16</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/16. Ice Valley.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Ice Valley</title>
+    <track>16</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>192</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/16. Ice Valley.flac</original>
+    <mtime>1643416524</mtime>
+    <size>5389803</size>
+    <md5>f92bb6ba3b14d47f26c253166ea1a477</md5>
+    <crc32>00278646</crc32>
+    <sha1>d4152ac2424887eca4867a4d0bfd1d6a9f452ec2</sha1>
+    <length>219.9</length>
+  </file>
+  <file name="CD 1/16. Ice Valley.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/16. Ice Valley.flac</original>
+    <mtime>1643418257</mtime>
+    <size>34472</size>
+    <md5>40727d6f592dd6badf3f52f614d49172</md5>
+    <crc32>03435956</crc32>
+    <sha1>cfd2e724e017d1c90dcde976273a2da7d2b6886b</sha1>
+  </file>
+  <file name="CD 1/16. Ice Valley_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/16. Ice Valley.flac</original>
+    <mtime>1643421446</mtime>
+    <size>327547</size>
+    <md5>5aed88e433dbc1f829826efe730369a5</md5>
+    <crc32>34570678</crc32>
+    <sha1>de3c6294057c94c2744054fec8514c20dca764af</sha1>
+  </file>
+  <file name="CD 1/17. Ice Chapel.flac" source="original">
+    <mtime>1643414342</mtime>
+    <size>7529153</size>
+    <md5>2b9ae359160bbf75029557dda266d470</md5>
+    <crc32>0e8c00b8</crc32>
+    <sha1>61c77ce42a40f22e5bc4d48947af0d99bce11a49</sha1>
+    <format>Flac</format>
+    <length>79.77</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Ice Chapel</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>17</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/17. Ice Chapel.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Ice Chapel</title>
+    <track>17</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>188</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/17. Ice Chapel.flac</original>
+    <mtime>1643416571</mtime>
+    <size>1969397</size>
+    <md5>39782b71d8e6ed9e43fe62ce9db09662</md5>
+    <crc32>9a3ece64</crc32>
+    <sha1>019c93f1d6225cf61cb3ed1c931dc6756e47af69</sha1>
+    <length>79.8</length>
+  </file>
+  <file name="CD 1/17. Ice Chapel.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/17. Ice Chapel.flac</original>
+    <mtime>1643418234</mtime>
+    <size>33967</size>
+    <md5>4f863de55bc1cca2009eccfb0c08de62</md5>
+    <crc32>35a83404</crc32>
+    <sha1>a7855a5a1c71340271ecafee6e57e7e00b384d2c</sha1>
+  </file>
+  <file name="CD 1/17. Ice Chapel_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/17. Ice Chapel.flac</original>
+    <mtime>1643421434</mtime>
+    <size>304686</size>
+    <md5>96209aa08007d298d5f8fcbac5193525</md5>
+    <crc32>a1b53f26</crc32>
+    <sha1>4dc4a99d64261690f05777e6abfcee531adc0abe</sha1>
+  </file>
+  <file name="CD 1/18. Space Pirates (Laboratory Gate).flac" source="original">
+    <mtime>1643414345</mtime>
+    <size>4269164</size>
+    <md5>23f786ffa94e674768850cb1608e70fb</md5>
+    <crc32>f8f66694</crc32>
+    <sha1>4ba8193ab82a1fd741ee9bcdadaca0b43aee19a3</sha1>
+    <format>Flac</format>
+    <length>58.47</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Space Pirates (Laboratory Gate)</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>18</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/18. Space Pirates (Laboratory Gate).mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Space Pirates (Laboratory Gate)</title>
+    <track>18</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>180</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/18. Space Pirates (Laboratory Gate).flac</original>
+    <mtime>1643417538</mtime>
+    <size>1410736</size>
+    <md5>8370d857af9d89770035cf35d72a0bcf</md5>
+    <crc32>3083c541</crc32>
+    <sha1>b1f6c3b67e31877b7d0d628a8d4f2f30a1432d26</sha1>
+    <length>58.51</length>
+  </file>
+  <file name="CD 1/18. Space Pirates (Laboratory Gate).png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/18. Space Pirates (Laboratory Gate).flac</original>
+    <mtime>1643418212</mtime>
+    <size>37312</size>
+    <md5>565a3d86fb2828f41f994ab42864cb5d</md5>
+    <crc32>ac642ed7</crc32>
+    <sha1>188f554bc5ec738ae511ac39f26ca8f4ab69a26c</sha1>
+  </file>
+  <file name="CD 1/18. Space Pirates (Laboratory Gate)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/18. Space Pirates (Laboratory Gate).flac</original>
+    <mtime>1643421019</mtime>
+    <size>314364</size>
+    <md5>31d3afbd2d051c70a1d8cfbb3273e140</md5>
+    <crc32>24070161</crc32>
+    <sha1>82fc5b64daf11c033a1071c3b67ffd6cfd27a5f4</sha1>
+  </file>
+  <file name="CD 1/19. VS. Space Pirates.flac" source="original">
+    <mtime>1643414351</mtime>
+    <size>10944519</size>
+    <md5>1af55145643bea3de7954a937dff8a4c</md5>
+    <crc32>7b482ca9</crc32>
+    <sha1>743aab07fde94f2c0694e3e334228a342cd286a4</sha1>
+    <format>Flac</format>
+    <length>109.96</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Space Pirates</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>19</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/19. VS. Space Pirates.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>VS. Space Pirates</title>
+    <track>19</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>187</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/19. VS. Space Pirates.flac</original>
+    <mtime>1643416271</mtime>
+    <size>2663773</size>
+    <md5>fe297b5c9a486558ceb9448038b1b41c</md5>
+    <crc32>4e8d0fd9</crc32>
+    <sha1>af853ff5efd94583d2870337f9c4807669ab2632</sha1>
+    <length>110</length>
+  </file>
+  <file name="CD 1/19. VS. Space Pirates.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/19. VS. Space Pirates.flac</original>
+    <mtime>1643418145</mtime>
+    <size>38092</size>
+    <md5>913457010d2168c519a669835c6c2841</md5>
+    <crc32>54f9ccc0</crc32>
+    <sha1>a6e4d8178d815a3a246ebb7ba42e9edcd40c0694</sha1>
+  </file>
+  <file name="CD 1/19. VS. Space Pirates_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/19. VS. Space Pirates.flac</original>
+    <mtime>1643421424</mtime>
+    <size>329907</size>
+    <md5>0c01436266527a0069f43044357eb207</md5>
+    <crc32>b3ac3e21</crc32>
+    <sha1>de020b20cfebbe3a6ea5082386c56e5200cbdd58</sha1>
+  </file>
+  <file name="CD 1/20. VS. Thardus.flac" source="original">
+    <mtime>1643414357</mtime>
+    <size>11057689</size>
+    <md5>e747072a9f1ab7aa83abe92bbc2480f6</md5>
+    <crc32>28e2f0d3</crc32>
+    <sha1>7f9dad5ecf3e479b8044ece1cbdb8d32f9df0987</sha1>
+    <format>Flac</format>
+    <length>101.27</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Thardus</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>20</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/20. VS. Thardus.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>VS. Thardus</title>
+    <track>20</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>186</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/20. VS. Thardus.flac</original>
+    <mtime>1643417343</mtime>
+    <size>2450823</size>
+    <md5>39f5edfa36017dab73059aa99c856df9</md5>
+    <crc32>2d85b6c5</crc32>
+    <sha1>fef886a0f24223c75bc9e37472ca1a6628cf61a6</sha1>
+    <length>101.3</length>
+  </file>
+  <file name="CD 1/20. VS. Thardus.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/20. VS. Thardus.flac</original>
+    <mtime>1643418123</mtime>
+    <size>38934</size>
+    <md5>0f064842602dfec4afc5d0495be6f04d</md5>
+    <crc32>681ecc85</crc32>
+    <sha1>c7d249f511e29b0c53a6efc94c7642d2a132016c</sha1>
+  </file>
+  <file name="CD 1/20. VS. Thardus_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/20. VS. Thardus.flac</original>
+    <mtime>1643421414</mtime>
+    <size>319324</size>
+    <md5>c4885e66fc4088cdc5677df5c3a19c38</md5>
+    <crc32>7bedc71f</crc32>
+    <sha1>7aa62dfa71824aec364f293809c3e093b8c72443</sha1>
+  </file>
+  <file name="CD 1/21. Tallon Overworld.flac" source="original">
+    <mtime>1643414366</mtime>
+    <size>21810973</size>
+    <md5>aefac16f0c5bf9002e3f5c05be9b2be2</md5>
+    <crc32>be1235b5</crc32>
+    <sha1>017aacbdacf9b32cd38457b48df1c9ab5287b790</sha1>
+    <format>Flac</format>
+    <length>236.6</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Tallon Overworld</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>21</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/21. Tallon Overworld.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Tallon Overworld</title>
+    <track>21</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>192</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/21. Tallon Overworld.flac</original>
+    <mtime>1643417118</mtime>
+    <size>5794939</size>
+    <md5>7080c585c98da59d3d720289f4cfaeb3</md5>
+    <crc32>55416108</crc32>
+    <sha1>e12a1ad6c612d06bc6c1b98bb451280d4e35bfa4</sha1>
+    <length>236.64</length>
+  </file>
+  <file name="CD 1/21. Tallon Overworld.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/21. Tallon Overworld.flac</original>
+    <mtime>1643418074</mtime>
+    <size>38926</size>
+    <md5>59fd8d6c7f147406207654a5b7ae6c55</md5>
+    <crc32>486b8061</crc32>
+    <sha1>6c6c94588f25c03c94cae7bec9966cddf71b723c</sha1>
+  </file>
+  <file name="CD 1/21. Tallon Overworld_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/21. Tallon Overworld.flac</original>
+    <mtime>1643421205</mtime>
+    <size>334477</size>
+    <md5>7311a5ec8b256e578e180a1439ab6047</md5>
+    <crc32>b790067b</crc32>
+    <sha1>e87ec4e1684626bddff40e8b1eac159fb6d66c93</sha1>
+  </file>
+  <file name="CD 1/22. Chozo Elder Cathedral.flac" source="original">
+    <mtime>1643414371</mtime>
+    <size>6738790</size>
+    <md5>f84b27c8a0521d5966e393cb3b93c7bc</md5>
+    <crc32>615ba0b7</crc32>
+    <sha1>7df20e2e1b90207e6a64bee28655aa66cdd06d5c</sha1>
+    <format>Flac</format>
+    <length>73.11</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Chozo Elder Cathedral</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>22</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/22. Chozo Elder Cathedral.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Chozo Elder Cathedral</title>
+    <track>22</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>185</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/22. Chozo Elder Cathedral.flac</original>
+    <mtime>1643417267</mtime>
+    <size>1787300</size>
+    <md5>8bf6958223035df42e70e7c771d3397d</md5>
+    <crc32>c1606f1a</crc32>
+    <sha1>58dff6345757128f8ed0379bda0023b8b2bbf3cc</sha1>
+    <length>73.14</length>
+  </file>
+  <file name="CD 1/22. Chozo Elder Cathedral.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/22. Chozo Elder Cathedral.flac</original>
+    <mtime>1643418030</mtime>
+    <size>33985</size>
+    <md5>f29266e8fe40448e39797294b5f4556d</md5>
+    <crc32>1269fa6a</crc32>
+    <sha1>96341879959b5062e697ff9f37e4c4f1d0fee432</sha1>
+  </file>
+  <file name="CD 1/22. Chozo Elder Cathedral_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/22. Chozo Elder Cathedral.flac</original>
+    <mtime>1643421394</mtime>
+    <size>297100</size>
+    <md5>2c5dffd2b235d55649af55390521e02a</md5>
+    <crc32>67b65530</crc32>
+    <sha1>aad2435974c1f5b56a1eb24a64c16253e12f8594</sha1>
+  </file>
+  <file name="CD 1/23. VS. Chozo Ghost.flac" source="original">
+    <mtime>1643414375</mtime>
+    <size>7239035</size>
+    <md5>f0fe57bb5d22e9b9dc27294a453cb9ce</md5>
+    <crc32>cf96dd5c</crc32>
+    <sha1>ae7265abc53935cd309b698bde6f0e67170bd1a8</sha1>
+    <format>Flac</format>
+    <length>57.16</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Chozo Ghost</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>23</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/23. VS. Chozo Ghost.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>VS. Chozo Ghost</title>
+    <track>23</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>195</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/23. VS. Chozo Ghost.flac</original>
+    <mtime>1643416965</mtime>
+    <size>1494455</size>
+    <md5>fdd9238fbb1249b6a61274453536bb2a</md5>
+    <crc32>bd0afcf9</crc32>
+    <sha1>b532cb69fe93ad96552905d3bc3725dec6b69eca</sha1>
+    <length>57.21</length>
+  </file>
+  <file name="CD 1/23. VS. Chozo Ghost.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/23. VS. Chozo Ghost.flac</original>
+    <mtime>1643418667</mtime>
+    <size>31628</size>
+    <md5>2f9c725492b54d3efed9bce032cf0b9b</md5>
+    <crc32>a6b02efc</crc32>
+    <sha1>aad5cbea1d1b979f9dec5509b66c3da09c199df9</sha1>
+  </file>
+  <file name="CD 1/23. VS. Chozo Ghost_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/23. VS. Chozo Ghost.flac</original>
+    <mtime>1643421384</mtime>
+    <size>325970</size>
+    <md5>b21f8c896d5962ada61351ae4b578b19</md5>
+    <crc32>998a6e66</crc32>
+    <sha1>e4838613ea97f1bb726446ddca790233cf1a2a5e</sha1>
+  </file>
+  <file name="CD 1/24. Ice Valley (Phendrana Deep Lake Area).flac" source="original">
+    <mtime>1643414387</mtime>
+    <size>27244655</size>
+    <md5>6dcf0915819ef322ba36f76e2bc52cde</md5>
+    <crc32>aa038a64</crc32>
+    <sha1>7b553856bee331f6ab814d235c12e2d8057b7069</sha1>
+    <format>Flac</format>
+    <length>263.53</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Ice Valley (Phendrana Deep Lake Area)</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>24</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/24. Ice Valley (Phendrana Deep Lake Area).mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Ice Valley (Phendrana Deep Lake Area)</title>
+    <track>24</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>192</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/24. Ice Valley (Phendrana Deep Lake Area).flac</original>
+    <mtime>1643417009</mtime>
+    <size>6419658</size>
+    <md5>a09a39b5717066ead0d104a479056813</md5>
+    <crc32>293e4ed2</crc32>
+    <sha1>5033883ee941c79235294aecac5be4705181335a</sha1>
+    <length>263.58</length>
+  </file>
+  <file name="CD 1/24. Ice Valley (Phendrana Deep Lake Area).png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/24. Ice Valley (Phendrana Deep Lake Area).flac</original>
+    <mtime>1643418646</mtime>
+    <size>41949</size>
+    <md5>9a16893c6554bda6086f015ca1091270</md5>
+    <crc32>dcc7ba67</crc32>
+    <sha1>2121cda278ac29fa2d50889b3a8bbbdf785b6f22</sha1>
+  </file>
+  <file name="CD 1/24. Ice Valley (Phendrana Deep Lake Area)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/24. Ice Valley (Phendrana Deep Lake Area).flac</original>
+    <mtime>1643421346</mtime>
+    <size>319842</size>
+    <md5>9191682daefb7a5589d67dffd5deb677</md5>
+    <crc32>f40ca9a0</crc32>
+    <sha1>1212e7fa5babc4b7929b4f35c753a05ec148a367</sha1>
+  </file>
+  <file name="CD 1/25. Crashed Ship Frigate Orpheon.flac" source="original">
+    <mtime>1643414397</mtime>
+    <size>22603981</size>
+    <md5>ff6e6f8263c1bc577eb0649cb8387fa6</md5>
+    <crc32>faedba92</crc32>
+    <sha1>837805ef1eb767068f31e8c2483f647548c37d11</sha1>
+    <format>Flac</format>
+    <length>231.24</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Crashed Ship Frigate Orpheon</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>25</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/25. Crashed Ship Frigate Orpheon.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Crashed Ship Frigate Orpheon</title>
+    <track>25</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>190</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/25. Crashed Ship Frigate Orpheon.flac</original>
+    <mtime>1643417073</mtime>
+    <size>5587735</size>
+    <md5>6e59637d46d88a336e6d39f06db0834b</md5>
+    <crc32>55ae82e0</crc32>
+    <sha1>c6d42a1b67952f4446e518964ff104d4ec0dfbe4</sha1>
+    <length>231.29</length>
+  </file>
+  <file name="CD 1/25. Crashed Ship Frigate Orpheon.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/25. Crashed Ship Frigate Orpheon.flac</original>
+    <mtime>1643417990</mtime>
+    <size>38987</size>
+    <md5>c0e710b1cf7b010b01f9d0d17041b5e4</md5>
+    <crc32>910fd139</crc32>
+    <sha1>a69faa4314a78e5a018e815f24bf45c4bc6df827</sha1>
+  </file>
+  <file name="CD 1/25. Crashed Ship Frigate Orpheon_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/25. Crashed Ship Frigate Orpheon.flac</original>
+    <mtime>1643421161</mtime>
+    <size>332538</size>
+    <md5>352273302274c1dacd6c1191fd6c9647</md5>
+    <crc32>e91a8b25</crc32>
+    <sha1>095e7847b73750929fb6522ecd8f85b503bc1f99</sha1>
+  </file>
+  <file name="CD 1/26. Phazon Mines.flac" source="original">
+    <mtime>1643414401</mtime>
+    <size>3256268</size>
+    <md5>d14a485be440174ff508f6b3d99ef203</md5>
+    <crc32>f97f32be</crc32>
+    <sha1>63f106f725df029adbf98dd4502d8a9d375ad86b</sha1>
+    <format>Flac</format>
+    <length>53.33</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Phazon Mines</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>26</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/26. Phazon Mines.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Phazon Mines</title>
+    <track>26</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>166</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/26. Phazon Mines.flac</original>
+    <mtime>1643416931</mtime>
+    <size>1202040</size>
+    <md5>3aa1244c43859f183b9bc8c96026a6fa</md5>
+    <crc32>ca597557</crc32>
+    <sha1>10e226a597e9a5a8e3dbf8e6ab108d9f267c8d83</sha1>
+    <length>53.37</length>
+  </file>
+  <file name="CD 1/26. Phazon Mines.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/26. Phazon Mines.flac</original>
+    <mtime>1643418010</mtime>
+    <size>32075</size>
+    <md5>678a1e56aadf3e914d8e663ab42b2b19</md5>
+    <crc32>fc28ef3f</crc32>
+    <sha1>a004c943b8eba4f304654b06df976b317262ec48</sha1>
+  </file>
+  <file name="CD 1/26. Phazon Mines_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/26. Phazon Mines.flac</original>
+    <mtime>1643420624</mtime>
+    <size>313492</size>
+    <md5>4eafb26e7bc0d1a89a313796879a7fa7</md5>
+    <crc32>943b32ff</crc32>
+    <sha1>b2eb4a9894c63f929b8e98282c0f53f955827599</sha1>
+  </file>
+  <file name="CD 1/27. Phazon Area.flac" source="original">
+    <mtime>1643414408</mtime>
+    <size>4211234</size>
+    <md5>2164d10184ce08d945f367f650679b39</md5>
+    <crc32>1744344f</crc32>
+    <sha1>1c86a3f9d799a166806b233216e7faf507b1976c</sha1>
+    <format>Flac</format>
+    <length>56.87</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Phazon Area</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>27</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/27. Phazon Area.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Phazon Area</title>
+    <track>27</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>191</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/27. Phazon Area.flac</original>
+    <mtime>1643417146</mtime>
+    <size>1453551</size>
+    <md5>b28d3314b0e758a6db2068100f3b3b6c</md5>
+    <crc32>089d7e49</crc32>
+    <sha1>10fa9880a4735b04c7fc331006114c8bbb787afd</sha1>
+    <length>56.89</length>
+  </file>
+  <file name="CD 1/27. Phazon Area.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/27. Phazon Area.flac</original>
+    <mtime>1643418101</mtime>
+    <size>34350</size>
+    <md5>5ab1de5390f7a6f094000631d3691226</md5>
+    <crc32>5bc341a0</crc32>
+    <sha1>7faf909f91ec80f7f5c2d07153b0554ce39e3aa4</sha1>
+  </file>
+  <file name="CD 1/27. Phazon Area_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/27. Phazon Area.flac</original>
+    <mtime>1643420190</mtime>
+    <size>314766</size>
+    <md5>2ed26be2afc8c43ab47eb074a4fb821e</md5>
+    <crc32>1948682d</crc32>
+    <sha1>7d8578724804a7a94db2689d2af7c1bea284afea</sha1>
+  </file>
+  <file name="CD 1/28. VS. Omega Pirate.flac" source="original">
+    <mtime>1643414417</mtime>
+    <size>11825871</size>
+    <md5>6043e2323b9cdcb1d6718ab6949d6682</md5>
+    <crc32>52d08c3c</crc32>
+    <sha1>7c85aa89fb2388e704ac841d1815cec8779d270d</sha1>
+    <format>Flac</format>
+    <length>107.13</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Omega Pirate</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>28</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/28. VS. Omega Pirate.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>VS. Omega Pirate</title>
+    <track>28</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>184</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/28. VS. Omega Pirate.flac</original>
+    <mtime>1643417165</mtime>
+    <size>2569268</size>
+    <md5>b793b4a82a2b619c308f36f93d3deaa4</md5>
+    <crc32>0b952b0c</crc32>
+    <sha1>d21eebbad2d10e3facff539f01a0807a3099b3e5</sha1>
+    <length>107.18</length>
+  </file>
+  <file name="CD 1/28. VS. Omega Pirate.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/28. VS. Omega Pirate.flac</original>
+    <mtime>1643417967</mtime>
+    <size>36438</size>
+    <md5>ea3bfe0f46b176b6e293fe1b0ca0f18d</md5>
+    <crc32>964f9448</crc32>
+    <sha1>d38a966b38bdbe9ef774727d0d6ef06459225c31</sha1>
+  </file>
+  <file name="CD 1/28. VS. Omega Pirate_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/28. VS. Omega Pirate.flac</original>
+    <mtime>1643420418</mtime>
+    <size>312596</size>
+    <md5>cb9f7199346d6a29af5c30a597d9a8d8</md5>
+    <crc32>f4b19644</crc32>
+    <sha1>650ac1b443331471594d6cd1554475e8d6ed3fac</sha1>
+  </file>
+  <file name="CD 1/29. Artifact Temple.flac" source="original">
+    <mtime>1643414422</mtime>
+    <size>9652319</size>
+    <md5>52cd42d7bbe36270d43418120a7e10f8</md5>
+    <crc32>666ce460</crc32>
+    <sha1>4ad155e3229b5d421a8ec5c3a76b5e0eeb0dd6ab</sha1>
+    <format>Flac</format>
+    <length>96.09</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Artifact Temple</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>29</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/29. Artifact Temple.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Artifact Temple</title>
+    <track>29</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>187</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/29. Artifact Temple.flac</original>
+    <mtime>1643417200</mtime>
+    <size>2343352</size>
+    <md5>59de0c0ae8792fae372574af0dab2249</md5>
+    <crc32>11d0f1e9</crc32>
+    <sha1>0fa4a0ef818eca3b8f93ac9424b5749b20c845dd</sha1>
+    <length>96.13</length>
+  </file>
+  <file name="CD 1/29. Artifact Temple.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/29. Artifact Temple.flac</original>
+    <mtime>1643418289</mtime>
+    <size>35996</size>
+    <md5>cc70503fcfd17aa1376ae25a14762dc9</md5>
+    <crc32>c2376eb8</crc32>
+    <sha1>957c730c537983de64be5c9b27a75a666d600623</sha1>
+  </file>
+  <file name="CD 1/29. Artifact Temple_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/29. Artifact Temple.flac</original>
+    <mtime>1643420278</mtime>
+    <size>316998</size>
+    <md5>7c9e21f7e2116a4109324a6263076b7f</md5>
+    <crc32>c9a811ac</crc32>
+    <sha1>4ac639bcbbd5a1104e2a94556151e40efc7db682</sha1>
+  </file>
+  <file name="CD 1/30. VS. Meta Ridley.flac" source="original">
+    <mtime>1643414427</mtime>
+    <size>8296447</size>
+    <md5>988c879af895eb45eb1e787d78dbff5f</md5>
+    <crc32>e6b1d562</crc32>
+    <sha1>5335f69e5004cc99a773ab4567650c51eefd98cb</sha1>
+    <format>Flac</format>
+    <length>77.97</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Meta Ridley</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>30</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/30. VS. Meta Ridley.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>VS. Meta Ridley</title>
+    <track>30</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>199</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/30. VS. Meta Ridley.flac</original>
+    <mtime>1643417235</mtime>
+    <size>2038982</size>
+    <md5>20d608a5407ce4586cd8f14162e076c8</md5>
+    <crc32>7ffed927</crc32>
+    <sha1>3ca1d5405479f2367273de734e730d75a281d40f</sha1>
+    <length>78</length>
+  </file>
+  <file name="CD 1/30. VS. Meta Ridley.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/30. VS. Meta Ridley.flac</original>
+    <mtime>1643418404</mtime>
+    <size>42394</size>
+    <md5>dcb795a8dde1844fae49356b5ee44029</md5>
+    <crc32>5522f065</crc32>
+    <sha1>20c5692585dc1711eca86cf9a4e1e1137597f35b</sha1>
+  </file>
+  <file name="CD 1/30. VS. Meta Ridley_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/30. VS. Meta Ridley.flac</original>
+    <mtime>1643420550</mtime>
+    <size>326271</size>
+    <md5>ca302c90d5d70daa4c3a5762d6c0634c</md5>
+    <crc32>319ec1db</crc32>
+    <sha1>4d601a59384f00e53e2ca3fe10aeeb8565a9baf2</sha1>
+  </file>
+  <file name="CD 1/31. Artifact Temple ~ (Chozo Seal Release).flac" source="original">
+    <mtime>1643414431</mtime>
+    <size>3402729</size>
+    <md5>037e28d998207184a1d6275f0b31b99a</md5>
+    <crc32>fc9a6e57</crc32>
+    <sha1>f49f9713e922f3aaae448a357d53a30992acfc70</sha1>
+    <format>Flac</format>
+    <length>39</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Artifact Temple ~ (Chozo Seal Release)</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>31</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/31. Artifact Temple ~ (Chozo Seal Release).mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Artifact Temple ~ (Chozo Seal Release)</title>
+    <track>31</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>170</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/31. Artifact Temple ~ (Chozo Seal Release).flac</original>
+    <mtime>1643417251</mtime>
+    <size>926008</size>
+    <md5>25fdc4c1686d58f4239a03007124d513</md5>
+    <crc32>3d347d9f</crc32>
+    <sha1>b865bbe23ab87e294efc3e848bb0053d3cf833fc</sha1>
+    <length>39.03</length>
+  </file>
+  <file name="CD 1/31. Artifact Temple ~ (Chozo Seal Release).png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/31. Artifact Temple ~ (Chozo Seal Release).flac</original>
+    <mtime>1643419883</mtime>
+    <size>37963</size>
+    <md5>5c26e1ad34da04bb4e4f29b4d9e5720e</md5>
+    <crc32>ac8d44fe</crc32>
+    <sha1>b2949408b041b95c51ee3a76fc965b6c43a4e6bc</sha1>
+  </file>
+  <file name="CD 1/31. Artifact Temple ~ (Chozo Seal Release)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/31. Artifact Temple ~ (Chozo Seal Release).flac</original>
+    <mtime>1643420433</mtime>
+    <size>285873</size>
+    <md5>e9b40bf8ff16a70d9222a9bcf74834de</md5>
+    <crc32>733651a2</crc32>
+    <sha1>da675ed488c7e87b0b037b1a4141fc780b7747c1</sha1>
+  </file>
+  <file name="CD 1/32. Impact Crater.flac" source="original">
+    <mtime>1643414435</mtime>
+    <size>2349721</size>
+    <md5>e6bfd4e33d3f9370a98ecd7afbfe419e</md5>
+    <crc32>f7de48c9</crc32>
+    <sha1>9edcca497fa2b3c792130fdedd21f320af939f32</sha1>
+    <format>Flac</format>
+    <length>31.49</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Impact Crater</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>32</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/32. Impact Crater.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Impact Crater</title>
+    <track>32</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>186</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/32. Impact Crater.flac</original>
+    <mtime>1643417045</mtime>
+    <size>827031</size>
+    <md5>89971a3ee8e56e13dcf849db96d547f4</md5>
+    <crc32>c38b7086</crc32>
+    <sha1>c0e65be945f32ddf5550cd4efd8e522f333f1028</sha1>
+    <length>31.53</length>
+  </file>
+  <file name="CD 1/32. Impact Crater.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/32. Impact Crater.flac</original>
+    <mtime>1643420001</mtime>
+    <size>31203</size>
+    <md5>263f693a07d0c51f73809798a90d3e08</md5>
+    <crc32>4bd8d28f</crc32>
+    <sha1>fcc5b25c8e92097ffc377961a29b305b0dca5628</sha1>
+  </file>
+  <file name="CD 1/32. Impact Crater_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/32. Impact Crater.flac</original>
+    <mtime>1643420230</mtime>
+    <size>303941</size>
+    <md5>1597140c3f357932d97a7d6e30c5bebd</md5>
+    <crc32>ef289ba8</crc32>
+    <sha1>9470ede19c91f178a4ba11b15681b06f836961c1</sha1>
+  </file>
+  <file name="CD 1/33. VS. Metroid Prime (Spider).flac" source="original">
+    <mtime>1643414443</mtime>
+    <size>19120330</size>
+    <md5>7856c41246136f126c4f303cdbf26e9b</md5>
+    <crc32>190d162a</crc32>
+    <sha1>d0996e4f0c500aec354c885aa1df699c72406012</sha1>
+    <format>Flac</format>
+    <length>156.84</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Metroid Prime (Spider)</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>33</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/33. VS. Metroid Prime (Spider).mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>VS. Metroid Prime (Spider)</title>
+    <track>33</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>213</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/33. VS. Metroid Prime (Spider).flac</original>
+    <mtime>1643417029</mtime>
+    <size>4272362</size>
+    <md5>210e736dd6cfd3f9b6436edb83a0e5f5</md5>
+    <crc32>6937a3f6</crc32>
+    <sha1>9e8a3cf8aa802687e1c1aa444020bd5803bd0b8e</sha1>
+    <length>156.89</length>
+  </file>
+  <file name="CD 1/33. VS. Metroid Prime (Spider).png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/33. VS. Metroid Prime (Spider).flac</original>
+    <mtime>1643419956</mtime>
+    <size>41564</size>
+    <md5>4dcc9b371030d967149b45dd5ce258d2</md5>
+    <crc32>943f9b54</crc32>
+    <sha1>44c66864cf032f05642173515b3a210a84c9fee8</sha1>
+  </file>
+  <file name="CD 1/33. VS. Metroid Prime (Spider)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/33. VS. Metroid Prime (Spider).flac</original>
+    <mtime>1643420326</mtime>
+    <size>316331</size>
+    <md5>44c01f7259f26285d9e74a4796c5dcad</md5>
+    <crc32>b16b82d3</crc32>
+    <sha1>a397b6ed779072b920670a50d7fec12815ac0b52</sha1>
+  </file>
+  <file name="CD 1/34. VS. Metroid Prime (Head).flac" source="original">
+    <mtime>1643414452</mtime>
+    <size>20105878</size>
+    <md5>497d09e2ee08ff91317fe37c7f2863ef</md5>
+    <crc32>14c6c4c0</crc32>
+    <sha1>e8d0003930b59783e8d586b778790541d861d80d</sha1>
+    <format>Flac</format>
+    <length>165.6</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Metroid Prime (Head)</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>34</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/34. VS. Metroid Prime (Head).mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>VS. Metroid Prime (Head)</title>
+    <track>34</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>196</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/34. VS. Metroid Prime (Head).flac</original>
+    <mtime>1643416310</mtime>
+    <size>4158620</size>
+    <md5>e76ba0dbab1f74b9562045bb3047b114</md5>
+    <crc32>4e21fd15</crc32>
+    <sha1>adaea90823fff4b76c295872057163dd5fc688cf</sha1>
+    <length>165.64</length>
+  </file>
+  <file name="CD 1/34. VS. Metroid Prime (Head).png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/34. VS. Metroid Prime (Head).flac</original>
+    <mtime>1643419834</mtime>
+    <size>36740</size>
+    <md5>95e764663b1f08dd375de043d83c512f</md5>
+    <crc32>0da012d1</crc32>
+    <sha1>cfe2fb720e146821e9984d12438fd00e947da113</sha1>
+  </file>
+  <file name="CD 1/34. VS. Metroid Prime (Head)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/34. VS. Metroid Prime (Head).flac</original>
+    <mtime>1643420219</mtime>
+    <size>310459</size>
+    <md5>6fdc447c5e9a440a78319ca60716f091</md5>
+    <crc32>f798f6b4</crc32>
+    <sha1>59cf36df1ebaac0c05398b1fa159bf864d7d859c</sha1>
+  </file>
+  <file name="CD 1/35. Temple Collapse ~ Epilogue.flac" source="original">
+    <mtime>1643414457</mtime>
+    <size>5606132</size>
+    <md5>5bbcf02d61499060fb4075e75ecd58fb</md5>
+    <crc32>f9ee6fe4</crc32>
+    <sha1>3f75e064f1907bfe9a5ffd8cdac270f11fb5f61b</sha1>
+    <format>Flac</format>
+    <length>62.93</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Temple Collapse ~ Epilogue</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>35</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/35. Temple Collapse ~ Epilogue.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Temple Collapse ~ Epilogue</title>
+    <track>35</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>177</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/35. Temple Collapse ~ Epilogue.flac</original>
+    <mtime>1643416904</mtime>
+    <size>1491282</size>
+    <md5>5406724e31f1462cb21d517c83b8072c</md5>
+    <crc32>74723bb9</crc32>
+    <sha1>b84cfb0f3be8540c36a2bfba4589c26b20df5a19</sha1>
+    <length>62.98</length>
+  </file>
+  <file name="CD 1/35. Temple Collapse ~ Epilogue.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/35. Temple Collapse ~ Epilogue.flac</original>
+    <mtime>1643418049</mtime>
+    <size>35106</size>
+    <md5>71902bc7f517659f278331a4d1378aa3</md5>
+    <crc32>6f477493</crc32>
+    <sha1>af86b3720c470e52db3db1edff0b31c430547149</sha1>
+  </file>
+  <file name="CD 1/35. Temple Collapse ~ Epilogue_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/35. Temple Collapse ~ Epilogue.flac</original>
+    <mtime>1643420314</mtime>
+    <size>292854</size>
+    <md5>5d34c9336c9b719fe741cea1eb4eb608</md5>
+    <crc32>a6735b1b</crc32>
+    <sha1>a78602368deb405b73ded1fe635c701ba730c4b7</sha1>
+  </file>
+  <file name="CD 1/36. Ending Staff Roll.flac" source="original">
+    <mtime>1643414466</mtime>
+    <size>21769015</size>
+    <md5>a54c6fe0854fda84db3de9c013660835</md5>
+    <crc32>02f5816d</crc32>
+    <sha1>859e60a0c5f6bb032b5189dbe153ff0d3940eff2</sha1>
+    <format>Flac</format>
+    <length>192.93</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Ending Staff Roll</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>36</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/36. Ending Staff Roll.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Ending Staff Roll</title>
+    <track>36</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>183</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/36. Ending Staff Roll.flac</original>
+    <mtime>1643416392</mtime>
+    <size>4522831</size>
+    <md5>bce5f64fbdd689e0cb7661d4f0589c4b</md5>
+    <crc32>71f15f37</crc32>
+    <sha1>01fe30da4a2c4b0d5dd5fe7961f0aecfba6fc7ed</sha1>
+    <length>192.97</length>
+  </file>
+  <file name="CD 1/36. Ending Staff Roll.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/36. Ending Staff Roll.flac</original>
+    <mtime>1643418519</mtime>
+    <size>39941</size>
+    <md5>dc58aa6780635ae2a3241d66b22bfca6</md5>
+    <crc32>e2d0aba5</crc32>
+    <sha1>ced1b5bd6fbfa8ebcffd78533720d9bd435d3e7f</sha1>
+  </file>
+  <file name="CD 1/36. Ending Staff Roll_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/36. Ending Staff Roll.flac</original>
+    <mtime>1643420508</mtime>
+    <size>312292</size>
+    <md5>6bc30348cbb6f186f9bf41fce06a73b2</md5>
+    <crc32>02100b84</crc32>
+    <sha1>f537ce6d52cf3c8d1758c1c8ad12920f922599f7</sha1>
+  </file>
+  <file name="CD 1/37. End Jingle.flac" source="original">
+    <mtime>1643414470</mtime>
+    <size>1211901</size>
+    <md5>9817c69158489860967899c7bde77efa</md5>
+    <crc32>4cff1f0f</crc32>
+    <sha1>44a7bd21aa54b897ff2e30b096969e0901dd63ee</sha1>
+    <format>Flac</format>
+    <length>12.83</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>End Jingle</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>37</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/37. End Jingle.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>End Jingle</title>
+    <track>37</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>155</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/37. End Jingle.flac</original>
+    <mtime>1643416411</mtime>
+    <size>344435</size>
+    <md5>23db64c7b4c25fe3aadcaaa6c6f00670</md5>
+    <crc32>78c6e52e</crc32>
+    <sha1>5481fa8f8423694c57317935d140050bf4e4984b</sha1>
+    <length>12.88</length>
+  </file>
+  <file name="CD 1/37. End Jingle.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/37. End Jingle.flac</original>
+    <mtime>1643418601</mtime>
+    <size>33517</size>
+    <md5>3218bfc595632bf0dcdea4ede190b103</md5>
+    <crc32>66b58662</crc32>
+    <sha1>7f21b5124b28ec9de0a4fc5cdc59adf85fc3a7cd</sha1>
+  </file>
+  <file name="CD 1/37. End Jingle_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/37. End Jingle.flac</original>
+    <mtime>1643420376</mtime>
+    <size>315398</size>
+    <md5>e8b435c5fb401259b4150ce7148c6c5a</md5>
+    <crc32>c7a8b3cc</crc32>
+    <sha1>d97401a6a8d152e4e3af60ee866f5488025ac0eb</sha1>
+  </file>
+  <file name="CD 1/38. Record of Samus.flac" source="original">
+    <mtime>1643414480</mtime>
+    <size>20546906</size>
+    <md5>f9da1051c23b52348508e7d21be40642</md5>
+    <crc32>701d84c6</crc32>
+    <sha1>675a2b0c86ca6ec9bb3e2d7097a41064a42008d4</sha1>
+    <format>Flac</format>
+    <length>171.8</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Record of Samus</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>38</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/38. Record of Samus.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Record of Samus</title>
+    <track>38</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>204</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/38. Record of Samus.flac</original>
+    <mtime>1643416882</mtime>
+    <size>4475303</size>
+    <md5>11fb223225c223795dc63ebc18ce91c5</md5>
+    <crc32>8039ac13</crc32>
+    <sha1>8c43fcd31363518e3db441d3f9ab78d41328d28e</sha1>
+    <length>171.83</length>
+  </file>
+  <file name="CD 1/38. Record of Samus.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/38. Record of Samus.flac</original>
+    <mtime>1643418544</mtime>
+    <size>37377</size>
+    <md5>ac97a7c62592d344208d98b5e568c061</md5>
+    <crc32>56eb8ec4</crc32>
+    <sha1>b55bded21f55d4c237bb6d8eabc406b743f3430d</sha1>
+  </file>
+  <file name="CD 1/38. Record of Samus_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/38. Record of Samus.flac</original>
+    <mtime>1643421192</mtime>
+    <size>283557</size>
+    <md5>276fd9baa05e38993d6875cdaeed6fb6</md5>
+    <crc32>c44ecb8d</crc32>
+    <sha1>9c0bbc580d1bb5f4f43b14b7174ed5c4fc0b719a</sha1>
+  </file>
+  <file name="CD 1/39. Samus Appearance Jingle.flac" source="original">
+    <mtime>1643414482</mtime>
+    <size>754223</size>
+    <md5>2eb7e0430fe9e29903d15e9fbf568371</md5>
+    <crc32>bbe213c7</crc32>
+    <sha1>d74e5cbda86a10fbc22b3264bf334c00852de738</sha1>
+    <format>Flac</format>
+    <length>8.8</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Samus Appearance Jingle</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>39</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/39. Samus Appearance Jingle.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Samus Appearance Jingle</title>
+    <track>39</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>145</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/39. Samus Appearance Jingle.flac</original>
+    <mtime>1643416917</mtime>
+    <size>255385</size>
+    <md5>4850dad1d7ee8ebc549da4ac76213207</md5>
+    <crc32>e261dfb6</crc32>
+    <sha1>2d5c73fde60ede6ee475cd7c1eeda18641fea045</sha1>
+    <length>8.83</length>
+  </file>
+  <file name="CD 1/39. Samus Appearance Jingle.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/39. Samus Appearance Jingle.flac</original>
+    <mtime>1643418188</mtime>
+    <size>30366</size>
+    <md5>073666f29322f99452c6fd686f04e6c7</md5>
+    <crc32>a6e74664</crc32>
+    <sha1>ec8c52499f8e66a35b49a3396698e1894cdd5d4a</sha1>
+  </file>
+  <file name="CD 1/39. Samus Appearance Jingle_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/39. Samus Appearance Jingle.flac</original>
+    <mtime>1643421181</mtime>
+    <size>273466</size>
+    <md5>01528b7e7ae91192f0d7aa5d37334c20</md5>
+    <crc32>49840b82</crc32>
+    <sha1>7b244b33de168fdae459af4f0bed66a0e609ba2f</sha1>
+  </file>
+  <file name="CD 1/40. Item Obtainment Jingle.flac" source="original">
+    <mtime>1643414485</mtime>
+    <size>754440</size>
+    <md5>800e37699e1bcdb5f948be4e6e3a4ff2</md5>
+    <crc32>f7688aea</crc32>
+    <sha1>e81ad779b30a4b82b66c207ed9e45edf845d309f</sha1>
+    <format>Flac</format>
+    <length>9.31</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Item Obtainment Jingle</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>40</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/40. Item Obtainment Jingle.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Item Obtainment Jingle</title>
+    <track>40</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>135</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/40. Item Obtainment Jingle.flac</original>
+    <mtime>1643417329</mtime>
+    <size>253273</size>
+    <md5>d4aab807a0c9bea63073f8bdcc4db27f</md5>
+    <crc32>900e59b6</crc32>
+    <sha1>5c31bee0786ea8692d2298d83e7f91fb71f1119f</sha1>
+    <length>9.35</length>
+  </file>
+  <file name="CD 1/40. Item Obtainment Jingle.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/40. Item Obtainment Jingle.flac</original>
+    <mtime>1643418337</mtime>
+    <size>28988</size>
+    <md5>43a580fb0f4c8ad40c22b8c9cf62650c</md5>
+    <crc32>3a8584ab</crc32>
+    <sha1>bc1503c8c31b72bb7553dcbcf425cb88cc901142</sha1>
+  </file>
+  <file name="CD 1/40. Item Obtainment Jingle_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/40. Item Obtainment Jingle.flac</original>
+    <mtime>1643420802</mtime>
+    <size>269995</size>
+    <md5>a755a9a88683b9abc80bfeae87109751</md5>
+    <crc32>8c8fe20b</crc32>
+    <sha1>0fd71fd03ddf2fef676f1c0d4814ac428c8bb863</sha1>
+  </file>
+  <file name="CD 1/41. Artifact Obtainment Jingle.flac" source="original">
+    <mtime>1643414488</mtime>
+    <size>803772</size>
+    <md5>747b367283bb2e67f4dac1125dd7a31d</md5>
+    <crc32>dd2019f0</crc32>
+    <sha1>fba8ed73a9231efe35b496609c66d67460dd124a</sha1>
+    <format>Flac</format>
+    <length>7.84</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Artifact Obtainment Jingle</title>
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>41</track>
+    <artist>Kenji Yamamoto, Kouichi Kyuma</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 1/41. Artifact Obtainment Jingle.mp3" source="derivative">
+    <creator>Kenji Yamamoto, Kouichi Kyuma</creator>
+    <title>Artifact Obtainment Jingle</title>
+    <track>41</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>174</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 1/41. Artifact Obtainment Jingle.flac</original>
+    <mtime>1643417465</mtime>
+    <size>266600</size>
+    <md5>bb3ab6102023e4ddd98a4c6473b92ed9</md5>
+    <crc32>75ef02d6</crc32>
+    <sha1>1f3f19537a76040709149f0e747aba2facb95d16</sha1>
+    <length>7.89</length>
+  </file>
+  <file name="CD 1/41. Artifact Obtainment Jingle.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 1/41. Artifact Obtainment Jingle.flac</original>
+    <mtime>1643418621</mtime>
+    <size>32595</size>
+    <md5>9c19bdccdfdd237df7f82f5539e2de96</md5>
+    <crc32>73e874ba</crc32>
+    <sha1>f94acce92d3457fad61671e959b88fb831f466c1</sha1>
+  </file>
+  <file name="CD 1/41. Artifact Obtainment Jingle_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 1/41. Artifact Obtainment Jingle.flac</original>
+    <mtime>1643420730</mtime>
+    <size>319952</size>
+    <md5>0a31c75c7302b80364c60e4bc4d8cc4c</md5>
+    <crc32>1f69f09b</crc32>
+    <sha1>7cc65e62a9c33987860f09245e0eb6f2a0397619</sha1>
+  </file>
+  <file name="CD 1/Cover.jpg" source="original">
+    <mtime>1643414492</mtime>
+    <size>2115152</size>
+    <md5>e68eced6cedfee439b816a8fc15d26c8</md5>
+    <crc32>b1942398</crc32>
+    <sha1>f97890c9b5d318b9a48307ade86a407a8ab384b8</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="CD 1/Log/Metroid Prime &amp; Fusion · Original Soundtracks CD 1.cue" source="original">
+    <mtime>1643414505</mtime>
+    <size>8114</size>
+    <md5>35f253d6ba353cbd6046da9f49b23e04</md5>
+    <crc32>9a438d3b</crc32>
+    <sha1>1f490d13479febe2974135828947ec757966fe3c</sha1>
+    <format>Cue Sheet</format>
+    <viruscheck>1643416020</viruscheck>
+  </file>
+  <file name="CD 1/Log/Metroid Prime &amp; Fusion · Original Soundtracks CD 1.log" source="original">
+    <mtime>1643414507</mtime>
+    <size>35522</size>
+    <md5>e27367b12a15b94a207246cfd862382d</md5>
+    <crc32>db7ba9ce</crc32>
+    <sha1>9ba63dc4becca695f6fa3dc275c69256fcba41e3</sha1>
+    <format>Log</format>
+    <viruscheck>1643416020</viruscheck>
+  </file>
+  <file name="CD 1/Metroid Prime &amp; Fusion · Original Soundtracks CD 1.m3u8" source="original">
+    <mtime>1643414496</mtime>
+    <size>1176</size>
+    <md5>1614cc2ebe28f9a2717b15ac9b9d2587</md5>
+    <crc32>acab19c4</crc32>
+    <sha1>32dd1e1a733491363e84d8735c6440af7c8dd0e0</sha1>
+    <format>M3U</format>
+    <viruscheck>1643416020</viruscheck>
+  </file>
+  <file name="CD 2/01. Metroid Fusion Arrange Version.flac" source="original">
+    <mtime>1643414022</mtime>
+    <size>31008683</size>
+    <md5>7b4f14bef99c12901dc000b92406a4a4</md5>
+    <crc32>ac32d2f1</crc32>
+    <sha1>6af5a51a1f0ab23ce7cbfb8cea00837716ec1464</sha1>
+    <format>Flac</format>
+    <length>319.36</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Metroid Fusion Arrange Version</title>
+    <creator>Shinji Hosoe</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>01</track>
+    <artist>Shinji Hosoe</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/01. Metroid Fusion Arrange Version.mp3" source="derivative">
+    <creator>Shinji Hosoe</creator>
+    <title>Metroid Fusion Arrange Version</title>
+    <track>01</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>188</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/01. Metroid Fusion Arrange Version.flac</original>
+    <mtime>1643417386</mtime>
+    <size>7609577</size>
+    <md5>efe21c69ea63a17d46f7919978aa7617</md5>
+    <crc32>446937d9</crc32>
+    <sha1>7d1d23b3bc9afc324703805736bf9a25c9c5d1f7</sha1>
+    <length>319.4</length>
+  </file>
+  <file name="CD 2/01. Metroid Fusion Arrange Version.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/01. Metroid Fusion Arrange Version.flac</original>
+    <mtime>1643418582</mtime>
+    <size>35073</size>
+    <md5>ac7bdd32a81d007c1e99e4e23f536c84</md5>
+    <crc32>c65fa88b</crc32>
+    <sha1>19483b9f9abf560efd712286293aaf332bc2eaf7</sha1>
+  </file>
+  <file name="CD 2/01. Metroid Fusion Arrange Version_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/01. Metroid Fusion Arrange Version.flac</original>
+    <mtime>1643421140</mtime>
+    <size>332742</size>
+    <md5>0090eb3598fc47f841f0f9c6188f056f</md5>
+    <crc32>fb5ea8db</crc32>
+    <sha1>c5c03f0c87150d0185b919d0e516cadb4587db7e</sha1>
+  </file>
+  <file name="CD 2/02. Title.flac" source="original">
+    <mtime>1643414027</mtime>
+    <size>5897420</size>
+    <md5>25427a4fe50d5780ec81b048430c4f56</md5>
+    <crc32>d84fc727</crc32>
+    <sha1>093c2090b1788516bbea6cd9e9d3afa3467bd5fb</sha1>
+    <format>Flac</format>
+    <length>78.04</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Title</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>02</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/02. Title.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Title</title>
+    <track>02</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>151</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/02. Title.flac</original>
+    <mtime>1643417428</mtime>
+    <size>1567300</size>
+    <md5>a7cf3e012dc3c354f401733bc0e41c1a</md5>
+    <crc32>11c14aca</crc32>
+    <sha1>0e4afe532ef151263c1e32a71d3f2f9f81c126db</sha1>
+    <length>78.08</length>
+  </file>
+  <file name="CD 2/02. Title.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/02. Title.flac</original>
+    <mtime>1643418688</mtime>
+    <size>33313</size>
+    <md5>7b278f5aa2f8fc9b1dab10b027ed9268</md5>
+    <crc32>14553eb9</crc32>
+    <sha1>d0d1e65507be4c0fa183fb887e605e345dacceb6</sha1>
+  </file>
+  <file name="CD 2/02. Title_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/02. Title.flac</original>
+    <mtime>1643420178</mtime>
+    <size>273033</size>
+    <md5>2798057a3dcefc806718a75e95681444</md5>
+    <crc32>5167aaa2</crc32>
+    <sha1>301430f612304421e4cc0ad6411f082b717b5f7a</sha1>
+  </file>
+  <file name="CD 2/03. Sector 1 (SRX) SR388 Reproduction Area.flac" source="original">
+    <mtime>1643414037</mtime>
+    <size>14316546</size>
+    <md5>c800dec54b298276fa626f97ba56f8ac</md5>
+    <crc32>240a089b</crc32>
+    <sha1>3e14dcb5dc94fba771f3555bb6f463e837ce48ca</sha1>
+    <format>Flac</format>
+    <length>171.43</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Sector 1 (SRX) SR388 Reproduction Area</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>03</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/03. Sector 1 (SRX) SR388 Reproduction Area.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Sector 1 (SRX) SR388 Reproduction Area</title>
+    <track>03</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>157</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/03. Sector 1 (SRX) SR388 Reproduction Area.flac</original>
+    <mtime>1643417451</mtime>
+    <size>3470481</size>
+    <md5>7eaa7e3d80b0ef4f52f88fc2fd8c1deb</md5>
+    <crc32>24377488</crc32>
+    <sha1>38a42671e44eb0f086d9bf008fddda960bec53b8</sha1>
+    <length>171.47</length>
+  </file>
+  <file name="CD 2/03. Sector 1 (SRX) SR388 Reproduction Area.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/03. Sector 1 (SRX) SR388 Reproduction Area.flac</original>
+    <mtime>1643418755</mtime>
+    <size>40328</size>
+    <md5>e6b3627c487fa03fb1288cf6105ef9de</md5>
+    <crc32>1fa2ff84</crc32>
+    <sha1>166c961b80df037c0ef76a11ecd8d13092b55a71</sha1>
+  </file>
+  <file name="CD 2/03. Sector 1 (SRX) SR388 Reproduction Area_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/03. Sector 1 (SRX) SR388 Reproduction Area.flac</original>
+    <mtime>1643420165</mtime>
+    <size>289725</size>
+    <md5>0d6b01e6092a22e4eae63637b6bc255a</md5>
+    <crc32>8d2803d0</crc32>
+    <sha1>e50ff6e3e1e14a61e50d80b3979889c596c5f323</sha1>
+  </file>
+  <file name="CD 2/04. Environment Sound (Silence 1).flac" source="original">
+    <mtime>1643414041</mtime>
+    <size>2759746</size>
+    <md5>7810104f42d5d4c45d4627b752b87b26</md5>
+    <crc32>7ca06868</crc32>
+    <sha1>deae38a424962bb4ba4c54eae3cc7bf2121c512f</sha1>
+    <format>Flac</format>
+    <length>45.91</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Environment Sound (Silence 1)</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>04</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/04. Environment Sound (Silence 1).mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Environment Sound (Silence 1)</title>
+    <track>04</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>159</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/04. Environment Sound (Silence 1).flac</original>
+    <mtime>1643417489</mtime>
+    <size>1011039</size>
+    <md5>bed30085dab4710c017604b260687d71</md5>
+    <crc32>8522324b</crc32>
+    <sha1>bc7ae86143c73cac1f45dde691d0b171f189e130</sha1>
+    <length>45.95</length>
+  </file>
+  <file name="CD 2/04. Environment Sound (Silence 1).png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/04. Environment Sound (Silence 1).flac</original>
+    <mtime>1643418823</mtime>
+    <size>32017</size>
+    <md5>f8e98865e0360383ed33c4504bad3445</md5>
+    <crc32>f0b68b9d</crc32>
+    <sha1>3325118a6e9a6b12440e04f91e95afc508ce4c9a</sha1>
+  </file>
+  <file name="CD 2/04. Environment Sound (Silence 1)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/04. Environment Sound (Silence 1).flac</original>
+    <mtime>1643420291</mtime>
+    <size>278196</size>
+    <md5>4ab10cdf63202aa3131b225e0cee6a36</md5>
+    <crc32>79191179</crc32>
+    <sha1>f77c32facd3a5d48930833ccfd827779fed9c8f0</sha1>
+  </file>
+  <file name="CD 2/05. Environment Sound (Tension).flac" source="original">
+    <mtime>1643414044</mtime>
+    <size>2885376</size>
+    <md5>2c9ef8c54e8f7932e9db97ae8568eb70</md5>
+    <crc32>53a95aa2</crc32>
+    <sha1>be0e94e32a3477a5d99d110b9f74260261f92ca6</sha1>
+    <format>Flac</format>
+    <length>41.73</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Environment Sound (Tension)</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>05</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/05. Environment Sound (Tension).mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Environment Sound (Tension)</title>
+    <track>05</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>144</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/05. Environment Sound (Tension).flac</original>
+    <mtime>1643417502</mtime>
+    <size>846331</size>
+    <md5>6bfaf13d2305484b627b0710ab54210f</md5>
+    <crc32>31db1745</crc32>
+    <sha1>23fc0ead4f065ac95794b485107ab31973a7fd59</sha1>
+    <length>41.77</length>
+  </file>
+  <file name="CD 2/05. Environment Sound (Tension).png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/05. Environment Sound (Tension).flac</original>
+    <mtime>1643418951</mtime>
+    <size>24708</size>
+    <md5>83ed8d784a73aa863c31e39a9427e9f0</md5>
+    <crc32>309ca505</crc32>
+    <sha1>1f063e991793deabaf9454bb997860a1a278fca3</sha1>
+  </file>
+  <file name="CD 2/05. Environment Sound (Tension)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/05. Environment Sound (Tension).flac</original>
+    <mtime>1643420356</mtime>
+    <size>296025</size>
+    <md5>9847d8010e25eeaf9750baa6aa653788</md5>
+    <crc32>a1a2a428</crc32>
+    <sha1>fb242c781a462d7d7c2f74e6d51116509f9d9245</sha1>
+  </file>
+  <file name="CD 2/06. Environment Sound (Shock).flac" source="original">
+    <mtime>1643414048</mtime>
+    <size>2426634</size>
+    <md5>14f731146fbed6c821a2e276754f7ac8</md5>
+    <crc32>1532b5c2</crc32>
+    <sha1>4afe25fda2047f2e6cffff02b762baa4c23e06da</sha1>
+    <format>Flac</format>
+    <length>28.29</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Environment Sound (Shock)</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>06</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/06. Environment Sound (Shock).mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Environment Sound (Shock)</title>
+    <track>06</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>179</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/06. Environment Sound (Shock).flac</original>
+    <mtime>1643416098</mtime>
+    <size>730708</size>
+    <md5>8dc0abe1a24ca7ac37aca428e587088e</md5>
+    <crc32>83d4aa7b</crc32>
+    <sha1>564bd18dcc74f219914af596de568934159d816f</sha1>
+    <length>28.34</length>
+  </file>
+  <file name="CD 2/06. Environment Sound (Shock).png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/06. Environment Sound (Shock).flac</original>
+    <mtime>1643418970</mtime>
+    <size>17903</size>
+    <md5>416ef07ced9829768542f3694c5f7edf</md5>
+    <crc32>57a84308</crc32>
+    <sha1>5694877aa1cdd70e6f52ee7ec75829ba1ff5f0c1</sha1>
+  </file>
+  <file name="CD 2/06. Environment Sound (Shock)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/06. Environment Sound (Shock).flac</original>
+    <mtime>1643421404</mtime>
+    <size>225074</size>
+    <md5>875c2037bdd7caab9bbd58cdc19b64db</md5>
+    <crc32>12c8f675</crc32>
+    <sha1>065c8e1e30cf6a414e3f6e2c6adf2171d9876dd0</sha1>
+  </file>
+  <file name="CD 2/07. Head to the Huge Bio-Reactions.flac" source="original">
+    <mtime>1643414053</mtime>
+    <size>9309963</size>
+    <md5>373efd0f0796dbb953fdad0c0203732b</md5>
+    <crc32>7f98fe63</crc32>
+    <sha1>61a70af558380d302b859a9792f3717f3cd9a82f</sha1>
+    <format>Flac</format>
+    <length>107</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Head to the Huge Bio-Reactions</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>07</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/07. Head to the Huge Bio-Reactions.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Head to the Huge Bio-Reactions</title>
+    <track>07</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>159</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/07. Head to the Huge Bio-Reactions.flac</original>
+    <mtime>1643417282</mtime>
+    <size>2229987</size>
+    <md5>35af757f23064199c4b3adb60292bcdf</md5>
+    <crc32>521e71e4</crc32>
+    <sha1>5aaee7ddd41ec14f08497a9c8784bef25ba9a65c</sha1>
+    <length>107.05</length>
+  </file>
+  <file name="CD 2/07. Head to the Huge Bio-Reactions.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/07. Head to the Huge Bio-Reactions.flac</original>
+    <mtime>1643419266</mtime>
+    <size>39220</size>
+    <md5>b0fbaf43a2e43eb91e814ffe50f8e4e7</md5>
+    <crc32>3fc5b55e</crc32>
+    <sha1>0f5c3b8ee281f9b49f99c4929d0d2283c8ce46a5</sha1>
+  </file>
+  <file name="CD 2/07. Head to the Huge Bio-Reactions_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/07. Head to the Huge Bio-Reactions.flac</original>
+    <mtime>1643420266</mtime>
+    <size>284449</size>
+    <md5>a05ebc3c01c8d91493273e763b15e2cc</md5>
+    <crc32>1479bc11</crc32>
+    <sha1>251d2e3aee074468cb73c96238d42a8796e4f551</sha1>
+  </file>
+  <file name="CD 2/08. Tension Before a Confrontation.flac" source="original">
+    <mtime>1643414057</mtime>
+    <size>2342243</size>
+    <md5>8e0aadf17d3de1a5881e28cf09893ca2</md5>
+    <crc32>8c03c1cd</crc32>
+    <sha1>3d750c86e127fbe603c511a7b2fd50a6aacfe855</sha1>
+    <format>Flac</format>
+    <length>39.44</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Tension Before a Confrontation</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>08</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/08. Tension Before a Confrontation.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Tension Before a Confrontation</title>
+    <track>08</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>134</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/08. Tension Before a Confrontation.flac</original>
+    <mtime>1643417920</mtime>
+    <size>755963</size>
+    <md5>4eac7d78c1c37b19d0dad86029fa6be6</md5>
+    <crc32>bdfa722a</crc32>
+    <sha1>d6f8f2b47ce5f1e07ca59e234666ee101b3e3155</sha1>
+    <length>39.47</length>
+  </file>
+  <file name="CD 2/08. Tension Before a Confrontation.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/08. Tension Before a Confrontation.flac</original>
+    <mtime>1643419699</mtime>
+    <size>25848</size>
+    <md5>184830346592ff2a783cefc9f0f5014b</md5>
+    <crc32>de97a0d8</crc32>
+    <sha1>92dbe6ddcb1914597a66b5fc63b72597c993e25c</sha1>
+  </file>
+  <file name="CD 2/08. Tension Before a Confrontation_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/08. Tension Before a Confrontation.flac</original>
+    <mtime>1643420302</mtime>
+    <size>279841</size>
+    <md5>1d9b7d48c4b063b17cfc6af9f8a70bbe</md5>
+    <crc32>176037d7</crc32>
+    <sha1>200b2b35527cc3504f5d065ef89a3c8831aa50f3</sha1>
+  </file>
+  <file name="CD 2/09. VS. Marukara.flac" source="original">
+    <mtime>1643414062</mtime>
+    <size>7058515</size>
+    <md5>a51d95cc2313db3353955f950b5f42be</md5>
+    <crc32>3285d2c8</crc32>
+    <sha1>154464058c9cb9f6f75848aef0d18bc2d6b38d16</sha1>
+    <format>Flac</format>
+    <length>89.6</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Marukara</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>09</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/09. VS. Marukara.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>VS. Marukara</title>
+    <track>09</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>147</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/09. VS. Marukara.flac</original>
+    <mtime>1643417315</mtime>
+    <size>1748878</size>
+    <md5>ee4994fd78d84c145821c4dd8a325732</md5>
+    <crc32>4f14efad</crc32>
+    <sha1>9673c580fbbe5a0743e6c9d9fa502600095a6787</sha1>
+    <length>89.63</length>
+  </file>
+  <file name="CD 2/09. VS. Marukara.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/09. VS. Marukara.flac</original>
+    <mtime>1643419394</mtime>
+    <size>35864</size>
+    <md5>a0e317b83b486c177272f31fcd059542</md5>
+    <crc32>692c8887</crc32>
+    <sha1>c7e3a3cb6c4cfca0c331e3df855908538cc1ba92</sha1>
+  </file>
+  <file name="CD 2/09. VS. Marukara_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/09. VS. Marukara.flac</original>
+    <mtime>1643421129</mtime>
+    <size>304811</size>
+    <md5>d9a71faf89bd7301defa66c42cc5ffdb</md5>
+    <crc32>590839b1</crc32>
+    <sha1>ced1d215fe8b1c360f2473c07147d219e6ce04ed</sha1>
+  </file>
+  <file name="CD 2/10. X Invasion Detection.flac" source="original">
+    <mtime>1643414067</mtime>
+    <size>7285794</size>
+    <md5>22c34512ff55c6d051788e7d3ff8fc14</md5>
+    <crc32>9aae33fb</crc32>
+    <sha1>af8f512a6011fde8637dcf0cf9b47e9099bf4a4d</sha1>
+    <format>Flac</format>
+    <length>84.36</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>X Invasion Detection</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>10</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/10. X Invasion Detection.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>X Invasion Detection</title>
+    <track>10</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>148</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/10. X Invasion Detection.flac</original>
+    <mtime>1643417409</mtime>
+    <size>1663027</size>
+    <md5>137bdacfb2f33fdadc5511d984df9c06</md5>
+    <crc32>ab7d9fb4</crc32>
+    <sha1>1061002e5d386cbefa3ca1e1e31ed02b3fe580dc</sha1>
+    <length>84.4</length>
+  </file>
+  <file name="CD 2/10. X Invasion Detection.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/10. X Invasion Detection.flac</original>
+    <mtime>1643419559</mtime>
+    <size>35961</size>
+    <md5>d106113733b303e664011ade94059cda</md5>
+    <crc32>18757286</crc32>
+    <sha1>63de8c7f1abd73a4624d7adf9355453705003c86</sha1>
+  </file>
+  <file name="CD 2/10. X Invasion Detection_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/10. X Invasion Detection.flac</original>
+    <mtime>1643421119</mtime>
+    <size>283081</size>
+    <md5>732915ad902c04bae236c5be9c801348</md5>
+    <crc32>9c498203</crc32>
+    <sha1>cda241996bac923f161fd6d8783b0e7855e2b1a0</sha1>
+  </file>
+  <file name="CD 2/11. Navigation Room.flac" source="original">
+    <mtime>1643414070</mtime>
+    <size>3583427</size>
+    <md5>605cc8144ac970796fe6d443abc0dab3</md5>
+    <crc32>ff876675</crc32>
+    <sha1>13be72c4ce339d5b5a9ea1bb9f33e31958e234a3</sha1>
+    <format>Flac</format>
+    <length>48.37</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Navigation Room</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>11</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/11. Navigation Room.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Navigation Room</title>
+    <track>11</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>137</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/11. Navigation Room.flac</original>
+    <mtime>1643417361</mtime>
+    <size>924502</size>
+    <md5>701ad08a841e3f9748919a822530af08</md5>
+    <crc32>c9b27023</crc32>
+    <sha1>d75c2db07f519e0cdbd686ec0da897ac65d0ab9f</sha1>
+    <length>48.41</length>
+  </file>
+  <file name="CD 2/11. Navigation Room.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/11. Navigation Room.flac</original>
+    <mtime>1643419859</mtime>
+    <size>22704</size>
+    <md5>3f7065267e0fa6c3cc28f41d3dcb7c59</md5>
+    <crc32>2783131a</crc32>
+    <sha1>598a08a28a3e62f2d14579dbec6fee409f7122b7</sha1>
+  </file>
+  <file name="CD 2/11. Navigation Room_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/11. Navigation Room.flac</original>
+    <mtime>1643421303</mtime>
+    <size>269984</size>
+    <md5>1391c9dcab8f72d60c283f2250781433</md5>
+    <crc32>1e286c44</crc32>
+    <sha1>c6b03c24ed992d2a4237ed85a0e42391dc5d1aef</sha1>
+  </file>
+  <file name="CD 2/12. VS. Core-X, Birdman Statue Second Form.flac" source="original">
+    <mtime>1643414074</mtime>
+    <size>5506721</size>
+    <md5>9cadc385d8efde87945fab2041a91581</md5>
+    <crc32>dd65e2e8</crc32>
+    <sha1>adb6a3d32cad17ae70333e01b3cf56c643e67dd2</sha1>
+    <format>Flac</format>
+    <length>68.16</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Core-X, Birdman Statue Second Form</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>12</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/12. VS. Core-X, Birdman Statue Second Form.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>VS. Core-X, Birdman Statue Second Form</title>
+    <track>12</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>151</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/12. VS. Core-X, Birdman Statue Second Form.flac</original>
+    <mtime>1643417517</mtime>
+    <size>1386434</size>
+    <md5>e1fded4e018182b99d94ffe683fb56d5</md5>
+    <crc32>a151787d</crc32>
+    <sha1>81821b489f31f11118026a064c3c39abd3d46fe5</sha1>
+    <length>68.21</length>
+  </file>
+  <file name="CD 2/12. VS. Core-X, Birdman Statue Second Form.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/12. VS. Core-X, Birdman Statue Second Form.flac</original>
+    <mtime>1643419105</mtime>
+    <size>36292</size>
+    <md5>bd635759957ce0a05a9b6ae719b16cf6</md5>
+    <crc32>9c309e4e</crc32>
+    <sha1>6f0567168f592ee343deace69f6cc233dab59cf1</sha1>
+  </file>
+  <file name="CD 2/12. VS. Core-X, Birdman Statue Second Form_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/12. VS. Core-X, Birdman Statue Second Form.flac</original>
+    <mtime>1643420452</mtime>
+    <size>299991</size>
+    <md5>3f34d44a8b451a208b1c485705c8e51b</md5>
+    <crc32>c963c983</crc32>
+    <sha1>ca1b8014adf11e9ecc4a0282f7e5118da8531e75</sha1>
+  </file>
+  <file name="CD 2/13. Environment Sound (Disquieting).flac" source="original">
+    <mtime>1643414082</mtime>
+    <size>2981890</size>
+    <md5>080b8e6770d7da732a5cb439aaff4024</md5>
+    <crc32>3ee01494</crc32>
+    <sha1>19d8edb9b06e655552223370e6ab322f7dadc5d0</sha1>
+    <format>Flac</format>
+    <length>38.47</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Environment Sound (Disquieting)</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>13</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/13. Environment Sound (Disquieting).mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Environment Sound (Disquieting)</title>
+    <track>13</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>156</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/13. Environment Sound (Disquieting).flac</original>
+    <mtime>1643416496</mtime>
+    <size>846994</size>
+    <md5>4a678d32a1e95533b3b1d6b45e649b6c</md5>
+    <crc32>ddddb6f6</crc32>
+    <sha1>fbddc155dcc1ba29e7783f41f465f5f743feb80e</sha1>
+    <length>38.5</length>
+  </file>
+  <file name="CD 2/13. Environment Sound (Disquieting).png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/13. Environment Sound (Disquieting).flac</original>
+    <mtime>1643419330</mtime>
+    <size>39132</size>
+    <md5>8c49511e356dcc2c7f042a2a75c47a07</md5>
+    <crc32>98069df5</crc32>
+    <sha1>36ed2ec3cd8035466e1f7149195ad477a55c8867</sha1>
+  </file>
+  <file name="CD 2/13. Environment Sound (Disquieting)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/13. Environment Sound (Disquieting).flac</original>
+    <mtime>1643420254</mtime>
+    <size>287994</size>
+    <md5>0b0f6862dce88c24c78880ed7e4e2f41</md5>
+    <crc32>2c258a49</crc32>
+    <sha1>2f22f2731903b5c32f3792e34692fee864da3712</sha1>
+  </file>
+  <file name="CD 2/14. Sector 2 (TRO) Tropics Area.flac" source="original">
+    <mtime>1643414087</mtime>
+    <size>7254789</size>
+    <md5>1ef70789718a8dc166bcd17db463aee4</md5>
+    <crc32>7888da61</crc32>
+    <sha1>3bea1e5710bcc864980818a09293e8e2c7797b9c</sha1>
+    <format>Flac</format>
+    <length>94.44</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Sector 2 (TRO) Tropics Area</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>14</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/14. Sector 2 (TRO) Tropics Area.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Sector 2 (TRO) Tropics Area</title>
+    <track>14</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>150</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/14. Sector 2 (TRO) Tropics Area.flac</original>
+    <mtime>1643416430</mtime>
+    <size>1872302</size>
+    <md5>1ad5a9f09b31c7d96ec003615475a8f3</md5>
+    <crc32>97a5ebf7</crc32>
+    <sha1>bdcf379c7db7d84d29d6fd6ac3372a5a252a986e</sha1>
+    <length>94.49</length>
+  </file>
+  <file name="CD 2/14. Sector 2 (TRO) Tropics Area.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/14. Sector 2 (TRO) Tropics Area.flac</original>
+    <mtime>1643419042</mtime>
+    <size>41152</size>
+    <md5>29b8f23c2fdbdc193e1d7980b4213da7</md5>
+    <crc32>132d69f1</crc32>
+    <sha1>ba0635042fe940e72f099c99db4c6d9fcb56fe9e</sha1>
+  </file>
+  <file name="CD 2/14. Sector 2 (TRO) Tropics Area_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/14. Sector 2 (TRO) Tropics Area.flac</original>
+    <mtime>1643420205</mtime>
+    <size>300030</size>
+    <md5>572694dfec15018735db39ed14c520ab</md5>
+    <crc32>0fdce38e</crc32>
+    <sha1>6c8344a4b92446a72abd202db4ca305bbf328684</sha1>
+  </file>
+  <file name="CD 2/15. VS. Zazabi, Varia Core-X.flac" source="original">
+    <mtime>1643414092</mtime>
+    <size>8247698</size>
+    <md5>9e62ecf7be914e146299f1897a43af1f</md5>
+    <crc32>e55396b1</crc32>
+    <sha1>13444040840ae4625727d5ba7da6f20cf2010b6b</sha1>
+    <format>Flac</format>
+    <length>104.8</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Zazabi, Varia Core-X</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>15</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/15. VS. Zazabi, Varia Core-X.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>VS. Zazabi, Varia Core-X</title>
+    <track>15</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>209</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/15. VS. Zazabi, Varia Core-X.flac</original>
+    <mtime>1643416366</mtime>
+    <size>2839148</size>
+    <md5>81315dca522423ca8e1774856a3807e6</md5>
+    <crc32>22b6fe46</crc32>
+    <sha1>2ab5de8a5cc9d216d05170e21cd2467bb953089d</sha1>
+    <length>104.83</length>
+  </file>
+  <file name="CD 2/15. VS. Zazabi, Varia Core-X.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/15. VS. Zazabi, Varia Core-X.flac</original>
+    <mtime>1643419244</mtime>
+    <size>36193</size>
+    <md5>ad694583f030ce887ebb2c4f1c252a95</md5>
+    <crc32>84114d70</crc32>
+    <sha1>c58523bc72fed8a9c53b15fac59bb3ede015154e</sha1>
+  </file>
+  <file name="CD 2/15. VS. Zazabi, Varia Core-X_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/15. VS. Zazabi, Varia Core-X.flac</original>
+    <mtime>1643421083</mtime>
+    <size>293545</size>
+    <md5>eadfca63b6f833cb25947ab5c05dd7f4</md5>
+    <crc32>acbfc49f</crc32>
+    <sha1>29cf2c78cd0d84d3839d1a01828606de55c3f238</sha1>
+  </file>
+  <file name="CD 2/16. Environment Sound (Silence 2).flac" source="original">
+    <mtime>1643414096</mtime>
+    <size>4268235</size>
+    <md5>cf5bdd265b46be057f1644e21603b719</md5>
+    <crc32>954bd7d1</crc32>
+    <sha1>412c86047ee48d53e083045a92b99c1e07842c9f</sha1>
+    <format>Flac</format>
+    <length>64.53</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Environment Sound (Silence 2)</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>16</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/16. Environment Sound (Silence 2).mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Environment Sound (Silence 2)</title>
+    <track>16</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>137</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/16. Environment Sound (Silence 2).flac</original>
+    <mtime>1643416328</mtime>
+    <size>1198257</size>
+    <md5>18489e4998652d82ac77d6b6f5b23863</md5>
+    <crc32>565a13c4</crc32>
+    <sha1>4847ee957a0fdcc1d337e22e5e57cad3216d9b5d</sha1>
+    <length>64.57</length>
+  </file>
+  <file name="CD 2/16. Environment Sound (Silence 2).png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/16. Environment Sound (Silence 2).flac</original>
+    <mtime>1643420112</mtime>
+    <size>34167</size>
+    <md5>ee2ccc3cd1c02e6cc6eb828a29f729fd</md5>
+    <crc32>7a2bf231</crc32>
+    <sha1>9857eed0614c485462b6ef21df4608f382a94ee5</sha1>
+  </file>
+  <file name="CD 2/16. Environment Sound (Silence 2)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/16. Environment Sound (Silence 2).flac</original>
+    <mtime>1643421456</mtime>
+    <size>282590</size>
+    <md5>b36780cc82b7a935c6633ee10e68c1e5</md5>
+    <crc32>1e7f5aad</crc32>
+    <sha1>a264eb27cd8231953c92c61a21eb9fbc7bd13020</sha1>
+  </file>
+  <file name="CD 2/17. Sector 4 (AQA) Water Level Control Area.flac" source="original">
+    <mtime>1643414105</mtime>
+    <size>22119281</size>
+    <md5>f8e08e0a4d7c666c4b54a515f77a936d</md5>
+    <crc32>a60f47f7</crc32>
+    <sha1>a345d97e6a2320d9f22fdddab44d3de573a421f0</sha1>
+    <format>Flac</format>
+    <length>262.83</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Sector 4 (AQA) Water Level Control Area</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>17</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/17. Sector 4 (AQA) Water Level Control Area.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Sector 4 (AQA) Water Level Control Area</title>
+    <track>17</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>163</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/17. Sector 4 (AQA) Water Level Control Area.flac</original>
+    <mtime>1643417602</mtime>
+    <size>5452295</size>
+    <md5>efab8eb84a0fdbdf70b0e1aaea3dae84</md5>
+    <crc32>44f4ef9a</crc32>
+    <sha1>dc0c5e9e9720b0913530339f3a46f51ebb385233</sha1>
+    <length>262.87</length>
+  </file>
+  <file name="CD 2/17. Sector 4 (AQA) Water Level Control Area.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/17. Sector 4 (AQA) Water Level Control Area.flac</original>
+    <mtime>1643419811</mtime>
+    <size>40888</size>
+    <md5>c8e34942fa3d56069d6820a085351a52</md5>
+    <crc32>33155a54</crc32>
+    <sha1>9adb7e62dbce8d820d25bb860b285490f5dd2d68</sha1>
+  </file>
+  <file name="CD 2/17. Sector 4 (AQA) Water Level Control Area_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/17. Sector 4 (AQA) Water Level Control Area.flac</original>
+    <mtime>1643420950</mtime>
+    <size>276363</size>
+    <md5>e1a172ac4910733ff3024b28f42890aa</md5>
+    <crc32>fab05d72</crc32>
+    <sha1>84a81b347535cb23a5c0b81b49ab1b1b669562e1</sha1>
+  </file>
+  <file name="CD 2/18. VS. Ishtar, Gedu.flac" source="original">
+    <mtime>1643414110</mtime>
+    <size>8707688</size>
+    <md5>02ac942a77fe13c4f0dfc5bdf2cefc85</md5>
+    <crc32>0b76deb4</crc32>
+    <sha1>ff611263f7ea565c5f5226b49d21d63bf9104066</sha1>
+    <format>Flac</format>
+    <length>102.73</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Ishtar, Gedu</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>18</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/18. VS. Ishtar, Gedu.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>VS. Ishtar, Gedu</title>
+    <track>18</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>200</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/18. VS. Ishtar, Gedu.flac</original>
+    <mtime>1643417737</mtime>
+    <size>2667093</size>
+    <md5>7d73b2292777570114c9f6aa1613e49f</md5>
+    <crc32>c834ee84</crc32>
+    <sha1>79362cb76614a18140f793d00fbcd410519438ab</sha1>
+    <length>102.77</length>
+  </file>
+  <file name="CD 2/18. VS. Ishtar, Gedu.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/18. VS. Ishtar, Gedu.flac</original>
+    <mtime>1643419935</mtime>
+    <size>42938</size>
+    <md5>b2aa211854e0492b6dc1f88ce981cfc2</md5>
+    <crc32>5f8cbbcf</crc32>
+    <sha1>65acfe8fb929fa4076055de740834c6b7b5f5135</sha1>
+  </file>
+  <file name="CD 2/18. VS. Ishtar, Gedu_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/18. VS. Ishtar, Gedu.flac</original>
+    <mtime>1643420907</mtime>
+    <size>289757</size>
+    <md5>ebe0545f4fcfab28fd9e11061566e959</md5>
+    <crc32>6969d26d</crc32>
+    <sha1>9cdcf7883661bc1a8881122ddc2133736c0e4676</sha1>
+  </file>
+  <file name="CD 2/19. Sector 3 (PYR) High Temperature Zone Area.flac" source="original">
+    <mtime>1643414115</mtime>
+    <size>10555355</size>
+    <md5>88ee588c7e33d91774ca7d725e8bd0ef</md5>
+    <crc32>6d62bc5a</crc32>
+    <sha1>3ba169745d6c023e10466f8ca75ad9b0ab082a80</sha1>
+    <format>Flac</format>
+    <length>129.17</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Sector 3 (PYR) High Temperature Zone Area</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>19</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/19. Sector 3 (PYR) High Temperature Zone Area.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Sector 3 (PYR) High Temperature Zone Area</title>
+    <track>19</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>147</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/19. Sector 3 (PYR) High Temperature Zone Area.flac</original>
+    <mtime>1643417219</mtime>
+    <size>2478628</size>
+    <md5>ddffedc91b32b723127a53ff88319631</md5>
+    <crc32>73750f5d</crc32>
+    <sha1>89e893d41f0989156de9ea31ab636d21b32d7c77</sha1>
+    <length>129.2</length>
+  </file>
+  <file name="CD 2/19. Sector 3 (PYR) High Temperature Zone Area.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/19. Sector 3 (PYR) High Temperature Zone Area.flac</original>
+    <mtime>1643419913</mtime>
+    <size>40555</size>
+    <md5>938879db9971e8eb672b623fceb60042</md5>
+    <crc32>4ea15b74</crc32>
+    <sha1>3183b05e070d636a364941193f528b3171eff465</sha1>
+  </file>
+  <file name="CD 2/19. Sector 3 (PYR) High Temperature Zone Area_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/19. Sector 3 (PYR) High Temperature Zone Area.flac</original>
+    <mtime>1643420861</mtime>
+    <size>269846</size>
+    <md5>7109e9dc13291b42b75fb6a56c31ce80</md5>
+    <crc32>5bd5d909</crc32>
+    <sha1>6ad8878c36c5dd5e5e823fadd9d06c6bbfd24d40</sha1>
+  </file>
+  <file name="CD 2/20. VS. Box.flac" source="original">
+    <mtime>1643414124</mtime>
+    <size>3826354</size>
+    <md5>843589e18a770ecb68146059fd5cc4fe</md5>
+    <crc32>2ed87c07</crc32>
+    <sha1>b588804fa3b2d4a803598e16f92b892fae509471</sha1>
+    <format>Flac</format>
+    <length>47.56</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Box</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>20</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/20. VS. Box.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>VS. Box</title>
+    <track>20</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>159</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/20. VS. Box.flac</original>
+    <mtime>1643417182</mtime>
+    <size>1041090</size>
+    <md5>ffecb6f091d083231c1e82c4823b8617</md5>
+    <crc32>8417168b</crc32>
+    <sha1>17a768d100b513c33259a07585cc164a18ed3010</sha1>
+    <length>47.6</length>
+  </file>
+  <file name="CD 2/20. VS. Box.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/20. VS. Box.flac</original>
+    <mtime>1643419021</mtime>
+    <size>36008</size>
+    <md5>30b50b5ba2b25d0a926405132272ab4f</md5>
+    <crc32>37599d90</crc32>
+    <sha1>cac872b8640d7dcc4e0ea7ef88890615c97f7694</sha1>
+  </file>
+  <file name="CD 2/20. VS. Box_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/20. VS. Box.flac</original>
+    <mtime>1643420824</mtime>
+    <size>307426</size>
+    <md5>23f008a66663e1598b9d8fd3bc8fc5b7</md5>
+    <crc32>e6553417</crc32>
+    <sha1>02edbbbb821b1efbf42655583f843ea68f1114bb</sha1>
+  </file>
+  <file name="CD 2/21. Sector 6 (NOC) Darkness Area.flac" source="original">
+    <mtime>1643414131</mtime>
+    <size>13380828</size>
+    <md5>d2a1cffd9e08fab7206b333af9b9ed5a</md5>
+    <crc32>a3571c3b</crc32>
+    <sha1>3dd26c5fe88b7ed27b37a44343da810ca125651c</sha1>
+    <format>Flac</format>
+    <length>178.67</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Sector 6 (NOC) Darkness Area</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>21</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/21. Sector 6 (NOC) Darkness Area.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Sector 6 (NOC) Darkness Area</title>
+    <track>21</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>168</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/21. Sector 6 (NOC) Darkness Area.flac</original>
+    <mtime>1643417093</mtime>
+    <size>3856242</size>
+    <md5>172383045fa9989298ea17e28cce388e</md5>
+    <crc32>a6415bec</crc32>
+    <sha1>f7682cbb10116802f5e340889cbe01a3227efebf</sha1>
+    <length>178.7</length>
+  </file>
+  <file name="CD 2/21. Sector 6 (NOC) Darkness Area.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/21. Sector 6 (NOC) Darkness Area.flac</original>
+    <mtime>1643419060</mtime>
+    <size>35839</size>
+    <md5>e48b82e83bdac5c9c5d9ed646eec38f0</md5>
+    <crc32>8920009a</crc32>
+    <sha1>6e9ac09ba56b6de9a4e1fa088c73ea152816f9f4</sha1>
+  </file>
+  <file name="CD 2/21. Sector 6 (NOC) Darkness Area_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/21. Sector 6 (NOC) Darkness Area.flac</original>
+    <mtime>1643421009</mtime>
+    <size>278532</size>
+    <md5>cd72c5e16123882bcf00e823b14691bc</md5>
+    <crc32>f4a9416c</crc32>
+    <sha1>67950c99ee6f9c9facaed17935f60afbb36b95d8</sha1>
+  </file>
+  <file name="CD 2/22. SA-X Appearance.flac" source="original">
+    <mtime>1643414139</mtime>
+    <size>3156806</size>
+    <md5>24ffafd6f12551973fe3ed4fac05798a</md5>
+    <crc32>40874123</crc32>
+    <sha1>bd4235c10077c4d07d305668595b7b843b7582f3</sha1>
+    <format>Flac</format>
+    <length>38.73</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>SA-X Appearance</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>22</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/22. SA-X Appearance.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>SA-X Appearance</title>
+    <track>22</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>148</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/22. SA-X Appearance.flac</original>
+    <mtime>1643416344</mtime>
+    <size>810614</size>
+    <md5>9427252394400000a12d36f762e776d8</md5>
+    <crc32>47557d8d</crc32>
+    <sha1>b2f6c5ebb483e7af8e3dca0465b431f75e5261e5</sha1>
+    <length>38.77</length>
+  </file>
+  <file name="CD 2/22. SA-X Appearance.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/22. SA-X Appearance.flac</original>
+    <mtime>1643418473</mtime>
+    <size>29373</size>
+    <md5>c07e789a7b9dbe896f5587e0f6413916</md5>
+    <crc32>340bef76</crc32>
+    <sha1>aaee3fac6d7fb5b6cc0f909aa4fa4b7c0155966e</sha1>
+  </file>
+  <file name="CD 2/22. SA-X Appearance_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/22. SA-X Appearance.flac</original>
+    <mtime>1643421061</mtime>
+    <size>299673</size>
+    <md5>a8fc77aad66426bd61eda225af3bc585</md5>
+    <crc32>f43e0d8d</crc32>
+    <sha1>aea843e5866c5136ef961ce471b9bf043630fa3c</sha1>
+  </file>
+  <file name="CD 2/23. Sector 5 (ARC) Low Temperature Zone Area.flac" source="original">
+    <mtime>1643414144</mtime>
+    <size>5176132</size>
+    <md5>c24647e8c0c3fd9dc508d4eb58293f0e</md5>
+    <crc32>f09d211e</crc32>
+    <sha1>ae5ec35d5f17704d64816c9c8d517c4ac314faa6</sha1>
+    <format>Flac</format>
+    <length>71.4</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Sector 5 (ARC) Low Temperature Zone Area</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>23</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/23. Sector 5 (ARC) Low Temperature Zone Area.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Sector 5 (ARC) Low Temperature Zone Area</title>
+    <track>23</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>180</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/23. Sector 5 (ARC) Low Temperature Zone Area.flac</original>
+    <mtime>1643416986</mtime>
+    <size>1700543</size>
+    <md5>5405d3a733dc1281abe2425a4a732573</md5>
+    <crc32>89614b35</crc32>
+    <sha1>24749278cea5868c507996eafaa610148cd6262e</sha1>
+    <length>71.45</length>
+  </file>
+  <file name="CD 2/23. Sector 5 (ARC) Low Temperature Zone Area.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/23. Sector 5 (ARC) Low Temperature Zone Area.flac</original>
+    <mtime>1643419183</mtime>
+    <size>30822</size>
+    <md5>d67ee1401f026073200257337fafbf84</md5>
+    <crc32>02c0ceaf</crc32>
+    <sha1>05a6a6eb7a42fa8dd62b36a70d15eba281055a13</sha1>
+  </file>
+  <file name="CD 2/23. Sector 5 (ARC) Low Temperature Zone Area_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/23. Sector 5 (ARC) Low Temperature Zone Area.flac</original>
+    <mtime>1643421040</mtime>
+    <size>296219</size>
+    <md5>564e5d35bd0f0eb6df017cd5b0ed35eb</md5>
+    <crc32>7a197d82</crc32>
+    <sha1>caf2617054c7cb7e93b144261a0b8904e26135c5</sha1>
+  </file>
+  <file name="CD 2/24. Sector 3 Emergency Occurrence.flac" source="original">
+    <mtime>1643414147</mtime>
+    <size>2767276</size>
+    <md5>82e8a2847e9f27056999480038446b0a</md5>
+    <crc32>80ddc924</crc32>
+    <sha1>62072251683738e908953143f7ab600e893af5ab</sha1>
+    <format>Flac</format>
+    <length>32.04</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Sector 3 Emergency Occurrence</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>24</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/24. Sector 3 Emergency Occurrence.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Sector 3 Emergency Occurrence</title>
+    <track>24</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>182</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/24. Sector 3 Emergency Occurrence.flac</original>
+    <mtime>1643416950</mtime>
+    <size>827581</size>
+    <md5>dd18809072e0a7aaef376310840d1920</md5>
+    <crc32>255d6fe6</crc32>
+    <sha1>a56954b4f0090561a0ddc87f46db7b2aca6f4d19</sha1>
+    <length>32.08</length>
+  </file>
+  <file name="CD 2/24. Sector 3 Emergency Occurrence.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/24. Sector 3 Emergency Occurrence.flac</original>
+    <mtime>1643419123</mtime>
+    <size>32680</size>
+    <md5>3712b5b16816968628de4f12921e9fb0</md5>
+    <crc32>b2b354ad</crc32>
+    <sha1>8470089e39f2cd4e3387102869ca7785959471e5</sha1>
+  </file>
+  <file name="CD 2/24. Sector 3 Emergency Occurrence_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/24. Sector 3 Emergency Occurrence.flac</original>
+    <mtime>1643421030</mtime>
+    <size>310735</size>
+    <md5>ab1b2aa66dabfd4d179f821d11fbfc89</md5>
+    <crc32>05703547</crc32>
+    <sha1>0bb83306b0f9693312c6ff8d5991c35a4e015b39</sha1>
+  </file>
+  <file name="CD 2/25. Sector 3 Cooling Device Restoration Timer Mission.flac" source="original">
+    <mtime>1643414154</mtime>
+    <size>14650758</size>
+    <md5>a132e165799eeb65714c294d5010187e</md5>
+    <crc32>53f2d96f</crc32>
+    <sha1>84f51bcb5c7c6c66de07dae72594024928528a97</sha1>
+    <format>Flac</format>
+    <length>164.23</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Sector 3 Cooling Device Restoration Timer Mission</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>25</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/25. Sector 3 Cooling Device Restoration Timer Mission.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Sector 3 Cooling Device Restoration Timer Mission</title>
+    <track>25</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>150</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/25. Sector 3 Cooling Device Restoration Timer Mission.flac</original>
+    <mtime>1643417300</mtime>
+    <size>3168866</size>
+    <md5>aa29320465095e5d0754fbd74cdbd61b</md5>
+    <crc32>d095d6a0</crc32>
+    <sha1>135abdf5d0ec7bfa173647e85ef28b4e96f65fde</sha1>
+    <length>164.26</length>
+  </file>
+  <file name="CD 2/25. Sector 3 Cooling Device Restoration Timer Mission.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/25. Sector 3 Cooling Device Restoration Timer Mission.flac</original>
+    <mtime>1643419782</mtime>
+    <size>41207</size>
+    <md5>7cac75f63ab98b25485e7307fc1f872d</md5>
+    <crc32>4d6a1f85</crc32>
+    <sha1>c00d331c22500d3d7fc51a3561064b8df4dc726a</sha1>
+  </file>
+  <file name="CD 2/25. Sector 3 Cooling Device Restoration Timer Mission_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/25. Sector 3 Cooling Device Restoration Timer Mission.flac</original>
+    <mtime>1643420813</mtime>
+    <size>282554</size>
+    <md5>0242395099cc41d73a41e0abaa69b06c</md5>
+    <crc32>8962fce4</crc32>
+    <sha1>ff473809601d29dd15185543ea0bc7b142e3aea6</sha1>
+  </file>
+  <file name="CD 2/26. Environment Sound (Intrigue).flac" source="original">
+    <mtime>1643414157</mtime>
+    <size>4449668</size>
+    <md5>1c3cd32655ff651727ef4121dc22fe40</md5>
+    <crc32>7667f0ad</crc32>
+    <sha1>b7cd55efc19bec901191b2efae79e310a37d1bf7</sha1>
+    <format>Flac</format>
+    <length>56.91</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Environment Sound (Intrigue)</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>26</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/26. Environment Sound (Intrigue).mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Environment Sound (Intrigue)</title>
+    <track>26</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>153</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/26. Environment Sound (Intrigue).flac</original>
+    <mtime>1643417839</mtime>
+    <size>1185471</size>
+    <md5>c94e0bd7683f6b626ddb7d4a0d410347</md5>
+    <crc32>44f376a8</crc32>
+    <sha1>290223db6329ace50b4df880aa1f8e93c73823e7</sha1>
+    <length>56.95</length>
+  </file>
+  <file name="CD 2/26. Environment Sound (Intrigue).png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/26. Environment Sound (Intrigue).flac</original>
+    <mtime>1643420145</mtime>
+    <size>30600</size>
+    <md5>178568e3503793550f36fe1b793a5a93</md5>
+    <crc32>dbfc4ff8</crc32>
+    <sha1>a4187c4d50d50ff63a7a4d80f3400f2d4a8e6a35</sha1>
+  </file>
+  <file name="CD 2/26. Environment Sound (Intrigue)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/26. Environment Sound (Intrigue).flac</original>
+    <mtime>1643420982</mtime>
+    <size>273841</size>
+    <md5>30d9e19ae2f838b347ccd28ae519b524</md5>
+    <crc32>02460312</crc32>
+    <sha1>5e47d0c57326a52ee4be4af0f401943a94a0a0d5</sha1>
+  </file>
+  <file name="CD 2/27. VS. Birdman Statue First Form.flac" source="original">
+    <mtime>1643414162</mtime>
+    <size>3425902</size>
+    <md5>585aed6ff329306b710d48bb29a7bc87</md5>
+    <crc32>5513de67</crc32>
+    <sha1>8f59d875d6d5dd1d1f56c7b4a00cf60fdc4a3747</sha1>
+    <format>Flac</format>
+    <length>47.07</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Birdman Statue First Form</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>27</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/27. VS. Birdman Statue First Form.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>VS. Birdman Statue First Form</title>
+    <track>27</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>167</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/27. VS. Birdman Statue First Form.flac</original>
+    <mtime>1643416249</mtime>
+    <size>1081030</size>
+    <md5>a5974baa5c899f9df907179160ccd359</md5>
+    <crc32>a249ae9b</crc32>
+    <sha1>e6dbdb44e07b9c082242c87dcc93f8076c18a1e8</sha1>
+    <length>47.1</length>
+  </file>
+  <file name="CD 2/27. VS. Birdman Statue First Form.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/27. VS. Birdman Statue First Form.flac</original>
+    <mtime>1643419086</mtime>
+    <size>21866</size>
+    <md5>d3589ee2e7695f8bdde06ff228607dd6</md5>
+    <crc32>fe425172</crc32>
+    <sha1>78009059884aab3da15d0001df32c37db2e97cc3</sha1>
+  </file>
+  <file name="CD 2/27. VS. Birdman Statue First Form_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/27. VS. Birdman Statue First Form.flac</original>
+    <mtime>1643420998</mtime>
+    <size>292334</size>
+    <md5>7ecad34923ec563f7cc2dffee84df24b</md5>
+    <crc32>2f533187</crc32>
+    <sha1>a5f599807fd7f22fdcba5aebab1b679a6b91c7b7</sha1>
+  </file>
+  <file name="CD 2/28. VS. Nightmare.flac" source="original">
+    <mtime>1643414167</mtime>
+    <size>4625377</size>
+    <md5>1dc8cfe263b945b6b0977a204175ec87</md5>
+    <crc32>4282e8dc</crc32>
+    <sha1>661d5e37287d96800da660e48f7d7b0fcb18f75f</sha1>
+    <format>Flac</format>
+    <length>62.49</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Nightmare</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>28</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/28. VS. Nightmare.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>VS. Nightmare</title>
+    <track>28</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>208</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/28. VS. Nightmare.flac</original>
+    <mtime>1643416591</mtime>
+    <size>1724344</size>
+    <md5>786bc08bfe52c70e27c452a0c9e3238b</md5>
+    <crc32>48aed487</crc32>
+    <sha1>634292db5775ecf8bf76c18306c8fe7694474fbb</sha1>
+    <length>62.54</length>
+  </file>
+  <file name="CD 2/28. VS. Nightmare.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/28. VS. Nightmare.flac</original>
+    <mtime>1643419167</mtime>
+    <size>26167</size>
+    <md5>39aa31c0a6cd30b703e8ac59b3adb161</md5>
+    <crc32>b5c7b99f</crc32>
+    <sha1>074c0216cdb11e88312fbc77148d4f24bfcf6e9e</sha1>
+  </file>
+  <file name="CD 2/28. VS. Nightmare_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/28. VS. Nightmare.flac</original>
+    <mtime>1643421072</mtime>
+    <size>316117</size>
+    <md5>09d13c6a64b61766e87edfb390662f80</md5>
+    <crc32>d712d0e2</crc32>
+    <sha1>8906881c7b34556bd94b8e39652329c0cdfc6702</sha1>
+  </file>
+  <file name="CD 2/29. Sector 4 (AQA) Underwater Area.flac" source="original">
+    <mtime>1643414173</mtime>
+    <size>11696636</size>
+    <md5>89e8b2e1ddd5127d5392eb8da0896efc</md5>
+    <crc32>8d5be391</crc32>
+    <sha1>7762a8c4eff8cafe66525bb76e71dd5c4650e1ea</sha1>
+    <format>Flac</format>
+    <length>156.4</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Sector 4 (AQA) Underwater Area</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>29</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/29. Sector 4 (AQA) Underwater Area.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Sector 4 (AQA) Underwater Area</title>
+    <track>29</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>148</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/29. Sector 4 (AQA) Underwater Area.flac</original>
+    <mtime>1643416688</mtime>
+    <size>3000430</size>
+    <md5>d8bbabf71503d73038f6e0a81a3eafd5</md5>
+    <crc32>0484807c</crc32>
+    <sha1>2f29ac55527e6ad84242a4aa9c1bb24c59b5b3b8</sha1>
+    <length>156.45</length>
+  </file>
+  <file name="CD 2/29. Sector 4 (AQA) Underwater Area.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/29. Sector 4 (AQA) Underwater Area.flac</original>
+    <mtime>1643419225</mtime>
+    <size>45748</size>
+    <md5>fcff6bb99760ff6550fa38480d62e17a</md5>
+    <crc32>f06f6fc2</crc32>
+    <sha1>712ba064534acd5e50757a8dbaf0c8f960ad52c8</sha1>
+  </file>
+  <file name="CD 2/29. Sector 4 (AQA) Underwater Area_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/29. Sector 4 (AQA) Underwater Area.flac</original>
+    <mtime>1643421050</mtime>
+    <size>260510</size>
+    <md5>1574b0d2e9b482e50f6ab77c4d6c4e8d</md5>
+    <crc32>42c51867</crc32>
+    <sha1>3fde6755edff2d025f80f3d7ea0f3478e16b7018</sha1>
+  </file>
+  <file name="CD 2/30. VS. Neo Ridley.flac" source="original">
+    <mtime>1643414177</mtime>
+    <size>4454927</size>
+    <md5>6f133d30eb713a8fb3ceab4e369f3c75</md5>
+    <crc32>7c2ffb7a</crc32>
+    <sha1>0640d39a498e845a27ce2653643b2b27d08a45bf</sha1>
+    <format>Flac</format>
+    <length>56.47</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. Neo Ridley</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>30</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/30. VS. Neo Ridley.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>VS. Neo Ridley</title>
+    <track>30</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>149</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/30. VS. Neo Ridley.flac</original>
+    <mtime>1643416776</mtime>
+    <size>1147109</size>
+    <md5>2703034e53b8f4d1e320302b1e9b2b32</md5>
+    <crc32>9d555ca5</crc32>
+    <sha1>d46dd14b5b570320d7ff753c24b06a66bc7027eb</sha1>
+    <length>56.5</length>
+  </file>
+  <file name="CD 2/30. VS. Neo Ridley.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/30. VS. Neo Ridley.flac</original>
+    <mtime>1643420024</mtime>
+    <size>34618</size>
+    <md5>743fd8c708a26499e6b6edfd2cea7e14</md5>
+    <crc32>09b7c004</crc32>
+    <sha1>a4808347f73fcc9d75f94cd936d5727f069fc9b8</sha1>
+  </file>
+  <file name="CD 2/30. VS. Neo Ridley_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/30. VS. Neo Ridley.flac</original>
+    <mtime>1643420971</mtime>
+    <size>308562</size>
+    <md5>a5501bc89a58fad95781c109a5ffc4d7</md5>
+    <crc32>0b99c054</crc32>
+    <sha1>fd6e073e7f977d543362448a98b5a4ad8529eaa2</sha1>
+  </file>
+  <file name="CD 2/31. The Last Order.flac" source="original">
+    <mtime>1643414183</mtime>
+    <size>6779506</size>
+    <md5>53a3bcab37e6c01f35ce3733734da3cc</md5>
+    <crc32>a3856bfc</crc32>
+    <sha1>807a7a8d17ade0b54e72f4a2e8c11b2530d740a9</sha1>
+    <format>Flac</format>
+    <length>75.87</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>The Last Order</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>31</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/31. The Last Order.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>The Last Order</title>
+    <track>31</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>166</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/31. The Last Order.flac</original>
+    <mtime>1643416131</mtime>
+    <size>1669388</size>
+    <md5>4ea2801dd6f88b2b565c51f64ad112f0</md5>
+    <crc32>25a32422</crc32>
+    <sha1>3f7e7cd475f40905b6cb280ad06077e86a12d4df</sha1>
+    <length>75.91</length>
+  </file>
+  <file name="CD 2/31. The Last Order.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/31. The Last Order.flac</original>
+    <mtime>1643419980</mtime>
+    <size>33097</size>
+    <md5>c934f2009760fc539dc5d84894988271</md5>
+    <crc32>0f87b0d5</crc32>
+    <sha1>5f642bbf264a167120fa3dc20079b7d88526e1b2</sha1>
+  </file>
+  <file name="CD 2/31. The Last Order_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/31. The Last Order.flac</original>
+    <mtime>1643420836</mtime>
+    <size>285678</size>
+    <md5>e5a3d377ac6216becc9e2f562a027c99</md5>
+    <crc32>20ebb7da</crc32>
+    <sha1>e10bf70b91925360bac617de52a678881c34afee</sha1>
+  </file>
+  <file name="CD 2/32. VS. SA-X.flac" source="original">
+    <mtime>1643414188</mtime>
+    <size>3200065</size>
+    <md5>0925c351c869e26a258909d8f639834a</md5>
+    <crc32>e06f7d02</crc32>
+    <sha1>00c01c441e6d0b67f7d4f35ec4ffcd0b9d05823a</sha1>
+    <format>Flac</format>
+    <length>35.84</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>VS. SA-X</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>32</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/32. VS. SA-X.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>VS. SA-X</title>
+    <track>32</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>161</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/32. VS. SA-X.flac</original>
+    <mtime>1643416741</mtime>
+    <size>819397</size>
+    <md5>bcec2305fdb86a00ad8d55d3506cb415</md5>
+    <crc32>7d93a138</crc32>
+    <sha1>2ce54f61d3b3ac2e245308afa068253e81c6cc30</sha1>
+    <length>35.87</length>
+  </file>
+  <file name="CD 2/32. VS. SA-X.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/32. VS. SA-X.flac</original>
+    <mtime>1643419284</mtime>
+    <size>37012</size>
+    <md5>bab7bd973d97e588cc0f2da3858e7579</md5>
+    <crc32>4d774cd5</crc32>
+    <sha1>3b59eae15f9548a3ba01d85cc84b9f509c565925</sha1>
+  </file>
+  <file name="CD 2/32. VS. SA-X_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/32. VS. SA-X.flac</original>
+    <mtime>1643420938</mtime>
+    <size>298261</size>
+    <md5>c3bf98d27d42c3cb66cac98501670ecb</md5>
+    <crc32>9958caa6</crc32>
+    <sha1>c53f82993d305e495be6fd6d6b447e996dd50468</sha1>
+  </file>
+  <file name="CD 2/33. Station Escape Timer Mission.flac" source="original">
+    <mtime>1643414192</mtime>
+    <size>4632316</size>
+    <md5>5a7e3e8833a919603aa05d68f66147eb</md5>
+    <crc32>b7371d72</crc32>
+    <sha1>4b5e611f3cee22e86688eec9d3554c05edd8e958</sha1>
+    <format>Flac</format>
+    <length>56.13</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Station Escape Timer Mission</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>33</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/33. Station Escape Timer Mission.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Station Escape Timer Mission</title>
+    <track>33</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>168</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/33. Station Escape Timer Mission.flac</original>
+    <mtime>1643416807</mtime>
+    <size>1273626</size>
+    <md5>f716b06bfd04a610624a5697e286da66</md5>
+    <crc32>aff2e105</crc32>
+    <sha1>c11d2a1f2e61221619a27c8a1321c5a55bb5e93f</sha1>
+    <length>56.16</length>
+  </file>
+  <file name="CD 2/33. Station Escape Timer Mission.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/33. Station Escape Timer Mission.flac</original>
+    <mtime>1643419620</mtime>
+    <size>34742</size>
+    <md5>190c6b793f93b454e9e5c6354d46a404</md5>
+    <crc32>ddc94a24</crc32>
+    <sha1>803ae0ed37bc64f4710189cf05fe5eacc303f01c</sha1>
+  </file>
+  <file name="CD 2/33. Station Escape Timer Mission_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/33. Station Escape Timer Mission.flac</original>
+    <mtime>1643420962</mtime>
+    <size>293183</size>
+    <md5>6fdfd2ee304f05e8647f2d8bca56a123</md5>
+    <crc32>48424364</crc32>
+    <sha1>b62801df9765a9a5efcf3de6bec3ced2a47dd9be</sha1>
+  </file>
+  <file name="CD 2/34. Epilogue.flac" source="original">
+    <mtime>1643414197</mtime>
+    <size>6434438</size>
+    <md5>f5a1598c4ec48d5964839ff497d77367</md5>
+    <crc32>20e62aab</crc32>
+    <sha1>64e8863b9ce9f535d37bb666424f388d11e3f702</sha1>
+    <format>Flac</format>
+    <length>74.73</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Epilogue</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>34</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/34. Epilogue.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Epilogue</title>
+    <track>34</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>148</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/34. Epilogue.flac</original>
+    <mtime>1643416791</mtime>
+    <size>1482635</size>
+    <md5>9caa76e3ec381900d26487d594991c95</md5>
+    <crc32>e8c1de24</crc32>
+    <sha1>817b9237c8ab71243fe11bdc4a3b0ea4a7411e22</sha1>
+    <length>74.76</length>
+  </file>
+  <file name="CD 2/34. Epilogue.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/34. Epilogue.flac</original>
+    <mtime>1643419305</mtime>
+    <size>38803</size>
+    <md5>2d2ec26bf85a47414f70857e593c9170</md5>
+    <crc32>50972f3b</crc32>
+    <sha1>b917a48a052bbeee2587fef1f3b00debf735d51f</sha1>
+  </file>
+  <file name="CD 2/34. Epilogue_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/34. Epilogue.flac</original>
+    <mtime>1643420342</mtime>
+    <size>268687</size>
+    <md5>ecdae569e6ccddbe86f9b0f8c2a56c5d</md5>
+    <crc32>74eb83aa</crc32>
+    <sha1>71d6477f278da951c712332a5bdd1ddbc17d5d67</sha1>
+  </file>
+  <file name="CD 2/35. Ending.flac" source="original">
+    <mtime>1643414205</mtime>
+    <size>16800519</size>
+    <md5>f56366a0a0b943082d9beb92a13def5b</md5>
+    <crc32>ed42d597</crc32>
+    <sha1>e59a66cf9076d34df96665b29b1e991e4967ea15</sha1>
+    <format>Flac</format>
+    <length>198.76</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Ending</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>35</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/35. Ending.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Ending</title>
+    <track>35</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>161</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/35. Ending.flac</original>
+    <mtime>1643416217</mtime>
+    <size>4088773</size>
+    <md5>70daef6ee243192e142919a9290cf97e</md5>
+    <crc32>011d3fd9</crc32>
+    <sha1>214ccee7e36eee8e6d630bbd4ef1af4289f8f123</sha1>
+    <length>198.79</length>
+  </file>
+  <file name="CD 2/35. Ending.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/35. Ending.flac</original>
+    <mtime>1643417945</mtime>
+    <size>30844</size>
+    <md5>7109972257d7509f60b383dff36dc571</md5>
+    <crc32>fb3cda38</crc32>
+    <sha1>75fba05eb35edd7960029a9fcb547fcf901d6b5d</sha1>
+  </file>
+  <file name="CD 2/35. Ending_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/35. Ending.flac</original>
+    <mtime>1643420572</mtime>
+    <size>278808</size>
+    <md5>5344a44041cdb2fe85d3b9418df13b29</md5>
+    <crc32>6903ec33</crc32>
+    <sha1>f573c13b1874fe67d62dd1a686dbb4d3ac86f7d6</sha1>
+  </file>
+  <file name="CD 2/36. Appearance Jingle.flac" source="original">
+    <mtime>1643414218</mtime>
+    <size>390908</size>
+    <md5>1488a4cdd94fe8b8dbe12b33e7e60997</md5>
+    <crc32>5d7fec3c</crc32>
+    <sha1>630dac9686ffd09f92a7f4ca3ed235d3c5eada5e</sha1>
+    <format>Flac</format>
+    <length>6.84</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Appearance Jingle</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>36</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/36. Appearance Jingle.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Appearance Jingle</title>
+    <track>36</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>130</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/36. Appearance Jingle.flac</original>
+    <mtime>1643416754</mtime>
+    <size>206812</size>
+    <md5>de4862537fb6cf01382b876e74e54c17</md5>
+    <crc32>0a1fea98</crc32>
+    <sha1>bdce430f834f8cd6099e0e31e954f00910a128f8</sha1>
+    <length>6.87</length>
+  </file>
+  <file name="CD 2/36. Appearance Jingle.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/36. Appearance Jingle.flac</original>
+    <mtime>1643419148</mtime>
+    <size>31373</size>
+    <md5>5b6aa13f9c2ab4cb44afe5039a635c31</md5>
+    <crc32>d00a80dd</crc32>
+    <sha1>17e0b74ec8042a7c839c38939efea7778296227d</sha1>
+  </file>
+  <file name="CD 2/36. Appearance Jingle_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/36. Appearance Jingle.flac</original>
+    <mtime>1643421108</mtime>
+    <size>222240</size>
+    <md5>452d109e4055aaeb29164c1cbd88f337</md5>
+    <crc32>34c990a4</crc32>
+    <sha1>555b29fe9f26945d63c2cc9afc4f94bbfe9213e5</sha1>
+  </file>
+  <file name="CD 2/37. Item Obtainment Jingle.flac" source="original">
+    <mtime>1643414222</mtime>
+    <size>598916</size>
+    <md5>8e3c8950fc28746cb7d93e808d0e7cdf</md5>
+    <crc32>538a537c</crc32>
+    <sha1>72860de8170e6d9e0fbd1981001f5b8a9a14ef95</sha1>
+    <format>Flac</format>
+    <length>8.31</length>
+    <viruscheck>1643416020</viruscheck>
+    <title>Item Obtainment Jingle</title>
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <track>37</track>
+    <artist>Minako Hamano, Akira Fujiwara</artist>
+    <comment>SCDC-00276~7</comment>
+  </file>
+  <file name="CD 2/37. Item Obtainment Jingle.mp3" source="derivative">
+    <creator>Minako Hamano, Akira Fujiwara</creator>
+    <title>Item Obtainment Jingle</title>
+    <track>37</track>
+    <album>Metroid Prime &amp; Fusion Original Soundtracks</album>
+    <bitrate>167</bitrate>
+    <format>VBR MP3</format>
+    <original>CD 2/37. Item Obtainment Jingle.flac</original>
+    <mtime>1643416638</mtime>
+    <size>269012</size>
+    <md5>03d1f2f23c00995e38b2f0935898f53d</md5>
+    <crc32>f82139f9</crc32>
+    <sha1>600a57f7b78e84276f16c54c3b2340a72f548bac</sha1>
+    <length>8.33</length>
+  </file>
+  <file name="CD 2/37. Item Obtainment Jingle.png" source="derivative">
+    <format>PNG</format>
+    <original>CD 2/37. Item Obtainment Jingle.flac</original>
+    <mtime>1643419495</mtime>
+    <size>35612</size>
+    <md5>24bf3f48f87dc898817889633b3446ba</md5>
+    <crc32>052788ad</crc32>
+    <sha1>02dba995b8a118d78b68c74ca5eef8e0430a119b</sha1>
+  </file>
+  <file name="CD 2/37. Item Obtainment Jingle_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>CD 2/37. Item Obtainment Jingle.flac</original>
+    <mtime>1643421096</mtime>
+    <size>279055</size>
+    <md5>5981a7190d5286aa3aebfd5565fc9648</md5>
+    <crc32>9a5acec5</crc32>
+    <sha1>0781fb279b5d2d32c1d48dc6674bc95e7c0e27e0</sha1>
+  </file>
+  <file name="CD 2/Cover.jpg" source="original">
+    <mtime>1643414226</mtime>
+    <size>3584257</size>
+    <md5>ec084e5ea2c918a12ebc3ce94dc7914e</md5>
+    <crc32>03b3072c</crc32>
+    <sha1>6bf55d7722088317d16aa698d4f3ae0bfa87b391</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="CD 2/Log/Metroid Prime &amp; Fusion · Original Soundtracks CD 2.cue" source="original">
+    <mtime>1643414499</mtime>
+    <size>7834</size>
+    <md5>33c4032ae1fecca68f08c5cf952bca3d</md5>
+    <crc32>4114657c</crc32>
+    <sha1>e8ac0535f3268e1416ea55f0a2cfae83619bd284</sha1>
+    <format>Cue Sheet</format>
+    <viruscheck>1643416020</viruscheck>
+  </file>
+  <file name="CD 2/Log/Metroid Prime &amp; Fusion · Original Soundtracks CD 2.log" source="original">
+    <mtime>1643414502</mtime>
+    <size>33766</size>
+    <md5>b1ed30b3052df187688afead84adb59f</md5>
+    <crc32>f6cd0c4c</crc32>
+    <sha1>9c946f4161b1a0c6885f93b7baa820dee58ee119</sha1>
+    <format>Log</format>
+    <viruscheck>1643416020</viruscheck>
+  </file>
+  <file name="CD 2/Metroid Prime &amp; Fusion · Original Soundtracks CD 2.m3u8" source="original">
+    <mtime>1643414228</mtime>
+    <size>1304</size>
+    <md5>9a62b53088f09782692dc6e788fa266b</md5>
+    <crc32>4e9a3b05</crc32>
+    <sha1>854567baed7871b33157651b516f4e55db613e2d</sha1>
+    <format>M3U</format>
+    <viruscheck>1643416020</viruscheck>
+  </file>
+  <file name="Cover.jpg" source="original">
+    <mtime>1643413905</mtime>
+    <size>4675790</size>
+    <md5>6ca971d3f44d69a5437c483d0d0c544e</md5>
+    <crc32>33b550bb</crc32>
+    <sha1>924ee64d9d56e042eea670125bf08a95c55e489e</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Cover_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Cover.jpg</original>
+    <mtime>1643417933</mtime>
+    <size>22919</size>
+    <md5>7ad0408d0dbc763cec1b4d44401f557d</md5>
+    <crc32>0806b48e</crc32>
+    <sha1>64503b794f271bf5ce201487fc97941d3c7ca893</sha1>
+  </file>
+  <file name="Info.txt" source="original">
+    <mtime>1643413946</mtime>
+    <size>2310</size>
+    <md5>1aed500a5593a6bf7433e55624ea2ba2</md5>
+    <crc32>8904a1d3</crc32>
+    <sha1>353725cc04c264a51cf74961f9813e79a5fce982</sha1>
+    <format>Text</format>
+    <viruscheck>1643416020</viruscheck>
+  </file>
+  <file name="Scans/Cover.jpg" source="original">
+    <mtime>1643413950</mtime>
+    <size>4675790</size>
+    <md5>6ca971d3f44d69a5437c483d0d0c544e</md5>
+    <crc32>33b550bb</crc32>
+    <sha1>924ee64d9d56e042eea670125bf08a95c55e489e</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Scans/Metroid Prime &amp; Fusion Original Soundtracks Back.jpg" source="original">
+    <mtime>1643413953</mtime>
+    <size>2121766</size>
+    <md5>42755e24e43068c3f6688fe34b40f865</md5>
+    <crc32>5a902230</crc32>
+    <sha1>a6614113362a017361a5a0a4a64083e152dd6be9</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Scans/Metroid Prime &amp; Fusion Original Soundtracks Booklet Back.jpg" source="original">
+    <mtime>1643413965</mtime>
+    <size>1617414</size>
+    <md5>32630cafab1a2af629cee3d7cabba01e</md5>
+    <crc32>2cc73d80</crc32>
+    <sha1>fb334a667d381ab6b3236740913720b1de4fb0b2</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Scans/Metroid Prime &amp; Fusion Original Soundtracks Booklet Center.jpg" source="original">
+    <mtime>1643413971</mtime>
+    <size>812110</size>
+    <md5>f20446261e2c176f5197221e15d41dac</md5>
+    <crc32>260bdecd</crc32>
+    <sha1>feab9dd93642456d5b327dc59a9d0a86eecbfa30</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Scans/Metroid Prime &amp; Fusion Original Soundtracks Booklet Front.jpg" source="original">
+    <mtime>1643413974</mtime>
+    <size>2194169</size>
+    <md5>45dc6ee505ae79d95cd8e823fd4f33f1</md5>
+    <crc32>a17f41af</crc32>
+    <sha1>f8c55fc5eeb4c46726baa9f089794bddca8b83c9</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Scans/Metroid Prime &amp; Fusion Original Soundtracks Booklet Fusion 01-02.jpg" source="original">
+    <mtime>1643413977</mtime>
+    <size>564893</size>
+    <md5>b65ce3bdcd332665e06e660e1204adc9</md5>
+    <crc32>6ae52d68</crc32>
+    <sha1>23ad7755445c5f03ecccb527cb367e4934043909</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Scans/Metroid Prime &amp; Fusion Original Soundtracks Booklet Fusion 03-04.jpg" source="original">
+    <mtime>1643413985</mtime>
+    <size>604072</size>
+    <md5>0ebd5a41d1bfcb4efd7fafe2ecb5b026</md5>
+    <crc32>e8da4b44</crc32>
+    <sha1>1fedad7ef33fee5f5e5c0bb9d43efb275a67b5a3</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Scans/Metroid Prime &amp; Fusion Original Soundtracks Booklet Prime 01-02.jpg" source="original">
+    <mtime>1643413988</mtime>
+    <size>659821</size>
+    <md5>c23729698e27f5fc97053c2e9c56c1fc</md5>
+    <crc32>48be6b72</crc32>
+    <sha1>edbf7147a7163d20f0cd7190e8cf817acc5e2e32</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Scans/Metroid Prime &amp; Fusion Original Soundtracks Booklet Prime 03-04.jpg" source="original">
+    <mtime>1643413990</mtime>
+    <size>682436</size>
+    <md5>2b76e7237a6449845c24b8cfab1c506e</md5>
+    <crc32>f0aeb04a</crc32>
+    <sha1>bf8eab8b8f5d39269e906698ed7728b55c9a5f0e</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Scans/Metroid Prime &amp; Fusion Original Soundtracks CD 1.jpg" source="original">
+    <mtime>1643413996</mtime>
+    <size>959413</size>
+    <md5>863720d73be9442411a0526aa16a7bf5</md5>
+    <crc32>801f1d2c</crc32>
+    <sha1>4057d826a4ca106dcb878ae3a3ce6a63b13eb358</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Scans/Metroid Prime &amp; Fusion Original Soundtracks CD 2.jpg" source="original">
+    <mtime>1643414001</mtime>
+    <size>926300</size>
+    <md5>f7eac8865482fa44420ad9d1e259ae93</md5>
+    <crc32>de33c8c1</crc32>
+    <sha1>e804b483ab6cbc56a1f1f577235937a98253775b</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Scans/Metroid Prime &amp; Fusion Original Soundtracks Inlay.jpg" source="original">
+    <mtime>1643414005</mtime>
+    <size>2644856</size>
+    <md5>da849d87586737b89866dd80accc2ae8</md5>
+    <crc32>437c1ace</crc32>
+    <sha1>8879c7f28a4a5dcd8ebc5a333b4f6a5ccf16f503</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Scans/Metroid Prime &amp; Fusion Original Soundtracks Obi.jpg" source="original">
+    <mtime>1643414009</mtime>
+    <size>136201</size>
+    <md5>9ced45a57f094419b49324a43287595f</md5>
+    <crc32>00a5944c</crc32>
+    <sha1>711036bbcbd43d457947a6bdf8a8aea949411244</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1643414531</mtime>
+    <size>16259</size>
+    <md5>06cebc2b828fa00b4fe8cd8e34c5508a</md5>
+    <crc32>e466ca57</crc32>
+    <sha1>457a1d97f2d8a7e0dee125b07a12c0f2c685b1d1</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="metroid-prime-fusion-original-soundtracks_archive.torrent" source="metadata">
+    <btih>b6a6aeb0ee94e2771cec14a8c9528b3e02372a04</btih>
+    <mtime>1705800759</mtime>
+    <size>103818</size>
+    <md5>c69c1199b2b69c3d2242c33d1630d184</md5>
+    <crc32>e4b98939</crc32>
+    <sha1>33221e0d329237cbb1598a1e4dd0bc93b07f1ae3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="metroid-prime-fusion-original-soundtracks_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7f102c6a92e48199d777d0c09eb8e44b</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="metroid-prime-fusion-original-soundtracks_meta.sqlite" source="original">
+    <mtime>1643414520</mtime>
+    <size>458752</size>
+    <md5>5ec5e51fb14c6f4b0645757b78b849ef</md5>
+    <crc32>c12d3858</crc32>
+    <sha1>dc36f53672da3ac5d9d42d82b99806c5645f8f92</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="metroid-prime-fusion-original-soundtracks_meta.xml" source="original">
+    <mtime>1682373511</mtime>
+    <size>2518</size>
+    <md5>3ba768ca5e4d56cc83b67672b0b38a4d</md5>
+    <crc32>25b3ecc6</crc32>
+    <sha1>81a816f35cd971c4bcd74815d59dcaa2a5a3832e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="metroid-prime-fusion-original-soundtracks_reviews.xml" source="original">
+    <mtime>1705800734</mtime>
+    <size>576</size>
+    <md5>de66b06d0314407893a5f0670c2e2735</md5>
+    <crc32>72b63992</crc32>
+    <sha1>78bc3f8b900f7f877d25116f45d49efd83256845</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

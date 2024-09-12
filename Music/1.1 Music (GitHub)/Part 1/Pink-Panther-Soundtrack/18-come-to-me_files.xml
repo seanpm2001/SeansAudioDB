@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="01 - The Pink Panther Theme.mp3" source="original">
+    <mtime>1654198209</mtime>
+    <size>6484710</size>
+    <md5>574f6537c9fb363b8afeb8cb37265d7c</md5>
+    <crc32>b20b054f</crc32>
+    <sha1>8848acd57bb7e1dfe90048b6592a530566897378</sha1>
+    <format>VBR MP3</format>
+    <length>158.46</length>
+    <title>The Pink Panther Theme</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>1</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="01 - The Pink Panther Theme.png" source="derivative">
+    <format>PNG</format>
+    <original>01 - The Pink Panther Theme.mp3</original>
+    <mtime>1654199065</mtime>
+    <size>39246</size>
+    <md5>b4480e47a3c7b3ced675fb3840b80199</md5>
+    <crc32>b22289ec</crc32>
+    <sha1>0bee1c7fcf4a1ccc204b580830f5e40d31fb3e04</sha1>
+  </file>
+  <file name="01 - The Pink Panther Theme_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>01 - The Pink Panther Theme.mp3</original>
+    <mtime>1654202484</mtime>
+    <size>332794</size>
+    <md5>f194f1eaf9a77d03bccdfbebf2dd063f</md5>
+    <crc32>869d3aca</crc32>
+    <sha1>1ea2b2969402facdd2a77e07569e03ce0ecfb24e</sha1>
+  </file>
+  <file name="02 - Royal Blue.mp3" source="original">
+    <mtime>1654198239</mtime>
+    <size>7858726</size>
+    <md5>6865e718c167ac47bdf77d4c0e3a0805</md5>
+    <crc32>dad81e41</crc32>
+    <sha1>24d2e49c906a30bb888bfdfd53323854457bfd24</sha1>
+    <format>VBR MP3</format>
+    <length>192.81</length>
+    <title>Royal Blue</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>2</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="02 - Royal Blue.png" source="derivative">
+    <format>PNG</format>
+    <original>02 - Royal Blue.mp3</original>
+    <mtime>1654198746</mtime>
+    <size>33845</size>
+    <md5>7e94c849381dc17ffdcc2054e55e4879</md5>
+    <crc32>833446b6</crc32>
+    <sha1>4e8010efe6c74111ce289080f4a7a65555203701</sha1>
+  </file>
+  <file name="02 - Royal Blue_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>02 - Royal Blue.mp3</original>
+    <mtime>1654200838</mtime>
+    <size>292680</size>
+    <md5>6092b46999cf9c96584732d4a88fd58b</md5>
+    <crc32>0bc024f9</crc32>
+    <sha1>b19d73e77d3b34d3d9dcaecf8c04e80f704137f1</sha1>
+  </file>
+  <file name="03 - Champagne and Quail.mp3" source="original">
+    <mtime>1654198258</mtime>
+    <size>6854597</size>
+    <md5>193855c97c5eb42013f83e5a2f1d0d2d</md5>
+    <crc32>9ad24f6e</crc32>
+    <sha1>126b41197faf66591eb2592849cabbeb6df434b0</sha1>
+    <format>VBR MP3</format>
+    <length>167.71</length>
+    <title>Champagne and Quail</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>3</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="03 - Champagne and Quail.png" source="derivative">
+    <format>PNG</format>
+    <original>03 - Champagne and Quail.mp3</original>
+    <mtime>1654198720</mtime>
+    <size>38297</size>
+    <md5>812367a290365ef0b541547c449728ea</md5>
+    <crc32>60299e56</crc32>
+    <sha1>86119cb9020dab2e332c9b8cae08bee743e6a523</sha1>
+  </file>
+  <file name="03 - Champagne and Quail_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>03 - Champagne and Quail.mp3</original>
+    <mtime>1654200990</mtime>
+    <size>285323</size>
+    <md5>db5795792cc5625a8b502a28777fa2a3</md5>
+    <crc32>27fb4f4f</crc32>
+    <sha1>3efc11ee8592a786c7bec999a35e762e9aa9d8a8</sha1>
+  </file>
+  <file name="04 - The Village Inn.mp3" source="original">
+    <mtime>1654198267</mtime>
+    <size>6474247</size>
+    <md5>c3f181af423a92ffad301c7d42060dce</md5>
+    <crc32>cc4d029a</crc32>
+    <sha1>4eeaa72088b4ee4e8ec38310b21f2c78f255eceb</sha1>
+    <format>VBR MP3</format>
+    <length>158.2</length>
+    <title>The Village Inn</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>4</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="04 - The Village Inn.png" source="derivative">
+    <format>PNG</format>
+    <original>04 - The Village Inn.mp3</original>
+    <mtime>1654198774</mtime>
+    <size>34997</size>
+    <md5>212d96c5721de74842561802813d5805</md5>
+    <crc32>2a20bea2</crc32>
+    <sha1>1e5abfaa7873d6eca15f6e058d0d66740395a6d9</sha1>
+  </file>
+  <file name="04 - The Village Inn_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>04 - The Village Inn.mp3</original>
+    <mtime>1654201322</mtime>
+    <size>306477</size>
+    <md5>b35a6fe3128b6fec324cbbeb67afecd7</md5>
+    <crc32>791ab8f2</crc32>
+    <sha1>b3aed39cb672f20d33a28caf793b23170dc889e9</sha1>
+  </file>
+  <file name="05 - It had Better be Tonight.mp3" source="original">
+    <mtime>1654198272</mtime>
+    <size>4915277</size>
+    <md5>672225572dbf9eb520949dec125588f4</md5>
+    <crc32>0e6dd998</crc32>
+    <sha1>00a4a738dc6286955651dbe8d8d1e89ef5f09056</sha1>
+    <format>VBR MP3</format>
+    <length>119.22</length>
+    <title>It had Better be Tonight</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>5</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="05 - It had Better be Tonight.png" source="derivative">
+    <format>PNG</format>
+    <original>05 - It had Better be Tonight.mp3</original>
+    <mtime>1654198865</mtime>
+    <size>40520</size>
+    <md5>92cd320a69b880d4025205d3f56764cb</md5>
+    <crc32>5ae2af27</crc32>
+    <sha1>5b69cf36f1f0c42878002b5797a1efa0375a0759</sha1>
+  </file>
+  <file name="05 - It had Better be Tonight_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>05 - It had Better be Tonight.mp3</original>
+    <mtime>1654201450</mtime>
+    <size>309413</size>
+    <md5>3ee9b4ecac44b1c44c689155cc2e1623</md5>
+    <crc32>dc1269a2</crc32>
+    <sha1>caec133c0239d5aecc61320a11a441a2b550d4ac</sha1>
+  </file>
+  <file name="06 - Piano and Strings.mp3" source="original">
+    <mtime>1654198281</mtime>
+    <size>6495149</size>
+    <md5>31bd2607cf36969b38f9dd11d7086267</md5>
+    <crc32>494f2e4f</crc32>
+    <sha1>9a77e8c9ad279764616a0998cde2e29157785ee6</sha1>
+    <format>VBR MP3</format>
+    <length>158.72</length>
+    <title>Piano and Strings</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>6</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="06 - Piano and Strings.png" source="derivative">
+    <format>PNG</format>
+    <original>06 - Piano and Strings.mp3</original>
+    <mtime>1654199007</mtime>
+    <size>34892</size>
+    <md5>4e0178851779c92bf5058dec66d0674f</md5>
+    <crc32>b4f7ca59</crc32>
+    <sha1>2b47b1ede0f84bd831d409ba7a9fb5559278849d</sha1>
+  </file>
+  <file name="06 - Piano and Strings_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>06 - Piano and Strings.mp3</original>
+    <mtime>1654201646</mtime>
+    <size>272933</size>
+    <md5>abe5d8d627e8b896617facfaffaf67a3</md5>
+    <crc32>c2f1e15f</crc32>
+    <sha1>f8d5ddfe761806be9417ff91ca0176ae3b0ab564</sha1>
+  </file>
+  <file name="07 - Shades of Sennett.mp3" source="original">
+    <mtime>1654198286</mtime>
+    <size>3733483</size>
+    <md5>f90685269730e7057ac118c868d15764</md5>
+    <crc32>d4a93eb6</crc32>
+    <sha1>c825367820f12cedba22f040b51bfb5a1bf844c2</sha1>
+    <format>VBR MP3</format>
+    <length>89.68</length>
+    <title>Shades of Sennett</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>7</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="07 - Shades of Sennett.png" source="derivative">
+    <format>PNG</format>
+    <original>07 - Shades of Sennett.mp3</original>
+    <mtime>1654198806</mtime>
+    <size>40010</size>
+    <md5>2debc75eb5463020a828d9125fe60599</md5>
+    <crc32>e4f52d78</crc32>
+    <sha1>deeb8b8d9232ae7659e9ddffeb4123aeb00dcafa</sha1>
+  </file>
+  <file name="07 - Shades of Sennett_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>07 - Shades of Sennett.mp3</original>
+    <mtime>1654201733</mtime>
+    <size>321656</size>
+    <md5>512a229bda697e907d75abc9c1668477</md5>
+    <crc32>304e3913</crc32>
+    <sha1>87c1855e0b7c88f0cf2b939092d7560af0ba8d2f</sha1>
+  </file>
+  <file name="08 - A Shot in The Dark.mp3" source="original">
+    <mtime>1654198294</mtime>
+    <size>6201534</size>
+    <md5>9957efadb5ecc3f63574025ae7e88b78</md5>
+    <crc32>225e224d</crc32>
+    <sha1>627b8ff91296b08908db9cd4530324fe51b49d0b</sha1>
+    <format>VBR MP3</format>
+    <length>151.38</length>
+    <title>A Shot in The Dark</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>8</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="08 - A Shot in The Dark.png" source="derivative">
+    <format>PNG</format>
+    <original>08 - A Shot in The Dark.mp3</original>
+    <mtime>1654198656</mtime>
+    <size>42480</size>
+    <md5>9197c18ef284bc50fc8cd23317c40e57</md5>
+    <crc32>dca2bfee</crc32>
+    <sha1>2c4e2f1f9311a6f9fe2a23fc93bcd7cf37b3ff26</sha1>
+  </file>
+  <file name="08 - A Shot in The Dark_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>08 - A Shot in The Dark.mp3</original>
+    <mtime>1654202060</mtime>
+    <size>321351</size>
+    <md5>991a4e4b1a09a9a586da6324208894bf</md5>
+    <crc32>24df8b6f</crc32>
+    <sha1>6426283eb348b564abbdb03b8337275dc83ac7a3</sha1>
+  </file>
+  <file name="09 - The Shadow of Paris.mp3" source="original">
+    <mtime>1654198303</mtime>
+    <size>7326891</size>
+    <md5>7edb15b03e5215568f8e3c381ab50ed8</md5>
+    <crc32>f5da6910</crc32>
+    <sha1>aec31b6fe57422acc81b82787b2c039b3130b277</sha1>
+    <format>VBR MP3</format>
+    <length>179.51</length>
+    <title>The Shadow of Paris</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>9</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="09 - The Shadow of Paris.png" source="derivative">
+    <format>PNG</format>
+    <original>09 - The Shadow of Paris.mp3</original>
+    <mtime>1654199096</mtime>
+    <size>34960</size>
+    <md5>22f2679294d9ce567f070265b655ef56</md5>
+    <crc32>44f8b13e</crc32>
+    <sha1>6ca0574ca28db246ec8e596e252c77779e73cc5e</sha1>
+  </file>
+  <file name="09 - The Shadow of Paris_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>09 - The Shadow of Paris.mp3</original>
+    <mtime>1654202085</mtime>
+    <size>313182</size>
+    <md5>1b2e6e600d9c3fe2a4983e1d11108ec8</md5>
+    <crc32>26a5dae4</crc32>
+    <sha1>b83a0f300f627b96c231991f1ee3bd5cb867cd72</sha1>
+  </file>
+  <file name="10 - Summer In Gstaad.mp3" source="original">
+    <mtime>1654198347</mtime>
+    <size>5084535</size>
+    <md5>5dbb59fbf337aebcc33e1c7e844f6414</md5>
+    <crc32>66f35493</crc32>
+    <sha1>6fd477ed23715dceeafee4c80ca62d40dd3a66b6</sha1>
+    <format>VBR MP3</format>
+    <length>123.46</length>
+    <title>Summer in Gstaad</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>10</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="10 - Summer In Gstaad.png" source="derivative">
+    <format>PNG</format>
+    <original>10 - Summer In Gstaad.mp3</original>
+    <mtime>1654200594</mtime>
+    <size>39278</size>
+    <md5>5a1a3ff9703f1cc02bc18b6096d321da</md5>
+    <crc32>2fc7d214</crc32>
+    <sha1>6108371b5feaefc77f31fdaa274522aa413dfc9e</sha1>
+  </file>
+  <file name="10 - Summer In Gstaad_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>10 - Summer In Gstaad.mp3</original>
+    <mtime>1654202113</mtime>
+    <size>319153</size>
+    <md5>5ec1c934b73320d26b6db497272431a9</md5>
+    <crc32>97d14b20</crc32>
+    <sha1>ab378c13844245db943f29e752bb5925a7150148</sha1>
+  </file>
+  <file name="11 - So Smooth.mp3" source="original">
+    <mtime>1654198356</mtime>
+    <size>10005991</size>
+    <md5>cd8ee5480a2db598fcd17d1bc4586e62</md5>
+    <crc32>d057e473</crc32>
+    <sha1>5a3fe64d7cfd6a66c5d34728c820da90a5c07627</sha1>
+    <format>VBR MP3</format>
+    <length>246.49</length>
+    <title>So Smooth</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>11</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="11 - So Smooth.png" source="derivative">
+    <format>PNG</format>
+    <original>11 - So Smooth.mp3</original>
+    <mtime>1654200292</mtime>
+    <size>36122</size>
+    <md5>e98c62aca73261bb9d97840f303f493d</md5>
+    <crc32>92c2191b</crc32>
+    <sha1>56f877da908bda2ae0139d43041a69fb51dc9879</sha1>
+  </file>
+  <file name="11 - So Smooth_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>11 - So Smooth.mp3</original>
+    <mtime>1654202143</mtime>
+    <size>307536</size>
+    <md5>cf995c0dcbc173f598ef0132addf20d4</md5>
+    <crc32>3f71d6d3</crc32>
+    <sha1>45822dc19263013661dcf15f23b858e14b661272</sha1>
+  </file>
+  <file name="12 - The Greatest Gift.mp3" source="original">
+    <mtime>1654198377</mtime>
+    <size>8206692</size>
+    <md5>835d299e80ffa9308e8fdb4a0323cd68</md5>
+    <crc32>fbd31707</crc32>
+    <sha1>0c01545e877de019b34cc42a4798c1eacbf6c859</sha1>
+    <format>VBR MP3</format>
+    <length>201.51</length>
+    <title>The Greatest Gift</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>12</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="12 - The Greatest Gift.png" source="derivative">
+    <format>PNG</format>
+    <original>12 - The Greatest Gift.mp3</original>
+    <mtime>1654200012</mtime>
+    <size>38143</size>
+    <md5>6c406f3bf0178131212e4662697bf8cf</md5>
+    <crc32>a8da83b7</crc32>
+    <sha1>a00206a9ec975b41efe020981322c5de81ab7629</sha1>
+  </file>
+  <file name="12 - The Greatest Gift_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>12 - The Greatest Gift.mp3</original>
+    <mtime>1654200716</mtime>
+    <size>307395</size>
+    <md5>c81187ca413be484ab4ce06f61c3cb55</md5>
+    <crc32>4c3da19f</crc32>
+    <sha1>82a54f2f2e306b03c3c5bb1848df6d5b7d441920</sha1>
+  </file>
+  <file name="13 - The Orange Float.mp3" source="original">
+    <mtime>1654198387</mtime>
+    <size>7780372</size>
+    <md5>90849b55a1f71a1637b79afcacf2a496</md5>
+    <crc32>c6f353c7</crc32>
+    <sha1>49fc6f35eb2cd02bfeee04f20a599088235c235f</sha1>
+    <format>VBR MP3</format>
+    <length>190.85</length>
+    <title>The Orange Float</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>13</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="13 - The Orange Float.png" source="derivative">
+    <format>PNG</format>
+    <original>13 - The Orange Float.mp3</original>
+    <mtime>1654199520</mtime>
+    <size>33985</size>
+    <md5>d8951cd96bdf950652c6d653a6a5ea0c</md5>
+    <crc32>35914e60</crc32>
+    <sha1>5d86925cd021d4e6eb2c108ae1412aeaedda1294</sha1>
+  </file>
+  <file name="13 - The Orange Float_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>13 - The Orange Float.mp3</original>
+    <mtime>1654202781</mtime>
+    <size>310411</size>
+    <md5>c703ac016deb67c7dcb457f64ac86dce</md5>
+    <crc32>e114364a</crc32>
+    <sha1>92822052c8880aa32f9190922b06bac65349152e</sha1>
+  </file>
+  <file name="14 - Dreamy.mp3" source="original">
+    <mtime>1654198399</mtime>
+    <size>8276679</size>
+    <md5>ed81816db474a2534ee4bf2545419a9c</md5>
+    <crc32>fea7d4ae</crc32>
+    <sha1>2a8a69b6212abc1f3d5c4c1f51d309b9b20940c8</sha1>
+    <format>VBR MP3</format>
+    <length>203.26</length>
+    <title>Dreamy</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>14</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="14 - Dreamy.png" source="derivative">
+    <format>PNG</format>
+    <original>14 - Dreamy.mp3</original>
+    <mtime>1654199251</mtime>
+    <size>36087</size>
+    <md5>65837922e8d87daff16b397bff0ff853</md5>
+    <crc32>00d8896d</crc32>
+    <sha1>6faf560f690873de0d5a804dfb5d29afc0ec8db9</sha1>
+  </file>
+  <file name="14 - Dreamy_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>14 - Dreamy.mp3</original>
+    <mtime>1654202337</mtime>
+    <size>287687</size>
+    <md5>14123ac80fed7df05fede3b8961b9d6a</md5>
+    <crc32>e021dd9c</crc32>
+    <sha1>47f782b59c99d9e5d4b0a2dd98f62d6a86b57572</sha1>
+  </file>
+  <file name="15 - The Wet Look.mp3" source="original">
+    <mtime>1654198416</mtime>
+    <size>7749017</size>
+    <md5>f39a3f0158fde1c25928e1edb1458ecf</md5>
+    <crc32>15543b93</crc32>
+    <sha1>50a033802552bd3db41a8123df04a6150f6a681d</sha1>
+    <format>VBR MP3</format>
+    <length>190.07</length>
+    <title>The Wet Look</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>15</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="15 - The Wet Look.png" source="derivative">
+    <format>PNG</format>
+    <original>15 - The Wet Look.mp3</original>
+    <mtime>1654199745</mtime>
+    <size>37619</size>
+    <md5>5765c712b4819e3e6e9290c671c64e87</md5>
+    <crc32>4ae5d3bf</crc32>
+    <sha1>f53eb5582ae5592067c4513c4198d20185a27eeb</sha1>
+  </file>
+  <file name="15 - The Wet Look_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>15 - The Wet Look.mp3</original>
+    <mtime>1654202391</mtime>
+    <size>310398</size>
+    <md5>40dff81908c8b5df2814f60dd9a38e31</md5>
+    <crc32>2cd40ea1</crc32>
+    <sha1>0b09c559eb3143f4f04e97b2919d3f96165a87eb</sha1>
+  </file>
+  <file name="16 - Main Title from The Pink Panther Strikes Again.mp3" source="original">
+    <mtime>1654198439</mtime>
+    <size>6506701</size>
+    <md5>5e31e3720bfb8fbb1e8c674211da8499</md5>
+    <crc32>61249ad0</crc32>
+    <sha1>9015ea108bb6b1e1c0a643ec5099b39fac936cc5</sha1>
+    <format>VBR MP3</format>
+    <length>159.01</length>
+    <title>Main Title from The Pink Panther Strikes Again</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>16</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="16 - Main Title from The Pink Panther Strikes Again.png" source="derivative">
+    <format>PNG</format>
+    <original>16 - Main Title from The Pink Panther Strikes Again.mp3</original>
+    <mtime>1654198692</mtime>
+    <size>35410</size>
+    <md5>bacd47c1e9d7c4b675fcba070f65a680</md5>
+    <crc32>a4c21643</crc32>
+    <sha1>fb402d5b7e80602fdeb6e15ab26f7fa4c7146694</sha1>
+  </file>
+  <file name="16 - Main Title from The Pink Panther Strikes Again_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>16 - Main Title from The Pink Panther Strikes Again.mp3</original>
+    <mtime>1654202421</mtime>
+    <size>348988</size>
+    <md5>54fc7885e8554992968c9a202e75cf0a</md5>
+    <crc32>f208924b</crc32>
+    <sha1>675985e30c39bd4b0952740f3c0b90bb9d1cc78e</sha1>
+  </file>
+  <file name="17 - Bier Fest Polka.mp3" source="original">
+    <mtime>1654198453</mtime>
+    <size>6766819</size>
+    <md5>5f4de45c20e1aa21ca5647bac762e981</md5>
+    <crc32>ac2ab6ef</crc32>
+    <sha1>f62b24e4bd2cf26df72da231804179aadc872d6a</sha1>
+    <format>VBR MP3</format>
+    <length>165.51</length>
+    <title>Bier Fest Polka</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>17</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="17 - Bier Fest Polka.png" source="derivative">
+    <format>PNG</format>
+    <original>17 - Bier Fest Polka.mp3</original>
+    <mtime>1654198977</mtime>
+    <size>45753</size>
+    <md5>64214eb815859738f54f39d6b36a01c7</md5>
+    <crc32>3bbd08b9</crc32>
+    <sha1>160d79544db3465c6619c3997c132a42cb4707a7</sha1>
+  </file>
+  <file name="17 - Bier Fest Polka_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>17 - Bier Fest Polka.mp3</original>
+    <mtime>1654202452</mtime>
+    <size>305108</size>
+    <md5>49245a4a07559ba71bb75064cf4fd84d</md5>
+    <crc32>de7e8391</crc32>
+    <sha1>14acbae84d7116bf3f4ccc9782b4dce2a382ed45</sha1>
+  </file>
+  <file name="18 - Come to Me.mp3" source="original">
+    <mtime>1654198465</mtime>
+    <size>11304801</size>
+    <md5>acc72a440657a6d18ac38afe1a286117</md5>
+    <crc32>8b9b9129</crc32>
+    <sha1>c35943ae3b2d8482995ae4b8bb099423ad62fd80</sha1>
+    <format>VBR MP3</format>
+    <length>278.96</length>
+    <title>Come to Me</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>18</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="18 - Come to Me.png" source="derivative">
+    <format>PNG</format>
+    <original>18 - Come to Me.mp3</original>
+    <mtime>1654199414</mtime>
+    <size>33309</size>
+    <md5>7137a7cf81746e20d919be960c78ee33</md5>
+    <crc32>34753c83</crc32>
+    <sha1>bf63883db1aa4083100aded19c35b85eb5a245fa</sha1>
+  </file>
+  <file name="18 - Come to Me_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>18 - Come to Me.mp3</original>
+    <mtime>1654202748</mtime>
+    <size>323390</size>
+    <md5>50e463ff7a6c3c442d69aebf67ca6f81</md5>
+    <crc32>23962fff</crc32>
+    <sha1>6a374d759f8b5219f802ebb04666d16ea8c6f9f5</sha1>
+  </file>
+  <file name="18-come-to-me_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>4962e192c9b4202f3c2b3171e5f727a7</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="18-come-to-me_meta.sqlite" source="original">
+    <mtime>1654205971</mtime>
+    <size>118784</size>
+    <md5>bc9325c0198cd33e850ec4978f73ec1b</md5>
+    <crc32>e2bbc82a</crc32>
+    <sha1>a83c7a585b069efaa2618e07036960476ede1265</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="18-come-to-me_meta.xml" source="original">
+    <mtime>1682299856</mtime>
+    <size>1058</size>
+    <md5>8b441fc952c632726592254c9a3cbecd</md5>
+    <crc32>2b0f58f0</crc32>
+    <sha1>2e4141d6ab850cded552554fefe022593272e8fd</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="19 - Until You Love Me (Instrumental).mp3" source="original">
+    <mtime>1654198471</mtime>
+    <size>8205678</size>
+    <md5>5103cc77cc3d124f54279e21b3643fd1</md5>
+    <crc32>b6e29fc1</crc32>
+    <sha1>7b5fc1dc357f76cdf8eaa39c9ff5455467d51b57</sha1>
+    <format>VBR MP3</format>
+    <length>201.48</length>
+    <title>Until You Love Me (Instrumental)</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>19</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="19 - Until You Love Me (Instrumental).png" source="derivative">
+    <format>PNG</format>
+    <original>19 - Until You Love Me (Instrumental).mp3</original>
+    <mtime>1654200426</mtime>
+    <size>34868</size>
+    <md5>b032f863d9a0692c1922c39064e58589</md5>
+    <crc32>02177c36</crc32>
+    <sha1>e5766c4975830acd1c5a3fba438e1105779547e4</sha1>
+  </file>
+  <file name="19 - Until You Love Me (Instrumental)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>19 - Until You Love Me (Instrumental).mp3</original>
+    <mtime>1654202542</mtime>
+    <size>306644</size>
+    <md5>1f513ba79e03c022bd719cccceadaeb7</md5>
+    <crc32>c70deeff</crc32>
+    <sha1>b4b54c49095cccdb2873c2ab818d2d9afa97c47e</sha1>
+  </file>
+  <file name="20 - The Inspector Clouseau Theme.mp3" source="original">
+    <mtime>1654198485</mtime>
+    <size>7436625</size>
+    <md5>0ce48f95a0d8b63371775f20358752be</md5>
+    <crc32>b744a693</crc32>
+    <sha1>ecda2018f83d23682fd343b39a84ce4eba36598d</sha1>
+    <format>VBR MP3</format>
+    <length>182.26</length>
+    <title>The Inspector Clouseau Theme</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>20</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="20 - The Inspector Clouseau Theme.png" source="derivative">
+    <format>PNG</format>
+    <original>20 - The Inspector Clouseau Theme.mp3</original>
+    <mtime>1654199037</mtime>
+    <size>33675</size>
+    <md5>50f40ab718492e99650d7f4ca075fc8d</md5>
+    <crc32>d758398f</crc32>
+    <sha1>d0f3ac45c6051bdf5dabce5760355494661a86e6</sha1>
+  </file>
+  <file name="20 - The Inspector Clouseau Theme_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>20 - The Inspector Clouseau Theme.mp3</original>
+    <mtime>1654202576</mtime>
+    <size>323957</size>
+    <md5>e9c54adaab6621577326921c653ceb63</md5>
+    <crc32>0f349014</crc32>
+    <sha1>a4263f1c7292315ac937e92c5f87a0ef971fb122</sha1>
+  </file>
+  <file name="21 - After The Shower.mp3" source="original">
+    <mtime>1654198493</mtime>
+    <size>8983050</size>
+    <md5>20c1445bcea35c8728aa8eebd37acd3d</md5>
+    <crc32>5141a1b2</crc32>
+    <sha1>e87562c705a160d0ffed04d4b39c90b3f1ce160e</sha1>
+    <format>VBR MP3</format>
+    <length>220.92</length>
+    <title>After The Shower</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>21</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="21 - After The Shower.png" source="derivative">
+    <format>PNG</format>
+    <original>21 - After The Shower.mp3</original>
+    <mtime>1654198893</mtime>
+    <size>38457</size>
+    <md5>f1c790523e81727074371f89bd178b8e</md5>
+    <crc32>c664eb6e</crc32>
+    <sha1>981e332128318d0b075fef192df08e71272d6b7e</sha1>
+  </file>
+  <file name="21 - After The Shower_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>21 - After The Shower.mp3</original>
+    <mtime>1654202708</mtime>
+    <size>291879</size>
+    <md5>11bf36e5c28b1a680d9843dc1f23831f</md5>
+    <crc32>58f6a7e5</crc32>
+    <sha1>7352dd76babb205126a6903b7e5c240b0fb09d13</sha1>
+  </file>
+  <file name="22 - Hong Kong Fireworks.mp3" source="original">
+    <mtime>1654198511</mtime>
+    <size>8206696</size>
+    <md5>cd9791909431a92d28c88a7f928e5a12</md5>
+    <crc32>4ee16db7</crc32>
+    <sha1>f66af9d8a60fe946ca4d6ca3108dcaaa284090f5</sha1>
+    <format>VBR MP3</format>
+    <length>201.51</length>
+    <title>Hong Kong Fireworks</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>22</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="22 - Hong Kong Fireworks.png" source="derivative">
+    <format>PNG</format>
+    <original>22 - Hong Kong Fireworks.mp3</original>
+    <mtime>1654198838</mtime>
+    <size>38421</size>
+    <md5>abcf11eb3b28aeff4ec6927ebc2a301b</md5>
+    <crc32>c036e9ba</crc32>
+    <sha1>f5b233a1ae4d8292c7691345863f8384d8a008ab</sha1>
+  </file>
+  <file name="22 - Hong Kong Fireworks_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>22 - Hong Kong Fireworks.mp3</original>
+    <mtime>1654202623</mtime>
+    <size>322728</size>
+    <md5>f5f484f2dfe3c64f1c5424cb21049d51</md5>
+    <crc32>16691fe7</crc32>
+    <sha1>b149ac95e1d7b744cc2077d9565ff8ff8efe2d59</sha1>
+  </file>
+  <file name="23 - Thank Heaven For Little Girls.mp3" source="original">
+    <mtime>1654198524</mtime>
+    <size>6397998</size>
+    <md5>d4861f65375dcc2d54cc1158a3c76ca7</md5>
+    <crc32>2af06a41</crc32>
+    <sha1>f197ea8c6f9add858793d2b84f5f1182b5fbc7e2</sha1>
+    <format>VBR MP3</format>
+    <length>156.29</length>
+    <title>Thank Heaven for Little Girls</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>23</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="23 - Thank Heaven For Little Girls.png" source="derivative">
+    <format>PNG</format>
+    <original>23 - Thank Heaven For Little Girls.mp3</original>
+    <mtime>1654198945</mtime>
+    <size>41023</size>
+    <md5>75319c5fcdff50f6e84b5cf0ca07a607</md5>
+    <crc32>b4a4dc25</crc32>
+    <sha1>ad1e9492fdb72d15dca313fc92b945188fd0f97b</sha1>
+  </file>
+  <file name="23 - Thank Heaven For Little Girls_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>23 - Thank Heaven For Little Girls.mp3</original>
+    <mtime>1654202668</mtime>
+    <size>329857</size>
+    <md5>f1365b63e812cd5c0c4d957c8178009c</md5>
+    <crc32>fa8865bb</crc32>
+    <sha1>f89d3391fe7ae4c31f4bf13bf07364d951b2d1ea</sha1>
+  </file>
+  <file name="24 - The Pink Panther Theme.mp3" source="original">
+    <mtime>1654198540</mtime>
+    <size>7745902</size>
+    <md5>a12a73782765f935bf98ff5216e84483</md5>
+    <crc32>0baf440f</crc32>
+    <sha1>d1bcdefa459931ec099ad355d04c01880075ff16</sha1>
+    <format>VBR MP3</format>
+    <length>189.99</length>
+    <title>The Pink Panther Theme</title>
+    <creator>Henry Mancini</creator>
+    <album>The Ultimate Pink Panther</album>
+    <track>24</track>
+    <artist>Henry Mancini</artist>
+    <genre>Jazz</genre>
+    <comment></comment>
+  </file>
+  <file name="24 - The Pink Panther Theme.png" source="derivative">
+    <format>PNG</format>
+    <original>24 - The Pink Panther Theme.mp3</original>
+    <mtime>1654198630</mtime>
+    <size>37746</size>
+    <md5>36d7ed481eeabfdbcd3ce43bc6c70888</md5>
+    <crc32>3d49e017</crc32>
+    <sha1>85a90e4cf2670c951aee606f34ac95950bf0c3c7</sha1>
+  </file>
+  <file name="24 - The Pink Panther Theme_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>24 - The Pink Panther Theme.mp3</original>
+    <mtime>1654202213</mtime>
+    <size>329126</size>
+    <md5>71717b9545809df905d37732c9c5c8b0</md5>
+    <crc32>b34d0d17</crc32>
+    <sha1>7d34712aa5161a3b3c8c2b1020c90aa10e49d563</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1654205974</mtime>
+    <size>15003</size>
+    <md5>341f4ddc34ba875eed4f48d7d48c3fe5</md5>
+    <crc32>15f0a798</crc32>
+    <sha1>aef4d38d6bf69592944f21f0990d2f57d5f52ee6</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="folder.jpg" source="original">
+    <mtime>1654205966</mtime>
+    <size>142767</size>
+    <md5>87e17aa85f646db6b13b54c9e5ce0886</md5>
+    <crc32>ed8cf470</crc32>
+    <sha1>f127c61c8c5ab6d366da7fbde7bf27c0c2c6f4bd</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="folder_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>folder.jpg</original>
+    <mtime>1654206137</mtime>
+    <size>10584</size>
+    <md5>b7ddb7c3a6eaa8d0fd0af5b4f2023108</md5>
+    <crc32>d7f88629</crc32>
+    <sha1>6754c6c4a1d15471b079e27ca0ab1aca8bc30d88</sha1>
+  </file>
+</files>
