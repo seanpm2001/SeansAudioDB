@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nintendo-3DS-OST/1-30.%20Nintendo%20eShop%20-%20Main%20Theme.mp3</location>
+			<title>Nintendo eShop - Main Theme</title>
+			<creator>Kazumi Totaka</creator>
+			<album>Nintendo 3DS Original Soundtrack</album>
+			<trackNum>30</trackNum>
+			<annotation>https://archive.org/details/nintendo-3ds-original-soundtrack</annotation>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nintendo-3DS-OST/cover.png</image>
+			<duration>123516</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
