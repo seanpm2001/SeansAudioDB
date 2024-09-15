@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%202.0%20OST/10%20-%20Chant%20III%20-%20Reincarnation%20(2.0%20Ver.).flac</location>
+			<title>Chant III - Reincarnation (2.0 Ver.)</title>
+			<creator>Kenji Kawai</creator>
+			<album>Ghost in the Shell 2.0 Original Soundtrack</album>
+			<trackNum>10</trackNum>
+			<annotation>Track 10</annotation>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%202.0%20OST/cover.png</image>
+			<duration>344826</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%202.0%20OST/11%20-%20Heaven%20at%20Every%20Glance!%20(2.0%20Ver.).flac</location>
+			<title>Heaven at Every Glance! (2.0 Ver.)</title>
+			<creator>Kenji Kawai</creator>
+			<album>Ghost in the Shell 2.0 Original Soundtrack</album>
+			<trackNum>11</trackNum>
+			<annotation>Track 11</annotation>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%202.0%20OST/cover.png</image>
+			<duration>210333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/INNOCENCE%20O.S.T/04%20-%20River%20of%20Crystals.mp3</location>
+			<title>River of Crystals</title>
+			<creator>Kimiko Itoh</creator>
+			<album>Ghost in The Shell: Innocence O.S.T.</album>
+			<trackNum>4</trackNum>
+			<annotation>https://archive.org/details/01.-yoko-kanno-smooth-in-the-shell</annotation>
+			<duration>348970</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/INNOCENCE%20O.S.T/12%20-%20Follow%20Me.mp3</location>
+			<title>Follow Me</title>
+			<creator>Kimiko Itoh</creator>
+			<album>Ghost in The Shell: Innocence O.S.T.</album>
+			<trackNum>12</trackNum>
+			<annotation>https://archive.org/details/01.-yoko-kanno-smooth-in-the-shell</annotation>
+			<duration>301244</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
