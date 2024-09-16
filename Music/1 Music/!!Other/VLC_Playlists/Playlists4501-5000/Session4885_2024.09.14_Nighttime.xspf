@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/TRIBUTE%20CATEGORY%20-%20TECHNO%20STYLE%20VER%202.0.0/09%20-%20UNDISORDER.flac</location>
+			<title>UNDISORDER</title>
+			<creator>SHIN NISHIMURA</creator>
+			<album>GHOST IN THE SHELL TRIBUTE CATEGORY:TECHNO STYLE VER 2.0.0</album>
+			<trackNum>9</trackNum>
+			<duration>375000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/TRIBUTE%20CATEGORY%20-%20TECHNO%20STYLE%20VER%202.0.0/12%20-%20WATER%20FALL.flac</location>
+			<title>WATER FALL</title>
+			<creator>SAM REEVE</creator>
+			<album>GHOST IN THE SHELL TRIBUTE CATEGORY:TECHNO STYLE VER 2.0.0</album>
+			<trackNum>12</trackNum>
+			<duration>387760</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/INNOCENCE%20Theme%20Single%20-%20Follow%20Me/04%20-%20My%20Favorite%20Things.flac</location>
+			<title>My Favorite Things</title>
+			<creator>Kimiko Itoh</creator>
+			<album>Follow Me</album>
+			<trackNum>4</trackNum>
+			<duration>283200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
