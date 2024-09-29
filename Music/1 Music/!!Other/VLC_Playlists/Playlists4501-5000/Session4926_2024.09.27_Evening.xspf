@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!iBlast%20Moki%20series/iBlast%20Moki/Raw%20Audio/Romain%20Gauthier%20-%20iBlast%20Moki%20-%20Background%20Music%202%20(2009).aiff</location>
+			<title>iBlast Moki - Background Music 2 (2009)</title>
+			<creator>Romain Gauthier</creator>
+			<album>iBlast Moki 2</album>
+			<trackNum>9</trackNum>
+			<annotation>Visit http://ninomojo.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Romain%20Gauthier/iBlast%20Moki%202/art.jpg</image>
+			<duration>213891</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charli-XCX/Brat/01%20360.m4a</location>
+			<title>360</title>
+			<creator>Charli XCX</creator>
+			<album>BRAT</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Charli%20XCX/BRAT/art.jpg</image>
+			<duration>133863</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charli-XCX/Brat/15%20365.m4a</location>
+			<title>365</title>
+			<creator>Charli XCX</creator>
+			<album>BRAT</album>
+			<trackNum>15</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Charli%20XCX/BRAT/art.jpg</image>
+			<duration>203685</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charli-XCX/Brat/05%20Talk%20talk.m4a</location>
+			<title>Talk talk</title>
+			<creator>Charli XCX</creator>
+			<album>BRAT</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Charli%20XCX/BRAT/art.jpg</image>
+			<duration>161819</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charli-XCX/Brat/06%20Von%20dutch.m4a</location>
+			<title>Von dutch</title>
+			<creator>Charli XCX</creator>
+			<album>BRAT</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Charli%20XCX/BRAT/art.jpg</image>
+			<duration>164350</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charli-XCX/Brat/03%20Sympathy%20is%20a%20knife.m4a</location>
+			<title>Sympathy is a knife</title>
+			<creator>Charli XCX</creator>
+			<album>BRAT</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Charli%20XCX/BRAT/art.jpg</image>
+			<duration>151185</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charli-XCX/Brat/07%20Everything%20is%20romantic.m4a</location>
+			<title>Everything is romantic</title>
+			<creator>Charli XCX</creator>
+			<album>BRAT</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Charli%20XCX/BRAT/art.jpg</image>
+			<duration>203546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Charli-XCX/Brat/10%20Girl,%20so%20confusing.m4a</location>
+			<title>Girl, so confusing</title>
+			<creator>Charli XCX</creator>
+			<album>BRAT</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Charli%20XCX/BRAT/art.jpg</image>
+			<duration>174567</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
