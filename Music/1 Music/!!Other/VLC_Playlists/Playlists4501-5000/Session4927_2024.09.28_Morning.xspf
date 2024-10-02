@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-mania-expanded-soundtrack/2-16%20Built%20to%20Rule%20(Titanic%20Monarch%20Zone%20-%20Act%201).mp3</location>
+			<title>Built to Rule (Titanic Monarch Zone - Act 1)</title>
+			<creator>Tee Lopes</creator>
+			<album>Sonic Mania: Expanded Soundtrack</album>
+			<trackNum>16</trackNum>
+			<annotation>Ripped, Edited, &amp; Tagged by !!!!! (demon2warrior)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tee%20Lopes/Sonic%20Mania_%20Expanded%20Soundtrack/art.jpg</image>
+			<duration>160339</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
