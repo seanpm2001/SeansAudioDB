@@ -90,9 +90,9 @@ RU: Применимы следующие 6 аудиофайлов:
 
 # 🇺🇦️ Counter / Лічильник / Прилавок 🇺🇦️
 
-- The Ukrainian Flag Emoji appears in this document `5589` times (as of 2024.10.01)
-- UA/UK: У цьому документі з'являється емодзі прапора України `5589` разів (станом на 2024.10.01)
-- RU: Эмодзи Флаг Украины появляется в этом документе `5589` раз (по состоянию на 2024.10.01)
+- The Ukrainian Flag Emoji appears in this document `5592` times (as of 2024.10.02)
+- UA/UK: У цьому документі з'являється емодзі прапора України `5592` разів (станом на 2024.10.02)
+- RU: Эмодзи Флаг Украины появляется в этом документе `5592` раз (по состоянию на 2024.10.02)
 
 ***
 
@@ -821,6 +821,7 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 721: 2024, September 29th
 - [x] 🇺🇦️ Day 722: 2024, September 30th
 - [x] 🇺🇦️ Day 723: 2024, October 1st
+- [x] 🇺🇦️ Day 724: 2024, October 2nd
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -1778,9 +1779,10 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 946, 2024, Thursday, September 26th
 - [x] 🇺🇦️ Day 947, 2024, Friday, September 27th
 - [x] 🇺🇦️ Day 948, 2024, Saturday, September 28th
-- [x] 🇺🇦️ Day 949, 2024, Saturday, September 29th
-- [x] 🇺🇦️ Day 950, 2024, Saturday, September 30th
-- [x] 🇺🇦️ Day 951, 2024, Saturday, October 1st
+- [x] 🇺🇦️ Day 949, 2024, Sunday, September 29th
+- [x] 🇺🇦️ Day 950, 2024, Monday, September 30th
+- [x] 🇺🇦️ Day 951, 2024, Tuesday, October 1st
+- [x] 🇺🇦️ Day 952, 2024, Wednesday, October 2nd
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -5673,10 +5675,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3874: 2024, September 29th
 - [x] 🇺🇦️ Day 3875: 2024, September 30th
 - [x] 🇺🇦️ Day 3876: 2024, October 1st
+- [x] 🇺🇦️ Day 3877: 2024, October 2nd
 
-- After 3,876 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 3,876 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 3,876 дня это все еще Украина. Слава Украине!
+- After 3,877 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 3,877 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 3,877 дня это все еще Украина. Слава Украине!
 
 > **Note** The numbers are incorrect from an unknown point up to 2022, December 11th. I know I got the dates right, the numbers can be rewritten with automation. It is just 1 number off.
 
@@ -5704,15 +5707,15 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **UA/UK: Тип файлу:** `Уцінка (*.md *.mkd *.mdown *.markdown)`
 - **RU: Тип файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `647 (2024, Tuesday, October 1st at 08:15 pm PST)`
+- **File version:** `648 (2024, Wednesday, October 2nd at 08:14 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
 > **Translation not available (Russian) Перевод недоступен (Русский)**
 
-- **Line count (including blank lines and compiler line):** `6,811`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `6,811`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `6,811`
+- **Line count (including blank lines and compiler line):** `6,834`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `6,834`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `6,834`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -6714,6 +6717,26 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 648 (2024, Wednesday, October 2nd at 08:14 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `5592`
+- [x] Updated the main list to include an entry for 2024, October 2nd (day 724)
+- [x] Updated the list of all days of the war since the 2022 Invasion (952 days)
+- [x] Updated the list of all days of the war (3,877 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 648
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 648
+
+</details> <!-- V648 !-->
+
+---
+
 _End of file history._
 
 </details> <!-- End of file history !-->
@@ -6728,11 +6751,11 @@ _End of file history._
 
 TODO: Translate this section
 
-- Total consecutive days: 721 (as of 2024, Tuesday, October 1st)
-- Days with an update: 647 (as of 2024, Tuesday, October 1st)
-- Days without an update: 76 (as of 2024, Tuesday, October 1st)
+- Total consecutive days: 724 (as of 2024, Wednesday, October 2nd)
+- Days with an update: 648 (as of 2024, Tuesday, October 2nd)
+- Days without an update: 76 (as of 2024, Tuesday, October 2nd)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 647/723 = 89.488% (as of 2024, Tuesday, October 1st)
+- Ratio: 648/724 = 89.502% (as of 2024, Wednesday, October 2nd)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
