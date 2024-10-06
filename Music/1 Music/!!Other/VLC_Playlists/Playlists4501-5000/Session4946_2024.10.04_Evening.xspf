@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/The%20Descent/Kevin%20MacLeod%20-%2007%20-%20Constancy%20Part%20Three.mp3</location>
+			<title>Constancy Part Three</title>
+			<creator>Kevin MacLeod</creator>
+			<album>The Descent</album>
+			<trackNum>7</trackNum>
+			<annotation> 000004ED 000005B3 00001E30 00001EC7 0000D21A 0000BBA7 00007E86 000078B5 0000C558 0000A9B1</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/The%20Descent/art.jpg</image>
+			<duration>63715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/The%20Descent/Kevin%20MacLeod%20-%2023%20-%20Space%20Fighter%20Loop.mp3</location>
+			<title>Space Fighter Loop</title>
+			<creator>Kevin MacLeod</creator>
+			<album>The Descent</album>
+			<trackNum>23</trackNum>
+			<annotation> 0000042D 000003DC 00005113 000050BB 00014829 00014829 00007E86 000079E6 00004EE0 00005B39</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/The%20Descent/art.jpg</image>
+			<duration>101122</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/The%20Descent/Kevin%20MacLeod%20-%2028%20-%20Undaunted.mp3</location>
+			<title>Undaunted</title>
+			<creator>Kevin MacLeod</creator>
+			<album>The Descent</album>
+			<trackNum>28</trackNum>
+			<annotation>USUAN1400025</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/The%20Descent/art.jpg</image>
+			<duration>212536</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
