@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_Vice-City/PS2-BoxSet/2-04%20-%20Kids%20In%20America.mp3</location>
+			<title>Kids In America</title>
+			<creator>Kim Wilde</creator>
+			<album>Grand Theft Auto Vice City Official Soundtrack Box Set</album>
+			<trackNum>204</trackNum>
+			<annotation>EXK 87009</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kim%20Wilde/Grand%20Theft%20Auto%20Vice%20City%20Official%20Soundtrack%20Box%20Set/art.jpg</image>
+			<duration>202453</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
