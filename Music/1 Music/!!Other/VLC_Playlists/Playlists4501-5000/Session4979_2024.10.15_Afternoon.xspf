@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kill-Bill-Volume-1-Soundtrack/02.%20That%20Certain%20Female.mp3</location>
+			<title>That Certain Female</title>
+			<creator>Charlie Feathers</creator>
+			<album>Kill Bill Vol. 1 Original Soundtrack (PA Version)</album>
+			<trackNum>2</trackNum>
+			<annotation>https://music.youtube.com/watch?v=8Z0CJTtvhhg</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Charlie%20Feathers/Kill%20Bill%20Vol.%201%20Original%20Soundtrack%20%28PA%20Version%29/art.jpg</image>
+			<duration>181344</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
