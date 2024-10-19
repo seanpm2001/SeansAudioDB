@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kill-Bill-Volume-2-Soundtrack/02.%20Goodnight%20Moon.mp3</location>
+			<title>Goodnight Moon</title>
+			<creator>Shivaree</creator>
+			<album>Kill Bill Vol. 2 Original Soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>https://music.youtube.com/watch?v=rdOtsnrxxL4</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shivaree/Kill%20Bill%20Vol.%202%20Original%20Soundtrack/art.jpg</image>
+			<duration>243840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
