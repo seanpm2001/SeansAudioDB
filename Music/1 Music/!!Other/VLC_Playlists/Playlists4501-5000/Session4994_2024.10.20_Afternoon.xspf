@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-the-complete-soundtrack/4-13%20Metallic%20Madness%20US.mp3</location>
+			<title>Metallic Madness US</title>
+			<creator>Mark &quot;Sterling&quot; Crew, Armando Peraza, &amp; Bobby Vega</creator>
+			<album>Sonic CD ~ The Complete Soundtrack 2.0</album>
+			<trackNum>13</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Mark%20_Sterling_%20Crew%2C%20Armando%20Peraza%2C%20%26%20Bobby%20Vega/Sonic%20CD%20~%20The%20Complete%20Soundtrack%202.0/art.png</image>
+			<duration>169038</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-the-complete-soundtrack/3-10%20Collision%20Chaos%20US.mp3</location>
+			<title>Collision Chaos US</title>
+			<creator>Mark &quot;Sterling&quot; Crew, Armando Peraza, &amp; Bobby Vega</creator>
+			<album>Sonic CD ~ The Complete Soundtrack 2.0</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Mark%20_Sterling_%20Crew%2C%20Armando%20Peraza%2C%20%26%20Bobby%20Vega/Sonic%20CD%20~%20The%20Complete%20Soundtrack%202.0/art.png</image>
+			<duration>199340</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-the-complete-soundtrack/3-12%20Collision%20Chaos%20&#39;G&#39;%20Mix%20US.mp3</location>
+			<title>Collision Chaos &#39;G&#39; Mix US</title>
+			<creator>Mark &quot;Sterling&quot; Crew, Armando Peraza, &amp; Bobby Vega</creator>
+			<album>Sonic CD ~ The Complete Soundtrack 2.0</album>
+			<trackNum>12</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Mark%20_Sterling_%20Crew%2C%20Armando%20Peraza%2C%20%26%20Bobby%20Vega/Sonic%20CD%20~%20The%20Complete%20Soundtrack%202.0/art.png</image>
+			<duration>137169</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-the-complete-soundtrack/3-14%20Tidal%20Tempest%20US.mp3</location>
+			<title>Tidal Tempest US</title>
+			<creator>Spencer Nilsen &amp; David Young</creator>
+			<album>Sonic CD ~ The Complete Soundtrack 2.0</album>
+			<trackNum>14</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Spencer%20Nilsen%20%26%20David%20Young/Sonic%20CD%20~%20The%20Complete%20Soundtrack%202.0/art.png</image>
+			<duration>219742</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-the-complete-soundtrack/3-15%20Tidal%20Tempest%20US%20(Album%20Ver.).mp3</location>
+			<title>Tidal Tempest US (Album Ver.)</title>
+			<creator>Spencer Nilsen &amp; David Young</creator>
+			<album>Sonic CD ~ The Complete Soundtrack 2.0</album>
+			<trackNum>15</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Spencer%20Nilsen%20%26%20David%20Young/Sonic%20CD%20~%20The%20Complete%20Soundtrack%202.0/art.png</image>
+			<duration>198713</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-the-complete-soundtrack/3-16%20Tidal%20Tempest%20&#39;G&#39;%20Mix%20US.mp3</location>
+			<title>Tidal Tempest &#39;G&#39; Mix US</title>
+			<creator>Spencer Nilsen &amp; David Young</creator>
+			<album>Sonic CD ~ The Complete Soundtrack 2.0</album>
+			<trackNum>16</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Spencer%20Nilsen%20%26%20David%20Young/Sonic%20CD%20~%20The%20Complete%20Soundtrack%202.0/art.png</image>
+			<duration>185861</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-the-complete-soundtrack/4-02%20Wacky%20Workbench%20US.mp3</location>
+			<title>Wacky Workbench US</title>
+			<creator>Spencer Nilsen &amp; David Young</creator>
+			<album>Sonic CD ~ The Complete Soundtrack 2.0</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Spencer%20Nilsen%20%26%20David%20Young/Sonic%20CD%20~%20The%20Complete%20Soundtrack%202.0/art.png</image>
+			<duration>161645</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

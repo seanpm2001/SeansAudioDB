@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-the-complete-soundtrack/1-04%20Palmtree%20Panic%20JP.mp3</location>
+			<title>Palmtree Panic JP</title>
+			<creator>Naofumi Hataya</creator>
+			<album>Sonic CD ~ The Complete Soundtrack 2.0</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Naofumi%20Hataya/Sonic%20CD%20~%20The%20Complete%20Soundtrack%202.0/art.png</image>
+			<duration>241998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-the-complete-soundtrack/3-02%20Palmtree%20Panic%20US.mp3</location>
+			<title>Palmtree Panic US</title>
+			<creator>Spencer Nilsen &amp; David Young</creator>
+			<album>Sonic CD ~ The Complete Soundtrack 2.0</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Spencer%20Nilsen%20%26%20David%20Young/Sonic%20CD%20~%20The%20Complete%20Soundtrack%202.0/art.png</image>
+			<duration>197068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-cd-the-complete-soundtrack/1-07%20Palmtree%20Panic%20&#39;G&#39;%20Mix%20JP.mp3</location>
+			<title>Palmtree Panic &#39;G&#39; Mix JP</title>
+			<creator>Naofumi Hataya</creator>
+			<album>Sonic CD ~ The Complete Soundtrack 2.0</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Naofumi%20Hataya/Sonic%20CD%20~%20The%20Complete%20Soundtrack%202.0/art.png</image>
+			<duration>185443</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
