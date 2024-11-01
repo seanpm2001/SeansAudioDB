@@ -11,6 +11,8 @@ late edit: it isn't as great as I wanted it to be, but it is still good. !-->
     <H1>RU: Играть гимн Украины каждый день, пока не закончится российско-украинская война</H1>
 </div>
 
+<!-- TODO: !--> TODO: Translate document into KO-NO (Korean, Northern dialect) and BE-BE (Belarusian, Belarus dialect)
+
 > **Warning** **This document was translated into Ukrainian and Russian with Bing Translate, there may be errors.**
 
 > **Warning** UA/UK: **Цей документ був перекладений на українську та російську мови за допомогою Bing Translate, можуть бути помилки.** <!-- I would make the text "**Warning**" in Ukrainian as well, but then GitHub wouldn't recognize the Markdown, and it wouldn't render properly. The warning icon is a good enough indicator for those who don't speak English. !-->
@@ -91,9 +93,9 @@ RU: Применимы следующие 6 аудиофайлов:
 
 # 🇺🇦️ Counter / Лічильник / Прилавок 🇺🇦️
 
-- The Ukrainian Flag Emoji appears in this document `5676` times (as of 2024.10.30)
-- UA/UK: У цьому документі з'являється емодзі прапора України `5676` разів (станом на 2024.10.30)
-- RU: Эмодзи Флаг Украины появляется в этом документе `5676` раз (по состоянию на 2024.10.30)
+- The Ukrainian Flag Emoji appears in this document `5677` times (as of 2024.10.31)
+- UA/UK: У цьому документі з'являється емодзі прапора України `5677` разів (станом на 2024.10.31)
+- RU: Эмодзи Флаг Украины появляется в этом документе `5677` раз (по состоянию на 2024.10.31)
 
 ***
 
@@ -851,6 +853,7 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 750: 2024, October 28th
 - [x] 🇺🇦️ Day 751: 2024, October 29th
 - [x] 🇺🇦️ Day 752: 2024, October 30th
+- [x] 🇺🇦️ Day 753: 2024, October 31st
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -1840,6 +1843,7 @@ RU: Применимы следующие 6 аудиофайлов:
 - [x] 🇺🇦️ Day 978, 2024, Monday, October 28th
 - [x] 🇺🇦️ Day 979, 2024, Tuesday, October 29th
 - [x] 🇺🇦️ Day 980, 2024, Wednesday, October 30th
+- [x] 🇺🇦️ Day 981, 2024, Thursday, October 31st
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -2040,7 +2044,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 183: 2014, August 21st
 - [x] 🇺🇦️ Day 184: 2014, August 22nd
 - [x] 🇺🇦️ Day 185: 2014, August 23rd
-- [x] 🇺🇦️ Day 186: 2014, August 24th
+- [x] 🇺🇦️ Day 186: 2014, August 24th (happy independence day Ukraine!) **Слава Україні!**
 - [x] 🇺🇦️ Day 187: 2014, August 25th
 - [x] 🇺🇦️ Day 188: 2014, August 26th
 - [x] 🇺🇦️ Day 189: 2014, August 27th
@@ -2405,7 +2409,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 548: 2015, August 21st
 - [x] 🇺🇦️ Day 549: 2015, August 22nd
 - [x] 🇺🇦️ Day 550: 2015, August 23rd
-- [x] 🇺🇦️ Day 551: 2015, August 24th
+- [x] 🇺🇦️ Day 551: 2015, August 24th (happy independence day Ukraine!) **Слава Україні!**
 - [x] 🇺🇦️ Day 552: 2015, August 25th
 - [x] 🇺🇦️ Day 553: 2015, August 26th
 - [x] 🇺🇦️ Day 554: 2015, August 27th
@@ -2771,7 +2775,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 914: 2016, August 21st
 - [x] 🇺🇦️ Day 915: 2016, August 22nd
 - [x] 🇺🇦️ Day 916: 2016, August 23rd
-- [x] 🇺🇦️ Day 917: 2016, August 24th
+- [x] 🇺🇦️ Day 917: 2016, August 24th (happy independence day Ukraine!) **Слава Україні!**
 - [x] 🇺🇦️ Day 918: 2016, August 25th
 - [x] 🇺🇦️ Day 919: 2016, August 26th
 - [x] 🇺🇦️ Day 920: 2016, August 27th
@@ -3136,7 +3140,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 1279: 2017, August 21st
 - [x] 🇺🇦️ Day 1280: 2017, August 22nd
 - [x] 🇺🇦️ Day 1281: 2017, August 23rd
-- [x] 🇺🇦️ Day 1282: 2017, August 24th
+- [x] 🇺🇦️ Day 1282: 2017, August 24th (happy independence day Ukraine!) **Слава Україні!**
 - [x] 🇺🇦️ Day 1283: 2017, August 25th
 - [x] 🇺🇦️ Day 1284: 2017, August 26th
 - [x] 🇺🇦️ Day 1285: 2017, August 27th
@@ -3501,7 +3505,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 1644: 2018, August 21st
 - [x] 🇺🇦️ Day 1645: 2018, August 22nd
 - [x] 🇺🇦️ Day 1646: 2018, August 23rd
-- [x] 🇺🇦️ Day 1647: 2018, August 24th
+- [x] 🇺🇦️ Day 1647: 2018, August 24th (happy independence day Ukraine!) **Слава Україні!**
 - [x] 🇺🇦️ Day 1648: 2018, August 25th
 - [x] 🇺🇦️ Day 1649: 2018, August 26th
 - [x] 🇺🇦️ Day 1650: 2018, August 27th
@@ -3866,7 +3870,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 2009: 2019, August 21st
 - [x] 🇺🇦️ Day 2010: 2019, August 22nd
 - [x] 🇺🇦️ Day 2011: 2019, August 23rd
-- [x] 🇺🇦️ Day 2012: 2019, August 24th
+- [x] 🇺🇦️ Day 2012: 2019, August 24th (happy independence day Ukraine!) **Слава Україні!**
 - [x] 🇺🇦️ Day 2013: 2019, August 25th
 - [x] 🇺🇦️ Day 2014: 2019, August 26th
 - [x] 🇺🇦️ Day 2015: 2019, August 27th
@@ -4232,7 +4236,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 2375: 2020, August 21st
 - [x] 🇺🇦️ Day 2376: 2020, August 22nd
 - [x] 🇺🇦️ Day 2377: 2020, August 23rd
-- [x] 🇺🇦️ Day 2378: 2020, August 24th
+- [x] 🇺🇦️ Day 2378: 2020, August 24th (happy independence day Ukraine!) **Слава Україні!**
 - [x] 🇺🇦️ Day 2379: 2020, August 25th
 - [x] 🇺🇦️ Day 2380: 2020, August 26th
 - [x] 🇺🇦️ Day 2381: 2020, August 27th
@@ -4597,7 +4601,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 2740: 2021, August 21st
 - [x] 🇺🇦️ Day 2741: 2021, August 22nd
 - [x] 🇺🇦️ Day 2742: 2021, August 23rd
-- [x] 🇺🇦️ Day 2743: 2021, August 24th
+- [x] 🇺🇦️ Day 2743: 2021, August 24th (happy independence day Ukraine!) **Слава Україні!**
 - [x] 🇺🇦️ Day 2744: 2021, August 25th
 - [x] 🇺🇦️ Day 2745: 2021, August 26th
 - [x] 🇺🇦️ Day 2746: 2021, August 27th
@@ -4962,7 +4966,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3105: 2022, August 21st
 - [x] 🇺🇦️ Day 3106: 2022, August 22nd
 - [x] 🇺🇦️ Day 3107: 2022, August 23rd
-- [x] 🇺🇦️ Day 3108: 2022, August 24th
+- [x] 🇺🇦️ Day 3108: 2022, August 24th (happy independence day Ukraine!) **Слава Україні!**
 - [x] 🇺🇦️ Day 3109: 2022, August 25th
 - [x] 🇺🇦️ Day 3110: 2022, August 26th
 - [x] 🇺🇦️ Day 3111: 2022, August 27th
@@ -5327,7 +5331,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3469: 2023, August 21st
 - [x] 🇺🇦️ Day 3470: 2023, August 22nd
 - [x] 🇺🇦️ Day 3471: 2023, August 23rd
-- [x] 🇺🇦️ Day 3472: 2023, August 24th
+- [x] 🇺🇦️ Day 3472: 2023, August 24th (happy independence day Ukraine!) **Слава Україні!**
 - [x] 🇺🇦️ Day 3473: 2023, August 25th
 - [x] 🇺🇦️ Day 3474: 2023, August 26th
 - [x] 🇺🇦️ Day 3475: 2023, August 27th
@@ -5693,7 +5697,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3835: 2024, August 21st
 - [x] 🇺🇦️ Day 3836: 2024, August 22nd
 - [x] 🇺🇦️ Day 3837: 2024, August 23rd
-- [x] 🇺🇦️ Day 3838: 2024, August 24th (happy independence day Ukraine!)
+- [x] 🇺🇦️ Day 3838: 2024, August 24th (happy independence day Ukraine!) **Слава Україні!**
 - [x] 🇺🇦️ Day 3839: 2024, August 25th
 - [x] 🇺🇦️ Day 3840: 2024, August 26th
 - [x] 🇺🇦️ Day 3841: 2024, August 27th
@@ -5760,11 +5764,12 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3902: 2024, October 27th
 - [x] 🇺🇦️ Day 3903: 2024, October 28th
 - [x] 🇺🇦️ Day 3904: 2024, October 29th
-- [x] 🇺🇦️ Day 3905: 2024, October 29th
+- [x] 🇺🇦️ Day 3905: 2024, October 30th
+- [x] 🇺🇦️ Day 3906: 2024, October 31st
 
-- After 3,905 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 3,905 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 3,905 дня это все еще Украина. Слава Украине!
+- After 3,906 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 3,906 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 3,906 дня это все еще Украина. Слава Украине!
 
 #### N1
 
@@ -5794,15 +5799,15 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **UA/UK: Тип файлу:** `Уцінка (*.md *.mkd *.mdown *.markdown)`
 - **RU: Тип файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `675 (2024, Wednesday, October 30th at 06:47 pm PST)`
+- **File version:** `676 (2024, Thursday, October 31st at 10:52 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
 > **Translation not available (Russian) Перевод недоступен (Русский)**
 
-- **Line count (including blank lines and compiler line):** `7,463`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `7,463`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `7,463`
+- **Line count (including blank lines and compiler line):** `7,489`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `7,409`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `7,489`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -7364,6 +7369,27 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [ ] No other changes in version 675
 
 </details> <!-- V675 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 676 (2024, Thursday, October 31st at 10:52 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `5679`
+- [x] Updated the main list to include an entry for 2024, October 31st (day 753)
+- [x] Updated the list of all days of the war since the 2022 Invasion (981 days)
+- [x] Updated the list of all days of the war (3,906 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 676
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 676
+
+</details> <!-- V676 !-->
+
 ---
 
 _End of file history._
@@ -7380,11 +7406,11 @@ _End of file history._
 
 TODO: Translate this section
 
-- Total consecutive days: 752 (as of 2024, Wednesday, October 30th)
-- Days with an update: 675 (as of 2024, Wednesday, October 30th)
-- Days without an update: 77 (as of 2024, Wednesday, October 30th)
+- Total consecutive days: 753 (as of 2024, Thursday, October 31st)
+- Days with an update: 676 (as of 2024, Thursday, October 31st)
+- Days without an update: 77 (as of 2024, Thursday, October 31st)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 675/752 = 89.760% (as of 2024, Wednesday, October 30th)
+- Ratio: 676/753 = 89.774% (as of 2024, Thursday, October 31st)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
