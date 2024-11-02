@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/All-or-nothing/AudioOnly/M4A/[HD]%20Nightcore%20-%20All%20or%20nothing%20[BzPAbE30u78].m4a</location>
+			<duration>203338</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Baby-one-more-time/AudioOnly/M4A/[HD]%20Nightcore%20-%20Baby%20one%20more%20time%20[78RVLe6JGmY].m4a</location>
+			<duration>171503</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/All-is-found/AudioOnly/M4A/[HD]%20Nightcore%20-%20All%20is%20found%20[BKbxzikQ0YE].m4a</location>
+			<duration>105744</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Circles/AudioOnly/M4A/[HD]%20Nightcore%20-%20Circles%20[mud7Fi5BqaQ].m4a</location>
+			<duration>226650</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/River/AudioOnly/M4A/[HD]%20Nightcore%20-%20River%20[3fyFA7bgDB8].m4a</location>
+			<duration>193167</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Dangerours/AudioOnly/M4A/[HD]%20Nightcore%20-%20Dangerours%20[TgPI1O8kV8U].m4a</location>
+			<duration>162749</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Don%C2%B4t-stop-believing/AudioOnly/M4A/[HD]%20Nightcore%20-%20Don%C2%B4t%20stop%20believing%20(episode%201)%20[mHPN5n-0q58].m4a</location>
+			<duration>191333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Feels/AudioOnly/M4A/[HD]%20Nightcore%20-%20Feels%20[fYv2kacgWhg].m4a</location>
+			<duration>196023</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Everybody-Talks/AudioOnly/M4A/[HD]%20Nightcore%20-%20Everybody%20Talks%20[GWiH82h-soQ].m4a</location>
+			<duration>152579</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Fearless/AudioOnly/M4A/[HD]%20Nightcore%20-%20Fearless%20[I2tbOsgoCec].m4a</location>
+			<duration>236403</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Fearless/AudioOnly/M4A/[HD]%20Nightcore%20-%20Fearless%20[i9UH6q-8ypM].m4a</location>
+			<duration>131216</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>
