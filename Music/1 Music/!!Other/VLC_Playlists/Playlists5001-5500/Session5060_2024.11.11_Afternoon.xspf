@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20Cafe%20OST/FullOST/Zombie%20Mini%20Cue%202g.mp3</location>
+			<duration>67152</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zombie%20Cafe%20OST/FullOST/Zombie%20Cafe%20Haunted%20House.mp3</location>
+			<duration>61440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Zorba_The_Greek/MP3/Mikis-Theodorakis_-_Zorba-The-Greek_-_Zorba&#39;s-Dance.mp3</location>
+			<title>Mikis-Theodorakis_-_Zorba-The-Greek_-_Zorba&#39;s-Dance.mp3</title>
+			<creator>Mikis Theodorakis</creator>
+			<album>Zorba the Greek</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Zorbas dance from the movie Zorba the Greek.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Mikis%20Theodorakis/Zorba%20the%20Greek/art.jpg</image>
+			<duration>242243</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Yandere%20simulator/MP3/[OLD,%20CHECK%20DESCRIPTION]%20Tsubasa%20wo%20Kudasai%20-%20Instrumental%20(Yandere%20Simulator%20Promo%20Concept).mp3</location>
+			<title>[OLD, CHECK DESCRIPTION] Tsubasa wo Kudasai - Instrumental (Yandere Simulator Promo Concept).mp3</title>
+			<creator>Yandere Dev</creator>
+			<album>Yandere Simulator INDEV OST</album>
+			<trackNum>20</trackNum>
+			<annotation>A piano instrumental version of the Japanese song Tsubasa wo Kudasei (translation: please give me wings) used as the song for the promotional concept of Yandere Simulator.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yandere%20Dev/Yandere%20Simulator%20INDEV%20OST/art.png</image>
+			<duration>243366</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Yandere%20simulator/MP3/Main%20Menu%20-%20Yandere%20Simulator%20OST.mp3</location>
+			<title>Main Menu - Yandere Simulator OST.mp3</title>
+			<creator>Yandere Dev</creator>
+			<album>Yandere Simulator INDEV OST</album>
+			<trackNum>1</trackNum>
+			<annotation>The title theme song for the video game Yandere Simulator.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yandere%20Dev/Yandere%20Simulator%20INDEV%20OST/art.png</image>
+			<duration>81066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Yandere%20simulator/MP3/Schoolday%202%20-%20Yandere%20Simulator%20OST.mp3</location>
+			<title>Schoolday 2 - Yandere Simulator OST.mp3</title>
+			<creator>Yandere Dev</creator>
+			<album>Yandere Simulator INDEV OST</album>
+			<trackNum>6</trackNum>
+			<annotation>The second school song in Yandere Simulator while everything is normal and functional, except for you (although you still have your sanity)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yandere%20Dev/Yandere%20Simulator%20INDEV%20OST/art.png</image>
+			<duration>404386</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Yandere%20simulator/MP3/Yandere-Chan&#39;s%20Bedroom%20(Day%20and%20Night%20Mix)%20-%20Yandere%20Simulator.mp3</location>
+			<title>Yandere-Chan&#39;s Bedroom (Day and Night Mix) - Yandere Simulator.mp3</title>
+			<creator>Yandere Dev</creator>
+			<album>Yandere Simulator INDEV OST</album>
+			<trackNum>2</trackNum>
+			<annotation>A mix of the daytime and nighttime themes of Yandere Chan&#39;s bedroom.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yandere%20Dev/Yandere%20Simulator%20INDEV%20OST/art.png</image>
+			<duration>161210</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Yandere%20simulator/MP3/Schoolday%20-%20Yandere%20Simulator%20OST.mp3</location>
+			<title>Schoolday - Yandere Simulator OST.mp3</title>
+			<creator>Yandere Dev</creator>
+			<album>Yandere Simulator INDEV OST</album>
+			<trackNum>4</trackNum>
+			<annotation>The original theme song for the School in Yandere Simulator.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yandere%20Dev/Yandere%20Simulator%20INDEV%20OST/art.png</image>
+			<duration>165703</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
