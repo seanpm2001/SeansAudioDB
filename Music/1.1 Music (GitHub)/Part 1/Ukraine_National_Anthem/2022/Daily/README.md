@@ -129,11 +129,11 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 
 # 🇺🇦️ Counter / Лічильник / Прилавок / Лічыльнік / 계수기 🇺🇦️
 
-- The Ukrainian Flag Emoji appears in this document `5717` times (as of 2024.11.11)
-- UA/UK: У цьому документі з'являється емодзі прапора України `5717` разів (станом на 2024.11.11)
-- RU: Эмодзи Флаг Украины появляется в этом документе `5717` раз (по состоянию на 2024.11.11)
-- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `5717` разоў (на 2024.11.11)
-- KO: 우크라이나 국기 이모지는 이 문서에 `5717` 번 등장합니다(2024.11.11 기준)
+- The Ukrainian Flag Emoji appears in this document `5720` times (as of 2024.11.12)
+- UA/UK: У цьому документі з'являється емодзі прапора України `5720` разів (станом на 2024.11.12)
+- RU: Эмодзи Флаг Украины появляется в этом документе `5720` раз (по состоянию на 2024.11.12)
+- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `5720` разоў (на 2024.11.12)
+- KO: 우크라이나 국기 이모지는 이 문서에 `5720` 번 등장합니다(2024.11.12 기준)
 
 ***
 
@@ -903,6 +903,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 762: 2024, November 9th
 - [x] 🇺🇦️ Day 763: 2024, November 10th
 - [x] 🇺🇦️ Day 764: 2024, November 11th
+- [x] 🇺🇦️ Day 765: 2024, November 12th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -1904,6 +1905,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 990, 2024, Saturday, November 9th
 - [x] 🇺🇦️ Day 991, 2024, Sunday, November 10th
 - [x] 🇺🇦️ Day 992, 2024, Monday, November 11th
+- [x] 🇺🇦️ Day 993, 2024, Tuesday, November 12th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -5837,12 +5839,13 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3915: 2024, November 9th
 - [x] 🇺🇦️ Day 3916: 2024, November 10th
 - [x] 🇺🇦️ Day 3917: 2024, November 11th
+- [x] 🇺🇦️ Day 3918: 2024, November 12th
 
-- After 3,917 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 3,917 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 3,917 дня это все еще Украина. Слава Украине!
-- BE: Праз 3917 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
-- KO: 3,917 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
+- After 3,918 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 3,918 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 3,918 дня это все еще Украина. Слава Украине!
+- BE: Праз 3918 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
+- KO: 3,918 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
 
 #### N1
 
@@ -5882,7 +5885,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **BE: Тып файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 - **KO: 파일 유형:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `687 (2024, Monday, November 11th at 08:51 pm PST)`
+- **File version:** `688 (2024, Tuesday, November 12th at 03:00 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
@@ -5892,11 +5895,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 > **Translation not available (Korean) 번역이 불가능합니다. (한국어)**
 
-- **Line count (including blank lines and compiler line):** `7,812`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `7,812`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `7,812`
-- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `7,812`
-- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `7,812`
+- **Line count (including blank lines and compiler line):** `7,835`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `7,835`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `7,835`
+- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `7,835`
+- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `7,835`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -7715,6 +7718,26 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 688 (2024, Tuesday, November 12th at 03:00 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `5720`
+- [x] Updated the main list to include an entry for 2024, November 12th (day 765)
+- [x] Updated the list of all days of the war since the 2022 Invasion (993 days)
+- [x] Updated the list of all days of the war (3,918 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 688
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 688
+
+</details> <!-- V688 !-->
+
+---
+
 _End of file history._
 
 </details> <!-- End of file history !-->
@@ -7729,11 +7752,11 @@ _End of file history._
 
 <!-- TODO !--> TODO: Translate this section
 
-- Total consecutive days: 764 (as of 2024, Monday, November 11th)
-- Days with an update: 687 (as of 2024, Monday, November 11th)
-- Days without an update: 77 (as of 2024, Monday, November 11th)
+- Total consecutive days: 765 (as of 2024, Tuesday, November 12th)
+- Days with an update: 688 (as of 2024, Tuesday, November 12th)
+- Days without an update: 77 (as of 2024, Tuesday, November 12th)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 687/764 = 89.921% (as of 2024, Monday, November 11th)
+- Ratio: 688/765 = 89.934% (as of 2024, Tuesday, November 12th)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
@@ -7765,7 +7788,7 @@ Make this look like a Wikipedia infobox
 | Row 7 💛️ | [:octocat: `UHS Datasets/Oblasts/Lviv/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Lviv_Ukraine/) | [:octocat: `UHS Datasets/Oblasts/Kharkiv/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Kharkiv_Ukraine/) | [:octocat: `UHS Datasets/Raions/Russia`](https://github.com/seanpm2001/UHS_Datasets_Raions_Russia/) | [:octocat: `UHS Datasets/Oblasts/Ivano-Frankivsk/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Ivano-Frankivsk_Ukraine/) | [:octocat: `UHS Datasets/Oblasts/Dnipro/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Dnipro_Ukraine/) |
 | Row 8 💙️ | [:octocat: `UHS Datasets/Oblasts/Odesa/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Odesa_Ukraine/) | [:octocat: `UHS Datasets/Oblasts/Cherkasy/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Cherkasy_Ukraine/) | [:octocat: `UHS Datasets/Oblasts/Chernivtsi/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Chernivtsi_Ukraine/) | [:octocat: `UHS Datasets/Oblasts/Khmelnytskyi/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Khmelnytskyi_Ukraine/) | [:octocat: `UHS Datasets/Oblasts/Kirovohrad/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Kirovohrad_Ukraine/) |
 | Row 9 🇺🇦️ | [:octocat: `UHS Datasets/Oblasts/Poltava/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Poltava_Ukraine/) | [:octocat: `UHS Datasets/Oblasts/Rivne/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Rivne_Ukraine/) | [:octocat: `UHS Datasets/Oblasts/Ternopil/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Ternopil_Ukraine/) | [:octocat: `UHS Datasets/Oblasts/Vinnytsia/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Vinnytsia_Ukraine/) | [:octocat: `UHS Datasets/Oblasts/Volyn/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Volyn_Ukraine/) |
-| Row 10 🌻️ | [:octocat: `UHS Datasets/Oblasts/Zarkarpattia/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Zarkarpattia_Ukraine/) | [:octocat: `UHS Datasets/Oblasts/Zhytomyr/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Zhytomyr_Ukraine/) | [:octocat: `Seanpm2001/WorldDB/DB/Earth/Ukraine`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukraine/) | 💙️ | 🇺🇦️ |
+| Row 10 🌻️ | [:octocat: `UHS Datasets/Oblasts/Zarkarpattia/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Zarkarpattia_Ukraine/) | [:octocat: `UHS Datasets/Oblasts/Zhytomyr/Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Zhytomyr_Ukraine/) | [:octocat: `Seanpm2001/WorldDB/DB/Earth/Ukraine`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukraine/) | [:octocat: `seanpm2001/WorldDB/DB/Earth/Ukraine/Docs`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukraine_Docs/) | 🇺🇦️ |
 | Row 11 ☮️ | 💛️ | 💙️ | 💛️ | 💙️ | 🇺🇦️ |
 | Row 12 🌍️ | 💛️ | 💙️ | 💛️ | 💙️ | 🇺🇦️ |
 | Row 13 🎗️ | 💛️ | 💙️ | 💛️ | 💙️ | 🇺🇦️ |
