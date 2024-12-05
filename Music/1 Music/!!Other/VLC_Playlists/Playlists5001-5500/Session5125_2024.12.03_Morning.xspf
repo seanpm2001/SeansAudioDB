@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Jacksfilms%20series/Jacksfilms/Extended/Jacksfilms%20Anime%20Theme%20Song%201%20HOUR%20LOOP%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>3629255</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Madilyn_Bailey/I-wrote-a-song-using-hate-comments/AudioOnly/M4A/I%20Wrote%20a%20Song%20Using%20Only%20YOUR%20Comments%20from%20my%20Hate%20Comment%20Songs%20[rW5zJgsZZuk].m4a</location>
+			<duration>303369</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Madilyn_Bailey/I-wrote-a-song-using-hate-comments/AudioOnly/M4A/I%20wrote%20a%20song%20using%20only%20hate%20comments!%20[_90jqATJJaI].m4a</location>
+			<duration>276527</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
