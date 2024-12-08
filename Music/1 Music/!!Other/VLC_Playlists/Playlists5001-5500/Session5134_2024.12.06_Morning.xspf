@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Beethoven/Samples/Beethoven_-_Ecossaise_in_E-flat.ogg</location>
+			<duration>30928</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Beethoven/Samples/Ludwig_van_Beethoven_-_Overt%C3%BCre_c-moll,_op._62.ogg</location>
+			<title>Overtüre c-moll, op. 62, &quot;Carolian&quot;</title>
+			<creator>Fulda Symphonic Orchestra, Conductor: Simon Schindler; Performer: Franziska Früh (violin)</creator>
+			<album>2. Benefiz Symphonie-Konzert</album>
+			<trackNum>1</trackNum>
+			<duration>474480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
