@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sonic-Dash_OST/Extended/AudioOnly/M4A/Sonic%20Dash%20music%20ost%20-%20Menu%20[BIAYOl_Yu80].m4a</location>
+			<duration>635461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sonic-Dash_OST/Extended/AudioOnly/M4A/Sonic%20Dash%20music%20ost%20-%20Snow%20Mountain%20Zone%20[K4wUkAzAbcA].m4a</location>
+			<duration>650182</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sonic-Dash_OST/Extended/AudioOnly/M4A/Sonic%20Dash%20music%20ost%20-%20Sky%20Sanctuary%20Zone%20[JpulUFgTO5k].m4a</location>
+			<duration>652365</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sonic-Dash_OST/Extended/AudioOnly/M4A/Sonic%20Dash%20music%20ost%20-%20Zazz%20Boss%20Theme%20[4IC3OHDMKPs].m4a</location>
+			<duration>630237</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sonic-Dash_OST/Extended/AudioOnly/M4A/Sonic%20Dash%20music%20ost%20-%20Boss%20Theme(Eggman)%20[09Z3SJtTqQU].m4a</location>
+			<duration>627497</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sonic-Dash_OST/Extended/AudioOnly/M4A/Sonic%20Dash%20music%20ost%20-%20Seaside%20Hill%20Zone(Remix)%20[aXYumWaS8QY].m4a</location>
+			<duration>693511</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
