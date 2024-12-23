@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20Wii%20OST/Soundtrack/mp3/d2/2-48%20Course%20Intro%20(Wi-Fi).mp3</location>
+			<title>Course Intro (Wi-Fi)</title>
+			<creator>Asuka Ohta, Ryo Nagamatsu</creator>
+			<album>Mario Kart Wii - Complete Soundtrack</album>
+			<trackNum>48</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Asuka%20Ohta%2C%20Ryo%20Nagamatsu/Mario%20Kart%20Wii%20-%20Complete%20Soundtrack/art.jpg</image>
+			<duration>28088</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20Wii%20OST/Soundtrack/mp3/d2/2-01%20Course%20Intro%20(Race).mp3</location>
+			<title>Course Intro (Race)</title>
+			<creator>Asuka Ohta, Ryo Nagamatsu</creator>
+			<album>Mario Kart Wii - Complete Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Asuka%20Ohta%2C%20Ryo%20Nagamatsu/Mario%20Kart%20Wii%20-%20Complete%20Soundtrack/art.jpg</image>
+			<duration>14299</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20Wii%20OST/Soundtrack/mp3/d2/2-14%20Moonview%20Highway%20(Final%20Lap).mp3</location>
+			<title>Moonview Highway (Final Lap)</title>
+			<creator>Asuka Ohta, Ryo Nagamatsu</creator>
+			<album>Mario Kart Wii - Complete Soundtrack</album>
+			<trackNum>14</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Asuka%20Ohta%2C%20Ryo%20Nagamatsu/Mario%20Kart%20Wii%20-%20Complete%20Soundtrack/art.jpg</image>
+			<duration>60090</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20Wii%20OST/Soundtrack/mp3/d2/2-11%20Maple%20Treeway%20(Final%20Lap).mp3</location>
+			<title>Maple Treeway (Final Lap)</title>
+			<creator>Asuka Ohta, Ryo Nagamatsu</creator>
+			<album>Mario Kart Wii - Complete Soundtrack</album>
+			<trackNum>11</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Asuka%20Ohta%2C%20Ryo%20Nagamatsu/Mario%20Kart%20Wii%20-%20Complete%20Soundtrack/art.jpg</image>
+			<duration>70063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MarioKartSeries/Mario%20Kart%20Wii%20OST/Soundtrack/mp3/d2/2-12%20Grumble%20Volcano%20(Final%20Lap).mp3</location>
+			<title>Grumble Volcano (Final Lap)</title>
+			<creator>Asuka Ohta, Ryo Nagamatsu</creator>
+			<album>Mario Kart Wii - Complete Soundtrack</album>
+			<trackNum>12</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Asuka%20Ohta%2C%20Ryo%20Nagamatsu/Mario%20Kart%20Wii%20-%20Complete%20Soundtrack/art.jpg</image>
+			<duration>74095</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
