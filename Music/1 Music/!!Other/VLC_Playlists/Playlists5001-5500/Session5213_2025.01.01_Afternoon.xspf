@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Python-Class_CS_1_Playlist/Hello_World/AudioOnly/MP3/hello%20world%20[but%20i%20looped%20it%20a%20couple%20times%20seamlessly].mp3</location>
+			<duration>276168</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%203%20(GBA,%20DSi)%20OST/sonic-advance-3-remastered-soundtrack/25%20-%20Ocean%20Base%20Zone%20-%20Act%203.mp3</location>
+			<title>Sonic Advance 3 Remastered 30  Ocean Base Zone  Act 3</title>
+			<duration>146549</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Advance%20series/Sonic%20Advance%203%20(GBA,%20DSi)%20OST/sonic-advance-3-remastered-soundtrack/10%20-%20Route%2099%20Zone%20-%20Act%202.mp3</location>
+			<title>Sonic Advance 3 Remastered 30  Route 99 Zone  Act 2</title>
+			<duration>154519</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
