@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Walk%20the%20dinosaur/MP3/Who-(Not-was)_Walk-the-dinosaur.mp3</location>
+			<title>Who-(Not-was)_Walk-the-dinosaur.mp3</title>
+			<creator>Who (not was)</creator>
+			<album>Walk the Dinosaur</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Walk the Dinosaur&quot; by the band &quot;Who (not was)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Who%20%28not%20was%29/Walk%20the%20Dinosaur/art.jpg</image>
+			<duration>214396</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stendhal-OST/OGG/sylvan_waltz.ogg</location>
+			<duration>122771</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stendhal-OST/OGG/ice_cave.ogg</location>
+			<creator>Tad</creator>
+			<annotation> 00000000 00000210 000006F0 00000000002B1100 00000000 001F2C69 00000000 00000000 00000000 00000000 00000000 00000000</annotation>
+			<duration>63902</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stendhal-OST/OGG/town-01.ogg</location>
+			<duration>64027</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Stendhal-OST/OGG/warriors_fight.ogg</location>
+			<duration>40881</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
