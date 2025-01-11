@@ -129,11 +129,11 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 
 # 🇺🇦️ Counter / Лічильник / Прилавок / Лічыльнік / 계수기 🇺🇦️
 
-- The Ukrainian Flag Emoji appears in this document `5894` times (as of 2025.01.09)
-- UA/UK: У цьому документі з'являється емодзі прапора України `5894` разів (станом на 2025.01.09)
-- RU: Эмодзи Флаг Украины появляется в этом документе `5894` раз (по состоянию на 2025.01.09)
-- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `5894` разоў (на 2025.01.09)
-- KO: 우크라이나 국기 이모지는 이 문서에 `5894` 번 등장합니다(2025.01.09 기준)
+- The Ukrainian Flag Emoji appears in this document `5897` times (as of 2025.01.10)
+- UA/UK: У цьому документі з'являється емодзі прапора України `5897` разів (станом на 2025.01.10)
+- RU: Эмодзи Флаг Украины появляется в этом документе `5897` раз (по состоянию на 2025.01.10)
+- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `5897` разоў (на 2025.01.10)
+- KO: 우크라이나 국기 이모지는 이 문서에 `5897` 번 등장합니다(2025.01.10 기준)
 
 ***
 
@@ -962,6 +962,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 820: 2025, January 7th
 - [x] 🇺🇦️ Day 821: 2025, January 8th
 - [x] 🇺🇦️ Day 822: 2025, January 9th
+- [x] 🇺🇦️ Day 823: 2025, January 10th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -2022,6 +2023,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1049, 2025, Tuesday, January 7th
 - [x] 🇺🇦️ Day 1050, 2025, Wednesday, January 8th
 - [x] 🇺🇦️ Day 1051, 2025, Thursday, January 9th
+- [x] 🇺🇦️ Day 1052, 2025, Friday, January 10th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -6014,12 +6016,13 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 3974: 2025, January 7th
 - [x] 🇺🇦️ Day 3975: 2025, January 8th
 - [x] 🇺🇦️ Day 3976: 2025, January 9th
+- [x] 🇺🇦️ Day 3977: 2025, January 10th
 
-- After 3,976 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 3,976 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 3,976 дня это все еще Украина. Слава Украине!
-- BE: Праз 3,976 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
-- KO: 3,976 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
+- After 3,977 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 3,977 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 3,977 дня это все еще Украина. Слава Украине!
+- BE: Праз 3,977 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
+- KO: 3,977 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
 
 #### N1
 
@@ -6059,7 +6062,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **BE: Тып файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 - **KO: 파일 유형:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `746 (2025, Thursday, January 9th at 04:35 pm PST)`
+- **File version:** `747 (2025, Friday, January 10th at 04:23 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
@@ -6069,11 +6072,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 > **Translation not available (Korean) 번역이 불가능합니다. (한국어)**
 
-- **Line count (including blank lines and compiler line):** `7,161`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `7,161`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `7,161`
-- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `7,161`
-- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `7,161`
+- **Line count (including blank lines and compiler line):** `7,184`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `7,184`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `7,184`
+- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `7,184`
+- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `7,184`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -7064,6 +7067,26 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 747 (2025, Friday, January 10th at 04:23 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `5897`
+- [x] Updated the main list to include an entry for 2025, January 10th (day 872)
+- [x] Updated the list of all days of the war since the 2022 Invasion (1,052 days)
+- [x] Updated the list of all days of the war (3,978 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 747
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 747
+
+</details> <!-- V747 !-->
+
+---
+
 _End of file history._
 
 </details> <!-- End of file history !-->
@@ -7078,11 +7101,11 @@ _End of file history._
 
 <!-- TODO !--> TODO: Translate this section
 
-- Total consecutive days: 822 (as of 2025, Thursday, January 9th)
-- Days with an update: 746 (as of 2025, Thursday, January 9th)
-- Days without an update: 77 (as of 2025, Thursday, January 9th)
+- Total consecutive days: 823 (as of 2025, Friday, January 10th)
+- Days with an update: 747 (as of 2025, Friday, January 10th)
+- Days without an update: 77 (as of 2025, Friday, January 10th)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 746/822 = 90.754% (as of 2025, Thursday, January 9th)
+- Ratio: 747/823 = 90.765% (as of 2025, Friday, January 10th)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
