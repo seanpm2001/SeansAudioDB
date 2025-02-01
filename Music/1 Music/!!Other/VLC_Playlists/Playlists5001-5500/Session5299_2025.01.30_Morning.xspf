@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-drift-2/09%20Desert%20Road.mp3</location>
+			<title>Desert Road</title>
+			<creator>Sega</creator>
+			<album>Sonic Drift 2 (Sega Gamegear) Game rip</album>
+			<annotation>Ripped &amp; tagged by Jashiin</annotation>
+			<duration>63259</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-drift-2/05%20Emerald%20Hill.mp3</location>
+			<title>Emerald Hill</title>
+			<creator>Sega</creator>
+			<album>Sonic Drift 2 (Sega Gamegear) Game rip</album>
+			<annotation>Ripped &amp; tagged by Jashiin</annotation>
+			<duration>60882</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-drift-2/18%20Death%20Egg.mp3</location>
+			<title>Death Egg</title>
+			<creator>Sega</creator>
+			<album>Sonic Drift 2 (Sega Gamegear) Game rip</album>
+			<annotation>Ripped &amp; tagged by Jashiin</annotation>
+			<duration>57773</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-drift-2/20%20Race%20Result.mp3</location>
+			<title>Race Result</title>
+			<creator>Sega</creator>
+			<album>Sonic Drift 2 (Sega Gamegear) Game rip</album>
+			<annotation>Ripped &amp; tagged by Jashiin</annotation>
+			<duration>4249</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-drift-2/19%20Final%20Road.mp3</location>
+			<title>Final Road</title>
+			<creator>Sega</creator>
+			<album>Sonic Drift 2 (Sega Gamegear) Game rip</album>
+			<annotation>Ripped &amp; tagged by Jashiin</annotation>
+			<duration>55501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-drift-2/10%20Iron%20Ruin.mp3</location>
+			<title>Iron Ruin</title>
+			<creator>Sega</creator>
+			<album>Sonic Drift 2 (Sega Gamegear) Game rip</album>
+			<annotation>Ripped &amp; tagged by Jashiin</annotation>
+			<duration>49858</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
