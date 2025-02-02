@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-battle/20%20Club%20Rogue.mp3</location>
+			<title>Club Rogue</title>
+			<creator>Tatsuyuki Maeda, Kenichi Tokoi, Hideaki Kobayashi</creator>
+			<album>Sonic Battle</album>
+			<duration>180035</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-battle/21%20Gimme%20Shelter.mp3</location>
+			<title>Gimme Shelter</title>
+			<creator>Tatsuyuki Maeda, Kenichi Tokoi, Hideaki Kobayashi</creator>
+			<album>Sonic Battle</album>
+			<duration>114050</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-battle/22%20Metal%20Depot.mp3</location>
+			<title>Metal Depot</title>
+			<creator>Tatsuyuki Maeda, Kenichi Tokoi, Hideaki Kobayashi</creator>
+			<album>Sonic Battle</album>
+			<duration>157048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-battle/23%20Amy&#39;s%20Room.mp3</location>
+			<title>Amy&#39;s Room</title>
+			<creator>Tatsuyuki Maeda, Kenichi Tokoi, Hideaki Kobayashi</creator>
+			<album>Sonic Battle</album>
+			<duration>169064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
