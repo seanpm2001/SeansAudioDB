@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-3d-blast-sega-genesis/09%20-%20Diamond%20Dust%20Zone%20Act%201.mp3</location>
+			<title>Diamond Dust Zone Act 1</title>
+			<creator>Tatsuyuki Maeda</creator>
+			<album>Sonic 3D Blast</album>
+			<duration>156578</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-3d-blast-sega-genesis/10%20-%20Diamond%20Dust%20Zone%20Act%202.mp3</location>
+			<title>Diamond Dust Zone Act 2</title>
+			<creator>Tatsuyuki Maeda</creator>
+			<album>Sonic 3D Blast</album>
+			<duration>162925</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
