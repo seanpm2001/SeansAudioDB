@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/history-of-sonic-music-20th-anniversary-edition/2-06%20-%20Mariko%20Nanba%20-%20My%20Destiny.mp3</location>
+			<title>My Destiny</title>
+			<creator>Mariko Nanba</creator>
+			<album>HISTORY OF SONIC MUSIC 20th Anniversary Edition [Disc2]</album>
+			<trackNum>6</trackNum>
+			<duration>370495</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/history-of-sonic-music-20th-anniversary-edition/2-07%20-%20Kenichi%20Tokoi%20-%20Seven%20Rings%20In%20Hand.mp3</location>
+			<title>Seven Rings In Hand</title>
+			<creator>Kenichi Tokoi</creator>
+			<album>HISTORY OF SONIC MUSIC 20th Anniversary Edition [Disc2]</album>
+			<trackNum>7</trackNum>
+			<duration>309473</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/history-of-sonic-music-20th-anniversary-edition/2-08%20-%20Tomoya%20Ohtani%20-%20A%20New%20Venture.mp3</location>
+			<title>A New Venture</title>
+			<creator>Tomoya Ohtani</creator>
+			<album>HISTORY OF SONIC MUSIC 20th Anniversary Edition [Disc2]</album>
+			<trackNum>8</trackNum>
+			<duration>162847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/history-of-sonic-music-20th-anniversary-edition/2-09%20-%20Jun%20Senoue%20-%20Race%20To%20Win.mp3</location>
+			<title>Race To Win</title>
+			<creator>Jun Senoue</creator>
+			<album>HISTORY OF SONIC MUSIC 20th Anniversary Edition [Disc2]</album>
+			<trackNum>9</trackNum>
+			<duration>62067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/history-of-sonic-music-20th-anniversary-edition/2-10%20-%20Kenichi%20Tokoi%20-%20Un-gravitify.mp3</location>
+			<title>Un-gravitify</title>
+			<creator>Kenichi Tokoi</creator>
+			<album>HISTORY OF SONIC MUSIC 20th Anniversary Edition [Disc2]</album>
+			<trackNum>10</trackNum>
+			<duration>260049</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/history-of-sonic-music-20th-anniversary-edition/2-11%20-%20Tomoya%20Ohtani%20-%20Endless%20Possibility.mp3</location>
+			<title>Endless Possibility</title>
+			<creator>Tomoya Ohtani</creator>
+			<album>HISTORY OF SONIC MUSIC 20th Anniversary Edition [Disc2]</album>
+			<trackNum>11</trackNum>
+			<duration>251272</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/history-of-sonic-music-20th-anniversary-edition/2-12%20-%20Tomoya%20Ohtani%20-%20The%20World%20Adventure.mp3</location>
+			<title>The World Adventure</title>
+			<creator>Tomoya Ohtani</creator>
+			<album>HISTORY OF SONIC MUSIC 20th Anniversary Edition [Disc2]</album>
+			<trackNum>12</trackNum>
+			<duration>254171</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/history-of-sonic-music-20th-anniversary-edition/2-13%20-%20Tomoya%20Ohtani%20-%20Rooftop%20Run%20-%20Day.mp3</location>
+			<title>Rooftop Run - Day</title>
+			<creator>Tomoya Ohtani</creator>
+			<album>HISTORY OF SONIC MUSIC 20th Anniversary Edition [Disc2]</album>
+			<trackNum>13</trackNum>
+			<duration>236486</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
