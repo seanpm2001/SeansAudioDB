@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%205%20Be%20Human/10.%20Yoko%20Kanno%20-%20Let&#39;s%20Oil.flac</location>
+			<title>Let&#39;s Oil</title>
+			<creator>Yoko Kanno</creator>
+			<album>Be Human</album>
+			<trackNum>10</trackNum>
+			<duration>45106</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%205%20Be%20Human/13.%20Yoko%20Kanno%20-%20Good%20By%20My%20Master.flac</location>
+			<title>Good By My Master</title>
+			<creator>Yoko Kanno</creator>
+			<album>Be Human</album>
+			<trackNum>13</trackNum>
+			<duration>129400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%205%20Be%20Human/21.%20Yoko%20Kanno%20-%20PO&#39;d%20Pod.flac</location>
+			<title>PO&#39;d Pod</title>
+			<creator>Yoko Kanno</creator>
+			<album>Be Human</album>
+			<trackNum>21</trackNum>
+			<duration>62560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%205%20Be%20Human/20.%20Yoko%20Kanno%20-%20Don&#39;t%20Sponge%20Me.flac</location>
+			<title>Don&#39;t Sponge Me</title>
+			<creator>Yoko Kanno</creator>
+			<album>Be Human</album>
+			<trackNum>20</trackNum>
+			<duration>36333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
