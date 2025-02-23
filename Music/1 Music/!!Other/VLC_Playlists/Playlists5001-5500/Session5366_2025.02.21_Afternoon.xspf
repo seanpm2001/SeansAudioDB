@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Konosuba/AudioOnly/Kono-Subarashii-Sekai-ni-Shukufuku-wo-OP-&amp;-End-ALL/M4A/Kono%20Subarashii%20Sekai%20ni%20Shukufuku%20wo%20OP%20&amp;%20End%20ALL%20[jTFdapJ3w4E].m4a</location>
+			<duration>916469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Cowboy%20bebop%20-%20cats%20on%20mars/MP3/Cowboy-Bebop-Cats-on-Mars.mp3</location>
+			<title>Cowboy-Bebop-Cats-on-Mars.mp3</title>
+			<creator>Cowboy Bebop</creator>
+			<album>Cowboy Bebop - Cats on Mars</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Cowboy%20Bebop/Cowboy%20Bebop%20-%20Cats%20on%20Mars/art.jpg</image>
+			<duration>181167</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Mattete-Ai-no-Uta/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Mattete%20Ai%20no%20Uta%20[sSbKlMbZ2xM].m4a</location>
+			<duration>314143</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Senbonzakura-[Suzumu-Remix]/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Senbonzakura%20[Suzumu%20Remix]%20[P1BB7DjaYXA].m4a</location>
+			<duration>223748</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

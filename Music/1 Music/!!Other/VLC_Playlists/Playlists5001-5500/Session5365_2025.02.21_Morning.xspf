@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The%20Simpsons%20tapped%20out%20OST/MP3/The-Simpsons-Tapped-Out-OST_Other-Springfield.mp3</location>
+			<title>The-Simpsons-Tapped-Out-OST_Other-Springfield.mp3</title>
+			<creator>Electronic Arts (EA)</creator>
+			<album>The Simpsons Tapped Out Soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>The song when you go visit another city in the mobile video game &quot;The Simpsons Tapped Out&quot; this version contains about 10 seconds of quietness at the end that needs to be cropped.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Electronic%20Arts%20%28EA%29/The%20Simpsons%20Tapped%20Out%20Soundtrack/art.png</image>
+			<duration>92247</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The%20Simpsons%20tapped%20out%20OST/MP3/The-Simpsons-Tapped-Out-OST_My-Springfield.mp3</location>
+			<title>The-Simpsons-Tapped-Out-OST_My-Springfield.mp3</title>
+			<creator>Electronic Arts (EA)</creator>
+			<album>The Simpsons Tapped Out OST</album>
+			<trackNum>1</trackNum>
+			<annotation>The main theme song for the game &quot;The Simpsons Tapped Out&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Electronic%20Arts%20%28EA%29/The%20Simpsons%20Tapped%20Out%20OST/art.png</image>
+			<duration>92247</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The%20Simpsons%20tapped%20out%20OST/MP3/The-Simpsons-Tapped-Out-OST_Around-the-World.mp3</location>
+			<title>The-Simpsons-Tapped-Out-OST_Around-the-World.mp3</title>
+			<creator>Electronic Arts (EA)</creator>
+			<album>The Simpsons Tapped Out Soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>The song from the &quot;around the world&quot; update for The Simpsons: Tapped Out.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Electronic%20Arts%20%28EA%29/The%20Simpsons%20Tapped%20Out%20Soundtrack/art.png</image>
+			<duration>70879</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
