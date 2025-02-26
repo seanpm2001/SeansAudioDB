@@ -129,11 +129,11 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 
 # 🇺🇦️ Counter / Лічильник / Прилавок / Лічыльнік / 계수기 🇺🇦️
 
-- The Ukrainian Flag Emoji appears in this document `6032` times (as of 2025.02.24)
-- UA/UK: У цьому документі з'являється емодзі прапора України `6032` разів (станом на 2025.02.24)
-- RU: Эмодзи Флаг Украины появляется в этом документе `6032` раз (по состоянию на 2025.02.24)
-- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `6032` разоў (на 2025.02.24)
-- KO: 우크라이나 국기 이모지는 이 문서에 `6032` 번 등장합니다(2025.02.24 기준)
+- The Ukrainian Flag Emoji appears in this document `6035` times (as of 2025.02.25)
+- UA/UK: У цьому документі з'являється емодзі прапора України `6035` разів (станом на 2025.02.25)
+- RU: Эмодзи Флаг Украины появляется в этом документе `6035` раз (по состоянию на 2025.02.25)
+- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `6035` разоў (на 2025.02.25)
+- KO: 우크라이나 국기 이모지는 이 문서에 `6035` 번 등장합니다(2025.02.25 기준)
 
 ***
 
@@ -1008,6 +1008,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 866: 2025, February 22nd
 - [x] 🇺🇦️ Day 867: 2025, February 23rd
 - [x] 🇺🇦️ Day 868: 2025, February 24th
+- [x] 🇺🇦️ Day 869: 2025, February 25th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -1015,7 +1016,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 
 ***
 
-<details><summary><p><b>[Click/tap here to expand/collapse a full timeline (2022 invasion)] [UA/UK: Клацніть/торкніться тут, щоб розгорнути/згорнути повну часову шкалу (вторгнення 2022 року)] [RU: Нажмите/коснитесь здесь, чтобы развернуть/свернуть полную временную шкалу (вторжение 2022 года)] [BE: Пстрыкніце/дакраніцеся тут, каб разгарнуць/згарнуць поўную шкалу (ўварванне 2022 г.)] [KO: 전체 타임라인(2022년 침공)을 확장/축소하려면 여기를 클릭/탭하세요.]</b></p></summary>
+<details open><summary><p><b>[Click/tap here to expand/collapse a full timeline (2022 invasion)] [UA/UK: Клацніть/торкніться тут, щоб розгорнути/згорнути повну часову шкалу (вторгнення 2022 року)] [RU: Нажмите/коснитесь здесь, чтобы развернуть/свернуть полную временную шкалу (вторжение 2022 года)] [BE: Пстрыкніце/дакраніцеся тут, каб разгарнуць/згарнуць поўную шкалу (ўварванне 2022 г.)] [KO: 전체 타임라인(2022년 침공)을 확장/축소하려면 여기를 클릭/탭하세요.]</b></p></summary>
 
 - [x] 🇺🇦️ Day 1: 2022, Thursday, February 24th (Start of the Russian Invasion of Ukraine)
 - [x] 🇺🇦️ Day 2: 2022, Friday, February 25th
@@ -2114,6 +2115,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1095, 2025, Saturday, February 22nd
 - [x] 🇺🇦️ Day 1096, 2025, Sunday, February 23rd
 - [x] 🇺🇦️ Day 1097, 2025, Monday, February 24th (3 year anniversary of the Russian Invasion of Ukraine)
+- [x] 🇺🇦️ Day 1098, 2025, Tuesday, February 25th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -2127,7 +2129,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ***
 
-<details><summary><p><b>[Click/tap here to expand/collapse a full timeline (Russo-Ukrainian war)] [UA/UK: Натисніть / торкніться тут, щоб розширити / згорнути повну хронологію (російсько-українська війна)] [RU: Нажмите/коснитесь здесь, чтобы развернуть/свернуть полную временную шкалу (Российско-украинская война] [BE: Націсніце/дакраніцеся тут, каб разгарнуць/згарнуць поўную часовую шкалу (руска-ўкраінская вайна)] [KO: 전체 타임라인(러시아-우크라이나 전쟁)을 확장/축소하려면 여기를 클릭/탭하세요.]</b></p></summary>
+<details open><summary><p><b>[Click/tap here to expand/collapse a full timeline (Russo-Ukrainian war)] [UA/UK: Натисніть / торкніться тут, щоб розширити / згорнути повну хронологію (російсько-українська війна)] [RU: Нажмите/коснитесь здесь, чтобы развернуть/свернуть полную временную шкалу (Российско-украинская война] [BE: Націсніце/дакраніцеся тут, каб разгарнуць/згарнуць поўную часовую шкалу (руска-ўкраінская вайна)] [KO: 전체 타임라인(러시아-우크라이나 전쟁)을 확장/축소하려면 여기를 클릭/탭하세요.]</b></p></summary>
 
 - [x] 🇺🇦️ Day 1: 2014, February 20th (start of the Russo-Ukrainian war)
 - [x] 🇺🇦️ Day 2: 2014, February 21st
@@ -6152,12 +6154,13 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 4020: 2025, February 22nd
 - [x] 🇺🇦️ Day 4021: 2025, February 23rd
 - [x] 🇺🇦️ Day 4022: 2025, February 24th
+- [x] 🇺🇦️ Day 4023: 2025, February 25th
 
-- After 4,022 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 4,022 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 4,022 дня это все еще Украина. Слава Украине!
-- BE: Праз 4,022 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
-- KO: 4,022 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
+- After 4,023 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 4,023 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 4,023 дня это все еще Украина. Слава Украине!
+- BE: Праз 4,023 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
+- KO: 4,023 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
 
 #### N1
 
@@ -6197,7 +6200,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **BE: Тып файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 - **KO: 파일 유형:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `792 (2025, Monday, February 24th at 09:00 pm PST)`
+- **File version:** `793 (2025, Tuesday, February 25th at 09:23 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
@@ -6207,11 +6210,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 > **Translation not available (Korean) 번역이 불가능합니다. (한국어)**
 
-- **Line count (including blank lines and compiler line):** `8,219`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `8,219`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `8,219`
-- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `8,219`
-- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `8,219`
+- **Line count (including blank lines and compiler line):** `8,242`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `8,242`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `8,242`
+- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `8,242`
+- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `8,242`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -8122,6 +8125,26 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 793 (2025, Tuesday, February 25th at 09:23 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `6035`
+- [x] Updated the main list to include an entry for 2025, February 25th (day 918)
+- [x] Updated the list of all days of the war since the 2022 Invasion (1,098 days)
+- [x] Updated the list of all days of the war (4,023 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 793
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 793
+
+</details> <!-- V793 !-->
+
+---
+
 _End of file history._
 
 </details> <!-- End of file history !-->
@@ -8136,11 +8159,11 @@ _End of file history._
 
 <!-- TODO !--> TODO: Translate this section
 
-- Total consecutive days: 868 (as of 2025, Monday, February 24th)
-- Days with an update: 792 (as of 2025, Monday, February 24th)
-- Days without an update: 77 (as of 2025, Monday, February 24th)
+- Total consecutive days: 869 (as of 2025, Tuesday, February 25th)
+- Days with an update: 793 (as of 2025, Tuesday, February 25th)
+- Days without an update: 77 (as of 2025, Tuesday, February 25th)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 792/868 = 91.244% (as of 2025, Monday, February 24th)
+- Ratio: 793/869 = 91.254% (as of 2025, Tuesday, February 25th)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
