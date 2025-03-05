@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Full-Soundtrack/91%20Vs.%20Mode%20Mini-Game%20Shuffle%20Choice.mp3</location>
+			<title>Vs. Mode Mini-Game Shuffle Choice</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20%28DS%29%20OST/Full-Soundtrack/cover.jpg</image>
+			<duration>2093</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Full-Soundtrack/90%20Vs.%20Mode%20Mini-Game%20Shuffle.mp3</location>
+			<title>Vs. Mode Mini-Game Shuffle</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20%28DS%29%20OST/Full-Soundtrack/cover.jpg</image>
+			<duration>3895</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Full-Soundtrack/95%20Mini-Game%20Vs.%20Results.mp3</location>
+			<title>Mini-Game Vs. Results</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20%28DS%29%20OST/Full-Soundtrack/cover.jpg</image>
+			<duration>77064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Full-Soundtrack/87%20Vs.%20Results%20Screen.mp3</location>
+			<title>Vs. Results Screen</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20%28DS%29%20OST/Full-Soundtrack/cover.jpg</image>
+			<duration>45064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Full-Soundtrack/01%20Title%20Screen.mp3</location>
+			<title>Title Screen</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20%28DS%29%20OST/Full-Soundtrack/cover.jpg</image>
+			<duration>43079</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Full-Soundtrack/04%20World%201%20-%20Mushroom%20Plains.mp3</location>
+			<title>World 1 - The Mushroom Plains</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20%28DS%29%20OST/Full-Soundtrack/cover.jpg</image>
+			<duration>41067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Full-Soundtrack/35%20World%202%20-%20The%20Desert.mp3</location>
+			<title>World 2 - The Desert</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20%28DS%29%20OST/Full-Soundtrack/cover.jpg</image>
+			<duration>48068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Full-Soundtrack/21%20Toad%20House.mp3</location>
+			<title>Toad House</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20%28DS%29%20OST/Full-Soundtrack/cover.jpg</image>
+			<duration>100078</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
