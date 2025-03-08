@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/Samplers/Classical_Sampler/Kevin_MacLeod_-_Virtutes_Instrumenti.mp3</location>
+			<title>Virtutes Instrumenti</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Classical Sampler</album>
+			<annotation>URL: http://freemusicarchive.org/music/Kevin_MacLeod/Classical_Sampler/Virtutes_Instrumenti
+Comments: http://freemusicarchive.org/
+Curator: 
+Copyright: Creative Commons Attribution: http://creativecommons.org/licenses/by/3.0/</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Classical%20Sampler/art.jpg</image>
+			<duration>262060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Kids-inamerica/AudioOnly/M4A/[HD]%20Nightcore%20-%20Kids%20inamerica%20[_ozo6a--7hw].m4a</location>
+			<duration>148376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Bootylicious/AudioOnly/M4A/[HD]%20Nightcore%20-%20Bootylicious%20[sUFlwyMAzi0].m4a</location>
+			<duration>168786</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/A-hard-days-night/AudioOnly/M4A/[HD]%20Nightcore%20-%20A%20hard%20days%20night%20[rvR0Y_SawC8].m4a</location>
+			<duration>124854</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/About-you-now/AudioOnly/M4A/[HD]%20Nightcore%20-%20About%20you%20now%20[r7V5YvCFYiw].m4a</location>
+			<duration>177331</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Hold-Music/07.%20Yoko%20Kanno%20-%20Fax%20Me.mp3</location>
+			<title>Fax Me</title>
+			<creator>Yoko Kanno</creator>
+			<album>Be Human</album>
+			<trackNum>7</trackNum>
+			<annotation>https://archive.org/details/01.-yoko-kanno-smooth-in-the-shell</annotation>
+			<duration>86831</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Brave/AudioOnly/M4A/[HD]%20Nightcore%20-%20Brave%20[vypO0A9tq6s].m4a</location>
+			<duration>191542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
