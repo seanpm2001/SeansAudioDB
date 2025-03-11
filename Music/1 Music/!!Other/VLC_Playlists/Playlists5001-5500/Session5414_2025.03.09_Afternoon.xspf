@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/David-Bowie_Starman/MP3/David-Bowie_Starman.mp3</location>
+			<title>David-Bowie_Starman.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Starman</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Starman&quot; by British singer David Bowie.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Starman/art.jpg</image>
+			<duration>257864</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/David-Bowie_Life-on-Mars/MP3/David-Bowie_Life-on-mars.mp3</location>
+			<title>David-Bowie_Life-on-mars.mp3</title>
+			<creator>David Bowie</creator>
+			<album>Life on Mars?</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Life on Mars?&quot; by David Bowie, a song about history repeating itself far too often (which is what we face in reality)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Life%20on%20Mars_/art.jpg</image>
+			<duration>249949</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Bulgarian-Style/OGG/Free_Software_Song_Bulgarian_Style.ogg</location>
+			<title>Free Software Song</title>
+			<creator>Mark Forry, Yvette Osborne, Ron Fox, Steve Finney, Bill Cope, Kip McAtee, Ernie Provencher, Dan Auvil</creator>
+			<annotation>http://www.gnu.org/music/free-software-song.html</annotation>
+			<duration>187998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/freesoft.ogg</location>
+			<title>The Free Software Song</title>
+			<creator>Phoenix Imago</creator>
+			<album>52 To Change The World</album>
+			<trackNum>5</trackNum>
+			<duration>193627</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/Iv%C3%A1n%20Chavero%20y%20Renich%20-%20Canci%C3%B3n%20del%20Software%20Libre.ogg</location>
+			<title>Canción del software libre</title>
+			<creator>Iván Chavero y Renich</creator>
+			<duration>212824</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/jonobacon-freesoftwaresong2.ogg</location>
+			<title>Free Software Song 2</title>
+			<creator>Jono Bacon</creator>
+			<album>Released as a single</album>
+			<trackNum>1</trackNum>
+			<annotation>www.jonobacon.org</annotation>
+			<duration>198000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/loneload-free-software-song.ogg</location>
+			<duration>149777</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/markushaist-free-software-song.ogg</location>
+			<title>Free Software Song</title>
+			<creator>Markus Haist</creator>
+			<annotation>http://www.gnu.org/music/free-software-song.html</annotation>
+			<duration>150681</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Free-Software-Song/Remixes/pjj-and-hairyone-freesoftwaresong.ogg</location>
+			<title>Free software song by Pjj &amp; Hairyone</title>
+			<creator>Pjj &amp; Hairyone</creator>
+			<annotation>Original song by Richard Stallman (gnu.org),Original song by Richard Stallman (gnu.org)</annotation>
+			<duration>172083</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
