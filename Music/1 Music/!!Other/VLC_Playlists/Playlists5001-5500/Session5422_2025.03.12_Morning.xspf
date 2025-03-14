@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Big%20Wave%20Beach/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Big%20Wave%20Beach%20Theme.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Big Wave Beach Theme.mp3</title>
+			<creator>PopCap/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Big Wave Beach</album>
+			<trackNum>2</trackNum>
+			<annotation>The theme song for the Big Wave Beach stage of Plants vs. Zombies 2, without the wave sound effects.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Big%20Wave%20Beach/art.png</image>
+			<duration>600280</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Big%20Wave%20Beach/MP3/Plants%20Vs%20Zombies%202%20Music%20-%20Big%20Wave%20Beach%20Ultimate%20Battle%20(Waves%20%20Splash%20SFX).mp3</location>
+			<title>Plants Vs Zombies 2 Music - Big Wave Beach Ultimate Battle (Waves  Splash SFX).mp3</title>
+			<creator>PopCap/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Big Wave Beach</album>
+			<trackNum>3</trackNum>
+			<annotation>The Ultimate Battle theme for the Big Wave Beach stage of Plants vs. Zombies 2, including the wave sound effects. Note: this stage does not have an official Demonstration Minigame theme song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Big%20Wave%20Beach/art.png</image>
+			<duration>447384</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20Vs.Zombies%202%20(iOS%20&amp;%20Android)%20OST/Ultimate%20Battle%20Mashup/MP3/ultimate%20battle%20mashup%20collection.mp3</location>
+			<title>ultimate battle mashup collection.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 Ultimate battle mashup comp</album>
+			<trackNum>1</trackNum>
+			<annotation>A compilation of mashups of the Ultimate Battle themes from the game Plants Vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20Ultimate%20battle%20mashup%20comp/art.png</image>
+			<duration>9896392</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
