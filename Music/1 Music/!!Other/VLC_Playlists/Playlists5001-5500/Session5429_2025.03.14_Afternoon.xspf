@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Oddities/Kevin%20MacLeod%20-%2009%20-%20Nothing%20Broken.mp3</location>
+			<title>Nothing Broken</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Oddities</album>
+			<trackNum>9</trackNum>
+			<annotation> 000005ED 00000AD8 000080D3 00010401 00010F6D 0001184E 0000899C 000089A7 00020D1A 0000CCB1</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Oddities/art.jpg</image>
+			<duration>166011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
