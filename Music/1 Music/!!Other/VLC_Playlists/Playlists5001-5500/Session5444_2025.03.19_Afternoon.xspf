@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%205%20Be%20Human/12.%20Yoko%20Kanno%20-%20Spider%20Bites.flac</location>
+			<title>Spider Bites</title>
+			<creator>Yoko Kanno</creator>
+			<album>Be Human</album>
+			<trackNum>12</trackNum>
+			<duration>44400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%205%20Be%20Human/02.%20Scott%20Matthew%20-%20Trip%20City.flac</location>
+			<title>Trip City</title>
+			<creator>Scott Matthew</creator>
+			<album>Be Human</album>
+			<trackNum>2</trackNum>
+			<duration>235173</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%205%20Be%20Human/09.%20Hisaaki%20Hogari%20-%20Spotter.flac</location>
+			<title>Spotter</title>
+			<creator>Hisaaki Hogari</creator>
+			<album>Be Human</album>
+			<trackNum>9</trackNum>
+			<duration>356493</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
