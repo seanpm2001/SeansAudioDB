@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Wheres%20my%20water%20OST/Audio%20only/MP3/06%20Swampy&#39;s%20Course%204.mp3</location>
+			<title>Swampy&#39;s Course 4</title>
+			<creator>Disney</creator>
+			<album>Where&#39;s My Water?</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Disney/Where%27s%20My%20Water_/art.jpg</image>
+			<duration>153365</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Wheres%20my%20water%20OST/Audio%20only/MP3/10%20Puzzle%20Time!.mp3</location>
+			<title>Puzzle Time!</title>
+			<creator>Disney</creator>
+			<album>Where&#39;s My Water?</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Disney/Where%27s%20My%20Water_/art.jpg</image>
+			<duration>142864</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Restaurant%20story/MP3/Restaurant-Story-Theme_High-Quality.mp3</location>
+			<title>Restaurant-Story-Theme_High-Quality.mp3</title>
+			<creator>Storm8 / TeamLava</creator>
+			<album>Restaurant Story Theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the mobile video game &quot;Restaurant Story&quot; by the developer Storm8/TeamLava.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Storm8%20_%20TeamLava/Restaurant%20Story%20Theme%20song/art.png</image>
+			<duration>204104</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cause%20you%20had%20a%20Bad%20Day/MP3/Daniel-Powter_Bad-Day.mp3</location>
+			<title>Daniel-Powter_Bad-Day.mp3</title>
+			<creator>Daniel Powter</creator>
+			<album>Bad Day</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bad Day&quot; by Canadian Pop singer Daniel Powter.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Daniel%20Powter/Bad%20Day/art.jpg</image>
+			<duration>235137</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
