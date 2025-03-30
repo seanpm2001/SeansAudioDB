@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/California_Waiting/VideoWithAudio/California%20Waiting-8elaRuM7bL8.webm</location>
+			<duration>208860</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Die-Windows_How-do-you-do/VideoWithAudio/Die%20Windows%20-%20How%20do%20you%20do%201972-TcCxC_-ABFs.mp4</location>
+			<duration>193817</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tap%20Zoo%202%20OST/FullOST/default.mp4</location>
+			<duration>57313</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tap-Zoo-Arctic/AudioOnly/CAF/tapxmasslowV2.caf</location>
+			<duration>58976</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Wang%20Chung%20-%20Everybody%20have%20fun%20tonight/MP3/Wang-Chung_Everybody-have-fun-tonight.mp3</location>
+			<title>Wang-Chung_Everybody-have-fun-tonight.mp3</title>
+			<creator>Wang Chung</creator>
+			<album>Everybody have fun tonight</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Everybody have fun tonight&quot; by British artist Wang Chung.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Wang%20Chung/Everybody%20have%20fun%20tonight/art.jpg</image>
+			<duration>256480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Walla%20Walla%20bing%20bang/MP3/Witch-Doctor.mp3</location>
+			<title>Witch-Doctor.mp3</title>
+			<creator>Ross Bagdasarian</creator>
+			<album>Witch Doctor</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Witch Doctor&quot; by artist Ross Bagdasarian.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ross%20Bagdasarian/Witch%20Doctor/art.png</image>
+			<duration>191748</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Who%20Let%20the%20dogs%20out%20-%20Baha%20men/MP3/Baha-Men_Who-let-the-dogs-out.mp3</location>
+			<title>Baha-Men_Who-let-the-dogs-out.mp3</title>
+			<creator>Baha Men</creator>
+			<album>Who let the dogs out</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;who let the dogs out&quot; by Baha Men. Recorded in 1999, released in 2000.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Baha%20Men/Who%20let%20the%20dogs%20out/art.jpg</image>
+			<duration>216799</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Turn%20down%20for%20what/MP3/DJ-Snake_Turn-down-for-what.mp3</location>
+			<title>DJ-Snake_Turn-down-for-what.mp3</title>
+			<creator>DJ Snake</creator>
+			<album>Turn down for what</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Turn down for what&quot; by the artist DJ Snake. The music video is completely weird, I recommend checking it out, as it is one of the most bizzare music videos I have ever seen.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/DJ%20Snake/Turn%20down%20for%20what/art.jpg</image>
+			<duration>216016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/We%20are%20young/(No%20video)%20we%20were%20young.webm</location>
+			<duration>252260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/We%20are%20young/(No%20video)%20we%20are%20young.webm</location>
+			<duration>252260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tarantella-Napoletana/MP3/Tarantella-Napoletana.mp3</location>
+			<title>Tarantella-Napoletana.mp3</title>
+			<creator>Italy</creator>
+			<album>Tarantella Napoletana</album>
+			<trackNum>1</trackNum>
+			<annotation>I am unable to find good information on the artist, the date, and the genre.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Italy/Tarantella%20Napoletana/art.jpg</image>
+			<duration>162365</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%E8%B2%BB%E7%8E%89%E6%B8%85%20-%20%E4%B8%80%E7%BF%A6%E6%A2%85/MP3/%E8%B2%BB%E7%8E%89%E6%B8%85-%E4%B8%80%E7%BF%A6%E6%A2%85Yu-Ching-Fei_Yi-Jian-Mei-(xue-hua-piao-piao-bei-feng-xiao-xiao).mp3</location>
+			<title>費玉清-一翦梅Yu-Ching-Fei_Yi-Jian-Mei-(xue-hua-piao-piao-bei-feng-xiao-xiao).mp3</title>
+			<creator>Yu Ching Fei</creator>
+			<album>翦梅 (Plum) - translated with Bing translate</album>
+			<trackNum>1</trackNum>
+			<annotation>Cannot determine year number or exact song name. Even the title I am given supposedly is a spelling mistake, and the best translate I can get for the song name is &quot;Plum&quot;.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yu%20Ching%20Fei/%E7%BF%A6%E6%A2%85%20%28Plum%29%20-%20translated%20with%20Bing%20translate/art.jpg</image>
+			<duration>236235</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+	</extension>
+</playlist>

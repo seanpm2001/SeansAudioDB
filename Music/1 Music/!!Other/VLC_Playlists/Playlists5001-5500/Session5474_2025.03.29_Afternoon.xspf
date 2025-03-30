@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%E8%B2%BB%E7%8E%89%E6%B8%85%20-%20%E4%B8%80%E7%BF%A6%E6%A2%85/MP3/%E8%B2%BB%E7%8E%89%E6%B8%85-%E4%B8%80%E7%BF%A6%E6%A2%85Yu-Ching-Fei_Yi-Jian-Mei-(xue-hua-piao-piao-bei-feng-xiao-xiao).mp3</location>
+			<title>費玉清-一翦梅Yu-Ching-Fei_Yi-Jian-Mei-(xue-hua-piao-piao-bei-feng-xiao-xiao).mp3</title>
+			<creator>Yu Ching Fei</creator>
+			<album>翦梅 (Plum) - translated with Bing translate</album>
+			<trackNum>1</trackNum>
+			<annotation>Cannot determine year number or exact song name. Even the title I am given supposedly is a spelling mistake, and the best translate I can get for the song name is &quot;Plum&quot;.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yu%20Ching%20Fei/%E7%BF%A6%E6%A2%85%20%28Plum%29%20-%20translated%20with%20Bing%20translate/art.jpg</image>
+			<duration>236235</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Initial%20D%20Night%20of%20Fire%20magic%20drift%20bus/MP3/Initial-D_Night-of-Fire-(Magic-Drift-Bus-MIDI).mp3</location>
+			<title>Initial-D_Night-of-Fire-(Magic-Drift-Bus-MIDI).mp3</title>
+			<creator>Dream / Niko / Initial D</creator>
+			<album>Night of Fire</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Night of Fire, by Initial D, which is actually Niko WHICH was actually remixed by Dream.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Dream%20_%20Niko%20_%20Initial%20D/Night%20of%20Fire/art.jpg</image>
+			<duration>291301</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Niklas%20Ahlstr%C3%B6m%20%E2%80%93%20Vanilla%20Urban%204/(No%20video)%20Niklas%20Ahlstr%C3%B6m%20%E2%80%93%20Vanilla%20Urban%204.m4a</location>
+			<duration>290620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cause%20you%20had%20a%20Bad%20Day/MP3/Daniel-Powter_Bad-Day.mp3</location>
+			<title>Daniel-Powter_Bad-Day.mp3</title>
+			<creator>Daniel Powter</creator>
+			<album>Bad Day</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bad Day&quot; by Canadian Pop singer Daniel Powter.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Daniel%20Powter/Bad%20Day/art.jpg</image>
+			<duration>235137</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Melanie%20-%20Brand%20new%20key/MP3/Melanie-Brand-new-key.mp3</location>
+			<title>Melanie-Brand-new-key.mp3</title>
+			<creator>Melanie</creator>
+			<album>Beautiful People: The greatest hits of Melanie</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Melanie/Beautiful%20People_%20The%20greatest%20hits%20of%20Melanie/art.png</image>
+			<duration>146451</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Call%20me%20maybe/MP3/Carly-Rae-Jepsen_Call-Me-Maybe.mp3</location>
+			<title>Carly-Rae-Jepsen_Call-Me-Maybe.mp3</title>
+			<creator>Carly Rae Jepsen</creator>
+			<album>Call me Maybe</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Call me Maybe&quot; by the artist &quot;Carly Rae Jepsen&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Carly%20Rae%20Jepsen/Call%20me%20Maybe/art.jpg</image>
+			<duration>199376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Linkin%20Park/y2mate.com%20-%20linkin_park_numb_lyrics_hq_hd_-qZxMY7FZf8_720p.mp4</location>
+			<duration>187687</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Linkin%20Park/y2mate.com%20-%20linkin_park_crawling_lyrics_TnDC0JAcYp0_1080p.mp4</location>
+			<duration>209119</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
