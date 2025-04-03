@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Full-Soundtrack/19%20Mushroom%20Waltz.mp3</location>
+			<title>Mushroom Waltz</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20%28DS%29%20OST/Full-Soundtrack/cover.jpg</image>
+			<duration>162067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
