@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-battle/24%20Library.mp3</location>
+			<title>Library</title>
+			<creator>Tatsuyuki Maeda, Kenichi Tokoi, Hideaki Kobayashi</creator>
+			<album>Sonic Battle</album>
+			<duration>126041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-battle/09%20Emerald%20City.mp3</location>
+			<title>Emerald Town</title>
+			<creator>Tatsuyuki Maeda, Kenichi Tokoi, Hideaki Kobayashi</creator>
+			<album>Sonic Battle</album>
+			<duration>226037</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-battle/03%20Menu.mp3</location>
+			<title>Menu</title>
+			<creator>Tatsuyuki Maeda, Kenichi Tokoi, Hideaki Kobayashi</creator>
+			<album>Sonic Battle</album>
+			<duration>45035</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
