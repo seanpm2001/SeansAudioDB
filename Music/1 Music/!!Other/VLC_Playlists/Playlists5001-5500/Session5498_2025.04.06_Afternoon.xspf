@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Ethereal/Kevin%20MacLeod%20-%2005%20-%20Hypnothis.mp3</location>
+			<title>Hypnothis</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Ethereal</album>
+			<trackNum>5</trackNum>
+			<annotation> 000002E2 00000289 0000326C 00004394 0003EFDB 000041EB 00007DA3 00007DC0 00006B24 0003934E</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Ethereal/art.jpg</image>
+			<duration>283484</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Ethereal/Kevin%20MacLeod%20-%2002%20-%20Cupid%E2%80%99s%20Revenge.mp3</location>
+			<title>Cupid’s Revenge</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Ethereal</album>
+			<trackNum>2</trackNum>
+			<annotation> 0000010F 000000F6 00001639 00000E67 000084DB 00010B24 00006C62 00007E86 0000C6C6 000040E5</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Ethereal/art.jpg</image>
+			<duration>105564</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Ethereal/Kevin%20MacLeod%20-%2001%20-%20Alien%20Restaurant.mp3</location>
+			<title>Alien Restaurant</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Ethereal</album>
+			<trackNum>1</trackNum>
+			<annotation> 00000020 00000031 000013CB 00000EFF 0001A363 00037BBC 00003FBB 00004989 0001B15E 0002631F</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Ethereal/art.jpg</image>
+			<duration>372805</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Ethereal/Kevin%20MacLeod%20-%2009%20-%20New%20Direction.mp3</location>
+			<title>New Direction</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Ethereal</album>
+			<trackNum>9</trackNum>
+			<annotation> 000000D6 000000EC 00000F2D 00001013 00047C43 0006E54E 00007E86 00006BBF 00047C92 00027858</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Ethereal/art.jpg</image>
+			<duration>679552</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
