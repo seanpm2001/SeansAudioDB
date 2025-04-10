@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Chipper%20Doodle.mp3</location>
+			<title>Chipper Doodle</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>0</annotation>
+			<duration>188633</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Disco%20Medusae.mp3</location>
+			<title>Disco Medusae</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>USUAN1500041 from incompetech.com</annotation>
+			<duration>221287</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Aitech.mp3</location>
+			<title>Aitech</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>aa9f3fc4-1f77-4baa-8957-ec98a6e53ce1</annotation>
+			<duration>150915</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Fig%20Leaf%20Times%20Two.mp3</location>
+			<title>Fig Leaf Times Two</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>0</annotation>
+			<duration>380502</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20What%20You%20Want%20ver%202.mp3</location>
+			<title>What You Want ver 2</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation> 0000111F 000012EE 0000558B 000058AA 00010D49 0000AEB1 00008EF1 0000922E 0000FD92 00001968</annotation>
+			<duration>87565</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Golly%20Gee.mp3</location>
+			<title>Golly Gee</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation> 000000DF 000000D2 00000754 000006D6 0000789C 0000789C 000038AB 000051F7 000026E0 000026E0</annotation>
+			<duration>33466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Sunshine%20ver%202.mp3</location>
+			<title>Sunshine ver 2</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation> 0000058B 000005EA 00003997 000062C6 0000637D 000268F0 00008EE3 00008DE6 0002F797 00008E72</annotation>
+			<duration>224892</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
