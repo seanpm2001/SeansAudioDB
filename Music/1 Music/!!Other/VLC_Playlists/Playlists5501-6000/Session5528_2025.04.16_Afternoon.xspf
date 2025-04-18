@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MOTHER_Series/MOTHER-1_OST/MOTHER%20Original%20Soundtrack%20Digital%20Remastering/02.%20Bein&#39;%20Friends.flac</location>
+			<title>Bein&#39; Friends</title>
+			<creator>Catherine Warwick &amp; Jeremy Holland-Smith</creator>
+			<album>MOTHER Original Soundtrack Digital Remastering</album>
+			<trackNum>2</trackNum>
+			<annotation>www.sittingonclouds.net</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Catherine%20Warwick%20%26%20Jeremy%20Holland-Smith/MOTHER%20Original%20Soundtrack%20Digital%20Remastering/art.png</image>
+			<duration>313946</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MOTHER_Series/MOTHER-1_OST/MOTHER%20Original%20Soundtrack%20Digital%20Remastering/06.%20Flying%20Man.flac</location>
+			<title>Flying Man</title>
+			<creator>Philippe, Louis</creator>
+			<album>MOTHER Original Soundtrack Digital Remastering</album>
+			<trackNum>6</trackNum>
+			<annotation>www.sittingonclouds.net</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Philippe%2C%20Louis/MOTHER%20Original%20Soundtrack%20Digital%20Remastering/art.png</image>
+			<duration>289840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
