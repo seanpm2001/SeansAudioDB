@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MOTHER_Series/MOTHER-3_OST/OSV/MOTHER%203%20-%20141%20-%20A%2016-Beat%20Attack!.flac</location>
+			<title>A 16-Beat Attack!</title>
+			<creator>Shogo Sakai</creator>
+			<album>MOTHER 3</album>
+			<trackNum>141</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shogo%20Sakai/MOTHER%203/art.jpg</image>
+			<duration>56200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
