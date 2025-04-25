@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/elton-john-ost-main/songs/n19.mp3</location>
+			<title>Blue ft Elton John - Sorry Seems To Be The Hardest Word (Lyrics)</title>
+			<creator>Fad Cenel</creator>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/6a671ed4320f0c0843f288a1ea825aa4/art.png</image>
+			<duration>214972</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/elton-john-ost-main/songs/n20.mp3</location>
+			<title>Can You Feel the Love Tonight (End Title/ From &quot;The Lion King&quot;/Soundtrack Version)</title>
+			<creator>Elton John</creator>
+			<album>The Lion King: Special Edition</album>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Elton%20John/The%20Lion%20King_%20Special%20Edition/art.png</image>
+			<duration>242068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/elton-john-ost-main/songs/n11.mp3</location>
+			<title>Elton John - I Guess That&#39;s Why They Call It The Blues (Lyrics)</title>
+			<creator>Young Pilgrim Music</creator>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/67b2392219261df4069af5b1c22748d9/art.png</image>
+			<duration>292636</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/elton-john-ost-main/songs/n9.mp3</location>
+			<title>Don&#39;t Let The Sun Go Down On Me with lyrics. George Michael .. Elton John</title>
+			<creator>Karen Hope Sheraton</creator>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/a3d49e2cf4b4912caf3408ac94872a86/art.png</image>
+			<duration>350692</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/elton-john-ost-main/songs/n8.mp3</location>
+			<title>Don&#39;t Go Breaking My Heart - Elton John With Kiki Dee (Lyrics) 🎵</title>
+			<creator>Pillow</creator>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/c855c21c1385f914b4771e054f0b0940/art.png</image>
+			<duration>253324</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/elton-john-ost-main/songs/n7.mp3</location>
+			<title>Elton John - Crocodile Rock (Lyrics)</title>
+			<creator>Audioandlyrics</creator>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/daf94845edc2a04f6a7b582122411658/art.png</image>
+			<duration>235804</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
