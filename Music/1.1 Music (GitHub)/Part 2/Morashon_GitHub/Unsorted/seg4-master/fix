@@ -1,0 +1,2 @@
+#!/bin/bash
+py ../textMovie/fixArdour.py export/seg4a_Session.wav export/seg4b_Session.wav export/seg4c_Session.wav export/seg4_Session.wav

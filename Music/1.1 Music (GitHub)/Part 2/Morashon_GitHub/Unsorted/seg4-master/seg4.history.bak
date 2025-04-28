@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv-sec="1359278046" tv-usec="3909317424" name="split"/>
+  <UndoTransaction tv-sec="1359278049" tv-usec="3909317424" name="region drag"/>
+  <UndoTransaction tv-sec="1359278052" tv-usec="3909317424" name="region drag"/>
+  <UndoTransaction tv-sec="1359278055" tv-usec="3909317424" name="region drag"/>
+  <UndoTransaction tv-sec="1359278142" tv-usec="3909317424" name="move marker"/>
+  <UndoTransaction tv-sec="1359278162" tv-usec="3909317424" name="move marker"/>
+  <UndoTransaction tv-sec="1359278175" tv-usec="3909317424" name="move marker"/>
+  <UndoTransaction tv-sec="1359278196" tv-usec="3909317424" name="move marker"/>
+  <UndoTransaction tv-sec="1359278231" tv-usec="3909317424" name="move marker"/>
+  <UndoTransaction tv-sec="1359278280" tv-usec="3909317424" name="move marker"/>
+  <UndoTransaction tv-sec="1359278291" tv-usec="3909317424" name="move marker"/>
+  <UndoTransaction tv-sec="1359278302" tv-usec="3909317424" name="move marker"/>
+  <UndoTransaction tv-sec="1359356666" tv-usec="3909317424" name="region drag">
+    <StatefulDiffCommand obj-id="5929" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <position from="92792741" to="93223526"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="5990" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="parameter-0" id="5990" default="36.1194953918" min-yval="4.40999984741" max-yval="19845" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93265130 163.287964100993
+93285610 323.292716136915
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
+      <AutomationList automation-id="parameter-0" id="5990" default="36.1194953918" min-yval="4.40999984741" max-yval="19845" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93598401 643.30222020876
+93600449 164.414751883334
+93695915 163.287964100993
+93716395 323.292716136915
+93736875 164.414751883334
+93768385 243.290340118954
+93829035 403.295092154876
+</events>
+      </AutomationList>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1359356670" tv-usec="3909317424" name="move marker">
+    <MementoCommand obj-id="17" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="10420" name="session" start="0" end="93932999" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+        <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="10420" name="session" start="0" end="94353844" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+        <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1359356678" tv-usec="3909317424" name="move marker">
+    <MementoCommand obj-id="17" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="10420" name="session" start="0" end="94353844" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+        <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="10420" name="session" start="0" end="94383668" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+        <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1359356684" tv-usec="3909317424" name="move marker">
+    <MementoCommand obj-id="17" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="10420" name="session" start="0" end="94383668" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+        <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="10420" name="session" start="0" end="94423433" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+        <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1359356758" tv-usec="3909317424" name="move marker">
+    <MementoCommand obj-id="17" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="10420" name="session" start="0" end="94423433" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+        <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="10420" name="session" start="0" end="94194785" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+        <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1359356771" tv-usec="3909317424" name="move marker">
+    <MementoCommand obj-id="17" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="10420" name="session" start="0" end="94194785" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+        <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="10420" name="session" start="0" end="94197638" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+        <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1359356779" tv-usec="3909317424" name="move marker">
+    <MementoCommand obj-id="17" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="10420" name="session" start="0" end="94197638" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+        <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="10420" name="session" start="0" end="94197597" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+        <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1359356784" tv-usec="3909317424" name="move marker">
+    <MementoCommand obj-id="17" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="10420" name="session" start="0" end="94197597" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+        <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="10420" name="session" start="0" end="94197599" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+        <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+  </UndoTransaction>
+</UndoHistory>

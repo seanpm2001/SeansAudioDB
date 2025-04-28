@@ -1,0 +1,2483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session version="2.0.0" name="seg4" sample-rate="44100" id-counter="10356">
+  <Config>
+    <Option name="output-auto-connect" value="2"/>
+    <Option name="input-auto-connect" value="1"/>
+    <Option name="mtc-port-name" value="control"/>
+    <Option name="mmc-port-name" value="control"/>
+    <Option name="midi-port-name" value="control"/>
+    <Option name="meter-falloff" value="32"/>
+    <end-marker-is-free val="no"/>
+  </Config>
+  <Sources>
+    <Source name="concert2a.wav" id="74" flags="" channel="0"/>
+    <Source name="change_dance_ruf_74da47-L.wav" id="110" flags="" channel="0"/>
+    <Source name="change_dance_ruf_74da47-R.wav" id="112" flags="" channel="0"/>
+    <Source name="ruf_real_3e8274-L.wav" id="324" flags="" channel="0"/>
+    <Source name="ruf_real_3e8274-R.wav" id="326" flags="" channel="0"/>
+    <Source name="concert2b.wav" id="970" flags="" channel="0"/>
+    <Source name="lair_bass_hit-L.wav" id="1018" flags="" channel="0"/>
+    <Source name="lair_bass_hit-R.wav" id="1020" flags="" channel="0"/>
+    <Source name="concert2b_merge-c1.wav" id="1169" flags="" channel="0"/>
+    <Source name="concert2b_merge-c2.wav" id="1171" flags="" channel="0"/>
+    <Source name="concert2b_merge-c3.wav" id="1173" flags="" channel="0"/>
+    <Source name="vip2_merge-c1.wav" id="1539" flags="" channel="0"/>
+    <Source name="vip2_merge-c2.wav" id="1541" flags="" channel="0"/>
+    <Source name="vip2_merge-c3.wav" id="1543" flags="" channel="0"/>
+    <Source name="vip2_merge-c4.wav" id="1545" flags="" channel="0"/>
+    <Source name="morashon_theme3-L.wav" id="2039" flags="" channel="0"/>
+    <Source name="morashon_theme3-R.wav" id="2041" flags="" channel="0"/>
+    <Source name="prisoner_ambient_7a814b-L.wav" id="3784" flags="" channel="0"/>
+    <Source name="prisoner_ambient_7a814b-R.wav" id="3786" flags="" channel="0"/>
+    <Source name="vip2_merge_-c1.wav" id="3944" flags="" channel="0"/>
+    <Source name="vip2_merge_-c2.wav" id="3946" flags="" channel="0"/>
+    <Source name="vip2_merge_-c3.wav" id="3948" flags="" channel="0"/>
+    <Source name="vip2_merge_-c4.wav" id="3950" flags="" channel="0"/>
+    <Source name="starlite_instr-L.wav" id="4714" flags="" channel="0"/>
+    <Source name="starlite_instr-R.wav" id="4716" flags="" channel="0"/>
+    <Source name="ruf_starlite_893988-L.wav" id="5157" flags="" channel="0"/>
+    <Source name="ruf_starlite_893988-R.wav" id="5159" flags="" channel="0"/>
+    <Source name="lounge3_merge-L.wav" id="5332" flags="" channel="0"/>
+    <Source name="lounge3_merge-R.wav" id="5334" flags="" channel="0"/>
+    <Source name="starlite_theme_d4cba6-L.wav" id="5651" flags="" channel="0"/>
+    <Source name="starlite_theme_d4cba6-R.wav" id="5653" flags="" channel="0"/>
+  </Sources>
+  <Regions>
+    <Region id="76" name="concert2a" start="0" length="1183615" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="74" channels="1" master-source-0="74">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+    </Region>
+    <Region id="114" name="change_dance_ruf_74da47" start="0" length="16669591" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+    </Region>
+    <Region id="145" name="change_dance_ruf_74da47.1" start="8429856" length="1425935" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="8429856" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External,SyncMarked" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="328" name="ruf_real_3e8274" start="0" length="14106090" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="324" source-1="326" channels="2" master-source-0="324" master-source-1="326">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+    </Region>
+    <Region id="377" name="change_dance_ruf_74da47.2" start="8429856" length="1314975" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="8429856" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External,SyncMarked" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="383" name="change_dance_ruf_74da47.3" start="9751451" length="104340" position="1321595" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="9744831" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="972" name="concert2b" start="0" length="2239567" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="970" channels="1" master-source-0="970">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+    </Region>
+    <Region id="1004" name="concert2b.1" start="0" length="681438" position="15353981" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="970" channels="1" master-source-0="970">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="1022" name="lair_bass_hit" start="0" length="59304" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1018" source-1="1020" channels="2" master-source-0="1018" master-source-1="1020">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+    </Region>
+    <Region id="1128" name="concert2b.3" start="37352" length="644086" position="15408542" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="37352" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="970" channels="1" master-source-0="970">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="1175" name="concert2b_merge" start="0" length="2239567" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1169" source-1="1171" source-2="1173" channels="3" master-source-0="1169" master-source-1="1171" master-source-2="1173">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+    </Region>
+    <Region id="1212" name="concert2b_merge.1" start="679315" length="1560252" position="16167539" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1169" source-1="1171" source-2="1173" channels="3" master-source-0="1169" master-source-1="1171" master-source-2="1173">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="1314" name="concert2b.5" start="69787" length="611651" position="15481655" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="69787" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="970" channels="1" master-source-0="970">
+      <FadeIn default="yes" active="no"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="1343" name="concert2b.6" start="69787" length="485930" position="15481655" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="69787" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="970" channels="1" master-source-0="970">
+      <FadeIn default="yes" active="no"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="1547" name="vip2_merge" start="0" length="58927676" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+    </Region>
+    <Region id="1669" name="vip2_merge.1" start="0" length="1086604" position="17878409" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="1675" name="vip2_merge.2" start="1086604" length="57841072" position="19160523" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="1086604" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="1955" name="vip2_merge.8" start="629778" length="5870318" position="18557154" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="629778" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="3788" name="prisoner_ambient_7a814b" start="0" length="43805352" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+    </Region>
+    <Region id="3952" name="vip2_merge" start="0" length="58477081" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+    </Region>
+    <Region id="3995" name="vip2_merge.3" start="918747" length="57558334" position="36962266" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="4016" name="vip2_merge.4" start="1074905" length="57402176" position="19101830" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="4171" name="vip2_merge.5" start="1074905" length="5204847" position="19101830" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="1074905" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="4177" name="vip2_merge.6" start="6279752" length="52197329" position="24511064" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="6279752" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+      <FadeIn default="yes" active="no"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="4210" name="vip2_merge.8" start="1095852" length="5248086" position="19179386" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="1095852" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="4302" name="vip2_merge.12" start="6396863" length="52080218" position="24648058" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="6396863" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+      <FadeIn default="yes" active="no"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="4419" name="prisoner_ambient_7a814b.2" start="22161322" length="21644030" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="4620" name="vip2_merge.15" start="6396863" length="45341749" position="24648058" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="6396863" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+      <FadeIn default="yes" active="no"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="4626" name="vip2_merge.16" start="51738612" length="6738469" position="70041860" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="6" sync-position="51738612" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+      <FadeIn default="yes" active="no"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="4718" name="starlite_instr" start="0" length="15743656" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="4714" source-1="4716" channels="2" master-source-0="4714" master-source-1="4716">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+    </Region>
+    <Region id="4756" name="starlite_instr.1" start="7949434" length="7794222" position="76576235" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="4714" source-1="4716" channels="2" master-source-0="4714" master-source-1="4716">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="5161" name="ruf_starlite_893988" start="0" length="14819411" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="5157" source-1="5159" channels="2" master-source-0="5157" master-source-1="5159">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+    </Region>
+    <Region id="5210" name="ruf_starlite_893988.1" start="3774660" length="11044751" position="82749059" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5157" source-1="5159" channels="2" master-source-0="5157" master-source-1="5159">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="5225" name="ruf_starlite_893988.2" start="3774660" length="5544226" position="82749059" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="3774660" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5157" source-1="5159" channels="2" master-source-0="5157" master-source-1="5159">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="5336" name="lounge3_merge" start="0" length="12960909" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+    </Region>
+    <Region id="5442" name="starlite_instr.3" start="7998781" length="7744875" position="86174814" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="4714" source-1="4716" channels="2" master-source-0="4714" master-source-1="4716">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="5465" name="starlite_instr.4" start="7998781" length="4621736" position="86174814" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="7998781" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="4714" source-1="4716" channels="2" master-source-0="4714" master-source-1="4716">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="5471" name="starlite_instr.5" start="12615823" length="3127833" position="82014943" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="12620517" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="4714" source-1="4716" channels="2" master-source-0="4714" master-source-1="4716">
+      <FadeIn default="yes" active="no"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="5655" name="starlite_theme_d4cba6" start="0" length="20269736" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="5651" source-1="5653" channels="2" master-source-0="5651" master-source-1="5653">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+    </Region>
+    <Region id="5824" name="lounge3_merge.2" start="6730585" length="6230324" position="86916917" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="6730585" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="5847" name="starlite_theme_d4cba6.2" start="9809937" length="10459799" position="91668139" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="13" sync-position="9809937" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5651" source-1="5653" channels="2" master-source-0="5651" master-source-1="5653">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="5858" name="starlite_theme_d4cba6.3" start="9809937" length="7956981" position="91668139" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="13" sync-position="9809937" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5651" source-1="5653" channels="2" master-source-0="5651" master-source-1="5653">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="5923" name="lounge3_merge.3" start="6730585" length="5624236" position="86916917" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="6730585" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="9889" name="vip2_merge.19" start="6396863" length="31279614" position="24648058" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="6396863" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+      <FadeIn default="yes" active="no"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="9895" name="vip2_merge.20" start="37676477" length="14062135" position="55927672" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="37676477" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+      <FadeIn default="yes" active="no"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="9906" name="vip2_merge.21" start="6396863" length="31170410" position="24648058" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="8" sync-position="6396863" flags="Opaque,DefaultFadeIn,DefaultFadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+      <FadeIn default="yes" active="no"/>
+      <FadeOut default="yes" active="no"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="9964" name="vip2_merge.24" start="37827766" length="13910846" position="56078961" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="37827766" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+      <FadeIn default="yes" active="no"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="9985" name="vip2_merge.26" start="37257100" length="310173" position="55508295" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="9" sync-position="37257100" flags="Opaque,DefaultFadeIn,DefaultFadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+      <FadeIn default="yes" active="no"/>
+      <FadeOut default="yes" active="no"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="10066" name="lounge3_merge.5" start="6730585" length="3491662" position="86916917" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="6730585" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="10072" name="lounge3_merge.6" start="10222247" length="2132574" position="90408579" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="10222247" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="10089" name="lounge3_merge.8" start="10353884" length="2000937" position="90540216" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="10323506" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="10109" name="lounge3_merge.10" start="10390590" length="1964231" position="90576922" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="10390590" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="10138" name="lounge3_merge.11" start="6730585" length="3363823" position="86916917" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="6730585" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="10165" name="lounge3_merge.14" start="10443750" length="1911071" position="90630082" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="10443750" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+    <Region id="10247" name="lounge3_merge.15" start="6730585" length="3272176" position="86916917" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="6730585" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+      <FadeIn default="yes" active="yes"/>
+      <FadeOut default="yes" active="yes"/>
+      <Envelope default="yes"/>
+      <extra>
+        <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+      </extra>
+    </Region>
+  </Regions>
+  <DiskStreams>
+    <AudioDiskstream flags="Recordable" channels="1" playlist="concert2a" speed="1" name="concert2a" id="88"/>
+    <AudioDiskstream flags="Recordable" channels="2" playlist="change_dance_ruf_74da47" speed="1" name="change_dance_ruf_74da47" id="126"/>
+    <AudioDiskstream flags="Recordable" channels="2" playlist="ruf_real_3e8274" speed="1" name="ruf_real_3e8274" id="340"/>
+    <AudioDiskstream flags="Recordable" channels="3" playlist="concert2b_merge" speed="1" name="concert2b_merge" id="1187"/>
+    <AudioDiskstream flags="Recordable" channels="4" playlist="vip2_merge" speed="1" name="vip2_merge" id="1559"/>
+    <AudioDiskstream flags="Recordable" channels="2" playlist="prisoner_ambient_7a814b" speed="1" name="prisoner_ambient_7a814b" id="3800"/>
+    <AudioDiskstream flags="Recordable" channels="2" playlist="starlite_instr" speed="1" name="starlite_instr" id="4730"/>
+    <AudioDiskstream flags="Recordable" channels="2" playlist="ruf_starlite_893988" speed="1" name="ruf_starlite_893988" id="5173"/>
+    <AudioDiskstream flags="Recordable" channels="2" playlist="lounge3_merge" speed="1" name="lounge3_merge" id="5348"/>
+    <AudioDiskstream flags="Recordable" channels="2" playlist="starlite_theme_d4cba6" speed="1" name="starlite_theme_d4cba6" id="5667"/>
+  </DiskStreams>
+  <Locations>
+    <Location id="17" name="start" start="0" end="0" flags="IsMark,IsStart" locked="no"/>
+    <Location id="16" name="end" start="93932999" end="93932999" flags="IsMark,IsEnd" locked="no"/>
+    <Location id="54" name="Loop" start="0" end="13230000" flags="IsAutoLoop,IsHidden" locked="no"/>
+    <Location id="55" name="Punch" start="0" end="13230000" flags="IsAutoPunch,IsHidden" locked="no"/>
+  </Locations>
+  <Connections/>
+  <Routes>
+    <Route flags="MasterOut" default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=0:signal=0">
+      <IO name="master" id="18" active="yes" inputs="{starlite_theme_d4cba6/out 1,ruf_starlite_893988/out 1,starlite_instr/out 1,Dominatrix/out 1,MorashonVIP/out 1,ThisoneVIP/out 1,AnnaiVIP/out 1,prisoner_ambient_7a814b/out 1,ThisoneConcert/out 1,AnnaiConcert/out 1,ruf_real_3e8274/out 1,change_dance_ruf_74da47/out 1,concert2a/out 1}{starlite_theme_d4cba6/out 2,ruf_starlite_893988/out 2,starlite_instr/out 2,Dominatrix/out 2,MorashonVIP/out 2,ThisoneVIP/out 2,AnnaiVIP/out 2,prisoner_ambient_7a814b/out 2,ThisoneConcert/out 2,AnnaiConcert/out 2,ruf_real_3e8274/out 2,change_dance_ruf_74da47/out 2,concert2a/out 2}" outputs="{system:playback_1}{system:playback_2}" gain="1.000000000000" iolimits="-1,2,-1,2">
+        <Panner linked="no" link_direction="SameDirection" bypassed="no">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="50" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="49"/>
+          </StreamPanner>
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="53" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="52"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="19"/>
+        <Automation>
+          <AutomationList id="20" default="1" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="22"/>
+      <controllable name="mute" id="23"/>
+      <remote_control id="1"/>
+      <extra>
+        <GUI color="25441:45689:41865" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
+        </GUI>
+      </extra>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=1:signal=1" mode="Normal" diskstream-id="88">
+      <IO name="concert2a" id="81" active="yes" inputs="{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="0.548816263676" iolimits="1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="no">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="300" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="299"/>
+          </StreamPanner>
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="303" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="302"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="82"/>
+        <Automation>
+          <AutomationList id="83" default="0.548816263676" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="85"/>
+      <controllable name="mute" id="86"/>
+      <remote_control id="2"/>
+      <Insert type="ladspa" unique-id="1402" count="1">
+        <Redirect active="yes" placement="PostFader">
+          <IO name="Delayorama" id="236" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+            <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
+            <controllable name="gaincontrol" id="237"/>
+            <Automation>
+              <Automation/>
+            </Automation>
+          </IO>
+          <Automation visible=""/>
+        </Redirect>
+        <ladspa>
+          <port number="0" value="+0.000000"/>
+          <controllable name="Random seed" id="240"/>
+          <port number="1" value="+0.000000"/>
+          <controllable name="Input gain (dB)" id="242"/>
+          <port number="2" value="+18.041229"/>
+          <controllable name="Feedback (%)" id="244"/>
+          <port number="3" value="+2.000000"/>
+          <controllable name="Number of taps" id="246"/>
+          <port number="4" value="+0.077320"/>
+          <controllable name="First delay (s)" id="248"/>
+          <port number="5" value="+0.154737"/>
+          <controllable name="Delay range (s)" id="250"/>
+          <port number="6" value="+1.000000"/>
+          <controllable name="Delay change" id="252"/>
+          <port number="7" value="+0.000000"/>
+          <controllable name="Delay random (%)" id="254"/>
+          <port number="8" value="+1.000000"/>
+          <controllable name="Amplitude change" id="256"/>
+          <port number="9" value="+0.000000"/>
+          <controllable name="Amplitude random (%)" id="258"/>
+          <port number="10" value="+0.041237"/>
+          <controllable name="Dry/wet mix" id="260"/>
+        </ladspa>
+        <controls>
+          <controllable name="Random seed" id="240" parameter="0"/>
+          <controllable name="Input gain (dB)" id="242" parameter="1"/>
+          <controllable name="Feedback (%)" id="244" parameter="2"/>
+          <controllable name="Number of taps" id="246" parameter="3"/>
+          <controllable name="First delay (s)" id="248" parameter="4"/>
+          <controllable name="Delay range (s)" id="250" parameter="5"/>
+          <controllable name="Delay change" id="252" parameter="6"/>
+          <controllable name="Delay random (%)" id="254" parameter="7"/>
+          <controllable name="Amplitude change" id="256" parameter="8"/>
+          <controllable name="Amplitude random (%)" id="258" parameter="9"/>
+          <controllable name="Dry/wet mix" id="260" parameter="10"/>
+        </controls>
+        <PortAutomation>
+          <port number="0">
+            <AutomationList id="241" default="0" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="1">
+            <AutomationList id="243" default="0" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="2">
+            <AutomationList id="245" default="0" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="3">
+            <AutomationList id="247" default="2" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="4">
+            <AutomationList id="249" default="0" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="5">
+            <AutomationList id="251" default="6" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="6">
+            <AutomationList id="253" default="1" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="7">
+            <AutomationList id="255" default="0" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="8">
+            <AutomationList id="257" default="1" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="9">
+            <AutomationList id="259" default="0" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="10">
+            <AutomationList id="261" default="1" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+        </PortAutomation>
+      </Insert>
+      <Insert type="ladspa" unique-id="1216" count="1">
+        <Redirect active="yes" placement="PostFader">
+          <IO name="GVerb" id="294" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+            <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
+            <controllable name="gaincontrol" id="295"/>
+            <Automation>
+              <Automation/>
+            </Automation>
+          </IO>
+          <Automation visible=""/>
+        </Redirect>
+        <ladspa>
+          <port number="0" value="+75.750000"/>
+          <controllable name="Roomsize (m)" id="306"/>
+          <port number="1" value="+4.954895"/>
+          <controllable name="Reverb time (s)" id="308"/>
+          <port number="2" value="+0.500000"/>
+          <controllable name="Damping" id="310"/>
+          <port number="3" value="+0.750000"/>
+          <controllable name="Input bandwidth" id="312"/>
+          <port number="4" value="+0.000000"/>
+          <controllable name="Dry signal level (dB)" id="314"/>
+          <port number="5" value="-31.030922"/>
+          <controllable name="Early reflection level (dB)" id="316"/>
+          <port number="6" value="-44.561848"/>
+          <controllable name="Tail level (dB)" id="318"/>
+        </ladspa>
+        <controls>
+          <controllable name="Roomsize (m)" id="306" parameter="0"/>
+          <controllable name="Reverb time (s)" id="308" parameter="1"/>
+          <controllable name="Damping" id="310" parameter="2"/>
+          <controllable name="Input bandwidth" id="312" parameter="3"/>
+          <controllable name="Dry signal level (dB)" id="314" parameter="4"/>
+          <controllable name="Early reflection level (dB)" id="316" parameter="5"/>
+          <controllable name="Tail level (dB)" id="318" parameter="6"/>
+        </controls>
+        <PortAutomation>
+          <port number="0">
+            <AutomationList id="307" default="75.75" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="1">
+            <AutomationList id="309" default="7.57499980927" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="2">
+            <AutomationList id="311" default="0.5" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="3">
+            <AutomationList id="313" default="0.75" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="4">
+            <AutomationList id="315" default="-70" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="5">
+            <AutomationList id="317" default="0" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="6">
+            <AutomationList id="319" default="-17.5" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+        </PortAutomation>
+      </Insert>
+      <extra>
+        <GUI color="31444:522:40626" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
+        </GUI>
+      </extra>
+      <alignment style="ExistingMaterial"/>
+      <controllable name="recenable" id="9173"/>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=2:signal=2" mode="Normal" diskstream-id="126">
+      <IO name="change_dance_ruf_74da47" id="119" active="yes" inputs="{system:capture_2}{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="0.216339722276" iolimits="1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="no">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="131" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute">
+                <events>19702651 0.590601757944557
+</events>
+              </AutomationList>
+            </Automation>
+            <controllable name="panner" id="130"/>
+          </StreamPanner>
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="134" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="133"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="120"/>
+        <Automation>
+          <AutomationList id="121" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+            <events>0 0
+59950 0.216339722275734
+15281838 0.216339722275734
+15292526 0.852213263511658
+15405954 0.762152433395386
+15420817 0.25572744011879
+18560738 0.235488370060921
+19580852 0.0093188788741827
+19789617 0
+72736579 0
+81261356 0.139975279569626
+83533647 0.241401568055153
+83730167 0.186163932085037
+92289621 0.154417797923088
+92653990 0.203529417514801
+92745295 0.000744249613489956
+92836175 0
+</events>
+          </AutomationList>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="123"/>
+      <controllable name="mute" id="124"/>
+      <remote_control id="3"/>
+      <extra>
+        <GUI color="1788:26249:21797" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain height="68" shown="no"/>
+          <pan shown="no" height="68"/>
+        </GUI>
+      </extra>
+      <alignment style="ExistingMaterial"/>
+      <controllable name="recenable" id="9186"/>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=3:signal=3" mode="Normal" diskstream-id="340">
+      <IO name="ruf_real_3e8274" id="333" active="yes" inputs="{system:capture_2}{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="1.767538428307" iolimits="1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="no">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="345" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="344"/>
+          </StreamPanner>
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="348" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="347"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="334"/>
+        <Automation>
+          <AutomationList id="335" default="1.29527175426" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+            <events>1292178 1.76753842830658
+1884480 1.75122654438019
+1890738 2
+1912973 2
+1914139 1.58122146129608
+15009135 1.58737194538116
+71090651 1.15568399429321
+72202944 0.0879187732934952
+74006756 0
+74217692 1.17406634672079e-05
+74592144 0
+74688949 0
+74745749 0.00486931949853897
+74844440 0.0111329825595021
+75042812 0.020816383883357
+75141120 0.0243295021355152
+75185302 0.00486931903287768
+75431554 0.037655383348465
+76615680 0.222466006875038
+76743183 0.401869356632233
+77136015 1.21426725387573
+77513884 1.59540152549744
+77514552 1.36005318164825
+77515361 1.09554517269135
+77516264 0.891554415225983
+79721820 0.911184906959534
+79871949 0.419223755598068
+79995269 0.167121917009354
+80222603 0.0466630235314369
+81534416 0.0429763644933701
+81907067 0.0495832897722721
+82026889 0.0429763644933701
+82721225 0.0448649935424328
+</events>
+          </AutomationList>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="337"/>
+      <controllable name="mute" id="338"/>
+      <remote_control id="4"/>
+      <Insert type="ladspa" unique-id="1795" count="1">
+        <Redirect active="yes" placement="PostFader">
+          <IO name="C* Plate2x2 - Versatile plate reverb, stereo inputs" id="478" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+            <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
+            <controllable name="gaincontrol" id="479"/>
+            <Automation>
+              <Automation/>
+            </Automation>
+          </IO>
+          <extra>
+            <GUI>
+              <Port_2 shown_editor="no"/>
+              <Port_3 shown_editor="no"/>
+              <Port_4 shown_editor="no"/>
+              <Port_5 shown_editor="no"/>
+            </GUI>
+          </extra>
+          <Automation visible=""/>
+        </Redirect>
+        <ladspa>
+          <port number="2" value="+0.502000"/>
+          <controllable name="bandwidth" id="518"/>
+          <port number="3" value="+0.281840"/>
+          <controllable name="tail" id="519"/>
+          <port number="4" value="+0.250375"/>
+          <controllable name="damping" id="520"/>
+          <port number="5" value="+0.202941"/>
+          <controllable name="blend" id="521"/>
+        </ladspa>
+        <controls>
+          <controllable name="bandwidth" id="518" parameter="2"/>
+          <controllable name="tail" id="519" parameter="3"/>
+          <controllable name="damping" id="520" parameter="4"/>
+          <controllable name="blend" id="521" parameter="5"/>
+        </controls>
+        <PortAutomation>
+          <port number="2">
+            <AutomationList id="483" default="0.502000033855" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="3">
+            <AutomationList id="486" default="0.374500006437" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="4">
+            <AutomationList id="489" default="0.250375002623" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="5">
+            <AutomationList id="492" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+              <events>1326740 0.202941179275513
+1576350 0.177287578582764
+1624064 0.148148149251938
+1891852 0.137159833630422
+1900125 0.409150332212448
+1941504 0.0462962985038757
+2785280 0.0509259253740311
+2798929 0.0925925925925926
+2913617 0.101851851851852
+2927953 0.0601851851851852
+2952529 0.0833333333333334
+3095889 0.0925925925925926
+3108177 0.0509259253740311
+3202385 0.0509259259259259
+3222865 0
+3331409 0.0092592592592593
+3345745 0.0370370335876942
+12726910 0.0569303594529629
+14201740 0.115753889083862
+14837316 0.186342123056119
+15314466 0.280459770114942
+74296702 0.282352954149246
+74637480 0
+</events>
+            </AutomationList>
+          </port>
+        </PortAutomation>
+      </Insert>
+      <Insert type="ladspa" unique-id="1882" count="1">
+        <Redirect active="yes" placement="PostFader">
+          <IO name="SC4" id="7397" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+            <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
+            <controllable name="gaincontrol" id="7398"/>
+            <Automation>
+              <Automation/>
+            </Automation>
+          </IO>
+          <Automation visible=""/>
+        </Redirect>
+        <ladspa>
+          <port number="0" value="+0.000000"/>
+          <controllable name="RMS/peak" id="7401"/>
+          <port number="1" value="+25.122452"/>
+          <controllable name="Attack time (ms)" id="7403"/>
+          <port number="2" value="+248.804077"/>
+          <controllable name="Release time (ms)" id="7405"/>
+          <port number="3" value="-11.288665"/>
+          <controllable name="Threshold level (dB)" id="7407"/>
+          <port number="4" value="+4.427836"/>
+          <controllable name="Ratio (1:n)" id="7409"/>
+          <port number="5" value="+3.250000"/>
+          <controllable name="Knee radius (dB)" id="7411"/>
+          <port number="6" value="+0.865979"/>
+          <controllable name="Makeup gain (dB)" id="7413"/>
+        </ladspa>
+        <controls>
+          <controllable name="RMS/peak" id="7401" parameter="0"/>
+          <controllable name="Attack time (ms)" id="7403" parameter="1"/>
+          <controllable name="Release time (ms)" id="7405" parameter="2"/>
+          <controllable name="Threshold level (dB)" id="7407" parameter="3"/>
+          <controllable name="Ratio (1:n)" id="7409" parameter="4"/>
+          <controllable name="Knee radius (dB)" id="7411" parameter="5"/>
+          <controllable name="Makeup gain (dB)" id="7413" parameter="6"/>
+          <controllable name="Amplitude (dB)" id="7415" parameter="7"/>
+          <controllable name="Gain reduction (dB)" id="7416" parameter="8"/>
+        </controls>
+        <PortAutomation>
+          <port number="0">
+            <AutomationList id="7402" default="0" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="1">
+            <AutomationList id="7404" default="101.125" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="2">
+            <AutomationList id="7406" default="401" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="3">
+            <AutomationList id="7408" default="0" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="4">
+            <AutomationList id="7410" default="1" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="5">
+            <AutomationList id="7412" default="3.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="6">
+            <AutomationList id="7414" default="0" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+        </PortAutomation>
+      </Insert>
+      <extra>
+        <GUI color="20336:22846:22505" shown_mixer="yes" height="74" shown_editor="yes">
+          <gain shown="no" height="337"/>
+          <pan shown="no" height="68"/>
+          <Redirect-C__Plate2x2___Versatile_plate_reverb__stereo_inputs-2 height="68"/>
+          <Redirect-C__Plate2x2___Versatile_plate_reverb__stereo_inputs-3 height="68"/>
+          <Redirect-C__Plate2x2___Versatile_plate_reverb__stereo_inputs-4 height="68"/>
+          <Redirect-C__Plate2x2___Versatile_plate_reverb__stereo_inputs-5 height="85"/>
+        </GUI>
+      </extra>
+      <alignment style="ExistingMaterial"/>
+      <controllable name="recenable" id="9199"/>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=4:signal=4" mode="Normal" diskstream-id="5348">
+      <IO name="lounge3_merge" id="5341" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{AnnaiVIP/in 1}{ThisoneVIP/in 1}" gain="1.000000000000" iolimits="1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="yes">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0.34999999404" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="5353" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="5352"/>
+          </StreamPanner>
+          <StreamPanner x="0.637499988079" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="5356" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="5355"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="5342"/>
+        <Automation>
+          <AutomationList id="5343" default="1" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="5345"/>
+      <controllable name="mute" id="5346"/>
+      <remote_control id="5"/>
+      <Insert type="ladspa" unique-id="1904" count="2">
+        <Redirect active="yes" placement="PostFader">
+          <IO name="GLAME Butterworth Highpass" id="5984" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+            <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
+            <controllable name="gaincontrol" id="5985"/>
+            <Automation>
+              <Automation/>
+            </Automation>
+          </IO>
+          <extra>
+            <GUI>
+              <Port_0 shown_editor="yes"/>
+              <Port_1 shown_editor="no"/>
+            </GUI>
+          </extra>
+          <Automation visible=""/>
+        </Redirect>
+        <ladspa>
+          <port number="0" value="+4.410000"/>
+          <controllable name="Cutoff Frequency (Hz)" id="5989"/>
+          <port number="1" value="+0.755000"/>
+          <controllable name="Resonance" id="5991"/>
+        </ladspa>
+        <controls>
+          <controllable name="Cutoff Frequency (Hz)" id="5989" parameter="0"/>
+          <controllable name="Resonance" id="5991" parameter="1"/>
+        </controls>
+        <PortAutomation>
+          <port number="0">
+            <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+              <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93265130 163.287964100993
+93285610 323.292716136915
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+            </AutomationList>
+          </port>
+          <port number="1">
+            <AutomationList id="5992" default="0.754999995232" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+        </PortAutomation>
+      </Insert>
+      <extra>
+        <GUI color="19528:5732:44871" strip_width="Wide" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
+          <Redirect-GLAME_Butterworth_Highpass-0 height="248"/>
+          <Redirect-GLAME_Butterworth_Highpass-1 height="121"/>
+        </GUI>
+      </extra>
+      <alignment style="ExistingMaterial"/>
+      <controllable name="recenable" id="9212"/>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=5:signal=5" mode="Normal" diskstream-id="1187">
+      <IO name="concert2b_merge" id="1180" active="yes" inputs="{system:capture_1}{system:capture_2}{}" outputs="{AnnaiConcert/in 1}{ThisoneConcert/in 1}" gain="1.000000000000" iolimits="1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="yes">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="1192" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="1191"/>
+          </StreamPanner>
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="1195" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="1194"/>
+          </StreamPanner>
+          <StreamPanner x="0.5" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="1198" default="0.5" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="1197"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="1181"/>
+        <Automation>
+          <AutomationList id="1182" default="1" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="1184"/>
+      <controllable name="mute" id="1185"/>
+      <remote_control id="6"/>
+      <extra>
+        <GUI color="40280:25441:4286" strip_width="Wide" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
+        </GUI>
+      </extra>
+      <alignment style="ExistingMaterial"/>
+      <controllable name="recenable" id="9228"/>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=6:signal=6">
+      <IO name="AnnaiConcert" id="1230" active="yes" inputs="{concert2b_merge/out 1}" outputs="{master/in 1}{master/in 2}" gain="0.742822647095" iolimits="-1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="no">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0.324999988079" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="1281" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="1280"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="1231"/>
+        <Automation>
+          <AutomationList id="1232" default="0.742822647095" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="1234"/>
+      <controllable name="mute" id="1235"/>
+      <remote_control id="7"/>
+      <Insert type="ladspa" unique-id="4064" count="1">
+        <Redirect active="yes" placement="PostFader">
+          <IO name="guitarix_freeverb" id="1284" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+            <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
+            <controllable name="gaincontrol" id="1285"/>
+            <Automation>
+              <Automation/>
+            </Automation>
+          </IO>
+          <Automation visible=""/>
+        </Redirect>
+        <ladspa>
+          <port number="2" value="+0.500000"/>
+          <controllable name="roomsize" id="1288"/>
+          <port number="3" value="+0.500000"/>
+          <controllable name="damp" id="1290"/>
+          <port number="4" value="+0.182989"/>
+          <controllable name="drywet" id="1292"/>
+        </ladspa>
+        <controls>
+          <controllable name="roomsize" id="1288" parameter="2"/>
+          <controllable name="damp" id="1290" parameter="3"/>
+          <controllable name="drywet" id="1292" parameter="4"/>
+        </controls>
+        <PortAutomation>
+          <port number="2">
+            <AutomationList id="1289" default="0.5" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="3">
+            <AutomationList id="1291" default="0.5" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="4">
+            <AutomationList id="1293" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+        </PortAutomation>
+      </Insert>
+      <extra>
+        <GUI color="27582:34814:28545" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
+        </GUI>
+      </extra>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=7:signal=7">
+      <IO name="ThisoneConcert" id="1239" active="yes" inputs="{concert2b_merge/out 2}" outputs="{master/in 1}{master/in 2}" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="no">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0.587499976158" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="1247" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="1246"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="1240"/>
+        <Automation>
+          <AutomationList id="1241" default="1" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="1243"/>
+      <controllable name="mute" id="1244"/>
+      <remote_control id="8"/>
+      <Insert type="ladspa" unique-id="4064" count="1">
+        <Redirect active="yes" placement="PostFader">
+          <IO name="guitarix_freeverb" id="1296" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+            <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
+            <controllable name="gaincontrol" id="1297"/>
+            <Automation>
+              <Automation/>
+            </Automation>
+          </IO>
+          <Automation visible=""/>
+        </Redirect>
+        <ladspa>
+          <port number="2" value="+0.500000"/>
+          <controllable name="roomsize" id="1300"/>
+          <port number="3" value="+0.500000"/>
+          <controllable name="damp" id="1302"/>
+          <port number="4" value="+0.152062"/>
+          <controllable name="drywet" id="1304"/>
+        </ladspa>
+        <controls>
+          <controllable name="roomsize" id="1300" parameter="2"/>
+          <controllable name="damp" id="1302" parameter="3"/>
+          <controllable name="drywet" id="1304" parameter="4"/>
+        </controls>
+        <PortAutomation>
+          <port number="2">
+            <AutomationList id="1301" default="0.5" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="3">
+            <AutomationList id="1303" default="0.5" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="4">
+            <AutomationList id="1305" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+        </PortAutomation>
+      </Insert>
+      <extra>
+        <GUI color="41367:22364:3434" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
+        </GUI>
+      </extra>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=8:signal=8" mode="Normal" diskstream-id="3800">
+      <IO name="prisoner_ambient_7a814b" id="3793" active="yes" inputs="{system:capture_2}{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="0.042876366526" iolimits="1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="no">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0.0267025828362" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="3805" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
+                <events>19073182 0.0267025828361511
+38844612 0
+66995011 0.97497845441103
+</events>
+              </AutomationList>
+            </Automation>
+            <controllable name="panner" id="3804"/>
+          </StreamPanner>
+          <StreamPanner x="0.183644294739" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="3808" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
+                <events>19073182 0.18364429473877
+33589380 0.922413796186447
+40615588 0.999159482773393
+59975786 1
+73132240 0
+78497720 0
+</events>
+              </AutomationList>
+            </Automation>
+            <controllable name="panner" id="3807"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="3794"/>
+        <Automation>
+          <AutomationList id="3795" default="0.132362559438" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+            <events>18990198 0.0428763665258884
+19348081 0.0776875987648964
+22095704 0.0785388723015785
+22181492 0.0589976757764816
+31457888 0.065622054040432
+31641637 0.0304829943925142
+57844294 0.0397330410778522
+69842457 0.0505007393658161
+70209956 0.111663319170475
+73865881 0.103170409798622
+74654549 0.0139511963352561
+80144935 0.00575761357322335
+</events>
+          </AutomationList>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="3797"/>
+      <controllable name="mute" id="3798"/>
+      <remote_control id="9"/>
+      <Insert type="ladspa" unique-id="1903" count="2">
+        <Redirect active="yes" placement="PostFader">
+          <IO name="GLAME Butterworth Lowpass" id="3911" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+            <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
+            <controllable name="gaincontrol" id="3912"/>
+            <Automation>
+              <Automation/>
+            </Automation>
+          </IO>
+          <Automation visible=""/>
+        </Redirect>
+        <ladspa>
+          <port number="0" value="+1788.654907"/>
+          <controllable name="Cutoff Frequency (Hz)" id="3917"/>
+          <port number="1" value="+0.755000"/>
+          <controllable name="Resonance" id="3919"/>
+        </ladspa>
+        <controls>
+          <controllable name="Cutoff Frequency (Hz)" id="3917" parameter="0"/>
+          <controllable name="Resonance" id="3919" parameter="1"/>
+        </controls>
+        <PortAutomation>
+          <port number="0">
+            <AutomationList id="3918" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="1">
+            <AutomationList id="3920" default="0.754999995232" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+        </PortAutomation>
+      </Insert>
+      <Insert type="ladspa" unique-id="1795" count="1">
+        <Redirect active="yes" placement="PostFader">
+          <IO name="C* Plate2x2 - Versatile plate reverb, stereo inputs" id="3849" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+            <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
+            <controllable name="gaincontrol" id="3850"/>
+            <Automation>
+              <Automation/>
+            </Automation>
+          </IO>
+          <Automation visible=""/>
+        </Redirect>
+        <ladspa>
+          <port number="2" value="+0.502000"/>
+          <controllable name="bandwidth" id="3853"/>
+          <port number="3" value="+0.193041"/>
+          <controllable name="tail" id="3855"/>
+          <port number="4" value="+0.332808"/>
+          <controllable name="damping" id="3857"/>
+          <port number="5" value="+0.162371"/>
+          <controllable name="blend" id="3859"/>
+        </ladspa>
+        <controls>
+          <controllable name="bandwidth" id="3853" parameter="2"/>
+          <controllable name="tail" id="3855" parameter="3"/>
+          <controllable name="damping" id="3857" parameter="4"/>
+          <controllable name="blend" id="3859" parameter="5"/>
+        </controls>
+        <PortAutomation>
+          <port number="2">
+            <AutomationList id="3854" default="0.502000033855" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="3">
+            <AutomationList id="3856" default="0.374500006437" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="4">
+            <AutomationList id="3858" default="0.250375002623" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="5">
+            <AutomationList id="3860" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+        </PortAutomation>
+      </Insert>
+      <extra>
+        <GUI color="16829:10019:25503" shown_mixer="yes" height="82" shown_editor="yes">
+          <gain height="85" shown="no"/>
+          <pan shown="no" height="116"/>
+        </GUI>
+      </extra>
+      <alignment style="ExistingMaterial"/>
+      <controllable name="recenable" id="9259"/>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=9:signal=9" mode="Normal" diskstream-id="1559">
+      <IO name="vip2_merge" id="1552" active="yes" inputs="{system:capture_2}{system:capture_1}{}{}" outputs="{AnnaiVIP/in 1}{Dominatrix/in 1}{ThisoneVIP/in 1}{MorashonVIP/in 1}" gain="1.000000000000" iolimits="1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="yes">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <Output x="1" y="1"/>
+          <Output x="0" y="1"/>
+          <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+          <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+          <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+          <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+        </Panner>
+        <controllable name="gaincontrol" id="1553"/>
+        <Automation>
+          <AutomationList id="1554" default="1" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="1556"/>
+      <controllable name="mute" id="1557"/>
+      <remote_control id="10"/>
+      <extra>
+        <GUI color="13676:27739:25368" strip_width="Wide" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
+        </GUI>
+      </extra>
+      <alignment style="ExistingMaterial"/>
+      <controllable name="recenable" id="9278"/>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=10:signal=10">
+      <IO name="AnnaiVIP" id="1805" active="yes" inputs="{lounge3_merge/out 1,vip2_merge/out 1}" outputs="{master/in 1}{master/in 2}" gain="0.944349944592" iolimits="-1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="no">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="1998" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="1997"/>
+          </StreamPanner>
+          <StreamPanner x="0.18865442276" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="2001" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute">
+                <events>79566330 0.833523700742434
+79791523 0.436464905738831
+</events>
+              </AutomationList>
+            </Automation>
+            <controllable name="panner" id="2000"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="1806"/>
+        <Automation>
+          <AutomationList id="1807" default="0.944349944592" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="1809"/>
+      <controllable name="mute" id="1810"/>
+      <remote_control id="11"/>
+      <Insert type="ladspa" unique-id="1423" count="1">
+        <Redirect active="yes" placement="PostFader">
+          <IO name="Plate reverb" id="1992" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+            <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
+            <controllable name="gaincontrol" id="1993"/>
+            <Automation>
+              <Automation/>
+            </Automation>
+          </IO>
+          <Automation visible=""/>
+        </Redirect>
+        <ladspa>
+          <port number="0" value="+4.255000"/>
+          <controllable name="Reverb time" id="3941"/>
+          <port number="1" value="+0.250000"/>
+          <controllable name="Damping" id="3942"/>
+          <port number="2" value="+0.141753"/>
+          <controllable name="Dry/wet mix" id="3943"/>
+        </ladspa>
+        <controls>
+          <controllable name="Reverb time" id="3941" parameter="0"/>
+          <controllable name="Damping" id="3942" parameter="1"/>
+          <controllable name="Dry/wet mix" id="3943" parameter="2"/>
+        </controls>
+        <PortAutomation>
+          <port number="0">
+            <AutomationList id="2030" default="4.25500011444" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="1">
+            <AutomationList id="2031" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="2">
+            <AutomationList id="2032" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+        </PortAutomation>
+      </Insert>
+      <extra>
+        <GUI color="13317:6652:18492" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan height="68" shown="no"/>
+        </GUI>
+      </extra>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=11:signal=11">
+      <IO name="ThisoneVIP" id="1837" active="yes" inputs="{lounge3_merge/out 2,vip2_merge/out 3}" outputs="{master/in 1}{master/in 2}" gain="1.278405904770" iolimits="-1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="no">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0.21250000596" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="2011" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="2010"/>
+          </StreamPanner>
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="2014" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="2013"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="1838"/>
+        <Automation>
+          <AutomationList id="1839" default="1.27840590477" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="1841"/>
+      <controllable name="mute" id="1842"/>
+      <remote_control id="12"/>
+      <Insert type="ladspa" unique-id="1423" count="1">
+        <Redirect active="yes" placement="PostFader">
+          <IO name="Plate reverb" id="2005" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+            <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
+            <controllable name="gaincontrol" id="2006"/>
+            <Automation>
+              <Automation/>
+            </Automation>
+          </IO>
+          <Automation visible=""/>
+        </Redirect>
+        <ladspa>
+          <port number="0" value="+4.255000"/>
+          <controllable name="Reverb time" id="3935"/>
+          <port number="1" value="+0.250000"/>
+          <controllable name="Damping" id="3936"/>
+          <port number="2" value="+0.182990"/>
+          <controllable name="Dry/wet mix" id="3937"/>
+        </ladspa>
+        <controls>
+          <controllable name="Reverb time" id="3935" parameter="0"/>
+          <controllable name="Damping" id="3936" parameter="1"/>
+          <controllable name="Dry/wet mix" id="3937" parameter="2"/>
+        </controls>
+        <PortAutomation>
+          <port number="0">
+            <AutomationList id="2033" default="4.25500011444" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="1">
+            <AutomationList id="2034" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="2">
+            <AutomationList id="2035" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+        </PortAutomation>
+      </Insert>
+      <extra>
+        <GUI color="19528:5732:44871" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
+        </GUI>
+      </extra>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=12:signal=12">
+      <IO name="MorashonVIP" id="1828" active="yes" inputs="{vip2_merge/out 4}" outputs="{master/in 1}{master/in 2}" gain="1.212451338768" iolimits="-1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="no">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="2024" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="2023"/>
+          </StreamPanner>
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="2027" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="2026"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="1829"/>
+        <Automation>
+          <AutomationList id="1830" default="1.21245133877" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="1832"/>
+      <controllable name="mute" id="1833"/>
+      <remote_control id="13"/>
+      <Insert type="ladspa" unique-id="1423" count="1">
+        <Redirect active="yes" placement="PostFader">
+          <IO name="Plate reverb" id="2018" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+            <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
+            <controllable name="gaincontrol" id="2019"/>
+            <Automation>
+              <Automation/>
+            </Automation>
+          </IO>
+          <Automation visible=""/>
+        </Redirect>
+        <ladspa>
+          <port number="0" value="+4.255000"/>
+          <controllable name="Reverb time" id="3938"/>
+          <port number="1" value="+0.250000"/>
+          <controllable name="Damping" id="3939"/>
+          <port number="2" value="+0.208763"/>
+          <controllable name="Dry/wet mix" id="3940"/>
+        </ladspa>
+        <controls>
+          <controllable name="Reverb time" id="3938" parameter="0"/>
+          <controllable name="Damping" id="3939" parameter="1"/>
+          <controllable name="Dry/wet mix" id="3940" parameter="2"/>
+        </controls>
+        <PortAutomation>
+          <port number="0">
+            <AutomationList id="2036" default="4.25500011444" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="1">
+            <AutomationList id="2037" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="2">
+            <AutomationList id="2038" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+        </PortAutomation>
+      </Insert>
+      <extra>
+        <GUI color="12683:44624:38219" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
+        </GUI>
+      </extra>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=13:signal=13">
+      <IO name="Dominatrix" id="1873" active="yes" inputs="{vip2_merge/out 2}" outputs="{master/in 1}{master/in 2}" gain="1.148873329163" iolimits="-1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="no">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0.75" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="1881" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="1880"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="1874"/>
+        <Automation>
+          <AutomationList id="1875" default="1.14887332916" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="1877"/>
+      <controllable name="mute" id="1878"/>
+      <remote_control id="14"/>
+      <Insert type="ladspa" unique-id="4064" count="1">
+        <Redirect active="yes" placement="PostFader">
+          <IO name="guitarix_freeverb" id="1981" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
+            <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
+            <controllable name="gaincontrol" id="1982"/>
+            <Automation>
+              <Automation/>
+            </Automation>
+          </IO>
+          <Automation visible=""/>
+        </Redirect>
+        <ladspa>
+          <port number="2" value="+0.278351"/>
+          <controllable name="roomsize" id="1985"/>
+          <port number="3" value="+0.500000"/>
+          <controllable name="damp" id="1987"/>
+          <port number="4" value="+0.384020"/>
+          <controllable name="drywet" id="1989"/>
+        </ladspa>
+        <controls>
+          <controllable name="roomsize" id="1985" parameter="2"/>
+          <controllable name="damp" id="1987" parameter="3"/>
+          <controllable name="drywet" id="1989" parameter="4"/>
+        </controls>
+        <PortAutomation>
+          <port number="2">
+            <AutomationList id="1986" default="0.5" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="3">
+            <AutomationList id="1988" default="0.5" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+          <port number="4">
+            <AutomationList id="1990" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
+          </port>
+        </PortAutomation>
+      </Insert>
+      <extra>
+        <GUI color="9117:42761:28023" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
+        </GUI>
+      </extra>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=14:signal=14" mode="Normal" diskstream-id="4730">
+      <IO name="starlite_instr" id="4723" active="yes" inputs="{system:capture_2}{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="1.000000000000" iolimits="1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="no">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="4735" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="4734"/>
+          </StreamPanner>
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="4738" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="4737"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="4724"/>
+        <Automation>
+          <AutomationList id="4725" default="1" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="4727"/>
+      <controllable name="mute" id="4728"/>
+      <remote_control id="15"/>
+      <extra>
+        <GUI color="37237:45793:20235" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
+        </GUI>
+      </extra>
+      <alignment style="ExistingMaterial"/>
+      <controllable name="recenable" id="9336"/>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=15:signal=15" mode="Normal" diskstream-id="5173">
+      <IO name="ruf_starlite_893988" id="5166" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="1.000000000000" iolimits="1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="no">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="5178" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="5177"/>
+          </StreamPanner>
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="5181" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="5180"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="5167"/>
+        <Automation>
+          <AutomationList id="5168" default="1" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="5170"/>
+      <controllable name="mute" id="5171"/>
+      <remote_control id="16"/>
+      <extra>
+        <GUI color="24327:22505:20336" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
+        </GUI>
+      </extra>
+      <alignment style="ExistingMaterial"/>
+      <controllable name="recenable" id="9349"/>
+    </Route>
+    <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=16:signal=16" mode="Normal" diskstream-id="5667">
+      <IO name="starlite_theme_d4cba6" id="5660" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="1.000000000000" iolimits="1,-1,-1,-1">
+        <Panner linked="no" link_direction="SameDirection" bypassed="no">
+          <Output x="0" y="0"/>
+          <Output x="1" y="0"/>
+          <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="5672" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="5671"/>
+          </StreamPanner>
+          <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+            <Automation>
+              <AutomationList id="5675" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+            </Automation>
+            <controllable name="panner" id="5674"/>
+          </StreamPanner>
+        </Panner>
+        <controllable name="gaincontrol" id="5661"/>
+        <Automation>
+          <AutomationList id="5662" default="1" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+        </Automation>
+      </IO>
+      <controllable name="solo" id="5664"/>
+      <controllable name="mute" id="5665"/>
+      <remote_control id="17"/>
+      <extra>
+        <GUI color="5084:20336:24327" shown_mixer="yes" height="68" shown_editor="yes">
+          <gain shown="no" height="68"/>
+          <pan shown="no" height="68"/>
+        </GUI>
+      </extra>
+      <alignment style="ExistingMaterial"/>
+      <controllable name="recenable" id="9362"/>
+    </Route>
+  </Routes>
+  <EditGroups/>
+  <MixGroups/>
+  <Playlists>
+    <Playlist name="change_dance_ruf_74da47" orig_diskstream_id="126" frozen="no">
+      <Region id="406" name="change_dance_ruf_74da47.4" start="8429856" length="1292377" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="8429856" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External,SyncMarked" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="412" name="change_dance_ruf_74da47.5" start="9722233" length="22598" position="1292377" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="9722233" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="430" name="change_dance_ruf_74da47.5" start="9722233" length="22598" position="1315317" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="9722233" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="460" name="change_dance_ruf_74da47.5" start="9722233" length="22598" position="1337268" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="9722233" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="1071" name="lair_bass_hit" start="0" length="59304" position="15308202" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="1018" source-1="1020" channels="2" master-source-0="1018" master-source-1="1020">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="1388" name="change_dance_ruf_74da47.6" start="362190" length="845903" position="15541327" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="1473" name="change_dance_ruf_74da47.7" start="530126" length="677967" position="16367682" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="6" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="1499" name="change_dance_ruf_74da47.8" start="362190" length="843855" position="17045808" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="7" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="1615" name="change_dance_ruf_74da47.9" start="448347" length="757698" position="17886534" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="8" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,External" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="1697" name="change_dance_ruf_74da47.10" start="827958" length="378087" position="18641266" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="9" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,External" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="1787" name="change_dance_ruf_74da47.10" start="827958" length="378087" position="19018453" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="10" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="4062" name="change_dance_ruf_74da47.10" start="827958" length="378087" position="19398376" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="11" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="110" source-1="112" channels="2" master-source-0="110" master-source-1="112">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="5841" name="starlite_theme_d4cba6.1" start="0" length="9749209" position="81858202" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="12" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="5651" source-1="5653" channels="2" master-source-0="5651" master-source-1="5653">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="5864" name="starlite_theme_d4cba6.4" start="17714865" length="2554871" position="91507010" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="13" sync-position="17766918" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="5651" source-1="5653" channels="2" master-source-0="5651" master-source-1="5653">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Crossfade out="430" in="460" active="yes" follow-overlap="yes" fixed="no" length="647" anchor-point="0" position="1337268">
+        <FadeIn>
+          <point x="0" y="0"/>
+          <point x="107" y="0.282191991806"/>
+          <point x="215" y="0.518173992634"/>
+          <point x="323" y="0.707946002483"/>
+          <point x="431" y="0.851507008076"/>
+          <point x="539" y="0.948858976364"/>
+          <point x="647" y="1"/>
+        </FadeIn>
+        <FadeOut>
+          <point x="0" y="1"/>
+          <point x="107" y="0.948858976364"/>
+          <point x="215" y="0.851507008076"/>
+          <point x="323" y="0.707946002483"/>
+          <point x="431" y="0.518173992634"/>
+          <point x="539" y="0.282191991806"/>
+          <point x="647" y="0"/>
+        </FadeOut>
+      </Crossfade>
+      <Crossfade out="1388" in="1473" active="yes" follow-overlap="yes" fixed="no" length="19548" anchor-point="0" position="16367682">
+        <FadeIn>
+          <point x="0" y="0"/>
+          <point x="3258" y="0.282191991806"/>
+          <point x="6515" y="0.518173992634"/>
+          <point x="9774" y="0.707946002483"/>
+          <point x="13032" y="0.851507008076"/>
+          <point x="16289" y="0.948858976364"/>
+          <point x="19548" y="1"/>
+        </FadeIn>
+        <FadeOut>
+          <point x="0" y="1"/>
+          <point x="3258" y="0.948858976364"/>
+          <point x="6515" y="0.851507008076"/>
+          <point x="9774" y="0.707946002483"/>
+          <point x="13032" y="0.518173992634"/>
+          <point x="16289" y="0.282191991806"/>
+          <point x="19548" y="0"/>
+        </FadeOut>
+      </Crossfade>
+      <Crossfade out="1499" in="1615" active="yes" follow-overlap="yes" fixed="no" length="3129" anchor-point="0" position="17886534">
+        <FadeIn>
+          <point x="0" y="0"/>
+          <point x="521" y="0.282191991806"/>
+          <point x="1042" y="0.518173992634"/>
+          <point x="1564" y="0.707946002483"/>
+          <point x="2086" y="0.851507008076"/>
+          <point x="2607" y="0.948858976364"/>
+          <point x="3129" y="1"/>
+        </FadeIn>
+        <FadeOut>
+          <point x="0" y="1"/>
+          <point x="521" y="0.948858976364"/>
+          <point x="1042" y="0.851507008076"/>
+          <point x="1564" y="0.707946002483"/>
+          <point x="2086" y="0.518173992634"/>
+          <point x="2607" y="0.282191991806"/>
+          <point x="3129" y="0"/>
+        </FadeOut>
+      </Crossfade>
+      <Crossfade out="1615" in="1697" active="yes" follow-overlap="yes" fixed="no" length="2966" anchor-point="0" position="18641266">
+        <FadeIn>
+          <point x="0" y="0"/>
+          <point x="494" y="0.282191991806"/>
+          <point x="988" y="0.518173992634"/>
+          <point x="1483" y="0.707946002483"/>
+          <point x="1977" y="0.851507008076"/>
+          <point x="2471" y="0.948858976364"/>
+          <point x="2966" y="1"/>
+        </FadeIn>
+        <FadeOut>
+          <point x="0" y="1"/>
+          <point x="494" y="0.948858976364"/>
+          <point x="988" y="0.851507008076"/>
+          <point x="1483" y="0.707946002483"/>
+          <point x="1977" y="0.518173992634"/>
+          <point x="2471" y="0.282191991806"/>
+          <point x="2966" y="0"/>
+        </FadeOut>
+      </Crossfade>
+      <Crossfade out="1697" in="1787" active="yes" follow-overlap="yes" fixed="no" length="900" anchor-point="0" position="19018453">
+        <FadeIn>
+          <point x="0" y="0"/>
+          <point x="150" y="0.282191991806"/>
+          <point x="299" y="0.518173992634"/>
+          <point x="450" y="0.707946002483"/>
+          <point x="600" y="0.851507008076"/>
+          <point x="749" y="0.948858976364"/>
+          <point x="900" y="1"/>
+        </FadeIn>
+        <FadeOut>
+          <point x="0" y="1"/>
+          <point x="150" y="0.948858976364"/>
+          <point x="299" y="0.851507008076"/>
+          <point x="450" y="0.707946002483"/>
+          <point x="600" y="0.518173992634"/>
+          <point x="749" y="0.282191991806"/>
+          <point x="900" y="0"/>
+        </FadeOut>
+      </Crossfade>
+      <Crossfade out="5841" in="5864" active="yes" follow-overlap="yes" fixed="no" length="100401" anchor-point="0" position="91507010">
+        <FadeIn>
+          <point x="0" y="0"/>
+          <point x="16733" y="0.282191991806"/>
+          <point x="33466" y="0.518173992634"/>
+          <point x="50200" y="0.707946002483"/>
+          <point x="66934" y="0.851507008076"/>
+          <point x="83667" y="0.948858976364"/>
+          <point x="100400" y="1"/>
+        </FadeIn>
+        <FadeOut>
+          <point x="0" y="1"/>
+          <point x="16733" y="0.948858976364"/>
+          <point x="33466" y="0.851507008076"/>
+          <point x="50200" y="0.707946002483"/>
+          <point x="66934" y="0.518173992634"/>
+          <point x="83667" y="0.282191991806"/>
+          <point x="100400" y="0"/>
+        </FadeOut>
+      </Crossfade>
+    </Playlist>
+    <Playlist name="lounge3_merge" orig_diskstream_id="5348" frozen="no">
+      <Region id="5818" name="lounge3_merge.1" start="0" length="6730585" position="79975774" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="10304" name="lounge3_merge.19" start="6730585" length="3074722" position="86916917" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="6730585" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="10310" name="lounge3_merge.20" start="9805307" length="197454" position="89996702" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="8" sync-position="9805307" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="10253" name="lounge3_merge.16" start="10002761" length="91647" position="90204281" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="9" sync-position="10002761" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="10144" name="lounge3_merge.12" start="10094408" length="127839" position="90307136" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="10" sync-position="10094408" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="10083" name="lounge3_merge.7" start="10222247" length="89307" position="90446367" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="10222247" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="10103" name="lounge3_merge.9" start="10356274" length="34316" position="90533913" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="10353884" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="10159" name="lounge3_merge.13" start="10390590" length="53160" position="90557936" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="6" sync-position="10390590" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="10275" name="lounge3_merge.17" start="10443750" length="39990" position="90619956" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="7" sync-position="10443750" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="10281" name="lounge3_merge.18" start="10483740" length="1871081" position="90670072" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="10483740" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="5929" name="lounge3_merge.4" start="12354821" length="606088" position="92792741" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="12354821" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="5332" source-1="5334" channels="2" master-source-0="5332" master-source-1="5334">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Crossfade out="10083" in="10103" active="yes" follow-overlap="yes" fixed="no" length="1761" anchor-point="0" position="90533913">
+        <FadeIn>
+          <point x="0" y="0"/>
+          <point x="293" y="0.282192"/>
+          <point x="586" y="0.518174"/>
+          <point x="880" y="0.707946"/>
+          <point x="1174" y="0.851507"/>
+          <point x="1467" y="0.948859"/>
+          <point x="1761" y="1"/>
+        </FadeIn>
+        <FadeOut>
+          <point x="0" y="1"/>
+          <point x="293" y="0.948859"/>
+          <point x="586" y="0.851507"/>
+          <point x="880" y="0.707946"/>
+          <point x="1174" y="0.518174"/>
+          <point x="1467" y="0.282192"/>
+          <point x="1761" y="0"/>
+        </FadeOut>
+      </Crossfade>
+      <Crossfade out="10103" in="10159" active="yes" follow-overlap="yes" fixed="no" length="10293" anchor-point="0" position="90557936">
+        <FadeIn>
+          <point x="0" y="0"/>
+          <point x="1715" y="0.282192"/>
+          <point x="3430" y="0.518174"/>
+          <point x="5146" y="0.707946"/>
+          <point x="6862" y="0.851507"/>
+          <point x="8577" y="0.948859"/>
+          <point x="10293" y="1"/>
+        </FadeIn>
+        <FadeOut>
+          <point x="0" y="1"/>
+          <point x="1715" y="0.948859"/>
+          <point x="3430" y="0.851507"/>
+          <point x="5146" y="0.707946"/>
+          <point x="6862" y="0.518174"/>
+          <point x="8577" y="0.282192"/>
+          <point x="10293" y="0"/>
+        </FadeOut>
+      </Crossfade>
+    </Playlist>
+    <Playlist name="vip2_merge" orig_diskstream_id="1559" frozen="no">
+      <Region id="1949" name="vip2_merge.7" start="0" length="629778" position="17919369" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="4204" name="vip2_merge.7" start="629778" length="466074" position="18557154" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="629778" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="4251" name="vip2_merge.9" start="1095852" length="5120729" position="19179386" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="1095852" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="4257" name="vip2_merge.10" start="6216581" length="127357" position="24336565" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="6216581" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="4296" name="vip2_merge.11" start="6279752" length="117111" position="24491182" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="6279752" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="9979" name="vip2_merge.25" start="6396863" length="30860237" position="24648058" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="8" sync-position="6396863" flags="Opaque,DefaultFadeIn,DefaultFadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="10002" name="vip2_merge.27" start="37257100" length="188595" position="55515890" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="11" sync-position="37257100" flags="Opaque,DefaultFadeIn,DefaultFadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="10008" name="vip2_merge.28" start="37445695" length="121578" position="55713344" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="9" sync-position="37445695" flags="Opaque,DefaultFadeIn,DefaultFadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="9912" name="vip2_merge.22" start="37612236" length="64241" position="55832700" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="10" sync-position="37589996" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="9958" name="vip2_merge.23" start="37676477" length="151289" position="55907708" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="12" sync-position="37676477" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="10045" name="vip2_merge.29" start="37827766" length="103970" position="56073898" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="13" sync-position="37827766" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="10051" name="vip2_merge.30" start="37931736" length="13806876" position="56182931" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="37931736" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="4687" name="vip2_merge.17" start="51738612" length="6672317" position="70041860" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="6" sync-position="51738612" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="4693" name="vip2_merge.18" start="58410929" length="66152" position="76760569" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="7" sync-position="58410929" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Crossfade out="10008" in="9912" active="yes" follow-overlap="yes" fixed="no" length="2222" anchor-point="0" position="55832700">
+        <FadeIn>
+          <point x="0" y="0"/>
+          <point x="370" y="0.282192"/>
+          <point x="740" y="0.518174"/>
+          <point x="1111" y="0.707946"/>
+          <point x="1481" y="0.851507"/>
+          <point x="1851" y="0.948859"/>
+          <point x="2222" y="1"/>
+        </FadeIn>
+        <FadeOut>
+          <point x="0" y="1"/>
+          <point x="370" y="0.948859"/>
+          <point x="740" y="0.851507"/>
+          <point x="1111" y="0.707946"/>
+          <point x="1481" y="0.518174"/>
+          <point x="1851" y="0.282192"/>
+          <point x="2222" y="0"/>
+        </FadeOut>
+      </Crossfade>
+    </Playlist>
+    <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
+      <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9562174" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="4550" name="prisoner_ambient_7a814b.6" start="41282672" length="2395704" position="69921873" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="4814" name="prisoner_ambient_7a814b.5" start="41282672" length="2522680" position="72315237" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
+        <FadeIn>
+          <point x="0" y="0"/>
+          <point x="522" y="0.282191991806"/>
+          <point x="1044" y="0.518173992634"/>
+          <point x="1567" y="0.707946002483"/>
+          <point x="2089" y="0.851507008076"/>
+          <point x="2611" y="0.948858976364"/>
+          <point x="3134" y="1"/>
+        </FadeIn>
+        <FadeOut>
+          <point x="0" y="1"/>
+          <point x="522" y="0.948858976364"/>
+          <point x="1044" y="0.851507008076"/>
+          <point x="1567" y="0.707946002483"/>
+          <point x="2089" y="0.518173992634"/>
+          <point x="2611" y="0.282191991806"/>
+          <point x="3134" y="0"/>
+        </FadeOut>
+      </Crossfade>
+      <Crossfade out="4544" in="4550" active="yes" follow-overlap="yes" fixed="no" length="2162" anchor-point="0" position="69921873">
+        <FadeIn>
+          <point x="0" y="0"/>
+          <point x="360" y="0.282191991806"/>
+          <point x="720" y="0.518173992634"/>
+          <point x="1081" y="0.707946002483"/>
+          <point x="1441" y="0.851507008076"/>
+          <point x="1801" y="0.948858976364"/>
+          <point x="2162" y="1"/>
+        </FadeIn>
+        <FadeOut>
+          <point x="0" y="1"/>
+          <point x="360" y="0.948858976364"/>
+          <point x="720" y="0.851507008076"/>
+          <point x="1081" y="0.707946002483"/>
+          <point x="1441" y="0.518173992634"/>
+          <point x="1801" y="0.282191991806"/>
+          <point x="2162" y="0"/>
+        </FadeOut>
+      </Crossfade>
+      <Crossfade out="4550" in="4814" active="yes" follow-overlap="yes" fixed="no" length="2340" anchor-point="0" position="72315237">
+        <FadeIn>
+          <point x="0" y="0"/>
+          <point x="390" y="0.282191991806"/>
+          <point x="779" y="0.518173992634"/>
+          <point x="1170" y="0.707946002483"/>
+          <point x="1560" y="0.851507008076"/>
+          <point x="1949" y="0.948858976364"/>
+          <point x="2340" y="1"/>
+        </FadeIn>
+        <FadeOut>
+          <point x="0" y="1"/>
+          <point x="390" y="0.948858976364"/>
+          <point x="779" y="0.851507008076"/>
+          <point x="1170" y="0.707946002483"/>
+          <point x="1560" y="0.518173992634"/>
+          <point x="1949" y="0.282191991806"/>
+          <point x="2340" y="0"/>
+        </FadeOut>
+      </Crossfade>
+    </Playlist>
+    <Playlist name="concert2b_merge" orig_diskstream_id="1187" frozen="no">
+      <Region id="1511" name="concert2b_merge.2" start="679315" length="1391382" position="16167539" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="679315" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1169" source-1="1171" source-2="1173" channels="3" master-source-0="1169" master-source-1="1171" master-source-2="1173">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="1517" name="concert2b_merge.3" start="2070697" length="168870" position="17610121" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="2070697" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1169" source-1="1171" source-2="1173" channels="3" master-source-0="1169" master-source-1="1171" master-source-2="1173">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+    </Playlist>
+    <Playlist name="concert2a" orig_diskstream_id="88" frozen="no">
+      <Region id="101" name="concert2a" start="0" length="1183615" position="84221" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="74" channels="1" master-source-0="74">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="1122" name="concert2b.2" start="0" length="37352" position="15366498" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="970" channels="1" master-source-0="970">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="1308" name="concert2b.4" start="37352" length="32435" position="15436703" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="37352" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="970" channels="1" master-source-0="970">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="1368" name="concert2b.8" start="69787" length="410128" position="15481655" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="69787" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="970" channels="1" master-source-0="970">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="1374" name="concert2b.9" start="479915" length="75802" position="15911339" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="479915" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="970" channels="1" master-source-0="970">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="1349" name="concert2b.7" start="555717" length="125721" position="16009045" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="555717" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="970" channels="1" master-source-0="970">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+    </Playlist>
+    <Playlist name="ruf_real_3e8274" orig_diskstream_id="340" frozen="no">
+      <Region id="359" name="ruf_real_3e8274" start="0" length="14059154" position="1287200" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="324" source-1="326" channels="2" master-source-0="324" master-source-1="326">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="yes"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="4884" name="starlite_instr.2" start="7134450" length="3235526" position="74281409" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="4714" source-1="4716" channels="2" master-source-0="4714" master-source-1="4716">
+        <FadeIn default="yes" active="yes"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Region id="5231" name="ruf_starlite_893988.3" start="9750773" length="5068638" position="77514163" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="9318886" flags="Opaque,DefaultFadeIn,DefaultFadeOut,External" scale-gain="1" source-0="5157" source-1="5159" channels="2" master-source-0="5157" master-source-1="5159">
+        <FadeIn default="yes" active="no"/>
+        <FadeOut default="yes" active="no"/>
+        <Envelope default="yes"/>
+        <extra>
+          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+        </extra>
+      </Region>
+      <Crossfade out="4884" in="5231" active="yes" follow-overlap="yes" fixed="no" length="2772" anchor-point="0" position="77514163">
+        <FadeIn>
+          <point x="0" y="0"/>
+          <point x="462" y="0.282191991806"/>
+          <point x="923" y="0.518173992634"/>
+          <point x="1386" y="0.707946002483"/>
+          <point x="1848" y="0.851507008076"/>
+          <point x="2309" y="0.948858976364"/>
+          <point x="2772" y="1"/>
+        </FadeIn>
+        <FadeOut>
+          <point x="0" y="1"/>
+          <point x="462" y="0.948858976364"/>
+          <point x="923" y="0.851507008076"/>
+          <point x="1386" y="0.707946002483"/>
+          <point x="1848" y="0.518173992634"/>
+          <point x="2309" y="0.282191991806"/>
+          <point x="2772" y="0"/>
+        </FadeOut>
+      </Crossfade>
+    </Playlist>
+  </Playlists>
+  <UnusedPlaylists/>
+  <Click>
+    <IO name="click" id="24" active="yes" inputs="" outputs="{system:playback_1}{system:playback_2}" gain="1.000000000000" iolimits="0,0,-1,-1">
+      <Panner linked="no" link_direction="SameDirection" bypassed="no">
+        <Output x="0" y="0"/>
+        <Output x="1" y="0"/>
+        <StreamPanner x="0.5" type="Equal Power Stereo" muted="no">
+          <Automation>
+            <AutomationList id="47" default="0.5" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+          </Automation>
+          <controllable name="panner" id="46"/>
+        </StreamPanner>
+      </Panner>
+      <controllable name="gaincontrol" id="25"/>
+      <Automation>
+        <AutomationList id="26" default="1" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+      </Automation>
+    </IO>
+  </Click>
+  <NamedSelections/>
+  <TempoMap>
+    <Tempo start="1|1|0" beats-per-minute="120.000000" note-type="4.000000" movable="no"/>
+    <Meter start="1|1|0" note-type="4.000000" beats-per-bar="4.000000" movable="no"/>
+  </TempoMap>
+  <ControlProtocols>
+    <Protocol name="Generic MIDI" active="no"/>
+    <Protocol name="Mackie" active="no"/>
+  </ControlProtocols>
+  <extra>
+    <ClockModes primary="SMPTE" secondary="MinSec" preroll="MinSec" postroll="MinSec" bigclock="SMPTE" editpoint="BBT" zoomrange="SMPTE" nudge="SMPTE"/>
+  </extra>
+</Session>
