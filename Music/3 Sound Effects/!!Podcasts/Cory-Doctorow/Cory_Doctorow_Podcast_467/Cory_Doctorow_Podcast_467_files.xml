@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory_Doctorow_Podcast_467_-_No_One_Is_the_Enshittifier_of_Their_Own_Story .mp3" source="original">
+    <mtime>1716154472</mtime>
+    <size>22763520</size>
+    <md5>495a8222ecc104024846ca690af5911e</md5>
+    <crc32>927e068f</crc32>
+    <sha1>8682c5e562b608775fee7dad5090ac089c7e08cb</sha1>
+    <format>VBR MP3</format>
+    <length>939.6</length>
+    <title>No One Is the Enshittifier of Their Own Story</title>
+    <creator>Cory Doctorow</creator>
+    <album>The Cory Doctorow Podcast</album>
+    <track>01</track>
+    <artist>Cory Doctorow</artist>
+    <genre>Podcast</genre>
+    <comment>https://creativecommons.org/licenses/by-nc-sa/3.0/</comment>
+  </file>
+  <file name="Cory_Doctorow_Podcast_467_-_No_One_Is_the_Enshittifier_of_Their_Own_Story .png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_467_-_No_One_Is_the_Enshittifier_of_Their_Own_Story .mp3</original>
+    <mtime>1716154931</mtime>
+    <size>45015</size>
+    <md5>1602ed472e45f93f6accbafbc808f30a</md5>
+    <crc32>63f9e235</crc32>
+    <sha1>314a744b38db49f005ee8535278e205c269c2c6d</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_467_-_No_One_Is_the_Enshittifier_of_Their_Own_Story _spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Cory_Doctorow_Podcast_467_-_No_One_Is_the_Enshittifier_of_Their_Own_Story .mp3</original>
+    <mtime>1716156519</mtime>
+    <size>306669</size>
+    <md5>f17291609ef08d52cd4d7f2528e0eea6</md5>
+    <crc32>858e9d97</crc32>
+    <sha1>7b97b2da9f0aeec02032c19eac98537032852015</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_467_archive.torrent" source="metadata">
+    <btih>46565110c14f29d87fd7257cc11146022682d19e</btih>
+    <mtime>1716200037</mtime>
+    <size>3719</size>
+    <md5>48e5ff3ccc820ca6c7befb396d7a9d6e</md5>
+    <crc32>8dacf170</crc32>
+    <sha1>711f2422f9fb329d913774e0d88b78f528874743</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_467_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6970c4f9ba9faba9f80bf57dd36371cd</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Cory_Doctorow_Podcast_467_meta.sqlite" source="original">
+    <mtime>1716154493</mtime>
+    <size>28672</size>
+    <md5>ab6f8775ff5838ad1aa3fbbc68b449db</md5>
+    <crc32>66a66342</crc32>
+    <sha1>4e8d82211f91d1a26603656b32f92bd948196be0</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_467_meta.xml" source="original">
+    <mtime>1716200033</mtime>
+    <size>2407</size>
+    <md5>cbd18456e0af990d8b8b0c26b9fa5706</md5>
+    <crc32>fa225dc1</crc32>
+    <sha1>6d5a4ada18284e40fd316fdd368899e7b33f9f31</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1716154499</mtime>
+    <size>21233</size>
+    <md5>f96257952c1660e8f363b6460f724af4</md5>
+    <crc32>e3608302</crc32>
+    <sha1>498b10ccfd2767be36483ef11c9195eff9a028ca</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="google-enshittifier.jpg" source="original">
+    <mtime>1716154484</mtime>
+    <size>212074</size>
+    <md5>4f1d4349dc7fdca42cc92f7f0f6196d2</md5>
+    <crc32>ed6338d5</crc32>
+    <sha1>335e7fd6041b127b991b57b444a047ad314c9eb8</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="google-enshittifier_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>google-enshittifier.jpg</original>
+    <mtime>1716154683</mtime>
+    <size>11551</size>
+    <md5>7daf95359a1f2bdbbd7c333ef3856bb0</md5>
+    <crc32>6125af3a</crc32>
+    <sha1>3f93b9c284d58026bca273c26c20ce57e158f146</sha1>
+  </file>
+</files>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory_Doctorow_Podcast_456_-_Dont_Be_Evil.mp3" source="original">
+    <mtime>1701626131</mtime>
+    <size>21139456</size>
+    <md5>7decbdd9dd70867348740d836ab1832c</md5>
+    <crc32>d1f04922</crc32>
+    <sha1>ab22ebb0a63e6872e271c602a66978025af756ed</sha1>
+    <format>VBR MP3</format>
+    <length>870.24</length>
+    <title>Don't Be Evil</title>
+    <creator>Cory Doctorow</creator>
+    <album>The Cory Doctorow Podcast</album>
+    <track>01</track>
+    <artist>Cory Doctorow</artist>
+    <genre>Podcast</genre>
+    <comment>000005EF 000005EE 0000775C 0000742A 000CCE43 000C764E 00007BA7 00007BA7 00002F8D 00002E39</comment>
+  </file>
+  <file name="Cory_Doctorow_Podcast_456_-_Dont_Be_Evil.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_456_-_Dont_Be_Evil.mp3</original>
+    <mtime>1701626503</mtime>
+    <size>42897</size>
+    <md5>4bee817e8b63bf0a327a40015f5cf352</md5>
+    <crc32>b3775e0f</crc32>
+    <sha1>128af38d352d0f00c09a68631ba513f9b8c0f2b3</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_456_-_Dont_Be_Evil_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Cory_Doctorow_Podcast_456_-_Dont_Be_Evil.mp3</original>
+    <mtime>1701626651</mtime>
+    <size>306903</size>
+    <md5>aacfa14b8ffe8556c4e702e7bedb8c47</md5>
+    <crc32>39e3a002</crc32>
+    <sha1>2950fa32b976327c69a10b83cfc303e121051264</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_456_archive.torrent" source="metadata">
+    <btih>ec4c7ff2f9670903e06379da23ae7c0c26ed4c7b</btih>
+    <mtime>1701692656</mtime>
+    <size>3543</size>
+    <md5>1340f82a773a4436e55c20533be09439</md5>
+    <crc32>eb83a824</crc32>
+    <sha1>562891b4f66c36096842bbd39922f17d7f68da6f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_456_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e844b159f4e9fbcf8524fc06a3160090</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Cory_Doctorow_Podcast_456_meta.sqlite" source="original">
+    <mtime>1701626261</mtime>
+    <size>36864</size>
+    <md5>32b9e014dcfb8bfa80cc27cae2019c60</md5>
+    <crc32>78204bc0</crc32>
+    <sha1>7653e274a66316bbcadcaeaba08666f8385d0ecf</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_456_meta.xml" source="original">
+    <mtime>1701692654</mtime>
+    <size>2683</size>
+    <md5>8edaed84046d3e07e4be3430508822dd</md5>
+    <crc32>720530c2</crc32>
+    <sha1>a7925d05f612a2fa53b1a80cec119ad8bf433e92</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1701626267</mtime>
+    <size>22389</size>
+    <md5>c4f021ca854eaca45454e2cd9683f921</md5>
+    <crc32>e6397bef</crc32>
+    <sha1>c82e2fd88959f64730158a49a5d131e9f68b664b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="dont-be-evil.jpg" source="original">
+    <mtime>1701626146</mtime>
+    <size>251292</size>
+    <md5>aa4a07b3bfbbae25e125ecf2b63e56cc</md5>
+    <crc32>bb82c526</crc32>
+    <sha1>2309cd1baec7aa3053391a5703f44498be868311</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="dont-be-evil_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>dont-be-evil.jpg</original>
+    <mtime>1701626470</mtime>
+    <size>11346</size>
+    <md5>af6ad3f10465b3c997df14cc088a0f2e</md5>
+    <crc32>d0df02cb</crc32>
+    <sha1>0e333c22bc45aa119a8510f8d0ffc48cce95e2e7</sha1>
+  </file>
+</files>

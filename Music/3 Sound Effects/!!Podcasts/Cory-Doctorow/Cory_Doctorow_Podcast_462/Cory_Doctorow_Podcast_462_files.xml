@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory_Doctorow_Podcast_462_-_How_I_Got_Scammed.mp3" source="original">
+    <mtime>1708268894</mtime>
+    <size>31248384</size>
+    <md5>a8155c8aaca2877eb86f6b8fc4dd76a1</md5>
+    <crc32>f8eb1bf9</crc32>
+    <sha1>5563245dc6081acf7b3b8a06a13fe026407b8d03</sha1>
+    <format>VBR MP3</format>
+    <length>1298.23</length>
+    <title>How I Got Scammed</title>
+    <creator>Cory Doctorow</creator>
+    <album>The Cory Doctorow Podcast</album>
+    <track>01</track>
+    <artist>Cory Doctorow</artist>
+    <genre>Podcast</genre>
+    <comment>Image: Cryteria (modified) https://commons.wikimedia.org/wiki/File:HAL9000.svg | CC BY 3.0 https://creativecommons.org/licenses/by/3.0/deed.en</comment>
+  </file>
+  <file name="Cory_Doctorow_Podcast_462_-_How_I_Got_Scammed.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_462_-_How_I_Got_Scammed.mp3</original>
+    <mtime>1708268952</mtime>
+    <size>42546</size>
+    <md5>e196c911f02a1a8536c52027b47ad851</md5>
+    <crc32>128c5ca3</crc32>
+    <sha1>925798299032e35ae5061c76d398159dfc52ea60</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_462_-_How_I_Got_Scammed_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Cory_Doctorow_Podcast_462_-_How_I_Got_Scammed.mp3</original>
+    <mtime>1708268972</mtime>
+    <size>304660</size>
+    <md5>794bb9732debcedc85beeb0c7eae3e9b</md5>
+    <crc32>c853b6cd</crc32>
+    <sha1>0149562ab69f4a5948ea250de792147fa9d8a494</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_462_archive.torrent" source="metadata">
+    <btih>ffa453065c86a4e2ff3779201858a2b6cde2571e</btih>
+    <mtime>1708341259</mtime>
+    <size>3953</size>
+    <md5>c6c8d2c420f79ad0ce5c5e1d4e99a67c</md5>
+    <crc32>84101762</crc32>
+    <sha1>9d37c7d4e9f658a7842beabdcd1805e9f41daa1b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_462_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>531c22dfba41c600efe3f0c3573acc0a</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Cory_Doctorow_Podcast_462_meta.sqlite" source="original">
+    <mtime>1708268912</mtime>
+    <size>53248</size>
+    <md5>2f981cb7a20c15f23b99a9e486d27575</md5>
+    <crc32>4ec6ebd2</crc32>
+    <sha1>eea8f5f75993ca4e3fefbd33df5b2d3e0f3b8cdf</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_462_meta.xml" source="original">
+    <mtime>1708341258</mtime>
+    <size>8300</size>
+    <md5>3cbdef79b01c2463d7eae52a8a1da77c</md5>
+    <crc32>8015ea3a</crc32>
+    <sha1>c1895cafb04a3bdde67ff45dc94af66282a5be48</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1708268918</mtime>
+    <size>10740</size>
+    <md5>64dafd4c0ea645c8f501b4c6428bc0cb</md5>
+    <crc32>44df3a27</crc32>
+    <sha1>72e3c62e847da792dcc16f351b799b7f625b4b23</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="cyber-dunning-kruger.jpg" source="original">
+    <mtime>1708268905</mtime>
+    <size>89075</size>
+    <md5>999a216e1687c1f40f011da15c3506f8</md5>
+    <crc32>ee689020</crc32>
+    <sha1>3ebd51f4f4947fc41d97f1a633b3b94e46422f77</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="cyber-dunning-kruger_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>cyber-dunning-kruger.jpg</original>
+    <mtime>1708268935</mtime>
+    <size>9070</size>
+    <md5>e588db62de83b2ef7653d3841b672f32</md5>
+    <crc32>69857984</crc32>
+    <sha1>5f28a00c6ef2929a0d17ad183ea2245599457398</sha1>
+  </file>
+</files>

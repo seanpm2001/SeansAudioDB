@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory_Doctorow_Podcast_469_-_Against_Lore.mp3" source="original">
+    <mtime>1717356905</mtime>
+    <size>25675776</size>
+    <md5>b9d906058774b3c77bbbb03825823953</md5>
+    <crc32>b18a497d</crc32>
+    <sha1>2ed8fa9075ba6d34b1fe27f6f3eac1b7cd8318ad</sha1>
+    <format>VBR MP3</format>
+    <length>1064.59</length>
+    <title>Against Lore</title>
+    <creator>Cory Doctorow</creator>
+    <album>The Cory Doctorow Podcast</album>
+    <track>01</track>
+    <artist>Cory Doctorow</artist>
+    <genre>Podcast</genre>
+    <comment>https://creativecommons.org/licenses/by-nc-sa/3.0/</comment>
+  </file>
+  <file name="Cory_Doctorow_Podcast_469_-_Against_Lore.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_469_-_Against_Lore.mp3</original>
+    <mtime>1717357213</mtime>
+    <size>41393</size>
+    <md5>a9d700bafb6f8124138db765a27b357d</md5>
+    <crc32>ef848b4a</crc32>
+    <sha1>757d7824b4e91e62067df35da3c8635b3f6ef2e0</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_469_-_Against_Lore_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Cory_Doctorow_Podcast_469_-_Against_Lore.mp3</original>
+    <mtime>1717357363</mtime>
+    <size>299099</size>
+    <md5>3e75115ae03564a9be572011899e4964</md5>
+    <crc32>bda87b4e</crc32>
+    <sha1>7873958aa91dfa134ae159f85108a71094cdea13</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_469_archive.torrent" source="metadata">
+    <btih>23a5eceba79be69b222e3f3dd42d619a7b6bfcf8</btih>
+    <mtime>1717409594</mtime>
+    <size>3686</size>
+    <md5>fcdac007a89907e2ed046a01c139ea63</md5>
+    <crc32>9ba4dbf0</crc32>
+    <sha1>734fd8bf85d7d8459b2d5157a5ad07a08f5203f3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_469_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0a53c86a7ea2aa20f2ec7348f7ebcc68</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Cory_Doctorow_Podcast_469_meta.sqlite" source="original">
+    <mtime>1717356924</mtime>
+    <size>32768</size>
+    <md5>3e0980d668a215e1e60e0e3bf694d96b</md5>
+    <crc32>f9745959</crc32>
+    <sha1>134d23a8f95384188824043be05e36df73fe1763</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_469_meta.xml" source="original">
+    <mtime>1717409593</mtime>
+    <size>3875</size>
+    <md5>d1576d1e82b3a81f1765623e14d27023</md5>
+    <crc32>7763107d</crc32>
+    <sha1>6a62fc5d3900f42b9cb1400099df85b0982807bf</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1717356929</mtime>
+    <size>12152</size>
+    <md5>ea347b43619b1a0e1c2b893802eba378</md5>
+    <crc32>53f69648</crc32>
+    <sha1>b5248cc156e366bb06b0bea36c031989b9179973</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="lore.jpg" source="original">
+    <mtime>1717356915</mtime>
+    <size>123973</size>
+    <md5>44f81e9d002ad8eabfcfc7f6a9e4e374</md5>
+    <crc32>795c6933</crc32>
+    <sha1>26696a82b1a318589d2e7c814185dc0fa1222adc</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="lore_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>lore.jpg</original>
+    <mtime>1717357080</mtime>
+    <size>9357</size>
+    <md5>e5ac3b02071776fbe70ae0bcba0c0c95</md5>
+    <crc32>71163ae5</crc32>
+    <sha1>af02845e80623e6d0e8952139046e7133ee7db56</sha1>
+  </file>
+</files>

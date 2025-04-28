@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory_Doctorow_Podcast_459_-_The_Bezzle_Read_By_Wil_Wheaton.mp3" source="original">
+    <mtime>1705286017</mtime>
+    <size>101171200</size>
+    <md5>0a3661fd35e10e9b60c957509070bf5c</md5>
+    <crc32>d24695ab</crc32>
+    <sha1>aae3986fd56a2d71ceb85603205afa5b33d632bb</sha1>
+    <format>VBR MP3</format>
+    <length>4200.15</length>
+    <title>The Bezzle, read by Wil Wheaton (excerpt)</title>
+    <creator>Cory Doctorow</creator>
+    <album>The Cory Doctorow Podcast</album>
+    <track>01</track>
+    <artist>Cory Doctorow</artist>
+    <genre>Podcast</genre>
+    <comment>00000366 00000366 000076D1 00007FCA 003F9D9D 003FD088 00007BA7 00007BA7 001955D1 001955D1</comment>
+  </file>
+  <file name="Cory_Doctorow_Podcast_459_-_The_Bezzle_Read_By_Wil_Wheaton.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_459_-_The_Bezzle_Read_By_Wil_Wheaton.mp3</original>
+    <mtime>1705288690</mtime>
+    <size>36481</size>
+    <md5>0a224504f13cce21978c88da63abe12a</md5>
+    <crc32>53cde1b1</crc32>
+    <sha1>9707bca398f1ff5ff79755d0056efa2ed07eaa3b</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_459_-_The_Bezzle_Read_By_Wil_Wheaton_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Cory_Doctorow_Podcast_459_-_The_Bezzle_Read_By_Wil_Wheaton.mp3</original>
+    <mtime>1705289000</mtime>
+    <size>280259</size>
+    <md5>929ccfea2bde748767b06d24893c8023</md5>
+    <crc32>ca9cb99b</crc32>
+    <sha1>b5fdab8cccfd9206d0419a58b22d98bc2a563951</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_459_archive.torrent" source="metadata">
+    <btih>6d9d73680e9767df6052a6e808fc15fefcb7fa51</btih>
+    <mtime>1705317296</mtime>
+    <size>6673</size>
+    <md5>9b1ce0705e64aef001f0fc991ce5a353</md5>
+    <crc32>b49fda45</crc32>
+    <sha1>9818e988678c230c6ccda94002c3b6564612a122</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_459_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2d30d0d0268e9f63bbff19dc190f09a0</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Cory_Doctorow_Podcast_459_meta.sqlite" source="original">
+    <mtime>1705286038</mtime>
+    <size>28672</size>
+    <md5>80526bbe23806a87d5f0e4c317819e7c</md5>
+    <crc32>0acc612e</crc32>
+    <sha1>2d689b054d89e000e2dc4098ca29dfffbbe7e941</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_459_meta.xml" source="original">
+    <mtime>1705317295</mtime>
+    <size>1650</size>
+    <md5>4b36d2b71c7e313b55ef99e2f3a528dc</md5>
+    <crc32>983b7ade</crc32>
+    <sha1>39cfb5c9d2c37772add98f16b27d860d83c166f3</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1705286045</mtime>
+    <size>25562</size>
+    <md5>1d795a1cef09209713ea9ae972ce6c01</md5>
+    <crc32>979a0013</crc32>
+    <sha1>b33c04947b82456f6db39fcc86b7817f5a44127b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="bezzle-cover square.jpg" source="original">
+    <mtime>1705286031</mtime>
+    <size>232912</size>
+    <md5>676e363eb01eabe758a4e2f8b995bf9c</md5>
+    <crc32>8b16031a</crc32>
+    <sha1>6537a055704fd26d0ab8cd6968b4e073510da101</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="bezzle-cover square_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>bezzle-cover square.jpg</original>
+    <mtime>1705288412</mtime>
+    <size>14513</size>
+    <md5>1ae76b0127fadf633a7d4a137b368bd9</md5>
+    <crc32>e14c67c3</crc32>
+    <sha1>5a0f4d29113472394ff77ee03844dc156c071b41</sha1>
+  </file>
+</files>
