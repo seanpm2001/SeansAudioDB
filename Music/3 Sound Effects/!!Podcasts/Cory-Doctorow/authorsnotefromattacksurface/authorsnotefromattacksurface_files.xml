@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="AttackSurface.jpg" source="original">
+    <mtime>1585610107</mtime>
+    <size>126399</size>
+    <md5>fdb62efe6c91bfe1c8fdc5600f9eb0a7</md5>
+    <crc32>b5864951</crc32>
+    <sha1>ba22559a5cd82c6d60226b944cecf66f9283fc0f</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="AttackSurface_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>AttackSurface.jpg</original>
+    <mtime>1585610364</mtime>
+    <size>7182</size>
+    <md5>0e9ae3b6776e3793b97683e63607fe16</md5>
+    <crc32>9a4abc9b</crc32>
+    <sha1>1fd513cc423d7965fbd764720388c750d7cecf77</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_335_-_Attack_Surface_Authors_Note.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Cory_Doctorow_Podcast_335_-_Attack_Surface_Authors_Note.mp3</original>
+    <mtime>1585610423</mtime>
+    <size>149704</size>
+    <md5>b9f44180a4ec78ac54e2c9dcfcfc3ebe</md5>
+    <crc32>02eedbd3</crc32>
+    <sha1>62ad545d9077c8983557f436dfc408615e4150cc</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_335_-_Attack_Surface_Authors_Note.mp3" source="original">
+    <mtime>1585610076</mtime>
+    <size>26164163</size>
+    <md5>a1fc4dd590c4a78a54a169605d0b2083</md5>
+    <crc32>247d4728</crc32>
+    <sha1>94572d18f65ff666f6b7b39b5ed6af621be45adc</sha1>
+    <format>VBR MP3</format>
+    <length>817.5</length>
+    <height>0</height>
+    <width>0</width>
+    <title>CDP_335_FMx2</title>
+    <creator>Cory Doctorow</creator>
+    <album>The Cory Doctorow Podcast</album>
+    <track>01</track>
+    <artist>Cory Doctorow</artist>
+    <external-identifier-match-date>acoustid:2020-10-03T07:26:40Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:6ea2f3f8-ed20-4e7b-a07c-a0443cb91bcb</external-identifier>
+  </file>
+  <file name="Cory_Doctorow_Podcast_335_-_Attack_Surface_Authors_Note.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_335_-_Attack_Surface_Authors_Note.mp3</original>
+    <mtime>1585610381</mtime>
+    <size>33139</size>
+    <md5>1b015e9133f77591c7aa7d3f0b8d5f0b</md5>
+    <crc32>8163a854</crc32>
+    <sha1>fff45b8e55b864aa306281aed7e1d35d3afc0819</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_335_-_Attack_Surface_Authors_Note_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Cory_Doctorow_Podcast_335_-_Attack_Surface_Authors_Note.mp3</original>
+    <mtime>1585610394</mtime>
+    <size>327651</size>
+    <md5>6b66b3842c983fb7cdad47f1655d476f</md5>
+    <crc32>3f406068</crc32>
+    <sha1>e87eb0b1067d1e232f78790da47d183306a72ee4</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1653957574</mtime>
+    <size>23321</size>
+    <md5>2eb7ea5c93486dd5d706d6a1fe7abbe1</md5>
+    <crc32>fcf3cc8f</crc32>
+    <sha1>30a544f2428d34dbae24616b7a511af8a8f8291b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="authorsnotefromattacksurface_archive.torrent" source="metadata">
+    <btih>920e0da7d6fe9751957e27d72573b1486e4b4e36</btih>
+    <mtime>1653957575</mtime>
+    <size>4002</size>
+    <md5>63025bcc04ce72c1c843ee3787e6edc6</md5>
+    <crc32>6fec0e4a</crc32>
+    <sha1>c122125aecf9b3b477456d58a575ce473469456b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="authorsnotefromattacksurface_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a048122ac96577382d0112db4311eff4</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="authorsnotefromattacksurface_meta.sqlite" source="original">
+    <mtime>1585610205</mtime>
+    <size>14336</size>
+    <format>Metadata</format>
+    <md5>1662b11a2b8e666f0ca6e79e443d3c63</md5>
+    <crc32>c0ae6256</crc32>
+    <sha1>c4a8cf77230e400d9ff65a75121093040479a895</sha1>
+  </file>
+  <file name="authorsnotefromattacksurface_meta.xml" source="original">
+    <mtime>1653957572</mtime>
+    <size>1565</size>
+    <format>Metadata</format>
+    <md5>25f10d60a7cfa5d88c49e2af5f7446cd</md5>
+    <crc32>eb935908</crc32>
+    <sha1>80fb1783a56cef305f05c8d9ef3d2796c97872b0</sha1>
+  </file>
+</files>

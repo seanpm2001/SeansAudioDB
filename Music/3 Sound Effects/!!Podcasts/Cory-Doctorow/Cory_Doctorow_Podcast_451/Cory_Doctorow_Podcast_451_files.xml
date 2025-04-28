@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cory_Doctorow_Podcast_451_-_The_Lost_Cause.mp3" source="original">
+    <mtime>1697119423</mtime>
+    <size>147683328</size>
+    <md5>615efddb4213973d38b813ddb597e7ad</md5>
+    <crc32>57136e86</crc32>
+    <sha1>f7cdd03628b5e10ad1c1b2a0d4fe6c5170836e8d</sha1>
+    <format>VBR MP3</format>
+    <length>7355.53</length>
+    <title>The Lost Cause</title>
+    <creator>Cory Doctorow</creator>
+    <album>The Cory Doctorow Podcast</album>
+    <track>01</track>
+    <artist>Cory Doctorow</artist>
+    <genre>Podcast</genre>
+    <comment>0000044A 0000044A 0000667B 0000667B 0027654E 0027654E 00007BA6 00007BA6 0001DE78 0001DE78</comment>
+  </file>
+  <file name="Cory_Doctorow_Podcast_451_-_The_Lost_Cause.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_451_-_The_Lost_Cause.mp3</original>
+    <mtime>1697119757</mtime>
+    <size>39640</size>
+    <md5>275f146dec88af9471caa0dfd6d375bc</md5>
+    <crc32>3c097ea9</crc32>
+    <sha1>717e59b918432dc6fb3fa7a88369477251957652</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_451_-_The_Lost_Cause_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Cory_Doctorow_Podcast_451_-_The_Lost_Cause.mp3</original>
+    <mtime>1697119901</mtime>
+    <size>282875</size>
+    <md5>a5817839c75497685e8e2615f8e612a1</md5>
+    <crc32>3a5fc18d</crc32>
+    <sha1>800f1a4fa393bea15014c67b211b154ab15a3994</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_451_archive.torrent" source="metadata">
+    <btih>3f446cc0c722c3054177b6f30deea09c869fca2f</btih>
+    <mtime>1697192098</mtime>
+    <size>8419</size>
+    <md5>f67ff158f6278fd1cf9d0ee60c7397de</md5>
+    <crc32>f61568cb</crc32>
+    <sha1>0385d99e7120a56ecd1d711c61b61e89d61397fd</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_451_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>aeda1fb6efea00f612d4759651d70893</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Cory_Doctorow_Podcast_451_meta.sqlite" source="original">
+    <mtime>1697119448</mtime>
+    <size>36864</size>
+    <md5>71a69ff82781e5261ac7f11d5199e9cb</md5>
+    <crc32>dc83454a</crc32>
+    <sha1>87deef201139c5b5f490c4a4bbc775d6f9d5747f</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_451_meta.xml" source="original">
+    <mtime>1697192091</mtime>
+    <size>2450</size>
+    <md5>f9f74a97b9088b6b7ca095bc0b53e601</md5>
+    <crc32>41e73186</crc32>
+    <sha1>b5164db7219d23f37e40ac775c757096f53b6abc</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Lost Cause audiobook cover.jpg" source="original">
+    <mtime>1697119438</mtime>
+    <size>570541</size>
+    <md5>41a5fdcd3e85243c7162dc6fd2455e4a</md5>
+    <crc32>d0e54007</crc32>
+    <sha1>80d5e4e58b4292f9fe6b3df0917ee8d008352092</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="Lost Cause audiobook cover_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Lost Cause audiobook cover.jpg</original>
+    <mtime>1697119519</mtime>
+    <size>11841</size>
+    <md5>66c4fcbaffb1ae9665520e4f27964986</md5>
+    <crc32>59b77452</crc32>
+    <sha1>67a0cd5f3c4ca52b2cca7c3779c9443107a315c9</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1697119455</mtime>
+    <size>22742</size>
+    <md5>6ca1241c95585ef7a540082323e456d2</md5>
+    <crc32>81938afc</crc32>
+    <sha1>c6ab41190f9f5553cd94d0d4193c1299a8d906ea</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

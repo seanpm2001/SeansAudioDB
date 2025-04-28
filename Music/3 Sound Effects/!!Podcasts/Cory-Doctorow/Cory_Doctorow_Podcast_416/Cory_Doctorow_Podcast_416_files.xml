@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="1_1opByQMZTD0_PGGZiJMfg.jpg" source="original">
+    <mtime>1646002056</mtime>
+    <size>320235</size>
+    <md5>658a817a3a14ffa03e53d5b98a72c4b8</md5>
+    <crc32>a80a062d</crc32>
+    <sha1>8c29dd2e6a435d7c8339487fb8d5c5f53e44d100</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="1_1opByQMZTD0_PGGZiJMfg.png" source="original">
+    <mtime>1646001898</mtime>
+    <size>1383783</size>
+    <md5>b30d097079a375fdab5c65a788367689</md5>
+    <crc32>689ba4f1</crc32>
+    <sha1>c28e015cd4fa63c16b62748688526079b49b4441</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="1_1opByQMZTD0_PGGZiJMfg_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>1_1opByQMZTD0_PGGZiJMfg.png</original>
+    <mtime>1646001898</mtime>
+    <size>7897</size>
+    <md5>0585d9479267414c924cf528da75c2cc</md5>
+    <crc32>2cfb1f02</crc32>
+    <sha1>3302c0b474e86be6e7267773214a14a0b2224f99</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_416_-_We_Should_Not_Endure_a_King.mp3" source="original">
+    <mtime>1646001663</mtime>
+    <size>26408960</size>
+    <md5>b54ab08e2b216106056c55b916ac97f6</md5>
+    <crc32>19acc4a3</crc32>
+    <sha1>85715d2e7498daba41d95c3a0f842d2c2b571dab</sha1>
+    <format>VBR MP3</format>
+    <length>1042.63</length>
+    <title>We Should Not Endure A King</title>
+    <creator>Cory Doctorow</creator>
+    <album>The Cory Doctorow Podcast</album>
+    <track>01</track>
+    <artist>Cory Doctorow</artist>
+    <genre>Podcast</genre>
+    <comment>000006DE 000006DD 00008E29 00009BA4 000F6F87 000FA258 00007E87 00007E87 000030C6 000030C6</comment>
+  </file>
+  <file name="Cory_Doctorow_Podcast_416_-_We_Should_Not_Endure_a_King.png" source="derivative">
+    <format>PNG</format>
+    <original>Cory_Doctorow_Podcast_416_-_We_Should_Not_Endure_a_King.mp3</original>
+    <mtime>1646001912</mtime>
+    <size>45132</size>
+    <md5>b28a897631ca497bccfd97831a2489fa</md5>
+    <crc32>f03c452a</crc32>
+    <sha1>6e633a73643cfdd220fb9d0183f854793d19a55e</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_416_-_We_Should_Not_Endure_a_King_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Cory_Doctorow_Podcast_416_-_We_Should_Not_Endure_a_King.mp3</original>
+    <mtime>1646001932</mtime>
+    <size>312903</size>
+    <md5>96b22b71d24cc3831287dd87a941a6fe</md5>
+    <crc32>92aac36b</crc32>
+    <sha1>6a432520e4647c432c0dbc411d1bf0d6e83f0471</sha1>
+  </file>
+  <file name="Cory_Doctorow_Podcast_416_archive.torrent" source="metadata">
+    <btih>07581e2ef73ec30e9c34f5eab18250ccec810c3b</btih>
+    <mtime>1653681661</mtime>
+    <size>4020</size>
+    <md5>eb9d951ddca2a58c0d6a45f1fdd3de69</md5>
+    <crc32>66962b54</crc32>
+    <sha1>b3869b48d4cdb8c257b01825377602b618bb587e</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_416_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d8ce0f5de2d99c6bf80733c9acf0d672</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Cory_Doctorow_Podcast_416_meta.sqlite" source="original">
+    <mtime>1646002059</mtime>
+    <size>28672</size>
+    <md5>acc607320e4c5f6be020b38c0ace03e5</md5>
+    <crc32>6fc9203f</crc32>
+    <sha1>c5d49bb1252a84dbf43fbb15ce96e8cc8cc4794a</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Cory_Doctorow_Podcast_416_meta.xml" source="original">
+    <mtime>1653681660</mtime>
+    <size>1493</size>
+    <md5>da60638e7792c4274c92870c2ce363ad</md5>
+    <crc32>e0e339f5</crc32>
+    <sha1>4c14bc6dd7ae8b8635d37014fc4780761dc4020f</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1646002063</mtime>
+    <size>33720</size>
+    <md5>3d77a0f1e51bfa1cb598b49806222eaf</md5>
+    <crc32>d2f25179</crc32>
+    <sha1>d43c8451b94324f2214767d5ecc3250997ca1c54</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>
