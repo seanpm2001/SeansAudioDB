@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/sigur-ros-main/CANCIONES/N20.mp3</location>
+			<title>The Wonderwhy (Hidden Track)</title>
+			<creator>Wolf Alice</creator>
+			<album>My Love Is Cool</album>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Wolf%20Alice/My%20Love%20Is%20Cool/art.png</image>
+			<duration>406684</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/sigur-ros-main/CANCIONES/N4.mp3</location>
+			<duration>391446</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/sigur-ros-main/CANCIONES/N19.mp3</location>
+			<title>Silk</title>
+			<creator>Wolf Alice</creator>
+			<album>My Love Is Cool</album>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Wolf%20Alice/My%20Love%20Is%20Cool/art.png</image>
+			<duration>244060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/sia-main/songs/n1.mp3</location>
+			<title>David Guetta - Titanium ft. Sia (Official Video)</title>
+			<creator>David Guetta</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/0ea7ba52d9485ab35b417577cdc67428/art.jpg</image>
+			<duration>245369</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/sia-main/songs/n2.mp3</location>
+			<title>Sia - Snowman [Official Video]</title>
+			<creator>Sia</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/ee2453c547473ca70ec796e032a4d061/art.jpg</image>
+			<duration>172382</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/sia-main/songs/n3.mp3</location>
+			<title>LSD - Genius ft. Sia, Diplo, Labrinth</title>
+			<creator>Sia</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/d2eea377626cc10e81314d8f1caaa7ad/art.jpg</image>
+			<duration>222616</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/sia-main/songs/n4.mp3</location>
+			<title>David Guetta - She Wolf (Lyrics Video) ft. Sia</title>
+			<creator>David Guetta</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/36ad4940ac814f8353d90b25a8e465d9/art.jpg</image>
+			<duration>226952</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/sia-main/songs/n5.mp3</location>
+			<title>Sia - Cheap Thrills (Lyrics) ft. Sean Paul</title>
+			<creator>7clouds</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/e2f4c5c469ad1240279fb49fbc9cdc0e/art.jpg</image>
+			<duration>222407</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
