@@ -1,0 +1,772 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden !important;
+}
+
+body {
+  background: #000;
+  display: flex;
+  flex-wrap: wrap;
+  place-content: center;
+}
+
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+.centrar {
+  position: relative;
+  z-index: 999;
+  background-color: transparent;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  flex-wrap: wrap;
+  place-content: center;
+}
+
+/* ===========================INICIO GIRATORIO========================= */
+
+.contenedor {
+  width: 100%;
+  position: relative;
+  margin-bottom: 7rem;
+}
+
+.container {
+  position: relative;
+  top: 0;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item {
+  position: absolute;
+  background-color: transparent;
+  width: calc(var(--i) * 2.5vmin);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: .9vmin solid rgb(0, 200, 255);
+  transform-style: preserve-3d;
+  transform: rotateX(70deg) translateZ(50px);
+  animation: my-move 3s ease-in-out calc(var(--i) * 0.08s) infinite;
+  box-shadow: 0px 0px 15px rgb(124, 124, 124),
+    inset 0px 0px 15px rgb(124, 124, 124);
+}
+
+@keyframes my-move {
+
+  0%,
+  100% {
+    transform: rotateX(70deg) translateZ(50px) translateY(0px);
+    filter: hue-rotate(0deg);
+  }
+
+  50% {
+    transform: rotateX(70deg) translateZ(50px) translateY(-50vmin);
+    filter: hue-rotate(180deg);
+  }
+}
+
+/* ===========================FIN GIRATORIO========================= */
+
+@keyframes cambiar {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+form {
+  position: relative;
+  z-index: 99;
+  display: flex;
+  padding: .5rem;
+  flex-wrap: wrap;
+  place-content: center;
+  width: 46%;
+  border-radius: 999px;
+  background-image: linear-gradient(143deg, #04aa6d, #333, #04aa6d);
+  background-size: 1000% 100%;
+  animation: cambiar 5s ease infinite;
+  margin-inline: auto;
+  text-align: left;
+
+  span {
+    color: black;
+    height: 40px;
+    align-content: center;
+    padding-inline: .8rem;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    flex-basis: 8%;
+    transition: all .4s;
+    display: flex;
+    flex-wrap: wrap;
+    place-content: center;
+
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    .busqueda {
+      width: .9rem;
+      height: .9rem;
+      border: 3px solid currentColor;
+      border-radius: 50%;
+      position: relative;
+      transform: rotate(140deg);
+      top: -.3rem;
+      left: -.3rem;
+    }
+
+    .busqueda-barrita {
+      width: 3px;
+      height: .8rem;
+      position: absolute;
+      bottom: 100%;
+      left: 45%;
+      background-color: currentColor;
+    }
+
+    &:hover {
+      background-color: black;
+      color: lime;
+      cursor: pointer;
+    }
+  }
+
+  span,
+  input {
+    background-color: rgba(255, 255, 255, .4);
+    border: none;
+  }
+
+
+  input {
+    padding: .5rem;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding-left: 1rem;
+    width: 75%;
+    outline: none;
+    font-size: 1.2rem;
+    flex-basis: 92%;
+
+  }
+
+  #myInput::placeholder {
+    color: black;
+    padding: 0;
+    width: fit-content;
+  }
+
+
+}
+
+.autocomplete {
+  position: relative;
+  width: 100%;
+  display: flex;
+  place-content: center;
+
+}
+
+.autocomplete-items {
+  position: absolute;
+  left: 10px;
+  top: 48px;
+  width: 100%;
+  background-color: #1e90ff88;
+  color: white;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('font/Roboto-Regular.ttf');
+  font-display: swap;
+}
+
+.autocomplete-items a {
+  text-decoration: none;
+  color: white;
+  display: block;
+  padding: .5rem;
+  font-weight: 900;
+  border-bottom: 1px solid rgba(255, 255, 255, .4);
+  border-top: 1px solid rgba(255, 255, 255, .4);
+  font-family: 'Roboto', Verdana , Geneva,  Tahoma, sans-serif;
+}
+
+strong {
+  color: lime;
+}
+
+.autocomplete-active {
+  background-color: #ff000055;
+}
+
+.left,
+.right {
+  position: fixed;
+  bottom: 1rem;
+  color: white;
+  width: fit-content;
+  height: fit-content;
+  z-index: 800;
+  user-select: none;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.left {
+  left: 1rem;
+  height: fit-content;
+}
+
+.right {
+  top: 1rem;
+  right: 1rem;
+}
+
+/* ============================LLUVIA============================*/
+
+i {
+  position: absolute;
+  height: 200px;
+  background: linear-gradient(transparent, #fff);
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  animation: animate 5s linear infinite;
+}
+
+i:nth-child(3n + 1) {
+  background-image: linear-gradient(transparent, #0ff);
+}
+
+i:nth-child(3n + 2) {
+  background-image: linear-gradient(transparent, #f80);
+}
+
+i:nth-child(3n + 3) {
+  background-image: linear-gradient(transparent, #f0f);
+}
+
+@keyframes animate {
+  0% {
+    transform: translateY(-200px);
+  }
+
+  100% {
+    transform: translateY(calc(100vh + 200px))
+  }
+}
+
+
+
+/* ============================SWITCH============================ */
+
+/* Switch */
+.switch {
+  display: inline-block;
+  margin: 0;
+  position: fixed;
+  z-index: 2000;
+  right: 1.2rem;
+  bottom: 1.2rem;
+  border-radius: 1.75em;
+  /* Mitad del valor original */
+  -webkit-box-shadow: 0 0 0.25em rgba(2, 255, 255, 0.2);
+  -moz-box-shadow: 0 0 0.25em rgba(255, 255, 255, 0.2);
+  box-shadow: 0 0 0.25em rgba(255, 255, 255, 0.2);
+}
+
+/* Etiqueta */
+.switch label {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+
+/* Input */
+.switch input {
+  display: none;
+}
+
+/* Span */
+.switch span {
+  display: block;
+  -webkit-transition: top 0.1s;
+  /* Ajuste del tiempo de transición */
+  -moz-transition: top 0.1s;
+  -ms-transition: top 0.1s;
+  -o-transition: top 0.1s;
+  transition: top 0.1s;
+}
+
+/* Borde del switch */
+.switch-border1 {
+  border: 0.05em solid #000;
+  border-radius: 1.75em;
+  /* Mitad del valor original */
+  -webkit-box-shadow: 0 0.1em rgba(255, 255, 255, 0.2);
+  -moz-box-shadow: 0 0.1em rgba(255, 255, 255, 0.2);
+  box-shadow: 0 0.1em rgba(255, 255, 255, 0.2);
+}
+
+/* Parte interna del switch */
+.switch-border2 {
+  width: 3.3em;
+  /* Mitad del valor original */
+  height: 6.3em;
+  /* Mitad del valor original */
+  position: relative;
+  border: 0.05em solid #323232;
+  background-image: -webkit-gradient(linear, left top, right top, from(#2D2D2D), color-stop(0.5, #4B4B4B), to(#2D2D2D));
+  background-image: -webkit-linear-gradient(left, #2D2D2D, #4B4B4B, #2D2D2D);
+  background-image: -moz-linear-gradient(left, #2D2D2D, #4B4B4B, #2D2D2D);
+  background-image: -ms-linear-gradient(left, #2D2D2D, #4B4B4B, #2D2D2D);
+  background-image: -o-linear-gradient(left, #2D2D2D, #4B4B4B, #2D2D2D);
+  background-image: linear-gradient(to right, #2D2D2D, #4B4B4B, #2D2D2D);
+  border-radius: 1.7em;
+  /* Mitad del valor original */
+}
+
+/* Pseudo elementos del switch */
+.switch-border2:before,
+.switch-border2:after {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  opacity: .3;
+  border-radius: 1.7em;
+  /* Mitad del valor original */
+}
+
+/* Estilo de la parte superior del switch */
+.switch-top {
+  width: 100%;
+  height: 42%;
+  /* Mitad del valor original */
+  position: absolute;
+  top: 8%;
+  /* Ajuste para centrar verticalmente */
+  left: 0;
+  z-index: 1;
+  background-image: -webkit-gradient(linear, left top, right top, from(#2D2D2D), color-stop(0.5, #4B4B4B), to(#2D2D2D));
+  background-image: -webkit-linear-gradient(left, #2D2D2D, #4B4B4B, #2D2D2D);
+  background-image: -moz-linear-gradient(left, #2D2D2D, #4B4B4B, #2D2D2D);
+  background-image: -ms-linear-gradient(left, #2D2D2D, #4B4B4B, #2D2D2D);
+  background-image: -o-linear-gradient(left, #2D2D2D, #4B4B4B, #2D2D2D);
+  background-image: linear-gradient(to right, #2D2D2D, #4B4B4B, #2D2D2D);
+  border-radius: 1.7em;
+  /* Mitad del valor original */
+}
+
+/* Sombra del switch */
+.switch-shadow {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  border-radius: 1.7em;
+  /* Mitad del valor original */
+  -webkit-box-shadow: 0 0 1em black inset;
+  -moz-box-shadow: 0 0 1em black inset;
+  box-shadow: 0 0 1em black inset;
+}
+
+/* Mango izquierdo y derecho del switch */
+.switch-handle-left,
+.switch-handle-right {
+  content: '';
+  display: block;
+  width: 1.8em;
+  /* Mitad del valor original */
+  height: 0;
+  position: absolute;
+  top: 3.3em;
+  /* Mitad del valor original */
+  z-index: 2;
+  border-bottom: 2.25em solid #111;
+  border-left: 0.35em solid transparent;
+  border-right: 0.35em solid transparent;
+}
+
+.switch-handle-left {
+  left: 0.4em;
+  /* Mitad del valor original */
+}
+
+.switch-handle-right {
+  right: 0.4em;
+  /* Mitad del valor original */
+}
+
+/* Mango principal del switch */
+.switch-handle {
+  width: 1.8em;
+  /* Mitad del valor original */
+  height: 2.25em;
+  /* Mitad del valor original */
+  position: absolute;
+  top: 3.3em;
+  /* Mitad del valor original */
+  left: 0.75em;
+  /* Mitad del valor original */
+  z-index: 3;
+  background: #333;
+  background-image: -webkit-gradient(linear, left top, right top, from(#111), color-stop(0.4, #777), color-stop(0.5, #888), color-stop(0.6, #777), to(#111));
+  background-image: -webkit-linear-gradient(left, #111, #777 40%, #888, #777 60%, #111);
+  background-image: -moz-linear-gradient(left, #111, #777 40%, #888, #777 60%, #111);
+  background-image: -ms-linear-gradient(left, #111, #777 40%, #888, #777 60%, #111);
+  background-image: -o-linear-gradient(left, #111, #777 40%, #888, #777 60%, #111);
+  background-image: linear-gradient(to right, #111, #777 40%, #888, #777 60%, #111);
+  border-radius: 0;
+}
+
+/* Parte superior del mango */
+.switch-handle-top {
+  width: 2.5em;
+  /* Mitad del valor original */
+  height: 2.5em;
+  /* Mitad del valor original */
+  position: absolute;
+  top: 4.25em;
+  /* Mitad del valor original */
+  left: 0.4em;
+  /* Mitad del valor original */
+  z-index: 4;
+  background-color: #555;
+  background-image: -webkit-gradient(linear, left top, right top, from(#5F5F5F), to(#878787));
+  background-image: -webkit-linear-gradient(left, #5F5F5F, #878787);
+  background-image: -moz-linear-gradient(left, #5F5F5F, #878787);
+  background-image: -ms-linear-gradient(left, #5F5F5F, #878787);
+  background-image: -o-linear-gradient(left, #5F5F5F, #878787);
+  background-image: linear-gradient(to right, #5F5F5F, #878787);
+  border-top: 0.1em solid #AEB2B3;
+  border-radius: 1.25em;
+  /* Mitad del valor original */
+}
+
+/* Parte inferior del mango */
+.switch-handle-bottom {
+  width: 1.8em;
+  /* Mitad del valor original */
+  height: 1.8em;
+  /* Mitad del valor original */
+  position: absolute;
+  top: 2.35em;
+  /* Mitad del valor original */
+  left: 0.75em;
+  /* Mitad del valor original */
+  z-index: 3;
+  background: #333;
+  background-image: -webkit-gradient(linear, left top, right top, from(#111), color-stop(0.4, #777), color-stop(0.5, #888), color-stop(0.6, #777), to(#111));
+  background-image: -webkit-linear-gradient(left, #111, #777 40%, #888, #777 60%, #111);
+  background-image: -moz-linear-gradient(left, #111, #777 40%, #888, #777 60%, #111);
+  background-image: -ms-linear-gradient(left, #111, #777 40%, #888, #777 60%, #111);
+  background-image: -o-linear-gradient(left, #111, #777 40%, #888, #777 60%, #111);
+  background-image: linear-gradient(to right, #111, #777 40%, #888, #777 60%, #111);
+  border-top: 0.1em solid #141414;
+  border-radius: 0.9em;
+  /* Mitad del valor original */
+}
+
+/* Base del mango */
+.switch-handle-base {
+  width: 2.1em;
+  /* Mitad del valor original */
+  height: 2.1em;
+  /* Mitad del valor original */
+  position: absolute;
+  top: 1.9em;
+  /* Mitad del valor original */
+  left: 0.6em;
+  /* Mitad del valor original */
+  z-index: 2;
+  border-top: 0.1em solid rgba(255, 255, 255, 0.35);
+  border-radius: 1.05em;
+  /* Mitad del valor original */
+  -webkit-box-shadow: 0 0 0.25em rgba(0, 0, 0, 0.4) inset;
+  -moz-box-shadow: 0 0 0.25em rgba(0, 0, 0, 0.4) inset;
+  box-shadow: 0 0 0.25em rgba(0, 0, 0, 0.4) inset;
+}
+
+/* Estilos del switch cuando está activado */
+.switch input:checked~.switch-handle-left,
+.switch input:checked~.switch-handle-right {
+  top: 0.75em;
+  /* Mitad del valor original */
+  border-bottom: 0;
+  border-top: 2.25em solid #111;
+}
+
+.switch input:checked~.switch-handle {
+  top: 0.75em;
+  /* Mitad del valor original */
+}
+
+.switch input:checked~.switch-handle-top {
+  top: -0.5em;
+  /* Mitad del valor original */
+  border-top: 0;
+  border-bottom: 0.1em solid #AEB2B3;
+}
+
+.switch input:checked~.switch-handle-bottom {
+  top: 2.1em;
+  /* Mitad del valor original */
+  border-top: 0;
+  border-bottom: 0.1em solid #141414;
+}
+
+.switch input:checked~.switch-handle-base {
+  top: 2.25em;
+  /* Mitad del valor original */
+  border-top: 0;
+  border-bottom: 0.1em solid rgba(255, 255, 255, 0.35);
+}
+
+/* Estilos para el switch blanco */
+#switchwhite {
+  visibility: hidden;
+  clip: rect(0 0 0 0);
+  position: absolute;
+  left: 9999px;
+}
+
+.switchwhite {
+  display: block;
+  width: 65px;
+  /* Mitad del valor original */
+  height: 30px;
+  /* Mitad del valor original */
+  margin: 35px auto;
+  /* Mitad del valor original */
+  position: relative;
+  background: #ced8da;
+  /* Old browsers */
+  background: -moz-linear-gradient(left, #ced8da 0%, #d8e0e3 29%, #ccd4d7 34%, #d4dcdf 62%, #fff9f4 68%, #e1e9ec 74%, #b7bfc2 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #ced8da), color-stop(29%, #d8e0e3), color-stop(34%, #ccd4d7), color-stop(62%, #d4dcdf), color-stop(68%, #fff9f4), color-stop(74%, #e1e9ec), color-stop(100%, #b7bfc2));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left, #ced8da 0%, #d8e0e3 29%, #ccd4d7 34%, #d4dcdf 62%, #fff9f4 68%, #e1e9ec 74%, #b7bfc2 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left, #ced8da 0%, #d8e0e3 29%, #ccd4d7 34%, #d4dcdf 62%, #fff9f4 68%, #e1e9ec 74%, #b7bfc2 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(left, #ced8da 0%, #d8e0e3 29%, #ccd4d7 34%, #d4dcdf 62%, #fff9f4 68%, #e1e9ec 74%, #b7bfc2 100%);
+  /* IE10+ */
+  background: linear-gradient(to right, #ced8da 0%, #d8e0e3 29%, #ccd4d7 34%, #d4dcdf 62%, #fff9f4 68%, #e1e9ec 74%, #b7bfc2 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ced8da', endColorstr='#b7bfc2', GradientType=1);
+  /* IE6-9 */
+  transition: all 0.2s ease-out;
+  cursor: pointer;
+  border-radius: 0.175em;
+  /* Mitad del valor original */
+  box-shadow: 0 0 0.5px 1px rgba(0, 0, 0, 0.7),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6),
+    inset 0 -0.5px 0 0.5px rgba(0, 0, 0, 0.3),
+    0 4px 5px rgba(0, 0, 0, 0.075);
+}
+
+.switchwhite:before {
+  display: block;
+  position: absolute;
+  left: -17.5px;
+  /* Mitad del valor original */
+  right: -17.5px;
+  /* Mitad del valor original */
+  top: -12.5px;
+  /* Mitad del valor original */
+  bottom: -12.5px;
+  /* Mitad del valor original */
+  z-index: -2;
+  content: "";
+  border-radius: 0.2em;
+  /* Mitad del valor original */
+  background: #d5dde0;
+  background: linear-gradient(#d7dfe2, #bcc7cd);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6),
+    inset 0 -0.5px 0 0.5px rgba(0, 0, 0, 0.3),
+    0 0 4px 1px rgba(0, 0, 0, 0.2),
+    0 1px 2px rgba(0, 0, 0, 0.1);
+  pointer-events: none;
+  transition: all 0.2s ease-out;
+}
+
+.switchwhite:after {
+  content: "";
+  position: absolute;
+  right: -12.5px;
+  /* Mitad del valor original */
+  top: 50%;
+  width: 8px;
+  /* Mitad del valor original */
+  height: 8px;
+  /* Mitad del valor original */
+  border-radius: 50%;
+  background: #788b91;
+  margin-top: -4px;
+  /* Mitad del valor original */
+  z-index: -1;
+  box-shadow: inset 0 -0.5px 4px rgba(0, 0, 0, 0.7),
+    inset 0 -1px 1px rgba(0, 0, 0, 0.2),
+    0 0.5px 0 white,
+    0 -0.5px 0 rgba(0, 0, 0, 0.5),
+    -23.5px 16px 7.5px 6.5px rgba(0, 0, 0, 0.25);
+}
+
+#switchwhite:checked~.switchwhite {
+  background: #b7bfc2;
+  /* Old browsers */
+  background: -moz-linear-gradient(left, #b7bfc2 0%, #e1e9ec 26%, #fff9f4 32%, #d4dcdf 38%, #ccd4d7 66%, #d8e0e3 71%, #ced8da 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #b7bfc2), color-stop(26%, #e1e9ec), color-stop(32%, #fff9f4), color-stop(38%, #d4dcdf), color-stop(66%, #ccd4d7), color-stop(71%, #d8e0e3), color-stop(100%, #ced8da));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left, #b7bfc2 0%, #e1e9ec 26%, #fff9f4 32%, #d4dcdf 38%, #ccd4d7 66%, #d8e0e3 71%, #ced8da 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left, #b7bfc2 0%, #e1e9ec 26%, #fff9f4 32%, #d4dcdf 38%, #ccd4d7 66%, #d8e0e3 71%, #ced8da 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(left, #b7bfc2 0%, #e1e9ec 26%, #fff9f4 32%, #d4dcdf 38%, #ccd4d7 66%, #d8e0e3 71%, #ced8da 100%);
+  /* IE10+ */
+  background: linear-gradient(to right, #b7bfc2 0%, #e1e9ec 26%, #fff9f4 32%, #d4dcdf 38%, #ccd4d7 66%, #d8e0e3 71%, #ced8da 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b7bfc2', endColorstr='#ced8da', GradientType=1);
+  /* IE6-9 */
+}
+
+#switchwhite:checked~.switchwhite:after {
+  background: #b1ffff;
+  box-shadow: inset 0 -0.5px 4px rgba(0, 0, 0, 0.7),
+    inset 0 -1px 1px rgba(0, 0, 0, 0.2),
+    0 0.5px 0 white,
+    0 -0.5px 0 rgba(0, 0, 0, 0.5),
+    -55px 16px 7.5px 6.5px rgba(0, 0, 0, 0.25);
+}
+
+/* ============================MEDIA============================*/
+
+@media (width <=600px) {
+  form {
+    width: 90%;
+  }
+
+
+}
+
+@media only screen and (orientation: landscape) and (width <=1000px) {
+
+  body,
+  html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+  }
+
+  body {
+    background-color: transparent;
+  }
+
+
+  .centrar {
+    display: flex;
+    flex-direction: row;
+    place-content: center;
+    column-gap: 2rem;
+    height: 100%;
+    z-index: 700;
+    background-image: linear-gradient(45deg, lightgreen, lightblue, violet, lightgreen, lightblue, violet);
+    background-size: 1000% 100%;
+    animation: cambiar 6s ease infinite;
+
+    .contenedor {
+      display: none;
+    }
+
+    form {
+      margin-inline: 0;
+      align-self: center;
+      justify-self: center;
+      width: 74%;
+      background-image: linear-gradient(143deg, #ff0000cc, #00ff00cc, #0000ffcc);
+    }
+
+    form {
+      margin-top: -1rem;
+    }
+
+  }
+
+  .switch {
+    display: none;
+  }
+
+  .left {
+    top: 1rem;
+  }
+
+  i {
+    display: none;
+  }
+
+}
+
+@keyframes cambiar {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@media only screen and (orientation: portrait) and (width <=500px) {
+  .centrar {
+    padding-bottom: 9rem;
+  }
+
+  .contenedor {
+    margin-bottom: 7rem;
+    top: 5rem;
+  }
+}
