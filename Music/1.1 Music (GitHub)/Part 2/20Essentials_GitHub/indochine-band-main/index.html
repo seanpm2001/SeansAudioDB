@@ -1,0 +1,1178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title translate="no"></title>
+    <link rel="shortcut icon" href="assets/favicon.webp" type="image/x-icon" />
+    <meta name="description" content="(>‿◠)✌" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="20 Essentials 🎵 - INDOCHINE" />
+    <meta property="og:url" content="https://20essentials.github.io/indochine-band/" />
+    <meta
+      property="og:image"
+      content="https://20essentials.github.io/indochine-band/assets/preview.avif"
+    />
+    <meta property="og:description" content="(>‿◠)✌" />
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:title" content="20 Essentials 🎵 - INDOCHINE" />
+    <meta
+      property="twitter:url"
+      content="https://20essentials.github.io/indochine-band/"
+    />
+    <meta
+      property="twitter:image"
+      content="https://20essentials.github.io/indochine-band/assets/preview.avif"
+    />
+    <meta property="twitter:description" content="Enjoy the music." />
+    <link rel="stylesheet" href="index.css" />
+    <meta name="google" content="notranslate" />
+    <meta name="theme-color" content="#000" />
+    <script type="module" src="index.js"></script>
+  </head>
+
+  <body>
+    <header class="myHeader">
+      <img src="assets/logo.png" alt="logo" />
+    </header>
+
+    <dialog class="am-modal">
+      <h3 class="tituto-modal" translate="no">Save the audio in...</h3>
+      <button class="cerrar">❌</button>
+      <div class="container-modal"></div>
+
+      <template class="template-modal-fila">
+        <article class="fila">
+          <input type="checkbox" id="" /><label for="" translate="no"></label>
+          <abbr><output>0</output>/20</abbr>
+        </article>
+      </template>
+
+      <footer class="container-add-playlist" translate="no">
+        <h3 translate="no">Create new Playlist</h3>
+        <div class="container-inputs">
+          <input
+            type="text"
+            id="agregarPlaylistInput"
+            placeholder="Write the title..."
+            maxlength="20"
+            autocomplete="off"
+            translate="no"
+            spellcheck="false"
+          />
+          <span><output>0</output>/20</span>
+          <input type="submit" value="+" />
+        </div>
+      </footer>
+    </dialog>
+
+    <nav class="myNav">
+      <a class="home" href="https://20essentials.github.io/20TracksForEachOne/">
+        <svg>
+          <use href="assets/svgSprite.svg#homebutton"></use>
+        </svg>
+      </a>
+
+      <button class="nav-random-button">
+        <svg>
+          <use href="assets/svgSprite.svg#randombutton"></use>
+        </svg>
+      </button>
+
+      <button class="nav-play-button">
+        <svg>
+          <use href="assets/svgSprite.svg#playbutton"></use>
+        </svg>
+      </button>
+
+      <button
+        class="recarga"
+        onclick="location.replace(localStorage.getItem('playbackUrl'))"
+      >
+        <svg>
+          <use href="assets/svgSprite.svg#reloadbutton"></use>
+        </svg>
+      </button>
+
+      <a href="javascript:void(0)" class="nav-arrow-down">
+        <svg>
+          <use href="assets/svgSprite.svg#arrowdownbutton"></use>
+        </svg>
+      </a>
+
+      <button class="nav-list-momentary">
+        <svg>
+          <use href="assets/svgSprite.svg#listbutton"></use>
+        </svg>
+
+        <article class="btn-tooltip tooltip">
+          <div class="wrapper">
+            <span translate="no">Choose and press here &nbsp; </span>
+            <svg>
+              <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+            </svg>
+            <div class="circle circle-12"></div>
+            <div class="circle circle-11"></div>
+            <div class="circle circle-10"></div>
+            <div class="circle circle-9"></div>
+            <div class="circle circle-8"></div>
+            <div class="circle circle-7"></div>
+            <div class="circle circle-6"></div>
+            <div class="circle circle-5"></div>
+            <div class="circle circle-4"></div>
+            <div class="circle circle-3"></div>
+            <div class="circle circle-2"></div>
+            <div class="circle circle-1"></div>
+          </div>
+          <div class="triangle"></div>
+        </article>
+      </button>
+    </nav>
+
+    <main>
+      <article class="card" id="song-1">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-2">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-3">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-4">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-5">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-6">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-7">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-8">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-9">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-10">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-11">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-12">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-13">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-14">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-15">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-16">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-17">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-18">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-19">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+      <article class="card" id="song-20">
+        <div class="card-left">
+          <aside class="img">
+            <input type="range" step="0.1" value="0" class="input-range" />
+          </aside>
+        </div>
+        <div class="card-right">
+          <section class="card-right-top" translate="no"></section>
+          <div class="card-right-down">
+            <section class="card-right-buttons">
+              <button class="card-playbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#playbutton"></use>
+                </svg>
+              </button>
+              <button class="card-pausebutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#pausebutton"></use>
+                </svg>
+              </button>
+              <button class="card-stopbutton">
+                <svg>
+                  <use href="assets/svgSpriteCardMusical.svg#stopbutton"></use>
+                </svg>
+              </button>
+              <button class="card-infinitybutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#infinitybutton"
+                  ></use>
+                </svg>
+              </button>
+              <button class="card-downloadbutton">
+                <a class="anchor-download" href="" download="">
+                  <svg>
+                    <use
+                      href="assets/svgSpriteCardMusical.svg#downloadbutton"
+                    ></use>
+                  </svg>
+                </a>
+              </button>
+              <button class="card-playlistbutton">
+                <svg>
+                  <use
+                    href="assets/svgSpriteCardMusical.svg#playlistbutton"
+                  ></use>
+                </svg>
+              </button>
+            </section>
+          </div>
+        </div>
+      </article>
+    </main>
+  </body>
+  <section class="background-container">
+    <div class="star-1 star"></div>
+  </section>
+</html>
