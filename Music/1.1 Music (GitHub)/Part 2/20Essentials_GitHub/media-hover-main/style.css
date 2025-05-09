@@ -1,0 +1,104 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
+}
+
+html {
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+  scrollbar-color: #88d5f8 #fff;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  place-content: center;
+  background-image: url('assets/texture.svg');
+}
+
+.container-content {
+  max-width: 900px;
+  width: 40%;
+
+  @media (width <= 700px) {
+    width: 70%;
+  }
+  @media (width <= 650px) {
+    width: 70%;
+    zoom: 0.7;
+  }
+  @media (width <= 400px) and (orientation: landscape) {
+    width: 70%;
+    zoom: 0.4;
+  }
+
+  h2 {
+    margin-bottom: 1rem;
+  }
+
+  h2,
+  summary {
+    background-color: #e9e9e9;
+    padding: 0.5rem;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  summary {
+    display: flex;
+    justify-content: space-between;
+    &::marker {
+      content: '';
+    }
+
+    &::after {
+      content: '🔒';
+    }
+
+    [open] &::after {
+      content: '🔓';
+    }
+  }
+
+  .img {
+    zoom: 0.5;
+  }
+
+  .img2 {
+    zoom: 0.8;
+  }
+
+  .container-details {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5rem;
+  }
+
+  p {
+    background-color: #fff4;
+    backdrop-filter: blur(4px);
+    padding: 0.5rem;
+  }
+
+  img,
+  video {
+    max-width: 100%;
+  }
+
+  ::details-content {
+    interpolate-size: allow-keywords;
+    height: 0;
+    transition: height 0.4s ease, content-visibility 0.4s ease allow-discrete;
+    overflow: clip;
+  }
+
+  [open]::details-content {
+    height: auto;
+  }
+}

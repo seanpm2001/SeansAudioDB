@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" width="102px" height="102px">
+  <style type="text/css">
+    @keyframes ld-pulse
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.0413,0.3905,0.5086,0.6902);
+    transform: scale(1);
+  }
+  24.3% {
+    animation-timing-function: cubic-bezier(0.2248,0.6332,0.5246,1);
+    transform: scale(0.8458);
+  }
+  55% {
+    animation-timing-function: cubic-bezier(0.3036,0.3393,0.655,0.6144);
+    transform: scale(0.8022);
+  }
+  70.2% {
+    animation-timing-function: cubic-bezier(0.4464,0.2728,0.5562,0.7288);
+    transform: scale(0.8294);
+  }
+  82.3% {
+    animation-timing-function: cubic-bezier(0.6826,0.1845,1,0.7358);
+    transform: scale(0.869);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.ld.ld-pulse {
+  animation: ld-pulse 0.5s infinite;
+}
+    @keyframes ld-move {
+      0% { transform: translate(0,0) }
+      100% { transform: translate(256px,0) }
+    }
+  </style>
+  <defs><g id="id-0.7341146011134456">
+    
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -44.4508 84.6863)" fill="#A1E3FF" cx="80" cy="96" rx="13.5" ry="27"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -63.196 39.4315)" fill="#FFFFFF" cx="16" cy="96" rx="27" ry="13.5"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 10.1766 88.5685)" fill="#FFFFFF" cx="112" cy="32" rx="27" ry="13.5"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -8.5685 43.3137)" fill="#A1E3FF" cx="48" cy="32" rx="27" ry="13.5"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -6.9605 175.196)" fill="#A1E3FF" cx="208" cy="96" rx="27" ry="13.5"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -25.7056 129.9411)" fill="#50CDFF" cx="144" cy="96" rx="13.5" ry="27"/>
+<ellipse transform="matrix(0.7031 -0.7111 0.7111 0.7031 48.5095 180.1735)" fill="#50CDFF" cx="240" cy="32" rx="13.5" ry="27"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 28.9218 133.8234)" fill="#FFFFFF" cx="176" cy="32" rx="13.5" ry="27"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -134.9605 122.1766)" fill="#FFFFFF" cx="80" cy="224" rx="27" ry="13.5"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -153.7056 76.9218)" fill="#FFFFFF" cx="16" cy="224" rx="13.5" ry="27"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -80.333 126.0589)" fill="#FFFFFF" cx="112" cy="160" rx="27" ry="13.5"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -99.0782 80.804)" fill="#A1E3FF" cx="48" cy="160" rx="13.5" ry="27"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -97.4701 212.6863)" fill="#FFFFFF" cx="208" cy="224" rx="13.5" ry="27"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -116.2153 167.4315)" fill="#50CDFF" cx="144" cy="224" rx="13.5" ry="27"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -42.8427 216.5685)" fill="#50CDFF" cx="240" cy="160" rx="13.5" ry="27"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -61.5879 171.3137)" fill="#A1E3FF" cx="176" cy="160" rx="27" ry="13.5"/>
+
+
+  </g></defs>
+  <rect x="0" y="0" fill="#0089D0" width="256" height="256"/>
+  <g>
+    <use xlink:href="#id-0.7341146011134456" x="-256" y="-256"/><use xlink:href="#id-0.7341146011134456" x="0" y="-256"/><use xlink:href="#id-0.7341146011134456" x="256" y="-256"/><use xlink:href="#id-0.7341146011134456" x="-256" y="0"/><use xlink:href="#id-0.7341146011134456" x="0" y="0"/><use xlink:href="#id-0.7341146011134456" x="256" y="0"/><use xlink:href="#id-0.7341146011134456" x="-256" y="256"/><use xlink:href="#id-0.7341146011134456" x="0" y="256"/><use xlink:href="#id-0.7341146011134456" x="256" y="256"/>
+    <animateTransform attributeName="transform" type="translate" dur="4s" repeatCount="indefinite" keyTimes="0;1" values="0;256"/>
+  </g>
+</svg>
