@@ -1,0 +1,2637 @@
+<!DOCTYPE html>
+<!-- saved from url=(0029)http://localhost:4321/player# -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="module">
+  import AtroposComponent from "https://unpkg.com/atropos@2.0.2/atropos-element.mjs";
+  import { setAnimation } from "/player/modules/setAnimation.js";
+  customElements.define("atropos-component", AtroposComponent);
+
+  class CoverCard extends HTMLElement {
+    constructor() {
+      super();
+      this.attachShadow({ mode: "open" });
+    }
+
+    static get styles() {
+      return /* css */`
+        :host {
+          display: block;
+          position: absolute;
+          inset: 0;
+          bottom: -10px;
+          background: #0008;
+          z-index: 50;
+          backdrop-filter: blur(5px);
+        }
+
+        atropos-component {
+          --size: 512px;
+
+          @media (width <= 512px) {
+            --size: 350px;
+          }
+
+          width: var(--size);
+          height: var(--size);
+          z-index: 5;
+          padding: 0;
+          border: 0;
+          position: absolute;
+          left: calc(50% - var(--size) / 2);
+          top: calc(50% - var(--size) / 2);
+
+          & img {
+            width: var(--size);
+            height: var(--size);
+          }
+
+          & .cover {
+            max-width: var(--size);
+            max-height: var(--size);
+            z-index: 10;
+            position: absolute;
+            top: 0;
+            left: 0;
+            
+
+            &::after {
+              content: "";
+              background: url("/player/cover-texture.jpg");
+              width: calc(var(--size) + 60px);
+              height: calc(var(--size) + 60px);
+              background-size: calc(var(--size) + 30px) calc(var(--size) + 30px);
+              background-position: center;
+              mix-blend-mode: screen;
+              opacity: 15%;
+              position: absolute;
+              top: -30px;
+              left: -30px;
+              pointer-events: none;
+            }
+
+            &::before {
+              content: "";
+              width: calc(var(--size) + 60px);
+              height: calc(var(--size) + 60px);
+              background: radial-gradient(#0000 50%, #000);
+              background-size: cover;
+              background-position: center;
+              position: absolute;
+              mix-blend-mode: overlay;
+              z-index: 10;
+              top: 0;
+              left: 0;
+              pointer-events: none;
+            }
+          }
+
+          & .img {
+            width: 100%;
+            height: 100%;
+          }
+        }
+      `;
+    }
+
+    connectedCallback() {
+      this.image = this.getAttribute("src");
+      this.render();
+      this.addEventListener("click", () => this.remove());
+
+      const atroposComponent = this.shadowRoot.querySelector("atropos-component");
+      setAnimation(atroposComponent);
+    }
+
+    render() {
+      this.shadowRoot.innerHTML = /* html */`
+        <style>${CoverCard.styles}</style>
+        <atropos-component>
+          <img src="${this.image}" alt="Cover Single Image">
+          <div class="cover"></div>
+        </atropos-component>
+      `;
+    }
+  }
+
+  customElements.define("cover-card", CoverCard);
+</script>  <link rel="shortcut icon" href="http://localhost:4321/player/assets/favicon.webp" type="image/x-icon"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>SpotiMusic Player</title> <style data-vite-dev-id="C:/Users/amoil/Desktop/spotimusic/src/layout/base.astro?astro&amp;type=style&amp;index=0&amp;lang.css">@font-face{font-family:"Open Sans";src:url(/player/fonts/open-sans.woff2) format("woff2"),url(/player/fonts/open-sans.woff) format("woff"),url(/player/fonts/open-sans.ttf) format("truetype")}:root{--light-bgcolor: #232323;--medium-bgcolor: #121212;--dark-bgcolor: #000;--border-radius: 15px;--theme-color: #f007c3;--light-textcolor: #fff;--dark-textcolor: #a7a39f;--accent-color: #1ed760;--offset: 0.5rem;--default-font: "Open Sans", sans-serif, system-ui;--player-height: 125px}html{color-scheme:dark}body{background:#000;overflow:hidden;width:100vw;height:100vh;margin:0}</style>
+<style data-vite-dev-id="C:/Users/amoil/Desktop/spotimusic/src/components/PlayListItem.astro?astro&amp;type=style&amp;index=0&amp;lang.css">.playlist-item[data-astro-cid-4ht3nsfd]{--avatar-size: 55px;display:inline-flex;align-items:center;padding:0.5rem;gap:0.25rem 0.75rem;border-radius:8px;&:hover{background:var(--light-bgcolor);cursor:pointer}& img[data-astro-cid-4ht3nsfd]{width:var(--avatar-size);height:var(--avatar-size);border-radius:5px}& .data[data-astro-cid-4ht3nsfd]{display:flex;flex-direction:column;gap:0.3rem;& .title[data-astro-cid-4ht3nsfd]{font-weight:400}& [data-astro-cid-4ht3nsfd][data-icon]{color:var(--accent-color)}& .subtitle-container[data-astro-cid-4ht3nsfd]{color:var(--dark-textcolor);font-weight:500}}}</style>
+<style data-vite-dev-id="C:/Users/amoil/Desktop/spotimusic/src/ui/Sidebar/MainSidebar.astro?astro&amp;type=style&amp;index=0&amp;lang.css">.container[data-astro-cid-k36g45pi]{display:flex;flex-direction:column}.playlist-container[data-astro-cid-k36g45pi]{font-family:var(--default-font);font-size:0.9rem;& .search-container[data-astro-cid-k36g45pi]{display:flex;align-items:center;padding:0.5rem 1rem;& input[data-astro-cid-k36g45pi][type=search]{border:0;background:transparent;padding:0.4rem 0;margin:0 0.5rem;width:150px}&>span[data-astro-cid-k36g45pi]{display:flex;align-items:center;gap:0.3rem}}& .playlist[data-astro-cid-k36g45pi]{display:flex;flex-direction:column;gap:0 0.5rem;padding:0 0.5rem;max-width:90vw;overflow-y:scroll;max-height:calc(100vh - 350px);@media (height <= 700px) and (width >= 1300px){max-height:calc(100vh - 300px)}@media (width <= 1300px){display:grid;grid-auto-flow:column dense;overflow-x:scroll;overflow-y:auto}}.playlist::-webkit-scrollbar {width: 12px;} .playlist::-webkit-scrollbar-thumb {background: #4442; border-radius: 0 15px 15px 0;} .playlist::-webkit-scrollbar-track {background: transparent;}}</style>
+<style data-vite-dev-id="C:/Users/amoil/Desktop/spotimusic/src/ui/Sidebar/TopSidebar.astro?astro&amp;type=style&amp;index=0&amp;lang.css">.container[data-astro-cid-idvjuxwx]{display:flex;flex-direction:column;padding:1rem;gap:0.25rem 0;background-color:orange}</style>
+<style data-vite-dev-id="C:/Users/amoil/Desktop/spotimusic/src/ui/Sidebar/index.astro?astro&amp;type=style&amp;index=0&amp;lang.css">.container[data-astro-cid-6b5ihhfi]{display:flex;flex-direction:column;height:100%;gap:1rem 0}.top-sidebar[data-astro-cid-6b5ihhfi]{background:var(--medium-bgcolor);border-radius:var(--border-radius);@media (width <= 1300px){display:none}@media (height <= 700px) and (width >= 1300px){display:none}}.main-sidebar[data-astro-cid-6b5ihhfi]{background:var(--medium-bgcolor);border-radius:var(--border-radius);height:100%}</style>
+<style data-vite-dev-id="C:/Users/amoil/Desktop/spotimusic/src/ui/Content/Playlist.astro?astro&amp;type=style&amp;index=0&amp;lang.css">.playlist[data-astro-cid-mlamalio]{--translucid-color: color-mix(in srgb, var(--medium-bgcolor), transparent 65%);--playlist-format: 40px 1fr 0.7fr 0.7fr 0.1fr 42px;display:flex;flex-direction:column;padding:1.25rem;background:linear-gradient(to bottom,var(--translucid-color) 0 25%,var(--medium-bgcolor) 80% 100%);container:songitem / inline-size;& header[data-astro-cid-mlamalio]{display:grid;grid-template-columns:var(--playlist-format);font-family:var(--default-font);font-weight:500;font-size:0.9rem;color:var(--dark-textcolor);@container songitem (width <= 1000px){--playlist-format: 135px 1fr;& div[data-astro-cid-mlamalio]:nth-child(3),& div[data-astro-cid-mlamalio]:nth-child(4),& div[data-astro-cid-mlamalio]:nth-child(5){display:none}}&>div[data-astro-cid-mlamalio]{padding:0 0.5rem}&>div[data-astro-cid-mlamalio]:nth-child(4){text-align:center}&+hr[data-astro-cid-mlamalio]{width:100%;border:0;border-bottom:1px solid var(--dark-textcolor);opacity:0.25}}}</style>
+<style data-vite-dev-id="C:/Users/amoil/Desktop/spotimusic/src/ui/Content/index.astro?astro&amp;type=style&amp;index=0&amp;lang.css">.container[data-astro-cid-aqhblxhm]{--dark-theme-color: color-mix(in srgb, var(--theme-color), #000 75%);display:grid;background:linear-gradient(to bottom,var(--theme-color),var(--dark-theme-color) 60%);border-radius:var(--border-radius);max-height:calc(100vh - (var(--player-height) + 50px));overflow-y:scroll;@media (width <= 1300px){height:calc(100% - 250px - 20px)}@media (width <= 767px){height:calc(100% - 250px)}&::before{content:"";position:absolute;background:linear-gradient(to right,transparent,#000 45%),linear-gradient(to bottom,var(--theme-color),var(--dark-theme-color) 60%),var(--song-image, linear-gradient(transparent, transparent));width:100vw;height:100vh;opacity:0.025;background-blend-mode:normal,color,color;pointer-events:none;background-size:contain;background-repeat:no-repeat;background-position:20%;background-blend-mode:color;z-index:0;transition:opacity 0.25s;overflow:hidden;display:none}}.container[data-astro-cid-aqhblxhm]::-webkit-scrollbar{width:12px}.container[data-astro-cid-aqhblxhm]::-webkit-scrollbar-thumb{background:#fff3;border-radius:0 15px 15px 0}.container[data-astro-cid-aqhblxhm]::-webkit-scrollbar-track{background:transparent}</style>
+<style data-vite-dev-id="C:/Users/amoil/Desktop/spotimusic/src/ui/Player/SongVolume.astro?astro&amp;type=style&amp;index=0&amp;lang.css">.song-volume-container[data-astro-cid-243r45sf]{width:200px;margin-left:auto;height:100%;display:grid;grid-template-columns:50px 1fr;gap:0 0.1rem;align-items:center}.volume-icon[data-astro-cid-243r45sf]{display:grid;place-items:center}</style>
+<style data-vite-dev-id="C:/Users/amoil/Desktop/spotimusic/src/ui/Player/SongInfo.astro?astro&amp;type=style&amp;index=0&amp;lang.css">.song-info-container[data-astro-cid-777hvpqc]{height:100%;display:grid;grid-template-columns:96px 1fr;grid-template-rows:1fr 1fr;gap:0 0.5rem;& .avatar-song[data-astro-cid-777hvpqc]{--size: 96px;grid-row-start:1;grid-row-end:3;width:var(--size);height:var(--size);display:grid;place-items:center;position:relative;overflow:hidden;img {width: 85%; height: 85%; border-radius: 10px; background-color: #fff1;}}& p[data-astro-cid-777hvpqc]{font-family:var(--default-font);display:grid;margin:0;&.title{color:#fff;align-items:end}&.artist{color:#777;align-items:start}}}</style>
+<style data-vite-dev-id="C:/Users/amoil/Desktop/spotimusic/src/ui/Player/SongPlayer.astro?astro&amp;type=style&amp;index=0&amp;lang.css">.song-player-container[data-astro-cid-aomgrfx3]{height:100%;display:grid;grid-template-rows:42px 24px;align-content:center;& .buttons[data-astro-cid-aomgrfx3]{display:inline-grid;justify-items:center;align-items:center;grid-template-columns:repeat(2,50px) 64px repeat(2,50px);grid-template-rows:1fr;margin:auto;& button[data-astro-cid-aomgrfx3]{cursor:pointer;background:none;border:0;font-size:1rem;&.disabled svg[data-astro-cid-aomgrfx3]{color:#444}}& .circle[data-astro-cid-aomgrfx3]{--size: 40px;width:var(--size);height:var(--size);background:#fff;border-radius:50%;display:grid;place-items:center;color:#000}}& .time-container[data-astro-cid-aomgrfx3]{--time-size: 42px;display:grid;grid-template-columns:var(--time-size) 1fr var(--time-size);align-items:center;gap:0 1rem;font-family:var(--default-font);font-size:0.9rem;& .bar-container[data-astro-cid-aomgrfx3]{--progress: 100%;background:#666;height:5px;border-radius:2px;overflow:hidden;& .bar[data-astro-cid-aomgrfx3]{background:#fff;width:var(--progress);height:100%}}}}</style>
+<style data-vite-dev-id="C:/Users/amoil/Desktop/spotimusic/src/ui/Player/index.astro?astro&amp;type=style&amp;index=0&amp;lang.css">@media (width <= 1300px) {
+
+    .player {
+      --player-height: 200px;
+
+      & div.container {
+        grid-template-columns: 1fr;
+        padding-right: 0.5rem;
+
+        & .song-info-container { grid-row: 1 / 2; grid-column: 1 / 2; }
+        & .song-player-container { grid-row: 2 / 3; grid-column: 1 / 3; }
+        & .song-volume-container { grid-row: 1 / 2; grid-column: 2 / 3; }
+      }
+    }
+  }
+
+  @media (width <= 550px) {
+    body div.player {
+      --player-height: 250px;
+
+      & div.container {
+        gap: 1rem;
+
+        & .song-info-container { grid-row: 1 / 2; grid-column: 1 / 3; justify-self: center; }
+        & .song-volume-container { grid-row: 2 / 3; grid-column: 1 / 3; justify-self: center; margin-left: 0; }
+        & .song-player-container { grid-row: 3 / 4; grid-column: 1 / 3; }
+      }
+    }
+  }</style>
+<style data-vite-dev-id="C:/Users/amoil/Desktop/spotimusic/src/ui/Player/index.astro?astro&amp;type=style&amp;index=1&amp;lang.css">.container[data-astro-cid-lxeybmsx]{display:grid;grid-template-columns:1fr 1fr 1fr;justify-content:space-between;height:100%;padding-right:1.5rem}</style>
+<style data-vite-dev-id="C:/Users/amoil/Desktop/spotimusic/src/pages/index.astro?astro&amp;type=style&amp;index=0&amp;lang.css">.container[data-astro-cid-j7pv25f6]{display:grid;grid-template-columns:1fr;grid-template-rows:30px 1fr;justify-content:center;background:var(--dark-bgcolor);padding:1rem}.player[data-astro-cid-j7pv25f6]{background:var(--dark-bgcolor);height:var(--player-height);width:100%;display:grid;position:absolute;left:0;bottom:0;padding:1rem;z-index:25;box-sizing:border-box}.content-container[data-astro-cid-j7pv25f6]{display:grid;grid-template-columns:300px 1fr;height:calc(100% - var(--player-height));@media (width <= 1300px){grid-template-columns:1fr}}.content[data-astro-cid-j7pv25f6]{padding:0;padding-left:1rem;@media (width <= 1300px){padding-top:1rem;padding-left:0}}</style><script type="module" src="./SpotiMusic Player_files/base.astro"></script>
+<script type="module" src="./SpotiMusic Player_files/client"></script>
+<script type="module" src="./SpotiMusic Player_files/base(1).astro"></script>
+<script type="module" src="./SpotiMusic Player_files/PlayListItem.astro"></script>
+<script type="module" src="./SpotiMusic Player_files/MainSidebar.astro"></script>
+<script type="module" src="./SpotiMusic Player_files/TopSidebar.astro"></script>
+<script type="module" src="./SpotiMusic Player_files/index.astro"></script>
+<script type="module" src="./SpotiMusic Player_files/Playlist.astro"></script>
+<script type="module" src="./SpotiMusic Player_files/index(1).astro"></script>
+<script type="module" src="./SpotiMusic Player_files/SongVolume.astro"></script>
+<script type="module" src="./SpotiMusic Player_files/SongInfo.astro"></script>
+<script type="module" src="./SpotiMusic Player_files/SongPlayer.astro"></script>
+<script type="module" src="./SpotiMusic Player_files/index(2).astro"></script>
+<script type="module" src="./SpotiMusic Player_files/index(3).astro"></script>
+<script type="module" src="./SpotiMusic Player_files/index(4).astro"></script></head><body data-astro-cid-upqv7g22="" style="--theme-color: #f007c3; --song-image: url(https://20essentials.github.io/queen-ost/assets/n1.avif);">  <div class="container" data-astro-cid-j7pv25f6=""> <div class="content-container" data-astro-cid-j7pv25f6=""> <div class="sidebar" data-astro-cid-j7pv25f6=""> <div class="container" data-astro-cid-6b5ihhfi=""> <div class="top-sidebar" data-astro-cid-6b5ihhfi=""> <div class="container" data-astro-cid-idvjuxwx=""> <img src="./SpotiMusic Player_files/lupa.svg" alt="lupaIcons" data-astro-cid-idvjuxwx=""> <input placeholder="search" type="text" data-astro-cid-idvjuxwx=""> </div> </div> <div class="main-sidebar" data-astro-cid-6b5ihhfi=""> <div class="container" data-astro-cid-k36g45pi=""> <div class="playlist-container" data-astro-cid-k36g45pi=""> <div class="search-container" data-astro-cid-k36g45pi=""> <span data-astro-cid-k36g45pi=""><svg width="1em" height="1em" viewBox="0 0 16 16" data-astro-cid-k36g45pi="" data-icon="list">  <symbol id="ai:local:list"><path fill="currentColor" d="M15 14.5H5V13h10v1.5zm0-5.75H5v-1.5h10v1.5zM15 3H5V1.5h10V3zM3 3H1V1.5h2V3zm0 11.5H1V13h2v1.5zm0-5.75H1v-1.5h2v1.5z"></path></symbol><use xlink:href="#ai:local:list"></use>  </svg> Listas</span> </div> <div class="playlist" data-astro-cid-k36g45pi=""> <div class="playlist-item" data-id="bluerock" data-color="#f007c3" data-astro-cid-4ht3nsfd=""> <img src="./SpotiMusic Player_files/n1.avif" alt="Blue Rock" data-astro-cid-4ht3nsfd=""> <div class="data" data-astro-cid-4ht3nsfd=""> <strong class="title" data-astro-cid-4ht3nsfd="">Blue Rock</strong> <div class="subtitle-container" data-astro-cid-4ht3nsfd=""> <svg width="1em" height="1em" viewBox="0 0 16 16" data-astro-cid-4ht3nsfd="" data-icon="pinned">  <symbol id="ai:local:pinned"><path fill="currentColor" d="M8.822.797a2.72 2.72 0 0 1 3.847 0l2.534 2.533a2.72 2.72 0 0 1 0 3.848l-3.678 3.678-1.337 4.988-4.486-4.486L1.28 15.78a.75.75 0 0 1-1.06-1.06l4.422-4.422L.156 5.812l4.987-1.337L8.822.797z"></path></symbol><use xlink:href="#ai:local:pinned"></use>  </svg> <span data-astro-cid-4ht3nsfd="">Lista - Blue Rock</span> </div> </div> </div><div class="playlist-item" data-id="englishpop" data-color="#dccf08" data-astro-cid-4ht3nsfd=""> <img src="./SpotiMusic Player_files/n1(1).avif" alt="English Pop" data-astro-cid-4ht3nsfd=""> <div class="data" data-astro-cid-4ht3nsfd=""> <strong class="title" data-astro-cid-4ht3nsfd="">English Pop</strong> <div class="subtitle-container" data-astro-cid-4ht3nsfd=""> <svg width="1em" height="1em" viewBox="0 0 16 16" data-astro-cid-4ht3nsfd="" data-icon="pinned">  <use xlink:href="#ai:local:pinned"></use>  </svg> <span data-astro-cid-4ht3nsfd="">Lista - English Pop</span> </div> </div> </div><div class="playlist-item" data-id="melodicrock" data-color="#2ab240" data-astro-cid-4ht3nsfd=""> <img src="./SpotiMusic Player_files/n1(2).avif" alt="Melodic Rock" data-astro-cid-4ht3nsfd=""> <div class="data" data-astro-cid-4ht3nsfd=""> <strong class="title" data-astro-cid-4ht3nsfd="">Melodic Rock</strong> <div class="subtitle-container" data-astro-cid-4ht3nsfd=""> <svg width="1em" height="1em" viewBox="0 0 16 16" data-astro-cid-4ht3nsfd="" data-icon="pinned">  <use xlink:href="#ai:local:pinned"></use>  </svg> <span data-astro-cid-4ht3nsfd="">Lista - Melodic Rock</span> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div class="content" data-astro-cid-j7pv25f6=""> <div class="container" data-astro-cid-aqhblxhm=""> <script type="module">
+class BalloonButton extends HTMLElement {
+
+  constructor() {
+    super();
+    this.attachShadow({ mode: "open" });
+  }
+
+  static get styles() {
+    return /* css */`
+      a {
+        --size: 30px;
+
+        width: var(--size);
+        height: var(--size);
+        display: grid;
+        place-items: center;
+        border-radius: 50%;
+        border: 0;
+        background: #000a;
+        text-decoration: none;
+        color: #fff;
+
+        &[href] {
+          cursor: pointer;
+        }
+
+        &[disabled] {
+          background: #0004;
+        }
+
+        &.large {
+          display: flex;
+          align-items: center;
+          gap: 0.25rem;
+          width: max-content;
+          border-radius: 50px;
+          padding-left: 0.5rem;
+          padding-right: 0.75rem;
+          font-family: var(--default-font);
+          font-size: 0.8rem;
+          font-weight: 500;
+
+          & [data-icon] {
+            font-size: 1.1rem;
+          }
+        }
+
+        &.avatar {
+          background-image: url("/player/assets/favicon.webp");
+          background-size: cover;
+          background-clip: padding-box;
+          border: 3px solid #000a;
+          box-sizing: border-box;
+        }
+      }
+    `;
+  }
+
+  connectedCallback() {
+    this.href = this.getAttribute("href");
+    this.disabled = this.hasAttribute("disabled");
+    this.render();
+  }
+
+  render() {
+    this.shadowRoot.innerHTML = /* html */`
+      <style>${BalloonButton.styles}</style>
+      <a class="balloon-button ${this.className}" ${this.disabled && "disabled"} href=${this.href ?? "#"}>
+         <slot></slot>  
+      </div>
+    `;
+  }
+}
+
+customElements.define("balloon-button", BalloonButton);
+</script> <script type="module">
+  import { formatTime, convertToSeconds } from '/player/modules/formatTime.js';
+  import { emitEvent } from '/player/modules/emitter.js';
+
+  class ListHeader extends HTMLElement {
+    constructor() {
+      super();
+      this.attachShadow({ mode: 'open' });
+    }
+
+    static get styles() {
+      return /* css */ `
+        :host {
+          mix-blend-mode: normal;
+          z-index: 5;
+
+          @media (width <= 550px) {
+            display: none;
+          }
+        }
+
+        header {
+          display: flex;
+          flex-direction: column;
+          container: listdata / inline-size;
+          padding-bottom: 1rem;
+
+          & .top {
+            display: flex;
+            padding: 1.25rem;
+
+            @media (width <= 1300px) {
+              display: none;
+            }
+
+            & :is(nav, .main) {
+              display: flex;
+              gap: 0.5rem;
+            }
+
+            & .main {
+              margin-left: auto;
+            }
+          }
+
+          & .data {
+            display: flex;
+            gap: 0 2rem;
+            padding: 1.5rem;
+
+            @container listdata (width <= 900px) {
+              flex-direction: column;
+            }
+
+            & .cover {
+              --size: 256px;
+
+              width: var(--size);
+              height: var(--size);
+              border-radius: 6px;
+              box-shadow:
+                0 4px 10px #0008,
+                0 0 20px #000a;
+              background-color: #fff1;
+            }
+
+            & .avatar {
+              --size: 32px;
+
+              width: var(--size);
+              height: var(--size);
+              background-image: url("/player/assets/favicon.webp");
+              background-size: cover;
+              border-radius: 50%;
+            }
+
+            & .info {
+              display: flex;
+              flex-direction: column;
+              justify-content: end;
+              font-family: var(--default-font);
+
+              @container listdata (width <= 900px) {
+                margin-top: 1rem;
+
+                & strong { display: none }
+              }
+
+              & .row {
+                display: grid;
+                grid-auto-flow: column;
+                justify-content: start;
+                gap: 0.5rem;
+                align-items: center;
+              }
+
+              & h1 {
+                margin: 0;
+                font-size: 5rem;
+                font-weight: 800;
+                letter-spacing: -4px;
+
+                @media (width <= 1300px) {
+                  font-size: 3rem;
+                }
+              }
+
+              & .total-duration {
+                color: var(--dark-textcolor);
+              }
+            }
+          }
+        }
+      `;
+    }
+
+    setData(title, songs) {
+      const slug = title.toLowerCase().replaceAll(' ', '');
+      const total = songs.length;
+      const duration = songs
+        .map(song => convertToSeconds(song.duration))
+        .reduce((first, acc) => first + acc, 0);
+      const [min] = formatTime(duration).split(':');
+      const time = `${min} min `;
+      
+      this.shadowRoot.querySelector('h1').textContent = title;
+      this.shadowRoot.querySelector('.info-subtitle').textContent =
+        `Spotimusic · ${total} canciones,`;
+      this.shadowRoot.querySelector('.total-duration').textContent =
+        `${time} de duración aproximadamente`;
+
+      setTimeout(() => {
+        const result = `.playlist-item[data-id=${slug}] img`
+        this.shadowRoot.querySelector('img.cover').src =
+        document.querySelector(result)?.src;
+      }, 20)
+    }
+
+    connectedCallback() {
+      this.render();
+
+      const [prevButton, nextButton] =
+        this.shadowRoot.querySelectorAll('balloon-button');
+      prevButton.addEventListener('click', () =>
+        emitEvent('list:prev', document, null)
+      );
+      nextButton.addEventListener('click', () =>
+        emitEvent('list:next', document, null)
+      );
+    }
+
+    render() {
+      this.shadowRoot.innerHTML = /* html */ `
+        <style>${ListHeader.styles}</style>
+        <header>
+          <div class="top">
+            <nav>
+              <balloon-button disabled><slot name="left"></slot></balloon-button>
+              <balloon-button disabled><slot name="right"></slot></balloon-button>
+            </nav>
+            <div class="main">
+              <balloon-button class="large" href="https://github.com/20essentials/spotimusic">
+                <slot name="star"></slot> GitHub
+              </balloon-button>
+     
+              <balloon-button class="avatar" href="https://github.com/20essentials"></balloon-button>
+            </div>
+          </div>
+          <div class="data">
+            <img class="cover" src="/player/assets/transparent.png" alt="Cover Image">
+            <div class="info">
+              <strong>Lista</strong>
+              <h1>MusicDev</h1>
+              <div class="row">
+                <div class="avatar"></div>
+                <span class="info-subtitle">ManzDev · 15 canciones,</span>
+                <span class="total-duration">42 min de duración aproximadamente</span>
+              </div>
+            </div>
+          </div>
+        </header>
+      `;
+    }
+  }
+
+  customElements.define('list-header', ListHeader);
+</script> <list-header><template shadowrootmode="open">
+        <style>
+        :host {
+          mix-blend-mode: normal;
+          z-index: 5;
+
+          @media (width <= 550px) {
+            display: none;
+          }
+        }
+
+        header {
+          display: flex;
+          flex-direction: column;
+          container: listdata / inline-size;
+          padding-bottom: 1rem;
+
+          & .top {
+            display: flex;
+            padding: 1.25rem;
+
+            @media (width <= 1300px) {
+              display: none;
+            }
+
+            & :is(nav, .main) {
+              display: flex;
+              gap: 0.5rem;
+            }
+
+            & .main {
+              margin-left: auto;
+            }
+          }
+
+          & .data {
+            display: flex;
+            gap: 0 2rem;
+            padding: 1.5rem;
+
+            @container listdata (width <= 900px) {
+              flex-direction: column;
+            }
+
+            & .cover {
+              --size: 256px;
+
+              width: var(--size);
+              height: var(--size);
+              border-radius: 6px;
+              box-shadow:
+                0 4px 10px #0008,
+                0 0 20px #000a;
+              background-color: #fff1;
+            }
+
+            & .avatar {
+              --size: 32px;
+
+              width: var(--size);
+              height: var(--size);
+              background-image: url("/player/assets/favicon.webp");
+              background-size: cover;
+              border-radius: 50%;
+            }
+
+            & .info {
+              display: flex;
+              flex-direction: column;
+              justify-content: end;
+              font-family: var(--default-font);
+
+              @container listdata (width <= 900px) {
+                margin-top: 1rem;
+
+                & strong { display: none }
+              }
+
+              & .row {
+                display: grid;
+                grid-auto-flow: column;
+                justify-content: start;
+                gap: 0.5rem;
+                align-items: center;
+              }
+
+              & h1 {
+                margin: 0;
+                font-size: 5rem;
+                font-weight: 800;
+                letter-spacing: -4px;
+
+                @media (width <= 1300px) {
+                  font-size: 3rem;
+                }
+              }
+
+              & .total-duration {
+                color: var(--dark-textcolor);
+              }
+            }
+          }
+        }
+      </style>
+        <header>
+          <div class="top">
+            <nav>
+              <balloon-button disabled=""><template shadowrootmode="open">
+      <style>
+      a {
+        --size: 30px;
+
+        width: var(--size);
+        height: var(--size);
+        display: grid;
+        place-items: center;
+        border-radius: 50%;
+        border: 0;
+        background: #000a;
+        text-decoration: none;
+        color: #fff;
+
+        &[href] {
+          cursor: pointer;
+        }
+
+        &[disabled] {
+          background: #0004;
+        }
+
+        &.large {
+          display: flex;
+          align-items: center;
+          gap: 0.25rem;
+          width: max-content;
+          border-radius: 50px;
+          padding-left: 0.5rem;
+          padding-right: 0.75rem;
+          font-family: var(--default-font);
+          font-size: 0.8rem;
+          font-weight: 500;
+
+          & [data-icon] {
+            font-size: 1.1rem;
+          }
+        }
+
+        &.avatar {
+          background-image: url("/player/assets/favicon.webp");
+          background-size: cover;
+          background-clip: padding-box;
+          border: 3px solid #000a;
+          box-sizing: border-box;
+        }
+      }
+    </style>
+      <a class="balloon-button " disabled="" href="http://localhost:4321/player#">
+         <slot></slot>  
+      
+    </a></template><slot name="left"></slot></balloon-button>
+              <balloon-button disabled=""><template shadowrootmode="open">
+      <style>
+      a {
+        --size: 30px;
+
+        width: var(--size);
+        height: var(--size);
+        display: grid;
+        place-items: center;
+        border-radius: 50%;
+        border: 0;
+        background: #000a;
+        text-decoration: none;
+        color: #fff;
+
+        &[href] {
+          cursor: pointer;
+        }
+
+        &[disabled] {
+          background: #0004;
+        }
+
+        &.large {
+          display: flex;
+          align-items: center;
+          gap: 0.25rem;
+          width: max-content;
+          border-radius: 50px;
+          padding-left: 0.5rem;
+          padding-right: 0.75rem;
+          font-family: var(--default-font);
+          font-size: 0.8rem;
+          font-weight: 500;
+
+          & [data-icon] {
+            font-size: 1.1rem;
+          }
+        }
+
+        &.avatar {
+          background-image: url("/player/assets/favicon.webp");
+          background-size: cover;
+          background-clip: padding-box;
+          border: 3px solid #000a;
+          box-sizing: border-box;
+        }
+      }
+    </style>
+      <a class="balloon-button " disabled="" href="http://localhost:4321/player#">
+         <slot></slot>  
+      
+    </a></template><slot name="right"></slot></balloon-button>
+            </nav>
+            <div class="main">
+              <balloon-button class="large" href="https://github.com/20essentials/spotimusic"><template shadowrootmode="open">
+      <style>
+      a {
+        --size: 30px;
+
+        width: var(--size);
+        height: var(--size);
+        display: grid;
+        place-items: center;
+        border-radius: 50%;
+        border: 0;
+        background: #000a;
+        text-decoration: none;
+        color: #fff;
+
+        &[href] {
+          cursor: pointer;
+        }
+
+        &[disabled] {
+          background: #0004;
+        }
+
+        &.large {
+          display: flex;
+          align-items: center;
+          gap: 0.25rem;
+          width: max-content;
+          border-radius: 50px;
+          padding-left: 0.5rem;
+          padding-right: 0.75rem;
+          font-family: var(--default-font);
+          font-size: 0.8rem;
+          font-weight: 500;
+
+          & [data-icon] {
+            font-size: 1.1rem;
+          }
+        }
+
+        &.avatar {
+          background-image: url("/player/assets/favicon.webp");
+          background-size: cover;
+          background-clip: padding-box;
+          border: 3px solid #000a;
+          box-sizing: border-box;
+        }
+      }
+    </style>
+      <a class="balloon-button large" false="" href="https://github.com/20essentials/spotimusic">
+         <slot></slot>  
+      
+    </a></template>
+                <slot name="star"></slot> GitHub
+              </balloon-button>
+     
+              <balloon-button class="avatar" href="https://github.com/20essentials"><template shadowrootmode="open">
+      <style>
+      a {
+        --size: 30px;
+
+        width: var(--size);
+        height: var(--size);
+        display: grid;
+        place-items: center;
+        border-radius: 50%;
+        border: 0;
+        background: #000a;
+        text-decoration: none;
+        color: #fff;
+
+        &[href] {
+          cursor: pointer;
+        }
+
+        &[disabled] {
+          background: #0004;
+        }
+
+        &.large {
+          display: flex;
+          align-items: center;
+          gap: 0.25rem;
+          width: max-content;
+          border-radius: 50px;
+          padding-left: 0.5rem;
+          padding-right: 0.75rem;
+          font-family: var(--default-font);
+          font-size: 0.8rem;
+          font-weight: 500;
+
+          & [data-icon] {
+            font-size: 1.1rem;
+          }
+        }
+
+        &.avatar {
+          background-image: url("/player/assets/favicon.webp");
+          background-size: cover;
+          background-clip: padding-box;
+          border: 3px solid #000a;
+          box-sizing: border-box;
+        }
+      }
+    </style>
+      <a class="balloon-button avatar" false="" href="https://github.com/20essentials">
+         <slot></slot>  
+      
+    </a></template></balloon-button>
+            </div>
+          </div>
+          <div class="data">
+            <img class="cover" src="./SpotiMusic Player_files/n1.avif" alt="Cover Image">
+            <div class="info">
+              <strong>Lista</strong>
+              <h1>Blue Rock</h1>
+              <div class="row">
+                <div class="avatar"></div>
+                <span class="info-subtitle">Spotimusic · 20 canciones,</span>
+                <span class="total-duration">89 min  de duración aproximadamente</span>
+              </div>
+            </div>
+          </div>
+        </header>
+      </template> <svg width="1em" height="1em" viewBox="0 0 16 16" slot="right" data-icon="chevron-right">  <symbol id="ai:local:chevron-right"><path fill="currentColor" d="M4.97.47a.75.75 0 0 0 0 1.06L11.44 8l-6.47 6.47a.75.75 0 1 0 1.06 1.06L13.56 8 6.03.47a.75.75 0 0 0-1.06 0z"></path></symbol><use xlink:href="#ai:local:chevron-right"></use>  </svg> <svg width="1em" height="1em" viewBox="0 0 16 16" slot="left" data-icon="chevron-left">  <symbol id="ai:local:chevron-left"><path fill="currentColor" d="M11.03.47a.75.75 0 0 1 0 1.06L4.56 8l6.47 6.47a.75.75 0 1 1-1.06 1.06L2.44 8 9.97.47a.75.75 0 0 1 1.06 0z"></path></symbol><use xlink:href="#ai:local:chevron-left"></use>  </svg> <svg width="1em" height="1em" viewBox="0 0 24 24" slot="download" data-icon="download">  <symbol id="ai:local:download"><path fill="currentColor" d="m12 16 4-4-1.4-1.4-1.6 1.6V8h-2v4.2l-1.6-1.6L8 12zm0 6q-2.075 0-3.9-.788t-3.175-2.137T2.788 15.9 2 12t.788-3.9 2.137-3.175T8.1 2.788 12 2t3.9.788 3.175 2.137T21.213 8.1 22 12t-.788 3.9-2.137 3.175-3.175 2.138T12 22m0-2q3.35 0 5.675-2.325T20 12t-2.325-5.675T12 4 6.325 6.325 4 12t2.325 5.675T12 20m0-8"></path></symbol><use xlink:href="#ai:local:download"></use>  </svg> <svg width="1em" height="1em" viewBox="0 0 24 24" slot="star" data-icon="star">  <symbol id="ai:local:star"><path fill="currentColor" d="m5.825 21 1.625-7.025L2 9.25l7.2-.625L12 2l2.8 6.625 7.2.625-5.45 4.725L18.175 21 12 17.275z"></path></symbol><use xlink:href="#ai:local:star"></use>  </svg> <svg width="1em" height="1em" viewBox="0 0 16 16" slot="bell" data-icon="bell">  <symbol id="ai:local:bell"><path fill="currentColor" d="M8 1.5a4 4 0 0 0-4 4v3.27a.75.75 0 0 1-.1.373L2.255 12h11.49L12.1 9.142a.75.75 0 0 1-.1-.374V5.5a4 4 0 0 0-4-4zm-5.5 4a5.5 5.5 0 0 1 11 0v3.067l2.193 3.809a.75.75 0 0 1-.65 1.124H10.5a2.5 2.5 0 0 1-5 0H.957a.75.75 0 0 1-.65-1.124L2.5 8.569V5.5zm4.5 8a1 1 0 1 0 2 0H7z"></path></symbol><use xlink:href="#ai:local:bell"></use>  </svg> </list-header> <div class="song playlist" data-astro-cid-mlamalio=""> <script type="module">
+  import { setAnimation } from '/player/modules/setAnimation.js';
+
+  class SongItem extends HTMLElement {
+    constructor() {
+      super();
+      this.attachShadow({ mode: 'open' });
+    }
+
+    static get styles() {
+      return /* css */ `
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      `;
+    }
+
+    connectedCallback() {
+      this.slug = this.getAttribute('slug');
+      this.title = this.getAttribute('title');
+      this.artist = this.getAttribute('artist');
+      this.album = this.getAttribute('album');
+      this.date = this.getAttribute('date');
+      this.duration = this.getAttribute('duration');
+      this.index = Number(this.getAttribute('index'));
+      this.urlPoster = this.getAttribute('urlPoster');
+      this.urlSong = this.getAttribute('urlSong');
+      this.image = this.urlPoster;
+      this.thumb = this.urlPoster;
+      this.render();
+      const rowItem = this.shadowRoot.querySelector('.row-item');
+      setTimeout(() => setAnimation(rowItem, 'FadeMove'), this.index * 25);
+    }
+
+    getData() {
+      return {
+        index: this.index,
+        album: this.album,
+        artist: this.artist,
+        date: this.date,
+        duration: this.duration,
+        slug: this.slug,
+        title: this.title,
+        urlPoster: this.urlPoster,
+        urlSong: this.urlSong
+      };
+    }
+
+    render() {
+      this.shadowRoot.innerHTML = /* html */ `
+        <style>${SongItem.styles}</style>
+        <div class="row-item" data-id=${this.index}>
+          <div class="num">${this.index + 1}</div>
+          <div class="title-container">
+            <img src=${this.thumb} alt=${this.title}>
+            <div class="group">
+              <div>${this.title}</div>
+              <div class="artist">${this.artist}</div>
+            </div>
+          </div>
+          <div>${this.album}</div>
+          <div>${this.date.substring(0, 10)}</div>
+          <div>${this.duration}</div>
+        </div>
+      `;
+    }
+  }
+
+  customElements.define('song-item', SongItem);
+</script> <header data-astro-cid-mlamalio=""> <div class="cell" data-astro-cid-mlamalio="">#</div> <div class="cell" data-astro-cid-mlamalio="">Título</div> <div class="cell" data-astro-cid-mlamalio="">Álbum</div> <div class="cell" data-astro-cid-mlamalio="">Fecha en la que se añadió</div> <div class="cell" data-astro-cid-mlamalio=""><svg width="1em" height="1em" viewBox="0 0 16 16" data-astro-cid-mlamalio="" data-icon="clock">  <symbol id="ai:local:clock"><path fill="currentColor" d="M8 1.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"></path><path fill="currentColor" d="M8 3.25a.75.75 0 0 1 .75.75v3.25H11a.75.75 0 0 1 0 1.5H7.25V4A.75.75 0 0 1 8 3.25z"></path></symbol><use xlink:href="#ai:local:clock"></use>  </svg></div> <div class="cell" data-astro-cid-mlamalio=""></div> </header> <hr data-astro-cid-mlamalio=""> <song-item index="0" title="Under Pressure" artist="Queen" slug="queen" album="Blue Rock" date="2024-06-01T00:00:00" duration="04:08" urlsong="https://20essentials.github.io/queen-ost/songs/n3.mp3" urlposter="https://20essentials.github.io/queen-ost/assets/n1.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="0">
+          <div class="num">1</div>
+          <div class="title-container">
+            <img src="./SpotiMusic Player_files/n1.avif" alt="Under" pressure="">
+            <div class="group">
+              <div>Under Pressure</div>
+              <div class="artist">Queen</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-01</div>
+          <div>04:08</div>
+        </div>
+      </template></song-item><song-item index="1" title="Beautiful Day" artist="U2" slug="u2" album="Blue Rock" date="2024-06-02T00:00:00" duration="04:05" urlsong="https://20essentials.github.io/u2-band/songs/n1.mp3" urlposter="https://20essentials.github.io/u2-band/assets/n1.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="1">
+          <div class="num">2</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/u2-band/assets/n1.avif" alt="Beautiful" day="">
+            <div class="group">
+              <div>Beautiful Day</div>
+              <div class="artist">U2</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-02</div>
+          <div>04:05</div>
+        </div>
+      </template></song-item><song-item index="2" title="Dancing With Myself" artist="Billy Idol" slug="billy-idol" album="Blue Rock" date="2024-06-03T00:00:00" duration="04:48" urlsong="https://20essentials.github.io/billy-idol-soundtrack/songs/n3.mp3" urlposter="https://20essentials.github.io/billy-idol-soundtrack/assets/n1.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="2">
+          <div class="num">3</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/billy-idol-soundtrack/assets/n1.avif" alt="Dancing" with="" myself="">
+            <div class="group">
+              <div>Dancing With Myself</div>
+              <div class="artist">Billy Idol</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-03</div>
+          <div>04:48</div>
+        </div>
+      </template></song-item><song-item index="3" title="With or Without You" artist="U2" slug="u2" album="Blue Rock" date="2024-06-04T00:00:00" duration="04:52" urlsong="https://20essentials.github.io/u2-band/songs/n2.mp3" urlposter="https://20essentials.github.io/u2-band/assets/n2.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="3">
+          <div class="num">4</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/u2-band/assets/n2.avif" alt="With" or="" without="" you="">
+            <div class="group">
+              <div>With or Without You</div>
+              <div class="artist">U2</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-04</div>
+          <div>04:52</div>
+        </div>
+      </template></song-item><song-item index="4" title="Justify" artist="Rasmus" slug="rasmus" album="Blue Rock" date="2024-06-05T00:00:00" duration="04:13" urlsong="https://20essentials.github.io/the-rasmus-band/songs/n3.mp3" urlposter="https://20essentials.github.io/the-rasmus-band/assets/n1.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="4">
+          <div class="num">5</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/the-rasmus-band/assets/n1.avif" alt="Justify">
+            <div class="group">
+              <div>Justify</div>
+              <div class="artist">Rasmus</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-05</div>
+          <div>04:13</div>
+        </div>
+      </template></song-item><song-item index="5" title="City of The Blinding Lights" artist="U2" slug="u2" album="Blue Rock" date="2024-06-06T00:00:00" duration="05:21" urlsong="https://20essentials.github.io/u2-band/songs/n4.mp3" urlposter="https://20essentials.github.io/u2-band/assets/n3.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="5">
+          <div class="num">6</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/u2-band/assets/n3.avif" alt="City" of="" the="" blinding="" lights="">
+            <div class="group">
+              <div>City of The Blinding Lights</div>
+              <div class="artist">U2</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-06</div>
+          <div>05:21</div>
+        </div>
+      </template></song-item><song-item index="6" title="Lamp Halo" artist="Zeromancer" slug="zeromancer" album="Blue Rock" date="2024-06-07T00:00:00" duration="04:07" urlsong="https://20essentials.github.io/zeromancer-ost/songs/n6.mp3" urlposter="https://20essentials.github.io/zeromancer-ost/assets/n1.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="6">
+          <div class="num">7</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/zeromancer-ost/assets/n1.avif" alt="Lamp" halo="">
+            <div class="group">
+              <div>Lamp Halo</div>
+              <div class="artist">Zeromancer</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-07</div>
+          <div>04:07</div>
+        </div>
+      </template></song-item><song-item index="7" title="Unforgettable Fire" artist="U2" slug="u2" album="Blue Rock" date="2024-06-08T00:00:00" duration="04:49" urlsong="https://20essentials.github.io/u2-band/songs/n6.mp3" urlposter="https://20essentials.github.io/u2-band/assets/n4.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="7">
+          <div class="num">8</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/u2-band/assets/n4.avif" alt="Unforgettable" fire="">
+            <div class="group">
+              <div>Unforgettable Fire</div>
+              <div class="artist">U2</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-08</div>
+          <div>04:49</div>
+        </div>
+      </template></song-item><song-item index="8" title="Eyes Without Face" artist="Billy Idol" slug="billy-idol" album="Blue Rock" date="2024-06-09T00:00:00" duration="04:55" urlsong="https://20essentials.github.io/billy-idol-soundtrack/songs/n1.mp3" urlposter="https://20essentials.github.io/billy-idol-soundtrack/assets/n2.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="8">
+          <div class="num">9</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/billy-idol-soundtrack/assets/n2.avif" alt="Eyes" without="" face="">
+            <div class="group">
+              <div>Eyes Without Face</div>
+              <div class="artist">Billy Idol</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-09</div>
+          <div>04:55</div>
+        </div>
+      </template></song-item><song-item index="9" title="New Year&#39;s day" artist="U2" slug="u2" album="Blue Rock" date="2024-06-10T00:00:00" duration="04:14" urlsong="https://20essentials.github.io/u2-band/songs/n8.mp3" urlposter="https://20essentials.github.io/u2-band/assets/n1.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="9">
+          <div class="num">10</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/u2-band/assets/n1.avif" alt="New" year's="" day="">
+            <div class="group">
+              <div>New Year's day</div>
+              <div class="artist">U2</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-10</div>
+          <div>04:14</div>
+        </div>
+      </template></song-item><song-item index="10" title="Love&#39;s a Battlefield" artist="Pat Benatar" slug="pat-benatar" album="Blue Rock" date="2024-06-11T00:00:00" duration="05:25" urlsong="https://20essentials.github.io/pat-benatar-ost/songs/n2.mp3" urlposter="https://20essentials.github.io/pat-benatar-ost/assets/n1.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="10">
+          <div class="num">11</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/pat-benatar-ost/assets/n1.avif" alt="Love&#39;s" a="" battlefield="">
+            <div class="group">
+              <div>Love's a Battlefield</div>
+              <div class="artist">Pat Benatar</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-11</div>
+          <div>05:25</div>
+        </div>
+      </template></song-item><song-item index="11" title="Shadowplay" artist="The Killers" slug="the-killers" album="Blue Rock" date="2024-06-12T00:00:00" duration="04:09" urlsong="https://20essentials.github.io/the-killers-ost/songs/n1.mp3" urlposter="https://20essentials.github.io/the-killers-ost/assets/n1.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="11">
+          <div class="num">12</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/the-killers-ost/assets/n1.avif" alt="Shadowplay">
+            <div class="group">
+              <div>Shadowplay</div>
+              <div class="artist">The Killers</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-12</div>
+          <div>04:09</div>
+        </div>
+      </template></song-item><song-item index="12" title="HeartBreaker" artist="Pat Benatar" slug="pat-benatar" album="Blue Rock" date="2024-06-13T00:00:00" duration="03:29" urlsong="https://20essentials.github.io/pat-benatar-ost/songs/n1.mp3" urlposter="https://20essentials.github.io/pat-benatar-ost/assets/n2.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="12">
+          <div class="num">13</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/pat-benatar-ost/assets/n2.avif" alt="HeartBreaker">
+            <div class="group">
+              <div>HeartBreaker</div>
+              <div class="artist">Pat Benatar</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-13</div>
+          <div>03:29</div>
+        </div>
+      </template></song-item><song-item index="13" title="Everything will be Alright" artist="The Killers" slug="the-killers" album="Blue Rock" date="2024-06-14T00:00:00" duration="05:43" urlsong="https://20essentials.github.io/the-killers-ost/songs/n4.mp3" urlposter="https://20essentials.github.io/the-killers-ost/assets/n3.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="13">
+          <div class="num">14</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/the-killers-ost/assets/n3.avif" alt="Everything" will="" be="" alright="">
+            <div class="group">
+              <div>Everything will be Alright</div>
+              <div class="artist">The Killers</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-14</div>
+          <div>05:43</div>
+        </div>
+      </template></song-item><song-item index="14" title="5&#39;Oclock in the Morning" artist="Village People" slug="village-people" album="Blue Rock" date="2024-06-15T00:00:00" duration="05:43" urlsong="https://20essentials.github.io/village-people-ost/songs/n18.mp3" urlposter="https://20essentials.github.io/village-people-ost/assets/n1.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="14">
+          <div class="num">15</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/village-people-ost/assets/n1.avif" alt="5&#39;Oclock" in="" the="" morning="">
+            <div class="group">
+              <div>5'Oclock in the Morning</div>
+              <div class="artist">Village People</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-15</div>
+          <div>05:43</div>
+        </div>
+      </template></song-item><song-item index="15" title="Human" artist="The Killers" slug="the-killers" album="Blue Rock" date="2024-06-16T00:00:00" duration="04:05" urlsong="https://20essentials.github.io/the-killers-ost/songs/n5.mp3" urlposter="https://20essentials.github.io/the-killers-ost/assets/n4.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="15">
+          <div class="num">16</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/the-killers-ost/assets/n4.avif" alt="Human">
+            <div class="group">
+              <div>Human</div>
+              <div class="artist">The Killers</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-16</div>
+          <div>04:05</div>
+        </div>
+      </template></song-item><song-item index="16" title="Hold my Hand" artist="New Found Glory" slug="new-found-glory" album="Blue Rock" date="2024-06-17T00:00:00" duration="03:57" urlsong="https://20essentials.github.io/new-found-glory/songs/n20.mp3" urlposter="https://20essentials.github.io/new-found-glory/assets/n1.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="16">
+          <div class="num">17</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/new-found-glory/assets/n1.avif" alt="Hold" my="" hand="">
+            <div class="group">
+              <div>Hold my Hand</div>
+              <div class="artist">New Found Glory</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-17</div>
+          <div>03:57</div>
+        </div>
+      </template></song-item><song-item index="17" title="Breed" artist="Nirvana" slug="nirvana" album="Blue Rock" date="2024-06-18T00:00:00" duration="03:03" urlsong="https://20essentials.github.io/nirvana-ost/songs/n11.mp3" urlposter="https://20essentials.github.io/nirvana-ost/assets/n1.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="17">
+          <div class="num">18</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/nirvana-ost/assets/n1.avif" alt="Breed">
+            <div class="group">
+              <div>Breed</div>
+              <div class="artist">Nirvana</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-18</div>
+          <div>03:03</div>
+        </div>
+      </template></song-item><song-item index="18" title="A Day In The Life" artist="Beatles" slug="the-beatles" album="Blue Rock" date="2024-06-19T00:00:00" duration="05:12" urlsong="https://20essentials.github.io/the-beatles-ost/songs/n5.mp3" urlposter="https://20essentials.github.io/the-beatles-ost/assets/n1.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="18">
+          <div class="num">19</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/the-beatles-ost/assets/n1.avif" alt="A" day="" in="" the="" life="">
+            <div class="group">
+              <div>A Day In The Life</div>
+              <div class="artist">Beatles</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-19</div>
+          <div>05:12</div>
+        </div>
+      </template></song-item><song-item index="19" title="Come as your Are" artist="Nirvana" slug="nirvana" album="Blue Rock" date="2024-06-20T00:00:00" duration="03:39" urlsong="https://20essentials.github.io/nirvana-ost/songs/n2.mp3" urlposter="https://20essentials.github.io/nirvana-ost/assets/n2.avif"><template shadowrootmode="open">
+        <style>
+        :host {
+          container: songitem / inline-size;
+        }
+
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          font-size: 1rem;
+          align-items: center;
+          padding: 0.25rem 0.5rem;
+          border-radius: 5px;
+          user-select: none;
+          opacity: 0;
+
+          @container songitem (width <= 1000px) {
+            --playlist-format: 26px 1fr;
+
+            & div:nth-child(3),
+            & div:nth-child(4),
+            & div:nth-child(5),
+          }
+
+          & > div:nth-child(4) {
+            text-align: center;
+          }
+
+          &:hover {
+            background: #ffffff15;
+            cursor: pointer;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+
+          & img {
+            --size: 64px;
+
+            width: var(--size);
+            height: var(--size);
+            border-radius: 5px;
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      </style>
+        <div class="row-item" data-id="19">
+          <div class="num">20</div>
+          <div class="title-container">
+            <img src="https://20essentials.github.io/nirvana-ost/assets/n2.avif" alt="Come" as="" your="" are="">
+            <div class="group">
+              <div>Come as your Are</div>
+              <div class="artist">Nirvana</div>
+            </div>
+          </div>
+          <div>Blue Rock</div>
+          <div>2024-06-20</div>
+          <div>03:39</div>
+        </div>
+      </template></song-item></div> </div> </div> </div> <div class="player" data-astro-cid-j7pv25f6=""> <div class="container" data-astro-cid-lxeybmsx=""> <script type="module">
+  const addCoverCard = link => {
+    const existentCoverCard = document.querySelector('cover-card');
+    if (existentCoverCard) existentCoverCard.remove();
+
+    const coverCard = document.createElement('cover-card');
+    coverCard.setAttribute('src', link);
+    document.body.append(coverCard);
+  };
+
+  const image = document.querySelector('.song-info-container img');
+  image.addEventListener('click', () => addCoverCard(image.src));
+
+  document.addEventListener('player:update-info', ({ detail }) => {
+    const {
+      songData: { title, artist, urlPoster, slug, album },
+      autoplay
+    } = detail;
+
+    const container = document.querySelector('.song-info-container');
+    const titleTag = container.querySelector('.title');
+    const artistTag = container.querySelector('.artist');
+    const imageTag = container.querySelector('img');
+
+    titleTag.textContent = title;
+    artistTag.textContent = artist;
+    imageTag.src = urlPoster ;
+    imageTag.alt = title;
+    document.body.style.setProperty('--song-image', `url(${imageTag.src})`);
+
+    autoplay && addCoverCard(imageTag.src);
+  });
+</script><div class="song-info-container" data-astro-cid-777hvpqc=""> <div class="avatar-song" data-astro-cid-777hvpqc=""> <img src="./SpotiMusic Player_files/n1.avif" alt="Under Pressure" data-astro-cid-777hvpqc=""> </div> <p class="title" data-astro-cid-777hvpqc="">Under Pressure</p> <p class="artist" data-astro-cid-777hvpqc="">Queen</p> </div> <script type="module">
+  import { emitEvent } from "/player/modules/emitter.js";
+
+  class ProgressSlider extends HTMLElement {
+    constructor() {
+      super();
+      this.attachShadow({ mode: "open" });
+    }
+
+    static get styles() {
+      return /* css */`
+
+      :host {
+        --progress: 0%;
+      }
+
+      .bar-container {
+        background: #333;
+        height: 5px;
+        border-radius: 2px;
+        overflow: hidden;
+
+        & .bar {
+          background: #fff;
+          width: var(--progress);
+          height: 100%;
+        }
+
+       /* &:hover .bar {
+          background: var(--theme-color, #fff);
+        } */
+      }
+      `;
+
+     
+    }
+
+    connectedCallback() {
+      this.setValue(this.getAttribute("value") ?? 0);
+      this.render();
+      const barContainer = this.shadowRoot.querySelector(".bar-container");
+      barContainer.addEventListener("click", ({ offsetX }) => {
+        const size = barContainer.getBoundingClientRect().width;
+        const targetSize = Math.min(Math.max(0, offsetX), size);
+        const percentage = ~~((targetSize * 100) / size);
+
+        this.id === "current-song" && emitEvent("song:changetime", this, percentage);
+        this.id === "volume" && emitEvent("volume:change", this, percentage);
+
+        this.setValue(percentage);
+      });
+
+      barContainer.addEventListener("wheel", ({ deltaY }) => {
+        const STEP = 0.05;
+        const delta = deltaY < 0 ? STEP : -STEP;
+        this.id === "current-song" && emitEvent("song:slidetime", this, delta);
+        this.id === "volume" && emitEvent("volume:slide", this, delta);
+
+        const oldValue = Number(this.getAttribute("value"));
+        const value = Math.max(0, Math.min(oldValue + (delta * 100), 100));
+        this.setValue(value);
+      }, { passive: true });
+    }
+
+    setValue(value) {
+      this.setAttribute("value", value);
+      this.style.setProperty("--progress", `${value}%`);
+    }
+
+    render() {
+      this.shadowRoot.innerHTML = /* html */`
+        <style>${ProgressSlider.styles}</style>
+        <div class="bar-container">
+          <div class="bar"></div>
+        </div>
+      `;
+    }
+  }
+
+  customElements.define("progress-slider", ProgressSlider);
+</script>  <script type="module">
+  import { MusicPlayer } from "/player/modules/MusicPlayer.js";
+
+  const getURLData = () => {
+    const anchor = new URL(location.href).hash.toLowerCase().substring(1) || "bluerock-0";
+    // const anchor = new URL(location.href).hash.toLowerCase().substring(1) || "musicdev-0";
+    const [playlistName, id] = anchor.split("-");
+    return {
+      // playlistName: playlistName ?? "musicdev",
+      playlistName: playlistName ?? "bluerock",
+      id: Number(id) ?? 0
+    }
+  }
+
+  const { playlistName, id } = getURLData();
+  const musicPlayer = new MusicPlayer(playlistName, id);
+
+  const buttons = {
+    play: document.querySelector(".song-player-container .play"),
+    prev: document.querySelector(".song-player-container .prev"),
+    next: document.querySelector(".song-player-container .next"),
+    shuffle: document.querySelector(".song-player-container .shuffle"),
+    repeat: document.querySelector(".song-player-container .repeat")
+  }
+
+  buttons.play.addEventListener("click", () => musicPlayer.play());
+  buttons.prev.addEventListener("click", () => musicPlayer.prev());
+  buttons.next.addEventListener("click", () => musicPlayer.next());
+  buttons.repeat.addEventListener("click", () => buttons.repeat.classList.toggle("disabled"));
+  buttons.shuffle.addEventListener("click", () => {
+    buttons.shuffle.classList.toggle("disabled");
+    musicPlayer.sortSongs();
+  });
+
+  /* Sidebar playlist */
+
+  const playlistItems = document.querySelectorAll(".playlist-item");
+  playlistItems.forEach(playlist => {
+    playlist.addEventListener("click", async () => {
+      const slug = playlist.dataset.id;
+      const title = playlist.querySelector(".title").textContent;
+      const songs = await musicPlayer.selectList(slug, title, playlist.dataset.color);
+    });
+  });
+
+  /* Songlist */
+  const songPlaylist = document.querySelector(".song.playlist");
+  songPlaylist.addEventListener("click", (ev) => {
+    const isClick = ev.detail === 1;
+
+    if (isClick) {
+      const newSongs = [...document.querySelectorAll("song-item")].map(song => song.getData());
+      musicPlayer.setSongs(newSongs);
+      const rowItem = ev.composedPath().find(tag => tag.classList?.contains("row-item"));
+      let id = Number(rowItem.dataset.id);
+
+      let newIndex = id;
+      if (musicPlayer.isShuffle) {
+        newIndex = musicPlayer.songList.findIndex(song => song.index === id);
+      }
+
+      if (rowItem) {
+        musicPlayer.prepare(newIndex);
+        musicPlayer.play();
+        musicPlayer.togglePlayPause(true);
+      }
+    }
+
+  });
+</script> <div class="song-player-container" data-astro-cid-aomgrfx3=""> <div class="buttons" data-astro-cid-aomgrfx3=""> <button class="shuffle disabled" data-astro-cid-aomgrfx3=""><svg width="1em" height="1em" viewBox="0 0 16 16" data-astro-cid-aomgrfx3="" data-icon="shuffle">  <symbol id="ai:local:shuffle"><path fill="currentColor" d="M13.151.922a.75.75 0 1 0-1.06 1.06L13.109 3H11.16a3.75 3.75 0 0 0-2.873 1.34l-6.173 7.356A2.25 2.25 0 0 1 .39 12.5H0V14h.391a3.75 3.75 0 0 0 2.873-1.34l6.173-7.356a2.25 2.25 0 0 1 1.724-.804h1.947l-1.017 1.018a.75.75 0 0 0 1.06 1.06L15.98 3.75 13.15.922zM.391 3.5H0V2h.391c1.109 0 2.16.49 2.873 1.34L4.89 5.277l-.979 1.167-1.796-2.14A2.25 2.25 0 0 0 .39 3.5z"></path><path fill="currentColor" d="m7.5 10.723.98-1.167.957 1.14a2.25 2.25 0 0 0 1.724.804h1.947l-1.017-1.018a.75.75 0 1 1 1.06-1.06l2.829 2.828-2.829 2.828a.75.75 0 1 1-1.06-1.06L13.109 13H11.16a3.75 3.75 0 0 1-2.873-1.34l-.787-.938z"></path></symbol><use xlink:href="#ai:local:shuffle"></use>  </svg></button> <button class="prev" data-astro-cid-aomgrfx3=""><svg width="1em" height="1em" viewBox="0 0 16 16" data-astro-cid-aomgrfx3="" data-icon="backward">  <symbol id="ai:local:backward"><path fill="currentColor" d="M3.3 1a.7.7 0 0 1 .7.7v5.15l9.95-5.744a.7.7 0 0 1 1.05.606v12.575a.7.7 0 0 1-1.05.607L4 9.149V14.3a.7.7 0 0 1-.7.7H1.7a.7.7 0 0 1-.7-.7V1.7a.7.7 0 0 1 .7-.7h1.6z"></path></symbol><use xlink:href="#ai:local:backward"></use>  </svg></button> <button class="play circle" data-astro-cid-aomgrfx3=""> <div class="play" data-astro-cid-aomgrfx3=""><svg width="1em" height="1em" viewBox="0 0 16 16" data-astro-cid-aomgrfx3="" data-icon="play">  <symbol id="ai:local:play"><path fill="currentColor" d="M3 1.713a.7.7 0 0 1 1.05-.607l10.89 6.288a.7.7 0 0 1 0 1.212L4.05 14.894A.7.7 0 0 1 3 14.288V1.713z"></path></symbol><use xlink:href="#ai:local:play"></use>  </svg></div> <div class="pause" hidden="" data-astro-cid-aomgrfx3=""><svg width="1em" height="1em" viewBox="0 0 24 24" data-astro-cid-aomgrfx3="" data-icon="pause">  <symbol id="ai:local:pause"><path fill="currentColor" d="M6 5h4v14H6zm8 0h4v14h-4z"></path></symbol><use xlink:href="#ai:local:pause"></use>  </svg></div> </button> <button class="next" data-astro-cid-aomgrfx3=""><svg width="1em" height="1em" viewBox="0 0 16 16" data-astro-cid-aomgrfx3="" data-icon="forward">  <symbol id="ai:local:forward"><path fill="currentColor" d="M12.7 1a.7.7 0 0 0-.7.7v5.15L2.05 1.107A.7.7 0 0 0 1 1.712v12.575a.7.7 0 0 0 1.05.607L12 9.149V14.3a.7.7 0 0 0 .7.7h1.6a.7.7 0 0 0 .7-.7V1.7a.7.7 0 0 0-.7-.7h-1.6z"></path></symbol><use xlink:href="#ai:local:forward"></use>  </svg></button> <button class="repeat disabled" data-astro-cid-aomgrfx3=""><svg width="1em" height="1em" viewBox="0 0 16 16" data-astro-cid-aomgrfx3="" data-icon="repeat">  <symbol id="ai:local:repeat"><path fill="currentColor" d="M0 4.75A3.75 3.75 0 0 1 3.75 1h8.5A3.75 3.75 0 0 1 16 4.75v5a3.75 3.75 0 0 1-3.75 3.75H9.81l1.018 1.018a.75.75 0 1 1-1.06 1.06L6.939 12.75l2.829-2.828a.75.75 0 1 1 1.06 1.06L9.811 12h2.439a2.25 2.25 0 0 0 2.25-2.25v-5a2.25 2.25 0 0 0-2.25-2.25h-8.5A2.25 2.25 0 0 0 1.5 4.75v5A2.25 2.25 0 0 0 3.75 12H5v1.5H3.75A3.75 3.75 0 0 1 0 9.75v-5z"></path></symbol><use xlink:href="#ai:local:repeat"></use>  </svg></button> <!-- button class="view-card disabled"><Icon name="cards" /></button --> </div> <div class="time-container" data-astro-cid-aomgrfx3=""> <time data-astro-cid-aomgrfx3="">00:00</time> <progress-slider id="current-song" data-astro-cid-aomgrfx3="" value="0" style="--progress: 0%;"><template shadowrootmode="open">
+        <style>
+
+      :host {
+        --progress: 0%;
+      }
+
+      .bar-container {
+        background: #333;
+        height: 5px;
+        border-radius: 2px;
+        overflow: hidden;
+
+        & .bar {
+          background: #fff;
+          width: var(--progress);
+          height: 100%;
+        }
+
+       /* &:hover .bar {
+          background: var(--theme-color, #fff);
+        } */
+      }
+      </style>
+        <div class="bar-container">
+          <div class="bar"></div>
+        </div>
+      </template></progress-slider> <time data-astro-cid-aomgrfx3="">04:08</time> </div> </div> <div class="song-volume-container" data-astro-cid-243r45sf=""> <div class="volume-icon" data-astro-cid-243r45sf=""> <div class="icon" data-astro-cid-243r45sf=""><svg width="1em" height="1em" viewBox="0 0 15 15" data-astro-cid-243r45sf="" data-icon="volume">  <symbol id="ai:local:volume"><path fill="currentColor" d="m3.5 10.494.257-.429-.119-.07H3.5zm0-5.996v.5h.138l.12-.071zm5-2.998H9a.5.5 0 0 0-.757-.429zm0 11.992-.257.429A.5.5 0 0 0 9 13.492zm-5-3.498h-2v1h2zm-2 0a.5.5 0 0 1-.5-.5H0c0 .83.672 1.5 1.5 1.5zm-.5-.5V5.498H0v3.998zm0-3.997a.5.5 0 0 1 .5-.499v-1a1.5 1.5 0 0 0-1.5 1.5zm.5-.499h2v-1h-2zm2.257-.071 5-2.998-.514-.858-5 2.998zM8 1.5v11.992h1V1.5zm.757 11.563-5-2.998-.514.858 5 2.998zM10 6v3h1V6zm2-2v7h1V4zm2-2v11h1V2z"></path></symbol><use xlink:href="#ai:local:volume"></use>  </svg></div> <div class="icon" hidden="" data-astro-cid-243r45sf=""><svg width="1em" height="1em" viewBox="0 0 15 15" data-astro-cid-243r45sf="" data-icon="volume-off">  <symbol id="ai:local:volume-off"><path fill="currentColor" d="m3.5 10.494.257-.429-.119-.07H3.5zm0-5.996v.5h.138l.12-.071zm5-2.998H9a.5.5 0 0 0-.757-.429zm0 11.992-.257.429A.5.5 0 0 0 9 13.492zm2.94-7.763-.354-.353-.707.707.354.354zm2.12 3.534.354.353.707-.707-.354-.353zm.708-2.826.353-.354-.707-.707-.353.353zm-3.535 2.119-.354.353.707.707.354-.353zM3.5 9.994h-2v1h2zm-2 0a.499.499 0 0 1-.5-.5H0c0 .83.671 1.5 1.5 1.5zm-.5-.5V5.498H0v3.998zm0-3.997c0-.276.223-.499.5-.499v-1c-.829 0-1.5.67-1.5 1.5zm.5-.499h2v-1h-2zm2.257-.071 5-2.998-.514-.858-5 2.998zM8 1.5v11.992h1V1.5zm.757 11.563-5-2.998-.514.858 5 2.998zm1.976-6.626 2.827 2.826.707-.707-2.828-2.827zm2.828-.708-2.828 2.827.707.707 2.828-2.826z"></path></symbol><use xlink:href="#ai:local:volume-off"></use>  </svg></div> </div> <progress-slider id="volume" value="100" data-astro-cid-243r45sf="" style="--progress: 100%;"><template shadowrootmode="open">
+        <style>
+
+      :host {
+        --progress: 0%;
+      }
+
+      .bar-container {
+        background: #333;
+        height: 5px;
+        border-radius: 2px;
+        overflow: hidden;
+
+        & .bar {
+          background: #fff;
+          width: var(--progress);
+          height: 100%;
+        }
+
+       /* &:hover .bar {
+          background: var(--theme-color, #fff);
+        } */
+      }
+      </style>
+        <div class="bar-container">
+          <div class="bar"></div>
+        </div>
+      </template></progress-slider> </div> <script type="module">
+  const volumeIcon = document.querySelector(".volume-icon");
+  const volumeSlider = document.querySelector("#volume");
+
+  document.addEventListener("volume:mute", () => toggleVolumeIcon(false));
+  document.addEventListener("volume:unmute", () => toggleVolumeIcon(true));
+</script> </div> </div> </div>  </body></html>
