@@ -1,0 +1,28 @@
+---
+import SongVolume from './SongVolume.astro';
+import SongInfo from './SongInfo.astro';
+import SongPlayer from './SongPlayer.astro';
+---
+
+<style>
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+    height: 100%;
+    padding-inline: 1.3vmax;
+    align-items: center;
+    
+
+    @media (width <= 1111px) and (orientation: portrait) {
+      grid-template-columns: 1fr 2fr;
+      padding-right: 1.7vmax;
+    }
+  }
+</style>
+
+<div class='container'>
+  <SongInfo />
+  <SongPlayer />
+  <SongVolume />
+</div>

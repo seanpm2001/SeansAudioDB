@@ -1,0 +1,126 @@
+---
+import PinnedIcon from '@/icons/pinned.astro';
+import Volume from '@/icons/music.astro';
+const { slug, title, pinned, color } = Astro.props;
+
+const initialLetterOfEachWord = title
+  .split(/\s+/)
+  .map((palabra: string) => palabra.charAt(0))
+  .join('')
+  .toUpperCase();
+
+type SongData = {
+  urlPoster: string;
+  [key: string]: any;
+};
+
+const files = import.meta.glob('../data/*.json', { eager: true }) as Record<
+  string,
+  { default: SongData[] }
+>;
+
+const mySlug = `../data/${slug}.json`; // Variable dinámica
+const currentJson = files[mySlug]?.default || []; // Acceso dinámico
+const randomNumber = ~~(Math.random() * currentJson.length);
+const randomSrc = currentJson[randomNumber]?.urlPoster || '';
+const image = randomSrc;
+---
+
+<style>
+  .playlist-item {
+    display: flex;
+    align-items: center;
+    padding: 0.4vmax;
+    gap: 0.5vmax;
+    border-radius: 8px;
+    height: max-content;
+    padding-inline: 0.6vmax;
+    position: relative;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+
+    &.title-green {
+      .title {
+        color: var(--theme-color);
+        filter: brightness(150%);
+      }
+
+      @media (width >= 1111px) {
+        .volume-icon2 {
+          display: flex;
+        }
+      }
+    }
+
+    .volume-icon2 {
+      width: 1.1vmax;
+      height: 1.1vmax;
+      position: absolute;
+      right: 1vmax;
+      display: none;
+      color: var(--theme-color);
+    }
+
+    @media (width <= 1111px) {
+      border-radius: calc(var(--pad-gap) / 2);
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+      &:hover,
+      &.playlist-item-active {
+        background-color: var(--light-bgcolor);
+      }
+    }
+
+    &.playlist-item-active {
+      background-color: var(--light-bgcolor);
+    }
+
+    & img {
+      --avatar-size: 3vmax;
+      width: var(--avatar-size);
+      height: var(--avatar-size);
+      border-radius: 0.4vmax;
+    }
+
+    & .data {
+      display: flex;
+      flex-direction: column;
+      gap: 0.1vmax;
+      height: 100%;
+
+      & .title {
+        font-weight: 400;
+        font-size: 1vmax;
+        align-content: end;
+        display: flex;
+      }
+
+      .subtitle {
+        font-size: 0.9vmax;
+      }
+
+      & [data-icon] {
+        color: var(--accent-color);
+      }
+
+      & .subtitle-container {
+        color: var(--dark-textcolor);
+        display: flex;
+        gap: 0.3vmax;
+      }
+    }
+  }
+</style>
+
+<aside class='playlist-item' data-id={slug} data-color={color}>
+  <img src={image} alt={title} />
+  <div class='data'>
+    <strong class='title'>{title}</strong>
+    <div class='subtitle-container'>
+      {pinned && <PinnedIcon width='0.7vmax' color='springgreen' />}
+      <span class='subtitle'>Playlist - {initialLetterOfEachWord}</span>
+    </div>
+  </div>
+  <Volume class='volume-icon2' />
+</aside>

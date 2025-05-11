@@ -1,0 +1,137 @@
+---
+import MusicPlayer from '@/components/MusicPlayer.astro';
+import ProgressSlider from '@/components/ProgressSlider.astro';
+import Forward from '@/icons/forward.astro';
+import Repeat from '@/icons/repeat.astro';
+import Backward from '@/icons/backwards.astro';
+import Shuffle from '@/icons/shuffle.astro';
+import Play from '@/icons/play.astro';
+import Pause from '@/icons/pause.astro';
+---
+
+<ProgressSlider />
+
+<style>
+  .song-player-container {
+    height: 70%;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    align-content: center;
+
+    & .buttons {
+      display: inline-grid;
+      grid-template-columns: repeat(auto-fit, minmax(1vw, 1fr));
+      width: 60%;
+      grid-template-rows: 1fr;
+      margin: auto;
+      justify-items: center;
+
+      & button {
+        cursor: pointer;
+        background: none;
+        border: 0;
+        background-color: transparent;
+        display: flex;
+        flex-wrap: wrap;
+        place-content: center;
+        place-items: center;
+
+        &.disabled svg {
+          color: #444;
+        }
+      }
+
+      & .circle {
+        --size: 2.8vmax;
+        width: var(--size);
+        height: var(--size);
+        background: #e9e9e9;
+        border-radius: 50%;
+        display: flex;
+        flex-wrap: wrap;
+        place-content: center;
+        place-items: center;
+        color: #000;
+      }
+    }
+
+    & .time-container {
+      --time-size: 1vmax;
+      display: grid;
+      grid-template-columns: var(--time-size) 0.9fr var(--time-size);
+      align-items: center;
+      gap: 1vmax;
+      font-family: var(--default-font);
+      justify-content: space-between;
+      font-size: 1vmax;
+
+      time {
+        width: auto;
+
+        &:nth-of-type(2) {
+          margin-left: -1.3vmax;
+        }
+      }
+
+      & .bar-container {
+        --progress: 100%;
+        background: #666;
+        height: 10px;
+        border-radius: 2px;
+        overflow: hidden;
+
+        & .bar {
+          background: #fff;
+          height: 100%;
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  .btn-icon {
+    color: var(--dark-textcolor);
+    width: 1vmax;
+  }
+
+  .btn-in-circle {
+    color: #000;
+    width: 1.3vmax;
+    display: flex;
+    flex-wrap: wrap;
+    place-content: center;
+    place-items: center;
+  }
+</style>
+
+<MusicPlayer />
+
+<div class='song-player-container'>
+  <div class='buttons'>
+    <button class='shuffle disabled'>
+      <Shuffle class='btn-icon' />
+    </button>
+    <button class='prev'>
+      <Backward class='btn-icon' />
+    </button>
+    <button class='play circle'>
+      <div class='play'>
+        <Play class='btn-in-circle' />
+      </div>
+      <div class='pause' hidden>
+        <Pause class='btn-in-circle' />
+      </div>
+    </button>
+    <button class='next'>
+      <Forward class='btn-icon' />
+    </button>
+    <button class='repeat disabled'>
+      <Repeat class='btn-icon' />
+    </button>
+  </div>
+  <div class='time-container'>
+    <time>00:00</time>
+    <progress-slider id='current-song'></progress-slider>
+    <time>00:00</time>
+  </div>
+</div>

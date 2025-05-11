@@ -1,0 +1,93 @@
+---
+import Clock from '@/icons/clock.astro';
+import SongItem from '@/components/SongItem.astro';
+---
+
+<style>
+  .playlist {
+    --translucid-color: color-mix(
+      in srgb,
+      var(--medium-bgcolor),
+      transparent 65%
+    );
+    --playlist-format: 3%  1fr 0.7fr 0.7fr 0.1fr;
+    display: flex;
+    flex-direction: column;
+    padding: 1.25vmax ;
+    gap: 0.15vmax;
+    background: linear-gradient(
+      to bottom,
+      var(--translucid-color) 0 25%,
+      var(--medium-bgcolor) 80% 100%
+    );
+
+    @media (width <= 1111px) and (orientation: portrait) {
+      --playlist-format: 8% 1fr 14%;
+
+      .centrar {
+        padding-left: 0.7vmax;
+      }
+      
+    }
+
+    .cell {
+      font-size: 1vmax;
+    }
+
+    .clock {
+      width: 1vmax;
+      height: 1vmax;
+      color: var(--dark-textcolor);
+    }
+
+    & header {
+      display: grid;
+      grid-template-columns: var(--playlist-format);
+      font-family: var(--default-font);
+      font-weight: 500;
+      color: var(--dark-textcolor);
+
+      div:nth-child(1) {
+        padding-left: 0.5vmax;
+      }
+
+      div:nth-child(2) {
+        padding-left: 0.7vmax;
+      }
+
+      .esconder {
+        @media (width <= 1111px) and (orientation: portrait) {
+          display: none;
+        }
+      }
+
+      div:nth-child(4) {
+        text-align: center;
+      }
+
+      & + hr {
+        width: 100%;
+        border: 0;
+        border-bottom: 0.1vmax solid var(--dark-textcolor);
+        opacity: 0.25;
+        margin-block: 0.5vmax;
+      }
+    }
+  }
+</style>
+
+<div class='song playlist'>
+  <SongItem />
+
+  <header>
+    <div class="cell">#</div>
+    <div class="cell">Title</div>
+    <div class="cell esconder">Album</div>
+    <div class="cell esconder">Date of Addition</div>
+    <div class="cell centrar">
+      <Clock class="clock" />
+    </div>
+    <div class="cell"></div>
+  </header>
+  <hr />
+</div>

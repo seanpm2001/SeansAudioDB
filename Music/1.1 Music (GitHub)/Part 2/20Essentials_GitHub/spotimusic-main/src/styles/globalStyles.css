@@ -1,0 +1,20 @@
+:root {
+  --pad-gap: 1vmax;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  &:focus {
+    border-color: transparent;
+    outline-color: transparent;
+  }
+}

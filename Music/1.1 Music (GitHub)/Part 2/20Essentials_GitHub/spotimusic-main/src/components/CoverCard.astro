@@ -1,0 +1,111 @@
+---
+
+---
+
+<script type='module'>
+  import AtroposComponent from './modules/atropos.js';
+  import { setAnimation } from './modules/setAnimation.js';
+  customElements.define('atropos-component', AtroposComponent);
+
+  class CoverCard extends HTMLElement {
+    constructor() {
+      super();
+      this.attachShadow({ mode: 'open' });
+    }
+
+    static get styles() {
+      return /* css */ `
+        :host {
+          display: block;
+          position: absolute;
+          inset: 0;
+          bottom: -10px;
+          background: #0004;
+          z-index: 50;
+          backdrop-filter: blur(0.5vmax);
+        }
+
+        atropos-component {
+          --size: 25vmax;
+          width: var(--size);
+          height: var(--size);
+          z-index: 5;
+          padding: 0;
+          border: 0;
+          position: absolute;
+          left: calc(50% - var(--size) / 2);
+          top: calc(50% - var(--size) / 2);
+
+
+          & .cover {
+            max-width: var(--size);
+            max-height: var(--size);
+            z-index: 10;
+            position: absolute;
+            top: 0;
+            left: 0;
+            
+
+            &::after {
+              content: "";
+              background: url("./assets/cover-texture.avif");
+              width: var(--size);
+              height: var(--size);
+              background-size: var(--size);
+              top: 0;
+              left: 0;
+              background-position: center;
+              mix-blend-mode: screen;
+              opacity: 15%;
+              position: absolute;
+              pointer-events: none;
+            }
+
+            &::before {
+              content: "";
+              width: calc(var(--size) + 60px);
+              height: calc(var(--size) + 60px);
+              background: radial-gradient(#0000 50%, #000);
+              background-size: cover;
+              background-position: center;
+              position: absolute;
+              mix-blend-mode: overlay;
+              z-index: 10;
+              top: 0;
+              left: 0;
+              pointer-events: none;
+            }
+          }
+
+ 
+          img {
+            width: var(--size);
+            height: var(--size);
+            
+          }
+        }
+      `;
+    }
+
+    connectedCallback() {
+      this.image = this.getAttribute('src');
+      this.render();
+      this.addEventListener('click', () => this.remove());
+
+      const atroposComponent = this.shadowRoot.querySelector('atropos-component');
+      setAnimation(atroposComponent);
+    }
+
+    render() {
+      this.shadowRoot.innerHTML = /* html */ `
+        <style>${CoverCard.styles}</style>
+        <atropos-component>
+          <img src="${this.image}" alt="Cover Single Image">
+          <div class="cover"></div>
+        </atropos-component>
+      `;
+    }
+  }
+
+  customElements.define('cover-card', CoverCard);
+</script>

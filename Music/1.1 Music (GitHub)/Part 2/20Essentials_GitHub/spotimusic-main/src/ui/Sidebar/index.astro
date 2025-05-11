@@ -1,0 +1,229 @@
+---
+import playlist from '@/data/playlist.json';
+import PlayListItem from '@/components/PlayListItem.astro';
+import List from '@/icons/list.astro';
+---
+
+<style>
+  .container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    gap: var(--pad-gap) 0;
+    max-height: calc(100vh - var(--player-height));
+  }
+
+  .top-sidebar {
+    background: var(--medium-bgcolor);
+    border-radius: var(--border-radius);
+    min-height: 3vmax;
+    display: flex;
+    flex-wrap: wrap;
+    place-content: center;
+    padding: 1vmax;
+
+    .btn {
+      position: relative;
+      background-color: #1e293b;
+      width: 100%;
+      min-height: 3vmax;
+      border: 0.15vmax solid var(--theme-color);
+      color: var(--theme-color);
+      border-radius: 0.5vmax;
+      overflow: hidden;
+      cursor: pointer;
+      padding: 0.3vmax;
+
+      @media (width <= 1111px) {
+        background-color: transparent;
+      }
+
+      input {
+        position: absolute;
+        inset: 0;
+        border-radius: inherit;
+        font-size: 1vmax;
+        padding-left: 0.8vmax;
+        color: var(--theme-color);
+        display: flex;
+
+        &,
+        &:focus {
+          border: none;
+          outline: none;
+        }
+      }
+
+      &::before,
+      &::after {
+        content: '';
+        position: absolute;
+        border-radius: 50%;
+        filter: blur(0.6vmax);
+        transition: all 0.5s ease;
+        pointer-events: none;
+      }
+
+      &::before {
+        --s: 2vmax;
+        width: var(--s);
+        height: var(--s);
+        background-color: var(--theme-color);
+        top: 0.4vmax;
+        right: 0.4vmax;
+        z-index: 10;
+      }
+
+      &::after {
+        --s: 3vmax;
+        width: var(--s);
+        height: var(--s);
+        background-color: var(--theme-color);
+        filter: blur(0.6vmax) hue-rotate(90deg);
+        top: 0.8vmax;
+        right: 1.2vmax;
+        z-index: 10;
+      }
+
+      &:hover::before {
+        right: 1.8vmax;
+        bottom: -16px;
+      }
+
+      &:hover::after {
+        right: -0.7vmax;
+      }
+    }
+  }
+
+  .main-sidebar {
+    background: var(--medium-bgcolor);
+    border-radius: var(--border-radius);
+    height: 100%;
+
+    .the-container {
+      display: flex;
+      flex-direction: column;
+
+      .playlist-container {
+        font-family: var(--default-font);
+        padding: 0.3vmax;
+        display: flex;
+        flex-direction: column;
+        height: calc(100vh - var(--player-height) - 8vmax);
+        padding-bottom: 0;
+
+        & .search-container {
+          display: flex;
+          align-items: center;
+          padding: 0.5vmax;
+          padding-left: 0.8vmax;
+
+          .text {
+            font-size: 0.8vmax;
+            padding-left: 0.4vmax;
+            margin-top: 0.5vmax;
+          }
+
+          & input[type='search'] {
+            border: 0;
+            background: transparent;
+            padding: 0.4rem 0;
+            margin: 0 0.5rem;
+            width: 150px;
+          }
+
+          & > span {
+            display: flex;
+            align-items: center;
+            gap: 0.3vmax;
+          }
+        }
+
+        & .playlist {
+          display: flex;
+          flex-direction: column;
+          padding: 0 0.3vmax;
+          overflow-y: scroll;
+          max-height: 100%;
+        }
+
+        .playlist::-webkit-scrollbar {
+          width: 0.4vmin;
+        }
+        .playlist::-webkit-scrollbar-thumb {
+          background: #fff4;
+          border-radius: 0 var(--pad-gap) var(--pad-gap) 0;
+        }
+        .playlist::-webkit-scrollbar-track {
+          background: transparent;
+        }
+      }
+    }
+  }
+
+  .sidebarPlaylist {
+    scroll-behavior: smooth;
+  }
+</style>
+
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', () => {
+    const input = document.getElementById('search-input');
+    const playlistContainer = document.querySelector('.sidebarPlaylist');
+    const originalPlaylists = [...playlistContainer.children];
+
+    input.addEventListener('input', () => {
+      const searchTerm = input.value.toLowerCase();
+      playlistContainer.scrollTop = 0;
+
+      const sortedPlaylists = [...originalPlaylists].sort((a, b) => {
+        const aText = a.textContent.toLowerCase();
+        const bText = b.textContent.toLowerCase();
+
+        const aMatch = aText.includes(searchTerm);
+        const bMatch = bText.includes(searchTerm);
+
+        if (aMatch && !bMatch) return -1;
+        if (!aMatch && bMatch) return 1;
+        return aText.localeCompare(bText);
+      });
+
+      playlistContainer.innerHTML = '';
+      sortedPlaylists.forEach(item => playlistContainer.appendChild(item));
+    });
+  });
+</script>
+
+<div class='container'>
+  <div class='top-sidebar'>
+    <button class='btn'>
+      <input
+        spellcheck='false'
+        autocomplete='off'
+        id='search-input'
+        type='text'
+        maxlength='20'
+        placeholder='Seach'
+      />
+    </button>
+  </div>
+  <div class='main-sidebar'>
+    <section class='the-container'>
+      <div class='playlist-container'>
+        <div class='search-container'>
+          <span class='text'><List width='0.8vmax' color='#ddd' /> Playlists</span
+          >
+        </div>
+
+        <div class='playlist sidebarPlaylist'>
+          {
+            playlist
+              .sort((a, b) => a.slug.localeCompare(b.slug))
+              .map(pItem => <PlayListItem {...pItem} />)
+          }
+        </div>
+      </div>
+    </section>
+  </div>
+</div>

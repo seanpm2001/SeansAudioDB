@@ -1,0 +1,79 @@
+---
+import Volume from '@/icons/volume.astro';
+import Volumeoff from '@/icons/volumeoff.astro';
+---
+
+<style>
+  .song-volume-container {
+    width: 10vmax;
+    margin-left: auto;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 2.3vmax 1fr;
+    gap: 0.3vmax;
+    align-items: center;
+    align-content: center;
+
+    @media (width <= 1111px) and (orientation: portrait) {
+      display: none;
+    }
+  }
+
+  * {
+    cursor: pointer;
+  }
+
+  .volume-icon {
+    width: 1.1vmax;
+
+    &.hidden {
+      display: none;
+    }
+  }
+</style>
+
+<div class='song-volume-container'>
+  <Volume class='volume-icon' />
+  <Volumeoff class='volume-icon hidden' hidden />
+  <progress-slider class='slider' id='volume' value='100'></progress-slider>
+</div>
+
+<script type='module'>
+  const [volume, mute] = document.querySelectorAll('.volume-icon');
+
+  const toggleVolumeIcon = (value = null) => {
+    if (value) {
+      volume.classList.remove('hidden');
+      mute.classList.add('hidden');
+    } else if (value === false) {
+      volume.classList.add('hidden');
+      mute.classList.remove('hidden');
+    }
+  };
+
+  document.addEventListener('click', e => {
+    if (e.target === volume) {
+      toggleVolumeIcon(false);
+      document.dispatchEvent(
+        new CustomEvent('mutedByClick', {
+          composed: true,
+          bubbles: true,
+          detail: { muteado: true}
+        })
+      );
+    }
+    if (e.target === mute) {
+      toggleVolumeIcon(true);
+      document.dispatchEvent(
+        new CustomEvent('mutedByClick', {
+          composed: true,
+          bubbles: true,
+          detail: { muteado: false}
+        })
+      );
+    }
+  });
+
+  document.addEventListener('volume:mute', () => toggleVolumeIcon(false));
+  document.addEventListener('volume:unmute', () => toggleVolumeIcon(true));
+</script>

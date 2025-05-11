@@ -1,0 +1,321 @@
+<list-header></list-header>
+
+<script type='module'>
+  import { formatTime, convertToSeconds } from './modules/formatTime.js';
+
+  class ListHeader extends HTMLElement {
+    constructor() {
+      super();
+      this.attachShadow({ mode: 'open' });
+      this.currentIndex = 0;
+    }
+
+    static get styles() {
+      return /* css */ `
+        :host {
+          mix-blend-mode: normal;
+          z-index: 5;
+        }
+
+        .texting-strong {
+          font-size: 1.5vmax;
+
+          @media (width <= 1111px) and (orientation: portrait) {
+            font-size: 1.1vmax;
+          }
+        }
+
+        .container-anchors {
+          position: absolute;
+          top: 1.5vmax;
+          right: 1.5vmax;
+          display: flex;
+          gap: 0.5vmax;
+          
+          button {
+            width: 2.5vmax;
+            height: 2.5vmax;
+            border: none;
+            outline: none;
+            margin: 0;
+            padding: 0;
+            border-radius: 50%;
+            display: flex;
+            flex-wrap: wrap;
+            place-content: center;
+            text-align: center;
+            cursor: pointer;
+            background: color-mix(in srgb, var(--theme-color) 50%, black 30%);
+            backdrop-filter: blur(5px);
+            transition: opacity .3s ease;
+
+            &:active {
+              opacity: 0.5;
+            }
+
+            img {
+              pointer-events: none;
+              --s-image: 1.9vmax;
+              width: var(--s-image);
+              height: var(--s-image);
+            }
+          }
+        }
+
+        header {
+          display: flex;
+          flex-direction: column;
+          padding: 0.5vmax;
+          position: relative;
+          
+          
+          & .data {
+            display: flex;
+            gap: 0 1.2vmax;
+            padding: 1.3vmax;
+
+            .container-cover {
+              --size: 11.5vmax;
+              position: relative;
+              overflow: hidden;
+              width: var(--size);
+              height: var(--size);
+              aspect-ratio: 1;
+              outline: 0.15vmax var(--theme-color) solid;
+
+              @media (width <= 1111px) and (orientation: portrait) {
+                --size: 10vmax;
+              }
+
+              * {
+                pointer-events: none;
+              }
+
+                &::before {
+                  content: "";
+                  background: url('./assets/album-cover.avif');
+                  width: var(--size);
+                  height: var(--size);
+                  background-size: var(--size);
+                  top: 0;
+                  left: 0;
+                  background-position: center;
+                  mix-blend-mode: screen;
+                  opacity: 55%;
+                  z-index: 2;
+                  position: absolute;
+                  pointer-events: none;
+                }
+
+              &::after {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                z-index:3;
+                background-image:  radial-gradient(
+                  circle 8vmax at var(--x) var(--y),
+                  #fff1 40%,
+                  transparent 75%
+                );
+                background-blend-mode: overlay;
+                filter: contrast(1.1) brightness(1.5) saturate(1.1);
+              }
+            }
+
+            .cover {
+              width: var(--size);
+              height: var(--size);
+              background-color: #fff1;
+              position: absolute;
+              aspect-ratio: 1;
+            }
+
+            & .avatar {
+              --size: 1vmax;
+              width: var(--size);
+              height: var(--size);
+              background-image: url("./assets/favicon.webp");
+              background-size: cover;
+              border-radius: 50%;
+            }
+
+            .esconder {
+              @media (width <= 1111px) and (orientation: portrait) {
+                display: none;
+              }
+            }
+
+            & .info {
+              display: flex;
+              flex-direction: column;
+              justify-content: end;
+              font-family: var(--default-font);
+
+              & .row {
+                display: grid;
+                grid-auto-flow: column;
+                justify-content: start;
+                gap: 0.5vmax;
+                align-items: center;
+              }
+
+              & h1 {
+                margin: 0;
+                font-weight: 800;
+                letter-spacing: -0.1vmax;
+                font-size: 3.5vmax;
+
+                  @media (width <= 1111px) and (orientation: portrait) {
+                    font-size: 2vmax;
+                    overflow-wrap: anywhere;
+                  }
+              }
+
+              & .total-duration {
+                color: var(--dark-textcolor);
+
+                @media (width <= 1111px) {
+                  filter: brightness(200%);
+                }
+              }
+
+              .info-subtitle,
+              .total-duration {
+                font-size: 0.95vmax;
+              }
+            }
+          }
+        }
+      `;
+    }
+
+    setData(title, songs) {
+      const slug = title.toLowerCase().replaceAll(' ', '');
+      const total = songs.length;
+      const duration = songs
+        .map(song => convertToSeconds(song.duration))
+        .reduce((first, acc) => first + acc, 0);
+      const [min] = formatTime(duration).split(':');
+      const time = `${min} min `;
+
+      this.shadowRoot.querySelector('h1').textContent = title;
+      this.shadowRoot.querySelector('.info-subtitle').textContent =
+        `Spotimusic · ${total} songs,`;
+      this.shadowRoot.querySelector('.total-duration').textContent =
+        `${time} of duration approximately`;
+
+      setTimeout(() => {
+        const result = `.playlist-item[data-id=${slug}] img`;
+        this.shadowRoot.querySelector('img.cover').src =
+          document.querySelector(result)?.src;
+      }, 20);
+    }
+
+    addCoverMouseAnimation() {
+      const containerCover = this.shadowRoot.querySelector('.container-cover');
+
+      function handleMover(e) {
+        e.preventDefault();
+
+        let clientX, clientY;
+
+        if (e.type === 'touchmove') {
+          clientX = e.touches[0].clientX;
+          clientY = e.touches[0].clientY;
+        } else {
+          clientX = e.clientX;
+          clientY = e.clientY;
+        }
+
+        const { left, top } = containerCover.getBoundingClientRect();
+        const x = clientX - left;
+        const y = clientY - top;
+
+        containerCover.style.setProperty('--x', `${x}px`);
+        containerCover.style.setProperty('--y', `${y}px`);
+      }
+
+      containerCover.addEventListener('pointermove', handleMover);
+      containerCover.addEventListener('touchmove', handleMover, {
+        passive: false
+      });
+    }
+
+    connectedCallback() {
+      this.render();
+      this.addCoverMouseAnimation();
+      const prev = this.shadowRoot.querySelector('.prev-list');
+      const next = this.shadowRoot.querySelector('.next-list');
+      const playlistItems = document.querySelectorAll('.playlist-item');
+      const slugs = [...playlistItems].map(playlist => playlist.dataset.id);
+      const { length } = playlistItems;
+
+      function clickOnPlaylist(targetIndex) {
+        const slug = slugs[targetIndex];
+        const theTarget = document.querySelector(
+          `.playlist-item[data-id="${slug}"]`
+        );
+        theTarget.click();
+      }
+
+      prev?.addEventListener('click', () => {
+        const prevIndex = (this.currentIndex - 1 + length) % length;
+        clickOnPlaylist(prevIndex);
+        this.currentIndex = prevIndex;
+      });
+
+      next?.addEventListener('click', () => {
+        const nextIndex = (this.currentIndex + 1) % length;
+        clickOnPlaylist(nextIndex);
+        this.currentIndex = nextIndex;
+      });
+
+      document.addEventListener('keydown', ({ key }) => {
+        if (key === 'ArrowRight') {
+          const nextIndex = (this.currentIndex + 1) % length;
+          clickOnPlaylist(nextIndex);
+          this.currentIndex = nextIndex;
+        } else if (key === 'ArrowLeft') {
+          const prevIndex = (this.currentIndex - 1 + length) % length;
+          clickOnPlaylist(prevIndex);
+          this.currentIndex = prevIndex;
+        }
+      });
+    }
+
+    render() {
+      this.shadowRoot.innerHTML = /* html */ `
+        <style>${ListHeader.styles}</style>
+        <header>
+          <div class="data">
+            <article class="container-cover">
+              <img draggable="false" class="cover" src="./assets/transparent.png" alt="cover" />
+            </article>
+            <div class="info">
+              <strong class="texting-strong">Playlist</strong>
+              <h1 class="texting-h1">Electronic</h1>
+              <div class="row">
+                <div class="avatar esconder"></div>
+                <span class="info-subtitle esconder">Spotimusic · 20 canciones,</span>
+                <span class="total-duration">80 min de duración aproximadamente</span>
+              </div>
+            </div>
+          </div>
+          <aside class="container-anchors">
+            <button class='prev-list' >
+              <img src='./assets/prev.svg' alt='prev' />
+            </button>
+            <button class='next-list' >
+              <img src='./assets/next.svg' alt='next' />
+            </button>
+          </aside>
+        </header>
+      `;
+    }
+  }
+
+  customElements.define('list-header', ListHeader);
+</script>

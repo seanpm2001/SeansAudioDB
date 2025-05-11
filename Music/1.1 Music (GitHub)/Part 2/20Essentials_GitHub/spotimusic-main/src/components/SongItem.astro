@@ -1,0 +1,152 @@
+<script type='module'>
+  import { setAnimation } from './modules/setAnimation.js';
+
+  class SongItem extends HTMLElement {
+    constructor() {
+      super();
+      this.attachShadow({ mode: 'open' });
+    }
+
+    static get styles() {
+      return /* css */ `
+        .row-item {
+          display: grid;
+          grid-template-columns: var(--playlist-format);
+          font-family: var(--default-font);
+          align-items: center;
+          padding: 0.3vmax 0.5vmax;
+          border-radius: calc(var(--pad-gap) / 2);
+          user-select: none;
+          cursor: pointer;
+          transition: background-color .2s ease;
+
+          &.title-green {
+            .titulin {
+              color: var(--theme-color);
+              filter: brightness(150%);
+            }
+
+            .num {
+                display: none;
+              }
+
+            .wave-icon {
+                display: flex;
+            }
+          }
+
+          .wave-icon {
+            width: 1vmax;
+            display: none;
+            color: var(--theme-color);
+          }
+
+          div:nth-child(4),
+          div:nth-child(5) {
+            text-align: center;
+          }
+
+          &:hover {
+            background-color: #ffffff15;
+          }
+        }
+
+        .text {
+          font-size:1vmax;
+        }
+
+        .esconder {
+          @media (width <= 1111px) and (orientation: portrait) {
+            display: none;
+          }
+        }
+
+        .title-container {
+          display: flex;
+          align-items: center;
+          gap: 1vmax;
+
+          & img {
+            --size: 3.5vmax;
+            width: var(--size);
+            height: var(--size);
+            border-radius: calc(var(--pad-gap) / 2);
+
+            @media (width <= 800px) and (orientation: landscape) {
+              --size: 2.5vmax;
+            }
+          }
+
+          & .group {
+            display: inline-flex;
+            flex-direction: column;
+
+            & .artist {
+              color: var(--dark-textcolor);
+
+              .row-item:hover & {
+                color: #fff;
+              }
+            }
+          }
+        }
+      `;
+    }
+
+    connectedCallback() {
+      this.slug = this.getAttribute('slug');
+      this.title = this.getAttribute('title');
+      this.artist = this.getAttribute('artist');
+      this.album = this.getAttribute('album');
+      this.date = this.getAttribute('date');
+      this.duration = this.getAttribute('duration');
+      this.index = Number(this.getAttribute('index'));
+      this.urlPoster = this.getAttribute('urlPoster');
+      this.urlSong = this.getAttribute('urlSong');
+      this.image = this.urlPoster;
+      this.thumb = this.urlPoster;
+      this.render();
+      const rowItem = this.shadowRoot.querySelector('.row-item');
+      setTimeout(() => setAnimation(rowItem, 'FadeMove'), this.index * 25);
+    }
+
+    getData() {
+      return {
+        index: this.index,
+        album: this.album,
+        artist: this.artist,
+        date: this.date,
+        duration: this.duration,
+        slug: this.slug,
+        title: this.title,
+        urlPoster: this.urlPoster,
+        urlSong: this.urlSong
+      };
+    }
+
+    render() {
+      this.shadowRoot.innerHTML = /* html */ `
+        <style>${SongItem.styles}</style>
+        <div class="row-item" data-id=${this.index}>
+          <div class=" text">
+            <aside class="num">${(this.index + 1).toString().padStart(2, '0')}</aside>
+            <svg class="wave-icon"  viewBox="0 0 135 140" fill="currentColor"><rect y="10" width="15" height="120" rx="6"><animate attributeName="height" begin="0.5s" dur="1s" values="120;110;100;90;80;70;60;50;40;140;120" calcMode="linear" repeatCount="indefinite"/><animate attributeName="y" begin="0.5s" dur="1s" values="10;15;20;25;30;35;40;45;50;0;10" calcMode="linear" repeatCount="indefinite"/></rect><rect x="30" y="10" width="15" height="120" rx="6"><animate attributeName="height" begin="0.25s" dur="1s" values="120;110;100;90;80;70;60;50;40;140;120" calcMode="linear" repeatCount="indefinite"/><animate attributeName="y" begin="0.25s" dur="1s" values="10;15;20;25;30;35;40;45;50;0;10" calcMode="linear" repeatCount="indefinite"/></rect><rect x="60" width="15" height="140" rx="6"><animate attributeName="height" begin="0s" dur="1s" values="120;110;100;90;80;70;60;50;40;140;120" calcMode="linear" repeatCount="indefinite"/><animate attributeName="y" begin="0s" dur="1s" values="10;15;20;25;30;35;40;45;50;0;10" calcMode="linear" repeatCount="indefinite"/></rect><rect x="90" y="10" width="15" height="120" rx="6"><animate attributeName="height" begin="0.25s" dur="1s" values="120;110;100;90;80;70;60;50;40;140;120" calcMode="linear" repeatCount="indefinite"/><animate attributeName="y" begin="0.25s" dur="1s" values="10;15;20;25;30;35;40;45;50;0;10" calcMode="linear" repeatCount="indefinite"/></rect><rect x="120" y="10" width="15" height="120" rx="6"><animate attributeName="height" begin="0.5s" dur="1s" values="120;110;100;90;80;70;60;50;40;140;120" calcMode="linear" repeatCount="indefinite"/><animate attributeName="y" begin="0.5s" dur="1s" values="10;15;20;25;30;35;40;45;50;0;10" calcMode="linear" repeatCount="indefinite"/></rect></svg>
+          </div>
+          
+          <div class="title-container">
+            <img class="img-thumb" src=${this.thumb} alt=${this.title}>
+            <div class="group">
+              <div class="text titulin">${this.title}</div>
+              <div class="artist text">${this.artist}</div>
+            </div>
+          </div>
+          <div class="text esconder">${this.album}</div>
+          <div class="text esconder">${this.date.substring(0, 10)}</div>
+          <div class="text">${this.duration}</div>
+        </div>
+      `;
+    }
+  }
+
+  customElements.define('song-item', SongItem);
+</script>
