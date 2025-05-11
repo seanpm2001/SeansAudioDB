@@ -1,0 +1,23 @@
+{
+  "name": "spotimusic",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "whatMeansTheCommand_build": "echo 'Este comando copia los datos, construye el proyecto con Astro, reorganiza los archivos de salida eliminando la carpeta _astro y finalmente arregla las rutas hacia el CSS'",
+    "build": "npm run copy-data && astro build && mv dist/_astro/* dist/ && rm -r dist/_astro && node dist/fix-css-link.js",
+    "copy-data": "cp -r src/data public/",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "homepage": "",
+  "dependencies": {
+    "astro": "^4.9.2",
+    "astro-icon": "^1.1.0",
+    "colorthief": "^2.4.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
