@@ -7,6 +7,23 @@ This is a collection of music from the GitHub account @20Essentials
 
 This was a critical find that connected me to hundreds of songs I hadn't rediscovered yet. It took several days to download the initial data, and became the largest single week update to my AudioDB. It raised the size of the AudioDB up to the 1 terabyte mark (as of 2025, Thursday, May 8th, it sits at the 1.1 terabyte mark) it is going to take me a very long time to get through all of this music.
 
+## Error
+
+All files and folders (excluding this `README.md` file, and the folder `/!OldVersions/` were uploaded incorrectly. There should have been a folder called `/Unsorted/` that they all reside in. A new blank `/Unsorted/` folder was created. I do not plan to re-upload everything to fix this, so a makefile may be needed.
+
+## Languages
+
+The structure contains folders in 2 languages, and I am not sure why (I retained the original file structure in its entirety) here is a translation guide:
+
+**Spanish:**
+
+- CANCIONES - Songs
+- FONDO - Bottom
+
+**English:**
+
+- Self-explanatory
+
 ## List of repository links
 
 ### Timeline
@@ -1100,6 +1117,7 @@ No new data for today.
 
 #### 2025, May 10th
 
+```
 https://github.com/20essentials/good-charlote-band
 https://github.com/20essentials/joji
 https://github.com/20essentials/five-finger-death-band
@@ -1110,6 +1128,28 @@ https://github.com/20essentials/foreigner-band
 https://github.com/20essentials/faithless-band
 https://github.com/20essentials/geolier-band
 https://github.com/20essentials/folder-5-band
+```
+
+#### 2025, May 11th
+
+No new data for today.
+
+#### 2025, May 12th
+
+No new data for today.
+
+#### 2025, May 13th
+
+```
+https://github.com/20essentials/fuego-album
+https://github.com/20essentials/foo-fighters-band
+https://github.com/20essentials/glwzbll-band
+https://github.com/20essentials/grouplove-band
+https://github.com/20essentials/gesaffelstein-band
+https://github.com/20essentials/galantis-band
+```
+
+---
 
 ## Removed files from the structure:
 
@@ -1117,10 +1157,14 @@ https://github.com/20essentials/folder-5-band
 - All music (due to Copyright and size issues)
 - - If I included the music, the AudioDB repository would be over 130 gigabytes in size, which is above the repository size limit (100 gigabytes)
 
+<!-- TODO 2025.05.13
+Create folder: `/Unsorted/!ZIP_Files/`
+!-->
+
 ***
 
 # File info
 
-**File version:** `2 (2025, Saturday, May 10th at 12:26 pm PST)`
+**File version:** `3 (2025, Tuesday, May 13th at 11:02 am PST)`
 
 ***
