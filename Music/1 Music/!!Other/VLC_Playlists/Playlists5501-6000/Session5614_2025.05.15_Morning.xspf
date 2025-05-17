@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Cats%20meowing/1%20Hour%20of%20Angry%20Cat%20Sound%20-%20Scary-HqpFo7ETo44.mkv</location>
+			<duration>3600137</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/electric-light-orchestra-main/songs/n1.mp3</location>
+			<title>Electric Light Orchestra - Mr. Blue Sky (Official Video)</title>
+			<creator>ELO</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/d6400500fc9331bbb5dc7a7fa900cd42/art.jpg</image>
+			<duration>294767</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/electric-light-orchestra-main/songs/n2.mp3</location>
+			<title>Electric Light Orchestra - Last Train to London (Official Video)</title>
+			<creator>ELO</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/62ccc740463a6beac50080785055b7f6/art.jpg</image>
+			<duration>277500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/electric-light-orchestra-main/songs/n3.mp3</location>
+			<title>Electric Light Orchestra - Telephone Line (Audio)</title>
+			<creator>ELO</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/79dfb3835dedf65e7c6021e93f99af10/art.jpg</image>
+			<duration>281235</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/electric-light-orchestra-main/songs/n4.mp3</location>
+			<duration>247798</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/electric-light-orchestra-main/songs/n5.mp3</location>
+			<title>Evil Woman</title>
+			<creator>Electric Light Orchestra</creator>
+			<album>All Over The World: The Very Best Of ELO</album>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Electric%20Light%20Orchestra/All%20Over%20The%20World_%20The%20Very%20Best%20Of%20ELO/art.jpg</image>
+			<duration>251769</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/electric-light-orchestra-main/songs/n6.mp3</location>
+			<duration>230217</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
