@@ -20,6 +20,8 @@ The structure contains folders in 2 languages, and I am not sure why (I retained
 - CANCIONES - Songs
 - FONDO - Bottom
 
+1. I am not sure if the translation Fondo is accurate. I don't see the word "bottom" being used in this context.
+
 **English:**
 
 - Self-explanatory
@@ -1149,6 +1151,70 @@ https://github.com/20essentials/gesaffelstein-band
 https://github.com/20essentials/galantis-band
 ```
 
+#### 2025, May 14th
+
+No new data for today.
+
+#### 2025, May 15th
+
+No new data for today.
+
+#### 2025, May 16th
+
+No new data for today.
+
+#### 2025, May 17th
+
+I had been checking the wrong page for a few days (page 2 of repositories) and have gotten caught back up today.
+
+```
+https://github.com/20essentials/glass-animals-band
+https://github.com/20essentials/guns-n-roses-band
+https://github.com/20essentials/glhf-band
+https://github.com/20essentials/grimes-band
+https://github.com/20essentials/garbage-band
+https://github.com/20essentials/gaitan-castro-band
+https://github.com/20essentials/gorillaz-band
+https://github.com/20essentials/green-day-band
+https://github.com/20essentials/arcade-fire
+https://github.com/20essentials/hikaru-utada-album
+https://github.com/20essentials/hibou-band
+https://github.com/20essentials/hozier-band
+https://github.com/20essentials/home-band
+https://github.com/20essentials/harry-styles-album
+https://github.com/20essentials/sawano-hiro
+https://github.com/20essentials/hardwell-band
+https://github.com/20essentials/incubus-band
+https://github.com/20essentials/izecold-band
+https://github.com/20essentials/bon-iver
+https://github.com/20essentials/iced-earth-band
+https://github.com/20essentials/iracundos-album
+https://github.com/20essentials/outkast-band
+https://github.com/20essentials/ivan-album
+https://github.com/20essentials/st-vincent-band
+https://github.com/20essentials/interpol-band
+https://github.com/20essentials/icona-pop-band
+https://github.com/20essentials/journey-band
+https://github.com/20essentials/orbital-album
+https://github.com/20essentials/justice-band
+https://github.com/20essentials/joan-jett-and-the-blackhearts-band
+https://github.com/20essentials/jack-black-album
+https://github.com/20essentials/john-newman-album
+https://github.com/20essentials/jimi-hendrix-album
+https://github.com/20essentials/jefferson-tadeo-album
+https://github.com/20essentials/the-kooks
+https://github.com/20essentials/jo-cohen-band
+https://github.com/20essentials/j-cole-band
+https://github.com/20essentials/jaymes-young-album
+https://github.com/20essentials/juan-gabriel-album
+https://github.com/20essentials/joy-division-band
+https://github.com/20essentials/jungle-band
+https://github.com/20essentials/jamiroquia-band
+https://github.com/20essentials/jackson-5-band
+https://github.com/20essentials/johnny-steele-album
+https://github.com/20essentials/ha-ash-band
+```
+
 ---
 
 ## Removed files from the structure:
@@ -1161,10 +1227,14 @@ https://github.com/20essentials/galantis-band
 Create folder: `/Unsorted/!ZIP_Files/`
 !-->
 
+## GitHub error
+
+The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday, May 17th) All of the playlist folders should be within a folder called `/Unsorted/` but I didn't do this for the first 10 daily batches of playlists. A [`makefile`](/RESTRUCTURE.mk) has been created to try and attempt to fix this.
+
 ***
 
 # File info
 
-**File version:** `3 (2025, Tuesday, May 13th at 11:02 am PST)`
+**File version:** `4 (2025, Saturday, May 17th at 01:10 pm PST)`
 
 ***
