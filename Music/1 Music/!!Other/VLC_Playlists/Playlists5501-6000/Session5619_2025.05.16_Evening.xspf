@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/electric-light-orchestra-main/songs/n6.mp3</location>
+			<duration>230218</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/electric-light-orchestra-main/songs/n7.mp3</location>
+			<duration>232386</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/ed-sheeran-album-main/songs/n1.mp3</location>
+			<title>Ed Sheeran - Shape Of You (Lyrics)</title>
+			<creator>SyrebralVibes</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/2d1d1f72e2f1d29e9ed04e3550086f42/art.jpg</image>
+			<duration>235159</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/ed-sheeran-album-main/songs/n2.mp3</location>
+			<title>Ed Sheeran - Bad Habits (Lyrics)</title>
+			<creator>7clouds</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/d1fc338030b1fc9af2bf7971b6305501/art.jpg</image>
+			<duration>229724</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/ed-sheeran-album-main/songs/n3.mp3</location>
+			<title>Ed Sheeran - Thinking Out Loud (Lyrics)</title>
+			<creator>Taj Tracks</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/cbc650923ff1dfed8200b54449f7c5f4/art.jpg</image>
+			<duration>277735</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/ed-sheeran-album-main/songs/n4.mp3</location>
+			<duration>263811</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
