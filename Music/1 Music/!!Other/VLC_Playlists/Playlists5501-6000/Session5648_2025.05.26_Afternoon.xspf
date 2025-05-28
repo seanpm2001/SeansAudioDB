@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Medic%20and%20Heavy%20-%20Mr%20Blue%20Sky%20(AI%20COVER)%20[wFG_unUfL7Y].m4a</location>
+			<duration>299236</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Demoman%20-%20Tunak%20Tunak%20Tun%20(AI%20COVER)%20[rtT19E_Jn2M].m4a</location>
+			<duration>302882</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Pyro%20-%20Caramelldansen%20(AI%20COVER)%20[zODPy9CDMaQ].m4a</location>
+			<duration>175125</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Medic%20-%20Viva%20la%20vida%20(AI%20COVER)%20[L7i6CMLW5dE].m4a</location>
+			<duration>240281</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Medic%20-%20I%20want%20to%20break%20free%20(AI%20COVER)%20[gcZvpBCj0OI].m4a</location>
+			<duration>257185</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

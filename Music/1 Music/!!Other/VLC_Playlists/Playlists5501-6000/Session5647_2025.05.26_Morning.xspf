@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Medic%20and%20Heavy%20-%20Can&#39;t%20help%20falling%20in%20love%20(AI%20COVER)%20[Y4ENZrIW8ek].m4a</location>
+			<duration>181302</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/Goku%20-%20My%20heart%20will%20go%20on%20(AI%20COVER)%20[Nf8yGcWw4uQ].m4a</location>
+			<duration>277316</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/Goku%20-%20Somebody%20that%20I%20used%20to%20know%20(AI%20COVER)%20[6jwF0R8U7XI].m4a</location>
+			<duration>247781</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/Goku%20sings%20lose%20yourself%20by%20Eminem%20(AI%20COVER)%20[wK1jZ3WcrVk].m4a</location>
+			<duration>333416</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/Spongebob%20Squarepants%20-%20Hello%20by%20Adele%20(AI%20COVER)%20[ncwliSuePvs].m4a</location>
+			<duration>296984</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/YouTube__Dovahkiin19/AudioOnly/M4A/TF2%20Demoman%20-%20Boulevard%20of%20Broken%20Dreams%20(AI%20COVER)%20[4iCSOlubjHU].m4a</location>
+			<duration>262920</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
