@@ -1262,6 +1262,36 @@ https://github.com/20essentials/league-of-legends-band
 https://github.com/20essentials/la-roux-band
 ```
 
+#### 2025, May 24th
+
+No new data for today.
+
+#### 2025, May 25th
+
+No new data for today.
+
+#### 2025, May 26th
+
+No new data for today.
+
+#### 2025, May 27th
+
+I held off downloads for a while, and got caught back up on them today. There wasn't that much to catch up on (11 entries)
+
+```
+https://github.com/20essentials/lana-del-rey-album
+https://github.com/20essentials/lenny-kravitz-album
+https://github.com/20essentials/lisa-album
+https://github.com/20essentials/luis-enrique-album
+https://github.com/20essentials/luther-vandross-album
+https://github.com/20essentials/lcd-soundsystem-album
+https://github.com/20essentials/lucha-reyes-album
+https://github.com/20essentials/los-morrochucos-album
+https://github.com/20essentials/inner-circle
+https://github.com/20essentials/zoe-album
+https://github.com/20essentials/led-zepellin-album
+```
+
 ---
 
 ## Removed files from the structure:
@@ -1276,12 +1306,12 @@ Create folder: `/Unsorted/!ZIP_Files/`
 
 ## GitHub error
 
-The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday, May 17th) All of the playlist folders should be within a folder called `/Unsorted/` but I didn't do this for the first 10 daily batches of playlists. A [`makefile`](/RESTRUCTURE.mk) has been created to try and attempt to fix this.
+The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday, May 17th) All of the playlist folders should be within a folder called `/Unsorted/` but I didn't do this for the first 10 daily batches of playlists. A [`makefile`](/RESTRUCTURE.mk) has been created to try and attempt to fix this. Newer entries have been added to this folder, but the previous 950+ entries aren't.
 
 ***
 
 # File info
 
-**File version:** `5 (2025, Friday, May 23rd at 12:45 pm PST)`
+**File version:** `6 (2025, Tuesday, May 27th at 02:55 pm PST)`
 
 ***
