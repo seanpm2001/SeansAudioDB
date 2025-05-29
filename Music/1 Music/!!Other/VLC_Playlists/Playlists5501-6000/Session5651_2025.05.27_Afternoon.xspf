@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Not-until-you-return/MP3/Not-until-you-return.mp3</location>
+			<title>Not-until-you-return.mp3</title>
+			<creator>Salar Aghili</creator>
+			<album>Not until you return</album>
+			<trackNum>1</trackNum>
+			<annotation>I cannot translate this.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Salar%20Aghili/Not%20until%20you%20return/art.jpg</image>
+			<duration>377663</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Traditional-Turkish-Music/MP3/Traditional-Turkish-Music.mp3</location>
+			<title>Traditional-Turkish-Music.mp3</title>
+			<creator>Unknown</creator>
+			<album>Traditional Turkish Music</album>
+			<trackNum>1</trackNum>
+			<annotation>I cannot get good information on this songs genre, artist, or year.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Unknown/Traditional%20Turkish%20Music/art.jpg</image>
+			<duration>376226</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Arirang/AudioOnly/WAV/Gyeonggi_Arirang.wav</location>
+			<duration>51374</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Funk4mation/MP3/Funk4Mation_Da-Wild.mp3</location>
+			<title>Funk4Mation_Da-Wild.mp3</title>
+			<creator>Funk4Mation</creator>
+			<album>Da Wild</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Da Wild&quot; by the artist &quot;Funk4Mation&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Funk4Mation/Da%20Wild/art.png</image>
+			<duration>261234</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
