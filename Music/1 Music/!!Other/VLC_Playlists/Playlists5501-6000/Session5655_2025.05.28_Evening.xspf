@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Arianne%20-%20Komm%20S%C3%BCsser%20Tod/MP3/Arianne-Komm-S%C3%BCsser-Tod.mp3</location>
+			<title>Arianne-Komm-Süsser-Tod.mp3</title>
+			<creator>Arianne Cleopatra Schreiber</creator>
+			<album>The end of Evangelion</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Come Sweet Death&quot; by artist Arianne Cleopatra Schreiber for the 1997 movie &quot;The end of Evangelion&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Arianne%20Cleopatra%20Schreiber/The%20end%20of%20Evangelion/art.jpg</image>
+			<duration>460599</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Journey%20(Video%20Game)%20OST/Compilation/Journey%20OST%20-%20Complete%20Soundtrack-M3hFN8UrBPw.mkv</location>
+			<duration>3482900</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
