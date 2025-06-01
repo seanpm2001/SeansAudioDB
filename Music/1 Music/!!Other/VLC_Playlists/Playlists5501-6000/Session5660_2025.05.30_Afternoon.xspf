@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Full-Soundtrack/55%20Staff%20Roll.mp3</location>
+			<title>Credits</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20%28DS%29%20OST/Full-Soundtrack/cover.jpg</image>
+			<duration>304069</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Full-Soundtrack/51%20Final%20Bowser%20Battle.mp3</location>
+			<title>Final Bowser Battle</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20%28DS%29%20OST/Full-Soundtrack/cover.jpg</image>
+			<duration>84065</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Full-Soundtrack/67%20Perfect%20Score%20in%20Mini-Game.mp3</location>
+			<title>Perfect Score in Mini-Game</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20%28DS%29%20OST/Full-Soundtrack/cover.jpg</image>
+			<duration>3817</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20(DS)%20OST/Full-Soundtrack/28%20Underwater.mp3</location>
+			<title>Underwater</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20%28DS%29%20OST/Full-Soundtrack/cover.jpg</image>
+			<duration>85058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
