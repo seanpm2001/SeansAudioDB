@@ -32,7 +32,7 @@ The structure contains folders in 2 languages, and I am not sure why (I retained
 
 #### 2025, April 15th
 
-```
+```urll
 https://github.com/20essentials/pet-shop-boys-band
 ```
 
@@ -40,7 +40,7 @@ https://github.com/20essentials/pet-shop-boys-band
 
 #### 2025, April 16th
 
-```
+```urll
 https://github.com/20essentials/matrix
 https://github.com/20essentials/libido
 https://github.com/20essentials/hot-chip
@@ -170,7 +170,7 @@ Work on music collection skipped today due to dental appointment, and a related 
 
 #### 2025, April 18th
 
-```
+```urll
 https://github.com/20essentials/sigur-ros
 https://github.com/20essentials/st3ve-lacy
 https://github.com/20essentials/stone-temple-pilots
@@ -676,7 +676,7 @@ https://github.com/20essentials/rihanna-ost
 
 #### 2025, April 19th
 
-```
+```urll
 https://github.com/20essentials/duncan-dhu-ost
 https://github.com/20essentials/zoids-guardian-force-ost
 https://github.com/20essentials/chromeo-soundrack
@@ -969,7 +969,7 @@ https://github.com/20essentials/bonobo-band
 
 #### 2025, April 20th
 
-```
+```urll
 https://github.com/20essentials/janelle-monae
 https://github.com/20essentials/xtc-band
 https://github.com/20essentials/yoshiki-album
@@ -982,7 +982,7 @@ https://github.com/20essentials/your-favorite-enemies-band
 
 #### 2025, April 21st
 
-```
+```urll
 https://github.com/20essentials/xiu-xiu-band
 https://github.com/20essentials/bruno-wars-album
 https://github.com/20essentials/cage-the-elephant-band
@@ -995,7 +995,7 @@ No new data for today.
 
 #### 2025, April 23rd
 
-```
+```urll
 https://github.com/20essentials/culture-code-album
 https://github.com/20essentials/crystal-castles-band
 https://github.com/20essentials/chvrches-band
@@ -1009,7 +1009,7 @@ No new data for today.
 
 #### 2025, April 25th
 
-```
+```urll
 https://github.com/20essentials/clovis-reyes-album
 https://github.com/20essentials/daddy-yankee-band
 https://github.com/20essentials/deorro-band
@@ -1023,7 +1023,7 @@ https://github.com/20essentials/alice-deejay
 
 #### 2025, April 26th
 
-```
+```urll
 https://github.com/20essentials/david-lyme-band
 https://github.com/20essentials/cigarretes-after-sex-band
 https://github.com/20essentials/david-kushner-album
@@ -1035,7 +1035,7 @@ No new data for today.
 
 #### 2025, April 28th
 
-```
+```urll
 https://github.com/20essentials/croixx-album
 https://github.com/20essentials/camilo-sesto-album
 https://github.com/20essentials/chuck-berry-album
@@ -1059,7 +1059,7 @@ No new data for today.
 
 #### 2025, May 1st
 
-```
+```urll
 https://github.com/20essentials/kimbra
 https://github.com/20essentials/kike-jimenez-album
 https://github.com/20essentials/k391-album
@@ -1069,7 +1069,7 @@ https://github.com/20essentials/kings-of-leon-band
 
 #### 2025, May 2nd
 
-```
+```urll
 https://github.com/20essentials/kasabian-band
 https://github.com/20essentials/kana-boon-band
 https://github.com/20essentials/bonnie-tyler
@@ -1103,7 +1103,7 @@ No new data for today.
 
 #### 2025, May 8th
 
-```
+```urll
 https://github.com/20essentials/earth-band
 https://github.com/20essentials/johan-sebastian-bach
 https://github.com/20essentials/fantom-87-album
@@ -1119,7 +1119,7 @@ No new data for today.
 
 #### 2025, May 10th
 
-```
+```urll
 https://github.com/20essentials/good-charlote-band
 https://github.com/20essentials/joji
 https://github.com/20essentials/five-finger-death-band
@@ -1142,7 +1142,7 @@ No new data for today.
 
 #### 2025, May 13th
 
-```
+```urll
 https://github.com/20essentials/fuego-album
 https://github.com/20essentials/foo-fighters-band
 https://github.com/20essentials/glwzbll-band
@@ -1167,7 +1167,7 @@ No new data for today.
 
 I had been checking the wrong page for a few days (page 2 of repositories) and have gotten caught back up today.
 
-```
+```urll
 https://github.com/20essentials/glass-animals-band
 https://github.com/20essentials/guns-n-roses-band
 https://github.com/20essentials/glhf-band
@@ -1239,7 +1239,7 @@ No new data for today.
 
 I held off downloads for a while, and got caught back up on them today. There wasn't as much new content as I expected there would be.
 
-```
+```urll
 https://github.com/20essentials/janji-band
 https://github.com/20essentials/kavinsky-album
 https://github.com/20essentials/kamatte-band
@@ -1278,7 +1278,7 @@ No new data for today.
 
 I held off downloads for a while, and got caught back up on them today. There wasn't that much to catch up on (11 entries)
 
-```
+```urll
 https://github.com/20essentials/lana-del-rey-album
 https://github.com/20essentials/lenny-kravitz-album
 https://github.com/20essentials/lisa-album
@@ -1290,6 +1290,61 @@ https://github.com/20essentials/los-morrochucos-album
 https://github.com/20essentials/inner-circle
 https://github.com/20essentials/zoe-album
 https://github.com/20essentials/led-zepellin-album
+```
+
+#### 2025, May 28th
+
+No new data for today.
+
+#### 2025, May 29th
+
+No new data for today.
+
+#### 2025, May 30th
+
+No new data for today.
+
+#### 2025, May 31st
+
+No new data for today.
+
+#### 2025, June 1st
+
+No new data for today.
+
+#### 2025, June 2nd
+
+I held off downloads until after the first AudioDB census was taken (2025, July 1st) it is easy to keep up with, as I took a 6 day pause, and there were only 28 new entries.
+
+```urll
+https://github.com/20essentials/magneto-band
+https://github.com/20essentials/muse-band
+https://github.com/20essentials/mike-menna-band
+https://github.com/20essentials/westworld
+https://github.com/20essentials/neon-rox-album
+https://github.com/20essentials/new-radicals-band
+https://github.com/20essentials/no-mercy-band
+https://github.com/20essentials/neon-genesis-evangelion-album
+https://github.com/20essentials/nxcre-band
+https://github.com/20essentials/neon-trees-album
+https://github.com/20essentials/narvent-album
+https://github.com/20essentials/nickelback-hits
+https://github.com/20essentials/raven-felix
+https://github.com/20essentials/new-found-glory-band
+https://github.com/20essentials/noisestorm-band
+https://github.com/20essentials/nirvana-band
+https://github.com/20essentials/of-monsters-and-men-album
+https://github.com/20essentials/nostalghia-band
+https://github.com/20essentials/pitbull-album
+https://github.com/20essentials/metallica-band
+https://github.com/20essentials/major-lazer-band
+https://github.com/20essentials/moses-sumney
+https://github.com/20essentials/my-chemical-romance-album
+https://github.com/20essentials/m83-band
+https://github.com/20essentials/marlon-roudette-band
+https://github.com/20essentials/melancolia-band
+https://github.com/20essentials/mecano-band
+https://github.com/20essentials/maroon-5-album
 ```
 
 ---
@@ -1312,6 +1367,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `6 (2025, Tuesday, May 27th at 02:55 pm PST)`
+**File version:** `7 (2025, Monday, JUne 2nd at 12:43 pm PST)`
 
 ***
