@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Restaurant%20story/MP3/Restaurant-Story-Theme_High-Quality.mp3</location>
+			<title>Restaurant-Story-Theme_High-Quality.mp3</title>
+			<creator>Storm8 / TeamLava</creator>
+			<album>Restaurant Story Theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the mobile video game &quot;Restaurant Story&quot; by the developer Storm8/TeamLava.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Storm8%20_%20TeamLava/Restaurant%20Story%20Theme%20song/art.png</image>
+			<duration>204104</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/CityVille/MP3/CityVille_Theme_Song.mp3</location>
+			<title>CityVille_Theme_Song.mp3</title>
+			<creator>Zynga</creator>
+			<album>CityVille Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Zynga/CityVille%20Soundtrack/art.png</image>
+			<duration>98464</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Flourish%20Windows%207/AudioOnly/MP3/Flourish%20(Made%20Out%20Of%20Windows%207%20Sounds).mp3</location>
+			<duration>178443</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Flourish%20Windows%207/AudioOnly/MP3/Flourish-XYqe9zGi8sg.mp3</location>
+			<duration>157859</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Hallelujah/H%C3%A4ndel%20Messiah%20-%20Hallelujah/H%C3%A4ndel%20Messiah%20-%20Hallelujah%20Chorus-usfiAsWR4qU.webm</location>
+			<duration>241140</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Hallelujah/Alexandra%20Burke-%20Hallelujah%20lyrics-W-kLDzUmlls.webm</location>
+			<duration>215100</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Gloria/AudioOnly/M4A/[HD]%20Nightcore%20-%20Gloria%20[Ed7GMEr3b-Y].m4a</location>
+			<duration>176936</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Echo/AudioOnly/M4A/[HD]%20Nightcore%20-%20Echo%20[yjnlb8badKE].m4a</location>
+			<duration>162610</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
