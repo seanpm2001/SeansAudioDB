@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Mattete-Ai-no-Uta/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Mattete%20Ai%20no%20Uta%20[sSbKlMbZ2xM].m4a</location>
+			<duration>314143</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Senbonzakura-[Suzumu-Remix]/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Senbonzakura%20[Suzumu%20Remix]%20[P1BB7DjaYXA].m4a</location>
+			<duration>223748</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Senbonzakura/Miku/AudioOnly/M4A/Hatsune%20Miku%20-%20Senbonzakura%20-%20Lyrics%20(Kan_Rom_Eng)%20[F1tWiEPc5yg].m4a</location>
+			<duration>245296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Aishiteru-Banzai/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Aishiteru%20Banzai%20[zEm_oIcrAjw].m4a</location>
+			<duration>261457</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Ichiban-no-Takaramono/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Ichiban%20no%20Takaramono%20[Cio2G7T9jGg].m4a</location>
+			<duration>308733</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/GTAII_Funami_FM/Compilation/AudioOnly/M4A/Grand%20Theft%20Auto%202%20-%20Funami%20FM%20-%20(Old%20Upload)%20[Ng957KTcNO0].m4a</location>
+			<duration>720423</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/Yume-no-tobira/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20Yume%20no%20tobira%20[AvSojOOZyDg].m4a</location>
+			<duration>99800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/You-raise-me-up-(japanese-version)/Nightcore/AudioOnly/M4A/[HD]%20Nightcore%20-%20%20You%20raise%20me%20up%20(japanese%20version)%20[8ZpZGpLt184].m4a</location>
+			<duration>227254</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Japanese_Music/BiSH/MP3/BiSH-My-landscape.mp3</location>
+			<title>BiSH-My-landscape.mp3</title>
+			<creator>BiSH (Brand new Idol SHit)</creator>
+			<album>THE GUERRiLLA BiSH</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/BiSH%20%28Brand%20new%20Idol%20SHit%29/THE%20GUERRiLLA%20BiSH/art.jpg</image>
+			<duration>339445</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
