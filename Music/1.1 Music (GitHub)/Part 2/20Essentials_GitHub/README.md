@@ -1347,6 +1347,94 @@ https://github.com/20essentials/mecano-band
 https://github.com/20essentials/maroon-5-album
 ```
 
+#### 2025, June 3rd
+
+No new data for today.
+
+#### 2025, June 4th
+
+No new data for today.
+
+#### 2025, June 5th
+
+No new data for today.
+
+#### 2025, June 6th
+
+No new data for today.
+
+#### 2025, June 7th
+
+No new data for today.
+
+#### 2025, June 8th
+
+No new data for today.
+
+#### 2025, June 9th
+
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. 29 new repositories were downloaded today.
+
+```urll
+https://github.com/20essentials/ocean-colour-scene-band
+https://github.com/20essentials/new-order-band
+https://github.com/20essentials/penguin-research-band
+https://github.com/20essentials/sn00p-dogg
+https://github.com/20essentials/propellerheaads
+https://github.com/20essentials/portwave-album
+https://github.com/20essentials/panic-at-the-disco-album
+https://github.com/20essentials/pianodeuss-album
+https://github.com/20essentials/petit-biscuit-band
+https://github.com/20essentials/pixies-band
+https://github.com/20essentials/cat-stevens-album
+https://github.com/20essentials/noisettes-band
+https://github.com/20essentials/pedro-capo-album
+https://github.com/20essentials/proyecto-x
+https://github.com/20essentials/pepe-vazquez
+https://github.com/20essentials/pachelbel-band
+https://github.com/20essentials/prismo-band
+https://github.com/20essentials/phillip-phillips-album
+https://github.com/20essentials/phantogram-band
+https://github.com/20essentials/pastel-ghost-album
+https://github.com/20essentials/pantera-band
+https://github.com/20essentials/placebo-band
+https://github.com/20essentials/queens-of-the-stop-of-the-age-band
+https://github.com/20essentials/quicksilver-band
+https://github.com/20essentials/quiet-riot-band
+https://github.com/20essentials/roxette-in-spanish-album
+https://github.com/20essentials/rage-against-the-machine-album
+https://github.com/20essentials/yoasobi
+https://github.com/20essentials/rata-blanca-album
+```
+
+#### 2025, June 10th
+
+No new data for today.
+
+#### 2025, June 11th
+
+No new data for today.
+
+#### 2025, June 12th
+
+No new data for today.
+
+#### 2025, June 13th
+
+No new data for today.
+
+#### 2025, June 14th
+
+No new data for today.
+
+#### 2025, June 15th
+
+No new data for today.
+
+#### 2025, June 16th
+
+No new data for today.
+
 ---
 
 ## Removed files from the structure:
@@ -1367,6 +1455,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `7 (2025, Monday, JUne 2nd at 12:43 pm PST)`
+**File version:** `8 (2025, Monday, June 9th at 03:11 pm PST)`
 
 ***
