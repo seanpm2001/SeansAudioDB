@@ -1433,6 +1433,62 @@ No new data for today.
 
 #### 2025, June 16th
 
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. 25 new repositories were downloaded today.
+
+```urll
+https://github.com/20essentials/roxette-in-english
+https://github.com/20essentials/rio-band
+https://github.com/20essentials/rhcp-album
+https://github.com/20essentials/rauf-and-faik-band
+https://github.com/20essentials/rauw-alejandro-album
+https://github.com/20essentials/remy-zero-album
+https://github.com/20essentials/rick-astley-album
+https://github.com/20essentials/rocio-durcal-album
+https://github.com/20essentials/royal-blood-album
+https://github.com/20essentials/ramnstein-album
+https://github.com/20essentials/robert-miles-album
+https://github.com/20essentials/charly-garcia
+https://github.com/20essentials/red-swam-versions
+https://github.com/20essentials/resident-evil-album
+https://github.com/20essentials/ramones-band
+https://github.com/20essentials/rafaga-album
+https://github.com/20essentials/radiohead-album
+https://github.com/20essentials/rhcp-lives-album
+https://github.com/20essentials/ryan-gosling-album
+https://github.com/20essentials/real-mccoy-album
+https://github.com/20essentials/rupert-holmes-album
+https://github.com/20essentials/star-butterfly-album
+https://github.com/20essentials/september-87-album
+https://github.com/20essentials/metric-album
+https://github.com/20essentials/shakira-album
+```
+
+#### 2025, June 17th
+
+No new data for today.
+
+#### 2025, June 18th
+
+No new data for today.
+
+#### 2025, June 19th
+
+No new data for today.
+
+#### 2025, June 20th
+
+No new data for today.
+
+#### 2025, June 21st
+
+No new data for today.
+
+#### 2025, June 22nd
+
+No new data for today.
+
+#### 2025, June 23rd
+
 No new data for today.
 
 ---
@@ -1455,6 +1511,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `8 (2025, Monday, June 9th at 03:11 pm PST)`
+**File version:** `9 (2025, Monday, June 16th at 01:15 pm PST)`
 
 ***
