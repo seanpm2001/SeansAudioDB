@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/breaking-bad-main/songs/n6.mp3</location>
+			<title>The Ballad of Heisenberg by Los Cuates de Sinaloa | Negro y Azul | Breaking Bad</title>
+			<creator>Breaking Bad &amp; Better Call Saul</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/3cefdec550b3cf1ebcf9a00a434bd66b/art.jpg</image>
+			<duration>222668</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/breaking-bad-main/songs/n7.mp3</location>
+			<duration>327472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
