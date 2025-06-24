@@ -1489,6 +1489,64 @@ No new data for today.
 
 #### 2025, June 23rd
 
+
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. 26 new repositories were downloaded today.
+
+```urll
+https://github.com/20essentials/sidewalks-and-skeletons-band
+https://github.com/20essentials/sandra-album
+https://github.com/20essentials/serena-album
+https://github.com/20essentials/soda-stereo-album
+https://github.com/20essentials/skyfall-beats-album
+https://github.com/20essentials/sim-album
+https://github.com/20essentials/skyrim-album
+https://github.com/20essentials/manu-guix-album
+https://github.com/20essentials/stevie-wonder-album
+https://github.com/20essentials/surf-curse-album
+https://github.com/20essentials/skrillex-album
+https://github.com/20essentials/spandau-ballet-album
+https://github.com/20essentials/sad-puppy-band
+https://github.com/20essentials/savage-garden-album
+https://github.com/20essentials/sia-album
+https://github.com/20essentials/sunstroke-project-album
+https://github.com/20essentials/soundgarden-album
+https://github.com/20essentials/stone-temple-pilots-album
+https://github.com/20essentials/sur-andino-album
+https://github.com/20essentials/swedish-house-mafia-album
+https://github.com/20essentials/saint-motel-band
+https://github.com/20essentials/system-of-a-down-album
+https://github.com/20essentials/sangiovanni-album
+https://github.com/20essentials/the-smiths-album
+https://github.com/20essentials/your-the-giant
+https://github.com/20essentials/the-rare-occasions-album
+```
+
+#### 2025, June 24th
+
+No new data for today.
+
+#### 2025, June 25th
+
+No new data for today.
+
+#### 2025, June 26th
+
+No new data for today.
+
+#### 2025, June 27th
+
+No new data for today.
+
+#### 2025, June 28th
+
+No new data for today.
+
+#### 2025, June 29th
+
+No new data for today.
+
+#### 2025, June 30th
+
 No new data for today.
 
 ---
@@ -1511,6 +1569,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `9 (2025, Monday, June 16th at 01:15 pm PST)`
+**File version:** `10 (2025, Monday, June 23rd at 11:17 am PST)`
 
 ***
