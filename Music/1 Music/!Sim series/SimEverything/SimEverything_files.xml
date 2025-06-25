@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="SimEverything.7z" source="original">
+    <mtime>1599250430</mtime>
+    <size>2584450440</size>
+    <md5>0fb28113938cfcc3554aa1dc017c3c09</md5>
+    <crc32>2a1200c8</crc32>
+    <sha1>59f0ddd4ad945d718f32e4ddf732d161e510a400</sha1>
+    <format>7z</format>
+    <filecount>846</filecount>
+  </file>
+  <file name="SimEverything.jpg" source="original">
+    <mtime>1566578351</mtime>
+    <size>1113671</size>
+    <md5>ee7f278a7be8cafa990fc558a794aa37</md5>
+    <crc32>533a2454</crc32>
+    <sha1>aae8ea287afc87749494872c1d7a92fa73dba870</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="SimEverything_archive.torrent" source="metadata">
+    <btih>831ef80f5527c8b12f9efe44936c71601179a5c7</btih>
+    <mtime>1625986150</mtime>
+    <size>27645</size>
+    <md5>bd06df3ed3cce5d8112bdac00910a1f0</md5>
+    <crc32>dfe2953b</crc32>
+    <sha1>c71a0e608f251a9a731f0e9cd1c870f229cde766</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="SimEverything_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a93ae2a7bd918a602560a604c3b20772</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="SimEverything_meta.sqlite" source="original">
+    <mtime>1599590206</mtime>
+    <size>16527360</size>
+    <format>Metadata</format>
+    <md5>97e36aa7916335e1dfc8fd8cb10d5d7a</md5>
+    <crc32>43f2d12b</crc32>
+    <sha1>8bb9d62f18dec9d363cc43cb6b84d30134a87b51</sha1>
+  </file>
+  <file name="SimEverything_meta.xml" source="original">
+    <mtime>1599514068</mtime>
+    <size>14270</size>
+    <format>Metadata</format>
+    <md5>80c4345b90b58102ee6c1abf3b550ab8</md5>
+    <crc32>bdff3ce9</crc32>
+    <sha1>79cabbe4bdf2fbe3359845402deafd326b30b098</sha1>
+  </file>
+  <file name="SimEverything_reviews.xml" source="original">
+    <mtime>1742370506</mtime>
+    <size>4295</size>
+    <md5>97fddf8386c6732eaaf2e1e88405e1a8</md5>
+    <crc32>cab5106d</crc32>
+    <sha1>e510e4967180dfb714c8c3a1a9432fe9b0776c19</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="SimEverything_rules.conf" source="original">
+    <mtime>1599428288</mtime>
+    <size>9</size>
+    <md5>c6252ae91bcb6e4c9db553057479e7d3</md5>
+    <crc32>4ae60840</crc32>
+    <sha1>fc079ae018899da82fd9dd027c241e886b050c8a</sha1>
+    <format>Derivation Rules</format>
+  </file>
+  <file name="SimEverything_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>SimEverything.jpg</original>
+    <mtime>1599513846</mtime>
+    <size>11689</size>
+    <md5>c3b495fcc546e43ba76f38f524bb21d0</md5>
+    <crc32>ca4f13ab</crc32>
+    <sha1>8066f9a37321c27ec2db84f0c5671c4dc8d531c4</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1625986149</mtime>
+    <size>32326</size>
+    <md5>021def4cb4b1aa863377b80fb30447ad</md5>
+    <crc32>994a7602</crc32>
+    <sha1>bdd9c9245f7d40ac835d5ebd2037f13c1e962ca7</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>
