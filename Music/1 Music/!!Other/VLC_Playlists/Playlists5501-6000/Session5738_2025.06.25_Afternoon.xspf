@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-3000_Unlimited/AudioOnly/MP3/SimCity%203000%20Unlimited%20-%20Illumination.mp3</location>
+			<title>Illumination</title>
+			<creator>SimCity 3000 Unlimited</creator>
+			<album>SimCity 3000 Unlimited</album>
+			<trackNum>10</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%203000%20Unlimited/SimCity%203000%20Unlimited/art.jpg</image>
+			<duration>467091</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-3000_Unlimited/AudioOnly/MP3/SimCity%203000%20Unlimited%20-%20Infrastructure.mp3</location>
+			<title>Infrastructure</title>
+			<creator>SimCity 3000 Unlimited</creator>
+			<album>SimCity 3000 Unlimited</album>
+			<trackNum>11</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%203000%20Unlimited/SimCity%203000%20Unlimited/art.jpg</image>
+			<duration>426288</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-3000_Unlimited/AudioOnly/MP3/SimCity%203000%20Unlimited%20-%20Autoplay.mp3</location>
+			<title>Autoplay</title>
+			<creator>SimCity 3000 Unlimited</creator>
+			<album>SimCity 3000 Unlimited</album>
+			<trackNum>3</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%203000%20Unlimited/SimCity%203000%20Unlimited/art.jpg</image>
+			<duration>14218</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-3000_Unlimited/AudioOnly/MP3/SimCity%203000%20Unlimited%20-%20Loop.mp3</location>
+			<title>Loop</title>
+			<creator>SimCity 3000 Unlimited</creator>
+			<album>SimCity 3000 Unlimited</album>
+			<trackNum>2</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%203000%20Unlimited/SimCity%203000%20Unlimited/art.jpg</image>
+			<duration>22838</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-3000_Unlimited/AudioOnly/MP3/SimCity%203000%20Unlimited%20-%20Central%20Park%20Sunday.mp3</location>
+			<title>Central Park Sunday</title>
+			<creator>SimCity 3000 Unlimited</creator>
+			<album>SimCity 3000 Unlimited</album>
+			<trackNum>5</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%203000%20Unlimited/SimCity%203000%20Unlimited/art.jpg</image>
+			<duration>329556</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-3000_Unlimited/AudioOnly/MP3/SimCity%203000%20Unlimited%20-%20City%20Lights.mp3</location>
+			<title>City Lights</title>
+			<creator>SimCity 3000 Unlimited</creator>
+			<album>SimCity 3000 Unlimited</album>
+			<trackNum>6</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%203000%20Unlimited/SimCity%203000%20Unlimited/art.jpg</image>
+			<duration>302310</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-3000_Unlimited/AudioOnly/MP3/SimCity%203000%20Unlimited%20-%20City%20of%20Dreams.mp3</location>
+			<title>City of Dreams</title>
+			<creator>SimCity 3000 Unlimited</creator>
+			<album>SimCity 3000 Unlimited</album>
+			<trackNum>7</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%203000%20Unlimited/SimCity%203000%20Unlimited/art.jpg</image>
+			<duration>308840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

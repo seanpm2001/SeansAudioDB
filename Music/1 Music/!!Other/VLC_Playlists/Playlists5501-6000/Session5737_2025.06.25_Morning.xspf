@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-3000_Unlimited/AudioOnly/MP3/SimCity%203000%20Unlimited%20-%20Concrete%20Jungle.mp3</location>
+			<title>Concrete Jungle</title>
+			<creator>SimCity 3000 Unlimited</creator>
+			<album>SimCity 3000 Unlimited</album>
+			<trackNum>8</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%203000%20Unlimited/SimCity%203000%20Unlimited/art.jpg</image>
+			<duration>420280</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-3000_Unlimited/AudioOnly/MP3/SimCity%203000%20Unlimited%20-%20Desert%20Sand.mp3</location>
+			<title>Desert Sand</title>
+			<creator>SimCity 3000 Unlimited</creator>
+			<album>SimCity 3000 Unlimited</album>
+			<trackNum>9</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%203000%20Unlimited/SimCity%203000%20Unlimited/art.jpg</image>
+			<duration>289118</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
