@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/Sim-Theme-Park/AudioOnly/MP3/Sim%20Theme%20Park%20-%20Halloween%20World.mp3</location>
+			<title>Halloween World</title>
+			<creator>Sim Theme Park</creator>
+			<album>Sim Theme Park</album>
+			<trackNum>2</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Sim%20Theme%20Park/Sim%20Theme%20Park/art.jpg</image>
+			<duration>1814034</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/Sim-Theme-Park/AudioOnly/MP3/Sim%20Theme%20Park%20-%20Lost%20Kingdom.mp3</location>
+			<title>Lost Kingdom</title>
+			<creator>Sim Theme Park</creator>
+			<album>Sim Theme Park</album>
+			<trackNum>3</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Sim%20Theme%20Park/Sim%20Theme%20Park/art.jpg</image>
+			<duration>2264047</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
