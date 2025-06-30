@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity/SNES_Edition/AudioOnly/MP3/SimCity%20(SNES%20Version)%20-%20Budget.mp3</location>
+			<title>Budget</title>
+			<creator>SimCity (SNES Version)</creator>
+			<album>SimCity (SNES Version)</album>
+			<trackNum>6</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%20%28SNES%20Version%29/SimCity%20%28SNES%20Version%29/art.jpg</image>
+			<duration>78822</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity/SNES_Edition/AudioOnly/MP3/SimCity%20(SNES%20Version)%20-%20Town.mp3</location>
+			<title>Town</title>
+			<creator>SimCity (SNES Version)</creator>
+			<album>SimCity (SNES Version)</album>
+			<trackNum>20</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%20%28SNES%20Version%29/SimCity%20%28SNES%20Version%29/art.jpg</image>
+			<duration>109282</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
