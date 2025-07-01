@@ -1489,7 +1489,6 @@ No new data for today.
 
 #### 2025, June 23rd
 
-
 20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. 26 new repositories were downloaded today.
 
 ```urll
@@ -1547,6 +1546,67 @@ No new data for today.
 
 #### 2025, June 30th
 
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. 30 new repositories were downloaded today.
+
+```urll
+https://github.com/20essentials/the-outfield-album
+https://github.com/20essentials/tomandandy-album
+https://github.com/20essentials/the-beach-boys-album
+https://github.com/20essentials/tyler-bates-album
+https://github.com/20essentials/the-score-album
+https://github.com/20essentials/torbellino-album
+https://github.com/20essentials/the-black-eyed-peas-album
+https://github.com/20essentials/the-rolling-stones-album
+https://github.com/20essentials/the-weeknd-album
+https://github.com/20essentials/twisted-sister-album
+https://github.com/20essentials/jackson-5-album
+https://github.com/20essentials/belle-and-sebastian
+https://github.com/20essentials/the-beatles-album
+https://github.com/20essentials/twenty-one-pilots-album
+https://github.com/20essentials/the-wombats-album
+https://github.com/20essentials/the-foundations-album
+https://github.com/20essentials/the-knack-album
+https://github.com/20essentials/the-kinks-album
+https://github.com/20essentials/the-chemical-brothers-album
+https://github.com/20essentials/the-who-album
+https://github.com/20essentials/the-walters-album
+https://github.com/20essentials/the-heavy-album
+https://github.com/20essentials/the-dark-knight-album
+https://github.com/20essentials/transtic-nerve-album
+https://github.com/20essentials/war-album
+https://github.com/20essentials/undertale-album
+https://github.com/20essentials/underworld-album
+https://github.com/20essentials/ted-time-album
+https://github.com/20essentials/ulver-album
+https://github.com/20essentials/ub40-album
+```
+
+#### 2025, July 1st
+
+No new data for today.
+
+#### 2025, July 2nd
+
+No new data for today.
+
+#### 2025, July 3rd
+
+No new data for today.
+
+#### 2025, July 4th
+
+No new data for today.
+
+#### 2025, July 5th
+
+No new data for today.
+
+#### 2025, July 6th
+
+No new data for today.
+
+#### 2025, July 7th
+
 No new data for today.
 
 ---
@@ -1569,6 +1629,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `10 (2025, Monday, June 23rd at 11:17 am PST)`
+**File version:** `11 (2025, Monday, June 30th at 12:06 pm PST)`
 
 ***
