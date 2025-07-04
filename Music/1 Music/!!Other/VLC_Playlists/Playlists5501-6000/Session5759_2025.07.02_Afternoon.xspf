@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-2000/Nintendo64_Edition/AudioOnly/MP3/SimCity%202000%20(N64%20Version)%20-%20BGM%205.mp3</location>
+			<title>BGM 5</title>
+			<creator>SimCity 2000 (N64 Version)</creator>
+			<album>SimCity 2000 (N64 Version)</album>
+			<trackNum>6</trackNum>
+			<annotation>Originally ripped by Josh W.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%202000%20%28N64%20Version%29/SimCity%202000%20%28N64%20Version%29/art.jpg</image>
+			<duration>69709</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-2000/Nintendo64_Edition/AudioOnly/MP3/SimCity%202000%20(N64%20Version)%20-%20BGM%206.mp3</location>
+			<title>BGM 6</title>
+			<creator>SimCity 2000 (N64 Version)</creator>
+			<album>SimCity 2000 (N64 Version)</album>
+			<trackNum>7</trackNum>
+			<annotation>Originally ripped by Josh W.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%202000%20%28N64%20Version%29/SimCity%202000%20%28N64%20Version%29/art.jpg</image>
+			<duration>48290</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-2000/Nintendo64_Edition/AudioOnly/MP3/SimCity%202000%20(N64%20Version)%20-%20BGM%207.mp3</location>
+			<title>BGM 7</title>
+			<creator>SimCity 2000 (N64 Version)</creator>
+			<album>SimCity 2000 (N64 Version)</album>
+			<trackNum>8</trackNum>
+			<annotation>Originally ripped by Josh W.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%202000%20%28N64%20Version%29/SimCity%202000%20%28N64%20Version%29/art.jpg</image>
+			<duration>191171</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-2000/Nintendo64_Edition/AudioOnly/MP3/SimCity%202000%20(N64%20Version)%20-%20BGM%208.mp3</location>
+			<title>BGM 8</title>
+			<creator>SimCity 2000 (N64 Version)</creator>
+			<album>SimCity 2000 (N64 Version)</album>
+			<trackNum>9</trackNum>
+			<annotation>Originally ripped by Josh W.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%202000%20%28N64%20Version%29/SimCity%202000%20%28N64%20Version%29/art.jpg</image>
+			<duration>74930</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
