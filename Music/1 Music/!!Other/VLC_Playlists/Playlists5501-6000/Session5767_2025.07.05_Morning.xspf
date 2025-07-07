@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/AudioOnly/Super-Mario-Odyssey-OST/1-15%20Tostarena%20Ruins.mp3</location>
+			<title>Tostarena Ruins</title>
+			<creator>The Super Mario Players</creator>
+			<album>Super Mario Odyssey Original Soundtrack</album>
+			<trackNum>15</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Super%20Mario%20Players/Super%20Mario%20Odyssey%20Original%20Soundtrack/art.jpg</image>
+			<duration>234636</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/AudioOnly/Super-Mario-Odyssey-OST/1-08%20The%20Adventure%20Begins.mp3</location>
+			<title>The Adventure Begins</title>
+			<creator>The Super Mario Players</creator>
+			<album>Super Mario Odyssey Original Soundtrack</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Super%20Mario%20Players/Super%20Mario%20Odyssey%20Original%20Soundtrack/art.jpg</image>
+			<duration>14736</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/AudioOnly/Super-Mario-Odyssey-OST/1-20%20Tostarena%20Town.mp3</location>
+			<title>Tostarena: Town</title>
+			<creator>The Super Mario Players</creator>
+			<album>Super Mario Odyssey Original Soundtrack</album>
+			<trackNum>20</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Super%20Mario%20Players/Super%20Mario%20Odyssey%20Original%20Soundtrack/art.jpg</image>
+			<duration>116770</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/AudioOnly/Super-Mario-Odyssey-OST/1-19%20Knucklotec%20Battle.mp3</location>
+			<title>Knucklotec Battle</title>
+			<creator>The Super Mario Players</creator>
+			<album>Super Mario Odyssey Original Soundtrack</album>
+			<trackNum>19</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Super%20Mario%20Players/Super%20Mario%20Odyssey%20Original%20Soundtrack/art.jpg</image>
+			<duration>164340</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super%20Mario%20Odyssey%20OST/AudioOnly/Super-Mario-Odyssey-OST/4-41%20Tostarena%20Investigation.mp3</location>
+			<title>Tostarena Investigation</title>
+			<creator>The Super Mario Players</creator>
+			<album>Super Mario Odyssey Original Soundtrack</album>
+			<trackNum>41</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Super%20Mario%20Players/Super%20Mario%20Odyssey%20Original%20Soundtrack/art.jpg</image>
+			<duration>123797</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
