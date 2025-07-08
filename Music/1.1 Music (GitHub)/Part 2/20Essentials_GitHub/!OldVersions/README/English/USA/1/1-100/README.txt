@@ -1607,6 +1607,59 @@ No new data for today.
 
 #### 2025, July 7th
 
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. 22 new repositories were downloaded today.
+
+```urll
+https://github.com/20essentials/urge-overkill-album
+https://github.com/20essentials/nick-cave
+https://github.com/20essentials/will-i-am-album
+https://github.com/20essentials/wilco-album
+https://github.com/20essentials/wutang-album
+https://github.com/20essentials/woodkid-album
+https://github.com/20essentials/xmal-deutschland-album
+https://github.com/20essentials/xotox-album
+https://github.com/20essentials/x-ray-spex-album
+https://github.com/20essentials/youssou-ndour-album
+https://github.com/20essentials/silversun-pickups-album
+https://github.com/20essentials/your-lie-in-april-album
+https://github.com/20essentials/yellow-magic-orchestra-album
+https://github.com/20essentials/yonderboi-album
+https://github.com/20essentials/yasuharu-takanashi-album
+https://github.com/20essentials/yatashigang-album
+https://github.com/20essentials/zambo-cavero-album
+https://github.com/20essentials/zaza-album
+https://github.com/20essentials/zoot-woman-album
+https://github.com/20essentials/zero-7-album
+https://github.com/20essentials/zorken-album
+https://github.com/20essentials/lykke-li-album
+```
+
+#### 2025, July 8th
+
+No new data for today.
+
+#### 2025, July 9th
+
+No new data for today.
+
+#### 2025, July 10th
+
+No new data for today.
+
+#### 2025, July 11th
+
+No new data for today.
+
+#### 2025, July 12th
+
+No new data for today.
+
+#### 2025, July 13th
+
+No new data for today.
+
+#### 2025, July 14th
+
 No new data for today.
 
 ---
@@ -1629,6 +1682,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `11 (2025, Monday, June 30th at 12:06 pm PST)`
+**File version:** `12 (2025, Monday, July 7th at 01:36 pm PST)`
 
 ***
