@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/lynird-skynyrd-band-main/songs/n16.mp3</location>
+			<title>Swamp Music</title>
+			<creator>Lynyrd Skynyrd</creator>
+			<album>Second Helping</album>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lynyrd%20Skynyrd/Second%20Helping/art.png</image>
+			<duration>214660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/lynird-skynyrd-band-main/songs/n17.mp3</location>
+			<title>Double Trouble</title>
+			<creator>Lynyrd Skynyrd</creator>
+			<album>Gimme Back My Bullets</album>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lynyrd%20Skynyrd/Gimme%20Back%20My%20Bullets/art.png</image>
+			<duration>170668</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/lynird-skynyrd-band-main/songs/n18.mp3</location>
+			<title>Lynyrd Skynyrd - Railroad Song (Audio)</title>
+			<creator>Lynyrd Skynyrd</creator>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/0e8eda401a1a3b262881522a99aa4d70/art.png</image>
+			<duration>254908</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/lynird-skynyrd-band-main/songs/n19.mp3</location>
+			<title>Lynyrd Skynyrd - Mississippi Kid (Audio)</title>
+			<creator>Lynyrd Skynyrd</creator>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/f6a8204e310240ab1c4f88f9795c76a7/art.png</image>
+			<duration>235492</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/lynird-skynyrd-band-main/songs/n20.mp3</location>
+			<title>Lynyrd Skynyrd - I Never Dreamed (Audio)</title>
+			<creator>Lynyrd Skynyrd</creator>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/0bdc7474c5c5a62fd53d027ef1ce937f/art.png</image>
+			<duration>323116</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
