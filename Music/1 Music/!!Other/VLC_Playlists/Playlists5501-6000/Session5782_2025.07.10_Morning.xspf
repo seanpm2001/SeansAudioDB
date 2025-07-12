@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Classic%20-%20normal%20and%20panic/MP3/Bejeweled%20Twist%20music%20Classic%20mode%203%20-%20Normal%20and%20panic.mp3</location>
+			<title>Bejeweled Twist music Classic mode 3 - Normal and panic.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Classic mode (extended)</album>
+			<trackNum>3</trackNum>
+			<annotation>The third song in the Classic Mode of Bejeweled Twist, in normal and panic modes. This version has been extended.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Classic%20mode%20%28extended%29/art.jpg</image>
+			<duration>703752</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Classic%20-%20normal%20and%20panic/MP3/Bejeweled%20Twist%20music%20Classic%20mode%204%20-%20Normal%20and%20Panic.mp3</location>
+			<title>Bejeweled Twist music Classic mode 4 - Normal and Panic.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Classic mode (extended)</album>
+			<trackNum>4</trackNum>
+			<annotation>The fourth song in the classic mode of Bejeweled Twist, in normal and panic modes. This version has been extended.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Classic%20mode%20%28extended%29/art.jpg</image>
+			<duration>826476</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/Classic%20-%20normal%20and%20panic/MP3/Bejeweled%20Twist%20music%20Classic%20mode%206%20-%20Normal%20and%20Panic.mp3</location>
+			<title>Bejeweled Twist music Classic mode 6 - Normal and Panic.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Classic mode (extended)</album>
+			<trackNum>6</trackNum>
+			<annotation>The sixth and final song in the classic mode of Bejeweled Twist, in normal and panic modes. This version has been extended.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Classic%20mode%20%28extended%29/art.jpg</image>
+			<duration>779142</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
