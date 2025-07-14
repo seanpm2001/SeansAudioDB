@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-Stories-Anime-Intro/VideoWithAudio/Cropped/GhostStories_AnimeIntro_Cut1.mp4</location>
+			<duration>85321</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%203%20O.S.T.%203/08.%20Yoko%20Kanno%20-%20East%20Of%20The%20Peninsula.flac</location>
+			<title>East Of The Peninsula</title>
+			<creator>Yoko Kanno</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. 3</album>
+			<trackNum>8</trackNum>
+			<duration>246866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
