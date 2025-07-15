@@ -1660,6 +1660,47 @@ No new data for today.
 
 #### 2025, July 14th
 
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. Uploads seem to be slowing from this account now. 10 new repositories were downloaded today.
+
+```urll
+https://github.com/20essentials/zerom4ncer-album
+https://github.com/20essentials/zz-top-album
+https://github.com/20essentials/zw4n-album
+https://github.com/20essentials/2-unlimited-album
+https://github.com/20essentials/2-raff-album
+https://github.com/20essentials/2-brothers-on-the-fourth-floor-album
+https://github.com/20essentials/4-non-blond3s
+https://github.com/20essentials/pxlish-beatz
+https://github.com/20essentials/m4ki-otsuki
+https://github.com/20essentials/de4ft-keav-album
+```
+
+#### 2025, July 15th
+
+No new data for today.
+
+#### 2025, July 16th
+
+No new data for today.
+
+#### 2025, July 17th
+
+No new data for today.
+
+#### 2025, July 18th
+
+No new data for today.
+
+#### 2025, July 19th
+
+No new data for today.
+
+#### 2025, July 20th
+
+No new data for today.
+
+#### 2025, July 21st
+
 No new data for today.
 
 ---
@@ -1682,6 +1723,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `12 (2025, Monday, July 7th at 01:36 pm PST)`
+**File version:** `13 (2025, Monday, July 14th at 12:43 pm PST)`
 
 ***
