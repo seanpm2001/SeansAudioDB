@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%204%20Solid%20State%20Society%20O.S.T/11.%20Yoko%20Kanno%20-%20Human%20Step%20~%20Aramaki&#39;s%20Theme.flac</location>
+			<title>Human Step ~ Aramaki&#39;s Theme</title>
+			<creator>Yoko Kanno</creator>
+			<album>Ghost In The Shell Stand Alone Complex - Solid State Society O.S.T.</album>
+			<trackNum>11</trackNum>
+			<duration>212373</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%205%20Be%20Human/02.%20Scott%20Matthew%20-%20Trip%20City.flac</location>
+			<title>Trip City</title>
+			<creator>Scott Matthew</creator>
+			<album>Be Human</album>
+			<trackNum>2</trackNum>
+			<duration>235173</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%205%20Be%20Human/03.%20Yoko%20Kanno%20-%20Patch%20Me.flac</location>
+			<title>Patch Me</title>
+			<creator>Yoko Kanno</creator>
+			<album>Be Human</album>
+			<trackNum>3</trackNum>
+			<duration>93266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%205%20Be%20Human/08.%20Yoko%20Kanno%20-%20Rocky%20Wa%20Doko!%20(Where&#39;s%20Rocky!).flac</location>
+			<title>Rocky Wa Doko? (Where&#39;s Rocky?)</title>
+			<creator>Yoko Kanno</creator>
+			<album>Be Human</album>
+			<trackNum>8</trackNum>
+			<duration>265800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%205%20Be%20Human/09.%20Hisaaki%20Hogari%20-%20Spotter.flac</location>
+			<title>Spotter</title>
+			<creator>Hisaaki Hogari</creator>
+			<album>Be Human</album>
+			<trackNum>9</trackNum>
+			<duration>356493</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%205%20Be%20Human/07.%20Yoko%20Kanno%20-%20Fax%20Me.flac</location>
+			<title>Fax Me</title>
+			<creator>Yoko Kanno</creator>
+			<album>Be Human</album>
+			<trackNum>7</trackNum>
+			<duration>86800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%205%20Be%20Human/14.%20Yoko%20Kanno%20-%20Piece%20By%20Ten.flac</location>
+			<title>Piece By Ten</title>
+			<creator>Yoko Kanno</creator>
+			<album>Be Human</album>
+			<trackNum>14</trackNum>
+			<duration>170333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%204%20Solid%20State%20Society%20O.S.T/08.%20Ilaria%20Graziano%20-%20From%20The%20Roof%20Top%20~%20Somewhere%20In%20The%20Silence%20(Sniper&#39;s%20Theme).flac</location>
+			<title>From The Roof Top ~ Somewhere In The Silence (Sniper&#39;s Theme)</title>
+			<creator>Ilaria Graziano</creator>
+			<album>Ghost In The Shell Stand Alone Complex - Solid State Society O.S.T.</album>
+			<trackNum>8</trackNum>
+			<duration>394040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%204%20Solid%20State%20Society%20O.S.T/01.%20Origa%20with%20Heartsdales%20-%20Player.flac</location>
+			<title>Player</title>
+			<creator>Origa with Heartsdales</creator>
+			<album>Ghost In The Shell Stand Alone Complex - Solid State Society O.S.T.</album>
+			<trackNum>1</trackNum>
+			<duration>342453</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
