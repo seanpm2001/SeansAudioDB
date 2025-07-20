@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Konosuba/AudioOnly/kono-subarashii-sekai-ni-bakuen-wo-ed1-jump-in-cocc-18108/02%20-%20Jump%20In%20-Megumin%20Ver.-.mp3</location>
+			<title>Jump In -Megumin Ver.-</title>
+			<creator>Rie Takahashi</creator>
+			<album>Jump In</album>
+			<trackNum>2</trackNum>
+			<annotation>COCC-18108</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rie%20Takahashi/Jump%20In/art.jpg</image>
+			<duration>198142</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/imagine-dragons-main/CANCIONES/N1.mp3</location>
+			<title>Imagine Dragons - Believer (Lyrics)</title>
+			<creator>7clouds</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/3965fb5a3a9ce51694de2ced6a347f84/art.jpg</image>
+			<duration>204487</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/imagine-dragons-main/CANCIONES/N2.mp3</location>
+			<title>Imagine Dragons - Demons (Lyrics)</title>
+			<creator>7clouds</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/a53529f97c8013748a3e82732c3864f1/art.jpg</image>
+			<duration>174472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
