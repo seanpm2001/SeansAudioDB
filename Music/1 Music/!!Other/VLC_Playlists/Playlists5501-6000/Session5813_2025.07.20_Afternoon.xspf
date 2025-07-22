@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-2000/MS-DOS_Edition/AudioOnly/MP3/SimCity%202000%20(MS-DOS%20Version%20-%20General%20MIDI)%20-%20Dancing%20Megalopolis.mp3</location>
+			<title>Dancing Megalopolis</title>
+			<creator>SimCity 2000 (MS-DOS Version: General MIDI)</creator>
+			<album>SimCity 2000 (MS-DOS Version: General MIDI)</album>
+			<trackNum>3</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%202000%20%28MS-DOS%20Version_%20General%20MIDI%29/SimCity%202000%20%28MS-DOS%20Version_%20General%20MIDI%29/art.jpg</image>
+			<duration>113410</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-2000/MS-DOS_Edition/AudioOnly/MP3/SimCity%202000%20(MS-DOS%20Version%20-%20General%20MIDI)%20-%20Key%20of%20Success.mp3</location>
+			<title>Key of Success</title>
+			<creator>SimCity 2000 (MS-DOS Version: General MIDI)</creator>
+			<album>SimCity 2000 (MS-DOS Version: General MIDI)</album>
+			<trackNum>7</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%202000%20%28MS-DOS%20Version_%20General%20MIDI%29/SimCity%202000%20%28MS-DOS%20Version_%20General%20MIDI%29/art.jpg</image>
+			<duration>103018</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-2000/MS-DOS_Edition/AudioOnly/MP3/SimCity%202000%20(MS-DOS%20Version%20-%20General%20MIDI)%20-%20Melancholic%20Mayor.mp3</location>
+			<title>Melancholic Mayor</title>
+			<creator>SimCity 2000 (MS-DOS Version: General MIDI)</creator>
+			<album>SimCity 2000 (MS-DOS Version: General MIDI)</album>
+			<trackNum>8</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%202000%20%28MS-DOS%20Version_%20General%20MIDI%29/SimCity%202000%20%28MS-DOS%20Version_%20General%20MIDI%29/art.jpg</image>
+			<duration>103426</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-2000/MS-DOS_Edition/AudioOnly/MP3/SimCity%202000%20(MS-DOS%20Version%20-%20Sound%20Blaster%20Pro%202)%20-%20Key%20of%20Success.mp3</location>
+			<title>Key of Success</title>
+			<creator>SimCity 2000 (MS-DOS Version: Sound Blaster Pro 2)</creator>
+			<album>SimCity 2000 (MS-DOS Version: Sound Blaster Pro 2)</album>
+			<trackNum>7</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%202000%20%28MS-DOS%20Version_%20Sound%20Blaster%20Pro%202%29/SimCity%202000%20%28MS-DOS%20Version_%20Sound%20Blaster%20Pro%202%29/art.jpg</image>
+			<duration>103163</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-2000/SNES_Edition/AudioOnly/MP3/SimCity%202000%20(SNES%20Version)%20-%20Entertainment%20City.mp3</location>
+			<title>Entertainment City</title>
+			<creator>SimCity 2000 (SNES Version)</creator>
+			<album>SimCity 2000 (SNES Version)</album>
+			<trackNum>5</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%202000%20%28SNES%20Version%29/SimCity%202000%20%28SNES%20Version%29/art.jpg</image>
+			<duration>57132</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-2000/SNES_Edition/AudioOnly/MP3/SimCity%202000%20(SNES%20Version)%20-%20Parks%20and%20Zones.mp3</location>
+			<title>Parks and Zones</title>
+			<creator>SimCity 2000 (SNES Version)</creator>
+			<album>SimCity 2000 (SNES Version)</album>
+			<trackNum>9</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%202000%20%28SNES%20Version%29/SimCity%202000%20%28SNES%20Version%29/art.jpg</image>
+			<duration>55044</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity-2000/SNES_Edition/AudioOnly/MP3/SimCity%202000%20(SNES%20Version)%20-%20Roads%20and%20Rails.mp3</location>
+			<title>Roads and Rails</title>
+			<creator>SimCity 2000 (SNES Version)</creator>
+			<album>SimCity 2000 (SNES Version)</album>
+			<trackNum>10</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%202000%20%28SNES%20Version%29/SimCity%202000%20%28SNES%20Version%29/art.jpg</image>
+			<duration>62820</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
