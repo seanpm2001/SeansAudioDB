@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Assassination Classroom.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Assassination Classroom.mp3</original>
+    <mtime>1549064517</mtime>
+    <size>20696</size>
+    <md5>4d330b93350918835affb8fb2f8a5c3c</md5>
+    <crc32>ac307c5f</crc32>
+    <sha1>d2977f870402b9afd7f03b8683d3061bdd4d140c</sha1>
+  </file>
+  <file name="Assassination Classroom.mp3" source="original">
+    <mtime>1549064467</mtime>
+    <size>1417376</size>
+    <md5>eed80d0cdb8f555b430606e9c9d578d0</md5>
+    <crc32>c50f4f1a</crc32>
+    <sha1>d678ac59ea010a8aaeae72f62f6a083a9c6e6f39</sha1>
+    <format>VBR MP3</format>
+    <length>88.03</length>
+    <height>0</height>
+    <width>0</width>
+    <external-identifier>urn:acoustid:4d54fa6c-b5fe-467f-8695-a42e02e2b938</external-identifier>
+    <external-identifier-match-date>acoustid:2021-02-22T13:36:51Z</external-identifier-match-date>
+  </file>
+  <file name="Assassination Classroom.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Assassination Classroom.mp3</original>
+    <mtime>1549064499</mtime>
+    <size>953312</size>
+    <md5>0c9213e4d1e5bb7c7c85ece0965c7a52</md5>
+    <crc32>c67b97d8</crc32>
+    <sha1>e09f62284b37f3f0ce9d9a432efdcba4252a61ec</sha1>
+    <length>88.22</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Assassination Classroom.png" source="derivative">
+    <format>PNG</format>
+    <original>Assassination Classroom.mp3</original>
+    <mtime>1549064511</mtime>
+    <size>11674</size>
+    <md5>427b6abcac4c45c3f9b1bcb3194596cf</md5>
+    <crc32>1bb20826</crc32>
+    <sha1>9ff793efc2987690a977ae389544fed924ae7c23</sha1>
+  </file>
+  <file name="Assassination Classroom_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Assassination Classroom.mp3</original>
+    <mtime>1549064513</mtime>
+    <size>239469</size>
+    <md5>f73b8f5b1e24f06c5fdc08a06c80bf8c</md5>
+    <crc32>653aa813</crc32>
+    <sha1>19d08bb751d22debdf5d848b3664d1e476047878</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1614001021</mtime>
+    <size>3296</size>
+    <md5>9168f0a7ab20586425372072f5e74646</md5>
+    <crc32>f95c3fe2</crc32>
+    <sha1>0d1f2c3f1b61a84aeefe7b986348d91d3df75cce</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="tvtunes_31011_archive.torrent" source="metadata">
+    <btih>81dbd114b0a26fc6399f5fd62207fd17050c0a4d</btih>
+    <mtime>1614001032</mtime>
+    <size>2647</size>
+    <md5>9d1536940c6e7625b7abb77d7364d5b3</md5>
+    <crc32>3e04568b</crc32>
+    <sha1>a97c07d3d2114a7382713dcaa005e5095598322a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tvtunes_31011_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>da5e3246e34b6fd61c47d620932b4daf</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="tvtunes_31011_meta.sqlite" source="original">
+    <mtime>1549064481</mtime>
+    <size>9216</size>
+    <md5>caa9d425f3f9f631c49cd22e6c34832a</md5>
+    <crc32>5f840114</crc32>
+    <sha1>8ffd49e46d491faede4f4c492bb0ea8fdc57ac92</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="tvtunes_31011_meta.xml" source="original">
+    <mtime>1614001032</mtime>
+    <size>926</size>
+    <format>Metadata</format>
+    <md5>3fa78d12c08f4a998a950e0efaf5c2e1</md5>
+    <crc32>2515c04a</crc32>
+    <sha1>e788cb8219553588e587bbe220afa86da95f6cd4</sha1>
+  </file>
+</files>
