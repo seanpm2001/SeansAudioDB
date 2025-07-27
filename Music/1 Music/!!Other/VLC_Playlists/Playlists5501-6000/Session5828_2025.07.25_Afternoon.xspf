@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Rise_FM/Compilation/NoCommercials/AudioOnly/M4A/Grand%20Theft%20Auto%20III%20-%20Rise%20FM%20(No%20Commercials)%20[Mn7ku4_zOWg].m4a</location>
+			<duration>1559546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/K-Jah/Compilation/NoCommercials/AudioOnly/M4A/Grand%20Theft%20Auto%20III%20-%20K-Jah%20(No%20Commercials)%20[y1tkUY8tFJ8].m4a</location>
+			<duration>1145046</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Double_Clef_FM/Compilation/NoCommercials/AudioOnly/M4A/Grand%20Theft%20Auto%20III%20-%20Double%20Clef%20FM%20(No%20Commercials)%20[PaMT_gIPax4].m4a</location>
+			<duration>965649</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Flashbach_95.6/Commercials/AudioOnly/M4A/GTA%20III%20-%20Flashback%20FM%20%20%EF%BC%8A%EF%BC%8ACommercials%EF%BC%8A%EF%BC%8A%20[jDTxvRwDXeU].m4a</location>
+			<duration>185621</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/Flashbach_95.6/Compilation/NoCommercials/AudioOnly/M4A/Grand%20Theft%20Auto%20III%20-%20Flashback%20FM%20(No%20Commercials)%20[ZpGxrm_m2GM].m4a</location>
+			<duration>952228</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_III/Radio_Stations/MSX_FM/Compilation/NoCommercials/AudioOnly/M4A/Grand%20Theft%20Auto%20III%20-%20MSX%20FM%20(No%20Commercials)%20[eMkdtMQH7WM].m4a</location>
+			<duration>1500753</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
