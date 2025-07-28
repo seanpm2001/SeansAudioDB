@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/A-cruel-angels-thesis/Piano-Cover/youtube-aYe-2Glruu4/aYe-2Glruu4.webm</location>
+			<duration>297628</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/20Essentials/neon-genesis-evangelion-album-main/songs/n12.mp3</location>
+			<title>EVA 2</title>
+			<creator>blueberry</creator>
+			<album>EVA 2</album>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/blueberry/EVA%202/art.jpg</image>
+			<duration>130352</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/20Essentials/neon-genesis-evangelion-album-main/songs/n13.mp3</location>
+			<duration>267731</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/20Essentials/neon-genesis-evangelion-album-main/songs/n14.mp3</location>
+			<title>&quot;Libera Me From Hell&quot; with subs</title>
+			<creator>Paladin65536</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/5ad27462abf15b33ecd13e6063657832/art.jpg</image>
+			<duration>289229</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/20Essentials/neon-genesis-evangelion-album-main/songs/n1.mp3</location>
+			<title>Neon Genesis Evangelion - Fly me to the moon.</title>
+			<creator>Dark Soul</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/96b119b10065a769abe131587de230e1/art.jpg</image>
+			<duration>271047</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/20Essentials/neon-genesis-evangelion-album-main/songs/n2.mp3</location>
+			<title>Neon Genesis</title>
+			<creator>blueberry, Narvent</creator>
+			<album>Neon Genesis</album>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/blueberry%2C%20Narvent/Neon%20Genesis/art.jpg</image>
+			<duration>135864</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/20Essentials/neon-genesis-evangelion-album-main/songs/n3.mp3</location>
+			<duration>198975</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/20Essentials/neon-genesis-evangelion-album-main/songs/n4.mp3</location>
+			<title>The End Of Evangelion - Komm Süsser Tod - Come Sweet Death (HQ)</title>
+			<creator>Batrick Pateman</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/f35ffe5b0b4aedd61fb71b8bf69bc25e/art.jpg</image>
+			<duration>462343</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>

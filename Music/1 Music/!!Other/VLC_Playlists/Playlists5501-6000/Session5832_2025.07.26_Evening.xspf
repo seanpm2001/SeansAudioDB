@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Overworld_Music/Seanpm2001/MP3/Kevin%20MacLeod%20-%2000%20-%20Nowhere%20Land.mp3</location>
+			<title>Nowhere Land</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>ISRC: USUAN1600051</annotation>
+			<duration>132079</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Overworld_Music/Seanpm2001/MP3/Kevin%20MacLeod%20-%2000%20-%20Overworld.mp3</location>
+			<title>Overworld</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>ISRC: USUAN1600009 at incompetech.com</annotation>
+			<duration>172856</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Drowning%20pool/AudioOnly/MP3/let%20the%20bodies%20hit%20the%20floor.mp3</location>
+			<duration>199785</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sound%20System%20009/MP3/sound-system-009-dreamscape.mp3</location>
+			<title>sound-system-009-dreamscape.mp3</title>
+			<creator>Alexander Perls</creator>
+			<album>009 Sound System</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song of YouTube (2007 onward) due to AudioSwap. Wikipedia results aren&#39;t adding up, as the songs mentioned came out in 2009, but the feature was introduced in 20079. I am really confused.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Alexander%20Perls/009%20Sound%20System/art.jpg</image>
+			<duration>519274</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bad%20day/MP3/Daniel-Powter_Bad-Day.mp3</location>
+			<title>Daniel-Powter_Bad-Day.mp3</title>
+			<creator>Daniel Powter</creator>
+			<album>Bad Day</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Bad Day&quot; by Canadian Pop singer Daniel Powter.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Daniel%20Powter/Bad%20Day/art.jpg</image>
+			<duration>235137</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Can-Can/OGG/Offenbach_-_Orpheus_in_the_Underworld_-_Overture,_Can_Can_section.ogg</location>
+			<duration>106882</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sonic%201,2,3%20Can%20Can/Sonic%20the%20hedgehog%202%20can%20can.mp4</location>
+			<duration>108948</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sonic%201,2,3%20Can%20Can/Sonic%203%20&amp;%20Can%20Can%20-%20YouTube.mp4</location>
+			<duration>110341</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
