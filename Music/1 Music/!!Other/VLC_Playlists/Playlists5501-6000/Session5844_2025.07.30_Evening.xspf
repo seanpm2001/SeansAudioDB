@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20District%20Four.mp3</location>
+			<title>District Four</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>0</annotation>
+			<duration>248245</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Attack%20of%20the%20Mole%20Men.mp3</location>
+			<title>Attack of the Mole Men</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>incompetech.com</annotation>
+			<duration>40780</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Angel%20Share.mp3</location>
+			<title>Angel Share</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>ISRC: USUAN1700021</annotation>
+			<duration>200546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Bit%20Shift.mp3</location>
+			<title>Bit Shift</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>ISRC: USUAN1600045</annotation>
+			<duration>192056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Egmont%20Overture.mp3</location>
+			<title>Egmont Overture</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation> 000008FE 000008DA 00010D7F 00005FDC 000833B8 00082770 00007FFF 00007FFF 00028398 000286C8</annotation>
+			<duration>546195</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Airship%20Serenity.mp3</location>
+			<title>Airship Serenity</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>ISRC: USUAN1600046</annotation>
+			<duration>240069</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Minima.mp3</location>
+			<title>Minima</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>0</annotation>
+			<duration>213893</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Ascending%20the%20Vale.mp3</location>
+			<title>Ascending the Vale</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>ISRC: USUAN1600064</annotation>
+			<duration>247644</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/AudioOnly/MP3/Fruit%20Ninja%20-%20Music-menu.mp3</location>
+			<title>Fruit Ninja - Music-menu.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The title theme for the video game Fruit Ninja by HalfBrick.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20soundtrack/art.png</image>
+			<duration>25791</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/AudioOnly/MP3/Fruit%20Ninja%20Menu%20Theme%20Extended%20-%20Theme%20Song%20-%20Game%20Music%20HQ%20OST.mp3</location>
+			<title>Fruit Ninja Menu Theme Extended - Theme Song - Game Music HQ OST.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja Modern soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The modern theme song for the HalfBrick video game Fruit Ninja.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20Modern%20soundtrack/art.png</image>
+			<duration>607020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/AudioOnly/MP3/Fruit%20Ninja%20-%20Music-menu.mp3</location>
+			<title>Fruit Ninja - Music-menu.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The title theme for the video game Fruit Ninja by HalfBrick.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20soundtrack/art.png</image>
+			<duration>25791</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP3/fruit%20ninja%20modern%20menu%20theme%20extended.mp3</location>
+			<title>fruit ninja modern menu theme extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja modern soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>An extended version of the modern Fruit Ninja menu theme song.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20modern%20soundtrack/art.png</image>
+			<duration>1821096</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP3/fruit%20ninja%20kinect%208%20bit%20menu%20theme%20extended.mp3</location>
+			<title>fruit ninja kinect 8 bit menu theme extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja Kinect Soundtrack extended</album>
+			<trackNum>1</trackNum>
+			<annotation>The Fruit Ninja for Kinect theme song extended to 31 minutes.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20Kinect%20Soundtrack%20extended/art.png</image>
+			<duration>1860985</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP3/fruit%20ninja%20background%20theme%20theme%20extended.mp3</location>
+			<title>fruit ninja background theme theme extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja Soundtrack (extended)</album>
+			<trackNum>3</trackNum>
+			<annotation>An extended version of the in-game background theme for Fruit Ninja. To prevent the song from being cut off, this extended version lasts an extra 2 minutes (32 minutes)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20Soundtrack%20%28extended%29/art.png</image>
+			<duration>1976683</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Fruit%20Ninja%20OST/extended/MP3/fruit%20ninja%20dojo%20theme%20theme%20extended.mp3</location>
+			<title>fruit ninja dojo theme theme extended.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja soundtrack extended</album>
+			<trackNum>2</trackNum>
+			<annotation>An extended version of the Fruit Ninja Dojo theme. To prevent song cutoff, the audio is extended to nearly 31 minutes, instead of being just 30 minutes long.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20soundtrack%20extended/art.png</image>
+			<duration>1811117</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Jetpack%20Joyride/Main%20Level%20Theme%20(128%20%20kbps).mp3</location>
+			<duration>130996</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Jetpack%20Joyride/Main%20Level%20Theme%20(menu%20screen)%20(128%20%20kbps).mp3</location>
+			<duration>130992</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Jetpack%20Joyride/remix%20(menu%20screen).mp4</location>
+			<duration>131818</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Jetpack%20Joyride/The%20Stash%20(128%20%20kbps).mp3</location>
+			<duration>81842</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Jetpack%20Joyride/title.mp4</location>
+			<duration>34968</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Jetpack%20Joyride/bling.mp4</location>
+			<duration>130983</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Jetpack%20Joyride/BTTF.mp4</location>
+			<duration>43235</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Jetpack%20Joyride/chariot.mp4</location>
+			<duration>11980</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Jetpack%20Joyride/collosatron.mp4</location>
+			<duration>13305</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Jetpack%20Joyride/remix%20(menu%20screen).mp4</location>
+			<duration>131818</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Jetpack%20Joyride/Remix%20(128%20%20kbps).mp3</location>
+			<duration>131867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Jetpack%20Joyride/whale.mp4</location>
+			<duration>9195</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halfbrick%20series/Jetpack%20Joyride/Xmas.m4a</location>
+			<duration>134095</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/When%20the%20moon%20hits%20your%20eye%20like%20a%20big%20pizza%20pie/(No%20video)%20Dean%20Martin%20-%20That&#39;s%20Amore.webm</location>
+			<duration>187000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The%20Simpsons%20Movie%20OST/The%20Simpsons%20Movie%20(Soundtrack)%20-%20Carpenter%20Close%20To%20You.mp4</location>
+			<duration>216178</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The%20Simpsons%20tapped%20out%20OST/MP3/The-Simpsons-Tapped-Out-OST_Around-the-World.mp3</location>
+			<title>The-Simpsons-Tapped-Out-OST_Around-the-World.mp3</title>
+			<creator>Electronic Arts (EA)</creator>
+			<album>The Simpsons Tapped Out Soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>The song from the &quot;around the world&quot; update for The Simpsons: Tapped Out.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Electronic%20Arts%20%28EA%29/The%20Simpsons%20Tapped%20Out%20Soundtrack/art.png</image>
+			<duration>70878</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/The-Simpsons-Tapped-Out-SFX/AndroidAudio/mainmusic.wav</location>
+			<duration>40618</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/The-Simpsons-Tapped-Out-SFX/AndroidAudio/bgloop.wav</location>
+			<duration>50688</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/The-Simpsons-Tapped-Out-SFX/AndroidAudio/friendmusic.wav</location>
+			<duration>23466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-battle/38%20Green%20Hill%20Zone.mp3</location>
+			<title>Green Hill Zone</title>
+			<creator>Tatsuyuki Maeda, Kenichi Tokoi, Hideaki Kobayashi</creator>
+			<album>Sonic Battle</album>
+			<duration>188056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-advance/34%20Act%20Clear.mp3</location>
+			<title>Act Clear</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-advance/Folder.jpg</image>
+			<duration>3996</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-advance/35%20Boss%20Clear.mp3</location>
+			<title>Boss Clear</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-advance/Folder.jpg</image>
+			<duration>4884</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/06%20-%20Star%20Light%20Zone.mp3</location>
+			<title>Star Light Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/cover.jpg</image>
+			<duration>97880</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/07%20-%20Scrap%20Brain%20Zone.mp3</location>
+			<title>Scrap Brain Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/cover.jpg</image>
+			<duration>154671</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/10%20-%20Final%20Zone.mp3</location>
+			<title>Final Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/cover.jpg</image>
+			<duration>50834</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/09%20-%20Robotnik.mp3</location>
+			<title>Robotnik</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/cover.jpg</image>
+			<duration>52976</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/15%20-%201-up.mp3</location>
+			<title>1-up</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/cover.jpg</image>
+			<duration>3918</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/14%20-%20Invincibility.mp3</location>
+			<title>Invincibility</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/cover.jpg</image>
+			<duration>33097</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/16%20-%20Chaos%20Emerald.mp3</location>
+			<title>Chaos Emerald</title>
+			<creator>Yukifumi Makino</creator>
+			<album>Sonic the Hedgehog</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/cover.jpg</image>
+			<duration>2847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/11%20-%20Stage%20Clear.mp3</location>
+			<title>Stage Clear</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-sega-genesis/cover.jpg</image>
+			<duration>6060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-2-sega-genesis/04%20-%20Act%20Clear.mp3</location>
+			<title>Act Clear</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>6060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-2-sega-genesis/16%20-%20Robotnik.mp3</location>
+			<title>Robotnik</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>82416</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-2-sega-genesis/15%20-%20Death%20Egg%20Zone.mp3</location>
+			<title>Death Egg Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>112405</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-2-sega-genesis/17%20-%20Final%20Boss.mp3</location>
+			<title>Final Boss</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>123951</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-2-sega-genesis/07%20-%20Aquatic%20Ruin%20Zone.mp3</location>
+			<title>Aquatic Ruin Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>83409</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-2-sega-genesis/10%20-%20Mystic%20Cave%20Zone.mp3</location>
+			<title>Mystic Cave Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>120320</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-2-sega-genesis/12%20-%20Metropolis%20Zone.mp3</location>
+			<title>Metropolis Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>101224</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-2-sega-genesis/11%20-%20Oil%20Ocean%20Zone.mp3</location>
+			<title>Oil Ocean Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>98873</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-2-sega-genesis/09%20-%20Hill%20Top%20Zone.mp3</location>
+			<title>Hill Top Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>96235</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-2-sega-genesis/08%20-%20Casino%20Night%20Zone.mp3</location>
+			<title>Casino Night Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>128444</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+	</extension>
+</playlist>
