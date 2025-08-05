@@ -1766,6 +1766,42 @@ No new data for today.
 
 #### 2025, August 4th
 
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. Uploads seem to be slowing from this account now. Most updates from the past week were to repositories I have already downloaded, and I do not intend to redownload these repositories, although the number of original repositories has gone up this week slightly, but not to where it used to be. Only 5 new repositories were downloaded today.
+
+```urll
+https://github.com/20essentials/robin-hustin
+https://github.com/20essentials/bag-raiders-band
+https://github.com/20essentials/barbie-album
+https://github.com/20essentials/electro-light-album
+https://github.com/20essentials/blink-182-band
+```
+
+#### 2025, August 5th
+
+No new data for today.
+
+#### 2025, August 6th
+
+No new data for today.
+
+#### 2025, August 7th
+
+No new data for today.
+
+#### 2025, August 8th
+
+No new data for today.
+
+#### 2025, August 9th
+
+No new data for today.
+
+#### 2025, August 10th
+
+No new data for today.
+
+#### 2025, August 11th
+
 No new data for today.
 
 ---
@@ -1788,6 +1824,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `15 (2025, Monday, July 28th at 02:49 pm PST)`
+**File version:** `16 (2025, Monday, August 4th at 04:25 pm PST)`
 
 ***
