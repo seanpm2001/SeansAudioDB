@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/queen-band-main/songs/n13.mp3</location>
+			<title>Queen - A Kind Of Magic (Official Lyric Video)</title>
+			<creator>Queen Official</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/5a7eb68ca76a814e6fa30ab6fd2577da/art.jpg</image>
+			<duration>277225</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/queen-band-main/songs/n12.mp3</location>
+			<title>Love Of My Life (Remastered 2011)</title>
+			<creator>Queen</creator>
+			<album>A Night At The Opera</album>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/A%20Night%20At%20The%20Opera/art.jpg</image>
+			<duration>217470</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/queen-band-main/songs/n11.mp3</location>
+			<title>The Show Must Go On (Remastered 2011)</title>
+			<creator>Queen</creator>
+			<album>Greatest Hits II</album>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/Greatest%20Hits%20II/art.jpg</image>
+			<duration>263710</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/queen-band-main/songs/n10.mp3</location>
+			<title>Who Wants To Live Forever (Remastered 2011)</title>
+			<creator>Queen</creator>
+			<album>Greatest Hits II</album>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/Greatest%20Hits%20II/art.jpg</image>
+			<duration>295421</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/queen-band-main/songs/n9.mp3</location>
+			<title>Crazy Little Thing Called Love (Remastered 2011)</title>
+			<creator>This Is Queen</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/e6623c5a509b5bac003bb5c599829e34/art.jpg</image>
+			<duration>163710</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/queen-band-main/songs/n8.mp3</location>
+			<title>Queen - I Want To Break Free (lyrics)</title>
+			<creator>Wind Music</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/eb8c832dccd983cbe52774740caaeddc/art.jpg</image>
+			<duration>256889</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/queen-band-main/songs/n7.mp3</location>
+			<title>Queen - Another One Bites the Dust (Official Video)</title>
+			<creator>Queen Official</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/eee5ed2fa3a0da7542d624233b7f476d/art.jpg</image>
+			<duration>222773</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/queen-band-main/songs/n6.mp3</location>
+			<title>We Are The Champions (Remastered 2011)</title>
+			<creator>Queen</creator>
+			<album>News Of The World</album>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Queen/News%20Of%20The%20World/art.jpg</image>
+			<duration>184453</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/queen-band-main/songs/n5.mp3</location>
+			<title>Queen - We Will Rock You (Official Video)</title>
+			<creator>Queen Official</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/fec9a3515b42536b92e6205ece14eac1/art.jpg</image>
+			<duration>134609</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
