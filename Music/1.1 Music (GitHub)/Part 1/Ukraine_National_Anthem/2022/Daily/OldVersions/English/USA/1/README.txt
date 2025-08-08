@@ -129,11 +129,11 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 
 # 🇺🇦️ Counter / Лічильник / Прилавок / Лічыльнік / 계수기 🇺🇦️
 
-- The Ukrainian Flag Emoji appears in this document `6521` times (as of 2025.08.06)
-- UA/UK: У цьому документі з'являється емодзі прапора України `6521` разів (станом на 2025.08.06)
-- RU: Эмодзи Флаг Украины появляется в этом документе `6521` раз (по состоянию на 2025.08.06)
-- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `6521` разоў (на 2025.08.06)
-- KO: 우크라이나 국기 이모지는 이 문서에 `6521` 번 등장합니다(2025.08.06 기준)
+- The Ukrainian Flag Emoji appears in this document `6524` times (as of 2025.08.07)
+- UA/UK: У цьому документі з'являється емодзі прапора України `6524` разів (станом на 2025.08.07)
+- RU: Эмодзи Флаг Украины появляется в этом документе `6524` раз (по состоянию на 2025.08.07)
+- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `6524` разоў (на 2025.08.07)
+- KO: 우크라이나 국기 이모지는 이 문서에 `6524` 번 등장합니다(2025.08.07 기준)
 
 ***
 
@@ -1171,6 +1171,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1029: 2025, August 4th
 - [x] 🇺🇦️ Day 1030: 2025, August 5th
 - [x] 🇺🇦️ Day 1031: 2025, August 6th
+- [x] 🇺🇦️ Day 1032: 2025, August 7th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -2440,6 +2441,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1258, 2025, Monday, August 4th
 - [x] 🇺🇦️ Day 1259, 2025, Tuesday, August 5th
 - [x] 🇺🇦️ Day 1260, 2025, Wednesday, August 6th
+- [x] 🇺🇦️ Day 1261, 2025, Thursday, August 7th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -6641,12 +6643,17 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 4183: 2025, August 4th
 - [x] 🇺🇦️ Day 4184: 2025, August 5th
 - [x] 🇺🇦️ Day 4185: 2025, August 6th
+- [x] 🇺🇦️ Day 4186: 2025, August 7th
 
-- After 4,185 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 4,185 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 4,185 дня это все еще Украина. Слава Украине!
-- BE: Праз 4,185 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
-- KO: 4,185 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
+<!-- upcoming
+2025, August 24th:  (happy independence day Ukraine!) **Слава Україні!**
+!-->
+
+- After 4,186 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 4,186 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 4,186 дня это все еще Украина. Слава Украине!
+- BE: Праз 4,186 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
+- KO: 4,186 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
 
 #### N1
 
@@ -6686,7 +6693,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **BE: Тып файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 - **KO: 파일 유형:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `954 (2025, Wednesday, August 6th at 09:38 pm PST)`
+- **File version:** `955 (2025, Thursday, August 7th at 09:37 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
@@ -6696,11 +6703,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 > **Translation not available (Korean) 번역이 불가능합니다. (한국어)**
 
-- **Line count (including blank lines and compiler line):** `7,952`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `7,952`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `7,952`
-- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `7,952`
-- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `7,952`
+- **Line count (including blank lines and compiler line):** `7,979`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `7,979`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `7,979`
+- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `7,979`
+- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `7,979`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -7855,6 +7862,26 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 955 (2025, Thursday, August 7th at 09:37 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `6524`
+- [x] Updated the main list to include an entry for 2025, August 7th (day 1,032)
+- [x] Updated the list of all days of the war since the 2022 Invasion (1,261 days)
+- [x] Updated the list of all days of the war (4,186 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 955
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 955
+
+</details> <!-- V955 !-->
+
+---
+
 _End of file history._
 
 </details> <!-- End of file history !-->
@@ -7869,11 +7896,11 @@ _End of file history._
 
 <!-- TODO !--> TODO: Translate this section
 
-- Total consecutive days: 1031 (as of 2025, Wednesday, August 6th)
-- Days with an update: 954 (as of 2025, Wednesday, August 6th)
-- Days without an update: 78 (as of 2025, Wednesday, August 6th)
+- Total consecutive days: 1032 (as of 2025, Thursday, August 7th)
+- Days with an update: 955 (as of 2025, Thursday, August 7th)
+- Days without an update: 78 (as of 2025, Thursday, August 7th)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 954/1031 = 92.531% (as of 2025, Wednesday, August 6th)
+- Ratio: 955/1032 = 92.538% (as of 2025, Thursday, August 7th)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
