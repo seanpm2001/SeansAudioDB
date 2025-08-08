@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="01 Circle of Life.flac" source="derivative">
+    <format>Flac</format>
+    <original>01 Circle of Life.wav</original>
+    <mtime>1694750508</mtime>
+    <size>24962410</size>
+    <md5>27c90cbf5529e30260a2c3c3af207e5b</md5>
+    <crc32>9e302820</crc32>
+    <sha1>c50b4a0502fde0b290583cba8d301498d904880c</sha1>
+    <length>239.07</length>
+  </file>
+  <file name="01 Circle of Life.mp3" source="derivative">
+    <bitrate>192</bitrate>
+    <length>03:59</length>
+    <format>VBR MP3</format>
+    <original>01 Circle of Life.wav</original>
+    <mtime>1694750385</mtime>
+    <size>5873112</size>
+    <md5>553b78ed2ab91c633bc979969c5d3283</md5>
+    <crc32>19fd25da</crc32>
+    <sha1>84fa76e92b916dd840daced98c184d6dbf9c7708</sha1>
+  </file>
+  <file name="01 Circle of Life.png" source="derivative">
+    <format>PNG</format>
+    <original>01 Circle of Life.wav</original>
+    <mtime>1694751079</mtime>
+    <size>28278</size>
+    <md5>2040ff5998d3a86221d20d6ae81e40f9</md5>
+    <crc32>161b1683</crc32>
+    <sha1>f6cba1a06f9f27b1e90730981f9939e3239b6b43</sha1>
+  </file>
+  <file name="01 Circle of Life.wav" source="original">
+    <mtime>1694749495</mtime>
+    <size>42171404</size>
+    <md5>cc47089f694578c028a0e69662d3510c</md5>
+    <crc32>a367afda</crc32>
+    <sha1>25eb01f15bd616f0041103a629fd085990f5b7d4</sha1>
+    <format>WAVE</format>
+    <length>239.07</length>
+    <track>01</track>
+  </file>
+  <file name="01 Circle of Life_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>01 Circle of Life.wav</original>
+    <mtime>1694751434</mtime>
+    <size>325985</size>
+    <md5>8f1490296addd525dcd9b96e573ebd15</md5>
+    <crc32>3ec944f9</crc32>
+    <sha1>f957c72ac2864a1a0ae4d16b6942bafa5a565bdf</sha1>
+  </file>
+  <file name="02 I Just Can't Wait to Be King.flac" source="derivative">
+    <format>Flac</format>
+    <original>02 I Just Can't Wait to Be King.wav</original>
+    <mtime>1694750638</mtime>
+    <size>18025067</size>
+    <md5>359c49fc088bae97dca8d4b458d7fd63</md5>
+    <crc32>9e79b21e</crc32>
+    <sha1>ede73efa7954eec55d07a44ab488adc43d686508</sha1>
+    <length>170.93</length>
+  </file>
+  <file name="02 I Just Can't Wait to Be King.mp3" source="derivative">
+    <bitrate>189</bitrate>
+    <length>02:51</length>
+    <format>VBR MP3</format>
+    <original>02 I Just Can't Wait to Be King.wav</original>
+    <mtime>1694750452</mtime>
+    <size>4157807</size>
+    <md5>4341c786ab361fbd9e5619d601ff2d10</md5>
+    <crc32>f9281cb4</crc32>
+    <sha1>85f352bc6a5194cc89e3892992a1dabce0a06391</sha1>
+  </file>
+  <file name="02 I Just Can't Wait to Be King.png" source="derivative">
+    <format>PNG</format>
+    <original>02 I Just Can't Wait to Be King.wav</original>
+    <mtime>1694750960</mtime>
+    <size>33668</size>
+    <md5>82305a3e207cc3fe787dad15940bcfed</md5>
+    <crc32>162f2f42</crc32>
+    <sha1>b63165ac441296ce656f46f19a5ba87b8a1238de</sha1>
+  </file>
+  <file name="02 I Just Can't Wait to Be King.wav" source="original">
+    <mtime>1694749535</mtime>
+    <size>30152684</size>
+    <md5>7a9feb069e0fb3b36ec10a7c803d21c7</md5>
+    <crc32>494d1175</crc32>
+    <sha1>fda38ee8cbd68fad628b6678e7a0db1036ab1801</sha1>
+    <format>WAVE</format>
+    <length>170.93</length>
+    <track>02</track>
+  </file>
+  <file name="02 I Just Can't Wait to Be King_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>02 I Just Can't Wait to Be King.wav</original>
+    <mtime>1694751157</mtime>
+    <size>320809</size>
+    <md5>be2b79f1c95fffe5ee68a1ce0939e22f</md5>
+    <crc32>c9e1928c</crc32>
+    <sha1>a0c56a9d2b05cf06672a6cd34ef6658b550059a7</sha1>
+  </file>
+  <file name="03 Be Prepared.flac" source="derivative">
+    <format>Flac</format>
+    <original>03 Be Prepared.wav</original>
+    <mtime>1694750613</mtime>
+    <size>21055299</size>
+    <md5>8759f5b9a934651db7d77e1809fbbebc</md5>
+    <crc32>36373c43</crc32>
+    <sha1>d64cd84878a839e055c93c9fe0547a49b10a45f5</sha1>
+    <length>220.27</length>
+  </file>
+  <file name="03 Be Prepared.mp3" source="derivative">
+    <bitrate>187</bitrate>
+    <length>03:40</length>
+    <format>VBR MP3</format>
+    <original>03 Be Prepared.wav</original>
+    <mtime>1694750038</mtime>
+    <size>5281053</size>
+    <md5>127170678d3196802fcdaba2aac326ee</md5>
+    <crc32>ca17c8f4</crc32>
+    <sha1>fc00fbd06d807049d0272d00e8de65ca4fe3e073</sha1>
+  </file>
+  <file name="03 Be Prepared.png" source="derivative">
+    <format>PNG</format>
+    <original>03 Be Prepared.wav</original>
+    <mtime>1694750993</mtime>
+    <size>37018</size>
+    <md5>8a741afdd118a7b69f6e84c85ef6a676</md5>
+    <crc32>a38c68a6</crc32>
+    <sha1>0a87d4d72e0c6c269928ca4382fa9be37c003c8b</sha1>
+  </file>
+  <file name="03 Be Prepared.wav" source="original">
+    <mtime>1694749567</mtime>
+    <size>38855084</size>
+    <md5>0b5cdef0369ee1f149d486f5168bd579</md5>
+    <crc32>d4c319b5</crc32>
+    <sha1>7248ac71ae6423832ec41ac8bee81817f10cab68</sha1>
+    <format>WAVE</format>
+    <length>220.27</length>
+    <track>03</track>
+  </file>
+  <file name="03 Be Prepared_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>03 Be Prepared.wav</original>
+    <mtime>1694751383</mtime>
+    <size>332206</size>
+    <md5>22d6dc0ee6d08f55fd6770a45ed74e92</md5>
+    <crc32>e64e82fa</crc32>
+    <sha1>6f072ee43a145de1fa8fba3c203124334ef91674</sha1>
+  </file>
+  <file name="04 Hakuna Matata.flac" source="derivative">
+    <format>Flac</format>
+    <original>04 Hakuna Matata.wav</original>
+    <mtime>1694750592</mtime>
+    <size>19274497</size>
+    <md5>f30d26575b6e397bd1d363df370d8ef7</md5>
+    <crc32>64f23e90</crc32>
+    <sha1>ab2df8cb6727dbd10e7c26067724598ef9ad54e1</sha1>
+    <length>213.73</length>
+  </file>
+  <file name="04 Hakuna Matata.mp3" source="derivative">
+    <bitrate>178</bitrate>
+    <length>03:34</length>
+    <format>VBR MP3</format>
+    <original>04 Hakuna Matata.wav</original>
+    <mtime>1694750421</mtime>
+    <size>4876987</size>
+    <md5>69ffdb1d0419252d57b95e538836c9c6</md5>
+    <crc32>30d8d541</crc32>
+    <sha1>d6f8543e5adc2ebf979f9d42ec7be8eb583d94ba</sha1>
+  </file>
+  <file name="04 Hakuna Matata.png" source="derivative">
+    <format>PNG</format>
+    <original>04 Hakuna Matata.wav</original>
+    <mtime>1694750786</mtime>
+    <size>32639</size>
+    <md5>519301fe0daafed67b1dbde9ef98ff2b</md5>
+    <crc32>6f4b5d41</crc32>
+    <sha1>b5532d693666be1c66a7f3cb1514079f1388a614</sha1>
+  </file>
+  <file name="04 Hakuna Matata.wav" source="original">
+    <mtime>1694749595</mtime>
+    <size>37702604</size>
+    <md5>39415f2ef9df4dd7954ce0b78dbc1170</md5>
+    <crc32>7a4902bf</crc32>
+    <sha1>5ae1c460916d35d1301fa0732177064ea6cd84a8</sha1>
+    <format>WAVE</format>
+    <length>213.73</length>
+    <track>04</track>
+  </file>
+  <file name="04 Hakuna Matata_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>04 Hakuna Matata.wav</original>
+    <mtime>1694751261</mtime>
+    <size>338065</size>
+    <md5>d324170eaff290a10ba9bd737d1097a3</md5>
+    <crc32>738dde81</crc32>
+    <sha1>42b34bc2a15194db0dca06c5071ec5abd909f4e4</sha1>
+  </file>
+  <file name="05 Can You Feel the Love Tonight.flac" source="derivative">
+    <format>Flac</format>
+    <original>05 Can You Feel the Love Tonight.wav</original>
+    <mtime>1694750568</mtime>
+    <size>15756343</size>
+    <md5>dcb561806a40cc7dda543f197e930261</md5>
+    <crc32>0f8c37b7</crc32>
+    <sha1>eed5b84fa47c5ee2052fae2d23dbabebe28ce2a1</sha1>
+    <length>177.56</length>
+  </file>
+  <file name="05 Can You Feel the Love Tonight.mp3" source="derivative">
+    <bitrate>173</bitrate>
+    <length>02:58</length>
+    <format>VBR MP3</format>
+    <original>05 Can You Feel the Love Tonight.wav</original>
+    <mtime>1694750349</mtime>
+    <size>3961062</size>
+    <md5>8b128f77a90f2f57ae4a3413e9c52d98</md5>
+    <crc32>d68f2c51</crc32>
+    <sha1>643326780875e96e0d670a2a57ac47ad07c52e81</sha1>
+  </file>
+  <file name="05 Can You Feel the Love Tonight.png" source="derivative">
+    <format>PNG</format>
+    <original>05 Can You Feel the Love Tonight.wav</original>
+    <mtime>1694750844</mtime>
+    <size>30553</size>
+    <md5>2519f53acd66ad828270d6ecb48cb1c9</md5>
+    <crc32>44a5ca66</crc32>
+    <sha1>bf882c61c9a2a5b66668a31dc5be3c2abc159120</sha1>
+  </file>
+  <file name="05 Can You Feel the Love Tonight.wav" source="original">
+    <mtime>1694749618</mtime>
+    <size>31321628</size>
+    <md5>50583aba710ef04d9004ed9c3d5f344e</md5>
+    <crc32>1403676f</crc32>
+    <sha1>2582fbf9b7f4df392379853c83f64955c34a9a90</sha1>
+    <format>WAVE</format>
+    <length>177.56</length>
+    <track>05</track>
+  </file>
+  <file name="05 Can You Feel the Love Tonight_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>05 Can You Feel the Love Tonight.wav</original>
+    <mtime>1694751239</mtime>
+    <size>337164</size>
+    <md5>0b1da4d6fd66f170eddbdbc57436e292</md5>
+    <crc32>4f93b3aa</crc32>
+    <sha1>148d16e7fd14bfdd7fe4f67bc0e439ea7cfd94ca</sha1>
+  </file>
+  <file name="06 This Land.flac" source="derivative">
+    <format>Flac</format>
+    <original>06 This Land.wav</original>
+    <mtime>1694750539</mtime>
+    <size>15212133</size>
+    <md5>de8139c8f58441be53f2d05bb72dae55</md5>
+    <crc32>be0d1559</crc32>
+    <sha1>4415866ce1ca67cdfc44caa6006d60520c2d3558</sha1>
+    <length>175.44</length>
+  </file>
+  <file name="06 This Land.mp3" source="derivative">
+    <bitrate>185</bitrate>
+    <length>02:55</length>
+    <format>VBR MP3</format>
+    <original>06 This Land.wav</original>
+    <mtime>1694750313</mtime>
+    <size>4179266</size>
+    <md5>b20493d96f0d537f6001fc089e7295a0</md5>
+    <crc32>8b9f1d9b</crc32>
+    <sha1>cca2efd45d8e15d28be1981038add721ba57bf70</sha1>
+  </file>
+  <file name="06 This Land.png" source="derivative">
+    <format>PNG</format>
+    <original>06 This Land.wav</original>
+    <mtime>1694750873</mtime>
+    <size>27052</size>
+    <md5>5c8a2c9f62259781da64037548d98601</md5>
+    <crc32>a1399a8a</crc32>
+    <sha1>bd18448dafdd3a44ff268aeae1215ce628357f83</sha1>
+  </file>
+  <file name="06 This Land.wav" source="original">
+    <mtime>1694749642</mtime>
+    <size>30947660</size>
+    <md5>4a64a135d571aa7775c02d1dc7614a86</md5>
+    <crc32>b4303fa6</crc32>
+    <sha1>3e61069704802b0dc19c4f38a85dbaad755a5238</sha1>
+    <format>WAVE</format>
+    <length>175.44</length>
+    <track>06</track>
+  </file>
+  <file name="06 This Land_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>06 This Land.wav</original>
+    <mtime>1694751172</mtime>
+    <size>310762</size>
+    <md5>02745bdff05dda9ecafec686b831525c</md5>
+    <crc32>572e1913</crc32>
+    <sha1>b9b0b02bf702adf19404f75bda9941ce0f02a4a6</sha1>
+  </file>
+  <file name="07 ...To Die For.flac" source="derivative">
+    <format>Flac</format>
+    <original>07 ...To Die For.wav</original>
+    <mtime>1694750483</mtime>
+    <size>22373789</size>
+    <md5>15932b1558e83d3e4d1a8aa4deefb2e7</md5>
+    <crc32>b17f12e7</crc32>
+    <sha1>596605dcc0dba39a8e4459cc6b4f8a4e86390f54</sha1>
+    <length>257.71</length>
+  </file>
+  <file name="07 ...To Die For.mp3" source="derivative">
+    <bitrate>183</bitrate>
+    <length>04:18</length>
+    <format>VBR MP3</format>
+    <original>07 ...To Die For.wav</original>
+    <mtime>1694750002</mtime>
+    <size>6024804</size>
+    <md5>c7961252f91f1ccb67ea74936f706627</md5>
+    <crc32>95661aaa</crc32>
+    <sha1>f31efc5602dadf14f49678d84e276fced412164c</sha1>
+  </file>
+  <file name="07 ...To Die For.png" source="derivative">
+    <format>PNG</format>
+    <original>07 ...To Die For.wav</original>
+    <mtime>1694751018</mtime>
+    <size>27254</size>
+    <md5>9d13de04e7c53860b54bf7151092b835</md5>
+    <crc32>cd81334e</crc32>
+    <sha1>7d6c2da8d0914645d670383f13b1054207d14dbc</sha1>
+  </file>
+  <file name="07 ...To Die For.wav" source="original">
+    <mtime>1694749675</mtime>
+    <size>45459500</size>
+    <md5>143a5274e436fa6468c76ef2cfcf5b82</md5>
+    <crc32>24a5e750</crc32>
+    <sha1>4f2c800d87c093ffab8b114c1f0573a053a7300a</sha1>
+    <format>WAVE</format>
+    <length>257.71</length>
+    <track>07</track>
+  </file>
+  <file name="07 ...To Die For_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>07 ...To Die For.wav</original>
+    <mtime>1694751135</mtime>
+    <size>319545</size>
+    <md5>1a42ed7db5d6f6b749f3ca7ea4c1d53d</md5>
+    <crc32>06f300ab</crc32>
+    <sha1>6bc604366af68654d9bdcf6de2fa2cab541e63f9</sha1>
+  </file>
+  <file name="08 Under the Stars.flac" source="derivative">
+    <format>Flac</format>
+    <original>08 Under the Stars.wav</original>
+    <mtime>1694750697</mtime>
+    <size>18847379</size>
+    <md5>7ab8516b339ac6b0e6c07979da686c34</md5>
+    <crc32>e1788b2f</crc32>
+    <sha1>590787ecabca3ed759a98921937e6edba06c2a09</sha1>
+    <length>225.2</length>
+  </file>
+  <file name="08 Under the Stars.mp3" source="derivative">
+    <bitrate>187</bitrate>
+    <length>03:45</length>
+    <format>VBR MP3</format>
+    <original>08 Under the Stars.wav</original>
+    <mtime>1694750276</mtime>
+    <size>5393753</size>
+    <md5>eeda00a4f2d598badaf84c314e9d952d</md5>
+    <crc32>0eff15bb</crc32>
+    <sha1>49881678a193365f4fc423bff07bbb60fdf88fea</sha1>
+  </file>
+  <file name="08 Under the Stars.png" source="derivative">
+    <format>PNG</format>
+    <original>08 Under the Stars.wav</original>
+    <mtime>1694751109</mtime>
+    <size>26334</size>
+    <md5>94bd12099532e176b3e59269dcea393b</md5>
+    <crc32>f05e3953</crc32>
+    <sha1>27f5a7ed015b266821b7caa4441125dbaa40aefe</sha1>
+  </file>
+  <file name="08 Under the Stars.wav" source="original">
+    <mtime>1694749710</mtime>
+    <size>39725324</size>
+    <md5>ac5ebd51a09b1df7d3f98e6dcf3d2cec</md5>
+    <crc32>3047bff6</crc32>
+    <sha1>7c378c1f01149ee5e9440fb8606fc4fceee8b48d</sha1>
+    <format>WAVE</format>
+    <length>225.2</length>
+    <track>08</track>
+  </file>
+  <file name="08 Under the Stars_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>08 Under the Stars.wav</original>
+    <mtime>1694751368</mtime>
+    <size>315735</size>
+    <md5>332b6e21fea1e6ba981217c3a963eb00</md5>
+    <crc32>330fd19f</crc32>
+    <sha1>b98e76d8ce013025b50f2b84ed31c3b591982c78</sha1>
+  </file>
+  <file name="09 King of Pride Rock.flac" source="derivative">
+    <format>Flac</format>
+    <original>09 King of Pride Rock.wav</original>
+    <mtime>1694750741</mtime>
+    <size>29465965</size>
+    <md5>539079682fefe21bfe53a396e8a72a51</md5>
+    <crc32>6b97bf8b</crc32>
+    <sha1>55b9c96545e0d1638ecf8955a80fb30c6fb6620d</sha1>
+    <length>359.09</length>
+  </file>
+  <file name="09 King of Pride Rock.mp3" source="derivative">
+    <bitrate>184</bitrate>
+    <length>05:59</length>
+    <format>VBR MP3</format>
+    <original>09 King of Pride Rock.wav</original>
+    <mtime>1694750245</mtime>
+    <size>8379573</size>
+    <md5>84289ec7744592978d623d5da5afe256</md5>
+    <crc32>6fe5f84c</crc32>
+    <sha1>846a21ee217f75717a64c9cc39136003c1c4098a</sha1>
+  </file>
+  <file name="09 King of Pride Rock.png" source="derivative">
+    <format>PNG</format>
+    <original>09 King of Pride Rock.wav</original>
+    <mtime>1694750904</mtime>
+    <size>23839</size>
+    <md5>dfc0f0aaca619aa0d4c907c3d510e1d4</md5>
+    <crc32>8c998721</crc32>
+    <sha1>26dcb66ead68fcadeca322e501050e14b3b89500</sha1>
+  </file>
+  <file name="09 King of Pride Rock.wav" source="original">
+    <mtime>1694749760</mtime>
+    <size>63344108</size>
+    <md5>9bc97b243bbdd32b9db1b5a6c6cce415</md5>
+    <crc32>5d37cdb8</crc32>
+    <sha1>66bbfb6ffe437b140c5dc111ed8b460cfa5c694a</sha1>
+    <format>WAVE</format>
+    <length>359.09</length>
+    <track>09</track>
+  </file>
+  <file name="09 King of Pride Rock_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>09 King of Pride Rock.wav</original>
+    <mtime>1694751223</mtime>
+    <size>319393</size>
+    <md5>0279f7bb8e5312b533267bcb6be595ae</md5>
+    <crc32>2370448a</crc32>
+    <sha1>a23133c68807f85095443232ae7490db35ded1c2</sha1>
+  </file>
+  <file name="10 Circle of Life.flac" source="derivative">
+    <format>Flac</format>
+    <original>10 Circle of Life.wav</original>
+    <mtime>1694750761</mtime>
+    <size>29490191</size>
+    <md5>ab14c6f810b02d62b4523b485019dcf2</md5>
+    <crc32>08017966</crc32>
+    <sha1>54d0fccc5c1ea687aff34b617e61327d5ec82841</sha1>
+    <length>291.67</length>
+  </file>
+  <file name="10 Circle of Life.mp3" source="derivative">
+    <bitrate>184</bitrate>
+    <length>04:52</length>
+    <format>VBR MP3</format>
+    <original>10 Circle of Life.wav</original>
+    <mtime>1694750206</mtime>
+    <size>6823153</size>
+    <md5>82116fc68347084747e218e49667c18d</md5>
+    <crc32>3b6a6fc6</crc32>
+    <sha1>e488f7f29543a1bb99a74d19a0f7865e713d1c40</sha1>
+  </file>
+  <file name="10 Circle of Life.png" source="derivative">
+    <format>PNG</format>
+    <original>10 Circle of Life.wav</original>
+    <mtime>1694750813</mtime>
+    <size>37632</size>
+    <md5>79421f75bf9542b93cc41de7e9e957c4</md5>
+    <crc32>a36d23e8</crc32>
+    <sha1>3d58754bb73ffececc39cffbe81064dd04dcc208</sha1>
+  </file>
+  <file name="10 Circle of Life.wav" source="original">
+    <mtime>1694749799</mtime>
+    <size>51450044</size>
+    <md5>a929e8e1d5dac3d6885d397c923b832d</md5>
+    <crc32>57138015</crc32>
+    <sha1>22c503efe137a5645c0469d5cc375505898c0e82</sha1>
+    <format>WAVE</format>
+    <length>291.67</length>
+    <track>10</track>
+  </file>
+  <file name="10 Circle of Life_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>10 Circle of Life.wav</original>
+    <mtime>1694751347</mtime>
+    <size>318716</size>
+    <md5>a80ddbc071c59dedc4ea1392857083db</md5>
+    <crc32>a3d86eaf</crc32>
+    <sha1>35a38a4fbf4c71e9d61fca3554373f029f41affd</sha1>
+  </file>
+  <file name="11 I Just Can't Wait to Be King.flac" source="derivative">
+    <format>Flac</format>
+    <original>11 I Just Can't Wait to Be King.wav</original>
+    <mtime>1694750719</mtime>
+    <size>23118198</size>
+    <md5>0d03c4daf0b59acb7fb4c786084ac5d9</md5>
+    <crc32>5e0a4047</crc32>
+    <sha1>dd24ffe41ee2891c805537751bf300fa1febe2a4</sha1>
+    <length>216.97</length>
+  </file>
+  <file name="11 I Just Can't Wait to Be King.mp3" source="derivative">
+    <bitrate>169</bitrate>
+    <length>03:37</length>
+    <format>VBR MP3</format>
+    <original>11 I Just Can't Wait to Be King.wav</original>
+    <mtime>1694750173</mtime>
+    <size>4700429</size>
+    <md5>25a9b112bca4490043d8e4a6cfaedf74</md5>
+    <crc32>73fd936c</crc32>
+    <sha1>1f9eacd15beee5ab4c8b135f8a4d0039d37124db</sha1>
+  </file>
+  <file name="11 I Just Can't Wait to Be King.png" source="derivative">
+    <format>PNG</format>
+    <original>11 I Just Can't Wait to Be King.wav</original>
+    <mtime>1694750932</mtime>
+    <size>41879</size>
+    <md5>d3c9f0a97473cb7b28692e54d45af1ab</md5>
+    <crc32>8457295f</crc32>
+    <sha1>246857579b7c5e27246e17a6d20edc9122c5e687</sha1>
+  </file>
+  <file name="11 I Just Can't Wait to Be King.wav" source="original">
+    <mtime>1694749828</mtime>
+    <size>38274140</size>
+    <md5>7f1f4a92f66b22e7473e610a0ab18a81</md5>
+    <crc32>c139fa0e</crc32>
+    <sha1>0e3ecb157295abd03485542ea1555417c2e947fe</sha1>
+    <format>WAVE</format>
+    <length>216.97</length>
+    <track>11</track>
+  </file>
+  <file name="11 I Just Can't Wait to Be King_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>11 I Just Can't Wait to Be King.wav</original>
+    <mtime>1694751199</mtime>
+    <size>298809</size>
+    <md5>2345c698d1f507e057026e61f20dfe34</md5>
+    <crc32>1e41b1ab</crc32>
+    <sha1>d4414958ae4404412913d714756f72fb3992d87e</sha1>
+  </file>
+  <file name="12 Can You Feel the Love Tonight.flac" source="derivative">
+    <format>Flac</format>
+    <original>12 Can You Feel the Love Tonight.wav</original>
+    <mtime>1694750676</mtime>
+    <size>23107740</size>
+    <md5>8edff839a1cd3cecb4a16fc4f1dc28c9</md5>
+    <crc32>6368f81c</crc32>
+    <sha1>17c1a3db9ab36a086f842395e3b5020211dbcc93</sha1>
+    <length>239.83</length>
+  </file>
+  <file name="12 Can You Feel the Love Tonight.mp3" source="derivative">
+    <bitrate>182</bitrate>
+    <length>04:00</length>
+    <format>VBR MP3</format>
+    <original>12 Can You Feel the Love Tonight.wav</original>
+    <mtime>1694750132</mtime>
+    <size>5570048</size>
+    <md5>6fbf99f2ac092c07cd937f81b48f9b6a</md5>
+    <crc32>3b920468</crc32>
+    <sha1>2faff892a2fae865faaf4638479bccb45a97023b</sha1>
+  </file>
+  <file name="12 Can You Feel the Love Tonight.png" source="derivative">
+    <format>PNG</format>
+    <original>12 Can You Feel the Love Tonight.wav</original>
+    <mtime>1694751050</mtime>
+    <size>37301</size>
+    <md5>709fa6080a167a8062db5b45ff451d5c</md5>
+    <crc32>ff91825e</crc32>
+    <sha1>3aa91b90a2599e00411403da733e2df861ece222</sha1>
+  </file>
+  <file name="12 Can You Feel the Love Tonight.wav" source="original">
+    <mtime>1694749862</mtime>
+    <size>42305468</size>
+    <md5>008af867d5cdd6a5d7c5416e3ac7aaa9</md5>
+    <crc32>7c52d0a3</crc32>
+    <sha1>1ca38a950a67038c93b9036fe35ad9c8194b3500</sha1>
+    <format>WAVE</format>
+    <length>239.83</length>
+    <track>12</track>
+  </file>
+  <file name="12 Can You Feel the Love Tonight_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>12 Can You Feel the Love Tonight.wav</original>
+    <mtime>1694751406</mtime>
+    <size>329074</size>
+    <md5>5f0c98c90ebe55b055a89b7fa6bb6de5</md5>
+    <crc32>a62aa507</crc32>
+    <sha1>60eb65fd705e9b42318455cc4a84dc207e7c620f</sha1>
+  </file>
+  <file name="R.jpg" source="original">
+    <mtime>1694749863</mtime>
+    <size>408347</size>
+    <md5>9923fc6d79366ef41ce1f0672bdf772d</md5>
+    <crc32>52ec9623</crc32>
+    <sha1>62b9e870d12df063cbe091b02dac5381c1fd41d4</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="R_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>R.jpg</original>
+    <mtime>1694750464</mtime>
+    <size>9715</size>
+    <md5>392e6bdd3b466658de2c5311d1f37935</md5>
+    <crc32>e5d39005</crc32>
+    <sha1>ea89e004e7dfc83851bce1df082e09509ca9685b</sha1>
+  </file>
+  <file name="TheLionKingOriginalMotionPictureSoundtrack_archive.torrent" source="metadata">
+    <btih>d9f58f47866b2108e9085abded1112e206275174</btih>
+    <mtime>1722826190</mtime>
+    <size>44633</size>
+    <md5>62ac805894c063e2a2fe5a17b9c3c044</md5>
+    <crc32>9b9ae023</crc32>
+    <sha1>899dc4a51029e0e1f9470a12b8e71b42379ba9c7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="TheLionKingOriginalMotionPictureSoundtrack_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>004ade673ac2cee78255d042c6012436</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="TheLionKingOriginalMotionPictureSoundtrack_meta.sqlite" source="original">
+    <mtime>1694749867</mtime>
+    <size>77824</size>
+    <md5>b7f14ae39619a511a176edcc3d300b7b</md5>
+    <crc32>00584303</crc32>
+    <sha1>7b5d815be2aea00ff281015bb04cf3814c276e89</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="TheLionKingOriginalMotionPictureSoundtrack_meta.xml" source="original">
+    <mtime>1722826185</mtime>
+    <size>2490</size>
+    <md5>1741c4b4d615d94b0ffb7749155dfe03</md5>
+    <crc32>ba1a11f5</crc32>
+    <sha1>a503cc1c15d611f778e6627327827698895f95a7</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1694749873</mtime>
+    <size>21680</size>
+    <md5>edd20a5b4d44ed2b511de5100baf5da6</md5>
+    <crc32>402d9227</crc32>
+    <sha1>a1e3a2e77fda369903d4314dd0c98a1935ae7bf0</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

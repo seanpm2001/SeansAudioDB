@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Image.jpg" source="original">
+    <mtime>1724940677</mtime>
+    <size>784573</size>
+    <md5>3c3b22dc910b3f9b3028224bb18efbf7</md5>
+    <crc32>2c655987</crc32>
+    <sha1>a39e7e315cc239cfab0684d91810ccb7b44df1ff</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Image_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Image.jpg</original>
+    <mtime>1724940889</mtime>
+    <size>11295</size>
+    <md5>ab0603bc38b1dd23227d29623a0340fe</md5>
+    <crc32>b7154695</crc32>
+    <sha1>2825795f66ad74871023485d98ec2c125304a37b</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/01 Hawaiian Roller Coaster Ride.flac" source="derivative">
+    <format>Flac</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/01 Hawaiian Roller Coaster Ride.wav</original>
+    <mtime>1723682646</mtime>
+    <size>25732522</size>
+    <md5>b00bccf379bda6eb594399df914db16f</md5>
+    <crc32>e91f9426</crc32>
+    <sha1>69bedc2125153c35ab2eda13fccc323da1746e99</sha1>
+    <length>208.23</length>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/01 Hawaiian Roller Coaster Ride.mp3" source="derivative">
+    <creator>Mark Keali'i Ho'omalu &amp; Kamehameha Schools Children's Chorus</creator>
+    <title>Hawaiian Roller Coaster Ride</title>
+    <genre>Soundtrack</genre>
+    <bitrate>212</bitrate>
+    <length>03:28</length>
+    <format>VBR MP3</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/01 Hawaiian Roller Coaster Ride.wav</original>
+    <mtime>1723680913</mtime>
+    <size>5609353</size>
+    <md5>3caca6ccf778cace4149a4d45c2b8654</md5>
+    <crc32>c4fb46b4</crc32>
+    <sha1>891d635d6df9567c66401bbf0fedbd590e2f4ef1</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/01 Hawaiian Roller Coaster Ride.png" source="derivative">
+    <format>PNG</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/01 Hawaiian Roller Coaster Ride.wav</original>
+    <mtime>1723683755</mtime>
+    <size>41627</size>
+    <md5>7f4f52d031d9d4b3514606ef879fa87b</md5>
+    <crc32>4cfedfd9</crc32>
+    <sha1>a6019a74de98bd678394a890d7d7f5aabb399989</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/01 Hawaiian Roller Coaster Ride.wav" source="original">
+    <mtime>1723675088</mtime>
+    <size>36731522</size>
+    <md5>20e34747404a65dfa303ef56563e2884</md5>
+    <crc32>e6aac171</crc32>
+    <sha1>1653e9a71acc50a4e550c98423267d998095d23c</sha1>
+    <format>WAVE</format>
+    <length>208.23</length>
+    <track>01</track>
+    <title>Hawaiian Roller Coaster Ride</title>
+    <artist>Mark Keali'i Ho'omalu &amp; Kamehameha Schools Children's Chorus</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/01 Hawaiian Roller Coaster Ride_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/01 Hawaiian Roller Coaster Ride.wav</original>
+    <mtime>1723685085</mtime>
+    <size>323423</size>
+    <md5>06953a33de7bba4cbabb8c692a1b22e3</md5>
+    <crc32>c399c104</crc32>
+    <sha1>52cfb59aebcc1879b21a33ee17145047ea2953f9</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/02 Stuck On You.flac" source="derivative">
+    <format>Flac</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/02 Stuck On You.wav</original>
+    <mtime>1723682547</mtime>
+    <size>15313967</size>
+    <md5>4fc111c4ec695c37d23b4c62f1473c9f</md5>
+    <crc32>8b17b8f9</crc32>
+    <sha1>e06417028f0ae53e943bfe22f04a32d5a560ae54</sha1>
+    <length>144.59</length>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/02 Stuck On You.mp3" source="derivative">
+    <creator>Elvis Presley</creator>
+    <title>Stuck On You</title>
+    <genre>Soundtrack</genre>
+    <bitrate>191</bitrate>
+    <length>02:25</length>
+    <format>VBR MP3</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/02 Stuck On You.wav</original>
+    <mtime>1723678358</mtime>
+    <size>3549290</size>
+    <md5>d9ef3af4f78c1276c84f3455dda0134c</md5>
+    <crc32>067dbdb5</crc32>
+    <sha1>7f45ef085235e9dc4e594ee23a3528833a118715</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/02 Stuck On You.png" source="derivative">
+    <format>PNG</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/02 Stuck On You.wav</original>
+    <mtime>1723684208</mtime>
+    <size>43347</size>
+    <md5>18c7cfca4f87db0505a2bc5cc06508a7</md5>
+    <crc32>82fc5beb</crc32>
+    <sha1>2a52f01640719a186b38501a31023acddcbc67ac</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/02 Stuck On You.wav" source="original">
+    <mtime>1723675240</mtime>
+    <size>25505362</size>
+    <md5>ade2250c3164a172a84779db74ae5d8d</md5>
+    <crc32>643f6e2d</crc32>
+    <sha1>60bd58171b7dc1c4f931715169a9fac5d15f72dd</sha1>
+    <format>WAVE</format>
+    <length>144.59</length>
+    <track>02</track>
+    <title>Stuck On You</title>
+    <artist>Elvis Presley</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/02 Stuck On You_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/02 Stuck On You.wav</original>
+    <mtime>1723686060</mtime>
+    <size>336788</size>
+    <md5>f3186bf586e6ba28e9d440c4d95a59da</md5>
+    <crc32>ba9056c7</crc32>
+    <sha1>5c660e9b676815bfc7b570bac33d86d54dd57074</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/03 Burning Love.flac" source="derivative">
+    <format>Flac</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/03 Burning Love.wav</original>
+    <mtime>1723682448</mtime>
+    <size>23327961</size>
+    <md5>64b3f99a278e611d2fac142874b6a640</md5>
+    <crc32>5bf37dd4</crc32>
+    <sha1>1be22401a64f927c67afbac746d373c098bf12ee</sha1>
+    <length>189.33</length>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/03 Burning Love.mp3" source="derivative">
+    <creator>Wynonna</creator>
+    <title>Burning Love</title>
+    <genre>Soundtrack</genre>
+    <bitrate>188</bitrate>
+    <length>03:09</length>
+    <format>VBR MP3</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/03 Burning Love.wav</original>
+    <mtime>1723679850</mtime>
+    <size>4552021</size>
+    <md5>1c0e4a06ac126a64d9dbd94c3f7274a7</md5>
+    <crc32>2609478b</crc32>
+    <sha1>4b4c7c45cdb6570e9ea648845c1b123b65ef43a1</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/03 Burning Love.png" source="derivative">
+    <format>PNG</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/03 Burning Love.wav</original>
+    <mtime>1723684377</mtime>
+    <size>42792</size>
+    <md5>6cf38f3dce41acae141f9da336c66082</md5>
+    <crc32>0b20c727</crc32>
+    <sha1>3fd840ce8d61eaadb223d7f6b7f7b727da629651</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/03 Burning Love.wav" source="original">
+    <mtime>1723675381</mtime>
+    <size>33398668</size>
+    <md5>624c68d01e737101d606f90f0ca89758</md5>
+    <crc32>c1ff9924</crc32>
+    <sha1>f75ec8ff67e32c8723f235501d9eb3a2d712d21e</sha1>
+    <format>WAVE</format>
+    <length>189.33</length>
+    <track>03</track>
+    <title>Burning Love</title>
+    <artist>Wynonna</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/03 Burning Love_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/03 Burning Love.wav</original>
+    <mtime>1723685993</mtime>
+    <size>318305</size>
+    <md5>d58df912c8d418094a629ccc3a2a874f</md5>
+    <crc32>19688c68</crc32>
+    <sha1>a4b4861c642765ce4e7e1dfd8b2a16a9a7b9fbbb</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/04 Suspicious Minds.flac" source="derivative">
+    <format>Flac</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/04 Suspicious Minds.wav</original>
+    <mtime>1723682305</mtime>
+    <size>20686221</size>
+    <md5>6d137761fbe25593990e441808a20c12</md5>
+    <crc32>dd38d258</crc32>
+    <sha1>7aeb0019c47add241c96d746aab86c78b1cbc48d</sha1>
+    <length>202.97</length>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/04 Suspicious Minds.mp3" source="derivative">
+    <creator>Elvis Presley</creator>
+    <title>Suspicious Minds</title>
+    <genre>Soundtrack</genre>
+    <bitrate>169</bitrate>
+    <length>03:23</length>
+    <format>VBR MP3</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/04 Suspicious Minds.wav</original>
+    <mtime>1723678771</mtime>
+    <size>4391072</size>
+    <md5>92a5ab39c4f8ffd06b64bde0e033688e</md5>
+    <crc32>577bbfb4</crc32>
+    <sha1>80186723c532013865a06a89f2e909a34bbb9455</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/04 Suspicious Minds.png" source="derivative">
+    <format>PNG</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/04 Suspicious Minds.wav</original>
+    <mtime>1723683874</mtime>
+    <size>40646</size>
+    <md5>623c286c0f4cdb28da545c2cc941efb6</md5>
+    <crc32>9429859f</crc32>
+    <sha1>8afff10ef1c1508e25098d63f8afc7a8095b650b</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/04 Suspicious Minds.wav" source="original">
+    <mtime>1723675551</mtime>
+    <size>35804774</size>
+    <md5>af9fb03175abac369e330ff4369edf67</md5>
+    <crc32>285ddd97</crc32>
+    <sha1>af8c38a1fade1eb4192e0c256609d3ce4df956bf</sha1>
+    <format>WAVE</format>
+    <length>202.97</length>
+    <track>04</track>
+    <title>Suspicious Minds</title>
+    <artist>Elvis Presley</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/04 Suspicious Minds_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/04 Suspicious Minds.wav</original>
+    <mtime>1723685516</mtime>
+    <size>320937</size>
+    <md5>42ba696d74b742f46df3a29e4c4e5ed5</md5>
+    <crc32>3765f4a8</crc32>
+    <sha1>964152c20abbd5b668f300bb068d51d6b4f2f9cd</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/05 Heartbreak Hotel.flac" source="derivative">
+    <format>Flac</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/05 Heartbreak Hotel.wav</original>
+    <mtime>1723682135</mtime>
+    <size>10037167</size>
+    <md5>be509ce4a4c3a8841b0052796b9b7a9e</md5>
+    <crc32>72e28ae1</crc32>
+    <sha1>3f1777e1f255b251ea98f7f856d51f6a8fe0df27</sha1>
+    <length>133.53</length>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/05 Heartbreak Hotel.mp3" source="derivative">
+    <creator>Elvis Presley</creator>
+    <title>Heartbreak Hotel</title>
+    <genre>Soundtrack</genre>
+    <bitrate>148</bitrate>
+    <length>02:14</length>
+    <format>VBR MP3</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/05 Heartbreak Hotel.wav</original>
+    <mtime>1723680278</mtime>
+    <size>2558950</size>
+    <md5>3f0757e5e93cd30aae3a1f753f3bd2e6</md5>
+    <crc32>f8330e58</crc32>
+    <sha1>292ff21b92c29cced336f9196371eea9e7c3ec9b</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/05 Heartbreak Hotel.png" source="derivative">
+    <format>PNG</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/05 Heartbreak Hotel.wav</original>
+    <mtime>1723683810</mtime>
+    <size>38970</size>
+    <md5>c6b0d599c276384206ad9ad18c0968ea</md5>
+    <crc32>32c239bc</crc32>
+    <sha1>8f2fc07643ba580c6c752933f62e2636bba88114</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/05 Heartbreak Hotel.wav" source="original">
+    <mtime>1723675648</mtime>
+    <size>23555558</size>
+    <md5>b7abe553245855146c63396afc980ae6</md5>
+    <crc32>e6391d0e</crc32>
+    <sha1>0c755c81c156f62665bfb74dd418258db1d89f76</sha1>
+    <format>WAVE</format>
+    <length>133.53</length>
+    <track>05</track>
+    <title>Heartbreak Hotel</title>
+    <artist>Elvis Presley</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/05 Heartbreak Hotel_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/05 Heartbreak Hotel.wav</original>
+    <mtime>1723685265</mtime>
+    <size>311775</size>
+    <md5>67c12535f732690b3640dccc5e5ef7b2</md5>
+    <crc32>c5fccb05</crc32>
+    <sha1>d0a902a95a292b261671ef18beb99221a7e68178</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/06 (You're The) Devil In Disguise.flac" source="derivative">
+    <format>Flac</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/06 (You're The) Devil In Disguise.wav</original>
+    <mtime>1723681959</mtime>
+    <size>15367293</size>
+    <md5>d78e5b44a74248f50ebd9cd01a1fbc18</md5>
+    <crc32>26c7909a</crc32>
+    <sha1>9fe5d64b0f58798fc5340b9838371744a7baaea6</sha1>
+    <length>150.52</length>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/06 (You're The) Devil In Disguise.mp3" source="derivative">
+    <creator>Elvis Presley</creator>
+    <title>(You're The) Devil In Disguise</title>
+    <genre>Soundtrack</genre>
+    <bitrate>185</bitrate>
+    <length>02:31</length>
+    <format>VBR MP3</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/06 (You're The) Devil In Disguise.wav</original>
+    <mtime>1723680728</mtime>
+    <size>3568955</size>
+    <md5>33dcf8462ecef1c2e23908c4a554cd4b</md5>
+    <crc32>ffbebb1e</crc32>
+    <sha1>6e2c0677ad94b672837fa484a49a3d25497d6089</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/06 (You're The) Devil In Disguise.png" source="derivative">
+    <format>PNG</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/06 (You're The) Devil In Disguise.wav</original>
+    <mtime>1723684291</mtime>
+    <size>42508</size>
+    <md5>1c639a911f9a915c6a4eff44da7bd07f</md5>
+    <crc32>9cb8917a</crc32>
+    <sha1>f96c6fdaeb4eae3942bc803115f0b85f54e4786e</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/06 (You're The) Devil In Disguise.wav" source="original">
+    <mtime>1723675755</mtime>
+    <size>26552020</size>
+    <md5>603bc14a76ac8098cccf6aa03922891f</md5>
+    <crc32>17df9e17</crc32>
+    <sha1>891d6ca340403c89240b28b15f04f5fefa21798f</sha1>
+    <format>WAVE</format>
+    <length>150.52</length>
+    <track>06</track>
+    <title>(You're The) Devil In Disguise</title>
+    <artist>Elvis Presley</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/06 (You're The) Devil In Disguise_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/06 (You're The) Devil In Disguise.wav</original>
+    <mtime>1723685169</mtime>
+    <size>320484</size>
+    <md5>fad5acaca78689b112a456bfec048fbf</md5>
+    <crc32>d9c8e80d</crc32>
+    <sha1>773c4321948abdfea36bd775e80a67a5efcf4b9e</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/07 He Mele No Lilo.flac" source="derivative">
+    <format>Flac</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/07 He Mele No Lilo.wav</original>
+    <mtime>1723681819</mtime>
+    <size>15527038</size>
+    <md5>8ae5035a0c1369dbd52c22678bc41a16</md5>
+    <crc32>3fcee396</crc32>
+    <sha1>89462a25d5716de9925e0e5cd081e25cabbcc7c4</sha1>
+    <length>148.13</length>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/07 He Mele No Lilo.mp3" source="derivative">
+    <creator>Mark Keali'i Ho'omalu &amp; Kamehameha Schools Children's Chorus</creator>
+    <title>He Mele No Lilo</title>
+    <genre>Soundtrack</genre>
+    <bitrate>194</bitrate>
+    <length>02:28</length>
+    <format>VBR MP3</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/07 He Mele No Lilo.wav</original>
+    <mtime>1723681080</mtime>
+    <size>3695832</size>
+    <md5>d7b7c2289b7fddc16266ca98837ddabc</md5>
+    <crc32>60ee0501</crc32>
+    <sha1>009e317d8336f14e11e2fb97c73a276871ca41a1</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/07 He Mele No Lilo.png" source="derivative">
+    <format>PNG</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/07 He Mele No Lilo.wav</original>
+    <mtime>1723685038</mtime>
+    <size>36001</size>
+    <md5>b401a2e4de4b101d45b73055650cbc2a</md5>
+    <crc32>25a846e2</crc32>
+    <sha1>79a78d310e364ed77e1c97a9604d046851423311</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/07 He Mele No Lilo.wav" source="original">
+    <mtime>1723675859</mtime>
+    <size>26131044</size>
+    <md5>2e05bcf707a0317730720a2401b36c2e</md5>
+    <crc32>3c0815d2</crc32>
+    <sha1>0de0952f52606db3d5f8fa692f91e299056393fb</sha1>
+    <format>WAVE</format>
+    <length>148.13</length>
+    <track>07</track>
+    <title>He Mele No Lilo</title>
+    <artist>Mark Keali'i Ho'omalu &amp; Kamehameha Schools Children's Chorus</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/07 He Mele No Lilo_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/07 He Mele No Lilo.wav</original>
+    <mtime>1723685669</mtime>
+    <size>342392</size>
+    <md5>e010978ae0ecfa17d45140adca7c9005</md5>
+    <crc32>ba299803</crc32>
+    <sha1>56b39f457e623f8da4d77c95cbd455bfef52e693</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/08 Hound Dog.flac" source="derivative">
+    <format>Flac</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/08 Hound Dog.wav</original>
+    <mtime>1723683209</mtime>
+    <size>12745032</size>
+    <md5>7e854708291683f8bf83d6e3d55e2abb</md5>
+    <crc32>6ad12430</crc32>
+    <sha1>7d5c66c3742b1e784e471e770315c7758c735ab9</sha1>
+    <length>147.73</length>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/08 Hound Dog.mp3" source="derivative">
+    <creator>Elvis Presley</creator>
+    <title>Hound Dog</title>
+    <genre>Soundtrack</genre>
+    <bitrate>152</bitrate>
+    <length>02:28</length>
+    <format>VBR MP3</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/08 Hound Dog.wav</original>
+    <mtime>1723679409</mtime>
+    <size>2910020</size>
+    <md5>1344b91b7795939f4c042cb8179bed0c</md5>
+    <crc32>ad443bd2</crc32>
+    <sha1>e39776fbfc83119bfda829cc0dbce1727615d4da</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/08 Hound Dog.png" source="derivative">
+    <format>PNG</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/08 Hound Dog.wav</original>
+    <mtime>1723684254</mtime>
+    <size>38031</size>
+    <md5>e531dc31ac94763289ca8dac3e909b3a</md5>
+    <crc32>ad7f4051</crc32>
+    <sha1>9e4814e8dda104d3cf1fa85eacd83c64697a5800</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/08 Hound Dog.wav" source="original">
+    <mtime>1723675944</mtime>
+    <size>26060430</size>
+    <md5>1659b6c63f3a0e57f8252e170ca982e0</md5>
+    <crc32>25c65356</crc32>
+    <sha1>80dc137377a4f8fb40fe7701a9cc31e737224175</sha1>
+    <format>WAVE</format>
+    <length>147.73</length>
+    <track>08</track>
+    <title>Hound Dog</title>
+    <artist>Elvis Presley</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/08 Hound Dog_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/08 Hound Dog.wav</original>
+    <mtime>1723685924</mtime>
+    <size>307235</size>
+    <md5>e42d48ad0d39222dbb977eb4f1ab5292</md5>
+    <crc32>bbe08e0f</crc32>
+    <sha1>771b56f6758563291505efefe64330d613326be5</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/09 Can't Help Falling In Love.flac" source="derivative">
+    <format>Flac</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/09 Can't Help Falling In Love.wav</original>
+    <mtime>1723683506</mtime>
+    <size>23903971</size>
+    <md5>d2b151424ead24986c1ac91057eb84a7</md5>
+    <crc32>dfb32cf5</crc32>
+    <sha1>57bedc518d62d93e3534cb2f88963338b8db633d</sha1>
+    <length>187.51</length>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/09 Can't Help Falling In Love.mp3" source="derivative">
+    <creator>A*Teens</creator>
+    <title>Can't Help Falling In Love</title>
+    <genre>Soundtrack</genre>
+    <bitrate>192</bitrate>
+    <length>03:08</length>
+    <format>VBR MP3</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/09 Can't Help Falling In Love.wav</original>
+    <mtime>1723680568</mtime>
+    <size>4595777</size>
+    <md5>94543a347fa0a7288306a338377b2feb</md5>
+    <crc32>7e721a06</crc32>
+    <sha1>9497ba11d303f102d2f5772d3363113632b69520</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/09 Can't Help Falling In Love.png" source="derivative">
+    <format>PNG</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/09 Can't Help Falling In Love.wav</original>
+    <mtime>1723684094</mtime>
+    <size>44403</size>
+    <md5>f7950f6f8ad423c72e0b18af9da8b7fc</md5>
+    <crc32>9469ef00</crc32>
+    <sha1>c93f639dfe87da7dd306563f0b6813ddd3380f72</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/09 Can't Help Falling In Love.wav" source="original">
+    <mtime>1723676058</mtime>
+    <size>33076458</size>
+    <md5>03102adfec54446a00a717bb57e8771f</md5>
+    <crc32>bdfc3987</crc32>
+    <sha1>ac784763b974f55c0e6346bf9928fb92b29b452c</sha1>
+    <format>WAVE</format>
+    <length>187.51</length>
+    <track>09</track>
+    <title>Can't Help Falling In Love</title>
+    <artist>A*Teens</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/09 Can't Help Falling In Love_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/09 Can't Help Falling In Love.wav</original>
+    <mtime>1723685620</mtime>
+    <size>309172</size>
+    <md5>f00f524c64399ba9b45c5914bc429359</md5>
+    <crc32>d55d1f92</crc32>
+    <sha1>20b100cf4bb2a0ae67024ae08e7cce1328552601</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/10 Stitch To The Rescue.flac" source="derivative">
+    <format>Flac</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/10 Stitch To The Rescue.wav</original>
+    <mtime>1723681221</mtime>
+    <size>29896324</size>
+    <md5>87f6d27d3633f62428c62c5e5d447be9</md5>
+    <crc32>f3535983</crc32>
+    <sha1>a1f502166577c68d6d7c27503b392eca0066c318</sha1>
+    <length>354.83</length>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/10 Stitch To The Rescue.mp3" source="derivative">
+    <creator>Alan Silvestri</creator>
+    <title>Stitch To The Rescue</title>
+    <genre>Soundtrack</genre>
+    <bitrate>181</bitrate>
+    <length>05:55</length>
+    <format>VBR MP3</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/10 Stitch To The Rescue.wav</original>
+    <mtime>1723678139</mtime>
+    <size>8114315</size>
+    <md5>1852810b0f32c25435663860d94028cc</md5>
+    <crc32>143f081a</crc32>
+    <sha1>49a8e5712f99bbd18a7d12e424d7aaf4dd48ba90</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/10 Stitch To The Rescue.png" source="derivative">
+    <format>PNG</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/10 Stitch To The Rescue.wav</original>
+    <mtime>1723684333</mtime>
+    <size>26549</size>
+    <md5>e0508382d7ac044aa646d8488963b882</md5>
+    <crc32>5a869f80</crc32>
+    <sha1>e2954ce30e73230e802c10ea54c707b7a8ef2de6</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/10 Stitch To The Rescue.wav" source="original">
+    <mtime>1723676295</mtime>
+    <size>62591710</size>
+    <md5>17e53f1c9db3d5243f16cdcf0b5ec451</md5>
+    <crc32>f3264335</crc32>
+    <sha1>4e477c364bc3f659f7b89781afa82740485f9943</sha1>
+    <format>WAVE</format>
+    <length>354.83</length>
+    <track>10</track>
+    <title>Stitch To The Rescue</title>
+    <artist>Alan Silvestri</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/10 Stitch To The Rescue_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/10 Stitch To The Rescue.wav</original>
+    <mtime>1723685119</mtime>
+    <size>322470</size>
+    <md5>d547bf973b36f11c7e01d724685058cd</md5>
+    <crc32>355870d6</crc32>
+    <sha1>43ce490ce2e8013d2ed1bad74679a4ccab162456</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/11 You Can Never Belong.flac" source="derivative">
+    <format>Flac</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/11 You Can Never Belong.wav</original>
+    <mtime>1723683419</mtime>
+    <size>18567454</size>
+    <md5>e4256a817dd393a68a8adef62ae66097</md5>
+    <crc32>5f0cdb9c</crc32>
+    <sha1>414b29424de9b4db0e5a4e3bd78d7d0154122429</sha1>
+    <length>234.27</length>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/11 You Can Never Belong.mp3" source="derivative">
+    <creator>Alan Silvestri</creator>
+    <title>You Can Never Belong</title>
+    <genre>Soundtrack</genre>
+    <bitrate>182</bitrate>
+    <length>03:54</length>
+    <format>VBR MP3</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/11 You Can Never Belong.wav</original>
+    <mtime>1723677878</mtime>
+    <size>5421735</size>
+    <md5>bbd46b0115514d364de58f33d59c3ff6</md5>
+    <crc32>f67acd1f</crc32>
+    <sha1>bb6a6f7d05a57d0451a27c579aac4a02dc517241</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/11 You Can Never Belong.png" source="derivative">
+    <format>PNG</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/11 You Can Never Belong.wav</original>
+    <mtime>1723684879</mtime>
+    <size>24154</size>
+    <md5>c57051b77ef4993793eb5441d0f22546</md5>
+    <crc32>23f3e68d</crc32>
+    <sha1>f205a30a101a0064d16f9b60a3da102c49c1cb22</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/11 You Can Never Belong.wav" source="original">
+    <mtime>1723676441</mtime>
+    <size>41324926</size>
+    <md5>23709b5fc9c2d07c203627b9647f91d0</md5>
+    <crc32>091699bf</crc32>
+    <sha1>4f77b6947b7be74beab4e3a5d3739c15dd6e6b16</sha1>
+    <format>WAVE</format>
+    <length>234.27</length>
+    <track>11</track>
+    <title>You Can Never Belong</title>
+    <artist>Alan Silvestri</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/11 You Can Never Belong_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/11 You Can Never Belong.wav</original>
+    <mtime>1723686168</mtime>
+    <size>301869</size>
+    <md5>4d59d81de98bb5dc9b7010fd45bba978</md5>
+    <crc32>8670509f</crc32>
+    <sha1>995d27655f846d1e754b5bfb2469e57d3ef08b93</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/12 I'm Lost.flac" source="derivative">
+    <format>Flac</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/12 I'm Lost.wav</original>
+    <mtime>1723683584</mtime>
+    <size>23704338</size>
+    <md5>3c733e773587e333bcd677d5c3469718</md5>
+    <crc32>c94e7d93</crc32>
+    <sha1>dacc9773011d467c7e07d0c22eaa419a38af9db9</sha1>
+    <length>279.84</length>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/12 I'm Lost.mp3" source="derivative">
+    <creator>Alan Silvestri</creator>
+    <title>I'm Lost</title>
+    <genre>Soundtrack</genre>
+    <bitrate>182</bitrate>
+    <length>04:40</length>
+    <format>VBR MP3</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/12 I'm Lost.wav</original>
+    <mtime>1723678554</mtime>
+    <size>6467563</size>
+    <md5>0b5ea0920e6b3d09f82c86108def4d75</md5>
+    <crc32>adfd7a24</crc32>
+    <sha1>f90b9e529579fd320ee69621c13c623cb68dabcc</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/12 I'm Lost.png" source="derivative">
+    <format>PNG</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/12 I'm Lost.wav</original>
+    <mtime>1723683675</mtime>
+    <size>24916</size>
+    <md5>7a561b9d8bdda77f519b687554846b6d</md5>
+    <crc32>c986b2f7</crc32>
+    <sha1>b8949f4b6815c318cbb45db5597b0994dfdc280f</sha1>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/12 I'm Lost.wav" source="original">
+    <mtime>1723676604</mtime>
+    <size>49364050</size>
+    <md5>2e985d1d8af4081e7cc27a57dd36fb03</md5>
+    <crc32>ab7ad955</crc32>
+    <sha1>15d9f2532330a46081ca952fa30da5be7d806b1f</sha1>
+    <format>WAVE</format>
+    <length>279.84</length>
+    <track>12</track>
+    <title>I'm Lost</title>
+    <artist>Alan Silvestri</artist>
+    <genre>Soundtrack</genre>
+  </file>
+  <file name="Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/12 I'm Lost_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Various Artists/Lilo &amp; Stitch (Original Motion Picture Soundtrack)/12 I'm Lost.wav</original>
+    <mtime>1723685222</mtime>
+    <size>325240</size>
+    <md5>608897e4f22757f711615cd0dcf34852</md5>
+    <crc32>4dfb4b4e</crc32>
+    <sha1>0ee7e4deaf07ca8ec2f49dc3fc8c8b005038cd7f</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1724940695</mtime>
+    <size>16347</size>
+    <md5>963ef8df46285e8ecab3db811b17ea19</md5>
+    <crc32>205198d0</crc32>
+    <sha1>08021caed51a109a16f568ac2c8fdeba8775eea0</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="disneys-lilo-and-stich-ost_archive.torrent" source="metadata">
+    <btih>2a0044bf5a900d0c50fc5727c7aaa5f34827cb23</btih>
+    <mtime>1744491710</mtime>
+    <size>42743</size>
+    <md5>0b6180900c6dda2829ddd53fc112a741</md5>
+    <crc32>80c30fd6</crc32>
+    <sha1>d8bc3f2ea79f1bb0dd3d7d1f010975304e60f7cc</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="disneys-lilo-and-stich-ost_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>bab0f945a4368f37462c6efa33a95765</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="disneys-lilo-and-stich-ost_meta.sqlite" source="original">
+    <mtime>1724940692</mtime>
+    <size>73728</size>
+    <md5>cfe0369e2ac2007b8e4f112a5179ac47</md5>
+    <crc32>0e7207b3</crc32>
+    <sha1>0d93d8f0ab2a13d4d058933a34b09c56a97c124a</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="disneys-lilo-and-stich-ost_meta.xml" source="original">
+    <mtime>1744491668</mtime>
+    <size>1249</size>
+    <md5>9dec65aaa408b12fcab741d280f2abbe</md5>
+    <crc32>a2714948</crc32>
+    <sha1>88a386677d6c8b4b11b41f4e74473d536d8afcee</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

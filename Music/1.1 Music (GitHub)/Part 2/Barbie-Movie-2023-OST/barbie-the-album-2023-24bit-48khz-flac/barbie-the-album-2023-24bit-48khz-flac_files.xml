@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="01. Pink.flac" source="original">
+    <mtime>1697659748</mtime>
+    <size>31275821</size>
+    <md5>e2372f6633bb965912efae7149d79fbc</md5>
+    <crc32>5f8ace6d</crc32>
+    <sha1>af98a76c882e013463170c37696c16bd426bb1f4</sha1>
+    <format>24bit Flac</format>
+    <length>143.83</length>
+    <viruscheck>1697660689</viruscheck>
+    <title>Pink</title>
+    <creator>Lizzo</creator>
+    <album>Barbie The Album</album>
+    <track>1</track>
+    <artist>Lizzo</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="01. Pink.mp3" source="derivative">
+    <creator>Lizzo</creator>
+    <title>Pink</title>
+    <track>1</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>192</bitrate>
+    <length>02:24</length>
+    <format>VBR MP3</format>
+    <original>01. Pink.flac</original>
+    <mtime>1697660871</mtime>
+    <size>3456126</size>
+    <md5>92b1aaefa29e0545e7977bbf0870579d</md5>
+    <crc32>cea30564</crc32>
+    <sha1>79f08654cb7a4d9c07c23f2a40e4ba747e801696</sha1>
+  </file>
+  <file name="01. Pink.png" source="derivative">
+    <format>PNG</format>
+    <original>01. Pink.flac</original>
+    <mtime>1697670176</mtime>
+    <size>39658</size>
+    <md5>1aee49a5680b29b73f44264c3c4a40d1</md5>
+    <crc32>19406372</crc32>
+    <sha1>c19b6aa5921d8dc0155f6b7cfd0a04b0e0b09ad1</sha1>
+  </file>
+  <file name="01. Pink_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>01. Pink.flac</original>
+    <mtime>1697676042</mtime>
+    <size>323850</size>
+    <md5>4d21da8d80093098d206ddf2c0a5f897</md5>
+    <crc32>fd155f4a</crc32>
+    <sha1>78f03cae80fd73c71ff59bb2c338f8df3d77da7c</sha1>
+  </file>
+  <file name="02. Dance The Night.flac" source="original">
+    <mtime>1697659798</mtime>
+    <size>41868759</size>
+    <md5>c4eec32c83e22e13492b39dc58487038</md5>
+    <crc32>46d2ccd0</crc32>
+    <sha1>fcdd16d9cc3d65951b132251dbf4d4b53864b9be</sha1>
+    <format>24bit Flac</format>
+    <length>176.58</length>
+    <title>Dance The Night</title>
+    <creator>Dua Lipa</creator>
+    <album>Barbie The Album</album>
+    <track>2</track>
+    <artist>Dua Lipa</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="02. Dance The Night.mp3" source="derivative">
+    <creator>Dua Lipa</creator>
+    <title>Dance The Night</title>
+    <track>2</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>196</bitrate>
+    <length>02:57</length>
+    <format>VBR MP3</format>
+    <original>02. Dance The Night.flac</original>
+    <mtime>1697664211</mtime>
+    <size>4337340</size>
+    <md5>5544ca160ff6415ceede3570d5f700e5</md5>
+    <crc32>ef26c612</crc32>
+    <sha1>a0933a7a43270c0b535b9f0e3e6a804ccaf51eaf</sha1>
+  </file>
+  <file name="02. Dance The Night.png" source="derivative">
+    <format>PNG</format>
+    <original>02. Dance The Night.flac</original>
+    <mtime>1697664435</mtime>
+    <size>44257</size>
+    <md5>7b8e4457007f0c9a1cf029d073a169ff</md5>
+    <crc32>8dec7aa2</crc32>
+    <sha1>2d41113d23457cc842ee35e1bb3d6678b75731cf</sha1>
+  </file>
+  <file name="02. Dance The Night_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>02. Dance The Night.flac</original>
+    <mtime>1697678450</mtime>
+    <size>314838</size>
+    <md5>693d2513c2641ce4c06c54c4f6874f8d</md5>
+    <crc32>47d2e457</crc32>
+    <sha1>04bdd77b8ab900d0b3b3e12c25af84e5fd813220</sha1>
+  </file>
+  <file name="03. Barbie World (with Aqua).flac" source="original">
+    <mtime>1697659929</mtime>
+    <size>24767854</size>
+    <md5>05f398e3428b70901ef0363493b925d5</md5>
+    <crc32>22d61ec9</crc32>
+    <sha1>6bb594c98f39f61a35a320d375a748c1b63dd632</sha1>
+    <format>24bit Flac</format>
+    <length>109.75</length>
+    <viruscheck>1697660689</viruscheck>
+    <title>Barbie World (with Aqua)</title>
+    <creator>Nicki Minaj</creator>
+    <album>Barbie The Album</album>
+    <track>3</track>
+    <artist>Nicki Minaj</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="03. Barbie World (with Aqua).mp3" source="derivative">
+    <creator>Nicki Minaj</creator>
+    <title>Barbie World (with Aqua)</title>
+    <track>3</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>206</bitrate>
+    <length>01:50</length>
+    <format>VBR MP3</format>
+    <original>03. Barbie World (with Aqua).flac</original>
+    <mtime>1697661920</mtime>
+    <size>2830195</size>
+    <md5>a601eff298b0202c21aca6af48b87890</md5>
+    <crc32>b2af7812</crc32>
+    <sha1>1f20ffc85f39b75850404d9588e58b9ca3d2cdb7</sha1>
+  </file>
+  <file name="03. Barbie World (with Aqua).png" source="derivative">
+    <format>PNG</format>
+    <original>03. Barbie World (with Aqua).flac</original>
+    <mtime>1697667806</mtime>
+    <size>40950</size>
+    <md5>e554cefb97b78cdd248a1206ed294c50</md5>
+    <crc32>2839af77</crc32>
+    <sha1>aaecc182ea10c78ff39c9c5df6028f368e7c65db</sha1>
+  </file>
+  <file name="03. Barbie World (with Aqua)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>03. Barbie World (with Aqua).flac</original>
+    <mtime>1697678192</mtime>
+    <size>335378</size>
+    <md5>b3b9c042a95f26de4a95f41e874dd0b4</md5>
+    <crc32>37e5bc66</crc32>
+    <sha1>c1fc23537ad49705e121f1fbe99a63e8cecb84eb</sha1>
+  </file>
+  <file name="04. Speed Drive.flac" source="original">
+    <mtime>1697659946</mtime>
+    <size>26801859</size>
+    <md5>5606ebaa6ef85346ccf99f2a9533e9e7</md5>
+    <crc32>539ac1dc</crc32>
+    <sha1>e1dd5b83b1008541bf7ea88218cc9943896fbea3</sha1>
+    <format>24bit Flac</format>
+    <length>117.81</length>
+    <viruscheck>1697660689</viruscheck>
+    <title>Speed Drive</title>
+    <creator>Charli Xcx</creator>
+    <album>Barbie The Album</album>
+    <track>4</track>
+    <artist>Charli Xcx</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="04. Speed Drive.mp3" source="derivative">
+    <creator>Charli Xcx</creator>
+    <title>Speed Drive</title>
+    <track>4</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>200</bitrate>
+    <length>01:58</length>
+    <format>VBR MP3</format>
+    <original>04. Speed Drive.flac</original>
+    <mtime>1697661187</mtime>
+    <size>2954337</size>
+    <md5>c26a0c5a6b0adbd6fd2438cc6cf0c283</md5>
+    <crc32>feee314e</crc32>
+    <sha1>52b00da10fc3a869a375336bf4defc78984827fc</sha1>
+  </file>
+  <file name="04. Speed Drive.png" source="derivative">
+    <format>PNG</format>
+    <original>04. Speed Drive.flac</original>
+    <mtime>1697674971</mtime>
+    <size>42307</size>
+    <md5>a15cdce085bdf913832dea3502336116</md5>
+    <crc32>35755ca3</crc32>
+    <sha1>eb65d198f1ee97f062c5bc5e2938233542ce7874</sha1>
+  </file>
+  <file name="04. Speed Drive_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>04. Speed Drive.flac</original>
+    <mtime>1697677994</mtime>
+    <size>321024</size>
+    <md5>964aa9f1a17eb328a56ff54c129ea23e</md5>
+    <crc32>2b12a67a</crc32>
+    <sha1>74ea72310c5b5e1b0a31fb8974e2b2884e0e1160</sha1>
+  </file>
+  <file name="05. WATATI (feat. Aldo Ranks).flac" source="original">
+    <mtime>1697660025</mtime>
+    <size>35008593</size>
+    <md5>cb60058816dd2a9899227ecce7eb4c3f</md5>
+    <crc32>46e389a7</crc32>
+    <sha1>2248d9dc2849ddfda64db4f2499779a0e195a48f</sha1>
+    <format>24bit Flac</format>
+    <length>166.88</length>
+    <title>WATATI (feat. Aldo Ranks)</title>
+    <creator>Karol G</creator>
+    <album>Barbie The Album</album>
+    <track>5</track>
+    <artist>Karol G</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="05. WATATI (feat. Aldo Ranks).mp3" source="derivative">
+    <creator>Karol G</creator>
+    <title>WATATI (feat. Aldo Ranks)</title>
+    <track>5</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>183</bitrate>
+    <length>02:47</length>
+    <format>VBR MP3</format>
+    <original>05. WATATI (feat. Aldo Ranks).flac</original>
+    <mtime>1697662507</mtime>
+    <size>3821134</size>
+    <md5>cc02eaf7ab27620bca90d83ef9a4b4bd</md5>
+    <crc32>9842a87d</crc32>
+    <sha1>72cdef4e187337d053ac0543e54e023a6efa4fef</sha1>
+  </file>
+  <file name="05. WATATI (feat. Aldo Ranks).png" source="derivative">
+    <format>PNG</format>
+    <original>05. WATATI (feat. Aldo Ranks).flac</original>
+    <mtime>1697671135</mtime>
+    <size>47688</size>
+    <md5>83b178c145c02f69511387cd1d1b39ec</md5>
+    <crc32>fa1092b7</crc32>
+    <sha1>03eaeb46d9908a9636f7032fbb674734d57c7a2e</sha1>
+  </file>
+  <file name="05. WATATI (feat. Aldo Ranks)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>05. WATATI (feat. Aldo Ranks).flac</original>
+    <mtime>1697677836</mtime>
+    <size>325771</size>
+    <md5>b95c04e97880168cfdeec04b6fb735e2</md5>
+    <crc32>03563a81</crc32>
+    <sha1>d7ebd3b01e04b6f9bc7fb9c1c9fde2c663eac194</sha1>
+  </file>
+  <file name="06. Man I Am.flac" source="original">
+    <mtime>1697659825</mtime>
+    <size>43457815</size>
+    <md5>ec8f3a9e18413b248d862a579d226a00</md5>
+    <crc32>aa695eed</crc32>
+    <sha1>34d85a1489c881cf1bcc0633f69ebfdcbdeec87f</sha1>
+    <format>24bit Flac</format>
+    <length>187.76</length>
+    <title>Man I Am</title>
+    <creator>Sam Smith</creator>
+    <album>Barbie The Album</album>
+    <track>6</track>
+    <artist>Sam Smith</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="06. Man I Am.mp3" source="derivative">
+    <creator>Sam Smith</creator>
+    <title>Man I Am</title>
+    <track>6</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>197</bitrate>
+    <length>03:08</length>
+    <format>VBR MP3</format>
+    <original>06. Man I Am.flac</original>
+    <mtime>1697662088</mtime>
+    <size>4631688</size>
+    <md5>59dbc94b08f0bcdc235c5e323df6980a</md5>
+    <crc32>512029a4</crc32>
+    <sha1>224a28ad21793b80174b3b312094338e2f15ff20</sha1>
+  </file>
+  <file name="06. Man I Am.png" source="derivative">
+    <format>PNG</format>
+    <original>06. Man I Am.flac</original>
+    <mtime>1697665009</mtime>
+    <size>40197</size>
+    <md5>f8541df665ebb39ad2f0a08c432ecba7</md5>
+    <crc32>59fb2aa2</crc32>
+    <sha1>b4c6ac30389a55533d468fd772d9fb48f96abe7b</sha1>
+  </file>
+  <file name="06. Man I Am_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>06. Man I Am.flac</original>
+    <mtime>1697677363</mtime>
+    <size>313321</size>
+    <md5>108c35a37667dae66936fc5ef93b35e0</md5>
+    <crc32>2a59ec07</crc32>
+    <sha1>ea9492db2436cda077c95190cd58efa513f280cd</sha1>
+  </file>
+  <file name="07. Journey To The Real World.flac" source="original">
+    <mtime>1697659960</mtime>
+    <size>19496878</size>
+    <md5>1d39732ce9ef45a885f330a33abd6df4</md5>
+    <crc32>afab08d1</crc32>
+    <sha1>bc37df822425ffa0ace37cf68c00e11b32399d68</sha1>
+    <format>24bit Flac</format>
+    <length>87.83</length>
+    <viruscheck>1697660689</viruscheck>
+    <title>Journey To The Real World</title>
+    <creator>Tame Impala</creator>
+    <album>Barbie The Album</album>
+    <track>7</track>
+    <artist>Tame Impala</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="07. Journey To The Real World.mp3" source="derivative">
+    <creator>Tame Impala</creator>
+    <title>Journey To The Real World</title>
+    <track>7</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>197</bitrate>
+    <length>01:28</length>
+    <format>VBR MP3</format>
+    <original>07. Journey To The Real World.flac</original>
+    <mtime>1697662369</mtime>
+    <size>2170015</size>
+    <md5>41ec5d36c0b77145cd5c18773fc2a105</md5>
+    <crc32>062174ba</crc32>
+    <sha1>178152ea51f7308fe992fe221b4c9d1b1ef3cf5e</sha1>
+  </file>
+  <file name="07. Journey To The Real World.png" source="derivative">
+    <format>PNG</format>
+    <original>07. Journey To The Real World.flac</original>
+    <mtime>1697668608</mtime>
+    <size>38936</size>
+    <md5>8148c079525de6a185d92210e86d5533</md5>
+    <crc32>2fd7a69c</crc32>
+    <sha1>cf58f8c9709e7bc1a24f0bb2951c07883c9fe03c</sha1>
+  </file>
+  <file name="07. Journey To The Real World_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>07. Journey To The Real World.flac</original>
+    <mtime>1697676362</mtime>
+    <size>322800</size>
+    <md5>5b94c384ae1b6c70fec133cb5e050d4a</md5>
+    <crc32>63aa0ce4</crc32>
+    <sha1>d82db9ff144bff471a593a704961c3156cdd01c4</sha1>
+  </file>
+  <file name="08. I’m Just Ken.flac" source="original">
+    <mtime>1697659854</mtime>
+    <size>47172534</size>
+    <md5>ed2cf551dbc003c51487cd352ff94fba</md5>
+    <crc32>f40e5920</crc32>
+    <sha1>ad492ba063c32737a7b4ec45623fd8e59f32bf41</sha1>
+    <format>24bit Flac</format>
+    <length>222.63</length>
+    <title>I’m Just Ken</title>
+    <creator>Ryan Gosling</creator>
+    <album>Barbie The Album</album>
+    <track>8</track>
+    <artist>Ryan Gosling</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="08. I’m Just Ken.mp3" source="derivative">
+    <creator>Ryan Gosling</creator>
+    <title>I’m Just Ken</title>
+    <track>8</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>191</bitrate>
+    <length>03:43</length>
+    <format>VBR MP3</format>
+    <original>08. I’m Just Ken.flac</original>
+    <mtime>1697662784</mtime>
+    <size>5318471</size>
+    <md5>1ecb8594e29bdac413b8af193b98aa2d</md5>
+    <crc32>78be43aa</crc32>
+    <sha1>dde7c1bfbd644ef33bf3e38750c84a446aa048c8</sha1>
+  </file>
+  <file name="08. I’m Just Ken.png" source="derivative">
+    <format>PNG</format>
+    <original>08. I’m Just Ken.flac</original>
+    <mtime>1697673577</mtime>
+    <size>37450</size>
+    <md5>ca4d25cedca6f06825511ecce0bceed3</md5>
+    <crc32>31cc10f3</crc32>
+    <sha1>836b85126126fc669457f75220c049b8d46f72f5</sha1>
+  </file>
+  <file name="08. I’m Just Ken_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>08. I’m Just Ken.flac</original>
+    <mtime>1697675351</mtime>
+    <size>338572</size>
+    <md5>b47d8e7e1615215a1f5b16be314ce9e3</md5>
+    <crc32>3c6cfbe7</crc32>
+    <sha1>ebcb6e7847094df1613a52c00badf3000fee656a</sha1>
+  </file>
+  <file name="09. Hey Blondie.flac" source="original">
+    <mtime>1697660000</mtime>
+    <size>28794808</size>
+    <md5>07df2d94be6dd236cb94efe61c502300</md5>
+    <crc32>c010830e</crc32>
+    <sha1>875ab76740fdda8c72da94a13d93f38db62362f3</sha1>
+    <format>24bit Flac</format>
+    <length>141.81</length>
+    <viruscheck>1697660689</viruscheck>
+    <title>Hey Blondie</title>
+    <creator>Dominic Fike</creator>
+    <album>Barbie The Album</album>
+    <track>9</track>
+    <artist>Dominic Fike</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="09. Hey Blondie.mp3" source="derivative">
+    <creator>Dominic Fike</creator>
+    <title>Hey Blondie</title>
+    <track>9</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>188</bitrate>
+    <length>02:22</length>
+    <format>VBR MP3</format>
+    <original>09. Hey Blondie.flac</original>
+    <mtime>1697663278</mtime>
+    <size>3341365</size>
+    <md5>0bd5425f64d56e6efbaf4bc095dc2f9c</md5>
+    <crc32>fa4cc772</crc32>
+    <sha1>8a8278164a5cf957dbcf3680bacffd2327821b1c</sha1>
+  </file>
+  <file name="09. Hey Blondie.png" source="derivative">
+    <format>PNG</format>
+    <original>09. Hey Blondie.flac</original>
+    <mtime>1697671726</mtime>
+    <size>37361</size>
+    <md5>9874266e92b4cfd036c7af78b3f2228d</md5>
+    <crc32>1fb1f7d6</crc32>
+    <sha1>403bfcba197ab4f9503399bd4ff51a93b7aa59db</sha1>
+  </file>
+  <file name="09. Hey Blondie_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>09. Hey Blondie.flac</original>
+    <mtime>1697675821</mtime>
+    <size>339342</size>
+    <md5>932d91a3e38bba232d41d0e62677433a</md5>
+    <crc32>645ee743</crc32>
+    <sha1>4ab1d97228e9069701e86210cd89aed8b220b4ea</sha1>
+  </file>
+  <file name="10. Home.flac" source="original">
+    <mtime>1697660083</mtime>
+    <size>48856787</size>
+    <md5>2dba2ddfde51db363204c07d4e647c33</md5>
+    <crc32>5b4d2ab9</crc32>
+    <sha1>dfa363309b133ee52b88d7f4c90b785fc72f666b</sha1>
+    <format>24bit Flac</format>
+    <length>226.06</length>
+    <title>Home</title>
+    <creator>Haim</creator>
+    <album>Barbie The Album</album>
+    <track>10</track>
+    <artist>Haim</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="10. Home.mp3" source="derivative">
+    <creator>Haim</creator>
+    <title>Home</title>
+    <track>10</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>201</bitrate>
+    <length>03:46</length>
+    <format>VBR MP3</format>
+    <original>10. Home.flac</original>
+    <mtime>1697663555</mtime>
+    <size>5681217</size>
+    <md5>20c2e986d2068ccfc481bb72ade83200</md5>
+    <crc32>8edb328d</crc32>
+    <sha1>c5e4adbbb8831e991a18c667439b895a8c9295bd</sha1>
+  </file>
+  <file name="10. Home.png" source="derivative">
+    <format>PNG</format>
+    <original>10. Home.flac</original>
+    <mtime>1697664734</mtime>
+    <size>39797</size>
+    <md5>8ade43d01c6987d40b63b5bdb25706ec</md5>
+    <crc32>4c0fca03</crc32>
+    <sha1>51d10df4c10a7731802598e253a71df2425f3ae4</sha1>
+  </file>
+  <file name="10. Home_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>10. Home.flac</original>
+    <mtime>1697676857</mtime>
+    <size>330345</size>
+    <md5>5582a5a867454bbf78f816b3df4c6759</md5>
+    <crc32>29ae2752</crc32>
+    <sha1>506e7bc6fbab24392cb0e47f6d5c0fdefe7db456</sha1>
+  </file>
+  <file name="11. What Was I Made For.flac" source="original">
+    <mtime>1697660050</mtime>
+    <size>42139216</size>
+    <md5>52d43f7da611292664d425d91b3ebbeb</md5>
+    <crc32>fdf900f6</crc32>
+    <sha1>edadf174e89164e79ce472241525e8467f7e00e1</sha1>
+    <format>24bit Flac</format>
+    <length>222.37</length>
+    <title>What Was I Made For?</title>
+    <creator>Billie Eilish</creator>
+    <album>Barbie The Album</album>
+    <track>11</track>
+    <artist>Billie Eilish</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="11. What Was I Made For.mp3" source="derivative">
+    <creator>Billie Eilish</creator>
+    <title>What Was I Made For?</title>
+    <track>11</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>172</bitrate>
+    <length>03:42</length>
+    <format>VBR MP3</format>
+    <original>11. What Was I Made For.flac</original>
+    <mtime>1697661033</mtime>
+    <size>4784354</size>
+    <md5>830d19ce9376a2ef6a7fcf9f23c993f5</md5>
+    <crc32>fb2c0d3d</crc32>
+    <sha1>0d43839af633592e8913334dc5ffb760a70f4cb0</sha1>
+  </file>
+  <file name="11. What Was I Made For.png" source="derivative">
+    <format>PNG</format>
+    <original>11. What Was I Made For.flac</original>
+    <mtime>1697673084</mtime>
+    <size>32418</size>
+    <md5>65a9009f1e46a02aa38bc15dfa9c56f8</md5>
+    <crc32>4e2b43c5</crc32>
+    <sha1>7dc291ab6aec6fb4f72b94a52c247d9ae4d72361</sha1>
+  </file>
+  <file name="11. What Was I Made For_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>11. What Was I Made For.flac</original>
+    <mtime>1697678743</mtime>
+    <size>341128</size>
+    <md5>6aa4270c52f03aac4fe21a8b19bff3fe</md5>
+    <crc32>e12b96ab</crc32>
+    <sha1>018c7cc397967d8c0b8f42f14559d1b63b20c3f7</sha1>
+  </file>
+  <file name="12. Forever &amp; Again.flac" source="original">
+    <mtime>1697659874</mtime>
+    <size>29898795</size>
+    <md5>5418c53052531a5164c92cd9b4a6d17b</md5>
+    <crc32>bba8d1e9</crc32>
+    <sha1>697e2f06d9c5def98b988dd0204423392e1ecc1a</sha1>
+    <format>24bit Flac</format>
+    <length>139.41</length>
+    <viruscheck>1697660689</viruscheck>
+    <title>Forever &amp; Again</title>
+    <creator>The Kid LAROI</creator>
+    <album>Barbie The Album</album>
+    <track>12</track>
+    <artist>The Kid LAROI</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="12. Forever &amp; Again.mp3" source="derivative">
+    <creator>The Kid LAROI</creator>
+    <title>Forever &amp; Again</title>
+    <track>12</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>184</bitrate>
+    <length>02:19</length>
+    <format>VBR MP3</format>
+    <original>12. Forever &amp; Again.flac</original>
+    <mtime>1697663825</mtime>
+    <size>3207798</size>
+    <md5>6227c09d95e7771f6a5fbc9f5aaec687</md5>
+    <crc32>1a8f8487</crc32>
+    <sha1>08641343db11b445391755af729d4b06baf56f6c</sha1>
+  </file>
+  <file name="12. Forever &amp; Again.png" source="derivative">
+    <format>PNG</format>
+    <original>12. Forever &amp; Again.flac</original>
+    <mtime>1697668070</mtime>
+    <size>36109</size>
+    <md5>512099bafab20591c3602097c934ee5c</md5>
+    <crc32>c07b1aad</crc32>
+    <sha1>927a6bb69be661f28b03dad27c822fc71b318134</sha1>
+  </file>
+  <file name="12. Forever &amp; Again_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>12. Forever &amp; Again.flac</original>
+    <mtime>1697677233</mtime>
+    <size>308538</size>
+    <md5>d9d44593a706c4a654bc62c720d7c90e</md5>
+    <crc32>6506765d</crc32>
+    <sha1>3cdd8321c06310b95ca8ae50dcbe1ee34c77d5c8</sha1>
+  </file>
+  <file name="13. Silver Platter.flac" source="original">
+    <mtime>1697659894</mtime>
+    <size>33780932</size>
+    <md5>7949904c5c0b4d7873db989a93b82efd</md5>
+    <crc32>a2941161</crc32>
+    <sha1>419d524e36289fdd7e26a3cd3e676a480121c901</sha1>
+    <format>24bit Flac</format>
+    <length>165.67</length>
+    <title>Silver Platter</title>
+    <creator>Khalid</creator>
+    <album>Barbie The Album</album>
+    <track>13</track>
+    <artist>Khalid</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="13. Silver Platter.mp3" source="derivative">
+    <creator>Khalid</creator>
+    <title>Silver Platter</title>
+    <track>13</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>185</bitrate>
+    <length>02:46</length>
+    <format>VBR MP3</format>
+    <original>13. Silver Platter.flac</original>
+    <mtime>1697663036</mtime>
+    <size>3831489</size>
+    <md5>8072ed69b9ff36f03f6a56f26323a4da</md5>
+    <crc32>1a80b585</crc32>
+    <sha1>d0beab479dbba6cd03845df46ce4ee267ce6f9bf</sha1>
+  </file>
+  <file name="13. Silver Platter.png" source="derivative">
+    <format>PNG</format>
+    <original>13. Silver Platter.flac</original>
+    <mtime>1697674406</mtime>
+    <size>38688</size>
+    <md5>21870193e8d573cdf51ee40fbf1837ec</md5>
+    <crc32>8e5c8385</crc32>
+    <sha1>df5f856cbc551bebed7e957b4a4435440b37fb05</sha1>
+  </file>
+  <file name="13. Silver Platter_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>13. Silver Platter.flac</original>
+    <mtime>1697680569</mtime>
+    <size>336327</size>
+    <md5>b99ca5bfcc788ac12a1a865e62fe912c</md5>
+    <crc32>0e2d5f40</crc32>
+    <sha1>07458f6e3b740190088b382814030eb6e66c97a2</sha1>
+  </file>
+  <file name="14. Angel.flac" source="original">
+    <mtime>1697659910</mtime>
+    <size>27159463</size>
+    <md5>69e4de32f31bb9ce800200788cb9b0f4</md5>
+    <crc32>c3d4fe3c</crc32>
+    <sha1>42040b54c186ffc8ffd557cbb7f7c176ce99ff19</sha1>
+    <format>24bit Flac</format>
+    <length>123.82</length>
+    <viruscheck>1697660689</viruscheck>
+    <title>Angel</title>
+    <creator>PinkPantheress</creator>
+    <album>Barbie The Album</album>
+    <track>14</track>
+    <artist>PinkPantheress</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="14. Angel.mp3" source="derivative">
+    <creator>PinkPantheress</creator>
+    <title>Angel</title>
+    <track>14</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>196</bitrate>
+    <length>02:04</length>
+    <format>VBR MP3</format>
+    <original>14. Angel.flac</original>
+    <mtime>1697662649</mtime>
+    <size>3046684</size>
+    <md5>9c47c64f3a8947b4fe3667af30dd46a2</md5>
+    <crc32>c9d71404</crc32>
+    <sha1>2a006e12272c659c9e25be95bf46a4c925a0bacd</sha1>
+  </file>
+  <file name="14. Angel.png" source="derivative">
+    <format>PNG</format>
+    <original>14. Angel.flac</original>
+    <mtime>1697673285</mtime>
+    <size>41767</size>
+    <md5>f976f71a19d9b7773e4d659d99896f59</md5>
+    <crc32>e5a9c1c2</crc32>
+    <sha1>309dc22727d1be6d194688a8c28a6f39c7a08ec6</sha1>
+  </file>
+  <file name="14. Angel_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>14. Angel.flac</original>
+    <mtime>1697679167</mtime>
+    <size>311984</size>
+    <md5>1ed41518e8ebd825200cdb247117ba11</md5>
+    <crc32>28423d8a</crc32>
+    <sha1>d514a3bbec1f3a2040e75831916f45c1e6de8ad5</sha1>
+  </file>
+  <file name="15. butterflies.flac" source="original">
+    <mtime>1697660100</mtime>
+    <size>29483044</size>
+    <md5>07c1c9f76f17604d54281f98cf227def</md5>
+    <crc32>0a503830</crc32>
+    <sha1>7aabf11d3ab6928c938d72e7651b882eeacc00ee</sha1>
+    <format>24bit Flac</format>
+    <length>136.2</length>
+    <viruscheck>1697660689</viruscheck>
+    <title>butterflies</title>
+    <creator>Gayle</creator>
+    <album>Barbie The Album</album>
+    <track>15</track>
+    <artist>Gayle</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="15. butterflies.mp3" source="derivative">
+    <creator>Gayle</creator>
+    <title>butterflies</title>
+    <track>15</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>192</bitrate>
+    <length>02:16</length>
+    <format>VBR MP3</format>
+    <original>15. butterflies.flac</original>
+    <mtime>1697662232</mtime>
+    <size>3268950</size>
+    <md5>ec192cc12a8bb7e333b19bd502bbfdf1</md5>
+    <crc32>953f590d</crc32>
+    <sha1>69fc0ec5f838af043d25ab4c94f6fb7ffc19157b</sha1>
+  </file>
+  <file name="15. butterflies.png" source="derivative">
+    <format>PNG</format>
+    <original>15. butterflies.flac</original>
+    <mtime>1697674779</mtime>
+    <size>37825</size>
+    <md5>c5436f18fdad70a11b41f2595be7e4d1</md5>
+    <crc32>eeafc24c</crc32>
+    <sha1>f8411dc999c56559c1f623990346a06dc88e9e24</sha1>
+  </file>
+  <file name="15. butterflies_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>15. butterflies.flac</original>
+    <mtime>1697680165</mtime>
+    <size>325782</size>
+    <md5>cd24bffb61eab4e36a9cafe3769a472a</md5>
+    <crc32>83369fb9</crc32>
+    <sha1>a80af0e94afc2f0051e260a484a52861ce39794c</sha1>
+  </file>
+  <file name="16. Choose Your Fighter.flac" source="original">
+    <mtime>1697659980</mtime>
+    <size>32084175</size>
+    <md5>d65a1ffcd151353fb901c9c82571c004</md5>
+    <crc32>cd7ba72f</crc32>
+    <sha1>2f389916c1aa8e813c8042e899aa430f1cb75231</sha1>
+    <format>24bit Flac</format>
+    <length>137.51</length>
+    <viruscheck>1697660689</viruscheck>
+    <title>Choose Your Fighter</title>
+    <creator>Ava Max</creator>
+    <album>Barbie The Album</album>
+    <track>16</track>
+    <artist>Ava Max</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="16. Choose Your Fighter.mp3" source="derivative">
+    <creator>Ava Max</creator>
+    <title>Choose Your Fighter</title>
+    <track>16</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>194</bitrate>
+    <length>02:18</length>
+    <format>VBR MP3</format>
+    <original>16. Choose Your Fighter.flac</original>
+    <mtime>1697661321</mtime>
+    <size>3333994</size>
+    <md5>a0a86441e6b6fb11118384b753bf7ae3</md5>
+    <crc32>3edfcd15</crc32>
+    <sha1>65bf5b0cdc586569aa5e261395d68d43e83da7e2</sha1>
+  </file>
+  <file name="16. Choose Your Fighter.png" source="derivative">
+    <format>PNG</format>
+    <original>16. Choose Your Fighter.flac</original>
+    <mtime>1697674055</mtime>
+    <size>40857</size>
+    <md5>3a4a3ffa9deff290ab6599238f2a1c4c</md5>
+    <crc32>2955d33c</crc32>
+    <sha1>3d8cbbb8c1cb63f59002f5cbe74ba9d7295fdbc3</sha1>
+  </file>
+  <file name="16. Choose Your Fighter_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>16. Choose Your Fighter.flac</original>
+    <mtime>1697681009</mtime>
+    <size>321681</size>
+    <md5>c55a37d08ae1a129362389539e01533e</md5>
+    <crc32>3baeb044</crc32>
+    <sha1>43b66b607a6ffccbb9b2a71a130fcc0e439cd9e0</sha1>
+  </file>
+  <file name="17. Barbie Dreams (feat. Kaliii).flac" source="original">
+    <mtime>1697660121</mtime>
+    <size>35595214</size>
+    <md5>1f09a897ee18a15201293db000c73895</md5>
+    <crc32>e37be3e5</crc32>
+    <sha1>c3f8958a99861bdad8a2e207dda2c5dc23cc750e</sha1>
+    <format>24bit Flac</format>
+    <length>149.44</length>
+    <title>Barbie Dreams (feat. Kaliii)</title>
+    <creator>Fifty Fifty</creator>
+    <album>Barbie The Album</album>
+    <track>17</track>
+    <artist>Fifty Fifty</artist>
+    <genre>Pop</genre>
+    <comment>PMEDIA</comment>
+  </file>
+  <file name="17. Barbie Dreams (feat. Kaliii).mp3" source="derivative">
+    <creator>Fifty Fifty</creator>
+    <title>Barbie Dreams (feat. Kaliii)</title>
+    <track>17</track>
+    <album>Barbie The Album</album>
+    <genre>Pop</genre>
+    <bitrate>198</bitrate>
+    <length>02:29</length>
+    <format>VBR MP3</format>
+    <original>17. Barbie Dreams (feat. Kaliii).flac</original>
+    <mtime>1697661704</mtime>
+    <size>3711400</size>
+    <md5>a5ca5635b308840e511c56641a85f77e</md5>
+    <crc32>6b09d893</crc32>
+    <sha1>0f39f17035d3da98227bfd7afe04d7df668f5164</sha1>
+  </file>
+  <file name="17. Barbie Dreams (feat. Kaliii).png" source="derivative">
+    <format>PNG</format>
+    <original>17. Barbie Dreams (feat. Kaliii).flac</original>
+    <mtime>1697673858</mtime>
+    <size>44225</size>
+    <md5>374eaf90e5c68fd70ef0a4e03f57cf3c</md5>
+    <crc32>dc392eeb</crc32>
+    <sha1>8a367640af084f6282f3441191d86863ea82f55d</sha1>
+  </file>
+  <file name="17. Barbie Dreams (feat. Kaliii)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>17. Barbie Dreams (feat. Kaliii).flac</original>
+    <mtime>1697680724</mtime>
+    <size>315629</size>
+    <md5>2fe1e2cc30c431a34fa54d6ab7001884</md5>
+    <crc32>16ed8e74</crc32>
+    <sha1>d051ecb42725038691e384e93a172ce0a3a77b99</sha1>
+  </file>
+  <file name="INFO.nfo" source="original">
+    <mtime>1697660126</mtime>
+    <size>1158</size>
+    <md5>3dd8711a0aee00b9d07bea0922ed2c01</md5>
+    <crc32>b9fed1c0</crc32>
+    <sha1>99a8a93e4ab2dbf4d41fc13c45a41a327facf3c4</sha1>
+    <format>Information</format>
+    <viruscheck>1697660689</viruscheck>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1697660223</mtime>
+    <size>13292</size>
+    <md5>d036b253007e58e2d2c41ee4dc34d19c</md5>
+    <crc32>e31451bd</crc32>
+    <sha1>81aa4e45de1dc02ae88e236635270e769ab34b71</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="barbie-the-album-2023-24bit-48khz-flac_archive.torrent" source="metadata">
+    <btih>d7ea77871a1ff28a4ee3fa1b70a1627c8f293fdf</btih>
+    <mtime>1739157616</mtime>
+    <size>39444</size>
+    <md5>fb2a6e93c4b9ef07111bd65b8cfcafb8</md5>
+    <crc32>b0939f59</crc32>
+    <sha1>55ff271679d82ed1c93ef2f61416f4fc95925e3d</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="barbie-the-album-2023-24bit-48khz-flac_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>1107e012a5dba27b4b10c3f05dfe340b</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="barbie-the-album-2023-24bit-48khz-flac_meta.sqlite" source="original">
+    <mtime>1697660214</mtime>
+    <size>114688</size>
+    <md5>8ed3c91b7238a4db996f40c4dbcb5868</md5>
+    <crc32>5f3c8efd</crc32>
+    <sha1>f5d2c164a95b601123ad2783767f8342114ae7b1</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="barbie-the-album-2023-24bit-48khz-flac_meta.xml" source="original">
+    <mtime>1739157610</mtime>
+    <size>2790</size>
+    <md5>e0ea878eb862ad5046be947ddccffa54</md5>
+    <crc32>89cfe911</crc32>
+    <sha1>0b285e69a0c56f0da461a0c8bf67ac0554fbd41f</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="cover.jpg" source="original">
+    <mtime>1697660123</mtime>
+    <size>372334</size>
+    <md5>47609f217e76df467791010bbffbe711</md5>
+    <crc32>f4c9c222</crc32>
+    <sha1>4b788734428b954c674454d5ea08d58bacc4b011</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="cover_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>cover.jpg</original>
+    <mtime>1697664259</mtime>
+    <size>7531</size>
+    <md5>ac6aaef11f6479bc75a511944b745dda</md5>
+    <crc32>75f2dfe6</crc32>
+    <sha1>a4b1e328c9562443d757a83f4e7f786e75dfb781</sha1>
+  </file>
+</files>
