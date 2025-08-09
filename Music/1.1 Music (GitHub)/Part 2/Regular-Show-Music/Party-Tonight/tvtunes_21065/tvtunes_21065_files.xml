@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Regular Show - Party Tonight.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Regular Show - Party Tonight.mp3</original>
+    <mtime>1549459204</mtime>
+    <size>21064</size>
+    <md5>32391cd416956eb5467df0b077df065b</md5>
+    <crc32>807c399d</crc32>
+    <sha1>e2fe5516e1d7cb5f4f55c8473ed542cddedc9e2a</sha1>
+  </file>
+  <file name="Regular Show - Party Tonight.mp3" source="original">
+    <mtime>1549459165</mtime>
+    <size>1594596</size>
+    <md5>eff4e1442b60639af2b24ae310145dab</md5>
+    <crc32>ca70e01b</crc32>
+    <sha1>9f21c14bf6b5c2e85e581449db7e3f3226fbca6c</sha1>
+    <format>VBR MP3</format>
+    <length>94.77</length>
+    <height>1080</height>
+    <width>1440</width>
+    <title>Regular Show - Party Tonight&amp;rlm;</title>
+    <track>㄀</track>
+    <external-identifier-match-date>acoustid:2019-03-23T16:57:11Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:ed30b0db-52d3-4dbd-896b-e5cf9a524ad5</external-identifier>
+  </file>
+  <file name="Regular Show - Party Tonight.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Regular Show - Party Tonight.mp3</original>
+    <mtime>1549459190</mtime>
+    <size>809280</size>
+    <md5>592c2c074dbec7948724b9c4d1884905</md5>
+    <crc32>d1274b5b</crc32>
+    <sha1>32e2c111ffd08ada802fcbb7b928e5e8709891ab</sha1>
+    <length>94.71</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Regular Show - Party Tonight.png" source="derivative">
+    <format>PNG</format>
+    <original>Regular Show - Party Tonight.mp3</original>
+    <mtime>1549459199</mtime>
+    <size>9359</size>
+    <md5>7e34f065fa8f614cad0c7b14190d3afe</md5>
+    <crc32>43a1cbe1</crc32>
+    <sha1>0a4cc64c39447dcedab1e743ccfb62391a7eb63b</sha1>
+  </file>
+  <file name="Regular Show - Party Tonight_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Regular Show - Party Tonight.mp3</original>
+    <mtime>1549459201</mtime>
+    <size>173022</size>
+    <md5>dbeba10d974177614a82c44a328bbe1e</md5>
+    <crc32>396b32fc</crc32>
+    <sha1>49c24d80f3ef5879c8fe59082129c020cc1933b7</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1549459208</mtime>
+    <size>2328</size>
+    <md5>58e0d81cc3ac431d85d6abe6d8f60d3e</md5>
+    <crc32>b3dc6548</crc32>
+    <sha1>8f60d9a13ad1d7b6a3aea43dfc9f875f71e855cd</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="tvtunes_21065_archive.torrent" source="metadata">
+    <btih>dd7be3a2493b479da54389e090cc0473f21a8de3</btih>
+    <mtime>1595619919</mtime>
+    <size>2648</size>
+    <md5>1e260d4f54c18418cba2cdb48fb355e6</md5>
+    <crc32>af3f8d6e</crc32>
+    <sha1>46b8fb81390c417d5e7c7ccf82b5ec71189fa63e</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tvtunes_21065_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>bb7c56eb89788f339074603b6e3712f8</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="tvtunes_21065_meta.sqlite" source="original">
+    <mtime>1549459176</mtime>
+    <size>9216</size>
+    <md5>a0b353e8863280c215e717b9fe72db37</md5>
+    <crc32>c6d8c55a</crc32>
+    <sha1>a495e1086013ab3ecb973a9924435c04baef1af5</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="tvtunes_21065_meta.xml" source="original">
+    <mtime>1595619918</mtime>
+    <size>948</size>
+    <format>Metadata</format>
+    <md5>7a932604589f9b054e648bdfe994e59b</md5>
+    <crc32>b5c04f19</crc32>
+    <sha1>d6ba6c225a74f8108568427406846a5f5b794a3d</sha1>
+  </file>
+</files>

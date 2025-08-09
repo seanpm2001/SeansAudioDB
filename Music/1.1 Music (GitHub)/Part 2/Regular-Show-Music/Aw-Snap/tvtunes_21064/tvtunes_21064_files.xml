@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Regular Show - Aw Snap.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Regular Show - Aw Snap.mp3</original>
+    <mtime>1549459166</mtime>
+    <size>24728</size>
+    <md5>c3149442e817b0b61cd735dff8242c6e</md5>
+    <crc32>d61acd8e</crc32>
+    <sha1>9c30b8a968ee6a5f9692df046fa8bf47184ac81b</sha1>
+  </file>
+  <file name="Regular Show - Aw Snap.mp3" source="original">
+    <mtime>1549459129</mtime>
+    <size>1680153</size>
+    <md5>ad7490b48ad60756bf0026c29ceb0292</md5>
+    <crc32>a73278ef</crc32>
+    <sha1>44a4609b99a72fbc6071d115646a3529dadf1787</sha1>
+    <format>VBR MP3</format>
+    <length>104.86</length>
+    <height>0</height>
+    <width>0</width>
+    <title>regular show aw snap&amp;rlm;</title>
+    <track>㄀</track>
+    <external-identifier-match-date>acoustid:2019-04-05T17:17:37Z</external-identifier-match-date>
+    <external-identifier>urn:acoustid:c9befed0-376f-4100-acb4-7bb3468012be</external-identifier>
+  </file>
+  <file name="Regular Show - Aw Snap.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Regular Show - Aw Snap.mp3</original>
+    <mtime>1549459153</mtime>
+    <size>1092908</size>
+    <md5>4bfe39018767e0d595372dab3a642443</md5>
+    <crc32>ab4c1b96</crc32>
+    <sha1>f4e1735c0834bdd4edf4f18ea970624f49c047ba</sha1>
+    <length>104.8</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Regular Show - Aw Snap.png" source="derivative">
+    <format>PNG</format>
+    <original>Regular Show - Aw Snap.mp3</original>
+    <mtime>1549459161</mtime>
+    <size>11849</size>
+    <md5>7feec4a2c2bc93469926d3914bd863c8</md5>
+    <crc32>71b2a420</crc32>
+    <sha1>fae63f13163be83699548347e93173bbd8af1279</sha1>
+  </file>
+  <file name="Regular Show - Aw Snap_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Regular Show - Aw Snap.mp3</original>
+    <mtime>1549459163</mtime>
+    <size>175995</size>
+    <md5>c59784a65d8c4c62fd14b38e86d94222</md5>
+    <crc32>db234097</crc32>
+    <sha1>96c1788df6fbc52c8969ebd0e8f9b8d5e738cc9d</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1659906060</mtime>
+    <size>2689</size>
+    <md5>01d1366845caa5b2ac38e2bdc4f274be</md5>
+    <crc32>156c8190</crc32>
+    <sha1>741c3d24e152438194869f9b80c75d2f92c8f955</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="tvtunes_21064_archive.torrent" source="metadata">
+    <btih>799a7e4197e6d0730f742c622570650b406c9a58</btih>
+    <mtime>1659906061</mtime>
+    <size>2643</size>
+    <md5>b999ac2d5811e1080a564c2926324b1f</md5>
+    <crc32>2e94eff0</crc32>
+    <sha1>2c2b6aec54b305bfeb078d0d2725fcda3da2fba7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tvtunes_21064_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ab874465b50a4698dc19884c7827adf7</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="tvtunes_21064_meta.sqlite" source="original">
+    <mtime>1549459141</mtime>
+    <size>9216</size>
+    <md5>3449f56ee88717df0c60ccf774f6df9d</md5>
+    <crc32>2e37626e</crc32>
+    <sha1>668461a149901d68ddc8726cfde9432dce83e291</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="tvtunes_21064_meta.xml" source="original">
+    <mtime>1595617637</mtime>
+    <size>930</size>
+    <format>Metadata</format>
+    <md5>7a3321633869bf75f284824fd31bbac9</md5>
+    <crc32>75ff6e0e</crc32>
+    <sha1>96fa008c2159d74ccdba0117dea7ecd12d00baa9</sha1>
+  </file>
+  <file name="tvtunes_21064_reviews.xml" source="original">
+    <mtime>1659906059</mtime>
+    <size>537</size>
+    <md5>57e9b857d589aa2e1b1019d0c24db802</md5>
+    <crc32>374f4830</crc32>
+    <sha1>6a49e2187593821bc29927718397d22eb5a34412</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

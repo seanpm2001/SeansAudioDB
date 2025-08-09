@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Regular Show - Credits.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Regular Show - Credits.mp3</original>
+    <mtime>1549459178</mtime>
+    <size>2256</size>
+    <md5>e2f5db040a5dbb53ddacd0ebacd09281</md5>
+    <crc32>68f3b2bb</crc32>
+    <sha1>5f13ac5bfb7594504c09de6a656b7ab13898de3e</sha1>
+  </file>
+  <file name="Regular Show - Credits.mp3" source="original">
+    <mtime>1549459147</mtime>
+    <size>186785</size>
+    <md5>5443783afe7b00551a56c988335b24f8</md5>
+    <crc32>eabc909f</crc32>
+    <sha1>6c27abd874e370bb67b5f84a0f8d5bb735226f89</sha1>
+    <format>VBR MP3</format>
+    <length>11.52</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Regular Show - Credits.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Regular Show - Credits.mp3</original>
+    <mtime>1549459170</mtime>
+    <size>95381</size>
+    <md5>8d9034f3f50531eca04c53b9b8e8459c</md5>
+    <crc32>fe1a3804</crc32>
+    <sha1>c3d9a76823f120e46868bee16275f6e68384426a</sha1>
+    <length>11.47</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Regular Show - Credits.png" source="derivative">
+    <format>PNG</format>
+    <original>Regular Show - Credits.mp3</original>
+    <mtime>1549459175</mtime>
+    <size>11704</size>
+    <md5>0ca1bad4ed988a1ce81ed09f845b681d</md5>
+    <crc32>924e5dab</crc32>
+    <sha1>49d71a173185b30cf0f07507ae21b7bc682e4dbc</sha1>
+  </file>
+  <file name="Regular Show - Credits_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Regular Show - Credits.mp3</original>
+    <mtime>1549459176</mtime>
+    <size>176603</size>
+    <md5>a30832177ea4026a599a241c1fadced6</md5>
+    <crc32>16d17317</crc32>
+    <sha1>adfe1b6033f48ae3137855e4959f795176ed1953</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1549459183</mtime>
+    <size>2782</size>
+    <md5>c6f616f5a8dadcf3822e9f1e331b9fa3</md5>
+    <crc32>0710599f</crc32>
+    <sha1>e97be03f84f172f595609a7011d9da4d1dc3bae7</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="tvtunes_23558_archive.torrent" source="metadata">
+    <btih>5a35666123c11bfc4758849dd97fc91a30b14cdd</btih>
+    <mtime>1595618860</mtime>
+    <size>2535</size>
+    <md5>090503eb96b9a19b51e3e46e2f15aa24</md5>
+    <crc32>773063f6</crc32>
+    <sha1>dcfe1475228b1286ea8e6f1ab48f3523a038247e</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tvtunes_23558_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>591220741549310d4ae3ab274a715fa9</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="tvtunes_23558_meta.sqlite" source="original">
+    <mtime>1549459159</mtime>
+    <size>9216</size>
+    <md5>5afc10ed08b297db865b15d5d6c1f2b5</md5>
+    <crc32>32334ec4</crc32>
+    <sha1>b6bc02f05da8346c422fe279e66faf87a931310b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="tvtunes_23558_meta.xml" source="original">
+    <mtime>1595618859</mtime>
+    <size>852</size>
+    <format>Metadata</format>
+    <md5>d1dc26931c30c12cff807dd74059f45d</md5>
+    <crc32>820b54f8</crc32>
+    <sha1>d89e5600ef7f98baa8afd8b7ab897b0f8638c651</sha1>
+  </file>
+</files>
