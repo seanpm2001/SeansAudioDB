@@ -1802,6 +1802,39 @@ No new data for today.
 
 #### 2025, August 11th
 
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. Uploads seem to be slowing from this account now. Most updates from the past week were to repositories I have already downloaded, and I do not intend to redownload these repositories, although the number of original repositories has gone down this week again. Only 2 new repositories were downloaded today.
+
+```urll
+https://github.com/20essentials/syn-cole-album
+https://github.com/20essentials/jpb
+```
+
+#### 2025, August 12th
+
+No new data for today.
+
+#### 2025, August 13th
+
+No new data for today.
+
+#### 2025, August 14th
+
+No new data for today.
+
+#### 2025, August 15th
+
+No new data for today.
+
+#### 2025, August 16th
+
+No new data for today.
+
+#### 2025, August 17th
+
+No new data for today.
+
+#### 2025, August 18th
+
 No new data for today.
 
 ---
@@ -1824,6 +1857,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `16 (2025, Monday, August 4th at 04:25 pm PST)`
+**File version:** `17 (2025, Monday, August 11th at 03:16 pm PST)`
 
 ***
