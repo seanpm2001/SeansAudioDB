@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mario-and-Sonic-at-the-Olympic-Games/2022/Mario%20&amp;%20Sonic%20at%20the%20Olympic%20Games%20-%20Dream%20Collection%20(Opus)/Disc%202%20-%20Mario%20&amp;%20Sonic%20at%20the%20Olympic%20Winter%20Games/20%20-%20Egg%20Factory.opus</location>
+			<title>Egg Factory</title>
+			<album>Mario &amp; Sonic at the Olympic Winter Games</album>
+			<trackNum>20</trackNum>
+			<duration>210360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mario-and-Sonic-at-the-Olympic-Games/2022/Mario%20&amp;%20Sonic%20at%20the%20Olympic%20Games%20-%20Dream%20Collection%20(Opus)/Disc%202%20-%20Mario%20&amp;%20Sonic%20at%20the%20Olympic%20Winter%20Games/21%20-%20Vengeance%20is%20Mine%20...%20for%20Radical%20Highway.opus</location>
+			<title>Vengeance is Mine ... for Radical Highway</title>
+			<album>Mario &amp; Sonic at the Olympic Winter Games</album>
+			<trackNum>21</trackNum>
+			<duration>251533</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mario-and-Sonic-at-the-Olympic-Games/2022/Mario%20&amp;%20Sonic%20at%20the%20Olympic%20Games%20-%20Dream%20Collection%20(Opus)/Disc%202%20-%20Mario%20&amp;%20Sonic%20at%20the%20Olympic%20Winter%20Games/22%20-%20Snow%20Mountain.opus</location>
+			<title>Snow Mountain</title>
+			<album>Mario &amp; Sonic at the Olympic Winter Games</album>
+			<trackNum>22</trackNum>
+			<duration>225266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
