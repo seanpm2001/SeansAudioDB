@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mario-and-Sonic-at-the-Olympic-Games/2022/Mario%20&amp;%20Sonic%20at%20the%20Olympic%20Games%20-%20Dream%20Collection%20(Opus)/Disc%203%20-%20Mario%20&amp;%20Sonic%20at%20the%20London%202012%20Olympic%20Games/24%20-%20A%20New%20Venture.opus</location>
+			<title>A New Venture</title>
+			<album>Mario &amp; Sonic at the London 2012 Olympic Games</album>
+			<trackNum>24</trackNum>
+			<duration>328337</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Mario-and-Sonic-at-the-Olympic-Games/2022/Mario%20&amp;%20Sonic%20at%20the%20Olympic%20Games%20-%20Dream%20Collection%20(Opus)/Disc%203%20-%20Mario%20&amp;%20Sonic%20at%20the%20London%202012%20Olympic%20Games/25%20-%20Let%20the%20Speed%20Mend%20It.opus</location>
+			<title>Let the Speed Mend It</title>
+			<album>Mario &amp; Sonic at the London 2012 Olympic Games</album>
+			<trackNum>25</trackNum>
+			<duration>401267</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
