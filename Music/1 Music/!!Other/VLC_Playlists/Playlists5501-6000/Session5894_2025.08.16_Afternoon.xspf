@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/INNOCENCE%20O.S.T/04%20-%20River%20of%20Crystals.flac</location>
+			<title>River of Crystals</title>
+			<creator>Kimiko Itoh</creator>
+			<album>Ghost in The Shell: Innocence O.S.T.</album>
+			<trackNum>4</trackNum>
+			<duration>348933</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek/AudioOnly/shrek-original-soundtrack-2001/Original%20Motion%20Picture%20Soundtrack%20-%20Shrek%20(2001)/07.%20My%20Beloved%20Monster.mp3</location>
+			<title>My Beloved Monster</title>
+			<creator>Eels</creator>
+			<album>Shrek - Music from the Original Motion Picture</album>
+			<trackNum>7</trackNum>
+			<duration>130981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>

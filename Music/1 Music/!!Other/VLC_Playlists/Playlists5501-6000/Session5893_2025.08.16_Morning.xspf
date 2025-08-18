@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20ARISE%20-%20Jibun%20ga%20Inai/01%20-%20GHOST%20IN%20THE%20SHELL%20ARISE.flac</location>
+			<title>GHOST IN THE SHELL ARISE</title>
+			<creator>Cornelius (Keigo Oyamada)</creator>
+			<album>GHOST IN THE SHELL ARISE / Jibun ga Inai</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20ARISE%20-%20Jibun%20ga%20Inai/cover.png</image>
+			<duration>267586</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/INNOCENCE%20O.S.T/02%20-%20Kugutsuuta%20ura%20mite%20chiru.flac</location>
+			<title>Kugutsuuta ura mite chiru</title>
+			<creator>Kenji Kawai</creator>
+			<album>Ghost in The Shell: Innocence O.S.T.</album>
+			<trackNum>2</trackNum>
+			<annotation>Encoded by FLAC v1.1.1a with FLAC Frontend v1.7.1</annotation>
+			<duration>220426</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/INNOCENCE%20O.S.T/03%20-%20TYPE%202052%20&#39;HADALY&#39;.flac</location>
+			<title>TYPE 2052 &quot;HADALY&quot;</title>
+			<creator>Kenji Kawai</creator>
+			<album>Ghost in The Shell: Innocence O.S.T.</album>
+			<trackNum>3</trackNum>
+			<duration>245973</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
