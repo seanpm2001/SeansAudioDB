@@ -1835,6 +1835,40 @@ No new data for today.
 
 #### 2025, August 18th
 
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. Uploads seem to be slowing from this account now. Most updates from the past week were to repositories I have already downloaded, and I do not intend to redownload these repositories, although the number of original repositories has gone up slighty this week. Only 3 new repositories were downloaded today.
+
+```urll
+https://github.com/20essentials/di4mond-ey3s
+https://github.com/20essentials/code-fi
+https://github.com/20essentials/barnard
+```
+
+#### 2025, August 19th
+
+No new data for today.
+
+#### 2025, August 20th
+
+No new data for today.
+
+#### 2025, August 21st
+
+No new data for today.
+
+#### 2025, August 22nd
+
+No new data for today.
+
+#### 2025, August 23rd
+
+No new data for today.
+
+#### 2025, August 24th
+
+No new data for today.
+
+#### 2025, August 25th
+
 No new data for today.
 
 ---
@@ -1857,6 +1891,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `17 (2025, Monday, August 11th at 03:16 pm PST)`
+**File version:** `18 (2025, Monday, August 18th at 01:59 pm PST)`
 
 ***
