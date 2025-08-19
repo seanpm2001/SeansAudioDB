@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Bully Original Soundtrack.zip" source="original">
+    <mtime>1721588556</mtime>
+    <size>131455921</size>
+    <md5>3586f67e60f84b7faf88dd299a3a9886</md5>
+    <crc32>07a4d62d</crc32>
+    <sha1>ab2e599ce748ad2d90b173c9d3c02964dc2bd6e9</sha1>
+    <format>ZIP</format>
+    <filecount>27</filecount>
+  </file>
+  <file name="Folder.jpg" source="original">
+    <mtime>1721588576</mtime>
+    <size>104441</size>
+    <md5>2a1251323b591c72e5341b706792bcb4</md5>
+    <crc32>18f04dcd</crc32>
+    <sha1>f71ed8a5dcdb29feb5a915daf4c634d028cd00c5</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="Folder_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Folder.jpg</original>
+    <mtime>1721590159</mtime>
+    <size>10319</size>
+    <md5>f2184adcb8d0ec496df5c013775d4a23</md5>
+    <crc32>d10c2812</crc32>
+    <sha1>f6d53988a0ed7efe54925e16e446b190a3ba7d32</sha1>
+  </file>
+  <file name="Shawn Lee - 01 - Bully Main Theme.mp3" source="original">
+    <mtime>1721588623</mtime>
+    <size>4786900</size>
+    <md5>903cd7f2a0f401e166ec6e839e440477</md5>
+    <crc32>da0d29ee</crc32>
+    <sha1>df1a01e175646fe28226dc6a220d147b84321838</sha1>
+    <format>VBR MP3</format>
+    <length>119.59</length>
+    <title>Bully Main Theme</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>1/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 01 - Bully Main Theme.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 01 - Bully Main Theme.mp3</original>
+    <mtime>1721592614</mtime>
+    <size>39021</size>
+    <md5>d9f31f2c6ac7323df615d251ad10edab</md5>
+    <crc32>ec61d4f5</crc32>
+    <sha1>9df3f8c971970632490e3465429224c8575517e4</sha1>
+  </file>
+  <file name="Shawn Lee - 01 - Bully Main Theme_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 01 - Bully Main Theme.mp3</original>
+    <mtime>1721598868</mtime>
+    <size>339431</size>
+    <md5>6333371c891c084b59fe1e32753a7182</md5>
+    <crc32>5d20b646</crc32>
+    <sha1>a151f5bf8e10c995097a982d9f9609b9ed125294</sha1>
+  </file>
+  <file name="Shawn Lee - 02 - Here's To You Miss Phillips.mp3" source="original">
+    <mtime>1721588666</mtime>
+    <size>4409516</size>
+    <md5>607512475c70f94f925119352c918d95</md5>
+    <crc32>b2191b59</crc32>
+    <sha1>9f99b23aba31db565ecc40a4e120a614f8602dda</sha1>
+    <format>VBR MP3</format>
+    <length>109.58</length>
+    <title>Here's To You Miss Phillips</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>2/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 02 - Here's To You Miss Phillips.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 02 - Here's To You Miss Phillips.mp3</original>
+    <mtime>1721593344</mtime>
+    <size>39722</size>
+    <md5>02bc1c3b423a6a9a42c959c0206c0bf5</md5>
+    <crc32>a68e641f</crc32>
+    <sha1>8b56e5983f880089a51978a32887011375d9703b</sha1>
+  </file>
+  <file name="Shawn Lee - 02 - Here's To You Miss Phillips_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 02 - Here's To You Miss Phillips.mp3</original>
+    <mtime>1721599587</mtime>
+    <size>326131</size>
+    <md5>32f74f1bc165211d3bedacd54d4c71e2</md5>
+    <crc32>ab2319f8</crc32>
+    <sha1>13441d977c2cdb681840fb351b92045e7f55d738</sha1>
+  </file>
+  <file name="Shawn Lee - 03 - Punishment.mp3" source="original">
+    <mtime>1721588733</mtime>
+    <size>7067527</size>
+    <md5>52d9ab1420252d80eede2dbefa47d68d</md5>
+    <crc32>de8a92aa</crc32>
+    <sha1>5df7926978ff55c9c57e417ed289975b96fdd9d0</sha1>
+    <format>VBR MP3</format>
+    <length>176.41</length>
+    <title>Punishment</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>3/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 03 - Punishment.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 03 - Punishment.mp3</original>
+    <mtime>1721591764</mtime>
+    <size>46141</size>
+    <md5>73c0e5924a57f405dcf42eb2ba32835c</md5>
+    <crc32>dbad39ca</crc32>
+    <sha1>054c0bd51e783e9709c777619fc22503b3db9d50</sha1>
+  </file>
+  <file name="Shawn Lee - 03 - Punishment_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 03 - Punishment.mp3</original>
+    <mtime>1721601975</mtime>
+    <size>310345</size>
+    <md5>5f00635a98d4f7026519c206a9076bc8</md5>
+    <crc32>24d323e2</crc32>
+    <sha1>15be04c48e1025da863da0de4117c85fd029b6c2</sha1>
+  </file>
+  <file name="Shawn Lee - 04 - Help Gary.mp3" source="original">
+    <mtime>1721588777</mtime>
+    <size>4716337</size>
+    <md5>fbab1aa2844a746238181a94b53389de</md5>
+    <crc32>b2f5d52c</crc32>
+    <sha1>428fcbfae029f5f0aa795959b0a64c170855c65f</sha1>
+    <format>VBR MP3</format>
+    <length>117.53</length>
+    <title>Help Gary</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>4/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 04 - Help Gary.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 04 - Help Gary.mp3</original>
+    <mtime>1721590737</mtime>
+    <size>34641</size>
+    <md5>b0324ebc47e0d1b704ab89d7e3fdffc9</md5>
+    <crc32>1fd75668</crc32>
+    <sha1>b789c002fe33f4bbec4bab5a48fe29cd72754f71</sha1>
+  </file>
+  <file name="Shawn Lee - 04 - Help Gary_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 04 - Help Gary.mp3</original>
+    <mtime>1721602426</mtime>
+    <size>328093</size>
+    <md5>3e1b92b055a062a0b0b1014136729780</md5>
+    <crc32>95af007d</crc32>
+    <sha1>ea3c8710bed26204dbbf70c09a19c07677eea575</sha1>
+  </file>
+  <file name="Shawn Lee - 05 - Comic Klepto.mp3" source="original">
+    <mtime>1721588840</mtime>
+    <size>6584097</size>
+    <md5>c8d7c97e43a17327e1c5fbfd5dd81564</md5>
+    <crc32>f2390c3d</crc32>
+    <sha1>53f305156e20b3fb110cf2a36b13a3e5b9f3a12e</sha1>
+    <format>VBR MP3</format>
+    <length>165.85</length>
+    <title>Comic Klepto</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>5/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 05 - Comic Klepto.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 05 - Comic Klepto.mp3</original>
+    <mtime>1721592493</mtime>
+    <size>46170</size>
+    <md5>d966a047c1500d2ed1bef6180f985158</md5>
+    <crc32>672a44a2</crc32>
+    <sha1>cb153eacaa5e1155a0468e12046afa821c2ca371</sha1>
+  </file>
+  <file name="Shawn Lee - 05 - Comic Klepto_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 05 - Comic Klepto.mp3</original>
+    <mtime>1721600344</mtime>
+    <size>313430</size>
+    <md5>40650f0ad504691f9b9cf3a214b4c4a7</md5>
+    <crc32>0eeb3beb</crc32>
+    <sha1>8d8873e0c9c06988ff9b12c35b04f9442588e3d7</sha1>
+  </file>
+  <file name="Shawn Lee - 06 - Beach Rumble.mp3" source="original">
+    <mtime>1721588888</mtime>
+    <size>4720913</size>
+    <md5>310085fbf26730218801a38793e0cbc0</md5>
+    <crc32>e5423d7a</crc32>
+    <sha1>9e45b4c4bcdae38e0fa071939165fa95c9ce18f6</sha1>
+    <format>VBR MP3</format>
+    <length>118.1</length>
+    <title>Beach Rumble</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>6/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 06 - Beach Rumble.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 06 - Beach Rumble.mp3</original>
+    <mtime>1721593287</mtime>
+    <size>42421</size>
+    <md5>77defe56d39024ff5a317cfc1876261a</md5>
+    <crc32>8831387d</crc32>
+    <sha1>4acee0a0f5da1c717163370845755d99d92cc4bd</sha1>
+  </file>
+  <file name="Shawn Lee - 06 - Beach Rumble_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 06 - Beach Rumble.mp3</original>
+    <mtime>1721598238</mtime>
+    <size>317636</size>
+    <md5>b0bf7ac2aa891cde54e4c9a3bc2b1607</md5>
+    <crc32>8cb5ce27</crc32>
+    <sha1>715230299eb56f194fbb2c2c6245c66760af25ad</sha1>
+  </file>
+  <file name="Shawn Lee - 07 - Chase Adult.mp3" source="original">
+    <mtime>1721588914</mtime>
+    <size>2494820</size>
+    <md5>9d2340d2a11bf066abb8647d42d5b4b7</md5>
+    <crc32>cf0b0bf5</crc32>
+    <sha1>2c288a58bdf5b95ff4de7beafeffc83d75d216ce</sha1>
+    <format>VBR MP3</format>
+    <length>61.68</length>
+    <title>Chase Adult</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>7/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 07 - Chase Adult.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 07 - Chase Adult.mp3</original>
+    <mtime>1721592311</mtime>
+    <size>42146</size>
+    <md5>3ac21e62b153a7b7b8f89e3d328c3c50</md5>
+    <crc32>2b19caa0</crc32>
+    <sha1>afa0ab75cdc7d0a2fd7a99c7143b536be7d135f7</sha1>
+  </file>
+  <file name="Shawn Lee - 07 - Chase Adult_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 07 - Chase Adult.mp3</original>
+    <mtime>1721598560</mtime>
+    <size>324521</size>
+    <md5>2d2a2aadb6a1bf46f3e15c0794b03481</md5>
+    <crc32>66453421</crc32>
+    <sha1>986c846b31cdded9129de951f34a235af7665c7e</sha1>
+  </file>
+  <file name="Shawn Lee - 08 - Chase Prefects.mp3" source="original">
+    <mtime>1721588960</mtime>
+    <size>4404709</size>
+    <md5>70826e1ca7a69f98ff027e8ceca28fee</md5>
+    <crc32>1e103b62</crc32>
+    <sha1>7c462a3f8ac5ea339d0914b5fde99c941993834e</sha1>
+    <format>VBR MP3</format>
+    <length>109.58</length>
+    <title>Chase Prefects</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>8/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 08 - Chase Prefects.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 08 - Chase Prefects.mp3</original>
+    <mtime>1721592801</mtime>
+    <size>40748</size>
+    <md5>cd62f1674d0ef39269d2020d24723df9</md5>
+    <crc32>ba7e8e2c</crc32>
+    <sha1>72175eb7a49898e91ca5343f2de44cf9c6270016</sha1>
+  </file>
+  <file name="Shawn Lee - 08 - Chase Prefects_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 08 - Chase Prefects.mp3</original>
+    <mtime>1721599113</mtime>
+    <size>325567</size>
+    <md5>653068c86ff6d6ff73fe1a71428d5236</md5>
+    <crc32>0eeb6d4a</crc32>
+    <sha1>efd32065fdac3fcb9d10fb088c8e6f0183b9928f</sha1>
+  </file>
+  <file name="Shawn Lee - 09 - Sneaking On A Date.mp3" source="original">
+    <mtime>1721589013</mtime>
+    <size>5187053</size>
+    <md5>dd3a07feaabff7a273970163815978cf</md5>
+    <crc32>361fa2bf</crc32>
+    <sha1>52411da74978145a70db6d5f5c49c90ee91b3b93</sha1>
+    <format>VBR MP3</format>
+    <length>129.93</length>
+    <title>Sneaking On A Date</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>9/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 09 - Sneaking On A Date.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 09 - Sneaking On A Date.mp3</original>
+    <mtime>1721597357</mtime>
+    <size>40632</size>
+    <md5>b473685652c4b708683f307006b67f38</md5>
+    <crc32>6162154c</crc32>
+    <sha1>89544eee247651be3423b16b0cba125904acf347</sha1>
+  </file>
+  <file name="Shawn Lee - 09 - Sneaking On A Date_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 09 - Sneaking On A Date.mp3</original>
+    <mtime>1721602089</mtime>
+    <size>340150</size>
+    <md5>52acc6e8baa83b6d2e95dcc6762876d1</md5>
+    <crc32>d03f2e07</crc32>
+    <sha1>b1f582c2cf88863f2b7d366685216e9e79ed2795</sha1>
+  </file>
+  <file name="Shawn Lee - 10 - Defender Of The Castle.mp3" source="original">
+    <mtime>1721589065</mtime>
+    <size>5186253</size>
+    <md5>52d2bbf38487626d29f04864834bbfe0</md5>
+    <crc32>45d2d567</crc32>
+    <sha1>8eaf72b159eba9aa832dd2b04188faae9dcea617</sha1>
+    <format>VBR MP3</format>
+    <length>128.99</length>
+    <title>Defender Of The Castle</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>10/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 10 - Defender Of The Castle.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 10 - Defender Of The Castle.mp3</original>
+    <mtime>1721593570</mtime>
+    <size>42816</size>
+    <md5>8391b10da7ff8effde5644516a605544</md5>
+    <crc32>498ecf53</crc32>
+    <sha1>22259eb6b0b27dee177955bdf5562eb9c5495a67</sha1>
+  </file>
+  <file name="Shawn Lee - 10 - Defender Of The Castle_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 10 - Defender Of The Castle.mp3</original>
+    <mtime>1721599324</mtime>
+    <size>329116</size>
+    <md5>bc903d7a06d1848d1aa16695be47e403</md5>
+    <crc32>1514f957</crc32>
+    <sha1>51772cfd894f9350fe00c2d411ccc64c15724db1</sha1>
+  </file>
+  <file name="Shawn Lee - 11 - Vendetta Nerds.mp3" source="original">
+    <mtime>1721589125</mtime>
+    <size>5954330</size>
+    <md5>18928cf867c7b17e53f5da11ac894afa</md5>
+    <crc32>5ff0d57e</crc32>
+    <sha1>63f6f631fa1bba558234ef8f1c48bdf2a8ff9430</sha1>
+    <format>VBR MP3</format>
+    <length>153.65</length>
+    <title>Vendetta Nerds</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>11/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 11 - Vendetta Nerds.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 11 - Vendetta Nerds.mp3</original>
+    <mtime>1721596949</mtime>
+    <size>45827</size>
+    <md5>2205215b45b8ced9b91beff515f9bdd4</md5>
+    <crc32>12def61b</crc32>
+    <sha1>c08e1e726b28337ca1db5ce3325ad23a538ecb7b</sha1>
+  </file>
+  <file name="Shawn Lee - 11 - Vendetta Nerds_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 11 - Vendetta Nerds.mp3</original>
+    <mtime>1721599239</mtime>
+    <size>316109</size>
+    <md5>29d7dbe8f91bf9517c6476ebba280f32</md5>
+    <crc32>3c2c07c2</crc32>
+    <sha1>e0a2eeb564d0712c22928857ac5c2517aa379a3d</sha1>
+  </file>
+  <file name="Shawn Lee - 12 - Vendetta Greasers.mp3" source="original">
+    <mtime>1721589171</mtime>
+    <size>3755675</size>
+    <md5>e28454dd93ee8f13a0fd58176a0f24a8</md5>
+    <crc32>eb9ca67b</crc32>
+    <sha1>16ead8a4e4eabcfd4ff74f53171af77c140f02bf</sha1>
+    <format>VBR MP3</format>
+    <length>95.74</length>
+    <title>Vendetta Greasers</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>12/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 12 - Vendetta Greasers.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 12 - Vendetta Greasers.mp3</original>
+    <mtime>1721595830</mtime>
+    <size>44918</size>
+    <md5>8ed90e569562c3b3b9b9c286bd345141</md5>
+    <crc32>a9a55d39</crc32>
+    <sha1>ccda119c2cf1ee8a03b458ce03af3cb6d50832db</sha1>
+  </file>
+  <file name="Shawn Lee - 12 - Vendetta Greasers_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 12 - Vendetta Greasers.mp3</original>
+    <mtime>1721598984</mtime>
+    <size>323972</size>
+    <md5>5b7fe028dada325b61f2751a3cbb7d4c</md5>
+    <crc32>f70c88bb</crc32>
+    <sha1>9a61ddc28610143979ab1ac91d03a7412626e573</sha1>
+  </file>
+  <file name="Shawn Lee - 13 - Vendetta Preps.mp3" source="original">
+    <mtime>1721589230</mtime>
+    <size>5432632</size>
+    <md5>f6540c1f803bde50f40200a600015913</md5>
+    <crc32>f664822c</crc32>
+    <sha1>b4a21e07375206fd820d4d29bc97d14fbafc646f</sha1>
+    <format>VBR MP3</format>
+    <length>135.26</length>
+    <title>Vendetta Preps</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>13/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 13 - Vendetta Preps.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 13 - Vendetta Preps.mp3</original>
+    <mtime>1721593436</mtime>
+    <size>44889</size>
+    <md5>e959944597f148cbe217710f2105e6f1</md5>
+    <crc32>876cb4df</crc32>
+    <sha1>c44b9b8063789e700281e001d00a75311d2ccfb0</sha1>
+  </file>
+  <file name="Shawn Lee - 13 - Vendetta Preps_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 13 - Vendetta Preps.mp3</original>
+    <mtime>1721598683</mtime>
+    <size>326442</size>
+    <md5>36b12b1b247b217720e897d1899c393d</md5>
+    <crc32>eebb2d18</crc32>
+    <sha1>e94f57baad30ffb16d7b58fba359deefb5854f1c</sha1>
+  </file>
+  <file name="Shawn Lee - 14 - Cheating Time.mp3" source="original">
+    <mtime>1721589292</mtime>
+    <size>5897202</size>
+    <md5>39f5621031ba43174368464b1b2ccafd</md5>
+    <crc32>25d118cf</crc32>
+    <sha1>e8dbe2fa5f6795518917cd6528b1c0580f737d14</sha1>
+    <format>VBR MP3</format>
+    <length>147.17</length>
+    <title>Cheating Time</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>14/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 14 - Cheating Time.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 14 - Cheating Time.mp3</original>
+    <mtime>1721596098</mtime>
+    <size>41531</size>
+    <md5>b7733e69c0f4b7256ea6545dff05bbed</md5>
+    <crc32>33ea8530</crc32>
+    <sha1>ec9feec31f7aaacadd2b1308dd0d5b30e7b70d24</sha1>
+  </file>
+  <file name="Shawn Lee - 14 - Cheating Time_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 14 - Cheating Time.mp3</original>
+    <mtime>1721598775</mtime>
+    <size>333935</size>
+    <md5>3bc2a3beeb0c5b515926be5143f03c82</md5>
+    <crc32>053387b5</crc32>
+    <sha1>797a3a714035aa9e72661b383d0afc9541492c8e</sha1>
+  </file>
+  <file name="Shawn Lee - 15 - Defend Bucky.mp3" source="original">
+    <mtime>1721589341</mtime>
+    <size>4936633</size>
+    <md5>599c51bc027bdfc9e958907135a36b20</md5>
+    <crc32>8ddd272f</crc32>
+    <sha1>0947b7d08449058bde657d3eb5dc4ea8fe8320d3</sha1>
+    <format>VBR MP3</format>
+    <length>122.72</length>
+    <title>Defend Bucky</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>15/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 15 - Defend Bucky.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 15 - Defend Bucky.mp3</original>
+    <mtime>1721596818</mtime>
+    <size>45182</size>
+    <md5>0ad8c6b39be2195e5075d5438aab6164</md5>
+    <crc32>0e968b27</crc32>
+    <sha1>30273c3b1154ffc5cfcd11f4d7dc473ae5c94ab7</sha1>
+  </file>
+  <file name="Shawn Lee - 15 - Defend Bucky_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 15 - Defend Bucky.mp3</original>
+    <mtime>1721598432</mtime>
+    <size>320103</size>
+    <md5>e824413cc0576b095dc8dfad11cf9909</md5>
+    <crc32>9597e244</crc32>
+    <sha1>8e806b3f5615e66e91d2a44f577d6966f36f5413</sha1>
+  </file>
+  <file name="Shawn Lee - 16 - Chase Police.mp3" source="original">
+    <mtime>1721589376</mtime>
+    <size>3295361</size>
+    <md5>053fee8888b652dab4600c4ddcff7f70</md5>
+    <crc32>ca7389dd</crc32>
+    <sha1>5f4f9c0bc2edbbccb3a33588016c8fb43b4c8a4c</sha1>
+    <format>VBR MP3</format>
+    <length>81.63</length>
+    <title>Chase Police</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>16/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 16 - Chase Police.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 16 - Chase Police.mp3</original>
+    <mtime>1721594154</mtime>
+    <size>37900</size>
+    <md5>1fa673fcbab4aebfe8d29e419593f255</md5>
+    <crc32>f548d0b6</crc32>
+    <sha1>fed6727e89be161969ddb6b6b39b339d13221921</sha1>
+  </file>
+  <file name="Shawn Lee - 16 - Chase Police_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 16 - Chase Police.mp3</original>
+    <mtime>1721598326</mtime>
+    <size>332683</size>
+    <md5>df9d7e9c1b7ff458c07577752358fe08</md5>
+    <crc32>3d7682dd</crc32>
+    <sha1>3762362c6562da3d3d2894b8ea2329d8a1c4b1da</sha1>
+  </file>
+  <file name="Shawn Lee - 17 - Hattrick vs. Galloway.mp3" source="original">
+    <mtime>1721589459</mtime>
+    <size>8066544</size>
+    <md5>e817f113ffc74426bbdb724c1a36ea3b</md5>
+    <crc32>00eaa69f</crc32>
+    <sha1>9d39168cc2860a06ba2951d39fbaf83f5a25ddac</sha1>
+    <format>VBR MP3</format>
+    <length>201.06</length>
+    <title>Hattrick vs. Galloway</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>17/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 17 - Hattrick vs. Galloway.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 17 - Hattrick vs. Galloway.mp3</original>
+    <mtime>1721597058</mtime>
+    <size>40144</size>
+    <md5>c8e400f54c2aafd62f506a4a425f2a36</md5>
+    <crc32>daa78f83</crc32>
+    <sha1>8ea4f4ec8309c3b7a44a1c042120689aee336dbd</sha1>
+  </file>
+  <file name="Shawn Lee - 17 - Hattrick vs. Galloway_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 17 - Hattrick vs. Galloway.mp3</original>
+    <mtime>1721599443</mtime>
+    <size>333729</size>
+    <md5>d3162cc03f33a38ce9817a9b60c676b9</md5>
+    <crc32>081c1a6d</crc32>
+    <sha1>8fbcef1289592e2d5b689d66282f2fab5438c3be</sha1>
+  </file>
+  <file name="Shawn Lee - 18 - Shop Class.mp3" source="original">
+    <mtime>1721589552</mtime>
+    <size>9051972</size>
+    <md5>ba5977e530de352576cd5f30f0d3648e</md5>
+    <crc32>dc388427</crc32>
+    <sha1>f5f893eb323f47942b17a301ce05d2320b0d8b30</sha1>
+    <format>VBR MP3</format>
+    <length>225.83</length>
+    <title>Shop Class</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>18/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 18 - Shop Class.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 18 - Shop Class.mp3</original>
+    <mtime>1721590506</mtime>
+    <size>43633</size>
+    <md5>bed7616aa485f8647e038730136606b4</md5>
+    <crc32>49b64850</crc32>
+    <sha1>e9de871f68cbbdd7e8044eeb2099247619695c83</sha1>
+  </file>
+  <file name="Shawn Lee - 18 - Shop Class_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 18 - Shop Class.mp3</original>
+    <mtime>1721601286</mtime>
+    <size>323217</size>
+    <md5>0339e245bc219beb5bcc8d618fd6dddd</md5>
+    <crc32>43b0849a</crc32>
+    <sha1>2ad16c1d37282c9345b040e0763817a6aae8e7a5</sha1>
+  </file>
+  <file name="Shawn Lee - 19 - Russell In The Hole.mp3" source="original">
+    <mtime>1721589610</mtime>
+    <size>5405117</size>
+    <md5>9a3809a32815abd275353f9f02a6da90</md5>
+    <crc32>1d23392d</crc32>
+    <sha1>f00a550b3c3402849979b9757f5d468140838ec6</sha1>
+    <format>VBR MP3</format>
+    <length>138.89</length>
+    <title>Russell In The Hole</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>19/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 19 - Russell In The Hole.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 19 - Russell In The Hole.mp3</original>
+    <mtime>1721598105</mtime>
+    <size>42656</size>
+    <md5>45fcf3f34e4798b0da619b2cf7ab5525</md5>
+    <crc32>96ae95a9</crc32>
+    <sha1>8e83adf9595f9f9f7a57f7cab0c8da04e48315fb</sha1>
+  </file>
+  <file name="Shawn Lee - 19 - Russell In The Hole_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 19 - Russell In The Hole.mp3</original>
+    <mtime>1721600998</mtime>
+    <size>305828</size>
+    <md5>3de682b184d6e3100669a4c1e448f2bf</md5>
+    <crc32>a0104646</crc32>
+    <sha1>759bcfad39555b280e9f5bdb2ab00a31c91c8956</sha1>
+  </file>
+  <file name="Shawn Lee - 20 - Vendetta Jocks.mp3" source="original">
+    <mtime>1721589664</mtime>
+    <size>5198128</size>
+    <md5>354cedb5aa4c439294aafd31216e720d</md5>
+    <crc32>3ab6de30</crc32>
+    <sha1>1c915e3136e6d5d0578282d47ef6390bb2775afc</sha1>
+    <format>VBR MP3</format>
+    <length>129.99</length>
+    <title>Vendetta Jocks</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>20/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 20 - Vendetta Jocks.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 20 - Vendetta Jocks.mp3</original>
+    <mtime>1721597865</mtime>
+    <size>45890</size>
+    <md5>2e0f877c216fb1399ed2b17c4b97c80d</md5>
+    <crc32>a64162ab</crc32>
+    <sha1>0a9fa5f5b321f856aa8981a8c01c931a0445215f</sha1>
+  </file>
+  <file name="Shawn Lee - 20 - Vendetta Jocks_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 20 - Vendetta Jocks.mp3</original>
+    <mtime>1721601428</mtime>
+    <size>316453</size>
+    <md5>4fbf55a369def755ab3a7a56e654f78a</md5>
+    <crc32>13da0937</crc32>
+    <sha1>5baea766f88f3c6e5402acbc8bf6e07469d111b6</sha1>
+  </file>
+  <file name="Shawn Lee - 21 - Fighting Johnny Vincent.mp3" source="original">
+    <mtime>1721589736</mtime>
+    <size>7326872</size>
+    <md5>fc45aa5016781f989a0e86f156e702a8</md5>
+    <crc32>0e1a0914</crc32>
+    <sha1>ecf920a6e38f8f011be0e9f1731b1568e8f30d5e</sha1>
+    <format>VBR MP3</format>
+    <length>182.52</length>
+    <title>Fighting Johnny Vincent</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>21/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 21 - Fighting Johnny Vincent.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 21 - Fighting Johnny Vincent.mp3</original>
+    <mtime>1721597984</mtime>
+    <size>38950</size>
+    <md5>dfd9d89bae0fd283a5fbed95c4cdad99</md5>
+    <crc32>803eee11</crc32>
+    <sha1>954b07c8acfe3ac8549f41ba23348fed8f083767</sha1>
+  </file>
+  <file name="Shawn Lee - 21 - Fighting Johnny Vincent_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 21 - Fighting Johnny Vincent.mp3</original>
+    <mtime>1721602362</mtime>
+    <size>293590</size>
+    <md5>844a054b42b18a6c2e240831033907fd</md5>
+    <crc32>daf5abe8</crc32>
+    <sha1>7172e96f5f38a9d971be1d4d6559ba903db8bf2b</sha1>
+  </file>
+  <file name="Shawn Lee - 22 - Vendetta Dropouts.mp3" source="original">
+    <mtime>1721589797</mtime>
+    <size>5918308</size>
+    <md5>524147f160014fe365b8194c27a559e9</md5>
+    <crc32>3fe29950</crc32>
+    <sha1>d9cc4e3d28d9eeffad01238b64093f8d4374ff3c</sha1>
+    <format>VBR MP3</format>
+    <length>147.25</length>
+    <title>Vendetta Dropouts</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>22/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 22 - Vendetta Dropouts.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 22 - Vendetta Dropouts.mp3</original>
+    <mtime>1721597148</mtime>
+    <size>41511</size>
+    <md5>81c1ec55ae43531ec3e0b072ac1c35cc</md5>
+    <crc32>a3e9251d</crc32>
+    <sha1>c7c54fd1f8da107c0ecd247f2fc28122250a3de0</sha1>
+  </file>
+  <file name="Shawn Lee - 22 - Vendetta Dropouts_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 22 - Vendetta Dropouts.mp3</original>
+    <mtime>1721602259</mtime>
+    <size>315348</size>
+    <md5>343a874dd0da4090edb57469d2354aa4</md5>
+    <crc32>aa6081ab</crc32>
+    <sha1>f07f339b6d0817f68ba7e6d9d0ac340426ed7475</sha1>
+  </file>
+  <file name="Shawn Lee - 23 - Final Showdown.mp3" source="original">
+    <mtime>1721589854</mtime>
+    <size>5451104</size>
+    <md5>857aa7584e870f81df47af57362fa854</md5>
+    <crc32>fc941ba8</crc32>
+    <sha1>d350f0c1c1e572905a3894c85a1242519864bf7f</sha1>
+    <format>VBR MP3</format>
+    <length>135.97</length>
+    <title>Final Showdown</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>23/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 23 - Final Showdown.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 23 - Final Showdown.mp3</original>
+    <mtime>1721594858</mtime>
+    <size>42270</size>
+    <md5>f464d59bf8beaf057b4e503d70079ba8</md5>
+    <crc32>79f7105c</crc32>
+    <sha1>d1a701591b817f52bc0968e80752700d252d0140</sha1>
+  </file>
+  <file name="Shawn Lee - 23 - Final Showdown_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 23 - Final Showdown.mp3</original>
+    <mtime>1721601911</mtime>
+    <size>316752</size>
+    <md5>90b9331e06bd5459fcdbc9ae74ada266</md5>
+    <crc32>170004c8</crc32>
+    <sha1>7180b48464099b0a219f06b4e87b126f792eb213</sha1>
+  </file>
+  <file name="Shawn Lee - 24 - Carnival Date.mp3" source="original">
+    <mtime>1721589909</mtime>
+    <size>5162533</size>
+    <md5>e953f4ba03b280bc847984e4ae0b0683</md5>
+    <crc32>5bf60614</crc32>
+    <sha1>249b0dfbfc62ec0b64634511219aa023d903a943</sha1>
+    <format>VBR MP3</format>
+    <length>128.94</length>
+    <title>Carnival Date</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>24/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 24 - Carnival Date.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 24 - Carnival Date.mp3</original>
+    <mtime>1721593954</mtime>
+    <size>40850</size>
+    <md5>38c799b986636ebe1ccd4611d70ca1c3</md5>
+    <crc32>b41540d3</crc32>
+    <sha1>357226805eae373ac3ee7b86196eea606f6bd672</sha1>
+  </file>
+  <file name="Shawn Lee - 24 - Carnival Date_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 24 - Carnival Date.mp3</original>
+    <mtime>1721601802</mtime>
+    <size>326391</size>
+    <md5>8c7643891b575dfa444040b0a71b4504</md5>
+    <crc32>5cdf18f4</crc32>
+    <sha1>5b766369e7ad414ed23a1db6c46b823d8f8a2e03</sha1>
+  </file>
+  <file name="Shawn Lee - 25 - School's Out.mp3" source="original">
+    <mtime>1721589975</mtime>
+    <size>6757452</size>
+    <md5>9c8261792cfa6b72a72912937dcdb70a</md5>
+    <crc32>892ed766</crc32>
+    <sha1>3dbdbd90060832151b23ec78c859c96453a5fc54</sha1>
+    <format>VBR MP3</format>
+    <length>168.86</length>
+    <title>School's Out</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>25/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 25 - School's Out.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 25 - School's Out.mp3</original>
+    <mtime>1721590355</mtime>
+    <size>41652</size>
+    <md5>1468bcf13a97c74b1acc20deee3763c5</md5>
+    <crc32>63927845</crc32>
+    <sha1>a2a22a2b6c6022291ac9cd424a63b72c3f079a96</sha1>
+  </file>
+  <file name="Shawn Lee - 25 - School's Out_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 25 - School's Out.mp3</original>
+    <mtime>1721601640</mtime>
+    <size>317420</size>
+    <md5>8dccedb04987896991f5f35610e4d8d3</md5>
+    <crc32>f01421b5</crc32>
+    <sha1>4469f912dea9a5ead5f081db1da6f26366f52b1b</sha1>
+  </file>
+  <file name="Shawn Lee - 26 - Welcome To Bullworth.mp3" source="original">
+    <mtime>1721590026</mtime>
+    <size>5130636</size>
+    <md5>bf71769bb3643d620ca48e37802859d7</md5>
+    <crc32>281f7d82</crc32>
+    <sha1>b7ef30b27e518ee19223ac993963722c915abe0c</sha1>
+    <format>VBR MP3</format>
+    <length>125.86</length>
+    <title>Welcome To Bullworth</title>
+    <creator>Shawn Lee</creator>
+    <album>Bully Original Soundtrack</album>
+    <track>26/26</track>
+    <artist>Shawn Lee</artist>
+    <genre>Rock</genre>
+  </file>
+  <file name="Shawn Lee - 26 - Welcome To Bullworth.png" source="derivative">
+    <format>PNG</format>
+    <original>Shawn Lee - 26 - Welcome To Bullworth.mp3</original>
+    <mtime>1721593810</mtime>
+    <size>31996</size>
+    <md5>cc15f36a8dc892bc47efc88744bfd508</md5>
+    <crc32>b3c9d370</crc32>
+    <sha1>87023ee066d02bbb76edbc2cc261a99e8344fdb4</sha1>
+  </file>
+  <file name="Shawn Lee - 26 - Welcome To Bullworth_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Shawn Lee - 26 - Welcome To Bullworth.mp3</original>
+    <mtime>1721601538</mtime>
+    <size>314528</size>
+    <md5>4f5f83f9b5c3a6eb5b7553eb9f48d36e</md5>
+    <crc32>fc4ede13</crc32>
+    <sha1>f29b0a770c69e8a9662c42e3adca90f951d1e883</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1721588589</mtime>
+    <size>24585</size>
+    <md5>9587a23b274b03f68cd76dcb3818886a</md5>
+    <crc32>b9469278</crc32>
+    <sha1>726a949fbe039a87baa329a8937af1e0120eda00</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="bully-original-soundtrack_archive.torrent" source="metadata">
+    <btih>767eabadd7ab7c0e4a55715062a7277589b42562</btih>
+    <mtime>1722820900</mtime>
+    <size>28319</size>
+    <md5>f0f5eabbf412d9a67ba429c18555fc9d</md5>
+    <crc32>47b8c12a</crc32>
+    <sha1>1725de860eaba16154f95d2c63423a5f44d40ba0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="bully-original-soundtrack_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>df16ef03183eb4d0f3171e26df6e814d</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="bully-original-soundtrack_meta.sqlite" source="original">
+    <mtime>1721590029</mtime>
+    <size>135168</size>
+    <md5>b8bc9c81edf73538a4de952432b6de7d</md5>
+    <crc32>2a35e5eb</crc32>
+    <sha1>9f7d74c006e15e0393978029809e7e0d0409dedf</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="bully-original-soundtrack_meta.xml" source="original">
+    <mtime>1722820898</mtime>
+    <size>2143</size>
+    <md5>e6625c62cd53b4b1897d3247adcdff25</md5>
+    <crc32>f4de0926</crc32>
+    <sha1>9466213f3f38b81149cb04484e55ee777885d328</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
