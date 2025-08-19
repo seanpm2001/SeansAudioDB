@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="00-folder.jpg" source="original">
+    <mtime>1609200009</mtime>
+    <size>104528</size>
+    <md5>b5234d7e97ac926a12863a1f0903e1d9</md5>
+    <crc32>9237ab4c</crc32>
+    <sha1>04a030836214c41fb63331277a26632a67522946</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="00-folder_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>00-folder.jpg</original>
+    <mtime>1609200265</mtime>
+    <size>8325</size>
+    <md5>e9ee8405ace2289d60fee9c08a9fda38</md5>
+    <crc32>bed8cd0d</crc32>
+    <sha1>ae937cd2ebc1e7af52f8796b7a7c11bf259af724</sha1>
+  </file>
+  <file name="01 Nintendo Mark.mp3" source="original">
+    <mtime>1609200036</mtime>
+    <size>73142</size>
+    <md5>978b29b94e8cc357d50aa58985623256</md5>
+    <crc32>3afa1e77</crc32>
+    <sha1>0b132f79bd0b7f45fe508203166ee7a53b729ff4</sha1>
+    <format>VBR MP3</format>
+    <length>4.57</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Nintendo Mark</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>1</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="01 Nintendo Mark.png" source="derivative">
+    <format>PNG</format>
+    <original>01 Nintendo Mark.mp3</original>
+    <mtime>1609200304</mtime>
+    <size>3521</size>
+    <md5>27341e5fe9a6d7b86e0b2d524f62a896</md5>
+    <crc32>051a624c</crc32>
+    <sha1>785efdc370e965b1a94f4e17638346d9bd18bb1a</sha1>
+  </file>
+  <file name="01 Nintendo Mark_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>01 Nintendo Mark.mp3</original>
+    <mtime>1609200475</mtime>
+    <size>92820</size>
+    <md5>96785e6609cbd734c14b1e5f1fd9bf9c</md5>
+    <crc32>9a2ab5da</crc32>
+    <sha1>79df654546f4cfd17d8b70dc071fb02f73b30f71</sha1>
+  </file>
+  <file name="02 Story Organ.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>02 Story Organ.mp3</original>
+    <mtime>1609200619</mtime>
+    <size>23912</size>
+    <md5>89ed681ac3bb7e1ddba6cdaadc4c4929</md5>
+    <crc32>ce450448</crc32>
+    <sha1>1fa459ee0e2a7398e848c4ab08b0bd50dc91b0d8</sha1>
+  </file>
+  <file name="02 Story Organ.mp3" source="original">
+    <mtime>1609200047</mtime>
+    <size>2612662</size>
+    <md5>7b6c93086a114814ee9db0bd824bb509</md5>
+    <crc32>823000a3</crc32>
+    <sha1>2c8d3a590b80b6d808461b3a0c123a42fcc78fc4</sha1>
+    <format>VBR MP3</format>
+    <length>163.29</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Story Organ</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>2</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="02 Story Organ.png" source="derivative">
+    <format>PNG</format>
+    <original>02 Story Organ.mp3</original>
+    <mtime>1609200312</mtime>
+    <size>36040</size>
+    <md5>73a52f165bbba38612fd4cafbab6043b</md5>
+    <crc32>7b5347c3</crc32>
+    <sha1>7096a19283aa6dd1e2f256abb142a6e33b555c6c</sha1>
+  </file>
+  <file name="02 Story Organ_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>02 Story Organ.mp3</original>
+    <mtime>1609200535</mtime>
+    <size>267195</size>
+    <md5>9aff8418f0403cbaea1d2f97bcb9e510</md5>
+    <crc32>cf7dc103</crc32>
+    <sha1>10282d478f91351fdb779297c5ed4a7a1e267cb3</sha1>
+  </file>
+  <file name="03 Yoshi's Island.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>03 Yoshi's Island.mp3</original>
+    <mtime>1609200633</mtime>
+    <size>27248</size>
+    <md5>08aad12acc21ea17ef6357efc13e990f</md5>
+    <crc32>61486aa9</crc32>
+    <sha1>e4c8fac904266d7b8c8d467b2f8bdced00d2926d</sha1>
+  </file>
+  <file name="03 Yoshi's Island.mp3" source="original">
+    <mtime>1609200057</mtime>
+    <size>2119052</size>
+    <md5>08f176ebf255a209abd62d995ac012fa</md5>
+    <crc32>ae7c39bd</crc32>
+    <sha1>aa42e0e7215517933debee38efc43ca96765b16f</sha1>
+    <format>VBR MP3</format>
+    <length>132.44</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Yoshi's Island</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>3</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="03 Yoshi's Island.png" source="derivative">
+    <format>PNG</format>
+    <original>03 Yoshi's Island.mp3</original>
+    <mtime>1609200320</mtime>
+    <size>32672</size>
+    <md5>4c9568003a08ba94b5099fa913a78a61</md5>
+    <crc32>c702494e</crc32>
+    <sha1>f011e8734f81f75ca27669f6884796d369eb2ae8</sha1>
+  </file>
+  <file name="03 Yoshi's Island_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>03 Yoshi's Island.mp3</original>
+    <mtime>1609200542</mtime>
+    <size>259733</size>
+    <md5>fa60d31dccd8138f7a12379af8982abe</md5>
+    <crc32>f2d496ca</crc32>
+    <sha1>cd41fbe92c0192810d7bb9edb21c105222c96e4d</sha1>
+  </file>
+  <file name="04 Yoshi's Start Demo.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>04 Yoshi's Start Demo.mp3</original>
+    <mtime>1609200639</mtime>
+    <size>17816</size>
+    <md5>a817f9a4d51ce47fc9be2489a7cb88a7</md5>
+    <crc32>c0611845</crc32>
+    <sha1>d0c260d47a55446894d387c051dd2dcb6eb04cd6</sha1>
+  </file>
+  <file name="04 Yoshi's Start Demo.mp3" source="original">
+    <mtime>1609200060</mtime>
+    <size>1000594</size>
+    <md5>c73b036eda9557ae59daffc6b5bafa0c</md5>
+    <crc32>12d45e92</crc32>
+    <sha1>01f7594834cb124080e3fa8e65c22a6291a8335b</sha1>
+    <format>VBR MP3</format>
+    <length>62.54</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Yoshi's Start Demo</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>4</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="04 Yoshi's Start Demo.png" source="derivative">
+    <format>PNG</format>
+    <original>04 Yoshi's Start Demo.mp3</original>
+    <mtime>1609200283</mtime>
+    <size>32846</size>
+    <md5>5408a2abd631e3bb26446f62e81d443e</md5>
+    <crc32>fa17f097</crc32>
+    <sha1>1ad7fcb1677e1511136c7e9534e61e00d9e9585b</sha1>
+  </file>
+  <file name="04 Yoshi's Start Demo_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>04 Yoshi's Start Demo.mp3</original>
+    <mtime>1609200488</mtime>
+    <size>236543</size>
+    <md5>7643ca791719dbe6bc2a3798843a9170</md5>
+    <crc32>c5ccfd96</crc32>
+    <sha1>ec2f114afd7755a991275cf4ee741135b7cad5af</sha1>
+  </file>
+  <file name="05 Training Course.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>05 Training Course.mp3</original>
+    <mtime>1609200718</mtime>
+    <size>11200</size>
+    <md5>fceb79376d1eba22bb6800c63e2de05d</md5>
+    <crc32>e3b98170</crc32>
+    <sha1>0dcfe9a9b17e63e5aa238a6ca51eca7a04388740</sha1>
+  </file>
+  <file name="05 Training Course.mp3" source="original">
+    <mtime>1609200063</mtime>
+    <size>686706</size>
+    <md5>1db2fcf061e8b39a676a9a312a93beaa</md5>
+    <crc32>a098943c</crc32>
+    <sha1>027006352dee7557e8b8175c2b36410875ffdb74</sha1>
+    <format>VBR MP3</format>
+    <length>42.92</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Training Course</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>5</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="05 Training Course.png" source="derivative">
+    <format>PNG</format>
+    <original>05 Training Course.mp3</original>
+    <mtime>1609200335</mtime>
+    <size>32422</size>
+    <md5>0d65058388410f14004c55bef02c0a02</md5>
+    <crc32>bd22febe</crc32>
+    <sha1>4e00f33760b8e63d26300f2a529d3eab892926ce</sha1>
+  </file>
+  <file name="05 Training Course_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>05 Training Course.mp3</original>
+    <mtime>1609200500</mtime>
+    <size>226386</size>
+    <md5>447da225b998c82122bb84b517a46c9c</md5>
+    <crc32>20e30a0a</crc32>
+    <sha1>e24fa2fd7a10093ac07a46c03df0886ca82662c6</sha1>
+  </file>
+  <file name="06 Game Start.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>06 Game Start.mp3</original>
+    <mtime>1609200689</mtime>
+    <size>376</size>
+    <md5>dde701968e071f0f417fe4f6971a9529</md5>
+    <crc32>c5a0ad82</crc32>
+    <sha1>1f1e5ba4be09473472ed8695ef881f697e097f2d</sha1>
+  </file>
+  <file name="06 Game Start.mp3" source="original">
+    <mtime>1609200069</mtime>
+    <size>62275</size>
+    <md5>015198f4dab463844146d5592e954db3</md5>
+    <crc32>8093d2b3</crc32>
+    <sha1>fc46943940f089fbbd1bcb6d52fd7a9e13db088c</sha1>
+    <format>VBR MP3</format>
+    <length>3.89</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Game Start</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>6</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="06 Game Start.png" source="derivative">
+    <format>PNG</format>
+    <original>06 Game Start.mp3</original>
+    <mtime>1609200450</mtime>
+    <size>17018</size>
+    <md5>cd0f9c3fcd7b652d9965aa0c15caf835</md5>
+    <crc32>8d72d709</crc32>
+    <sha1>b066fdedce89997b16003a440ed648c586660f2e</sha1>
+  </file>
+  <file name="06 Game Start_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>06 Game Start.mp3</original>
+    <mtime>1609200513</mtime>
+    <size>132738</size>
+    <md5>21910e85f9ef8c23ae31de2104e68503</md5>
+    <crc32>07bf2d65</crc32>
+    <sha1>199cd30f639e53e8d2b8aece4838359c2a290222</sha1>
+  </file>
+  <file name="07 Flower Garden.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>07 Flower Garden.mp3</original>
+    <mtime>1609200679</mtime>
+    <size>44280</size>
+    <md5>c23ae64c52aa4ebf9f2b542c7d29cb31</md5>
+    <crc32>b07ed709</crc32>
+    <sha1>b4329a6553bd1b07077935e7a79ba6b68f84f875</sha1>
+  </file>
+  <file name="07 Flower Garden.mp3" source="original">
+    <mtime>1609200082</mtime>
+    <size>2779010</size>
+    <md5>982b47e9f6c77b2d26337445770745aa</md5>
+    <crc32>44268ecd</crc32>
+    <sha1>eb71175ca9f97035eb73f2f51f71be74730624a1</sha1>
+    <format>VBR MP3</format>
+    <length>173.69</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Flower Garden</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>7</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="07 Flower Garden.png" source="derivative">
+    <format>PNG</format>
+    <original>07 Flower Garden.mp3</original>
+    <mtime>1609200342</mtime>
+    <size>40140</size>
+    <md5>ff9a7d99a2579d0ac6899be603828401</md5>
+    <crc32>4c0a237b</crc32>
+    <sha1>2c0a3981b7ba89fe05302591985bfc13b85e68a1</sha1>
+  </file>
+  <file name="07 Flower Garden_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>07 Flower Garden.mp3</original>
+    <mtime>1609200523</mtime>
+    <size>250170</size>
+    <md5>2f24d354727333fe58c9565aa9d53f74</md5>
+    <crc32>dcbf1183</crc32>
+    <sha1>39b3723d401fd1beea752667d0b641f0ff62917b</sha1>
+  </file>
+  <file name="08 Goal &amp; Score.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>08 Goal &amp; Score.mp3</original>
+    <mtime>1609200601</mtime>
+    <size>12184</size>
+    <md5>1954331d9edaa9e3e81db663448c700e</md5>
+    <crc32>8cc636dd</crc32>
+    <sha1>384a0c6f2a811350c80eb411ad01ac36788e466b</sha1>
+  </file>
+  <file name="08 Goal &amp; Score.mp3" source="original">
+    <mtime>1609200085</mtime>
+    <size>806661</size>
+    <md5>f4a48985174457913252dd8a2dbf8ea6</md5>
+    <crc32>04c81968</crc32>
+    <sha1>9f73a4cd5afe27361dbd9f018433085b7a417a6d</sha1>
+    <format>VBR MP3</format>
+    <length>50.42</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Goal &amp; Score</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>8</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="08 Goal &amp; Score.png" source="derivative">
+    <format>PNG</format>
+    <original>08 Goal &amp; Score.mp3</original>
+    <mtime>1609200373</mtime>
+    <size>32931</size>
+    <md5>9c8810d9204e5de95e429d571d20dc16</md5>
+    <crc32>20a9a8f0</crc32>
+    <sha1>5bd1c70c1ca637bf2cb0b0d6f963eda6dd468da7</sha1>
+  </file>
+  <file name="08 Goal &amp; Score_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>08 Goal &amp; Score.mp3</original>
+    <mtime>1609200486</mtime>
+    <size>253158</size>
+    <md5>8c24cfdde963037b07e25f884e9116db</md5>
+    <crc32>9795f068</crc32>
+    <sha1>c62254dc14223961e0d3b5aba37b84765fb6ebde</sha1>
+  </file>
+  <file name="09 Underground BGM.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>09 Underground BGM.mp3</original>
+    <mtime>1609200712</mtime>
+    <size>23208</size>
+    <md5>6a79d21433cf4867df60daa7dc4aa79a</md5>
+    <crc32>ec70574a</crc32>
+    <sha1>38d5bf9b4eca9cb182aeeb2fb5c0dadc1cc13ac8</sha1>
+  </file>
+  <file name="09 Underground BGM.mp3" source="original">
+    <mtime>1609200088</mtime>
+    <size>1701511</size>
+    <md5>0a4984342201b6b69703bfc8318aa4b6</md5>
+    <crc32>c6c7430e</crc32>
+    <sha1>773fb8fd60b9087c746f62132d888b38d705394b</sha1>
+    <format>VBR MP3</format>
+    <length>106.34</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Underground BGM</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>9</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="09 Underground BGM.png" source="derivative">
+    <format>PNG</format>
+    <original>09 Underground BGM.mp3</original>
+    <mtime>1609200356</mtime>
+    <size>33145</size>
+    <md5>a468b83f4ee1732405f2331bbc12d2df</md5>
+    <crc32>70c39bab</crc32>
+    <sha1>49d6db19135878b3370e3a06e24f0bfac2311d86</sha1>
+  </file>
+  <file name="09 Underground BGM_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>09 Underground BGM.mp3</original>
+    <mtime>1609200467</mtime>
+    <size>261406</size>
+    <md5>9ee57cf05725fdeab6c795fb4560f6e9</md5>
+    <crc32>2420d53a</crc32>
+    <sha1>e775d0ec6c511a1c9e7851ccde7744124d592779</sha1>
+  </file>
+  <file name="10 Castle &amp; Fortress.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>10 Castle &amp; Fortress.mp3</original>
+    <mtime>1609200646</mtime>
+    <size>29640</size>
+    <md5>b34df7c1024e0efad846bfa498d0b0ff</md5>
+    <crc32>d211694c</crc32>
+    <sha1>9934583f41e3bfbe83184c239d2a1470506d9be9</sha1>
+  </file>
+  <file name="10 Castle &amp; Fortress.mp3" source="original">
+    <mtime>1609200092</mtime>
+    <size>2058866</size>
+    <md5>7a572e85b13d488dba0916ca9563b208</md5>
+    <crc32>45d6c64a</crc32>
+    <sha1>637081e054fe6a1e9a52ef4784ddc293fc4276e6</sha1>
+    <format>VBR MP3</format>
+    <length>128.68</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Castle &amp; Fortress</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>10</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="10 Castle &amp; Fortress.png" source="derivative">
+    <format>PNG</format>
+    <original>10 Castle &amp; Fortress.mp3</original>
+    <mtime>1609200363</mtime>
+    <size>30400</size>
+    <md5>00e6f4b3472e39a653a243f28927b878</md5>
+    <crc32>9fa9f3d4</crc32>
+    <sha1>32a6824fa924f52e77a93ff5e16d5eb44e4774b6</sha1>
+  </file>
+  <file name="10 Castle &amp; Fortress_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>10 Castle &amp; Fortress.mp3</original>
+    <mtime>1609200498</mtime>
+    <size>261509</size>
+    <md5>feecfe7279ae382548d83d84f6ebb2a6</md5>
+    <crc32>bcf584f9</crc32>
+    <sha1>8b5c367c851881914f6fb5f448a640ca73393eb2</sha1>
+  </file>
+  <file name="11 Kamek's Theme.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>11 Kamek's Theme.mp3</original>
+    <mtime>1609200658</mtime>
+    <size>5720</size>
+    <md5>8376e2a280cd66818b08a825f9eebf99</md5>
+    <crc32>882b1f87</crc32>
+    <sha1>c111cb316631ab34911b3104cc78cfcef1c75088</sha1>
+  </file>
+  <file name="11 Kamek's Theme.mp3" source="original">
+    <mtime>1609200095</mtime>
+    <size>514925</size>
+    <md5>51ef5d9b4f79cdd4658ed08713bc03bd</md5>
+    <crc32>55e98d68</crc32>
+    <sha1>549fc54bae760462179534eee5a5e598014cb7a0</sha1>
+    <format>VBR MP3</format>
+    <length>32.18</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Kamek's Theme</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>11</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="11 Kamek's Theme.png" source="derivative">
+    <format>PNG</format>
+    <original>11 Kamek's Theme.mp3</original>
+    <mtime>1609200402</mtime>
+    <size>28315</size>
+    <md5>6100cd546162cde8d137967c77dab369</md5>
+    <crc32>209ec156</crc32>
+    <sha1>bb5e4afa9d96fb680bc6284c4c0a4903a61d581c</sha1>
+  </file>
+  <file name="11 Kamek's Theme_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>11 Kamek's Theme.mp3</original>
+    <mtime>1609200510</mtime>
+    <size>253286</size>
+    <md5>c7f8963a28ecd54c3508c55f0364af4a</md5>
+    <crc32>20aa0b9a</crc32>
+    <sha1>6f3a571c98c1cdd32039f218d427cfb594eeca58</sha1>
+  </file>
+  <file name="12 Mini Boss.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>12 Mini Boss.mp3</original>
+    <mtime>1609200625</mtime>
+    <size>15520</size>
+    <md5>8b70b3ddabbca733dd1095577a5061b5</md5>
+    <crc32>6b9b47ba</crc32>
+    <sha1>80ce51ec5ec4d215db7446c67cf8b98818af6eee</sha1>
+  </file>
+  <file name="12 Mini Boss.mp3" source="original">
+    <mtime>1609200099</mtime>
+    <size>1175301</size>
+    <md5>cb57b900dd18fd335896978c7b3c1a83</md5>
+    <crc32>1fd0bd17</crc32>
+    <sha1>a8a9489a26be7f4a47a454750b320356250e6885</sha1>
+    <format>VBR MP3</format>
+    <length>73.46</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Mini Boss</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>12</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="12 Mini Boss.png" source="derivative">
+    <format>PNG</format>
+    <original>12 Mini Boss.mp3</original>
+    <mtime>1609200408</mtime>
+    <size>38022</size>
+    <md5>d73308c276e62912f07bac63ae1521d1</md5>
+    <crc32>c7bbc84d</crc32>
+    <sha1>97f620e6b30b71cb039712ca32c36bf13f2e32de</sha1>
+  </file>
+  <file name="12 Mini Boss_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>12 Mini Boss.mp3</original>
+    <mtime>1609200544</mtime>
+    <size>257423</size>
+    <md5>113521bd9cf9e15d36ff5b43ba3ca627</md5>
+    <crc32>8bcd0522</crc32>
+    <sha1>9e9430da6030e15cef3e50c546ea91b366695515</sha1>
+  </file>
+  <file name="13 Athletic.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>13 Athletic.mp3</original>
+    <mtime>1609200574</mtime>
+    <size>40368</size>
+    <md5>8b2b9b62ea0f1680351f377e6893e5c0</md5>
+    <crc32>10755030</crc32>
+    <sha1>a463ffb8db2f2901f16a5c450d340e51fb704439</sha1>
+  </file>
+  <file name="13 Athletic.mp3" source="original">
+    <mtime>1609200105</mtime>
+    <size>2097319</size>
+    <md5>6ddcfc36483885899bfb0a1d8130cb3d</md5>
+    <crc32>6dc2c667</crc32>
+    <sha1>2d38f9714941cfe873e8cd77ae3fa798b30c9c51</sha1>
+    <format>VBR MP3</format>
+    <length>131.08</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Athletic</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>13</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="13 Athletic.png" source="derivative">
+    <format>PNG</format>
+    <original>13 Athletic.mp3</original>
+    <mtime>1609200296</mtime>
+    <size>41489</size>
+    <md5>304340a43be6c7ef5019836ea0ac151e</md5>
+    <crc32>8d3d7b90</crc32>
+    <sha1>668f90a631d5829be25934ed692d382811c18f7e</sha1>
+  </file>
+  <file name="13 Athletic_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>13 Athletic.mp3</original>
+    <mtime>1609200470</mtime>
+    <size>247030</size>
+    <md5>0a66e248b11b633318741495fa30544e</md5>
+    <crc32>e3053333</crc32>
+    <sha1>e9554b0dc5e4bc2617d28a508903da333c57b52a</sha1>
+  </file>
+  <file name="14 Overworld.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>14 Overworld.mp3</original>
+    <mtime>1609200581</mtime>
+    <size>22624</size>
+    <md5>778729767d3e9796dcd573ba4f6ea771</md5>
+    <crc32>bea316fe</crc32>
+    <sha1>351552139bbda6e7996bbebb2b08964f30dec9ca</sha1>
+  </file>
+  <file name="14 Overworld.mp3" source="original">
+    <mtime>1609200108</mtime>
+    <size>1464110</size>
+    <md5>c47ec55c525abc8797fd9c76a67b5a5b</md5>
+    <crc32>eef22b04</crc32>
+    <sha1>08d758fa5af47b6a318fc63cd16c12b9087070c3</sha1>
+    <format>VBR MP3</format>
+    <length>91.51</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Overworld</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>14</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="14 Overworld.png" source="derivative">
+    <format>PNG</format>
+    <original>14 Overworld.mp3</original>
+    <mtime>1609200389</mtime>
+    <size>40361</size>
+    <md5>44e1b1e67042e088175f5686ac6aa53f</md5>
+    <crc32>9a0b73bd</crc32>
+    <sha1>d820e91e873a1d8ee48cf6dcf384b631d2f6670e</sha1>
+  </file>
+  <file name="14 Overworld_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>14 Overworld.mp3</original>
+    <mtime>1609200503</mtime>
+    <size>262161</size>
+    <md5>e549c35bdf2fa3178a7b45e6ed70e1f1</md5>
+    <crc32>d80219f2</crc32>
+    <sha1>70d6c498c3278a5e97de9d6ccfb3314114486d32</sha1>
+  </file>
+  <file name="15 Player Down.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>15 Player Down.mp3</original>
+    <mtime>1609200596</mtime>
+    <size>1296</size>
+    <md5>b2793e46422e7dfe849a820f9de6bf67</md5>
+    <crc32>d6301d39</crc32>
+    <sha1>6aca14edbed8aee4a70a74064ac36acdb4f78c00</sha1>
+  </file>
+  <file name="15 Player Down.mp3" source="original">
+    <mtime>1609200112</mtime>
+    <size>89443</size>
+    <md5>0a3209c87f2571dfe224f32e6dbff45a</md5>
+    <crc32>d5b01870</crc32>
+    <sha1>d55ebc17d743d96484af6cb86b2a7d58ccca58b7</sha1>
+    <format>VBR MP3</format>
+    <length>5.59</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Player Down</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>15</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="15 Player Down.png" source="derivative">
+    <format>PNG</format>
+    <original>15 Player Down.mp3</original>
+    <mtime>1609200416</mtime>
+    <size>23537</size>
+    <md5>0f7a8f03fc3205618b45325f8cc8f494</md5>
+    <crc32>fe931939</crc32>
+    <sha1>da78bcfbfe09616ade756deed6cea7af8001e577</sha1>
+  </file>
+  <file name="15 Player Down_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>15 Player Down.mp3</original>
+    <mtime>1609200525</mtime>
+    <size>218920</size>
+    <md5>bf66b8c13705b0515e75a620e471e9b8</md5>
+    <crc32>8f6ae582</crc32>
+    <sha1>298dc7ef63630ff1404f805ae7f4dfbdf371af33</sha1>
+  </file>
+  <file name="16 Game Over.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>16 Game Over.mp3</original>
+    <mtime>1609200700</mtime>
+    <size>1368</size>
+    <md5>8ee8d572f97a9b33e49077eaeb4d6c1c</md5>
+    <crc32>60e4fffe</crc32>
+    <sha1>e769246533f3c980ccb0f91f1a31283da5c6c8e9</sha1>
+  </file>
+  <file name="16 Game Over.mp3" source="original">
+    <mtime>1609200117</mtime>
+    <size>160496</size>
+    <md5>6fcd09a94978c6946249ffce83222a21</md5>
+    <crc32>b623d5fd</crc32>
+    <sha1>7c4ace03bca490923e0ab3f957154cbec47e8bad</sha1>
+    <format>VBR MP3</format>
+    <length>10.03</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Game Over</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>16</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="16 Game Over.png" source="derivative">
+    <format>PNG</format>
+    <original>16 Game Over.mp3</original>
+    <mtime>1609200423</mtime>
+    <size>26375</size>
+    <md5>762a6d9cfde1f5a4247c0db9675098b4</md5>
+    <crc32>23d3f879</crc32>
+    <sha1>320eb0a95b0ff7e4b2fefbbdb35dea0e9971cf9e</sha1>
+  </file>
+  <file name="16 Game Over_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>16 Game Over.mp3</original>
+    <mtime>1609200491</mtime>
+    <size>202768</size>
+    <md5>5fd83be29d6d3a9df47f6fba60b6d01a</md5>
+    <crc32>b005a5e1</crc32>
+    <sha1>0018b6d3c7e671debdb8c4dd21f772763876a648</sha1>
+  </file>
+  <file name="17 Room Before Boss.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>17 Room Before Boss.mp3</original>
+    <mtime>1609200696</mtime>
+    <size>9264</size>
+    <md5>09061f824c4d97a7c41952c776f56809</md5>
+    <crc32>4694281a</crc32>
+    <sha1>6d6cf8a3bac35e5e4185e4ffa237d927d645ff45</sha1>
+  </file>
+  <file name="17 Room Before Boss.mp3" source="original">
+    <mtime>1609200121</mtime>
+    <size>940408</size>
+    <md5>b6cdb1fe3f3e666a827424c3ad28510a</md5>
+    <crc32>938091bb</crc32>
+    <sha1>981bfa8735786e5ee32c65d977e65ce8e25fd917</sha1>
+    <format>VBR MP3</format>
+    <length>58.78</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Room Before Boss</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>17</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="17 Room Before Boss.png" source="derivative">
+    <format>PNG</format>
+    <original>17 Room Before Boss.mp3</original>
+    <mtime>1609200429</mtime>
+    <size>30559</size>
+    <md5>4fe7650fdd986080e06e5471f7610f62</md5>
+    <crc32>1babdfbd</crc32>
+    <sha1>b8e191c281a54d43589b2050b0eb5fd21e02d154</sha1>
+  </file>
+  <file name="17 Room Before Boss_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>17 Room Before Boss.mp3</original>
+    <mtime>1609200519</mtime>
+    <size>233389</size>
+    <md5>81028c3747a07d1e4c6a498bd913b760</md5>
+    <crc32>00caa3f6</crc32>
+    <sha1>85022d231c9a1eaa7bc2881a9ea8be5ab2c42d81</sha1>
+  </file>
+  <file name="18 Big Boss BGM.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>18 Big Boss BGM.mp3</original>
+    <mtime>1609200665</mtime>
+    <size>31912</size>
+    <md5>e8e394c410142079362da3999d84e73b</md5>
+    <crc32>a490b07a</crc32>
+    <sha1>47683186b2bdeb95746a70d82883281c8a70e362</sha1>
+  </file>
+  <file name="18 Big Boss BGM.mp3" source="original">
+    <mtime>1609200132</mtime>
+    <size>1930971</size>
+    <md5>4816c7cdeffeac94b3d14127469864de</md5>
+    <crc32>aa1911ea</crc32>
+    <sha1>d4f9f626c15404fbcfde63e5ceb580bb2031da85</sha1>
+    <format>VBR MP3</format>
+    <length>120.69</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Big Boss BGM</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>18</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="18 Big Boss BGM.png" source="derivative">
+    <format>PNG</format>
+    <original>18 Big Boss BGM.mp3</original>
+    <mtime>1609200436</mtime>
+    <size>41519</size>
+    <md5>72d6472b1997306bcd2a034d186ec7ab</md5>
+    <crc32>29c14317</crc32>
+    <sha1>bad3f494385890d48e45cc13113bb452fef161c6</sha1>
+  </file>
+  <file name="18 Big Boss BGM_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>18 Big Boss BGM.mp3</original>
+    <mtime>1609200516</mtime>
+    <size>240765</size>
+    <md5>f871dd516e73af073bc556019695d3b2</md5>
+    <crc32>b3fab690</crc32>
+    <sha1>a813331158491c3f12570a3818b9ff23933b5fc0</sha1>
+  </file>
+  <file name="19 Big Boss Clear.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>19 Big Boss Clear.mp3</original>
+    <mtime>1609200670</mtime>
+    <size>2096</size>
+    <md5>c9416e5a61379261926a1aea38647c60</md5>
+    <crc32>4358be95</crc32>
+    <sha1>058fcfe665f116261f8bf08f18ee8bec6a22770b</sha1>
+  </file>
+  <file name="19 Big Boss Clear.mp3" source="original">
+    <mtime>1609200136</mtime>
+    <size>146703</size>
+    <md5>f55ad98dcf47a03463939e580ebe44b0</md5>
+    <crc32>4f4c9df8</crc32>
+    <sha1>dcfb6eea0efd157df3d63347882faa9f3b2b915f</sha1>
+    <format>VBR MP3</format>
+    <length>9.17</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Big Boss Clear</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>19</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="19 Big Boss Clear.png" source="derivative">
+    <format>PNG</format>
+    <original>19 Big Boss Clear.mp3</original>
+    <mtime>1609200443</mtime>
+    <size>27581</size>
+    <md5>a0ddc9467d4186e4af9bda790b0c5fe2</md5>
+    <crc32>2ea742d8</crc32>
+    <sha1>ecb2498b3b05189740169c4d48c84f2173fccd9a</sha1>
+  </file>
+  <file name="19 Big Boss Clear_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>19 Big Boss Clear.mp3</original>
+    <mtime>1609200505</mtime>
+    <size>206920</size>
+    <md5>c88ab63142b965e049954ad831131ec2</md5>
+    <crc32>41aad353</crc32>
+    <sha1>ce9a52bd51580308ca36eb2bf766a399ae55e0b8</sha1>
+  </file>
+  <file name="20 Map BGM.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>20 Map BGM.mp3</original>
+    <mtime>1609200609</mtime>
+    <size>31664</size>
+    <md5>6b155a39175e24da93b1ab8ad092c61f</md5>
+    <crc32>21117aab</crc32>
+    <sha1>d18b4861a9f1c4101e05809d74c658b934a48dd1</sha1>
+  </file>
+  <file name="20 Map BGM.mp3" source="original">
+    <mtime>1609200147</mtime>
+    <size>2149146</size>
+    <md5>ea28a2d559040b717db08832babd46f7</md5>
+    <crc32>805362f2</crc32>
+    <sha1>e871811a949c26d4ef05aad2713098d4d4a7df49</sha1>
+    <format>VBR MP3</format>
+    <length>134.32</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Map BGM</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>20</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="20 Map BGM.png" source="derivative">
+    <format>PNG</format>
+    <original>20 Map BGM.mp3</original>
+    <mtime>1609200457</mtime>
+    <size>37897</size>
+    <md5>d2a211bd0c16ceea419efa82a6a09d50</md5>
+    <crc32>e46a87c1</crc32>
+    <sha1>f2813fd448dff06bc07d83cc5b5339fec6d96a21</sha1>
+  </file>
+  <file name="20 Map BGM_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>20 Map BGM.mp3</original>
+    <mtime>1609200494</mtime>
+    <size>273382</size>
+    <md5>85bf8a283a0d2d4af908353917e715e1</md5>
+    <crc32>8362c914</crc32>
+    <sha1>7a0b6244df664ea4e1eadd7446b3a759e03dc2bf</sha1>
+  </file>
+  <file name="21 Bonus Game.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>21 Bonus Game.mp3</original>
+    <mtime>1609200653</mtime>
+    <size>14224</size>
+    <md5>2ebfa19645e519704d24314629c09ca4</md5>
+    <crc32>43ab12ab</crc32>
+    <sha1>0e27cfb7ede992c3c9dae9bffb8ae13b8876b8d2</sha1>
+  </file>
+  <file name="21 Bonus Game.mp3" source="original">
+    <mtime>1609200161</mtime>
+    <size>1374249</size>
+    <md5>d39d5af3e978c84eaf360390e40eb05d</md5>
+    <crc32>89a2650d</crc32>
+    <sha1>f4f45aef5f20eb779f7adab3cc8f17e868a4c981</sha1>
+    <format>VBR MP3</format>
+    <length>85.89</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Bonus Game</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>21</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="21 Bonus Game.png" source="derivative">
+    <format>PNG</format>
+    <original>21 Bonus Game.mp3</original>
+    <mtime>1609200463</mtime>
+    <size>34237</size>
+    <md5>b0375db19074df26957908812b71ea8e</md5>
+    <crc32>9660c923</crc32>
+    <sha1>b93056b0f4107c106a91b5fe6332b42e851ac7d2</sha1>
+  </file>
+  <file name="21 Bonus Game_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>21 Bonus Game.mp3</original>
+    <mtime>1609200528</mtime>
+    <size>250429</size>
+    <md5>cac9b46f546ebf8befbaa8cf1f7d121c</md5>
+    <crc32>3adbebc3</crc32>
+    <sha1>58b81b9cabb04b78901b7673c336a3ec8672441f</sha1>
+  </file>
+  <file name="22 Powerful Infant.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>22 Powerful Infant.mp3</original>
+    <mtime>1609200567</mtime>
+    <size>12456</size>
+    <md5>ac01af08abb30c0c5ba85ff926760658</md5>
+    <crc32>a52f1719</crc32>
+    <sha1>b1d1382e52770ca81e940f68440573a8bc245800</sha1>
+  </file>
+  <file name="22 Powerful Infant.mp3" source="original">
+    <mtime>1609200169</mtime>
+    <size>962559</size>
+    <md5>9553aec70df93e4ecb1220b198b93aba</md5>
+    <crc32>c77d2652</crc32>
+    <sha1>00b1c50b9cf014b122ea2f8e67cb5720a3187b5e</sha1>
+    <format>VBR MP3</format>
+    <length>60.16</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Powerful Infant</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>22</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="22 Powerful Infant.png" source="derivative">
+    <format>PNG</format>
+    <original>22 Powerful Infant.mp3</original>
+    <mtime>1609200396</mtime>
+    <size>37965</size>
+    <md5>30a319f172dfd7614d9a403959745550</md5>
+    <crc32>4c2c7dde</crc32>
+    <sha1>d5d217826aabd19f0b2e3921179a21f00b146be8</sha1>
+  </file>
+  <file name="22 Powerful Infant_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>22 Powerful Infant.mp3</original>
+    <mtime>1609200483</mtime>
+    <size>236330</size>
+    <md5>d7d8f66e5f31a9030f2516753afea366</md5>
+    <crc32>0c08ab97</crc32>
+    <sha1>2436fa6d31bb5dbec2a625c7ac4ec17fb7d51ab2</sha1>
+  </file>
+  <file name="23 Koopa.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>23 Koopa.mp3</original>
+    <mtime>1609200553</mtime>
+    <size>36544</size>
+    <md5>def538d88831dc5aa9cef565c37e1275</md5>
+    <crc32>b0af7880</crc32>
+    <sha1>81c143e0c6640ba87e397e75477401e3ffb9116a</sha1>
+  </file>
+  <file name="23 Koopa.mp3" source="original">
+    <mtime>1609200180</mtime>
+    <size>2634814</size>
+    <md5>7d7adde0e65eeac04bf84760d19fda52</md5>
+    <crc32>daaaea0a</crc32>
+    <sha1>bd914b36ba9ca292925a02c26dfd987685a501b5</sha1>
+    <format>VBR MP3</format>
+    <length>164.68</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Koopa</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>23</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="23 Koopa.png" source="derivative">
+    <format>PNG</format>
+    <original>23 Koopa.mp3</original>
+    <mtime>1609200349</mtime>
+    <size>37483</size>
+    <md5>e6f9e28b42054d72e38e69c52d5e2ad1</md5>
+    <crc32>e49f0373</crc32>
+    <sha1>23f241d1696daab0d034684e3e672ccea61c70bd</sha1>
+  </file>
+  <file name="23 Koopa_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>23 Koopa.mp3</original>
+    <mtime>1609200538</mtime>
+    <size>241426</size>
+    <md5>ef3c0ca873cd24dfb806bf30ec486171</md5>
+    <crc32>d000adec</crc32>
+    <sha1>be86f80bc1c1d4de4cf4e7a6cb9c5b6c1b8c205d</sha1>
+  </file>
+  <file name="24 Koopa Clear.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>24 Koopa Clear.mp3</original>
+    <mtime>1609200705</mtime>
+    <size>2592</size>
+    <md5>b3995326217821d741aabb471f1ebe58</md5>
+    <crc32>0a48840f</crc32>
+    <sha1>abd86b76855053e1bc33383ee04173efcd32d30a</sha1>
+  </file>
+  <file name="24 Koopa Clear.mp3" source="original">
+    <mtime>1609200183</mtime>
+    <size>176796</size>
+    <md5>acf4b8f0c26f6b2d6b68e90e4713ba86</md5>
+    <crc32>56382ad7</crc32>
+    <sha1>995dd41a925e0ccc0452366c10880d1583e4e647</sha1>
+    <format>VBR MP3</format>
+    <length>11.05</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Koopa Clear</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>24</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="24 Koopa Clear.png" source="derivative">
+    <format>PNG</format>
+    <original>24 Koopa Clear.mp3</original>
+    <mtime>1609200383</mtime>
+    <size>26511</size>
+    <md5>ebc3175d42cd997ffe72a0cf3fd75051</md5>
+    <crc32>af8c71e6</crc32>
+    <sha1>2572200c265df6e1ee467e79eadc78579f09a96a</sha1>
+  </file>
+  <file name="24 Koopa Clear_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>24 Koopa Clear.mp3</original>
+    <mtime>1609200531</mtime>
+    <size>176950</size>
+    <md5>9f860c32d8b38f7a196edf92968e83ed</md5>
+    <crc32>ce0ac3bb</crc32>
+    <sha1>f0028abbbbe692c091c64344ef11a8db149f729c</sha1>
+  </file>
+  <file name="25 Luigi Is Rescued.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>25 Luigi Is Rescued.mp3</original>
+    <mtime>1609200685</mtime>
+    <size>12200</size>
+    <md5>495060b596d2cc1b1ca80c34538e0d95</md5>
+    <crc32>eff48a8f</crc32>
+    <sha1>fd62797d2377d709713a48ada28e061e11a6943e</sha1>
+  </file>
+  <file name="25 Luigi Is Rescued.mp3" source="original">
+    <mtime>1609200193</mtime>
+    <size>1483337</size>
+    <md5>56409885e9e6734d67d6be6dfcb5d397</md5>
+    <crc32>6f4c0231</crc32>
+    <sha1>69f51273234b32e0c1b01aa43d1554159258a936</sha1>
+    <format>VBR MP3</format>
+    <length>92.71</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Luigi Is Rescued</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>25</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="25 Luigi Is Rescued.png" source="derivative">
+    <format>PNG</format>
+    <original>25 Luigi Is Rescued.mp3</original>
+    <mtime>1609200290</mtime>
+    <size>29064</size>
+    <md5>91ebc8a81de83b14130803cdec097db4</md5>
+    <crc32>6dc72ae1</crc32>
+    <sha1>48cb8e75457fd04677c2147c9abe7b039021c70a</sha1>
+  </file>
+  <file name="25 Luigi Is Rescued_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>25 Luigi Is Rescued.mp3</original>
+    <mtime>1609200473</mtime>
+    <size>245880</size>
+    <md5>fe678e2e23ab6d861484887dc4224533</md5>
+    <crc32>b3331beb</crc32>
+    <sha1>62a15209007104736306c4043c3a29a756881c3d</sha1>
+  </file>
+  <file name="26 Ending.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>26 Ending.mp3</original>
+    <mtime>1609200561</mtime>
+    <size>33624</size>
+    <md5>6dff1b947192d0e7d319651a71a806c0</md5>
+    <crc32>376283a3</crc32>
+    <sha1>2fd7d7e713236e9d7ed72982c2c8911baf585127</sha1>
+  </file>
+  <file name="26 Ending.mp3" source="original">
+    <mtime>1609200204</mtime>
+    <size>2577259</size>
+    <md5>63d23429287e4f964e71c3b4d1f396d4</md5>
+    <crc32>a3cf207a</crc32>
+    <sha1>4d01547751d196c61e06d9b173c1ef9d75dafb7a</sha1>
+    <format>VBR MP3</format>
+    <length>161.08</length>
+    <height>0</height>
+    <width>0</width>
+    <title>Ending</title>
+    <creator>Koji Kondo</creator>
+    <album>Yoshi's Island OSV</album>
+    <track>26</track>
+    <artist>Koji Kondo</artist>
+    <genre>Game</genre>
+  </file>
+  <file name="26 Ending.png" source="derivative">
+    <format>PNG</format>
+    <original>26 Ending.mp3</original>
+    <mtime>1609200327</mtime>
+    <size>32797</size>
+    <md5>b6ee778b17b8d24279c2219ebe85be34</md5>
+    <crc32>b2cc5e07</crc32>
+    <sha1>2941f8cfc1ea78b46fcfbfea60cfe60e666ffeeb</sha1>
+  </file>
+  <file name="26 Ending_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>26 Ending.mp3</original>
+    <mtime>1609200478</mtime>
+    <size>255435</size>
+    <md5>3ca8296fce05272de346030c5b26bc08</md5>
+    <crc32>4fb37c87</crc32>
+    <sha1>dca746716a66a0c5e9a499060f010685078b639a</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1620406549</mtime>
+    <size>16471</size>
+    <md5>d78c848e57e28f99c4e5294015103ad3</md5>
+    <crc32>f8aec319</crc32>
+    <sha1>0fa6484caa4c02e07e637713c070d003cde2cb44</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="back.png" source="original">
+    <mtime>1609200207</mtime>
+    <size>1402963</size>
+    <md5>0671579f67f1a321d13c3d353145be79</md5>
+    <crc32>c94a3271</crc32>
+    <sha1>e8e01fa1d905119b319cdc06d3c4f04d76d8468a</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="back_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>back.png</original>
+    <mtime>1609200273</mtime>
+    <size>5871</size>
+    <md5>790d1ef3f0524c4955eefbd14bda59fe</md5>
+    <crc32>fcaa840e</crc32>
+    <sha1>c25f4aa6a48e2a7cc98b4e4d13dfb862f8355de1</sha1>
+  </file>
+  <file name="booklet.jpg" source="original">
+    <mtime>1609200210</mtime>
+    <size>228235</size>
+    <md5>8c18572839582e762ab743e799436412</md5>
+    <crc32>d725ea45</crc32>
+    <sha1>ad9dd78b83b52457696b4c5975f867320de0e01a</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="booklet_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>booklet.jpg</original>
+    <mtime>1609200271</mtime>
+    <size>2756</size>
+    <md5>9cb26f145293ff14661817afd3fc2d68</md5>
+    <crc32>3968f77d</crc32>
+    <sha1>23c6d1f2332c867ad51c0a5e9df82106a834f61d</sha1>
+  </file>
+  <file name="disc.jpg" source="original">
+    <mtime>1609200213</mtime>
+    <size>107124</size>
+    <md5>51ce7e63a86982f389147cf0d5fae04f</md5>
+    <crc32>06830e84</crc32>
+    <sha1>3d98e2ec77ddedf186800f4f2e3b43c1cf4d0bca</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="disc_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>disc.jpg</original>
+    <mtime>1609200269</mtime>
+    <size>9372</size>
+    <md5>9713857bafa3670a9155e7bda69a54ce</md5>
+    <crc32>dc50dbc3</crc32>
+    <sha1>cefa513fc2713e821e5e045e05dd0ff235924b6d</sha1>
+  </file>
+  <file name="front.png" source="original">
+    <mtime>1609200217</mtime>
+    <size>1753017</size>
+    <md5>dcf8c1b6b0e3c833467757af819f07da</md5>
+    <crc32>70440304</crc32>
+    <sha1>33b8ae9673dc880a02efa213e0d1838ceb74f43a</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="front_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>front.png</original>
+    <mtime>1609200277</mtime>
+    <size>8484</size>
+    <md5>373b8c3cd0cd4cc54d00aff7b757431e</md5>
+    <crc32>8d557815</crc32>
+    <sha1>9fddf8fbf4148d9da8446ac6f922a45da6476eac</sha1>
+  </file>
+  <file name="inside.png" source="original">
+    <mtime>1609200227</mtime>
+    <size>2179682</size>
+    <md5>d4cb18569d52d7da04d68dddc3181138</md5>
+    <crc32>d3150e07</crc32>
+    <sha1>9eec0d371b407ec5fbe42a20aed8d366afab248f</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="inside_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>inside.png</original>
+    <mtime>1609200275</mtime>
+    <size>7231</size>
+    <md5>61ef0b10af6b506198deaceac0441db6</md5>
+    <crc32>426c3b24</crc32>
+    <sha1>b104a497a2e836c6498020a87fa0a487772b5eb6</sha1>
+  </file>
+  <file name="yoshis_island_soundtrack_archive.torrent" source="metadata">
+    <btih>d50ac6ffb8dd0ee551bc51678506be20c46d600e</btih>
+    <mtime>1682402436</mtime>
+    <size>23708</size>
+    <md5>8ae7f49014631c8148b14bcf6f3574d9</md5>
+    <crc32>13cbbf50</crc32>
+    <sha1>0287ab721c6a4809fede414a8fcc464b2f742de9</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="yoshis_island_soundtrack_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e77181b93160a1a621a05158c7dc7350</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="yoshis_island_soundtrack_meta.sqlite" source="original">
+    <mtime>1609200231</mtime>
+    <size>118784</size>
+    <md5>cd9a548c3b0ed11e8df10e0cc21324fe</md5>
+    <crc32>7c026a8b</crc32>
+    <sha1>70bc6d30dc59fbc91be93fd4b65d35a18c1be546</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="yoshis_island_soundtrack_meta.xml" source="original">
+    <mtime>1682402434</mtime>
+    <size>1926</size>
+    <md5>d8bcbc7d6350e352b6b289589bca8955</md5>
+    <crc32>ec2706b3</crc32>
+    <sha1>783916a5b46b8c7268c39e78827fbfdd236a39b6</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="yoshis_island_soundtrack_reviews.xml" source="original">
+    <mtime>1620406549</mtime>
+    <size>760</size>
+    <md5>59260886e71c70e86db994c6d454e2a1</md5>
+    <crc32>e4642d4a</crc32>
+    <sha1>341a8586d75542916a7e210abebe5ef426eb8cb7</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
