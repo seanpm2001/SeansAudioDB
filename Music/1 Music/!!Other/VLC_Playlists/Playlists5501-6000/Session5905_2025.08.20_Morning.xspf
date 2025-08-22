@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Shrek_07.%20My%20Beloved%20Monster.mp3</location>
+			<title>My Beloved Monster</title>
+			<creator>Eels</creator>
+			<album>Shrek - Music from the Original Motion Picture</album>
+			<trackNum>7</trackNum>
+			<duration>130981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/SonicAdvance3_32%20Twinkle%20Snow%20Act%203.mp3</location>
+			<title>Twinkle Snow Act 3</title>
+			<creator>Hideaki Kobayashi, Fumie Kumatani, Tatsuyuki Maeda, Tomoya Ohtani, Masaru Setsumaru, Kenichi Tokoi, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 3</album>
+			<duration>123063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/AngryBirdsSeasons_SouthHamerica.mp3</location>
+			<title>AngryBirdsSeasons_SouthHamerica.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>81771</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
