@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Osiris_Ancient-Egyptian-Music-Osiris.mp3</location>
+			<title>Ancient-Egyptian-Music-Osiris.mp3</title>
+			<creator>Ancient Egypt</creator>
+			<album>Osiris</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Osiris, composed in Ancient Egypt thousands of years ago.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ancient%20Egypt/Osiris/art.jpg</image>
+			<duration>198931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Bejeweled2_Skaven%20252%20-%20Bejeweled%202%20-%2001%20Bejeweled%202%20Theme.mp3</location>
+			<title>Bejeweled 2 Theme</title>
+			<creator>Skaven 252</creator>
+			<album>Bejeweled 2</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit https://skaven252.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20252/Bejeweled%202/art.jpg</image>
+			<duration>119980</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Sonic1_SegaGenesis_10%20-%20Final%20Zone.mp3</location>
+			<title>Final Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog</album>
+			<duration>50834</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Sonic2_SegaGenesis_11%20-%20Oil%20Ocean%20Zone.mp3</location>
+			<title>Oil Ocean Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>98873</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Sonic2_SegaGenesis_12%20-%20Metropolis%20Zone.mp3</location>
+			<title>Metropolis Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>101224</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/TouchPetsDogs2_Town.mp3</location>
+			<title>TouchPets Suburbia loop</title>
+			<creator>Bogas Productions</creator>
+			<trackNum>1</trackNum>
+			<duration>121965</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/DiscoZoo_Mars%20-%20Disco%20Zoo%20OST.mp3</location>
+			<duration>134845</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/ZombieLife_BGM01.m4a</location>
+			<duration>45697</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Bejeweled2_Skaven%20252%20-%20Bejeweled%202%20-%2009%20Tunnel%20Society%20V2.mp3</location>
+			<title>Tunnel Society V2</title>
+			<creator>Skaven 252</creator>
+			<album>Bejeweled 2</album>
+			<trackNum>9</trackNum>
+			<annotation>Visit https://skaven252.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20252/Bejeweled%202/art.jpg</image>
+			<duration>239935</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>

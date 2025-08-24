@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/NewSuperMarioBrosDS_38%20World%203%20-%20The%20Beach.mp3</location>
+			<title>World 3 - The Beach</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<duration>84065</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/GhostInTheShell_12%20-%20Follow%20Me.flac</location>
+			<title>Follow Me</title>
+			<creator>Kimiko Itoh</creator>
+			<album>Ghost in The Shell: Innocence O.S.T.</album>
+			<trackNum>12</trackNum>
+			<duration>301200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
