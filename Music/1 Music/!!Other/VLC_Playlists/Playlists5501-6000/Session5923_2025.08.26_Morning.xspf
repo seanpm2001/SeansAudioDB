@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Fruit%20Ninja%20-%20Music-menu.mp3</location>
+			<title>Fruit Ninja - Music-menu.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The title theme for the video game Fruit Ninja by HalfBrick.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20soundtrack/art.png</image>
+			<duration>25791</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Fruit%20Ninja%20Menu%20Theme%20Extended%20-%20Theme%20Song%20-%20Game%20Music%20HQ%20OST.mp3</location>
+			<title>Fruit Ninja Menu Theme Extended - Theme Song - Game Music HQ OST.mp3</title>
+			<creator>HalfBrick</creator>
+			<album>Fruit Ninja Modern soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The modern theme song for the HalfBrick video game Fruit Ninja.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/HalfBrick/Fruit%20Ninja%20Modern%20soundtrack/art.png</image>
+			<duration>607020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
