@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/MarioandSonicAtTheOlympicGames_27%20-%20Neo%20Green%20Hill%20Zone.opus</location>
+			<title>Neo Green Hill Zone</title>
+			<album>Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games</album>
+			<trackNum>27</trackNum>
+			<duration>218880</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/MarioAndSonicAtTheOlympicGames_03%20-%20Moo%20Moo%20Meadows.opus</location>
+			<title>Moo Moo Meadows</title>
+			<album>Mario &amp; Sonic at the London 2012 Olympic Games</album>
+			<trackNum>3</trackNum>
+			<duration>182402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/MarioandSonicAtTheOlympicGames_28%20-%20Leaf%20Forest.opus</location>
+			<title>Leaf Forest</title>
+			<album>Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games</album>
+			<trackNum>28</trackNum>
+			<duration>210235</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Charli-XCX_03%20Sympathy%20is%20a%20knife.m4a</location>
+			<title>Sympathy is a knife</title>
+			<creator>Charli XCX</creator>
+			<album>BRAT</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Charli%20XCX/BRAT/art.jpg</image>
+			<duration>151185</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Windows96_Gudang%20-%20Nostalgi%20Gaius%20-%2002%20Software.flac</location>
+			<title>Software</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit https://windows96.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Gudang/Nostalgi%20Gaius/art.jpg</image>
+			<duration>142766</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Windows96%20-%20Gradient%20Horizont%20-%2004%20Vision.flac</location>
+			<title>Vision</title>
+			<creator>Windows96</creator>
+			<album>Gradient Horizont</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit https://windows96.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Windows96/Gradient%20Horizont/art.jpg</image>
+			<duration>172432</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/SonicSpinballParty_29%20Soft%20Museum.mp3</location>
+			<title>Soft Museum</title>
+			<creator>Tatsuyuki Maeda, Teruhiko Nakagawa, Yutaka Minobe</creator>
+			<album>Sonic Pinball Party</album>
+			<duration>158041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
