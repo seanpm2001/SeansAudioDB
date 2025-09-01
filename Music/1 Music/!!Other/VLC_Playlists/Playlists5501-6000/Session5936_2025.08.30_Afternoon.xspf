@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cannon-Beach-2025/Shrek_07.%20My%20Beloved%20Monster.mp3</location>
+			<title>My Beloved Monster</title>
+			<creator>Eels</creator>
+			<album>Shrek - Music from the Original Motion Picture</album>
+			<trackNum>7</trackNum>
+			<duration>130981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cannon-Beach-2025/Queen_n20.mp3</location>
+			<duration>239282</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cannon-Beach-2025/Plants%20Vs%20Zombies%202%20Music%20-%20Lost%20City_%20Demonstration%20Mini-Game.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Lost City_ Demonstration Mini-Game.mp3</title>
+			<creator>PopCap/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Lost City</album>
+			<trackNum>3</trackNum>
+			<annotation>The Demonstration Minigame theme song for the Lost City stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Lost%20City/art.png</image>
+			<duration>394094</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Cannon-Beach-2025/Queen_n3.mp3</location>
+			<title>Under Pressure (Remastered 2011)</title>
+			<creator>This Is Queen</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/8fa5ef8e649e896daa7f5baedbe2c3e7/art.jpg</image>
+			<duration>248869</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/MarioAndSonicAtTheOlympicGames_03%20-%20Moo%20Moo%20Meadows.opus</location>
+			<title>Moo Moo Meadows</title>
+			<album>Mario &amp; Sonic at the London 2012 Olympic Games</album>
+			<trackNum>3</trackNum>
+			<duration>182402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/MarioAndSonicAtTheOlympicGames_09%20-%20Hidden%20Island.opus</location>
+			<title>Hidden Island</title>
+			<album>Mario &amp; Sonic at the Olympic Games</album>
+			<trackNum>9</trackNum>
+			<duration>129926</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/MarioandSonicAtTheOlympicGames_14%20-%20Sherbet%20Land.opus</location>
+			<title>Sherbet Land</title>
+			<album>Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games</album>
+			<trackNum>14</trackNum>
+			<duration>159239</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/MarioKartWii_10.%20Coconut%20Mall.mp3</location>
+			<title>Coconut Mall</title>
+			<creator>Asuka Ohta, Ryo Nagamatsu</creator>
+			<album>Mario Kart Wii Platinum Soundtrack</album>
+			<trackNum>10</trackNum>
+			<annotation>http://sittingonclouds.net</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Asuka%20Ohta%2C%20Ryo%20Nagamatsu/Mario%20Kart%20Wii%20Platinum%20Soundtrack/art.png</image>
+			<duration>137355</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/SuperMarioOdyssey_1-15%20Tostarena%20Ruins.mp3</location>
+			<title>Tostarena Ruins</title>
+			<creator>The Super Mario Players</creator>
+			<album>Super Mario Odyssey Original Soundtrack</album>
+			<trackNum>15</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Super%20Mario%20Players/Super%20Mario%20Odyssey%20Original%20Soundtrack/art.jpg</image>
+			<duration>234635</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/AnimalCrossing_NewLeaf_149%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Tortimer%20Island%20-%20Tour.flac</location>
+			<title>Tortimer Island - Tour</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>149</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>147301</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/AnimalCrossing_NewLeaf_114%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Gardening%20Store.flac</location>
+			<title>Gardening Store</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>114</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>117504</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Fruit-Baskets_03%20Emai%20Music%20Orchestra%20-%20It%20Makes%20Me%20Want%20to%20Cry%20Without%20Reason.ogg</location>
+			<title>It Makes Me Want to Cry Without Reason</title>
+			<creator>Emai Music Orchestra</creator>
+			<album>Fruits Basket: Four Seasons</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Emai%20Music%20Orchestra/Fruits%20Basket_%20Four%20Seasons/art.jpg</image>
+			<duration>224266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+	</extension>
+</playlist>
