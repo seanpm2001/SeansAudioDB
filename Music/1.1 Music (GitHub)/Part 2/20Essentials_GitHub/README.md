@@ -1869,7 +1869,6 @@ No new data for today.
 
 #### 2025, August 25th
 
-
 20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. Uploads seem to be slowing from this account now. Most updates from the past week were to repositories I have already downloaded, and I do not intend to redownload these repositories, although the number of original repositories has gone down this week. Only 1 new repository was downloaded today.
 
 ```urll
@@ -1902,6 +1901,40 @@ No new data for today.
 
 #### 2025, September 1st
 
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. Uploads seem to be slowing from this account now. Most updates from the past week were to repositories I have already downloaded, and I do not intend to redownload these repositories, although the number of original repositories has gone down this week. Only 1 new repository was downloaded today.
+
+```urll
+https://github.com/20essentials/heuse-and-zeus
+```
+
+I downloaded the data on 2025, Monday, September 1st, but due to heavy downtime associated with my vacation, I didn't update this README until 2025, Tuesday, September 2nd.
+
+#### 2025, September 2nd
+
+No new data for today.
+
+#### 2025, September 3rd
+
+No new data for today.
+
+#### 2025, September 4th
+
+No new data for today.
+
+#### 2025, September 5th
+
+No new data for today.
+
+#### 2025, September 6th
+
+No new data for today.
+
+#### 2025, September 7th
+
+No new data for today.
+
+#### 2025, September 8th
+
 No new data for today.
 
 ---
@@ -1924,6 +1957,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `19 (2025, Monday, August 25th at 01:50 pm PST)`
+**File version:** `20 (2025, Tuesday, September 2nd at 11:12 am PST)`
 
 ***
