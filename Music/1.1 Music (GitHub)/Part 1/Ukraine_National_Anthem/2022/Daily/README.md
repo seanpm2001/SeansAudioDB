@@ -129,11 +129,11 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 
 # 🇺🇦️ Counter / Лічильник / Прилавок / Лічыльнік / 계수기 🇺🇦️
 
-- The Ukrainian Flag Emoji appears in this document `6596` times (as of 2025.08.31)
-- UA/UK: У цьому документі з'являється емодзі прапора України `6596` разів (станом на 2025.08.31)
-- RU: Эмодзи Флаг Украины появляется в этом документе `6596` раз (по состоянию на 2025.08.31)
-- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `6596` разоў (на 2025.08.31)
-- KO: 우크라이나 국기 이모지는 이 문서에 `6596` 번 등장합니다(2025.08.31 기준)
+- The Ukrainian Flag Emoji appears in this document `6602` times (as of 2025.09.02)
+- UA/UK: У цьому документі з'являється емодзі прапора України `6602` разів (станом на 2025.09.02)
+- RU: Эмодзи Флаг Украины появляется в этом документе `6602` раз (по состоянию на 2025.09.02)
+- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `6602` разоў (на 2025.09.02)
+- KO: 우크라이나 국기 이모지는 이 문서에 `6602` 번 등장합니다(2025.09.02 기준)
 
 ***
 
@@ -1196,6 +1196,8 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1054: 2025, August 29th
 - [x] 🇺🇦️ Day 1055: 2025, August 30th
 - [x] 🇺🇦️ Day 1056: 2025, August 31st
+- [x] 🇺🇦️ Day 1057: 2025, September 1st
+- [x] 🇺🇦️ Day 1058: 2025, September 2nd
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -2490,6 +2492,8 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1283, 2025, Friday, August 29th
 - [x] 🇺🇦️ Day 1284, 2025, Saturday, August 30th
 - [x] 🇺🇦️ Day 1285, 2025, Sunday, August 31st
+- [x] 🇺🇦️ Day 1286, 2025, Monday, September 1st
+- [x] 🇺🇦️ Day 1287, 2025, Tuesday, September 2nd
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -6716,16 +6720,18 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 4208: 2025, August 29th
 - [x] 🇺🇦️ Day 4209: 2025, August 30th
 - [x] 🇺🇦️ Day 4210: 2025, August 31st
+- [x] 🇺🇦️ Day 4211: 2025, September 1st
+- [x] 🇺🇦️ Day 4212: 2025, September 2nd
 
 <!-- upcoming
 2025, August 24th:  (happy independence day Ukraine!) **Слава Україні!**
 !-->
 
-- After 4,210 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 4,210 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 4,210 дня это все еще Украина. Слава Украине!
-- BE: Праз 4,210 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
-- KO: 4,210 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
+- After 4,212 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 4,212 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 4,212 дня это все еще Украина. Слава Украине!
+- BE: Праз 4,212 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
+- KO: 4,212 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
 
 #### N1
 
@@ -6765,7 +6771,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **BE: Тып файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 - **KO: 파일 유형:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `979 (2025, Sunday, August 31st at 08:09 pm PST)`
+- **File version:** `980 (2025, Tuesday, September 2nd at 08:08 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
@@ -6775,11 +6781,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 > **Translation not available (Korean) 번역이 불가능합니다. (한국어)**
 
-- **Line count (including blank lines and compiler line):** `8,531`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `8,531`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `8,531`
-- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `8,531`
-- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `8,531`
+- **Line count (including blank lines and compiler line):** `8,560`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `8,560`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `8,560`
+- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `8,560`
+- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `8,560`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -8434,6 +8440,29 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 980 (2025, Tuesday, September 2nd at 08:08 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I listened to the Ukrainian anthem yesterday, but did not update this repository, as I was coming back from vacation, and didn't have the time to update this file._
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `6602`
+- [x] Updated the main list to include an entry for 2025, September 1st (day 1,057)
+- [x] Updated the main list to include an entry for 2025, September 2nd (day 1,058)
+- [x] Updated the list of all days of the war since the 2022 Invasion (1,287 days)
+- [x] Updated the list of all days of the war (4,212 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 980
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 980
+
+</details> <!-- V980 !-->
+
+---
+
 _End of file history._
 
 </details> <!-- End of file history !-->
@@ -8448,11 +8477,11 @@ _End of file history._
 
 <!-- TODO !--> TODO: Translate this section
 
-- Total consecutive days: 1056 (as of 2025, Sunday, August 31st)
-- Days with an update: 979 (as of 2025, Sunday, August 31st)
-- Days without an update: 78 (as of 2025, Sunday, August 31st)
+- Total consecutive days: 1058 (as of 2025, Tuesday, September 2nd)
+- Days with an update: 980 (as of 2025, Tuesday, September 2nd)
+- Days without an update: 79 (as of 2025, Tuesday, September 2nd)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 979/1056 = 92.708% (as of 2025, Sunday, August 31st)
+- Ratio: 980/1058 = 92.627% (as of 2025, Tuesday, September 2nd)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
