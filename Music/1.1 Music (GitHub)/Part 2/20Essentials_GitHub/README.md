@@ -1935,6 +1935,38 @@ No new data for today.
 
 #### 2025, September 8th
 
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. Uploads seem to be slowing from this account now. Most updates from the past week were to repositories I have already downloaded, and I do not intend to redownload these repositories, although the number of original repositories has gone down this week. Only 1 new repository was downloaded today.
+
+```urll
+https://github.com/20essentials/ann4-c4rina
+```
+
+#### 2025, September 9th
+
+No new data for today.
+
+#### 2025, September 10th
+
+No new data for today.
+
+#### 2025, September 11th
+
+No new data for today.
+
+#### 2025, September 12th
+
+No new data for today.
+
+#### 2025, September 13th
+
+No new data for today.
+
+#### 2025, September 14th
+
+No new data for today.
+
+#### 2025, September 15th
+
 No new data for today.
 
 ---
@@ -1957,6 +1989,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `20 (2025, Tuesday, September 2nd at 11:12 am PST)`
+**File version:** `21 (2025, Monday, September 8th at 04:45 pm PST)`
 
 ***
