@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/MarioKart8_35%20-%20Staff%20Credits.mp3</location>
+			<title>Staff Credits</title>
+			<creator>Ryo Nagamatsu</creator>
+			<album>Mario Kart 8 Original Sound Track</album>
+			<trackNum>35</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ryo%20Nagamatsu/Mario%20Kart%208%20Original%20Sound%20Track/art.jpg</image>
+			<duration>250805</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/TouchPetsDogs2_PetShop.mp3</location>
+			<trackNum>1</trackNum>
+			<duration>96496</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/TeamFortress2_29%20Carousel%20of%20Curses.mp3</location>
+			<title>Carousel of Curses</title>
+			<creator>Valve Studio Orchestra</creator>
+			<album>Fight Songs: The Music of Team Fortress 2</album>
+			<trackNum>29</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20Studio%20Orchestra/Fight%20Songs_%20The%20Music%20of%20Team%20Fortress%202/art.jpg</image>
+			<duration>44803</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/GhostInTheShell_03%20-%20A%20Song%20For%20You.flac</location>
+			<title>A Song For You</title>
+			<creator>Kimiko Itoh</creator>
+			<album>Follow Me</album>
+			<trackNum>3</trackNum>
+			<duration>274160</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/SonicAdvance2_14%20Techno%20Base%20Act%201.mp3</location>
+			<title>Techno Base Act 1</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Teruhiko Nakagawa, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 2</album>
+			<duration>191033</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
