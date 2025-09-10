@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/GhostInTheShell_08.%20Yoko%20Kanno%20-%20Rocky%20Wa%20Doko!%20(Where&#39;s%20Rocky!).flac</location>
+			<title>Rocky Wa Doko? (Where&#39;s Rocky?)</title>
+			<creator>Yoko Kanno</creator>
+			<album>Be Human</album>
+			<trackNum>8</trackNum>
+			<duration>265800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/SonicAdvance2_24%20Final%20Boss.mp3</location>
+			<title>Final Boss</title>
+			<creator>Tatsuyuki Maeda, Yutaka Minobe, Teruhiko Nakagawa, Hironobu Inagaki, Atsuyoshi Isemura</creator>
+			<album>Sonic Advance 2</album>
+			<duration>153052</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/SuperMarioAdvance3_09%20-%20Flower%20Garden.mp3</location>
+			<title>Flower Garden</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 3: Yoshi&#39;s Island - The Original Soundtrack</album>
+			<trackNum>9</trackNum>
+			<annotation>000000FE 000001BF 00000340</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%203_%20Yoshi%27s%20Island%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>165003</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/DiscoZoo_Mars%20-%20Disco%20Zoo%20OST.mp3</location>
+			<duration>134845</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/MarioKartWii_30.%20Thwomp%20Desert.mp3</location>
+			<title>Thwomp Desert</title>
+			<creator>Asuka Ohta, Ryo Nagamatsu</creator>
+			<album>Mario Kart Wii Platinum Soundtrack</album>
+			<trackNum>30</trackNum>
+			<annotation>http://sittingonclouds.net</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Asuka%20Ohta%2C%20Ryo%20Nagamatsu/Mario%20Kart%20Wii%20Platinum%20Soundtrack/art.png</image>
+			<duration>132496</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/AnimalCrossing_NewLeaf_012%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%20Prologue%20-%20Sapling%20Ceremony%202.flac</location>
+			<title>Prologue - Sapling Ceremony 2</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>12</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>20511</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/NewSuperMarioBrosDS_36%20Walking%20the%20Hot%20Desert.mp3</location>
+			<title>Walking the Hot Desert</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<duration>95063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Coldplay-Viva-la-vida.mp3</location>
+			<title>Coldplay-Viva-la-vida.mp3</title>
+			<creator>Coldplay</creator>
+			<album>Viva La Vida</album>
+			<trackNum>1</trackNum>
+			<annotation>The song Viva La Vida from Coldplay. The lyrics are about the demise of King Louis XVI (16) of France, and the start of the 1789 French Revolution.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Coldplay/Viva%20La%20Vida/art.jpg</image>
+			<duration>242086</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Sonic1_SegaGenesis_09%20-%20Robotnik.mp3</location>
+			<title>Robotnik</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog</album>
+			<duration>52976</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Windows96_Gudang%20-%20Nostalgi%20Gaius%20-%2011%20Rest.flac</location>
+			<title>Rest</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>11</trackNum>
+			<annotation>Visit https://windows96.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Gudang/Nostalgi%20Gaius/art.jpg</image>
+			<duration>244130</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Portal2_3x02-Wheatley_Science.mp3</location>
+			<title>Wheatley Science</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By - Volume 3</album>
+			<trackNum>2</trackNum>
+			<annotation>0</annotation>
+			<duration>149211</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>
