@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/Channel-Archive/2025.07.29/ItsRucka/Eminem%20Rap%20God%20Parody%20~%20Rucka%20Rucka%20Ali.mp4</location>
+			<duration>443293</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Rucka%20Rucka%20ALI/Channel-Archive/2025.07.29/ItsRucka/Wierd%20Ali%20Ruckavich%20%E2%80%A2%20FOOD!.mp4</location>
+			<duration>167370</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Undertale_toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2073%20The%20Choice.mp3</location>
+			<title>The Choice</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>73</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/toby%20fox/UNDERTALE%20Soundtrack/art.jpg</image>
+			<duration>132571</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Windows96_Gudang%20-%20Nostalgi%20Gaius%20-%2012%20Not%20kawaii.flac</location>
+			<title>Not kawaii</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>12</trackNum>
+			<annotation>Visit https://windows96.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Gudang/Nostalgi%20Gaius/art.jpg</image>
+			<duration>163766</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Minecraft_C418%20-%20Minecraft%20-%20Volume%20Alpha%20-%2010%20%C3%89quinoxe.flac</location>
+			<title>Équinoxe</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Alpha</album>
+			<trackNum>10</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/C418/Minecraft%20-%20Volume%20Alpha/art.jpg</image>
+			<duration>114875</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Portal1_03%20Android%20Hell.mp3</location>
+			<title>Android Hell</title>
+			<creator>Aperture Science Psychoacoustics Laboratories</creator>
+			<album>Portal</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<duration>225957</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Undertale_toby%20fox%20-%20UNDERTALE%20Soundtrack%20-%2012%20Home.mp3</location>
+			<title>Home</title>
+			<creator>toby fox</creator>
+			<album>UNDERTALE Soundtrack</album>
+			<trackNum>12</trackNum>
+			<annotation>Visit http://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/toby%20fox/UNDERTALE%20Soundtrack/art.jpg</image>
+			<duration>123036</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
