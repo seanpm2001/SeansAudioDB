@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/MarioKartWii_04.%20Main%20Menu.mp3</location>
+			<title>Main Menu</title>
+			<creator>Asuka Ohta, Ryo Nagamatsu</creator>
+			<album>Mario Kart Wii Platinum Soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>http://sittingonclouds.net</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Asuka%20Ohta%2C%20Ryo%20Nagamatsu/Mario%20Kart%20Wii%20Platinum%20Soundtrack/art.png</image>
+			<duration>148117</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/SuperMarioOdyssey_4-07%20Forgotten%20Isle%20(8-Bit).mp3</location>
+			<title>Forgotten Isle (8-Bit)</title>
+			<creator>The Super Mario Players</creator>
+			<album>Super Mario Odyssey Original Soundtrack</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/The%20Super%20Mario%20Players/Super%20Mario%20Odyssey%20Original%20Soundtrack/art.jpg</image>
+			<duration>148117</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Plants%20Vs.%20Zombies%202%20Music%20-%20Far%20Future_%20Ultimate%20Battle.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Far Future_ Ultimate Battle.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Far Future</album>
+			<trackNum>4</trackNum>
+			<annotation>The Ultimate Battle theme song for the Far Future stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Far%20Future/art.png</image>
+			<duration>380040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/MarioKart8_03%20-%20Sweet%20Sweet%20Canyon.mp3</location>
+			<title>Sweet Sweet Canyon</title>
+			<creator>Shiho Fujii</creator>
+			<album>Mario Kart 8 Original Sound Track</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiho%20Fujii/Mario%20Kart%208%20Original%20Sound%20Track/art.jpg</image>
+			<duration>123353</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/SimCopter_SimCopter%20-%20Spring%20(Vivaldi&#39;s%20The%20Four%20Seasons).mp3</location>
+			<title>Spring (Vivaldi&#39;s The Four Seasons)</title>
+			<creator>SimCopter</creator>
+			<album>SimCopter</album>
+			<trackNum>17</trackNum>
+			<annotation>Originally ripped by Shoptroll</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCopter/SimCopter/art.jpg</image>
+			<duration>232613</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Sonic2_SegaGenesis_11%20-%20Oil%20Ocean%20Zone.mp3</location>
+			<title>Oil Ocean Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>98873</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/TouchPetsDogs2_Town.mp3</location>
+			<title>TouchPets Suburbia loop</title>
+			<creator>Bogas Productions</creator>
+			<trackNum>1</trackNum>
+			<duration>121965</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Portal2_3x23-You_Saved_Science.mp3</location>
+			<title>You Saved Science</title>
+			<creator>Aperture Science Psychoacoustics Laboratory</creator>
+			<album>Portal 2: Songs to Test By - Volume 3</album>
+			<trackNum>23</trackNum>
+			<annotation>0</annotation>
+			<duration>47960</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
