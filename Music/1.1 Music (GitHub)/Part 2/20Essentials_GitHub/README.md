@@ -1967,6 +1967,39 @@ No new data for today.
 
 #### 2025, September 15th
 
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. Uploads seem to be slowing from this account now. Most updates from the past week were to repositories I have already downloaded, and I do not intend to redownload these repositories, although the number of original repositories has gone up slightly this week. Only 2 new repositories were downloaded today.
+
+```urll
+https://github.com/20essentials/k3ndrick-lamar
+https://github.com/20essentials/sebastian-ingrosso
+```
+
+#### 2025, September 16th
+
+No new data for today.
+
+#### 2025, September 17th
+
+No new data for today.
+
+#### 2025, September 18th
+
+No new data for today.
+
+#### 2025, September 19th
+
+No new data for today.
+
+#### 2025, September 20th
+
+No new data for today.
+
+#### 2025, September 21st
+
+No new data for today.
+
+#### 2025, September 22nd
+
 No new data for today.
 
 ---
@@ -1989,6 +2022,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `21 (2025, Monday, September 8th at 04:45 pm PST)`
+**File version:** `22 (2025, Monday, September 15th at 12:25 pm PST)`
 
 ***
