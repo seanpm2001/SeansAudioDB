@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Indiana-Jones-OST/raiders-of-the-lost-ark-soundtracks/12%20Airplane%20Fight.mp3</location>
+			<title>Airplane Fight</title>
+			<creator>John Williams</creator>
+			<album>Raiders Of The Lost Ark</album>
+			<trackNum>12</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/John%20Williams/Raiders%20Of%20The%20Lost%20Ark/art.png</image>
+			<duration>276924</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Indiana-Jones-OST/raiders-of-the-lost-ark-soundtracks/13%20Desert%20Chase.mp3</location>
+			<title>Desert Chase</title>
+			<creator>John Williams</creator>
+			<album>Raiders Of The Lost Ark</album>
+			<trackNum>13</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/John%20Williams/Raiders%20Of%20The%20Lost%20Ark/art.png</image>
+			<duration>497502</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Indiana-Jones-OST/raiders-of-the-lost-ark-soundtracks/14%20Marion&#39;s%20Theme.mp3</location>
+			<title>Marion&#39;s Theme</title>
+			<creator>John Williams</creator>
+			<album>Raiders Of The Lost Ark</album>
+			<trackNum>14</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/John%20Williams/Raiders%20Of%20The%20Lost%20Ark/art.png</image>
+			<duration>128026</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Indiana-Jones-OST/raiders-of-the-lost-ark-soundtracks/15%20The%20German%20Sub_To%20The%20Nazi%20Hideout.mp3</location>
+			<title>The German Sub/To The Nazi Hideout</title>
+			<creator>John Williams</creator>
+			<album>Raiders Of The Lost Ark</album>
+			<trackNum>15</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/John%20Williams/Raiders%20Of%20The%20Lost%20Ark/art.png</image>
+			<duration>271673</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Indiana-Jones-OST/raiders-of-the-lost-ark-soundtracks/16%20Ark%20Trek.mp3</location>
+			<title>Ark Trek</title>
+			<creator>John Williams</creator>
+			<album>Raiders Of The Lost Ark</album>
+			<trackNum>16</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/John%20Williams/Raiders%20Of%20The%20Lost%20Ark/art.png</image>
+			<duration>93074</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Indiana-Jones-OST/raiders-of-the-lost-ark-soundtracks/17%20The%20Miracle%20Of%20The%20Ark.mp3</location>
+			<title>The Miracle Of The Ark</title>
+			<creator>John Williams</creator>
+			<album>Raiders Of The Lost Ark</album>
+			<trackNum>17</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/John%20Williams/Raiders%20Of%20The%20Lost%20Ark/art.png</image>
+			<duration>365165</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Indiana-Jones-OST/raiders-of-the-lost-ark-soundtracks/18%20The%20Warehouse.mp3</location>
+			<title>The Warehouse</title>
+			<creator>John Williams</creator>
+			<album>Raiders Of The Lost Ark</album>
+			<trackNum>18</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/John%20Williams/Raiders%20Of%20The%20Lost%20Ark/art.png</image>
+			<duration>56163</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Indiana-Jones-OST/raiders-of-the-lost-ark-soundtracks/19%20End%20Credits.mp3</location>
+			<title>End Credits</title>
+			<creator>John Williams</creator>
+			<album>Raiders Of The Lost Ark</album>
+			<trackNum>19</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/John%20Williams/Raiders%20Of%20The%20Lost%20Ark/art.png</image>
+			<duration>321280</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>

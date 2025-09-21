@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Indiana-Jones-OST/raiders-of-the-lost-ark-soundtracks/01%20The%20Raiders%20March.mp3</location>
+			<title>The Raiders March</title>
+			<creator>John Williams</creator>
+			<album>Raiders Of The Lost Ark</album>
+			<trackNum>1</trackNum>
+			<annotation> 00000553 000007EE 000045BC 00004996 000140D0 00019068 000074DB 000081B4 0001923E 0001CAE0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/John%20Williams/Raiders%20Of%20The%20Lost%20Ark/art.png</image>
+			<duration>171807</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
