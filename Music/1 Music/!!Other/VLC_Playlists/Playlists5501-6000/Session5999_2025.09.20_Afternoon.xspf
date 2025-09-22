@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Indiana-Jones-OST/raiders-of-the-lost-ark-soundtracks/15%20The%20German%20Sub_To%20The%20Nazi%20Hideout.mp3</location>
+			<title>The German Sub/To The Nazi Hideout</title>
+			<creator>John Williams</creator>
+			<album>Raiders Of The Lost Ark</album>
+			<trackNum>15</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/John%20Williams/Raiders%20Of%20The%20Lost%20Ark/art.png</image>
+			<duration>271673</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Indiana-Jones-OST/raiders-of-the-lost-ark-soundtracks/19%20End%20Credits.mp3</location>
+			<title>End Credits</title>
+			<creator>John Williams</creator>
+			<album>Raiders Of The Lost Ark</album>
+			<trackNum>19</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/John%20Williams/Raiders%20Of%20The%20Lost%20Ark/art.png</image>
+			<duration>321280</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Indiana-Jones-OST/indianajonesost2/11%20-%20Approaching%20the%20Stones.mp3</location>
+			<title>Approaching the Stones</title>
+			<creator>John Williams</creator>
+			<album>Indiana Jones And The Temple Of Doom (The Original Motion Picture Soundtrack)</album>
+			<trackNum>11</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/John%20Williams/Indiana%20Jones%20And%20The%20Temple%20Of%20Doom%20%28The%20Original%20Motion%20Picture%20Soundtrack%29/art.jpg</image>
+			<duration>159481</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Indiana-Jones-OST/indianajonesost2/12%20-%20Children%20in%20Chains.mp3</location>
+			<title>Children in Chains</title>
+			<creator>John Williams</creator>
+			<album>Indiana Jones And The Temple Of Doom (The Original Motion Picture Soundtrack)</album>
+			<trackNum>12</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/John%20Williams/Indiana%20Jones%20And%20The%20Temple%20Of%20Doom%20%28The%20Original%20Motion%20Picture%20Soundtrack%29/art.jpg</image>
+			<duration>161806</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Indiana-Jones-OST/indianajonesost2/13%20-%20The%20Temple%20of%20Doom.mp3</location>
+			<title>The Temple of Doom</title>
+			<creator>John Williams</creator>
+			<album>Indiana Jones And The Temple Of Doom (The Original Motion Picture Soundtrack)</album>
+			<trackNum>13</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/John%20Williams/Indiana%20Jones%20And%20The%20Temple%20Of%20Doom%20%28The%20Original%20Motion%20Picture%20Soundtrack%29/art.jpg</image>
+			<duration>178080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
