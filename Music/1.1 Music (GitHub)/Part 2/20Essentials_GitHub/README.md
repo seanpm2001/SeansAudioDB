@@ -2000,6 +2000,41 @@ No new data for today.
 
 #### 2025, September 22nd
 
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. Uploads seem to be increasing from this account now, although most updates from the past week were to repositories I have already downloaded, and I do not intend to redownload these repositories, although the number of original repositories has doubled for a second time this week (from 1 to 2, then from 2 to 4) Only 4 new repositories were downloaded today.
+
+```urll
+https://github.com/20essentials/samuel-king
+https://github.com/20essentials/fools-garden-album
+https://github.com/20essentials/forhill-band
+https://github.com/20essentials/french-montana-album
+```
+
+#### 2025, September 23rd
+
+No new data for today.
+
+#### 2025, September 24th
+
+No new data for today.
+
+#### 2025, September 25th
+
+No new data for today.
+
+#### 2025, September 26th
+
+No new data for today.
+
+#### 2025, September 27th
+
+No new data for today.
+
+#### 2025, September 28th
+
+No new data for today.
+
+#### 2025, September 29th
+
 No new data for today.
 
 ---
@@ -2022,6 +2057,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `22 (2025, Monday, September 15th at 12:25 pm PST)`
+**File version:** `23 (2025, Monday, September 22nd at 02:23 pm PST)`
 
 ***
