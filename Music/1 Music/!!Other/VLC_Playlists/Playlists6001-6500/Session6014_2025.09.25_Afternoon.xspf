@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Smash-Bros.-Ultimate-Expanded-Soundtrack/Vol.%2001%20Super%20Smash%20Bros.%20[FLAC]%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/Disc%201%20-%20Sound%20Test/1.19%20The%20Final%20Battle.flac</location>
+			<title>The Final Battle</title>
+			<creator>Rio Hamamoto</creator>
+			<album>Vol. 01: Super Smash Bros. ♪ Super Smash Bros. Ultimate Expanded Soundtrack</album>
+			<trackNum>19</trackNum>
+			<annotation>Project by: @SittingOnCloud</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rio%20Hamamoto/Vol.%2001_%20Super%20Smash%20Bros.%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/art.png</image>
+			<duration>187663</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Smash-Bros.-Ultimate-Expanded-Soundtrack/Vol.%2001%20Super%20Smash%20Bros.%20[FLAC]%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/Disc%201%20-%20Sound%20Test/1.20%20The%20Final%20Battle-%20After%20the%20Transformation.flac</location>
+			<title>The Final Battle: After the Transformation</title>
+			<creator>Rio Hamamoto</creator>
+			<album>Vol. 01: Super Smash Bros. ♪ Super Smash Bros. Ultimate Expanded Soundtrack</album>
+			<trackNum>20</trackNum>
+			<annotation>Project by: @SittingOnCloud</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rio%20Hamamoto/Vol.%2001_%20Super%20Smash%20Bros.%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/art.png</image>
+			<duration>176165</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Smash-Bros.-Ultimate-Expanded-Soundtrack/Vol.%2001%20Super%20Smash%20Bros.%20[FLAC]%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/Disc%201%20-%20Sound%20Test/1.21%20Galeem.flac</location>
+			<title>Galeem</title>
+			<creator>Keisuke Ito</creator>
+			<album>Vol. 01: Super Smash Bros. ♪ Super Smash Bros. Ultimate Expanded Soundtrack</album>
+			<trackNum>21</trackNum>
+			<annotation>Project by: @SittingOnCloud</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Keisuke%20Ito/Vol.%2001_%20Super%20Smash%20Bros.%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/art.png</image>
+			<duration>336402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Smash-Bros.-Ultimate-Expanded-Soundtrack/Vol.%2001%20Super%20Smash%20Bros.%20[FLAC]%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/Disc%201%20-%20Sound%20Test/1.24%20Main%20Theme%20Piano%20Solo.flac</location>
+			<title>Main Theme Piano Solo</title>
+			<creator>Hideki Sakamoto</creator>
+			<album>Vol. 01: Super Smash Bros. ♪ Super Smash Bros. Ultimate Expanded Soundtrack</album>
+			<trackNum>24</trackNum>
+			<annotation>Project by: @SittingOnCloud</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Hideki%20Sakamoto/Vol.%2001_%20Super%20Smash%20Bros.%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/art.png</image>
+			<duration>195161</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
