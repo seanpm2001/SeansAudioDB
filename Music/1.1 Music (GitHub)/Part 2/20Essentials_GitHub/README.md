@@ -2035,6 +2035,38 @@ No new data for today.
 
 #### 2025, September 29th
 
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. Uploads seem to be decreasinbg from this account again, although most updates from the past week were to repositories I have already downloaded, and I do not intend to redownload these repositories, with only 1 original new repository today. 1 new repository was downloaded today.
+
+```urll
+https://github.com/20essentials/house-of-the-dragon
+```
+
+#### 2025, September 30th
+
+No new data for today.
+
+#### 2025, October 1st
+
+No new data for today.
+
+#### 2025, October 2nd
+
+No new data for today.
+
+#### 2025, October 3rd
+
+No new data for today.
+
+#### 2025, October 4th
+
+No new data for today.
+
+#### 2025, October 5th
+
+No new data for today.
+
+#### 2025, October 6th
+
 No new data for today.
 
 ---
@@ -2057,6 +2089,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `23 (2025, Monday, September 22nd at 02:23 pm PST)`
+**File version:** `24 (2025, Monday, September 29th at 04:38 pm PST)`
 
 ***
