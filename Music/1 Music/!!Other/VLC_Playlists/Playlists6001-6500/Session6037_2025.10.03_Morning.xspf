@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Smash-Bros.-Ultimate-Expanded-Soundtrack/Vol.%2012%20Fire%20Emblem%20[FLAC]%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/Disc%201%20-%20Sound%20Test/1.42%20Fire%20Emblem-%20Three%20Houses%20Main%20Theme%20(JP).flac</location>
+			<title>Fire Emblem: Three Houses Main Theme (JP)</title>
+			<creator>Akihiro Honda</creator>
+			<album>Vol. 12: Fire Emblem ♪ Super Smash Bros. Ultimate Expanded Soundtrack</album>
+			<trackNum>42</trackNum>
+			<annotation>Project by: @SittingOnCloud</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Akihiro%20Honda/Vol.%2012_%20Fire%20Emblem%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/art.png</image>
+			<duration>301060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Smash-Bros.-Ultimate-Expanded-Soundtrack/Vol.%2012%20Fire%20Emblem%20[FLAC]%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/Disc%201%20-%20Sound%20Test/1.51%20Edge%20of%20Dawn%20(Seasons%20of%20Warfare)%20(JP).flac</location>
+			<title>Edge of Dawn (Seasons of Warfare) (JP)</title>
+			<creator>Takeru Kanazaki, Hiroki Morishita, Rei Kondoh</creator>
+			<album>Vol. 12: Fire Emblem ♪ Super Smash Bros. Ultimate Expanded Soundtrack</album>
+			<trackNum>51</trackNum>
+			<annotation>Project by: @SittingOnCloud</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Takeru%20Kanazaki%2C%20Hiroki%20Morishita%2C%20Rei%20Kondoh/Vol.%2012_%20Fire%20Emblem%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/art.png</image>
+			<duration>604619</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Smash-Bros.-Ultimate-Expanded-Soundtrack/Vol.%2012%20Fire%20Emblem%20[FLAC]%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/Disc%201%20-%20Sound%20Test/1.52%20Edge%20of%20Dawn%20(Seasons%20of%20Warfare).flac</location>
+			<title>Edge of Dawn (Seasons of Warfare)</title>
+			<creator>Takeru Kanazaki, Hiroki Morishita, Rei Kondoh</creator>
+			<album>Vol. 12: Fire Emblem ♪ Super Smash Bros. Ultimate Expanded Soundtrack</album>
+			<trackNum>52</trackNum>
+			<annotation>Project by: @SittingOnCloud</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Takeru%20Kanazaki%2C%20Hiroki%20Morishita%2C%20Rei%20Kondoh/Vol.%2012_%20Fire%20Emblem%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/art.png</image>
+			<duration>604619</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
