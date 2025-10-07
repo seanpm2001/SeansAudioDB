@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Smash-Bros.-Ultimate-Expanded-Soundtrack/Vol.%2021%20Splatoon%20[FLAC]%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/Disc%201%20-%20Sound%20Test/1.01%20Splattack!.flac</location>
+			<title>Splattack!</title>
+			<creator>Shohei Tsuchiya (ZUNTATA)</creator>
+			<album>Vol. 21: Splatoon ♪ Super Smash Bros. Ultimate Expanded Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>Project by: @SittingOnCloud</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shohei%20Tsuchiya%20%28ZUNTATA%29/Vol.%2021_%20Splatoon%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/art.png</image>
+			<duration>303872</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
