@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Smash-Bros.-Ultimate-Expanded-Soundtrack/Vol.%2035%20ARMS%20%E2%99%AA%20[FLAC]%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/Disc%201%20-%20Sound%20Test/1.01%20ARMS%20Grand%20Prix%20Official%20Theme%20Song.flac</location>
+			<title>ARMS Grand Prix Official Theme Song</title>
+			<creator>Atsuko Asahi, Yasuaki Iwata</creator>
+			<album>Vol. 35 ARMS ♪ Super Smash Bros. Ultimate Expanded Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>Project by: @SittingOnCloud</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Asahi%2C%20Yasuaki%20Iwata/Vol.%2035%20ARMS%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/art.png</image>
+			<duration>275464</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Smash-Bros.-Ultimate-Expanded-Soundtrack/Vol.%2035%20ARMS%20%E2%99%AA%20[FLAC]%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/Disc%201%20-%20Sound%20Test/1.02%20Spring%20Stadium.flac</location>
+			<title>Spring Stadium</title>
+			<creator>Atsuko Asahi</creator>
+			<album>Vol. 35 ARMS ♪ Super Smash Bros. Ultimate Expanded Soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>Project by: @SittingOnCloud</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Asahi/Vol.%2035%20ARMS%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/art.png</image>
+			<duration>135306</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Smash-Bros.-Ultimate-Expanded-Soundtrack/Vol.%2035%20ARMS%20%E2%99%AA%20[FLAC]%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/Disc%201%20-%20Sound%20Test/1.03%20Ramen%20Bowl.flac</location>
+			<title>Ramen Bowl</title>
+			<creator>Atsuko Asahi, Yasuaki Iwata</creator>
+			<album>Vol. 35 ARMS ♪ Super Smash Bros. Ultimate Expanded Soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>Project by: @SittingOnCloud</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Asahi%2C%20Yasuaki%20Iwata/Vol.%2035%20ARMS%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/art.png</image>
+			<duration>267659</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Smash-Bros.-Ultimate-Expanded-Soundtrack/Vol.%2035%20ARMS%20%E2%99%AA%20[FLAC]%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/Disc%201%20-%20Sound%20Test/1.04%20Ribbon%20Ring.flac</location>
+			<title>Ribbon Ring</title>
+			<creator>Atsuko Asahi, Yasuaki Iwata</creator>
+			<album>Vol. 35 ARMS ♪ Super Smash Bros. Ultimate Expanded Soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>Project by: @SittingOnCloud</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Asahi%2C%20Yasuaki%20Iwata/Vol.%2035%20ARMS%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/art.png</image>
+			<duration>146628</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Smash-Bros.-Ultimate-Expanded-Soundtrack/Vol.%2035%20ARMS%20%E2%99%AA%20[FLAC]%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/Disc%201%20-%20Sound%20Test/1.05%20Ninja%20College.flac</location>
+			<title>Ninja College</title>
+			<creator>Atsuko Asahi, Yasuaki Iwata</creator>
+			<album>Vol. 35 ARMS ♪ Super Smash Bros. Ultimate Expanded Soundtrack</album>
+			<trackNum>5</trackNum>
+			<annotation>Project by: @SittingOnCloud</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Asahi%2C%20Yasuaki%20Iwata/Vol.%2035%20ARMS%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/art.png</image>
+			<duration>189181</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Super-Smash-Bros.-Ultimate-Expanded-Soundtrack/Vol.%2035%20ARMS%20%E2%99%AA%20[FLAC]%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/Disc%201%20-%20Sound%20Test/1.06%20Mausoleum.flac</location>
+			<title>Mausoleum</title>
+			<creator>Atsuko Asahi, Yasuaki Iwata</creator>
+			<album>Vol. 35 ARMS ♪ Super Smash Bros. Ultimate Expanded Soundtrack</album>
+			<trackNum>6</trackNum>
+			<annotation>Project by: @SittingOnCloud</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Atsuko%20Asahi%2C%20Yasuaki%20Iwata/Vol.%2035%20ARMS%20%E2%99%AA%20Super%20Smash%20Bros.%20Ultimate%20Expanded%20Soundtrack/art.png</image>
+			<duration>135118</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
