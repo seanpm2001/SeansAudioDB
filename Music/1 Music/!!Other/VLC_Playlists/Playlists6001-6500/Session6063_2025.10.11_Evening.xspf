@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Poland-Anthem/MP3/US-Navy-Band_Poland-Anthem.mp3</location>
+			<duration>42867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/EU-Anthem/US-Navy-Band_Anthem-of-eu-long.mp3</location>
+			<duration>116219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/video%20Classica/Kevin%20MacLeod%20-%2003%20-%20Ambler.mp3</location>
+			<title>Ambler</title>
+			<creator>Kevin MacLeod</creator>
+			<album>video Classica</album>
+			<trackNum>3</trackNum>
+			<annotation>ISRC: USUAN1300019</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/video%20Classica/art.jpg</image>
+			<duration>46344</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/video%20Classica/Kevin%20MacLeod%20-%2004%20-%20Chee%20Zee%20Caves.mp3</location>
+			<title>Chee Zee Caves</title>
+			<creator>Kevin MacLeod</creator>
+			<album>video Classica</album>
+			<trackNum>4</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/video%20Classica/art.jpg</image>
+			<duration>231787</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/video%20Classica/Kevin%20MacLeod%20-%2007%20-%20Mellowtron.mp3</location>
+			<title>Mellowtron</title>
+			<creator>Kevin MacLeod</creator>
+			<album>video Classica</album>
+			<trackNum>7</trackNum>
+			<annotation>ISRC: USUAN1300020</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/video%20Classica/art.jpg</image>
+			<duration>53397</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/video%20Classica/Kevin%20MacLeod%20-%2011%20-%20Video%20Dungeon%20Crawl.mp3</location>
+			<title>Video Dungeon Crawl</title>
+			<creator>Kevin MacLeod</creator>
+			<album>video Classica</album>
+			<trackNum>11</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/video%20Classica/art.jpg</image>
+			<duration>213387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/video%20Classica/Kevin%20MacLeod%20-%2006%20-%20Jaunty%20Gumption.mp3</location>
+			<title>Jaunty Gumption</title>
+			<creator>Kevin MacLeod</creator>
+			<album>video Classica</album>
+			<trackNum>6</trackNum>
+			<annotation>ISRC: USUAN1300017</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/video%20Classica/art.jpg</image>
+			<duration>118416</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/video%20Classica/Kevin%20MacLeod%20-%2008%20-%20Move%20Forward.mp3</location>
+			<title>Move Forward</title>
+			<creator>Kevin MacLeod</creator>
+			<album>video Classica</album>
+			<trackNum>8</trackNum>
+			<annotation>ISRC: USUAN1300018</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/video%20Classica/art.jpg</image>
+			<duration>69253</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/video%20Classica/Kevin%20MacLeod%20-%2005%20-%20Crusade.mp3</location>
+			<title>Crusade</title>
+			<creator>Kevin MacLeod</creator>
+			<album>video Classica</album>
+			<trackNum>5</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/video%20Classica/art.jpg</image>
+			<duration>198742</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Famous%20Classics/Kevin%20MacLeod%20-%2010%20-%20Sheep%20May%20Safely%20Graze%20-%20BWV%20208.mp3</location>
+			<title>Sheep May Safely Graze - BWV 208</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Famous Classics</album>
+			<trackNum>10</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Famous%20Classics/art.jpg</image>
+			<duration>237537</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Famous%20Classics/Kevin%20MacLeod%20-%2013%20-%20Wagner%20Bridal%20Chorus.mp3</location>
+			<title>Wagner Bridal Chorus</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Famous Classics</album>
+			<trackNum>13</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Famous%20Classics/art.jpg</image>
+			<duration>139059</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Famous%20Classics/Kevin%20MacLeod%20-%2012%20-%20Toccata%20and%20Fugue%20in%20D%20Minor.mp3</location>
+			<title>Toccata and Fugue in D Minor</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Famous Classics</album>
+			<trackNum>12</trackNum>
+			<annotation>BWV 565</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Famous%20Classics/art.jpg</image>
+			<duration>521121</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Famous%20Classics/Kevin%20MacLeod%20-%2011%20-%20Thaxted.mp3</location>
+			<title>Thaxted</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Famous Classics</album>
+			<trackNum>11</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Famous%20Classics/art.jpg</image>
+			<duration>152768</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Famous%20Classics/Kevin%20MacLeod%20-%2015%20-%20Waltz%20-%20Tschikovsky%20Op.%2040.mp3</location>
+			<title>Waltz - Tschikovsky Op. 40</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Famous Classics</album>
+			<trackNum>15</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Famous%20Classics/art.jpg</image>
+			<duration>340405</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Famous%20Classics/Kevin%20MacLeod%20-%2007%20-%20Divertimento%20K131.mp3</location>
+			<title>Divertimento K131</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Famous Classics</album>
+			<trackNum>7</trackNum>
+			<annotation> 0000022F 00000160 0000146C 00001283 00010005 0001BF0A 000057F4 000048C4 00000D78 00009D58</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Famous%20Classics/art.jpg</image>
+			<duration>122439</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Famous%20Classics/Kevin%20MacLeod%20-%2003%20-%20Cello%20Suite%20%231%20in%20G%20-%20Prelude.mp3</location>
+			<title>Cello Suite #1 in G - Prelude</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Famous Classics</album>
+			<trackNum>3</trackNum>
+			<annotation>BWV 1007</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Famous%20Classics/art.jpg</image>
+			<duration>128907</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Famous%20Classics/Kevin%20MacLeod%20-%2002%20-%20Canon%20in%20D%20Major.mp3</location>
+			<title>Canon in D Major</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Famous Classics</album>
+			<trackNum>2</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Famous%20Classics/art.jpg</image>
+			<duration>355714</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Garden%20Music/Kevin%20MacLeod%20-%2001%20-%20Garden%20Music.ogg</location>
+			<title>Garden Music</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Garden Music</album>
+			<trackNum>1</trackNum>
+			<annotation>http://archive.org/details/KevinMacLeod_2019-04_Discography</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Garden%20Music/art.jpg</image>
+			<duration>2477217</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Danse%20Macabre/Kevin%20MacLeod%20-%2010%20-%20Danse%20Macabre%20-%20Finale.mp3</location>
+			<title>Danse Macabre - Finale</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Danse Macabre</album>
+			<trackNum>10</trackNum>
+			<annotation> 0000183C 00001327 0000C71E 000054E1 00002D4E 000014B6 0000850F 00008503 000013E5 0000110A</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Danse%20Macabre/art.jpg</image>
+			<duration>21554</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Danse%20Macabre/Kevin%20MacLeod%20-%2001%20-%20Danse%20Macabre.mp3</location>
+			<title>Danse Macabre</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Danse Macabre</album>
+			<trackNum>1</trackNum>
+			<annotation> 000005D6 000005CC 0000EBFB 00009761 000495C6 0001A039 00008812 00008623 0004F40F 000552C1</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Danse%20Macabre/art.jpg</image>
+			<duration>406207</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/Samplers/Classical_Sampler/Kevin_MacLeod_-_Brandenburg_Concerto_No4-1_BWV1049.mp3</location>
+			<title>Brandenburg Concerto No4-1 BWV1049</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Classical Sampler</album>
+			<annotation>URL: http://freemusicarchive.org/music/Kevin_MacLeod/Classical_Sampler/Brandenburg_No4-1_BWV1049
+Comments: http://freemusicarchive.org/
+Curator: 
+Copyright: Creative Commons Attribution: http://creativecommons.org/licenses/by/3.0/</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Classical%20Sampler/art.jpg</image>
+			<duration>437607</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Bitter%20Suite/Kevin%20MacLeod%20-%2002%20-%20Agnus%20Dei%20X.mp3</location>
+			<title>Agnus Dei X</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Bitter Suite</album>
+			<trackNum>2</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Bitter%20Suite/art.jpg</image>
+			<duration>91107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Bitter%20Suite/Kevin%20MacLeod%20-%2001%20-%20A%20Little%20Faith.mp3</location>
+			<title>A Little Faith</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Bitter Suite</album>
+			<trackNum>1</trackNum>
+			<annotation>USUAN1100438 - incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Bitter%20Suite/art.jpg</image>
+			<duration>87983</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Bitter%20Suite/Kevin%20MacLeod%20-%2003%20-%20Ghost%20Dance.mp3</location>
+			<title>Ghost Dance</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Bitter Suite</album>
+			<trackNum>3</trackNum>
+			<annotation> 000000B2 000000A8 000016A1 0000158F 0000A47D 0000BCC6 00005A4A 00005747 0000BCFA 0000B9B6</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Bitter%20Suite/art.jpg</image>
+			<duration>73328</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2014%20-%20Porch%20Swing%20Days.mp3</location>
+			<title>Porch Swing Days</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>14</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>216291</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2016%20-%20Wet%20Riffs.mp3</location>
+			<title>Wet Riffs</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>16</trackNum>
+			<annotation>Bassman project</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>252920</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2020%20-%20Silly%20Fun.mp3</location>
+			<title>Silly Fun</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>20</trackNum>
+			<annotation> 0000039C 000004D4 000018AD 00001F49 0000F878 0000F878 00007E86 00007E7C 0000B0F0 0000F892</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>74556</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2003%20-%20Montauk%20Point.mp3</location>
+			<title>Montauk Point</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>219719</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2007%20-%20Bicycle.mp3</location>
+			<title>Bicycle</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>7</trackNum>
+			<annotation>Bassman project</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>282413</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2006%20-%20Brittle%20Rille.mp3</location>
+			<title>Brittle Rille</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>6</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>229147</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2004%20-%20Summer%20Day.mp3</location>
+			<title>Summer Day</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>4</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>198063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2005%20-%20Easy%20Lemon.mp3</location>
+			<title>Easy Lemon</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>5</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>126383</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2011%20-%20Honey%20Bee.mp3</location>
+			<title>Honey Bee</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>11</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>57106</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2009%20-%20Blue%20Feather.mp3</location>
+			<title>Blue Feather</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>9</trackNum>
+			<annotation> 00000065 00000060 0000166D 000017CB 00039453 00004134 00007484 00007EC8 0003946D 000394A1</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>278076</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2010%20-%20Devastation%20and%20Revenge.mp3</location>
+			<title>Devastation and Revenge</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>10</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>185263</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Reunited/Kevin%20MacLeod%20-%2001%20-%20Reunited.mp3</location>
+			<title>Reunited</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Reunited</album>
+			<trackNum>1</trackNum>
+			<annotation> 00000505 000004EE 00002589 00002A72 00002143 00002143 00007FFF 00007FFF 0000A20A 00009668</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Reunited/art.jpg</image>
+			<duration>71395</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+	</extension>
+</playlist>
