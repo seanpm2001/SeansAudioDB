@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Disco%20Ultralounge/Kevin%20MacLeod%20-%2019%20-%20Stringed%20Disco.mp3</location>
+			<title>Stringed Disco</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>19</trackNum>
+			<annotation>Made with Sonic Foundry ACID 3</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>174972</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Disco%20Ultralounge/Kevin%20MacLeod%20-%2018%20-%20Soporific.mp3</location>
+			<title>Soporific</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>18</trackNum>
+			<annotation> 0000027D 0000025D 00001B4D 00001C3D 0003CEB1 0003CD92 00007590 00007CB4 00029729 000221EB</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>290197</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Disco%20Ultralounge/Kevin%20MacLeod%20-%2004%20-%20Babylon.mp3</location>
+			<title>Babylon</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>4</trackNum>
+			<annotation> 0000001E 0000001D 000003C5 0000038E 00027B82 0000971F 0000409A 00004195 00021CEB 0001F68D</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>255297</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Disco%20Ultralounge/Kevin%20MacLeod%20-%2005%20-%20Chill.mp3</location>
+			<title>Chill</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>5</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>230559</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Disco%20Ultralounge/Kevin%20MacLeod%20-%2010%20-%20Ether%20Disco.mp3</location>
+			<title>Ether Disco</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>10</trackNum>
+			<annotation>Made with Sonic Foundry ACID 3</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>176070</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Disco%20Ultralounge/Kevin%20MacLeod%20-%2006%20-%20Cool%20Blast.mp3</location>
+			<title>Cool Blast</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>6</trackNum>
+			<annotation> 00000146 000000C0 00001A7C 00000907 0000A20A 0000DE8D 000074C1 00005356 0000A20A 0000CF3E</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>76620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
