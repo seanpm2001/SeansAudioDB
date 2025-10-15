@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Comedy%20Scoring/Kevin%20MacLeod%20-%2011%20-%20Scheming%20Weasel%20(faster%20version).mp3</location>
+			<title>Scheming Weasel (faster version)</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Comedy Scoring</album>
+			<trackNum>11</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Comedy%20Scoring/art.jpg</image>
+			<duration>89133</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Comedy%20Scoring/Kevin%20MacLeod%20-%2012%20-%20Scheming%20Weasel%20(slower%20version).mp3</location>
+			<title>Scheming Weasel (slower version)</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Comedy Scoring</album>
+			<trackNum>12</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Comedy%20Scoring/art.jpg</image>
+			<duration>110918</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Comedy%20Scoring/Kevin%20MacLeod%20-%2004%20-%20Happy%20Boy%20End%20Theme.mp3</location>
+			<title>Happy Boy End Theme</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Comedy Scoring</album>
+			<trackNum>4</trackNum>
+			<annotation> 000002C9 000002BE 00001591 0000147B 00004B82 00009287 00007AA8 00008264 0000A2C1 0000A2A7</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Comedy%20Scoring/art.jpg</image>
+			<duration>53893</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Disco%20Ultralounge/Kevin%20MacLeod%20-%2013%20-%20Local%20Forecast%20-%20Elevator.mp3</location>
+			<title>Local Forecast - Elevator</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Disco Ultralounge</album>
+			<trackNum>13</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Disco%20Ultralounge/art.jpg</image>
+			<duration>189208</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
