@@ -129,11 +129,11 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 
 # 🇺🇦️ Counter / Лічильник / Прилавок / Лічыльнік / 계수기 🇺🇦️
 
-- The Ukrainian Flag Emoji appears in this document `6724` times (as of 2025.10.13)
-- UA/UK: У цьому документі з'являється емодзі прапора України `6724` разів (станом на 2025.10.13)
-- RU: Эмодзи Флаг Украины появляется в этом документе `6724` раз (по состоянию на 2025.10.13)
-- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `6724` разоў (на 2025.10.13)
-- KO: 우크라이나 국기 이모지는 이 문서에 `6724` 번 등장합니다(2025.10.13 기준)
+- The Ukrainian Flag Emoji appears in this document `6727` times (as of 2025.10.14)
+- UA/UK: У цьому документі з'являється емодзі прапора України `6727` разів (станом на 2025.10.14)
+- RU: Эмодзи Флаг Украины появляется в этом документе `6727` раз (по состоянию на 2025.10.14)
+- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `6727` разоў (на 2025.10.14)
+- KO: 우크라이나 국기 이모지는 이 문서에 `6727` 번 등장합니다(2025.10.14 기준)
 
 ***
 
@@ -1239,6 +1239,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1097: 2025, October 11th
 - [x] 🇺🇦️ Day 1098: 2025, October 12th
 - [x] 🇺🇦️ Day 1099: 2025, October 13th
+- [x] 🇺🇦️ Day 1100: 2025, October 14th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -2575,7 +2576,8 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1325, 2025, Friday, October 10th
 - [x] 🇺🇦️ Day 1326, 2025, Saturday, October 11th
 - [x] 🇺🇦️ Day 1327, 2025, Sunday, October 12th
-- [x] 🇺🇦️ Day 1328, 2025, Sunday, October 13th
+- [x] 🇺🇦️ Day 1328, 2025, Monday, October 13th
+- [x] 🇺🇦️ Day 1329, 2025, Tuesday, October 14th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -6845,17 +6847,18 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 4251: 2025, October 11th
 - [x] 🇺🇦️ Day 4252: 2025, October 12th
 - [x] 🇺🇦️ Day 4253: 2025, October 13th
+- [x] 🇺🇦️ Day 4254: 2025, October 14th
 
 <!-- upcoming
 2026, February 20th: (11th year of the Russo-Ukrainian war)
 2026, August 24th:  (happy independence day Ukraine!) **Слава Україні!**
 !-->
 
-- After 4,253 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 4,253 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 4,253 дня это все еще Украина. Слава Украине!
-- BE: Праз 4,253 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
-- KO: 4,253 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
+- After 4,254 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 4,254 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 4,254 дня это все еще Украина. Слава Украине!
+- BE: Праз 4,254 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
+- KO: 4,254 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
 
 #### N1
 
@@ -6895,7 +6898,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **BE: Тып файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 - **KO: 파일 유형:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `1021 (2025, Monday, October 13th at 07:25 pm PST)`
+- **File version:** `1022 (2025, Tuesday, October 14th at 06:06 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
@@ -6905,11 +6908,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 > **Translation not available (Korean) 번역이 불가능합니다. (한국어)**
 
-- **Line count (including blank lines and compiler line):** `7,499`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `7,499`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `7,499`
-- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `7,499`
-- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `7,499`
+- **Line count (including blank lines and compiler line):** `7,522`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `7,522`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `7,522`
+- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `7,522`
+- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `7,522`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -7402,6 +7405,26 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 1022 (2025, Tuesday, October 14th at 06:06 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `6727`
+- [x] Updated the main list to include an entry for 2025, October 14th (day 1,100)
+- [x] Updated the list of all days of the war since the 2022 Invasion (1,328 days)
+- [x] Updated the list of all days of the war (4,254 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 1022
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 1022
+
+</details> <!-- V1022 !-->
+
+---
+
 _End of file history._
 
 </details> <!-- End of file history !-->
@@ -7416,11 +7439,11 @@ _End of file history._
 
 <!-- TODO !--> TODO: Translate this section
 
-- Total consecutive days: 1099 (as of 2025, Monday, October 13th)
-- Days with an update: 1021 (as of 2025, Monday, October 13th)
-- Days without an update: 79 (as of 2025, Monday, October 13th)
+- Total consecutive days: 1100 (as of 2025, Tuesday, October 14th)
+- Days with an update: 1022 (as of 2025, Tuesday, October 14th)
+- Days without an update: 79 (as of 2025, Tuesday, October 14th)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 1021/1099 = 92.902% (as of 2025, Monday, October 13th)
+- Ratio: 1022/1100 = 92.909% (as of 2025, Tuesday, October 14th)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
