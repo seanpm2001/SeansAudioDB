@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/EU-Anthem/US-Navy-Band_Anthem-of-eu-long.mp3</location>
+			<duration>116219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Estonia-Anthem/US-Navy-Band_Anthem-of-estonia.mp3</location>
+			<duration>31764</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Poland-Anthem/MP3/US-Navy-Band_Poland-Anthem.mp3</location>
+			<duration>42867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Anamalie/Kevin%20MacLeod%20-%2001%20-%20Fiddles%20McGinty.mp3</location>
+			<title>Fiddles McGinty</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Anamalie</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Anamalie/art.jpg</image>
+			<duration>207233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Anamalie/Kevin%20MacLeod%20-%2009%20-%20Baba%20Yaga.mp3</location>
+			<title>Baba Yaga</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Anamalie</album>
+			<trackNum>9</trackNum>
+			<annotation>USUAN1500079 at incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Anamalie/art.jpg</image>
+			<duration>252059</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Anamalie/Kevin%20MacLeod%20-%2004%20-%20Sardana.mp3</location>
+			<title>Sardana</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Anamalie</album>
+			<trackNum>4</trackNum>
+			<annotation>USUAN1400055 from incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Anamalie/art.jpg</image>
+			<duration>192108</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Anamalie/Kevin%20MacLeod%20-%2002%20-%20Kings%20of%20Tara.ogg</location>
+			<title>Kings of Tara</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Anamalie</album>
+			<trackNum>2</trackNum>
+			<annotation>http://archive.org/details/KevinMacLeod_2019-04_Discography</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Anamalie/art.jpg</image>
+			<duration>221544</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Anamalie/Kevin%20MacLeod%20-%2003%20-%20Meanwhile%20in%20Bavaria.mp3</location>
+			<title>Meanwhile in Bavaria</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Anamalie</album>
+			<trackNum>3</trackNum>
+			<annotation>incompetech.com - ISRC: USUAN1500057</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Anamalie/art.jpg</image>
+			<duration>214938</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Anamalie/Kevin%20MacLeod%20-%2005%20-%20Anamalie.mp3</location>
+			<title>Anamalie</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Anamalie</album>
+			<trackNum>5</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Anamalie/art.jpg</image>
+			<duration>208278</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Anamalie/Kevin%20MacLeod%20-%2007%20-%20Bumba%20Crossing.mp3</location>
+			<title>Bumba Crossing</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Anamalie</album>
+			<trackNum>7</trackNum>
+			<annotation>USUAN1500031 from incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Anamalie/art.jpg</image>
+			<duration>276980</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Anamalie/Kevin%20MacLeod%20-%2011%20-%20Vadodora%20Chill%20Mix.mp3</location>
+			<title>Vadodora Chill Mix</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Anamalie</album>
+			<trackNum>11</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Anamalie/art.jpg</image>
+			<duration>222750</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Anamalie/Kevin%20MacLeod%20-%2010%20-%20Naraina.mp3</location>
+			<title>Naraina</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Anamalie</album>
+			<trackNum>10</trackNum>
+			<annotation>USUAN1400053 from incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Anamalie/art.jpg</image>
+			<duration>210577</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Cephalopod/Kevin%20MacLeod%20-%2006%20-%20Future%20Gladiator.mp3</location>
+			<title>Future Gladiator</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Cephalopod</album>
+			<trackNum>6</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Cephalopod/art.jpg</image>
+			<duration>217028</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Cephalopod/Kevin%20MacLeod%20-%2007%20-%20Griphop.mp3</location>
+			<title>Griphop</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Cephalopod</album>
+			<trackNum>7</trackNum>
+			<annotation> 000000E9 00000121 00001495 000015F5 0002C1B6 0002C1B6 00006D3F 00007C36 00007BE0 000038BC</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Cephalopod/art.jpg</image>
+			<duration>206736</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Cephalopod/Kevin%20MacLeod%20-%2010%20-%20Takeover%20of%20the%208-bit%20Synths.mp3</location>
+			<title>Takeover of the 8-bit Synths</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Cephalopod</album>
+			<trackNum>10</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Cephalopod/art.jpg</image>
+			<duration>213397</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Cephalopod/Kevin%20MacLeod%20-%2011%20-%20The%20Machine%20Thinks.mp3</location>
+			<title>The Machine Thinks</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Cephalopod</album>
+			<trackNum>11</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Cephalopod/art.jpg</image>
+			<duration>174213</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Cephalopod/Kevin%20MacLeod%20-%2009%20-%20Psychedelic%20Crater.mp3</location>
+			<title>Psychedelic Crater</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Cephalopod</album>
+			<trackNum>9</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Cephalopod/art.jpg</image>
+			<duration>200075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Laserpack/Kevin%20MacLeod%20-%2001%20-%20Laserpack.mp3</location>
+			<title>Laserpack</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Laserpack</album>
+			<trackNum>1</trackNum>
+			<annotation>ISRC: USUAN1800018
+</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Laserpack/art.jpg</image>
+			<duration>185681</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2001%20-%20At%20Rest.mp3</location>
+			<title>At Rest</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>206571</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2002%20-%20Avec%20Soin.mp3</location>
+			<title>Avec Soin</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>2</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>145087</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2003%20-%20Facile.mp3</location>
+			<title>Facile</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>212065</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2004%20-%20Feather%20Waltz.mp3</location>
+			<title>Feather Waltz</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>4</trackNum>
+			<annotation> 00000002 00000001 0000008C 00000063 000031B1 000031B1 00001486 00001253 0000329C 000031CB</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>90073</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2005%20-%20Gone%20Beyond.mp3</location>
+			<title>Gone Beyond</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>5</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>161074</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2006%20-%20Heart%20of%20Nowhere.mp3</location>
+			<title>Heart of Nowhere</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>6</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>172307</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2007%20-%20Love%20Song.mp3</location>
+			<title>Love Song</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>7</trackNum>
+			<annotation>incompetech.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>180248</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2008%20-%20Memory%20Lane.mp3</location>
+			<title>Memory Lane</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>8</trackNum>
+			<annotation> 00000172 0000013C 00001DB7 00002EC1 0000E4E0 0000E739 00007D92 00007D4C 0000E4E0 0000C8EB</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>111049</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2009%20-%20On%20the%20Shore.mp3</location>
+			<title>On the Shore</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>9</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>100783</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2010%20-%20Open%20Those%20Bright%20Eyes.mp3</location>
+			<title>Open Those Bright Eyes</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>10</trackNum>
+			<annotation> 000000DD 0000010F 00002D73 0000347F 0000B8E5 0000B900 00007B90 00007E86 0000B91A 0000B8E5</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>88061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2011%20-%20Pepper&#39;s%20Theme.mp3</location>
+			<title>Pepper&#39;s Theme</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>11</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>239546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2012%20-%20Reawakening.mp3</location>
+			<title>Reawakening</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>12</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>214076</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2013%20-%20The%20Parting.mp3</location>
+			<title>The Parting</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>13</trackNum>
+			<annotation> 00000180 0000020F 0000194A 00002284 00025F58 00021F29 00005F4A 00007DD1 000263A1 0002655E</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>183879</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2014%20-%20Thinking%20of%20You.mp3</location>
+			<title>Thinking of You</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>14</trackNum>
+			<annotation> 00000179 0000013E 00001DA8 00001F1C 000018B1 0000E19C 00008026 00007C27 0000B934 00013A63</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>110057</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2015%20-%20Water%20Droplets%20on%20the%20River.mp3</location>
+			<title>Water Droplets on the River</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>15</trackNum>
+			<annotation> 00000314 000002FE 00001D40 00002968 00009205 00014B87 00007260 00007E04 0000A4CB 0000B849</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>104832</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Romance/Kevin%20MacLeod%20-%2016%20-%20Water%20Lily.mp3</location>
+			<title>Water Lily</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Romance</album>
+			<trackNum>16</trackNum>
+			<annotation>0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Romance/art.jpg</image>
+			<duration>144069</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Achaidh%20Cheide.mp3</location>
+			<title>Achaidh Cheide</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>0</annotation>
+			<duration>134064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Achilles.mp3</location>
+			<title>Achilles</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation> 0000060A 0000032D 00003240 00002E05 0000B3CB 0000C50A 00009314 00008EFC 0000B4D0 0000B982</annotation>
+			<duration>60946</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Adventure%20Meme.mp3</location>
+			<title>Adventure Meme</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>ISRC: USUAN1400056 from incompetech.com</annotation>
+			<duration>101124</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Airship%20Serenity.mp3</location>
+			<title>Airship Serenity</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>ISRC: USUAN1600046</annotation>
+			<duration>240069</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Aitech.mp3</location>
+			<title>Aitech</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>aa9f3fc4-1f77-4baa-8957-ec98a6e53ce1</annotation>
+			<duration>150915</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+	</extension>
+</playlist>
