@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Achaidh%20Cheide.mp3</location>
+			<title>Achaidh Cheide</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>0</annotation>
+			<duration>134063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Comedic%20Juggernaut.mp3</location>
+			<title>Comedic Juggernaut</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>0</annotation>
+			<duration>46059</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Gaslamp%20Funworks.mp3</location>
+			<title>Gaslamp Funworks</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation> 00000D76 00000EFC 00008A1E 00008D46 00006863 0000A2F5 00007E86 00007E86 000118B6 000146A1</annotation>
+			<duration>148666</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Disco%20Medusae.mp3</location>
+			<title>Disco Medusae</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>USUAN1500041 from incompetech.com</annotation>
+			<duration>221287</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Gregorian%20Chant.mp3</location>
+			<title>Gregorian Chant</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>0</annotation>
+			<duration>194067</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Furious%20Freak.mp3</location>
+			<title>Furious Freak</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>ISRC: USUAN1600021 incompetech.com</annotation>
+			<duration>187145</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Bittersweet.mp3</location>
+			<title>Bittersweet</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>ISRC: USUAN1700004</annotation>
+			<duration>202061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
