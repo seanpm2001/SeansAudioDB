@@ -2105,6 +2105,46 @@ No new data for today.
 https://github.com/20essentials/madcon
 ```
 
+#### 2025, October 14th
+
+No new data for today.
+
+#### 2025, October 15th
+
+No new data for today.
+
+#### 2025, October 16th
+
+No new data for today.
+
+#### 2025, October 17th
+
+No new data for today.
+
+#### 2025, October 18th
+
+No new data for today.
+
+#### 2025, October 19th
+
+No new data for today.
+
+#### 2025, October 20th
+
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. The same as last week, most updates from this account in the past week were to repositories I have already downloaded, and I do not intend to redownload these repositories, with only 1 original new repository being present today. 1 new repository was downloaded today.
+
+```urll
+https://github.com/20essentials/emdi
+```
+
+---
+
+#### Why I don't download version 2 and later of each music repository
+
+- It would take too long to manually archive and separate V1 and V2
+- It would take up too much memory (V1 alone takes up 303.1 gigabytes in total, as of 2025, Monday, October 20th)
+- I don't know what would improve in V2
+
 ---
 
 ## Removed files from the structure:
@@ -2125,6 +2165,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `26 (2025, Monday, October 13th at 04:45 pm PST)`
+**File version:** `27 (2025, Monday, October 20th at 05:41 pm PST)`
 
 ***
