@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Light%20Thought%20var%204.mp3</location>
+			<title>Light Thought var 4</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>0</annotation>
+			<duration>133410</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Song%20of%20the%20Volga%20Boatmen.mp3</location>
+			<title>Song of the Volga Boatmen</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>0</annotation>
+			<duration>61338</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Pookatori%20and%20Friends.mp3</location>
+			<title>Pookatori and Friends</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation>ISRC: USUAN1700002</annotation>
+			<duration>247801</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/KevinMacLeod_2019-04_Discography/Kevin%20MacLeod/Royalty%20Free/Kevin%20MacLeod%20-%2000%20-%20Gymnopedie%20No%202.mp3</location>
+			<title>Gymnopedie No 2</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Royalty Free</album>
+			<annotation> 000000DD 0000011A 00002E32 00002FCC 0000B0BC 0001CEDB 00007E86 00006950 0000B0BC 0001DAE5</annotation>
+			<duration>159036</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
