@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/AIFF/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2027%20Cerebrawl%20IN-GAME.aiff</location>
+			<title>Cerebrawl IN-GAME</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>27</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%20Soundtrack/art.jpg</image>
+			<duration>115678</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/AIFF/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2011%20Rigor%20Mormist.aiff</location>
+			<title>Rigor Mormist</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>11</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%20Soundtrack/art.jpg</image>
+			<duration>112508</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/AIFF/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2014%20Brainiac%20Maniac.aiff</location>
+			<title>Brainiac Maniac</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>14</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%20Soundtrack/art.jpg</image>
+			<duration>102605</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Plants%20vs.zombies%20series/Plants%20vs.zombies%20(PC,%20iOS,%20Android)/Album/AIFF/Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2013%20Graze%20the%20Roof.aiff</location>
+			<title>Graze the Roof</title>
+			<creator>Laura Shigihara</creator>
+			<album>Plants vs. Zombies Soundtrack</album>
+			<trackNum>13</trackNum>
+			<annotation>Visit http://laurashigihara.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Laura%20Shigihara/Plants%20vs.%20Zombies%20Soundtrack/art.jpg</image>
+			<duration>183983</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Deltarune_C2_33%20Giga%20Size.mp3</location>
+			<title>Giga Size</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 2 OST</album>
+			<trackNum>33</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%202%20OST/art.jpg</image>
+			<duration>107546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Deltarune_C1_30%20Chaos%20King.mp3</location>
+			<title>Chaos King</title>
+			<creator>Toby Fox</creator>
+			<album>DELTARUNE Chapter 1 OST</album>
+			<trackNum>30</trackNum>
+			<annotation>Visit https://tobyfox.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Toby%20Fox/DELTARUNE%20Chapter%201%20OST/art.jpg</image>
+			<duration>106161</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
