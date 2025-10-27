@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%204%20Solid%20State%20Society%20O.S.T/06.%20Yoko%20Kanno%20-%20Born%20Stubborn.flac</location>
+			<title>Born Stubborn</title>
+			<creator>Yoko Kanno</creator>
+			<album>Ghost In The Shell Stand Alone Complex - Solid State Society O.S.T.</album>
+			<trackNum>6</trackNum>
+			<duration>205666</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%204%20Solid%20State%20Society%20O.S.T/02.%20Ilaria%20Graziano%20-%20Replica.flac</location>
+			<title>Replica</title>
+			<creator>Ilaria Graziano</creator>
+			<album>Ghost In The Shell Stand Alone Complex - Solid State Society O.S.T.</album>
+			<trackNum>2</trackNum>
+			<duration>323440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%204%20Solid%20State%20Society%20O.S.T/03.%20Yoko%20Kanno%20-%20Zero%20Signal.flac</location>
+			<title>Zero Signal</title>
+			<creator>Yoko Kanno</creator>
+			<album>Ghost In The Shell Stand Alone Complex - Solid State Society O.S.T.</album>
+			<trackNum>3</trackNum>
+			<duration>245160</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%204%20Solid%20State%20Society%20O.S.T/07.%20Gabriela%20Robin%20-%20She%20Is.flac</location>
+			<title>She Is</title>
+			<creator>Gabriela Robin</creator>
+			<album>Ghost In The Shell Stand Alone Complex - Solid State Society O.S.T.</album>
+			<trackNum>7</trackNum>
+			<duration>155000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
