@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Boss%20music/AudioOnly/Plants%20Vs%20Zombies%202%20Music%20-%20Dr.%20ZomBoss%20Fight%20-%20Final%20Wave%20Extended.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Dr. ZomBoss Fight - Final Wave Extended.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Dr. Zomboss</album>
+			<trackNum>4</trackNum>
+			<annotation>The final wave theme of the Dr. Zomboss fight song in Plants vs. Zombies 2, extended a little bit over 15 minutes.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Dr.%20Zomboss/art.png</image>
+			<duration>924697</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
