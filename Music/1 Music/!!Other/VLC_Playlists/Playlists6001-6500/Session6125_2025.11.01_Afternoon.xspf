@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halloween%20music/Angry-Birds-Seasons/AudioOnly/MP3/AngryBirdsSeasons_HammierThings.mp3</location>
+			<title>AngryBirdsSeasons_HammierThings.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>47995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Halloween%20music/Angry-Birds-Seasons/AudioOnly/MP3/AngryBirdsSeasons_HauntedHogs.mp3</location>
+			<title>AngryBirdsSeasons_HauntedHogs.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20OST/art.png</image>
+			<duration>62911</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/13%20-%20Launch%20Base%20Zone%20Act%201.mp3</location>
+			<title>Launch Base Zone Act 1</title>
+			<creator>Michael Jackson, Brad Buxer</creator>
+			<album>Sonic the Hedgehog 3</album>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/%21Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-3-sega-genesis/cover.jpg</image>
+			<duration>137665</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
