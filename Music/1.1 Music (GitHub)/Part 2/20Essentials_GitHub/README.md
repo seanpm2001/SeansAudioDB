@@ -2169,6 +2169,38 @@ No new data for today.
 https://github.com/20essentials/afrojack
 ```
 
+#### 2025, October 28th
+
+No new data for today.
+
+#### 2025, October 29th
+
+No new data for today.
+
+#### 2025, October 30th
+
+No new data for today.
+
+#### 2025, October 31st
+
+No new data for today.
+
+#### 2025, November 1st
+
+No new data for today.
+
+#### 2025, November 2nd
+
+No new data for today.
+
+#### 2025, November 3rd
+
+**Same as last week:** 20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. The same as last week, most updates from this account in the past week were to repositories I have already downloaded, and I do not intend to redownload these repositories, with only 1 original new repository being present today. 1 new repository was downloaded today.
+
+```urll
+https://github.com/20essentials/jam-project
+```
+
 ---
 
 #### Why I don't download version 2 and later of each music repository
@@ -2197,6 +2229,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `28 (2025, Monday, October 27th at 04:31 pm PST)`
+**File version:** `29 (2025, Monday, November 3rd at 06:24 pm PST)`
 
 ***
