@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-2-beta-sonic-the-hedgehog-2-simon-wai-prototype/06%20-%20Green%20Hill%20Zone.mp3</location>
+			<title>Green Hill Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2 (Beta)</album>
+			<duration>100049</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-2-beta-sonic-the-hedgehog-2-simon-wai-prototype/25%20-%20Unused%20-%20Track%2089%20(Special%20Stage).mp3</location>
+			<title>Unused - Track 89 (Special Stage)</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2 (Beta)</album>
+			<duration>104594</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
