@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-spinball-party/06%20Credits.mp3</location>
+			<title>Credits</title>
+			<creator>Tatsuyuki Maeda, Teruhiko Nakagawa, Yutaka Minobe</creator>
+			<album>Sonic Pinball Party</album>
+			<duration>197068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-spinball-party/02%20Main%20Menu.mp3</location>
+			<title>Main Menu</title>
+			<creator>Tatsuyuki Maeda, Teruhiko Nakagawa, Yutaka Minobe</creator>
+			<album>Sonic Pinball Party</album>
+			<duration>76068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-spinball-party/03%20Unknown%20Music%201.mp3</location>
+			<title>Unknown Music 1</title>
+			<creator>Tatsuyuki Maeda, Teruhiko Nakagawa, Yutaka Minobe</creator>
+			<album>Sonic Pinball Party</album>
+			<duration>74031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-spinball-party/04%20Story%20Mode%20Victory.mp3</location>
+			<title>Story Mode Victory</title>
+			<creator>Tatsuyuki Maeda, Teruhiko Nakagawa, Yutaka Minobe</creator>
+			<album>Sonic Pinball Party</album>
+			<duration>72045</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

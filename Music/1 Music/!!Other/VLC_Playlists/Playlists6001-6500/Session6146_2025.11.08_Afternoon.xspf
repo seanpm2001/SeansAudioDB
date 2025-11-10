@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-spinball-party/01%20Title%20Screen.mp3</location>
+			<title>Title Screen</title>
+			<creator>Tatsuyuki Maeda, Teruhiko Nakagawa, Yutaka Minobe</creator>
+			<album>Sonic Pinball Party</album>
+			<duration>17789</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-spinball-party/09%20Casinopolis.mp3</location>
+			<title>Casinopolis</title>
+			<creator>Tatsuyuki Maeda, Teruhiko Nakagawa, Yutaka Minobe</creator>
+			<album>Sonic Pinball Party</album>
+			<duration>65045</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-spinball-party/20%20Casino%20Paradise%20Zone.mp3</location>
+			<title>Casino Paradise Zone</title>
+			<creator>Tatsuyuki Maeda, Teruhiko Nakagawa, Yutaka Minobe</creator>
+			<album>Sonic Pinball Party</album>
+			<duration>183066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-spinball-party/10%20Unknown%20Music%203.mp3</location>
+			<title>Unknown Music 3</title>
+			<creator>Tatsuyuki Maeda, Teruhiko Nakagawa, Yutaka Minobe</creator>
+			<album>Sonic Pinball Party</album>
+			<duration>114051</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
