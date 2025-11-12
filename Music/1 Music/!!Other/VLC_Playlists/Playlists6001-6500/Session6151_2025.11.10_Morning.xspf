@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%202%20Deluxe%20(PC)%20OST/Album/AAC/Skaven%20252%20-%20Bejeweled%202%20-%2010%20A%20New%20Beginning%20(Intro%202).m4a</location>
+			<title>A New Beginning (Intro 2)</title>
+			<creator>Skaven 252</creator>
+			<album>Bejeweled 2</album>
+			<trackNum>10</trackNum>
+			<annotation>Visit https://skaven252.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20252/Bejeweled%202/art.jpg</image>
+			<duration>34690</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%203%20(PC)%20OST/Album/AAC/(PH)%20-%20Bejeweled%203%20-%2008%20Butterflies.m4a</location>
+			<title>Butterflies</title>
+			<creator>(PH)</creator>
+			<album>Bejeweled 3</album>
+			<trackNum>8</trackNum>
+			<annotation>Visit https://skaven252.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%28PH%29/Bejeweled%203/art.jpg</image>
+			<duration>179954</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%203%20(PC)%20OST/Album/AAC/(PH)%20-%20Bejeweled%203%20-%2015%20Quest%20Theme.m4a</location>
+			<title>Quest Theme</title>
+			<creator>(PH)</creator>
+			<album>Bejeweled 3</album>
+			<trackNum>15</trackNum>
+			<annotation>Visit https://skaven252.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%28PH%29/Bejeweled%203/art.jpg</image>
+			<duration>44234</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%203%20(PC)%20OST/Album/AAC/(PH)%20-%20Bejeweled%203%20-%2001%20Intro.m4a</location>
+			<title>Intro</title>
+			<creator>(PH)</creator>
+			<album>Bejeweled 3</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit https://skaven252.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%28PH%29/Bejeweled%203/art.jpg</image>
+			<duration>27190</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%203%20(PC)%20OST/Album/AAC/(PH)%20-%20Bejeweled%203%20-%2010%20Ice%20Storm.m4a</location>
+			<title>Ice Storm</title>
+			<creator>(PH)</creator>
+			<album>Bejeweled 3</album>
+			<trackNum>10</trackNum>
+			<annotation>Visit https://skaven252.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%28PH%29/Bejeweled%203/art.jpg</image>
+			<duration>184203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%203%20(PC)%20OST/Album/AAC/(PH)%20-%20Bejeweled%203%20-%2007%20Lightning%20(aka%20Blitz).m4a</location>
+			<title>Lightning (aka Blitz)</title>
+			<creator>(PH)</creator>
+			<album>Bejeweled 3</album>
+			<trackNum>7</trackNum>
+			<annotation>Visit https://skaven252.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%28PH%29/Bejeweled%203/art.jpg</image>
+			<duration>164559</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
