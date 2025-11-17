@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Dr.Mario%20Series/Dr.Mario%20(GBA)%20OST/MP3/Dr.MarioGBA_Ending-Theme.mp3</location>
+			<title>Dr.MarioGBA_Ending-Theme.mp3</title>
+			<creator>Nintendo</creator>
+			<album>Dr. Mario (GBA) Soundtrack</album>
+			<trackNum>7</trackNum>
+			<annotation>The seventh song (out of 7) for the video game Dr. Mario &amp; Puzzle League, by Nintendo, for the GBA (Game Boy Advance)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Dr.%20Mario%20%28GBA%29%20Soundtrack/art.jpg</image>
+			<duration>180228</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20V/MP3/Metal-Gear-Solid%20V_The-Phantom-Pain_Nuclear.mp3</location>
+			<title>Metal-Gear-Solid V_The-Phantom-Pain_Nuclear.mp3</title>
+			<creator>Konami</creator>
+			<album>Metal Gear Solid V - The Phantom Pain soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Nuclear&quot; from the video game Metal Gear Solid V - The Phantom Pain</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Metal%20Gear%20Solid%20V%20-%20The%20Phantom%20Pain%20soundtrack/art.jpg</image>
+			<duration>302847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Fred%20V/MP3/Fred-V_MajorHappy.mp3</location>
+			<title>Fred-V_MajorHappy.mp3</title>
+			<creator>Fred V</creator>
+			<album>Major Happy</album>
+			<trackNum>1</trackNum>
+			<annotation>Fred V &amp; Grafix - Major Happy.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Fred%20V/Major%20Happy/art.jpg</image>
+			<duration>300940</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Tycho/MP3/Tycho-dive-(full-album).mp3</location>
+			<title>Tycho-dive-(full-album).mp3</title>
+			<creator>Scott Hansen</creator>
+			<album>Dive</album>
+			<trackNum>1</trackNum>
+			<annotation>The full album &quot;Dive&quot; by the Tycho project. Released on 2011, November 8th. The second studio album by Tycho. Taking around five years to produce and write, Dive, according to Hansen, is a set of &quot;artifacts from a future which might have more in common with our past than our present.&quot; It is an electronica record with a sound and style that was compared to the works of Scottish group Boards of Canada by multiple professional music journalists. Dive was released on November 8, 2011 by the label Ghostly International to mostly positive reviews from critics, and it landed on Billboard&#39;s United States Top Dance/Electronic Albums and Top Heatseekers Albums charts. Source: Wikipedia/Tycho (page was last edited on 22 October 2021, at 09:11 (UTC))</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Scott%20Hansen/Dive/art.jpg</image>
+			<duration>3042670</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
