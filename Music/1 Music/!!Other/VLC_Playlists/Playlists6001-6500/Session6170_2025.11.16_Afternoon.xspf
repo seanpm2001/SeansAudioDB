@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AMessageForMarta/A%20Message%20for%20Marta/12%20-%20I&#39;m%20At%209933.mp3</location>
+			<creator>TAS 1000</creator>
+			<album>A Message for Marta</album>
+			<duration>300722</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AMessageForMarta/A%20Message%20for%20Marta/09%20-%20Irrigation.mp3</location>
+			<creator>TAS 1000</creator>
+			<album>A Message for Marta</album>
+			<duration>179985</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/AMessageForMarta/A%20Message%20for%20Marta/05%20-%20I%20Am%20A%20Truly%20Fully%20Licensed%20Hairstylist.mp3</location>
+			<creator>TAS 1000</creator>
+			<album>A Message for Marta</album>
+			<duration>247563</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Bakery%20story/MP3/BakeryStoryTheme.mp3</location>
+			<title>BakeryStoryTheme.mp3</title>
+			<creator>Storm8 / TeamLava</creator>
+			<album>Bakery Story theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>A full quality version of the theme song for the mobile game, Bakery Story.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Storm8%20_%20TeamLava/Bakery%20Story%20theme%20song/art.jpg</image>
+			<duration>189971</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Pet%20shop%20story/MP3/Pet-Shop-Story-Theme-Song.mp3</location>
+			<title>Pet-Shop-Story-Theme-Song.mp3</title>
+			<creator>Storm8 / TeamLava</creator>
+			<album>Pet Shop Story theme song</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the mobile video game &quot;Pet Shop Story&quot; by the developer Storm8 / TeamLava</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Storm8%20_%20TeamLava/Pet%20Shop%20Story%20theme%20song/art.jpg</image>
+			<duration>190598</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
