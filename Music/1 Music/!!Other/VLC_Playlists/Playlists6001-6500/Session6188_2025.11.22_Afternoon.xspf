@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/TeamFortress2_12%20Three%20Days%20to%20Live.mp3</location>
+			<title>Three Days to Live</title>
+			<creator>Valve Studio Orchestra</creator>
+			<album>Fight Songs: The Music of Team Fortress 2</album>
+			<trackNum>12</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20Studio%20Orchestra/Fight%20Songs_%20The%20Music%20of%20Team%20Fortress%202/art.jpg</image>
+			<duration>117136</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/TeamFortress2_02%20Intruder%20Alert.mp3</location>
+			<title>Intruder Alert</title>
+			<creator>Valve Studio Orchestra</creator>
+			<album>Fight Songs: The Music of Team Fortress 2</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20Studio%20Orchestra/Fight%20Songs_%20The%20Music%20of%20Team%20Fortress%202/art.jpg</image>
+			<duration>114028</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/GhostInTheShell_17.%20Ilaria%20Graziano%20-%20Dew.flac</location>
+			<title>Dew</title>
+			<creator>Ilaria Graziano</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. 3</album>
+			<trackNum>17</trackNum>
+			<duration>349840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/GhostInTheShell_02.%20Jibun%20ga%20Inai.m4a</location>
+			<title>じぶんがいない</title>
+			<creator>salyu × salyu</creator>
+			<album>GHOST IN THE SHELL ARISE / じぶんがいない - Single</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/salyu%20%C3%97%20salyu/GHOST%20IN%20THE%20SHELL%20ARISE%20_%20%E3%81%98%E3%81%B6%E3%82%93%E3%81%8C%E3%81%84%E3%81%AA%E3%81%84%20-%20Single/art.jpg</image>
+			<duration>269978</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/MarioKartWii_04.%20Main%20Menu.mp3</location>
+			<title>Main Menu</title>
+			<creator>Asuka Ohta, Ryo Nagamatsu</creator>
+			<album>Mario Kart Wii Platinum Soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>http://sittingonclouds.net</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Asuka%20Ohta%2C%20Ryo%20Nagamatsu/Mario%20Kart%20Wii%20Platinum%20Soundtrack/art.png</image>
+			<duration>148117</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/MarioKartWii_15.%20Maple%20Treeway.mp3</location>
+			<title>Maple Treeway</title>
+			<creator>Asuka Ohta, Ryo Nagamatsu</creator>
+			<album>Mario Kart Wii Platinum Soundtrack</album>
+			<trackNum>15</trackNum>
+			<annotation>http://sittingonclouds.net</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Asuka%20Ohta%2C%20Ryo%20Nagamatsu/Mario%20Kart%20Wii%20Platinum%20Soundtrack/art.png</image>
+			<duration>142240</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/MarioKartWii_08.%20Mushroom%20Gorge.mp3</location>
+			<title>Mushroom Gorge</title>
+			<creator>Asuka Ohta, Ryo Nagamatsu</creator>
+			<album>Mario Kart Wii Platinum Soundtrack</album>
+			<trackNum>8</trackNum>
+			<annotation>http://sittingonclouds.net</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Asuka%20Ohta%2C%20Ryo%20Nagamatsu/Mario%20Kart%20Wii%20Platinum%20Soundtrack/art.png</image>
+			<duration>117450</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/GhostInTheShell_04.%20Yoko%20Kanno%20-%20Tachikoma%20No%20Iede%20(Runaway%20Tachikoma).flac</location>
+			<title>Tachikoma No Iede (Runaway Tachikoma)</title>
+			<creator>Yoko Kanno</creator>
+			<album>Be Human</album>
+			<trackNum>4</trackNum>
+			<duration>115066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
