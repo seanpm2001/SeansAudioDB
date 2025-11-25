@@ -2261,6 +2261,40 @@ No new data for today.
 
 **No downloads this week,** 20Essentials didn't upload any new audio in the past 7 days. This is a first for the time I have been doing this project.
 
+#### 2025, November 18th
+
+No new data for today.
+
+#### 2025, November 19th
+
+No new data for today.
+
+#### 2025, November 20th
+
+No new data for today.
+
+#### 2025, November 21st
+
+No new data for today.
+
+#### 2025, November 22nd
+
+No new data for today.
+
+#### 2025, November 23rd
+
+No new data for today.
+
+#### 2025, November 24th
+
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. Last week, all updates from this account in the week were to repositories I have already downloaded, and I do not intend to redownload these repositories. This week, the same happened, although there was 1 original new repository being present today. 1 new repository was downloaded today.
+
+```urll
+https://github.com/20essentials/ol1via-rodr1go
+```
+
+If the account is to go dormant again, I will continuously check once per week (each Monday)
+
 ---
 
 #### Why I don't download version 2 and later of each music repository
@@ -2275,7 +2309,12 @@ No new data for today.
 
 - `/.vscode/` folders
 - All music (due to Copyright and size issues)
-- - If I included the music, the AudioDB repository would be over 130 gigabytes in size, which is above the repository size limit (100 gigabytes)
+- - If I included the music, the AudioDB repository would be increased by over 152.6/303.7 gigabytes in size, which is above the repository size limit (100 gigabytes)
+
+- **Census 2025.11.24**
+- - *Files:* `152.6 gigabytes`
+- - *Zip files:* `151.1 gigabytes`
+- - *Total:* `303.7 gigabytes`
 
 <!-- TODO 2025.05.13
 Create folder: `/Unsorted/!ZIP_Files/`
@@ -2289,6 +2328,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `31 (2025, Monday, November 17th at 07:13 pm PST)`
+**File version:** `32 (2025, Monday, November 24th at 07:30 pm PST)`
 
 ***
