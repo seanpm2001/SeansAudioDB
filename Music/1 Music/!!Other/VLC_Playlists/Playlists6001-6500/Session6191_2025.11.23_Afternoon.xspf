@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/SimCoaster%20-%20Polar%20Zone.mp3</location>
+			<title>Polar Zone</title>
+			<creator>SimCoaster</creator>
+			<album>SimCoaster</album>
+			<trackNum>6</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCoaster/SimCoaster/art.jpg</image>
+			<duration>2246466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/SimCity%20(SNES%20Version)%20-%20Metropolis.mp3</location>
+			<title>Metropolis</title>
+			<creator>SimCity (SNES Version)</creator>
+			<album>SimCity (SNES Version)</album>
+			<trackNum>16</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%20%28SNES%20Version%29/SimCity%20%28SNES%20Version%29/art.jpg</image>
+			<duration>111424</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/SimCity2000-SNES_SimCity%202000%20(SNES%20Version)%20-%20Global%20Warming.mp3</location>
+			<title>Global Warming</title>
+			<creator>SimCity 2000 (SNES Version)</creator>
+			<album>SimCity 2000 (SNES Version)</album>
+			<trackNum>6</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%202000%20%28SNES%20Version%29/SimCity%202000%20%28SNES%20Version%29/art.jpg</image>
+			<duration>67452</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Plants%20Vs.%20Zombies%202%20Music%20-%20Ancient%20Egypt.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Ancient Egypt.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Ancient Egypt</album>
+			<trackNum>1</trackNum>
+			<annotation>The main level theme for the Ancient Egypt stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Ancient%20Egypt/art.png</image>
+			<duration>420765</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Plants%20Vs.%20Zombies%202%20Music%20-%20Ancient%20Egypt_%20Ultimate%20Battle.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Ancient Egypt_ Ultimate Battle.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Ancient Egypt</album>
+			<trackNum>3</trackNum>
+			<annotation>The ultimate battle theme for the Ancient Egypt stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Ancient%20Egypt/art.png</image>
+			<duration>269097</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Plants%20Vs%20Zombies%202%20Music%20-%20Jurassic%20Marsh_%20Ultimate%20Battle%20Extended.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Jurassic Marsh_ Ultimate Battle Extended.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Jurassic Marsh</album>
+			<trackNum>3</trackNum>
+			<annotation>The Ultimate Battle theme for the Jurassic Marsh stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Jurassic%20Marsh/art.png</image>
+			<duration>908501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
