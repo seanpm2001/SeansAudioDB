@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Plants%20Vs.%20Zombies%202%20Music%20-%20Pirate%20Seas%20Theme.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Pirate Seas Theme.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Pirate Seas</album>
+			<trackNum>1</trackNum>
+			<annotation>The main theme for the Pirate Seas stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Pirate%20Seas/art.png</image>
+			<duration>492550</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Plants%20Vs%20Zombies%202%20Music%20-%20Frostbite%20Cave%20Theme.mp3</location>
+			<title>Plants Vs Zombies 2 Music - Frostbite Cave Theme.mp3</title>
+			<creator>PopCap/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Frostbite Cave</album>
+			<trackNum>1</trackNum>
+			<annotation>The theme song for the Frostbite Cave stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Frostbite%20Cave/art.png</image>
+			<duration>601455</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Plants%20Vs%20Zombies%202%20Music%20-%20%20Dark%20Ages_%20Demonstration%20Mini-Game.mp3</location>
+			<title>Plants Vs Zombies 2 Music -  Dark Ages_ Demonstration Mini-Game.mp3</title>
+			<creator>PopCap/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Dark Ages</album>
+			<trackNum>3</trackNum>
+			<annotation>The Demonstration Minigame theme for the Dark Ages stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Dark%20Ages/art.png</image>
+			<duration>393571</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/BoomBeach_home%20ost.mp3</location>
+			<duration>307881</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/BoomBeach_talk%20ost.mp3</location>
+			<duration>54910</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/TeamFortress2_15%20The%20Soldier%20of%20Dance.mp3</location>
+			<title>The Soldier of Dance</title>
+			<creator>Valve Studio Orchestra</creator>
+			<album>Fight Songs: The Music of Team Fortress 2</album>
+			<trackNum>15</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Valve%20Studio%20Orchestra/Fight%20Songs_%20The%20Music%20of%20Team%20Fortress%202/art.jpg</image>
+			<duration>69751</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/WALL-E_the%20holo%20detector.mp3</location>
+			<duration>77218</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Windows96_Gudang%20-%20Nostalgi%20Gaius%20-%2002%20Software.flac</location>
+			<title>Software</title>
+			<creator>Gudang</creator>
+			<album>Nostalgi Gaius</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit https://windows96.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Gudang/Nostalgi%20Gaius/art.jpg</image>
+			<duration>142766</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Minecraft_C418%20-%20Minecraft%20-%20Volume%20Alpha%20-%2009%20Oxyg%C3%A8ne.flac</location>
+			<title>Oxygène</title>
+			<creator>C418</creator>
+			<album>Minecraft - Volume Alpha</album>
+			<trackNum>9</trackNum>
+			<annotation>Visit https://c418.bandcamp.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/C418/Minecraft%20-%20Volume%20Alpha/art.jpg</image>
+			<duration>65125</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
