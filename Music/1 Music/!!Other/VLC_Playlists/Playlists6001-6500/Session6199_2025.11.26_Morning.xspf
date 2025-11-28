@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/20Essentials/neon-genesis-evangelion-main/songs/n9.mp3</location>
+			<duration>252186</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/20Essentials/neon-genesis-evangelion-main/songs/n3.mp3</location>
+			<duration>198975</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/20Essentials/neon-genesis-evangelion-main/songs/n4.mp3</location>
+			<title>The End Of Evangelion - Komm Süsser Tod - Come Sweet Death (HQ)</title>
+			<creator>Batrick Pateman</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/f35ffe5b0b4aedd61fb71b8bf69bc25e/art.jpg</image>
+			<duration>462343</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
