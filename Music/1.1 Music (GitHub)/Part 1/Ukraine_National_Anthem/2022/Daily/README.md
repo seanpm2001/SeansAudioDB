@@ -129,11 +129,11 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 
 # 🇺🇦️ Counter / Лічильник / Прилавок / Лічыльнік / 계수기 🇺🇦️
 
-- The Ukrainian Flag Emoji appears in this document `6862` times (as of 2025.11.28)
-- UA/UK: У цьому документі з'являється емодзі прапора України `6862` разів (станом на 2025.11.28)
-- RU: Эмодзи Флаг Украины появляется в этом документе `6862` раз (по состоянию на 2025.11.28)
-- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `6862` разоў (на 2025.11.28)
-- KO: 우크라이나 국기 이모지는 이 문서에 `6862` 번 등장합니다(2025.11.28 기준)
+- The Ukrainian Flag Emoji appears in this document `6865` times (as of 2025.11.29)
+- UA/UK: У цьому документі з'являється емодзі прапора України `6865` разів (станом на 2025.11.29)
+- RU: Эмодзи Флаг Украины появляется в этом документе `6865` раз (по состоянию на 2025.11.29)
+- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `6865` разоў (на 2025.11.29)
+- KO: 우크라이나 국기 이모지는 이 문서에 `6865` 번 등장합니다(2025.11.29 기준)
 
 ***
 
@@ -1285,6 +1285,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1143: 2025, November 26th
 - [x] 🇺🇦️ Day 1144: 2025, November 27th
 - [x] 🇺🇦️ Day 1145: 2025, November 28th
+- [x] 🇺🇦️ Day 1146: 2025, November 29th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -2668,6 +2669,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1372, 2025, Wednesday, November 26th
 - [x] 🇺🇦️ Day 1373, 2025, Thursday, November 27th
 - [x] 🇺🇦️ Day 1374, 2025, Friday, November 28th
+- [x] 🇺🇦️ Day 1375, 2025, Saturday, November 29th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -6982,17 +6984,18 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 4297: 2025, November 26th
 - [x] 🇺🇦️ Day 4298: 2025, November 27th
 - [x] 🇺🇦️ Day 4299: 2025, November 28th
+- [x] 🇺🇦️ Day 4300: 2025, November 29th
 
 <!-- upcoming
 2026, February 20th: (11th year of the Russo-Ukrainian war)
 2026, August 24th:  (happy independence day Ukraine!) **Слава Україні!**
 !-->
 
-- After 4,299 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 4,299 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 4,299 дня это все еще Украина. Слава Украине!
-- BE: Праз 4,299 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
-- KO: 4,299 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
+- After 4,300 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 4,300 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 4,300 дня это все еще Украина. Слава Украине!
+- BE: Праз 4,300 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
+- KO: 4,300 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
 
 #### N1
 
@@ -7032,7 +7035,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **BE: Тып файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 - **KO: 파일 유형:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `1067 (2025, Friday, November 28th at 10:14 pm PST)`
+- **File version:** `1068 (2025, Saturday, November 29th at 10:22 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
@@ -7042,11 +7045,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 > **Translation not available (Korean) 번역이 불가능합니다. (한국어)**
 
-- **Line count (including blank lines and compiler line):** `8,556`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `8,556`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `8,556`
-- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `8,556`
-- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `8,556`
+- **Line count (including blank lines and compiler line):** `8,579`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `8,579`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `8,579`
+- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `8,579`
+- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `8,579`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -8459,6 +8462,26 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 1068 (2025, Saturday, November 29th at 10:22 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `6863`
+- [x] Updated the main list to include an entry for 2025, November 29th (day 1,146)
+- [x] Updated the list of all days of the war since the 2022 Invasion (1,374 days)
+- [x] Updated the list of all days of the war (4,300 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 1068
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 1068
+
+</details> <!-- V1068 !-->
+
+---
+
 _End of file history._
 
 </details> <!-- End of file history !-->
@@ -8473,11 +8496,11 @@ _End of file history._
 
 <!-- TODO !--> TODO: Translate this section
 
-- Total consecutive days: 1145 (as of 2025, Friday, November 28th)
-- Days with an update: 1067 (as of 2025, Friday, November 28th)
-- Days without an update: 79 (as of 2025, Friday, November 28th)
+- Total consecutive days: 1146 (as of 2025, Saturday, November 29th)
+- Days with an update: 1068 (as of 2025, Saturday, November 29th)
+- Days without an update: 79 (as of 2025, Saturday, November 29th)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 1067/1145 = 93.187% (as of 2025, Friday, November 28th)
+- Ratio: 1068/1146 = 93.193% (as of 2025, Saturday, November 29th)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
