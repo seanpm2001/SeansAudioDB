@@ -2295,6 +2295,34 @@ https://github.com/20essentials/ol1via-rodr1go
 
 If the account is to go dormant again, I will continuously check once per week (each Monday)
 
+#### 2025, November 25th
+
+No new data for today.
+
+#### 2025, November 26th
+
+No new data for today.
+
+#### 2025, November 27th
+
+No new data for today.
+
+#### 2025, November 28th
+
+No new data for today.
+
+#### 2025, November 29th
+
+No new data for today.
+
+#### 2025, November 30th
+
+No new data for today.
+
+#### 2025, December 1st
+
+20Essentials downloads were paused today due to time issues. A scan was not performed. I will try again tomorrow (if I remember) if not, Wednesday (if not then, then next week)
+
 ---
 
 #### Why I don't download version 2 and later of each music repository
@@ -2328,6 +2356,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `32 (2025, Monday, November 24th at 07:30 pm PST)`
+**File version:** `33 (2025, Monday, December 1st at 10:55 pm PST)`
 
 ***
