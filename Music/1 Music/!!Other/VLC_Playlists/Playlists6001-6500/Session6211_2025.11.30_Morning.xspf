@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%201%20O.S.T.%20+/05.%20Ilaria%20Graziano%20-%20Where%20Does%20This%20Ocean%20Go!.flac</location>
+			<title>Where Does This Ocean Go?</title>
+			<creator>Ilaria Graziano</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. +</album>
+			<trackNum>5</trackNum>
+			<duration>284866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%202%20O.S.T.%202/12.%20Steve%20Conte%20&amp;%20Shanti%20Snyder%20-%20Living%20Inside%20The%20Shell.flac</location>
+			<title>Living Inside The Shell</title>
+			<creator>Steve Conte &amp; Shanti Snyder</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. 2</album>
+			<trackNum>12</trackNum>
+			<duration>384266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%202%20O.S.T.%202/06.%20Yoko%20Kanno%20-%203tops.flac</location>
+			<title>3tops</title>
+			<creator>Yoko Kanno</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. 2</album>
+			<trackNum>6</trackNum>
+			<duration>239440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%202%20O.S.T.%202/04.%20Yoko%20Kanno%20-%20Idoling.flac</location>
+			<title>Idoling</title>
+			<creator>Yoko Kanno</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. 2</album>
+			<trackNum>4</trackNum>
+			<duration>168466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
