@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Stand%20Alone%20Complex%20Single%20-%20GET9/01%20-%20GET9.flac</location>
+			<title>GET9</title>
+			<creator>jillmax</creator>
+			<album>GET9</album>
+			<trackNum>1</trackNum>
+			<duration>284266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%201%20O.S.T.%20+/05.%20Ilaria%20Graziano%20-%20Where%20Does%20This%20Ocean%20Go!.flac</location>
+			<title>Where Does This Ocean Go?</title>
+			<creator>Ilaria Graziano</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. +</album>
+			<trackNum>5</trackNum>
+			<duration>284866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%201%20O.S.T.%20+/02.%20Yoko%20Kanno%20-%20Yakitori.flac</location>
+			<title>Yakitori</title>
+			<creator>Yoko Kanno</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. +</album>
+			<trackNum>2</trackNum>
+			<duration>429933</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%201%20O.S.T.%20+/09.%20Scott%20Matthew%20-%20Lithium%20Flower.flac</location>
+			<title>Lithium Flower</title>
+			<creator>Scott Matthew</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. +</album>
+			<trackNum>9</trackNum>
+			<duration>205293</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%201%20O.S.T.%20+/01.%20Hide%20-%20Run%20Rabbit%20Junk.flac</location>
+			<title>Run Rabbit Junk</title>
+			<creator>Hide</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. +</album>
+			<trackNum>1</trackNum>
+			<duration>272466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%201%20O.S.T.%20+/12.%20Yoko%20Kanno%20-%20Fish%20~%20Silent%20Cruise.flac</location>
+			<title>Fish ~ Silent Cruise</title>
+			<creator>Yoko Kanno</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. +</album>
+			<trackNum>12</trackNum>
+			<duration>450400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

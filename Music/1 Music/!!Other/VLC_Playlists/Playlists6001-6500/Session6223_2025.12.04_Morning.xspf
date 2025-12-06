@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/GHOST%20IN%20THE%20SHELL%20(1995)%20Credit%20Theme%20Album%20-%20Original%20Soundtracks%201/02%20-%20Slug%20(From%20&#39;Slug&#39;).flac</location>
+			<title>Slug (From &#39;Slug&#39;)</title>
+			<creator>Passengers</creator>
+			<album>Original Soundtracks 1</album>
+			<trackNum>2</trackNum>
+			<duration>281426</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/GHOST%20IN%20THE%20SHELL%20(1995)%20Credit%20Theme%20Album%20-%20Original%20Soundtracks%201/01%20-%20United%20Colours%20(From%20The%20Film%20&#39;United%20Colours%20Of%20Plutonium&#39;).flac</location>
+			<title>United Colours (From The Film &#39;United Colours Of Plutonium&#39;)</title>
+			<creator>Passengers</creator>
+			<album>Original Soundtracks 1</album>
+			<trackNum>1</trackNum>
+			<duration>331133</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/GHOST%20IN%20THE%20SHELL%20(1995)%20Credit%20Theme%20Album%20-%20Original%20Soundtracks%201/07%20-%20Miss%20Sarajevo%20(From%20The%20Film%20&#39;Miss%20Sarajevo&#39;).flac</location>
+			<title>Miss Sarajevo (From The Film &#39;Miss Sarajevo&#39;)</title>
+			<creator>Passengers</creator>
+			<album>Original Soundtracks 1</album>
+			<trackNum>7</trackNum>
+			<duration>340466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
