@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nina-Paley_Ye-Olde-Animation/Luv%20Is....mp4</location>
+			<title>Ye Olde Animation by Nina Paley - https://archive.org/details/YeOldeAnimation</title>
+			<annotation>license:http://creativecommons.org/publicdomain/zero/1.0/</annotation>
+			<duration>207508</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nina-Paley_Ye-Olde-Animation/Cancer.mp4</location>
+			<title>Ye Olde Animation by Nina Paley - https://archive.org/details/YeOldeAnimation</title>
+			<annotation>license:http://creativecommons.org/publicdomain/zero/1.0/</annotation>
+			<duration>117740</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nina-Paley_Ye-Olde-Animation/Follow%20Your%20Bliss.mp4</location>
+			<title>Ye Olde Animation by Nina Paley - https://archive.org/details/YeOldeAnimation</title>
+			<annotation>license:http://creativecommons.org/publicdomain/zero/1.0/</annotation>
+			<duration>32455</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nina-Paley_Ye-Olde-Animation/I%20%3C3%20My%20Cat.mp4</location>
+			<title>Ye Olde Animation by Nina Paley - https://archive.org/details/YeOldeAnimation</title>
+			<annotation>license:http://creativecommons.org/publicdomain/zero/1.0/</annotation>
+			<duration>159682</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Overworld_Music/Overworld_Level/PlantsVsZombies1_Laura%20Shigihara%20-%20Plants%20vs.%20Zombies%20Soundtrack%20-%2004%20Grasswalk.wav</location>
+			<duration>148261</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Overworld_Music/Overworld_Level/NewSuperMarioBrosDS_36%20Walking%20the%20Hot%20Desert.mp3</location>
+			<title>Walking the Hot Desert</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<duration>95063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Overworld_Music/Overworld_Level/NewSuperMarioBrosDS_39%20Fun%20At%20The%20Beach.mp3</location>
+			<title>Fun At The Beach</title>
+			<creator>Asuka Ohta, Hajime Wakai, Koji Kondo</creator>
+			<album>New Super Mario Bros.</album>
+			<duration>80068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
