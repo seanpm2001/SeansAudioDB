@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="01.jpg" source="original">
+    <mtime>1630560736</mtime>
+    <size>573188</size>
+    <md5>34d7b3ff6e3e0c2776b7de86b0b6dd53</md5>
+    <crc32>99f4aea2</crc32>
+    <sha1>36eb40bfc893f6af2fc1ce63dbb4ad488fc4eca2</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="01_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>01.jpg</original>
+    <mtime>1630561155</mtime>
+    <size>9546</size>
+    <md5>3af698ab90852e67a8787ceb383c1503</md5>
+    <crc32>49c48534</crc32>
+    <sha1>9391403091e0d458f329d6bd7b43ccdb18f92858</sha1>
+  </file>
+  <file name="02.jpg" source="original">
+    <mtime>1630560758</mtime>
+    <size>472561</size>
+    <md5>e5fc741817d84347d6f79e80e894640e</md5>
+    <crc32>6a016011</crc32>
+    <sha1>9223ee75a774917231e99130ba9fd5643b4f927d</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="02_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>02.jpg</original>
+    <mtime>1630561161</mtime>
+    <size>9086</size>
+    <md5>b4a837d955478782f4186c6106a79bb2</md5>
+    <crc32>2d2ad97a</crc32>
+    <sha1>fea57bb407e9528898c430a97a79965f5c1f4bda</sha1>
+  </file>
+  <file name="03.jpg" source="original">
+    <mtime>1630560761</mtime>
+    <size>578964</size>
+    <md5>82fda081a88b7d7e936a3f671a3a8661</md5>
+    <crc32>7f9c2707</crc32>
+    <sha1>f75be0f00c30f567e7e3af08622d238211123bc6</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="03_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>03.jpg</original>
+    <mtime>1630561167</mtime>
+    <size>9442</size>
+    <md5>3bb97c3f4cbaa5db42a4e14fdfd0a3a7</md5>
+    <crc32>3f555cfc</crc32>
+    <sha1>d50d39184b9ec80a80584d4e3f8b93390b4bce75</sha1>
+  </file>
+  <file name="04.jpg" source="original">
+    <mtime>1630560764</mtime>
+    <size>521289</size>
+    <md5>d454efcacb52c50c0b5b8ba34595ba5e</md5>
+    <crc32>d84d2e03</crc32>
+    <sha1>9cda59c24b4cd3dedfb3bf4191ed72565a64b73c</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="04_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>04.jpg</original>
+    <mtime>1630561174</mtime>
+    <size>9436</size>
+    <md5>188978a3e03f8f60d8bd4dae4b138548</md5>
+    <crc32>104a1f8c</crc32>
+    <sha1>d5d337c227c4639a053f40b49a88a7abb63b875b</sha1>
+  </file>
+  <file name="05.jpg" source="original">
+    <mtime>1630560767</mtime>
+    <size>641805</size>
+    <md5>da019f4ff0b89eecf7df003a8010891c</md5>
+    <crc32>f7193db1</crc32>
+    <sha1>085519c0abb11eeebf42a303f9ae11aa3f9e54e5</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="05_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>05.jpg</original>
+    <mtime>1630561180</mtime>
+    <size>9539</size>
+    <md5>d9693f5a83a6f51b036b5d2998d7ec0e</md5>
+    <crc32>125b7f85</crc32>
+    <sha1>75c394b447dcf9c609e473f77b2b3afa2b4324da</sha1>
+  </file>
+  <file name="06.jpg" source="original">
+    <mtime>1630560769</mtime>
+    <size>140791</size>
+    <md5>4cbcbd97fe43b4f8b5f1489ac25c6367</md5>
+    <crc32>620f4123</crc32>
+    <sha1>b1634f4334d2df92d20f059287da4160c5044003</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="06_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>06.jpg</original>
+    <mtime>1630561187</mtime>
+    <size>5567</size>
+    <md5>981e681879348720fdabb319673e91aa</md5>
+    <crc32>e9012bf0</crc32>
+    <sha1>ef21e0d92a1be5b67628f0157c6adf18653184dd</sha1>
+  </file>
+  <file name="07.jpg" source="original">
+    <mtime>1630560771</mtime>
+    <size>98146</size>
+    <md5>8f7985c3abb5712d4b3092a8102f37ef</md5>
+    <crc32>d5be35bc</crc32>
+    <sha1>b3801b38cb2de25d4a7bb0b0cb7d0d9209461d47</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="07_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>07.jpg</original>
+    <mtime>1630561193</mtime>
+    <size>6553</size>
+    <md5>f28c98f717bdaac6186567faf791c30f</md5>
+    <crc32>9b17ca02</crc32>
+    <sha1>cb5653c456f295fe0fe81e0a6daeb0b23fad164d</sha1>
+  </file>
+  <file name="08.jpg" source="original">
+    <mtime>1630560774</mtime>
+    <size>278502</size>
+    <md5>2115a64853bf000f95e93f025505d491</md5>
+    <crc32>b0cce62b</crc32>
+    <sha1>d7a5ddb12b99cab60c7e75b9be7c47623c7de317</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="08_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>08.jpg</original>
+    <mtime>1630561199</mtime>
+    <size>8482</size>
+    <md5>6108d12a1b456619d44636b26ea17046</md5>
+    <crc32>5b2007e4</crc32>
+    <sha1>c117ef6e080abd7f964f555f635e790ed1783667</sha1>
+  </file>
+  <file name="09.jpg" source="original">
+    <mtime>1630560776</mtime>
+    <size>410477</size>
+    <md5>305e8b0ee7d80eb6e5ffbb52202978c4</md5>
+    <crc32>b1bfa8a6</crc32>
+    <sha1>e37418fd1e6c92cecf7efb3757530ba25c92be3b</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="09_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>09.jpg</original>
+    <mtime>1630561205</mtime>
+    <size>6944</size>
+    <md5>cdd0e6e9676af18ab6ad8b9e750134c1</md5>
+    <crc32>f09fa7f1</crc32>
+    <sha1>5640ea575d6136f7a269cd974033d593284747ee</sha1>
+  </file>
+  <file name="10.jpg" source="original">
+    <mtime>1630560778</mtime>
+    <size>402949</size>
+    <md5>5fdf0444a9f3b0a9479e9bc102764259</md5>
+    <crc32>15bf1760</crc32>
+    <sha1>3c22304510094e4132f0be36d0565b2e5c9e8687</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="10_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>10.jpg</original>
+    <mtime>1630561212</mtime>
+    <size>9863</size>
+    <md5>47e1747b4d507eb4bf019d8b18aa18d4</md5>
+    <crc32>b3ffc176</crc32>
+    <sha1>0e4e751b55994660152781be05c1591f90922e87</sha1>
+  </file>
+  <file name="11.jpg" source="original">
+    <mtime>1630560781</mtime>
+    <size>252259</size>
+    <md5>e5757c2759ed971e8d9f1d464f577993</md5>
+    <crc32>a71e0636</crc32>
+    <sha1>322e6fec220fef7c9c69a327affc8a805f90e6fc</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="11_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>11.jpg</original>
+    <mtime>1630561219</mtime>
+    <size>7945</size>
+    <md5>dfc2568870db2bb3202cbf2fc0853918</md5>
+    <crc32>618fe784</crc32>
+    <sha1>dedeb9fce00e92687f18f7a39a487ab1725a16ce</sha1>
+  </file>
+  <file name="12.jpg" source="original">
+    <mtime>1630560783</mtime>
+    <size>362869</size>
+    <md5>a968bed9f162e414e403427e95d3444a</md5>
+    <crc32>6f89f90b</crc32>
+    <sha1>d72e100691b8c140ea7330bd4a4dbe8fbb9cfb3f</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="12_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>12.jpg</original>
+    <mtime>1630561226</mtime>
+    <size>8325</size>
+    <md5>27a860fe0fa9e006c5840bbe79430331</md5>
+    <crc32>bf6375ab</crc32>
+    <sha1>369c825a4c90264fee5e26a3079f74ac607e5c50</sha1>
+  </file>
+  <file name="13.jpg" source="original">
+    <mtime>1630560785</mtime>
+    <size>266450</size>
+    <md5>1d15f5884c63a4dd579fd9a6937aa831</md5>
+    <crc32>763e2918</crc32>
+    <sha1>baaa2747a86d19184fc9685ee9ee640fd454bb70</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="13_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>13.jpg</original>
+    <mtime>1630561233</mtime>
+    <size>7400</size>
+    <md5>faaf4516c31e773d5725f3bde5b6e46f</md5>
+    <crc32>225d356f</crc32>
+    <sha1>35c6757d0cbfa7fcfd42621c1c6df98d8be24041</sha1>
+  </file>
+  <file name="14.jpg" source="original">
+    <mtime>1630560792</mtime>
+    <size>371308</size>
+    <md5>accbc7308ddd976246e30dec6e007202</md5>
+    <crc32>980cbb26</crc32>
+    <sha1>d56a7cd1df895ffca3d690253b6e0755ce6829c5</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="14_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>14.jpg</original>
+    <mtime>1630561240</mtime>
+    <size>8326</size>
+    <md5>61401f2fd75f5002d903c7887d59998b</md5>
+    <crc32>c61ba711</crc32>
+    <sha1>5229f263c448ef1cb83ba0be57d0ff647012905c</sha1>
+  </file>
+  <file name="15.jpg" source="original">
+    <mtime>1630560795</mtime>
+    <size>381641</size>
+    <md5>82f8f6a6d343c922217541609cd0100d</md5>
+    <crc32>64a0d917</crc32>
+    <sha1>85a6311fb441ef714897186b90ec501f46eda883</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="15_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>15.jpg</original>
+    <mtime>1630561246</mtime>
+    <size>8504</size>
+    <md5>8aa45609ce3afbd4fb589555fa1e2eba</md5>
+    <crc32>9ab961f1</crc32>
+    <sha1>014a1175227b1de19cca9775963ce8c1ef42c041</sha1>
+  </file>
+  <file name="16.jpg" source="original">
+    <mtime>1630560797</mtime>
+    <size>360021</size>
+    <md5>6e151c2b0c97325e531034a99390d728</md5>
+    <crc32>5e7a5402</crc32>
+    <sha1>93a5d4b86a0fd825733291f48301b25fcb91979a</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="16_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>16.jpg</original>
+    <mtime>1630561252</mtime>
+    <size>8713</size>
+    <md5>746b8ec9f44046f3e54e7da17220eaac</md5>
+    <crc32>0b97421a</crc32>
+    <sha1>08c0eedffa0b94fab3c2e59535aa6d78ecc62e6a</sha1>
+  </file>
+  <file name="Shin Evangelion 3.0 +1.0 Leaflet &amp; Special Bonus.zip" source="original">
+    <mtime>1630560803</mtime>
+    <size>5875505</size>
+    <md5>878e613fc3a4cb462c8f27deacfd8491</md5>
+    <crc32>0c69ba70</crc32>
+    <sha1>6cc2d06686a449fa89ee38cd35c48a58f8d5ba83</sha1>
+    <format>ZIP</format>
+    <viruscheck>1630561134</viruscheck>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1630561283</mtime>
+    <size>22756</size>
+    <md5>de85dbc094169831a7ae62f0851aa491</md5>
+    <crc32>51435720</crc32>
+    <sha1>60c16700aef7ea3f18e9e0f802e54fec79d4d756</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="shin-evangelion-3.0-1.0-leaflet-special-bonus_archive.torrent" source="metadata">
+    <btih>bf01bf31323c2796b6e4d6b56b798fb71843d417</btih>
+    <mtime>1646941899</mtime>
+    <size>7783</size>
+    <md5>35e7e41aefebd1ef624c250828ed45c8</md5>
+    <crc32>c314637e</crc32>
+    <sha1>a0cd3f224e59e57b4caeaafad37ade7f4daa6ece</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="shin-evangelion-3.0-1.0-leaflet-special-bonus_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e460f2f56c09dd232335391615b3a93b</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="shin-evangelion-3.0-1.0-leaflet-special-bonus_meta.sqlite" source="original">
+    <mtime>1630560806</mtime>
+    <size>90112</size>
+    <md5>30a6064ea5482cc3f591581238fbbbd4</md5>
+    <crc32>8d8b489b</crc32>
+    <sha1>40c52433f78cfe7383ec3e1e7a387aa50fb2f1e7</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="shin-evangelion-3.0-1.0-leaflet-special-bonus_meta.xml" source="original">
+    <mtime>1646941897</mtime>
+    <size>1425</size>
+    <md5>145f03c09ba9f4aeb04f55a6bbe53f36</md5>
+    <crc32>54d067de</crc32>
+    <sha1>e5a6ffde2c82f68292ae0f492c58d863f941861b</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
