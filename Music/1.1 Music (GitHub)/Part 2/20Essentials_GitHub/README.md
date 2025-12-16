@@ -2383,6 +2383,38 @@ No new data for today.
 
 No new data for today.
 
+#### 2025, December 15th
+
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. Last week, all updates from this account in the week were to repositories I have already downloaded, and I do not intend to redownload these repositories. This week, the same happened, although there was 1 original new repository being present today. 1 new repository was downloaded today.
+
+```urll
+https://github.com/20essentials/bl4ck-clover
+```
+
+#### 2025, December 16th
+
+No new data for today.
+
+#### 2025, December 17th
+
+No new data for today.
+
+#### 2025, December 18th
+
+No new data for today.
+
+#### 2025, December 19th
+
+No new data for today.
+
+#### 2025, December 20th
+
+No new data for today.
+
+#### 2025, December 21st
+
+No new data for today.
+
 ---
 
 #### Why I don't download version 2 and later of each music repository
@@ -2416,6 +2448,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `35 (2025, Saturday, December 13th 08:18 pm PST)`
+**File version:** `36 (2025, Monday, December 15th 08:32 pm PST)`
 
 ***
