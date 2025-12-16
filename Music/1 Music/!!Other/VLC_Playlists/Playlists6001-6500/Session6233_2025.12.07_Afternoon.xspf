@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shrek/AudioOnly/shrek-original-soundtrack-2001/Original%20Motion%20Picture%20Soundtrack%20-%20Shrek%20(2001)/06.%20Bad%20Reputation.mp3</location>
+			<title>Bad Reputation</title>
+			<creator>Film Dialogue</creator>
+			<album>Shrek - Music from the Original Motion Picture</album>
+			<trackNum>6</trackNum>
+			<duration>141168</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimHealth/AudioOnly/MP3/SimHealth%20-%20Title.mp3</location>
+			<title>Title</title>
+			<creator>SimHealth</creator>
+			<album>SimHealth</album>
+			<trackNum>1</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimHealth/SimHealth/art.jpg</image>
+			<duration>26756</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sim%20series/SimEverything/EverythingSim/SimCity/SNES_Edition/AudioOnly/MP3/SimCity%20(SNES%20Version)%20-%20Metropolis.mp3</location>
+			<title>Metropolis</title>
+			<creator>SimCity (SNES Version)</creator>
+			<album>SimCity (SNES Version)</album>
+			<trackNum>16</trackNum>
+			<annotation>retrogamechampion.com</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/SimCity%20%28SNES%20Version%29/SimCity%20%28SNES%20Version%29/art.jpg</image>
+			<duration>111424</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>

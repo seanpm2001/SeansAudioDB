@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/EU-Anthem/US-Navy-Band_Anthem-of-eu-short.mp3</location>
+			<duration>60969</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/EU-Anthem/US-Navy-Band_Anthem-of-eu-long.mp3</location>
+			<duration>116219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Poland-Anthem/MP3/US-Navy-Band_Poland-Anthem.mp3</location>
+			<duration>42867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/16.%20INTROJECTION.flac</location>
+			<title>Introjection</title>
+			<creator>Shiroh Sagisu</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>16</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiroh%20Sagisu/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>147000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/17.%20DEPRESSION.flac</location>
+			<title>Depression</title>
+			<creator>Shiroh Sagisu</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>17</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiroh%20Sagisu/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>155866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/18.%20Splitting%20of%20the%20Breast.flac</location>
+			<title>Splitting of the Breast</title>
+			<creator>Shiroh Sagisu</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>18</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiroh%20Sagisu/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>135466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/19.%20INFANTILE%20DEPENDENCE,%20ADULT%20DEPENDENCY.flac</location>
+			<title>Infantile Dependence, Adult Dependency</title>
+			<creator>Shiroh Sagisu</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>19</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiroh%20Sagisu/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>181360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/20.%20MOTHER%20IS%20THE%20FIRST%20OTHER.flac</location>
+			<title>Mother is the First Other</title>
+			<creator>Shiroh Sagisu</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>20</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiroh%20Sagisu/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>145400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/21.%20THE%20HEADY%20FEELING%20OF%20FREEDOM.flac</location>
+			<title>The Heady Feeling of Freedom</title>
+			<creator>Shiroh Sagisu</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>21</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiroh%20Sagisu/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>109866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/22.%20Be%20Good,%20or%20Don&#39;t%20Be..flac</location>
+			<title>&quot;Be Good, or Don&#39;t Be.&quot;</title>
+			<creator>Shiroh Sagisu</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>22</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiroh%20Sagisu/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>83466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/23.%20FLY%20ME%20TO%20THE%20MOON%20(Yoko%20Takahashi&#39;s%20TV%20Size%20Version).flac</location>
+			<title>FLY ME TO THE MOON (Yoko Takahashi&#39;s TV Size Version)</title>
+			<creator>Yoko Takahashi</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>23</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yoko%20Takahashi/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>70306</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/24.%20FLY%20ME%20TO%20THE%20MOON%20(4%20BEAT%20TV%20Size%20Version).flac</location>
+			<title>FLY ME TO THE MOON (4 BEAT TV Size Version)</title>
+			<creator>Yoko Takahashi</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>24</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yoko%20Takahashi/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>69800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/25.%20FLY%20ME%20TO%20THE%20MOON%20(Bossa%20Techno%20TV%20Size%20Version).flac</location>
+			<title>FLY ME TO THE MOON (Bossa Techno TV Size Version)</title>
+			<creator>Aya</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>25</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Aya/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>68893</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/26.%20FLY%20ME%20TO%20THE%20MOON%20(Acid%20Bossa%20TV%20Size%20Version).flac</location>
+			<title>FLY ME TO THE MOON (Acid Bossa TV Size Version)</title>
+			<creator>Yoko Takahashi</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>26</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yoko%20Takahashi/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>68573</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/27.%20FLY%20ME%20TO%20THE%20MOON%20(4%20BEAT%20Instrumental%20TV%20Size%20Version).flac</location>
+			<title>FLY ME TO THE MOON (4 BEAT Instrumental TV Size Version)</title>
+			<creator>Yoko Takahashi</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>27</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yoko%20Takahashi/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>68760</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/28.%20FLY%20ME%20TO%20THE%20MOON%20(Instrumental%20TV%20Size%20Version).flac</location>
+			<title>FLY ME TO THE MOON (Instrumental TV Size Version)</title>
+			<creator>Claire Littley</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>28</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Claire%20Littley/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>69266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/29.%20FLY%20ME%20TO%20THE%20MOON%20(Jungle%20TV%20Size%20Version).flac</location>
+			<title>FLY ME TO THE MOON (Jungle TV Size Version)</title>
+			<creator>Aki</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>29</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Aki/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>68333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-2/24.%20FLY%20ME%20TO%20THE%20MOON%20(Bossa%20Techno%20Version).mp3</location>
+			<title>FLY ME TO THE MOON (Bossa Techno Version)</title>
+			<creator>Aya</creator>
+			<album>Neon Genesis Evangelion / Soundtrack II</album>
+			<trackNum>24</trackNum>
+			<annotation>https://archive.org/details/evangelion-soundtrack-2</annotation>
+			<image>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-2/cover.jpg</image>
+			<duration>229303</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-2/25.%20FLY%20ME%20TO%20THE%20MOON%20(Jungle%20Version).flac</location>
+			<title>FLY ME TO THE MOON (Jungle Version)</title>
+			<creator>Aki</creator>
+			<album>Neon Genesis Evangelion / Soundtrack II</album>
+			<trackNum>25</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Aki/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20II/art.jpg</image>
+			<duration>274226</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/30.%20FLY%20ME%20TO%20THE%20MOON%20(B-22A%20Type%20TV%20Size%20Version).flac</location>
+			<title>FLY ME TO THE MOON (B-22A Type TV Size Version)</title>
+			<creator>Shiroh Sagisu</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>30</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiroh%20Sagisu/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>68773</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/31.%20FLY%20ME%20TO%20THE%20MOON%20Rei%20%2323%20(TV%20Size%20Version).flac</location>
+			<title>FLY ME TO THE MOON Rei #23 (TV Size Version)</title>
+			<creator>Rei Ayanami (CV: Megumi Hayashibara)</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>31</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rei%20Ayanami%20%28CV_%20Megumi%20Hayashibara%29/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>70560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/32.%20FLY%20ME%20TO%20THE%20MOON%20Rei%20%2325%20(TV%20Size%20Version).flac</location>
+			<title>FLY ME TO THE MOON Rei #25 (TV Size Version)</title>
+			<creator>Rei Ayanami (CV: Megumi Hayashibara)</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>32</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rei%20Ayanami%20%28CV_%20Megumi%20Hayashibara%29/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>70400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/33.%20FLY%20ME%20TO%20THE%20MOON%20Rei%20%2326%20(TV%20Size%20Version).flac</location>
+			<title>FLY ME TO THE MOON Rei #26 (TV Size Version)</title>
+			<creator>Rei Ayanami (CV: Megumi Hayashibara)</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>33</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rei%20Ayanami%20%28CV_%20Megumi%20Hayashibara%29/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>72306</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-3/34.%20FLY%20ME%20TO%20THE%20MOON%20(London%20Beat%20Version).flac</location>
+			<title>FLY ME TO THE MOON (London Beat Version)</title>
+			<creator>Aya</creator>
+			<album>Neon Genesis Evangelion / Soundtrack III</album>
+			<trackNum>34</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Aya/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20III/art.jpg</image>
+			<duration>490200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-angel-thesis/01.%20Cruel%20Angel&#39;s%20Thesis.flac</location>
+			<title>Cruel Angel&#39;s Thesis</title>
+			<creator>Yoko Takahashi</creator>
+			<album>Neon Genesis Evangelion / Cruel Angel&#39;s Thesis</album>
+			<trackNum>1</trackNum>
+			<annotation>Ripped by Nemuri &amp; Menelkir</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yoko%20Takahashi/Neon%20Genesis%20Evangelion%20_%20Cruel%20Angel%27s%20Thesis/art.jpg</image>
+			<duration>245866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-angel-thesis/02.%20Labyrinth%20of%20the%20Moon.flac</location>
+			<title>Labyrinth of the Moon</title>
+			<creator>Yoko Takahashi</creator>
+			<album>Neon Genesis Evangelion / Cruel Angel&#39;s Thesis</album>
+			<trackNum>2</trackNum>
+			<annotation>Ripped by Nemuri &amp; Menelkir</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yoko%20Takahashi/Neon%20Genesis%20Evangelion%20_%20Cruel%20Angel%27s%20Thesis/art.jpg</image>
+			<duration>345400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-angel-thesis/03.%20Cruel%20Angel&#39;s%20Thesis%20[Instrumental].flac</location>
+			<title>Cruel Angel&#39;s Thesis [Instrumental]</title>
+			<creator>Yoko Takahashi</creator>
+			<album>Neon Genesis Evangelion / Cruel Angel&#39;s Thesis</album>
+			<trackNum>3</trackNum>
+			<annotation>Ripped by Nemuri &amp; Menelkir</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yoko%20Takahashi/Neon%20Genesis%20Evangelion%20_%20Cruel%20Angel%27s%20Thesis/art.jpg</image>
+			<duration>245200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-angel-thesis/04.%20Labyrinth%20of%20the%20Moon%20[Instrumental].flac</location>
+			<title>Labyrinth of the Moon [Instrumental]</title>
+			<creator>Yoko Takahashi</creator>
+			<album>Neon Genesis Evangelion / Cruel Angel&#39;s Thesis</album>
+			<trackNum>4</trackNum>
+			<annotation>Ripped by Nemuri &amp; Menelkir</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Yoko%20Takahashi/Neon%20Genesis%20Evangelion%20_%20Cruel%20Angel%27s%20Thesis/art.jpg</image>
+			<duration>343866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/01.%20INTRO.flac</location>
+			<title>INTRO</title>
+			<creator>鷺巣詩郎</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>34613</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/02.%20%E6%AE%8B%E9%85%B7%E3%81%AA%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%83%86%E3%83%BC%E3%82%BC%20%E3%80%90A.D.2001%E3%80%91.flac</location>
+			<title>残酷な天使のテーゼ 【A.D.2001】</title>
+			<creator>林原めぐみ</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E6%9E%97%E5%8E%9F%E3%82%81%E3%81%90%E3%81%BF/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>285560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/03.%20Rei%20I%20(A-1).flac</location>
+			<title>Rei I (A-1)</title>
+			<creator>鷺巣詩郎</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>179800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/04.%20Hedgehog&#39;s%20Dilemma%20(B-1).flac</location>
+			<title>Hedgehog&#39;s Dilemma (B-1)</title>
+			<creator>鷺巣詩郎</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>171840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/05.%20Rei%20II%20(B-20).flac</location>
+			<title>Rei II (B-20)</title>
+			<creator>鷺巣詩郎</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>177493</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/06.%20FLY%20ME%20TO%20THE%20MOON%20%E3%80%90AYANAMI%20Version%E3%80%91.flac</location>
+			<title>FLY ME TO THE MOON 【AYANAMI Version】</title>
+			<creator>林原めぐみ</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E6%9E%97%E5%8E%9F%E3%82%81%E3%81%90%E3%81%BF/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>273933</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/07.%20Do%20you%20love%20me%EF%BC%9F(A-4%20%E3%82%B7%E3%83%B3%E3%82%BB%E3%83%9C%E3%82%A4%E3%82%B9%E3%81%AE%E3%81%BF).flac</location>
+			<title>Do you love me？(A-4 シンセボイスのみ)</title>
+			<creator>鷺巣詩郎</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>140533</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/08.%20HOSTILITY%20RESTRAINED%20(A-13C).flac</location>
+			<title>HOSTILITY RESTRAINED (A-13C)</title>
+			<creator>鷺巣詩郎</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>99240</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/09.%20Good,%20or%20Don&#39;t%20Be.%20(OP-2D%E3%82%BF%E3%82%A4%E3%83%97).flac</location>
+			<title>Good, or Don&#39;t Be. (OP-2Dタイプ)</title>
+			<creator>鷺巣詩郎</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>86800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/10.%20%E9%AD%82%E3%81%AE%E3%83%AB%E3%83%95%E3%83%A9%E3%83%B3%20%E3%80%90Aqua%20Groove%20Mix%E3%80%91.flac</location>
+			<title>魂のルフラン 【Aqua Groove Mix】</title>
+			<creator>林原めぐみ</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E6%9E%97%E5%8E%9F%E3%82%81%E3%81%90%E3%81%BF/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>329426</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/11.%20%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%B8%E3%81%AE%E9%80%83%E9%81%BF%20(M-4).mp3</location>
+			<title>始まりへの逃避 (M-4)</title>
+			<creator>鷺巣詩郎</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>11</trackNum>
+			<annotation>https://archive.org/details/evangelion-birthday-of-rei-ayanami</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>298710</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/12.%20%E9%96%89%E5%A1%9E%E3%81%AE%E6%8B%A1%E5%A4%A7%20(M-9%E6%94%B9).flac</location>
+			<title>閉塞の拡大 (M-9改)</title>
+			<creator>鷺巣詩郎</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>12</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>412466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/13.%20%E5%A4%A2%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%9E%20(A-4%E3%83%94%E3%82%A2%E3%83%8E%E3%83%BB%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3).flac</location>
+			<title>夢のスキマ (A-4ピアノ・おまかせバージョン)</title>
+			<creator>鷺巣詩郎</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>13</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>93706</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/14.%20THANATOS%20-IF%20I%20CAN&#39;T%20BE%20YOURS-.flac</location>
+			<title>THANATOS -IF I CAN&#39;T BE YOURS-</title>
+			<creator>鷺巣詩郎</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>14</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>435000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-birthday-of-rei-ayanami/15.%20FLY%20ME%20TO%20THE%20MOON%20-%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E-.flac</location>
+			<title>FLY ME TO THE MOON -鷺巣詩郎-</title>
+			<creator>鷺巣詩郎</creator>
+			<album>Neon Genesis Evangelion / The Birthday of Rei Ayanami</album>
+			<trackNum>15</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E/Neon%20Genesis%20Evangelion%20_%20The%20Birthday%20of%20Rei%20Ayanami/art.jpg</image>
+			<duration>274026</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-the-day-of-second-impact/01.%20INTRO.flac</location>
+			<title>INTRO</title>
+			<creator>鷺巣詩郎</creator>
+			<album>Neon Genesis Evangelion / -THE DAY OF SECOND IMPACT-</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E/Neon%20Genesis%20Evangelion%20_%20-THE%20DAY%20OF%20SECOND%20IMPACT-/art.jpg</image>
+			<duration>14493</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-the-day-of-second-impact/02.%20ANGEL%20ATTACK%20(E-6).flac</location>
+			<title>ANGEL ATTACK (E-6)</title>
+			<creator>鷺巣詩郎</creator>
+			<album>Neon Genesis Evangelion / -THE DAY OF SECOND IMPACT-</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/%E9%B7%BA%E5%B7%A3%E8%A9%A9%E9%83%8E/Neon%20Genesis%20Evangelion%20_%20-THE%20DAY%20OF%20SECOND%20IMPACT-/art.jpg</image>
+			<duration>152800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+	</extension>
+</playlist>

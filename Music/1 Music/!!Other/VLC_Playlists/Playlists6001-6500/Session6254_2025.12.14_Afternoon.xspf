@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Bejeweled%20series/Bejeweled%20twist%20OST/All-in-one/Bejeweled%20twist%20full%20soundtrack.ogg</location>
+			<duration>7373461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-2/11.%20The%20Day%20Tokyo-3%20Stood%20Still.flac</location>
+			<title>The Day Tokyo-3 Stood Still</title>
+			<creator>Shiroh Sagisu</creator>
+			<album>Neon Genesis Evangelion / Soundtrack II</album>
+			<trackNum>11</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiroh%20Sagisu/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20II/art.jpg</image>
+			<duration>100000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Neon-Genesis-Evangelion/evangelion-soundtrack-2/07.%20Both%20of%20you,%20dance%20like%20you%20want%20to%20win!.flac</location>
+			<title>&quot;Both of you, dance like you want to win!&quot;</title>
+			<creator>Shiroh Sagisu</creator>
+			<album>Neon Genesis Evangelion / Soundtrack II</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiroh%20Sagisu/Neon%20Genesis%20Evangelion%20_%20Soundtrack%20II/art.jpg</image>
+			<duration>110573</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
