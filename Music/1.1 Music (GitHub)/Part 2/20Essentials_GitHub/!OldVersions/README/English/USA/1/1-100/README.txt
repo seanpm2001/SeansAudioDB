@@ -2333,6 +2333,56 @@ https://github.com/20essentials/prokyon
 
 If the account is to go dormant again, I will continuously check once per week (each Monday)
 
+#### 2025, December 3rd
+
+No new data for today.
+
+#### 2025, December 4th
+
+No new data for today.
+
+#### 2025, December 5th
+
+No new data for today.
+
+#### 2025, December 6th
+
+No new data for today.
+
+#### 2025, December 7th
+
+No new data for today.
+
+#### 2025, December 8th
+
+20Essentials downloads are now being done every Monday, starting 2025, June 9th, up until the account stops posting, or is terminated. This week, it was moved to Tuesday again, due to severe time issues. No new data was found.
+
+If the account is to go dormant again, I will continuously check once per week (each Monday)
+
+#### 2025, December 9th
+
+No new data for today.
+
+#### 2025, December 10th
+
+No new data for today.
+
+#### 2025, December 11th
+
+No new data for today.
+
+#### 2025, December 12th
+
+No new data for today.
+
+#### 2025, December 13th
+
+No new data for today.
+
+#### 2025, December 14th
+
+No new data for today.
+
 ---
 
 #### Why I don't download version 2 and later of each music repository
@@ -2366,6 +2416,6 @@ The GitHub variant of this folder is incorrectly formatted (as of 2025, Saturday
 
 # File info
 
-**File version:** `34 (2025, Tuesday, December 2nd at 05:44 pm PST)`
+**File version:** `35 (2025, Saturday, December 13th 08:18 pm PST)`
 
 ***
