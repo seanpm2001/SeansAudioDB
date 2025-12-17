@@ -1302,6 +1302,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1160: 2025, December 13th
 - [x] 🇺🇦️ Day 1161: 2025, December 14th
 - [x] 🇺🇦️ Day 1162: 2025, December 15th
+- [x] 🇺🇦️ Day 1163: 2025, December 16th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -2701,7 +2702,8 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1388, 2025, Friday, December 12th
 - [x] 🇺🇦️ Day 1389, 2025, Saturday, December 13th
 - [x] 🇺🇦️ Day 1390, 2025, Sunday, December 14th
-- [x] 🇺🇦️ Day 1391, 2025, Monday, December 14th
+- [x] 🇺🇦️ Day 1391, 2025, Monday, December 15th
+- [x] 🇺🇦️ Day 1392, 2025, Tuesday, December 16th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -7033,17 +7035,18 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 4314: 2025, December 13th
 - [x] 🇺🇦️ Day 4315: 2025, December 14th
 - [x] 🇺🇦️ Day 4316: 2025, December 15th
+- [x] 🇺🇦️ Day 4317: 2025, December 16th
 
 <!-- upcoming
 2026, February 20th: (11th year of the Russo-Ukrainian war)
 2026, August 24th:  (happy independence day Ukraine!) **Слава Україні!**
 !-->
 
-- After 4,316 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 4,316 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 4,316 дня это все еще Украина. Слава Украине!
-- BE: Праз 4,316 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
-- KO: 4,316 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
+- After 4,317 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 4,317 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 4,317 дня это все еще Украина. Слава Украине!
+- BE: Праз 4,317 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
+- KO: 4,317 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
 
 #### N1
 
@@ -7083,7 +7086,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **BE: Тып файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 - **KO: 파일 유형:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `1081 (2025, Monday, December 15th at 09:05 pm PST)`
+- **File version:** `1082 (2025, Tuesday, December 16th at 07:29 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
@@ -7093,11 +7096,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 > **Translation not available (Korean) 번역이 불가능합니다. (한국어)**
 
-- **Line count (including blank lines and compiler line):** `8,898`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `8,898`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `8,898`
-- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `8,898`
-- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `8,898`
+- **Line count (including blank lines and compiler line):** `8,922`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `8,922`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `8,922`
+- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `8,922`
+- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `8,922`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -8799,6 +8802,27 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [ ] No other changes in version 1081
 
 </details> <!-- V1081 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 1082 (2025, Tuesday, December 16th at 07:29 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `6915`
+- [x] Updated the main list to include an entry for 2025, December 16th (day 1,163)
+- [x] Updated the list of all days of the war since the 2022 Invasion (1,391 days)
+- [x] Updated the list of all days of the war (4,315 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 1082
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 1082
+
+</details> <!-- V1082 !-->
+
 ---
 
 _End of file history._
@@ -8815,11 +8839,11 @@ _End of file history._
 
 <!-- TODO !--> TODO: Translate this section
 
-- Total consecutive days: 1164 (as of 2025, Saturday, December 13th)
-- Days with an update: 1081 (as of 2025, Saturday, December 13th)
+- Total consecutive days: 1165 (as of 2025, Saturday, December 13th)
+- Days with an update: 1082 (as of 2025, Saturday, December 13th)
 - Days without an update: 83 (as of 2025, Saturday, December 13th)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 1081/1164 = 92.869% (as of 2025, Saturday, December 13th)
+- Ratio: 1082/1165 = 92.875% (as of 2025, Saturday, December 13th)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
