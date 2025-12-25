@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Advance%20series/sonic-advance-3-remastered-3.0-final-boss-20161128-wag-7rfqabk-8/Soundcloud%20Versions/Ice%20Mountain%20Zone%20-%20Act%202-20210222-990315625.mp3</location>
+			<title>Ice Mountain Zone - Act 2</title>
+			<creator>Sonic Advance Remastered</creator>
+			<annotation>https://soundcloud.com/sonic-a</annotation>
+			<duration>138484</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Advance%20series/sonic-advance-3-remastered-3.0-final-boss-20161128-wag-7rfqabk-8/Soundcloud%20Versions/Altar%20Emerald%20Zone-20210222-990328720.mp3</location>
+			<title>Altar Emerald Zone</title>
+			<creator>Sonic Advance 3 Remastered</creator>
+			<annotation>https://soundcloud.com/sonic-a</annotation>
+			<duration>127538</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
