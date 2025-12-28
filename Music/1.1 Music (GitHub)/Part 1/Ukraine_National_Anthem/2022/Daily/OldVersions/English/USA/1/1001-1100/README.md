@@ -1313,6 +1313,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1171: 2025, December 24th
 - [x] 🇺🇦️ Day 1172: 2025, December 25th
 - [x] 🇺🇦️ Day 1173: 2025, December 26th
+- [x] 🇺🇦️ Day 1174: 2025, December 27th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -2724,6 +2725,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1400, 2025, Wednesday, December 24th
 - [x] 🇺🇦️ Day 1401, 2025, Thursday, December 25th
 - [x] 🇺🇦️ Day 1402, 2025, Friday, December 26th
+- [x] 🇺🇦️ Day 1403, 2025, Saturday, December 27th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -7066,6 +7068,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 4325: 2025, December 24th
 - [x] 🇺🇦️ Day 4326: 2025, December 25th
 - [x] 🇺🇦️ Day 4327: 2025, December 26th
+- [x] 🇺🇦️ Day 4328: 2025, December 27th
 
 <!-- upcoming
 2026, February 20th: (11th year of the Russo-Ukrainian war)
@@ -7116,7 +7119,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **BE: Тып файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 - **KO: 파일 유형:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `1090 (2025, Friday, December 26th at 10:25 pm PST)`
+- **File version:** `1091 (2025, Saturday, December 27th at 11:05 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
@@ -7126,11 +7129,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 > **Translation not available (Korean) 번역이 불가능합니다. (한국어)**
 
-- **Line count (including blank lines and compiler line):** `9,116`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `9,116`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `9,116`
-- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `9,116`
-- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `9,116`
+- **Line count (including blank lines and compiler line):** `9,139`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `9,139`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `9,139`
+- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `9,139`
+- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `9,139`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -9019,6 +9022,26 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 1091 (2025, Saturday, December 27th at 11:05 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `6945`
+- [x] Updated the main list to include an entry for 2025, December 27th (day 1,174)
+- [x] Updated the list of all days of the war since the 2022 Invasion (1,403 days)
+- [x] Updated the list of all days of the war (4,326 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 1091
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 1091
+
+</details> <!-- V1091 !-->
+
+---
+
 _End of file history._
 
 </details> <!-- End of file history !-->
@@ -9033,11 +9056,11 @@ _End of file history._
 
 <!-- TODO !--> TODO: Translate this section
 
-- Total consecutive days: 1173 (as of 2025, Friday, December 26th)
-- Days with an update: 1090 (as of 2025, Friday, December 26th)
-- Days without an update: 83 (as of 2025, Friday, December 26th)
+- Total consecutive days: 1174 (as of 2025, Saturday, December 27th)
+- Days with an update: 1091 (as of 2025, Saturday, December 27th)
+- Days without an update: 83 (as of 2025, Saturday, December 27th)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 1090/1173 = 92.924% (as of 2025, Friday, December 26th)
+- Ratio: 1091/1174 = 92.924% (as of 2025, Saturday, December 27th)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
