@@ -1324,6 +1324,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1182: 2026, January 4th
 - [x] 🇺🇦️ Day 1183: 2026, January 5th
 - [x] 🇺🇦️ Day 1184: 2026, January 6th
+- [x] 🇺🇦️ Day 1185: 2026, January 7th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -2746,6 +2747,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1411, 2026, Sunday, January 4th
 - [x] 🇺🇦️ Day 1412, 2026, Monday, January 5th
 - [x] 🇺🇦️ Day 1413, 2026, Tuesday, January 6th
+- [x] 🇺🇦️ Day 1414, 2026, Wednesday, January 7th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -7099,17 +7101,18 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 4336: 2026, January 4th
 - [x] 🇺🇦️ Day 4337: 2026, January 5th
 - [x] 🇺🇦️ Day 4338: 2026, January 6th
+- [x] 🇺🇦️ Day 4339: 2026, January 7th
 
 <!-- upcoming
 2026, February 20th: (11th year of the Russo-Ukrainian war)
 2026, August 24th:  (happy independence day Ukraine!) **Слава Україні!**
 !-->
 
-- After 4,338 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 4,338 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 4,338 дня это все еще Украина. Слава Украине!
-- BE: Праз 4,338 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
-- KO: 4,338 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
+- After 4,339 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 4,339 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 4,339 дня это все еще Украина. Слава Украине!
+- BE: Праз 4,339 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
+- KO: 4,339 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
 
 #### N1
 
@@ -7149,7 +7152,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **BE: Тып файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 - **KO: 파일 유형:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `1101 (2026, Tuesday, January 6th at 10:30 pm PST)`
+- **File version:** `1102 (2026, Wednesday, January 7th at 10:18 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
@@ -7159,11 +7162,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 > **Translation not available (Korean) 번역이 불가능합니다. (한국어)**
 
-- **Line count (including blank lines and compiler line):** `7,353`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `7,353`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `7,353`
-- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `7,353`
-- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `7,353`
+- **Line count (including blank lines and compiler line):** `7,380`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `7,380`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `7,380`
+- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `7,380`
+- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `7,380`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -7238,7 +7241,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 <details><summary><p lang="en"><b>Version 1101 (2026, Tuesday, January 6th at 10:30 pm PST)</b></p></summary>
 
-_Entries 1001 to 1100 have been removed. They are now only available in version 1100 and below_
+> **Note:** _Entries 1001 to 1100 have been removed. They are now only available in version 1100 and below_
 
 - **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -7253,6 +7256,30 @@ _Entries 1001 to 1100 have been removed. They are now only available in version 
 - - [x] Added an entry for version 1101
 - [x] Updated the `Additional notes` section
 - [ ] No other changes in version 1101
+
+</details> <!-- End of version 1101 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 1102 (2026, Wednesday, January 7th at 10:18 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `6975`
+- [x] Updated the main list to include an entry for 2026, January 7th (day 1,185)
+- [x] Updated the list of all days of the war since the 2022 Invasion (1,413 days)
+- [x] Updated the list of all days of the war (4,337 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 1102
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 1102
+
+</details> <!-- End of version 1102 !-->
+
+---
 
 _End of file history._
 
@@ -7270,11 +7297,11 @@ _End of file history._
 
 <!-- TODO !--> TODO: Translate this section
 
-- Total consecutive days: 1184 (as of 2026, Tuesday, January 6th)
-- Days with an update: 1101 (as of 2026, Tuesday, January 6th)
-- Days without an update: 84 (as of 2026, Tuesday, January 6th)
+- Total consecutive days: 1185 (as of 2026, Wednesday, January 7th)
+- Days with an update: 1102 (as of 2026, Wednesday, January 7th)
+- Days without an update: 84 (as of 2026, Wednesday, January 7th)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 1101/1184 = 92.989% (as of 2026, Tuesday, January 6th)
+- Ratio: 1102/1185 = 92.995% (as of 2026, Wednesday, January 7th)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
