@@ -129,11 +129,11 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 
 # 🇺🇦️ Counter / Лічильник / Прилавок / Лічыльнік / 계수기 ️🇺🇦
 
-- The Ukrainian Flag Emoji appears in this document `6999` times (as of 2026.01.16)
-- UA/UK: У цьому документі з'являється емодзі прапора України `6999` разів (станом на 2026.01.16)
-- RU: Эмодзи Флаг Украины появляется в этом документе `6999` раз (по состоянию на 2026.01.16)
-- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `6999` разоў (на 2026.01.16)
-- KO: 우크라이나 국기 이모지는 이 문서에 `6999` 번 등장합니다(2026.01.16 기준)
+- The Ukrainian Flag Emoji appears in this document `7005` times (as of 2026.01.18)
+- UA/UK: У цьому документі з'являється емодзі прапора України `7005` разів (станом на 2026.01.18)
+- RU: Эмодзи Флаг Украины появляется в этом документе `7005` раз (по состоянию на 2026.01.18)
+- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `7005` разоў (на 2026.01.18)
+- KO: 우크라이나 국기 이모지는 이 문서에 `7005` 번 등장합니다(2026.01.18 기준)
 
 ***
 
@@ -1334,6 +1334,8 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1192: 2026, January 14th
 - [x] 🇺🇦️ Day 1193: 2026, January 15th
 - [x] 🇺🇦️ Day 1194: 2026, January 16th
+- [x] 🇺🇦️ Day 1195: 2026, January 17th
+- [x] 🇺🇦️ Day 1196: 2026, January 18th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -2766,6 +2768,8 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1421, 2026, Wednesday, January 14th
 - [x] 🇺🇦️ Day 1422, 2026, Thursday, January 15th
 - [x] 🇺🇦️ Day 1423, 2026, Friday, January 16th
+- [x] 🇺🇦️ Day 1424, 2026, Saturday, January 17th
+- [x] 🇺🇦️ Day 1425, 2026, Sunday, January 18th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -7129,17 +7133,19 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 4346: 2026, January 14th
 - [x] 🇺🇦️ Day 4347: 2026, January 15th
 - [x] 🇺🇦️ Day 4348: 2026, January 16th
+- [x] 🇺🇦️ Day 4349: 2026, January 17th
+- [x] 🇺🇦️ Day 4350: 2026, January 18th
 
 <!-- upcoming
 2026, February 20th: (11th year of the Russo-Ukrainian war)
 2026, August 24th:  (happy independence day Ukraine!) **Слава Україні!**
 !-->
 
-- After 4,348 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 4,348 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 4,348 дня это все еще Украина. Слава Украине!
-- BE: Праз 4,348 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
-- KO: 4,348 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
+- After 4,350 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 4,350 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 4,350 дня это все еще Украина. Слава Украине!
+- BE: Праз 4,350 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
+- KO: 4,350 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
 
 #### N1
 
@@ -7179,7 +7185,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **BE: Тып файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 - **KO: 파일 유형:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `1111 (2026, Friday, January 16th at 06:48 pm PST)`
+- **File version:** `1112 (2026, Sunday, January 18th at 07:33 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
@@ -7189,11 +7195,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 > **Translation not available (Korean) 번역이 불가능합니다. (한국어)**
 
-- **Line count (including blank lines and compiler line):** `7,587`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `7,587`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `7,587`
-- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `7,587`
-- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `7,587`
+- **Line count (including blank lines and compiler line):** `7,616`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `7,616`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `7,616`
+- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `7,616`
+- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `7,616`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -7488,6 +7494,29 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 1112 (2026, Sunday, January 18th at 07:33 pm PST)</b></p></summary>
+
+- **Note:** _The ritual was done yesterday, right before shutting down. I was very out of focus, and unable to update this repository yesterday, due to focus and mental health issues. As usual, this does not indicate a skip to listening to the anthem, it is just a skip of updating the file._
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `7005`
+- [x] Updated the main list to include an entry for 2026, January 17th (day 1,196)
+- [x] Updated the main list to include an entry for 2026, January 18th (day 1,197)
+- [x] Updated the list of all days of the war since the 2022 Invasion (1,424 days)
+- [x] Updated the list of all days of the war (4,350 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 1112
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 1112
+
+</details> <!-- End of version 1112 !-->
+
+---
+
 _End of file history._
 
 ---
@@ -7504,11 +7533,11 @@ _End of file history._
 
 <!-- TODO !--> TODO: Translate this section
 
-- Total consecutive days: 1194 (as of 2026, Friday, January 16th)
-- Days with an update: 1111 (as of 2026, Friday, January 16th)
-- Days without an update: 84 (as of 2026, Friday, January 16th)
+- Total consecutive days: 1196 (as of 2026, Sunday, January 18th)
+- Days with an update: 1112 (as of 2026, Sunday, January 18th)
+- Days without an update: 85 (as of 2026, Sunday, January 18th)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 1111/1194 = 93.048% (as of 2026, Friday, January 16th)
+- Ratio: 1112/1196 = 92.976% (as of 2026, Sunday, January 18th)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
