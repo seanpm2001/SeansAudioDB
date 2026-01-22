@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Poland-Anthem/MP3/US-Navy-Band_Poland-Anthem.mp3</location>
+			<duration>42867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/EU-Anthem/US-Navy-Band_Anthem-of-eu-long.mp3</location>
+			<duration>116219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/elton-john-ost-main/songs/n1.mp3</location>
+			<title>Elton John - I&#39;m Still Standing (Lyrics)</title>
+			<creator>Taj Tracks</creator>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/9ee15fcdb6d24a5ded792df835f4dd31/art.png</image>
+			<duration>183628</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/elton-john-ost-main/songs/n2.mp3</location>
+			<title>Elton John - Rocket Man (Lyrics)</title>
+			<creator>How Are You Today?</creator>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/f3221d7fcdf5fafd4a8193bb1b70467c/art.png</image>
+			<duration>283204</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/elton-john-ost-main/songs/n3.mp3</location>
+			<title>Tiny Dancer - Elton John (Lyrics) 🎵</title>
+			<creator>Pillow</creator>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/4fb4dd1efc99a8e7acff5c478be37683/art.png</image>
+			<duration>373036</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/elton-john-ost-main/songs/n5.mp3</location>
+			<title>Elton John- Candle In The Wind. with lyrics</title>
+			<creator>SadSongs4You</creator>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/2cc949e1e67d3eaf102bef6dbd189bc8/art.png</image>
+			<duration>231412</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/elton-john-ost-main/songs/n6.mp3</location>
+			<title>Elton John - Goodbye Yellow Brick Road (lyrics)</title>
+			<creator>Wind Music</creator>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/4b3b0c823a23614f017f04e1b7308dd2/art.png</image>
+			<duration>194260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Poland-Anthem/MP3/US-Navy-Band_Poland-Anthem.mp3</location>
+			<duration>42867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/EU-Anthem/US-Navy-Band_Anthem-of-eu-long.mp3</location>
+			<duration>116219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Metal%20Gear%20Solid%20Series/Metal%20Gear%20Solid%20V/MP3/Metal-Gear-Solid%20V_The-Phantom-Pain_Nuclear.mp3</location>
+			<title>Metal-Gear-Solid V_The-Phantom-Pain_Nuclear.mp3</title>
+			<creator>Konami</creator>
+			<album>Metal Gear Solid V - The Phantom Pain soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Nuclear&quot; from the video game Metal Gear Solid V - The Phantom Pain</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Konami/Metal%20Gear%20Solid%20V%20-%20The%20Phantom%20Pain%20soundtrack/art.jpg</image>
+			<duration>302847</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Moana/AudioOnly/MP3/y2mate.com%20-%20dwayne_johnson_youre_welcome_from_moana_79DijItQXMM_720p.mp3</location>
+			<duration>168543</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Moana/AudioOnly/MP3/y2mate.com%20-%20aulii_cravalho_how_far_ill_go_cPAbx5kgCJo_1080p.mp3</location>
+			<duration>155534</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Moana/Remixes/(No%20video)%20What%20can%20I%20say%20except%20the%20N%20word.webm</location>
+			<duration>127221</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kevin%20Macleod/Samplers/Classical_Sampler/Kevin_MacLeod_-_Also_Sprach_Zarathustra.mp3</location>
+			<title>Also Sprach Zarathustra</title>
+			<creator>Kevin MacLeod</creator>
+			<album>Classical Sampler</album>
+			<annotation>URL: http://freemusicarchive.org/music/Kevin_MacLeod/Classical_Sampler/Also_Sprach_Zarathustra
+Comments: http://freemusicarchive.org/
+Curator: 
+Copyright: Creative Commons Attribution: http://creativecommons.org/licenses/by/3.0/</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kevin%20MacLeod/Classical%20Sampler/art.jpg</image>
+			<duration>86073</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Magic-Key/AudioOnly/M4A/[HD]%20Nightcore%20-%20Magic%20Key%20[f4oQHi4yNFE].m4a</location>
+			<duration>191124</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>

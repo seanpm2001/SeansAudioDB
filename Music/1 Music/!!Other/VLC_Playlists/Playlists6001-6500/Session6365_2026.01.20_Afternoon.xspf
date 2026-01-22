@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Shine-on-harvest-moon/AudioOnly/OGX/Ada_Jones_and_Billy_Murray_-_Shine_On,_Harvest_Moon.ogx</location>
+			<duration>125248</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ada-Jones/Whistle-and-I&#39;ll-wait-for-you/AudioOnly/OGX/Audio_for_Ada_Jones-_Whistle_and_I&#39;ll_Wait_for_You_-_1909.ogx</location>
+			<duration>116033</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ada-Jones/Shine-on-harvest-moon/AudioOnly/OGX/Ada_Jones_and_Billy_Murray_-_Shine_On,_Harvest_Moon.ogx</location>
+			<duration>125248</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/South%20Park/Kenny/VideoWithAudio/MP4/KennyGoesToHell.mp4</location>
+			<duration>87963</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/South%20Park/southparkmovie/01%20-%20Mountain%20Town.mp3</location>
+			<title>Mountain Town</title>
+			<creator>South Park</creator>
+			<album>Bigger, Longer &amp; Uncut</album>
+			<trackNum>1</trackNum>
+			<annotation>Brought to you by «[Dj.$L!de]»</annotation>
+			<duration>267734</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/South%20Park/southparkmovie/09%20-%20Eyes%20of%20a%20Child.mp3</location>
+			<title>Eyes of a Child</title>
+			<creator>South Park</creator>
+			<album>Bigger, Longer &amp; Uncut</album>
+			<trackNum>9</trackNum>
+			<annotation>Brought to you by «[Dj.$L!de]»</annotation>
+			<duration>219795</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

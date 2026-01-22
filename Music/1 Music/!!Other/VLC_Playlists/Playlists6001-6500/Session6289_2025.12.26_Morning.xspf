@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Taylor%20Swift%20-%20Blank%20Space/MP3/Taylor-Swift_Blank-space.mp3</location>
+			<title>Taylor-Swift_Blank-space.mp3</title>
+			<creator>Taylor Swift</creator>
+			<album>Blank Space</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;You belong with me&quot; by singer &amp; songwriter, Taylor Swift.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Taylor%20Swift/Blank%20Space/art.jpg</image>
+			<duration>272415</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>

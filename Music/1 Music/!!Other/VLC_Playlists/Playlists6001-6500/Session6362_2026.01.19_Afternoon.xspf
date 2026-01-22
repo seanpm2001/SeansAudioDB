@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Copying%20is%20not%20theft/Remixes/JoeGran/VideoWithAudio/MP4/Israel%20Parody%2017-30.mp4</location>
+			<duration>59584</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!The-Matrix-Series/the-matrix-music-from-the-motion-picture_202511/The%20Matrix,%20Music%20From%20The%20Motion%20Picture/1999%20-%20The%20Matrix,%20Music%20From%20The%20Motion%20Picture/04.%20Clubbed%20To%20Death%20(Kuryamino%20Mix).flac</location>
+			<title>Clubbed To Death (kuryamino Mix)</title>
+			<creator>Rob D</creator>
+			<album>The Matrix, Music From The Motion Picture</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rob%20D/The%20Matrix%2C%20Music%20From%20The%20Motion%20Picture/art.jpg</image>
+			<duration>446171</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%201%20O.S.T.%20+/04.%20Yoko%20Kanno%20-%20Surf.flac</location>
+			<title>Surf</title>
+			<creator>Yoko Kanno</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. +</album>
+			<trackNum>4</trackNum>
+			<duration>180773</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/SilvaGunner/siivagunner-deleted-videos/SiIvaGunner-December2018/Renai%20Circulation%20(Beta%20Mix)%20-%20Bakemonogatari%20Portable-oW2KN-MqmfM.mkv</location>
+			<duration>105061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/SilvaGunner/siivagunner-deleted-videos/SiIvaGunner-December2018/Renai%20Circulation%20(Alpha%20Mix)%20-%20Bakemonogatari%20Portable-IYdgzfZRZ1s.mkv</location>
+			<duration>252180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/South%20Park/Kenny/VideoWithAudio/MP4/KennyGoesToHell.mp4</location>
+			<duration>87963</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/South%20Park/1997-2017/southpark-ost-lossless/South%20Park%20OST%20[FLAC]/Poker%20Face%20(South%20Park%20Version)/01.%20Poker%20Face%20(South%20Park%20Version).flac</location>
+			<title>Poker Face (South Park Version)</title>
+			<creator>Eric Cartman</creator>
+			<album>Poker Face (South Park Version)</album>
+			<trackNum>1</trackNum>
+			<annotation>[not actually lossless]</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Eric%20Cartman/Poker%20Face%20%28South%20Park%20Version%29/art.jpg</image>
+			<duration>215550</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
