@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/SilvaGunner/siivagunner-deleted-videos/SiIvaGunner-December2018/Renai%20Circulation%20(Alpha%20Mix)%20-%20Bakemonogatari%20Portable-IYdgzfZRZ1s.mkv</location>
+			<duration>252180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/SilvaGunner/siivagunner-deleted-videos/SiIvaGunner-December2018/Ashley&#39;s%20Song%20-%20WarioWare%20-%20Touched!-CnnM3lP43OM.webm</location>
+			<duration>122981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
