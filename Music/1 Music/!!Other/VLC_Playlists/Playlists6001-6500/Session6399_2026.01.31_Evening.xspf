@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/EU-Anthem/US-Navy-Band_Anthem-of-eu-long.mp3</location>
+			<duration>116219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Poland-Anthem/Full-Version/Poland-has-not-yet-perished/Polish%20National%20Anthem%20(Poland%20Has%20Not%20Peri%20-%20Allan%20Werner.flac</location>
+			<title>Polish National Anthem (Poland Has Not Perished Yet)</title>
+			<creator>Allan Werner Jozef Wybicki</creator>
+			<album>Polish National Anthem (Poland Has Not Perished Yet)</album>
+			<trackNum>1</trackNum>
+			<annotation>https://archive.org/details/78_polish-national-anthem-poland-has-not-perished-yet_allan-werner-jozef-wybicki_gbia0114305b/Polish+National+Anthem+%28Poland+Has+Not+Peri+-+Allan+Werner.flac
+This file was digitized at George Blood, L.P. using a 3.3mil truncated conical stylus, and equalized with Turnover: 400.0, Rolloff: -12.0.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Allan%20Werner%20Jozef%20Wybicki/Polish%20National%20Anthem%20%28Poland%20Has%20Not%20Perished%20Yet%29/art.jpg</image>
+			<duration>161194</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Radio-NNA/Country/United-States-of-America/Charlie-Daniels-Band_The-devil-went-down-to-(New)-Georgia.webm</location>
+			<duration>275560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Radio-NNA/Country/United-States-of-America/Johnny-Cash_Satisfied-Mind.mp3</location>
+			<title>Satisfied Mind</title>
+			<creator>Johnny Cash</creator>
+			<album>Kill Bill Vol. 2 Original Soundtrack</album>
+			<trackNum>10</trackNum>
+			<annotation>https://music.youtube.com/watch?v=D6_lLzarzk0</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Johnny%20Cash/Kill%20Bill%20Vol.%202%20Original%20Soundtrack/art.jpg</image>
+			<duration>169224</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Radio-NNA/Country/United-States-of-America/Dierks-Bentley_What-Was-I-Thinkin.webm</location>
+			<duration>211940</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Lady-Antebellum/2008-2021/FLAC/(002)%20Lookin&#39;%20For%20A%20Good%20Time.flac</location>
+			<title>Lookin&#39; For A Good Time</title>
+			<creator>Lady A</creator>
+			<album>Lady Antebellum</album>
+			<trackNum>2</trackNum>
+			<annotation>PMEDIA</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Lady%20A/Lady%20Antebellum/art.jpg</image>
+			<duration>187320</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
