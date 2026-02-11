@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/Anna%20-%20Do%20It%20On%20Your%20Own.mp3</location>
+			<title>Do It On Your Own</title>
+			<creator>Anna</creator>
+			<duration>178651</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/Apostles%20Of%20Funk%20-%20Yellow%20Butter.mp3</location>
+			<title>Yellow Butter</title>
+			<creator>Apostles Of Funk</creator>
+			<duration>136411</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/Downfield%20-%20Grievous%20Bodily%20Harm.mp3</location>
+			<title>Grievous Bodily Harm</title>
+			<creator>Downfield</creator>
+			<annotation>notes: ask stu if wants to groove with the pacifica 112 - ask ivan if he is keen to re-rec intro lines - reschedule w anna - bailey </annotation>
+			<duration>202318</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/E=MC%20Good%20Times%20-%20Jacking%20In%20Hilltown.mp3</location>
+			<title>Jacking In Hilltown</title>
+			<creator>E=MC Good Times</creator>
+			<duration>199811</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/IDO%20-%20Ball%20Blaster.mp3</location>
+			<title>Ball Blaster</title>
+			<creator>IDO</creator>
+			<annotation>A.K.A. &quot;Ball Buster&quot;</annotation>
+			<duration>133120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/Scrapyard%20Mongrels%20-%20I%20Love%20This%20Feeling.mp3</location>
+			<title>I Love This Feeling</title>
+			<creator>Scrapyard Mongrels</creator>
+			<duration>263184</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
