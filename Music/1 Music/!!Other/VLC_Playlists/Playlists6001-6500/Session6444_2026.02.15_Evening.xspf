@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/EU-Anthem/US-Navy-Band_Anthem-of-eu-long.mp3</location>
+			<duration>116219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Poland-Anthem/Full-Version/Poland-has-not-yet-perished/Polish%20National%20Anthem%20(Poland%20Has%20Not%20Peri%20-%20Allan%20Werner.flac</location>
+			<title>Polish National Anthem (Poland Has Not Perished Yet)</title>
+			<creator>Allan Werner Jozef Wybicki</creator>
+			<album>Polish National Anthem (Poland Has Not Perished Yet)</album>
+			<trackNum>1</trackNum>
+			<annotation>https://archive.org/details/78_polish-national-anthem-poland-has-not-perished-yet_allan-werner-jozef-wybicki_gbia0114305b/Polish+National+Anthem+%28Poland+Has+Not+Peri+-+Allan+Werner.flac
+This file was digitized at George Blood, L.P. using a 3.3mil truncated conical stylus, and equalized with Turnover: 400.0, Rolloff: -12.0.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Allan%20Werner%20Jozef%20Wybicki/Polish%20National%20Anthem%20%28Poland%20Has%20Not%20Perished%20Yet%29/art.jpg</image>
+			<duration>161194</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Marconi%20Union%20-%20Weightless/MP3/Marconi-Union_Weightless.mp3</location>
+			<title>Marconi-Union_Weightless.mp3</title>
+			<creator>Marconi Union</creator>
+			<album>Weightless</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Weightless&quot; by Marconi Union.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Marconi%20Union/Weightless/art.jpg</image>
+			<duration>488867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Marconi%20Union%20-%20Weightless/Marconi%20Union%20-%20Weightless%20(Official%20Video).mp4</location>
+			<duration>488840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Marconi%20Union%20-%20Weightless/MP3/Marconi-Union_Weightless.mp3</location>
+			<title>Marconi-Union_Weightless.mp3</title>
+			<creator>Marconi Union</creator>
+			<album>Weightless</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Weightless&quot; by Marconi Union.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Marconi%20Union/Weightless/art.jpg</image>
+			<duration>488867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/My-Neighbor-Totoro-OST/01%20Hey,%20Let&#39;s%20Go%20(Opening%20Theme).mp3</location>
+			<title>Hey, Let&#39;s Go (Opening Theme)</title>
+			<creator>Joe Hisaishi &amp; Azumi Inoue</creator>
+			<album>My Neighbor Totoro Original Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>online-audio-converter.com</annotation>
+			<duration>163527</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/My-Neighbor-Totoro-OST/02%20The%20Village%20in%20May.mp3</location>
+			<title>The Village in May</title>
+			<creator>Joe Hisaishi</creator>
+			<album>My Neighbor Totoro Original Soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>online-audio-converter.com</annotation>
+			<duration>98848</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/My-Neighbor-Totoro-OST/03%20A%20Haunted%20House!.mp3</location>
+			<title>A Haunted House!</title>
+			<creator>Joe Hisaishi</creator>
+			<album>My Neighbor Totoro Original Soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>online-audio-converter.com</annotation>
+			<duration>83644</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
