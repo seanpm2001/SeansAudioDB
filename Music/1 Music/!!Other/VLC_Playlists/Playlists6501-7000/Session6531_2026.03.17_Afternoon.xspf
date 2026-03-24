@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/Scrapyard%20Mongrels%20-%20I%20Love%20This%20Feeling.mp3</location>
+			<title>I Love This Feeling</title>
+			<creator>Scrapyard Mongrels</creator>
+			<duration>263184</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/Anna%20-%20Do%20It%20On%20Your%20Own.mp3</location>
+			<title>Do It On Your Own</title>
+			<creator>Anna</creator>
+			<duration>178651</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/Numb%20-%20How%20Its%20Done.mp3</location>
+			<title>How It&#39;s Done</title>
+			<creator>Numb</creator>
+			<annotation>A.K.A. &quot;How&#39;s It Done&quot; mono, slow</annotation>
+			<duration>148924</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/Pussywillows%20-%20Real%20Love.mp3</location>
+			<title>Real Love</title>
+			<creator>Pussywillows</creator>
+			<duration>173453</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/Negro%20Vs.%20Conner%20-%20Showin&#39;%20Me%20Love.mp3</location>
+			<title>Showin&#39; Me Love</title>
+			<creator>Negro Vs. Conner</creator>
+			<annotation>do ahhhh oeoeo</annotation>
+			<duration>114599</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/Reed%20-%20L.E.D.mp3</location>
+			<title>L.E.D.</title>
+			<creator>Reed</creator>
+			<duration>180140</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/Spangly%20Feet%20-%20Dazed%20And%20Confuzed.mp3</location>
+			<title>Dazed &amp; Confuzed</title>
+			<creator>Spangly Feet</creator>
+			<annotation>A.K.A. &quot;Dazed &amp; Confused&quot;</annotation>
+			<duration>190668</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/Sterlin%20-%20Standing%20On%20My%20Own.mp3</location>
+			<title>Standing On My Own</title>
+			<creator>Sterlin</creator>
+			<duration>141897</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/Tammy%20Boness%20-%20The%20Diner.mp3</location>
+			<title>The Diner</title>
+			<creator>Tammy Boness &amp; The Swingin&#39; Mammaries</creator>
+			<duration>96574</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!GrandTheftAuto_Series/GTA_II/GTA2-25th-Anniversary/Testing%20-%20My%20Tiny%20World.mp3</location>
+			<title>My Tiny World</title>
+			<creator>Testing</creator>
+			<duration>236931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>

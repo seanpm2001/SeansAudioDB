@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/EU-Anthem/US-Navy-Band_Anthem-of-eu-long.mp3</location>
+			<duration>116219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Poland-Anthem/MP3/US-Navy-Band_Poland-Anthem.mp3</location>
+			<duration>42867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/IdubbbzTV%20music/MP3/Hey_Now_You&#39;re_a_Keemstar.mp3</location>
+			<title>Hey_Now_You&#39;re_a_Keemstar.mp3</title>
+			<creator>Uncle Dane</creator>
+			<album>Hey now, you&#39;re a Keemstar</album>
+			<trackNum>1</trackNum>
+			<annotation>A remix of Smash Mouth: All Star | That goes after the YouTuber known as KeemStar.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Uncle%20Dane/Hey%20now%2C%20you%27re%20a%20Keemstar/art.jpg</image>
+			<duration>168264</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/IdubbbzTV%20music/MP3/Otis-McMusic.mp3</location>
+			<title>Otis-McMusic.mp3</title>
+			<creator>Otis McDonald</creator>
+			<album>Otis McMusic</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Otis McMusic&quot; by Otis McDonald, a Royalty Free song that became popular after the YouTuber IdubbbzTV used it as the intro theme to his content cop video series.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Otis%20McDonald/Otis%20McMusic/art.jpg</image>
+			<duration>116253</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/twenty-one-pilots-main/CANCIONES/N1.mp3</location>
+			<title>twenty one pilots - Ride (Official Video)</title>
+			<creator>twenty one pilots</creator>
+			<annotation>https://www.youtube.com/watch?</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/69d31a849faf507d87685c52c2822ffe/art.png</image>
+			<duration>225340</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/twenty-one-pilots-main/CANCIONES/N2.mp3</location>
+			<title>twenty one pilots - Stressed Out ( Lyrics )</title>
+			<creator>Fadeless Lyrics</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/605ff2026ce02f2989eefabd1b828152/art.jpg</image>
+			<duration>210158</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/twenty-one-pilots-main/CANCIONES/N3.mp3</location>
+			<title>Twenty One Pilots - Chlorine (Lyrics)</title>
+			<creator>7clouds</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/17eaedfd4c395109f93025e4ae83d7d2/art.jpg</image>
+			<duration>324625</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/twenty-one-pilots-main/CANCIONES/N4.mp3</location>
+			<duration>239491</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/20Essentials_GitHub/Unsorted/twenty-one-pilots-main/CANCIONES/N5.mp3</location>
+			<duration>268305</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
