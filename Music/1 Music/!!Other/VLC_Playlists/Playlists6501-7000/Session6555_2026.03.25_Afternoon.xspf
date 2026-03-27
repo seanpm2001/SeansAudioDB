@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/AnimalCrossing2001_29%20Leaving%20Town.mp3</location>
+			<title>Leaving Town</title>
+			<creator>Kazumi Totaka</creator>
+			<album>Animal Crossing (GC Rip)</album>
+			<trackNum>29</trackNum>
+			<annotation>Tagged by DoomGuy500 and someone on Zophar&#39;s Domain</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka/Animal%20Crossing%20%28GC%20Rip%29/art.png</image>
+			<duration>42975</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Johnny%20Johnny%20Yes%20Papa%20(memes)/ZUCCY%20ZUCCY%20YES%20PAPA.mp4</location>
+			<duration>54846</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/1700s%20sea%20shanties/(No%20video)%201700s%20sea%20shanties%201hour.m4a</location>
+			<duration>3600068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/2700s%20sea%20shanties/(No%20video)%202700s%20sea%20shanties.webm</location>
+			<duration>121881</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Coc&#39;n%20rolla%20(Garfielf%20theme)/MP3/BEGNAGRAD_Coc&#39;n-Rolla.mp3</location>
+			<title>BEGNAGRAD_Coc&#39;n-Rolla.mp3</title>
+			<creator>BEGNAGRAD</creator>
+			<album>Coc&#39;n Rolla</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;Coc&#39;n Rolla&quot; by the artist &quot;BEGNAGRAD&quot; commonly known as the theme song for the Internet Meme &quot;Garfielf&quot; that features a poorly drawn Garfield saying various things while this song plays in the background.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/BEGNAGRAD/Coc%27n%20Rolla/art.jpg</image>
+			<duration>330146</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Snail%20Bob%20series/Snail%20Bob%201/MP3/Snail%20Bob%201%20-%20Main%20theme.mp3</location>
+			<duration>80039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Snail%20Bob%20series/Snail%20Bob%202/Snail%20Bob%202%20-%20Main%20theme.mp3</location>
+			<duration>90018</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Snail%20Bob%20series/Snail%20Bob%20Game%20Soundtrack-EF5tULX4LZY.webm</location>
+			<duration>649081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
