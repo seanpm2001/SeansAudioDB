@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/AnimalCrossing2001_13%20Working%20For%20Tom%20Nook.mp3</location>
+			<title>Working For Tom Nook</title>
+			<creator>Kenta Nagata</creator>
+			<album>Animal Crossing (GC Rip)</album>
+			<trackNum>13</trackNum>
+			<annotation>Tagged by DoomGuy500 and someone on Zophar&#39;s Domain</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kenta%20Nagata/Animal%20Crossing%20%28GC%20Rip%29/art.png</image>
+			<duration>104963</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/Plants%20Vs.%20Zombies%202%20Music%20-%20Pirate%20Seas%20Theme.mp3</location>
+			<title>Plants Vs. Zombies 2 Music - Pirate Seas Theme.mp3</title>
+			<creator>PopCap Games/Electronic Arts (EA)</creator>
+			<album>Plants vs. Zombies 2 soundtrack / Pirate Seas</album>
+			<trackNum>1</trackNum>
+			<annotation>The main theme for the Pirate Seas stage of Plants vs. Zombies 2.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/PopCap%20Games_Electronic%20Arts%20%28EA%29/Plants%20vs.%20Zombies%202%20soundtrack%20_%20Pirate%20Seas/art.png</image>
+			<duration>492550</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/AnimalCrossing_NewLeaf_027%20-%20Animal%20Crossing%20New%20Leaf%20(3DS)%20-%201%20PM.flac</location>
+			<title>1 PM</title>
+			<creator>Kazumi Totaka, Manaka Kataoka, Atsuko Asahi</creator>
+			<album>Animal Crossing: New Leaf (3DS)</album>
+			<trackNum>27</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kazumi%20Totaka%2C%20Manaka%20Kataoka%2C%20Atsuko%20Asahi/Animal%20Crossing_%20New%20Leaf%20%283DS%29/art.jpg</image>
+			<duration>96132</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/SonicSpinballParty_41%20Chu-Chu%20Fever.mp3</location>
+			<title>Chu-Chu Fever</title>
+			<creator>Tatsuyuki Maeda, Teruhiko Nakagawa, Yutaka Minobe</creator>
+			<album>Sonic Pinball Party</album>
+			<duration>35056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/SuperMarioAdvance4_16%20-%20Overworld.mp3</location>
+			<title>Overworld</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance 4: Super Mario Bros. 3 - The Original Soundtrack</album>
+			<trackNum>16</trackNum>
+			<annotation>000004F7 0000040C 000017F4</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance%204_%20Super%20Mario%20Bros.%203%20-%20The%20Original%20Soundtrack/art.png</image>
+			<duration>62259</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/WALL-E_hyperjump.mp3</location>
+			<duration>74318</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/All-time_Favorites/V2/AngryBirdsSeasons_GoGreenGetLucky.mp3</location>
+			<title>AngryBirdsSeasons_GoGreenGetLucky.mp3</title>
+			<creator>Rovio</creator>
+			<album>Angry Birds Seasons OST</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Rovio/Angry%20Birds%20Seasons%20OST/art.png</image>
+			<duration>77748</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
