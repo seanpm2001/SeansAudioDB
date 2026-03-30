@@ -129,11 +129,11 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 
 # 🇺🇦️ Counter / Лічильник / Прилавок / Лічыльнік / 계수기 ️🇺🇦
 
-- The Ukrainian Flag Emoji appears in this document `7212` times (as of 2026.03.28)
-- UA/UK: У цьому документі з'являється емодзі прапора України `7212` разів (станом на 2026.03.28)
-- RU: Эмодзи Флаг Украины появляется в этом документе `7212` раз (по состоянию на 2026.03.28)
-- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `7212` разоў (на 2026.03.28)
-- KO: 우크라이나 국기 이모지는 이 문서에 `7212` 번 등장합니다(2026.03.28)
+- The Ukrainian Flag Emoji appears in this document `7215` times (as of 2026.03.29)
+- UA/UK: У цьому документі з'являється емодзі прапора України `7215` разів (станом на 2026.03.29)
+- RU: Эмодзи Флаг Украины появляется в этом документе `7215` раз (по состоянию на 2026.03.29)
+- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `7215` разоў (на 2026.03.29)
+- KO: 우크라이나 국기 이모지는 이 문서에 `7215` 번 등장합니다(2026.03.29)
 
 ***
 
@@ -1405,6 +1405,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1263: 2026, March 26th
 - [x] 🇺🇦️ Day 1264: 2026, March 27th
 - [x] 🇺🇦️ Day 1265: 2026, March 28th
+- [x] 🇺🇦️ Day 1266: 2026, March 29th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -2908,6 +2909,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1492, 2026, Thursday, March 26th
 - [x] 🇺🇦️ Day 1493, 2026, Friday, March 27th
 - [x] 🇺🇦️ Day 1494, 2026, Saturday, March 28th
+- [x] 🇺🇦️ Day 1495, 2026, Sunday, March 29th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -7342,17 +7344,18 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 4417: 2026, March 26th
 - [x] 🇺🇦️ Day 4418: 2026, March 27th
 - [x] 🇺🇦️ Day 4419: 2026, March 28th
+- [x] 🇺🇦️ Day 4420: 2026, March 29th
 
 <!-- upcoming
 2026, February 20th: (11th year of the Russo-Ukrainian war)
 2026, August 24th:  (happy independence day Ukraine!) **Слава Україні!**
 !-->
 
-- After 4,419 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 4,419 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 4,419 дня это все еще Украина. Слава Украине!
-- BE: Праз 4,419 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
-- KO: 4,419 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
+- After 4,420 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 4,420 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 4,420 дня это все еще Украина. Слава Украине!
+- BE: Праз 4,420 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
+- KO: 4,420 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
 
 #### N1
 
@@ -7392,7 +7395,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **BE: Тып файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 - **KO: 파일 유형:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `1180 (2026, Saturday, March 28th at 11:00 pm PST)`
+- **File version:** `1181 (2026, Sunday, March 29th at 11:05 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
@@ -7402,11 +7405,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 > **Translation not available (Korean) 번역이 불가능합니다. (한국어)**
 
-- **Line count (including blank lines and compiler line):** `9,185`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `9,185`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `9,185`
-- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `9,185`
-- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `9,185`
+- **Line count (including blank lines and compiler line):** `9,208`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `9,208`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `9,208`
+- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `9,208`
+- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `9,208`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -9086,6 +9089,26 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 1181 (2026, Sunday, March 29th at 11:05 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `7215`
+- [x] Updated the main list to include an entry for 2026, March 29th (day 1,266)
+- [x] Updated the list of all days of the war since the 2022 Invasion (1,495 days)
+- [x] Updated the list of all days of the war (4,420 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 1181
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 1181
+
+</details> <!-- End of version 1181 !-->
+
+---
+
 _End of file history._
 
 ---
@@ -9102,11 +9125,11 @@ _End of file history._
 
 <!-- TODO !--> TODO: Translate this section
 
-- Total consecutive days: 1265 (as of 2026, Saturday, March 28th)
-- Days with an update: 1180 (as of 2026, Friday, March 28th)
-- Days without an update: 87 (as of 2026, Friday, March 28th)
+- Total consecutive days: 1266 (as of 2026, Sunday, March 29th)
+- Days with an update: 1181 (as of 2026, Sunday, March 29th)
+- Days without an update: 87 (as of 2026, Sunday, March 29th)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 1180/1265 = 93.280% (as of 2026, Friday, March 28th)
+- Ratio: 1181/1266 = 93.285% (as of 2026, Sunday, March 29th)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
