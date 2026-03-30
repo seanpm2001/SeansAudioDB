@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Clannad/clannad-music-collection/Clannad%20Music%20Collection/CLANNAD%20Movie%20Soundtrack%20[FLAC%20+Scans]/23%20Megumeru%20-frequency%20e%20Ver.-.flac</location>
+			<title>Megumeru -frequency=&gt;e Ver.-</title>
+			<creator>eufonius</creator>
+			<album>Gekijouban CLANNAD SOUNDTRACK</album>
+			<trackNum>23</trackNum>
+			<annotation>#LosslessONE@irc.rizon.net</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/eufonius/Gekijouban%20CLANNAD%20SOUNDTRACK/art.jpg</image>
+			<duration>297106</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
