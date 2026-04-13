@@ -2,7 +2,7 @@
 ***
 
 <div align="center">
-    <img alt="Ukraine daily image failed to load. Click/tap here to attempt to view it" src="SeansAudioDB_UkraineDaily_WithWordmark_1024pxIcon_V1_HighCompression.png" title="🇺🇦 Слава Україні! - Glory to Ukraine! 🇺🇦" width="256" height="256" class="center"/>
+    <img alt="Ukraine daily image failed to load. Click/tap here to attempt to view it" src="SeansAudioDB_UkraineDaily_WithWordmark_1024pxIcon_V1_HighCompression.png" title="🇺🇦️ Слава Україні! - Glory to Ukraine! 🇺🇦️" width="256" height="256" class="center"/>
 <!-- Old note: SOME MONUMENTAL IMAGE, NOT JUST THE FLAG OF UKRAINE, OR THE COAT OF ARMS OF UKRAINE, BUT A MIXTURE OF THESE INTO SOMETHING GREATER
 SOMETHING GLORIOUS! 
 late edit: it isn't as great as I wanted it to be, but it is still good. !-->
@@ -127,13 +127,13 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 
 ***
 
-# 🇺🇦️ Counter / Лічильник / Прилавок / Лічыльнік / 계수기 ️🇺🇦
+# 🇺🇦️ Counter / Лічильник / Прилавок / Лічыльнік / 계수기 ️🇺🇦️ 
 
-- The Ukrainian Flag Emoji appears in this document `7254` times (as of 2026.04.10)
-- UA/UK: У цьому документі з'являється емодзі прапора України `7254` разів (станом на 2026.04.10)
-- RU: Эмодзи Флаг Украины появляется в этом документе `7254` раз (по состоянию на 2026.04.10)
-- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `7254` разоў (на 2026.04.10)
-- KO: 우크라이나 국기 이모지는 이 문서에 `7254` 번 등장합니다(2026.04.10)
+- The Ukrainian Flag Emoji appears in this document `7268` times (as of 2026.04.12)
+- UA/UK: У цьому документі з'являється емодзі прапора України `7268` разів (станом на 2026.04.12)
+- RU: Эмодзи Флаг Украины появляется в этом документе `7268` раз (по состоянию на 2026.04.12)
+- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `7268` разоў (на 2026.04.12)
+- KO: 우크라이나 국기 이모지는 이 문서에 `7268` 번 등장합니다(2026.04.12)
 
 ***
 
@@ -1419,6 +1419,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1277: 2026, April 9th
 - [x] 🇺🇦️ Day 1278: 2026, April 10th
 - [x] 🇺🇦️ Day 1279: 2026, April 11th
+- [x] 🇺🇦️ Day 1280: 2026, April 12th
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -2936,6 +2937,7 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1506, 2026, Thursday, April 9th
 - [x] 🇺🇦️ Day 1507, 2026, Friday, April 10th
 - [x] 🇺🇦️ Day 1508, 2026, Saturday, April 11th
+- [x] 🇺🇦️ Day 1509, 2026, Sunday, April 12th
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -7384,17 +7386,18 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 4431: 2026, April 9th
 - [x] 🇺🇦️ Day 4432: 2026, April 10th
 - [x] 🇺🇦️ Day 4433: 2026, April 11th
+- [x] 🇺🇦️ Day 4434: 2026, April 12th
 
 <!-- upcoming
 2026, February 20th: (11th year of the Russo-Ukrainian war)
 2026, August 24th:  (happy independence day Ukraine!) **Слава Україні!**
 !-->
 
-- After 4,433 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 4,433 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 4,433 дня это все еще Украина. Слава Украине!
-- BE: Праз 4,433 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
-- KO: 4,433 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
+- After 4,434 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 4,434 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 4,434 дня это все еще Украина. Слава Украине!
+- BE: Праз 4,434 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
+- KO: 4,434 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
 
 #### N1
 
@@ -7434,7 +7437,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **BE: Тып файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 - **KO: 파일 유형:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `1192 (2026, Saturday, April 11th at 11:26 pm PST)`
+- **File version:** `1193 (2026, Sunday, April 12th at 11:17 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
@@ -7444,11 +7447,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 > **Translation not available (Korean) 번역이 불가능합니다. (한국어)**
 
-- **Line count (including blank lines and compiler line):** `9,473`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `9,473`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `9,473`
-- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `9,473`
-- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `9,473`
+- **Line count (including blank lines and compiler line):** `9,498`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `9,498`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `9,498`
+- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `9,498`
+- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `9,498`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -9374,6 +9377,26 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 1193 (2026, Sunday, April 12th at 11:17 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `7268`
+- [x] Updated the main list to include an entry for 2026, April 12th (day 1,281)
+- [x] Updated the list of all days of the war since the 2022 Invasion (1,507 days)
+- [x] Updated the list of all days of the war (4,431 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 1193
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 1193
+
+</details> <!-- End of version 1193 !-->
+
+---
+
 _End of file history._
 
 ---
@@ -9390,11 +9413,11 @@ _End of file history._
 
 <!-- TODO !--> TODO: Translate this section
 
-- Total consecutive days: 1279 (as of 2026, Saturday, April 11th)
-- Days with an update: 1192 (as of 2026, Saturday, April 11th)
-- Days without an update: 89 (as of 2026, Saturday, April 11th)
+- Total consecutive days: 1280 (as of 2026, Sunday, April 12th)
+- Days with an update: 1193 (as of 2026, Sunday, April 12th)
+- Days without an update: 87 (as of 2026, Sunday, April 12th)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 1192/1279 = 93.197% (as of 2026, Saturday, April 11th)
+- Ratio: 1193/1280 = 93.203% (as of 2026, Sunday, April 12th)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
@@ -9470,3 +9493,5 @@ This table took over 20 minutes to write, as it was reformatted several times (f
 <!-- /%/2001_FOOTER_SECTION.BEGIN\%\ !-->
 
 ***
+
+A variant of the Ukrainian flag Emoji that Gedit doesn't consider the same as the rest of the document for some reason: 🇺🇦
