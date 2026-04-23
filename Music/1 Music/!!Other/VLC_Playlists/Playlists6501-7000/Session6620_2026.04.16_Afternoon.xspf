@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-1-2-soundtrack/1-04%20STH1%20Labyrinth%20Zone%20~%20Mega%20Drive%20version%20~.mp3</location>
+			<title>STH1 Labyrinth Zone ~ Mega Drive version ~</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic The Hedgehog 1&amp;2 Soundtrack</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Nakamura/Sonic%20The%20Hedgehog%201%262%20Soundtrack/art.png</image>
+			<duration>127660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-the-hedgehog-1-2-soundtrack/1-06%20STH1%20Scrap%20Brain%20Zone%20~%20Mega%20Drive%20version%20~.mp3</location>
+			<title>STH1 Scrap Brain Zone ~ Mega Drive version ~</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic The Hedgehog 1&amp;2 Soundtrack</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Nakamura/Sonic%20The%20Hedgehog%201%262%20Soundtrack/art.png</image>
+			<duration>156003</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
