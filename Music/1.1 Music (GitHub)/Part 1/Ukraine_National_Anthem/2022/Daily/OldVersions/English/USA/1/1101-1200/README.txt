@@ -129,11 +129,11 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 
 # 🇺🇦️ Counter / Лічильник / Прилавок / Лічыльнік / 계수기 ️🇺🇦️ 
 
-- The Ukrainian Flag Emoji appears in this document `7305` times (as of 2026.04.24)
-- UA/UK: У цьому документі з'являється емодзі прапора України `7305` разів (станом на 2026.04.24)
-- RU: Эмодзи Флаг Украины появляется в этом документе `7305` раз (по состоянию на 2026.04.24)
-- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `7305` разоў (на 2026.04.24)
-- KO: 우크라이나 국기 이모지는 이 문서에 `7305` 번 등장합니다(2026.04.24)
+- The Ukrainian Flag Emoji appears in this document `7389` times (as of 2026.05.22)
+- UA/UK: У цьому документі з'являється емодзі прапора України `7389` разів (станом на 2026.05.22)
+- RU: Эмодзи Флаг Украины появляется в этом документе `7389` раз (по состоянию на 2026.05.22)
+- BE: Emoji ўкраінскага сцяга з'яўляецца ў гэтым дакуменце `7389` разоў (на 2026.05.22)
+- KO: 우크라이나 국기 이모지는 이 문서에 `7389` 번 등장합니다(2026.05.22)
 
 ***
 
@@ -1432,6 +1432,34 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1290: 2026, April 22nd
 - [x] 🇺🇦️ Day 1291: 2026, April 23rd
 - [x] 🇺🇦️ Day 1292: 2026, April 24th
+- [x] 🇺🇦️ Day 1293: 2026, April 25th
+- [x] 🇺🇦️ Day 1294: 2026, April 26th
+- [x] 🇺🇦️ Day 1295: 2026, April 27th
+- [x] 🇺🇦️ Day 1296: 2026, April 28th
+- [x] 🇺🇦️ Day 1297: 2026, April 29th
+- [x] 🇺🇦️ Day 1298: 2026, April 30th
+- [x] 🇺🇦️ Day 1299: 2026, May 1st
+- [x] 🇺🇦️ Day 1300: 2026, May 2nd
+- [x] 🇺🇦️ Day 1301: 2026, May 3rd
+- [x] 🇺🇦️ Day 1302: 2026, May 4th
+- [x] 🇺🇦️ Day 1303: 2026, May 5th
+- [x] 🇺🇦️ Day 1304: 2026, May 6th
+- [x] 🇺🇦️ Day 1305: 2026, May 7th
+- [x] 🇺🇦️ Day 1306: 2026, May 8th
+- [x] 🇺🇦️ Day 1307: 2026, May 9th
+- [x] 🇺🇦️ Day 1308: 2026, May 10th
+- [x] 🇺🇦️ Day 1309: 2026, May 11th
+- [x] 🇺🇦️ Day 1310: 2026, May 12th
+- [x] 🇺🇦️ Day 1311: 2026, May 13th
+- [x] 🇺🇦️ Day 1312: 2026, May 14th
+- [x] 🇺🇦️ Day 1313: 2026, May 15th
+- [x] 🇺🇦️ Day 1314: 2026, May 16th
+- [x] 🇺🇦️ Day 1315: 2026, May 17th
+- [x] 🇺🇦️ Day 1316: 2026, May 18th
+- [x] 🇺🇦️ Day 1317: 2026, May 19th
+- [x] 🇺🇦️ Day 1318: 2026, May 20th
+- [x] 🇺🇦️ Day 1319: 2026, May 21st
+- [x] 🇺🇦️ Day 1320: 2026, May 22nd
 
 <!-- Coming soon entry has been removed, in the possibility that the war could end the next day !-->
 
@@ -2959,9 +2987,37 @@ KO: 다음 6개의 오디오 파일이 적용됩니다.
 - [x] 🇺🇦️ Day 1516, 2026, Sunday, April 19th
 - [x] 🇺🇦️ Day 1517, 2026, Monday, April 20th
 - [x] 🇺🇦️ Day 1518, 2026, Tuesday, April 21st
-- [x] 🇺🇦️ Day 1519, 2026, March, April 22nd
-- [x] 🇺🇦️ Day 1520, 2026, March, April 23rd
-- [x] 🇺🇦️ Day 1521, 2026, March, April 24th
+- [x] 🇺🇦️ Day 1519, 2026, Wednesday, April 22nd
+- [x] 🇺🇦️ Day 1520, 2026, Thursday, April 23rd
+- [x] 🇺🇦️ Day 1521, 2026, Friday, April 24th
+- [x] 🇺🇦️ Day 1522, 2026, Saturday, April 25th
+- [x] 🇺🇦️ Day 1523, 2026, Sunday, April 26th
+- [x] 🇺🇦️ Day 1524, 2026, Monday, April 27th
+- [x] 🇺🇦️ Day 1525, 2026, Tuesday, April 28th
+- [x] 🇺🇦️ Day 1526, 2026, Wednesday, April 29th
+- [x] 🇺🇦️ Day 1527, 2026, Thursday, April 30th
+- [x] 🇺🇦️ Day 1528, 2026, Friday, May 1st
+- [x] 🇺🇦️ Day 1529, 2026, Saturday, May 2nd
+- [x] 🇺🇦️ Day 1530, 2026, Sunday, May 3rd
+- [x] 🇺🇦️ Day 1531, 2026, Monday, May 4th
+- [x] 🇺🇦️ Day 1532, 2026, Tuesday, May 5th
+- [x] 🇺🇦️ Day 1533, 2026, Wednesday, May 6th
+- [x] 🇺🇦️ Day 1534, 2026, Thursday, May 7th
+- [x] 🇺🇦️ Day 1535, 2026, Friday, May 8th
+- [x] 🇺🇦️ Day 1536, 2026, Saturday, May 9th
+- [x] 🇺🇦️ Day 1537, 2026, Sunday, May 10th
+- [x] 🇺🇦️ Day 1538, 2026, Monday, May 11th
+- [x] 🇺🇦️ Day 1539, 2026, Tuesday, May 12th
+- [x] 🇺🇦️ Day 1540, 2026, Wednesday, May 13th
+- [x] 🇺🇦️ Day 1541, 2026, Thursday, May 14th
+- [x] 🇺🇦️ Day 1542, 2026, Friday, May 15th
+- [x] 🇺🇦️ Day 1543, 2026, Saturday, May 16th
+- [x] 🇺🇦️ Day 1544, 2026, Sunday, May 17th
+- [x] 🇺🇦️ Day 1545, 2026, Monday, May 18th
+- [x] 🇺🇦️ Day 1546, 2026, Tuesday, May 19th
+- [x] 🇺🇦️ Day 1547, 2026, Wednesday, May 20th
+- [x] 🇺🇦️ Day 1548, 2026, Thursday, May 21st
+- [x] 🇺🇦️ Day 1549, 2026, Friday, May 22nd
 
 <!-- Possible confusion note
 The 1 year anniversary may be 1 day off, because they might report it from Ukraines time (EEST, Eastern Europe Summer Time) which is 10 hours ahead of my time (PST, Pacific Standard Time)
@@ -7424,17 +7480,45 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - [x] 🇺🇦️ Day 4444: 2026, April 22nd
 - [x] 🇺🇦️ Day 4445: 2026, April 23rd
 - [x] 🇺🇦️ Day 4446: 2026, April 24th
+- [x] 🇺🇦️ Day 4447: 2026, April 25th
+- [x] 🇺🇦️ Day 4448: 2026, April 26th
+- [x] 🇺🇦️ Day 4449: 2026, April 27th
+- [x] 🇺🇦️ Day 4450: 2026, April 28th
+- [x] 🇺🇦️ Day 4451: 2026, April 29th
+- [x] 🇺🇦️ Day 4452: 2026, April 30th
+- [x] 🇺🇦️ Day 4453: 2026, May 1st
+- [x] 🇺🇦️ Day 4454: 2026, May 2nd
+- [x] 🇺🇦️ Day 4455: 2026, May 3rd
+- [x] 🇺🇦️ Day 4456: 2026, May 4th
+- [x] 🇺🇦️ Day 4457: 2026, May 5th
+- [x] 🇺🇦️ Day 4458: 2026, May 6th
+- [x] 🇺🇦️ Day 4459: 2026, May 7th
+- [x] 🇺🇦️ Day 4460: 2026, May 8th
+- [x] 🇺🇦️ Day 4461: 2026, May 9th
+- [x] 🇺🇦️ Day 4462: 2026, May 10th
+- [x] 🇺🇦️ Day 4462: 2026, May 11th
+- [x] 🇺🇦️ Day 4463: 2026, May 12th
+- [x] 🇺🇦️ Day 4464: 2026, May 13th
+- [x] 🇺🇦️ Day 4465: 2026, May 14th
+- [x] 🇺🇦️ Day 4466: 2026, May 15th
+- [x] 🇺🇦️ Day 4467: 2026, May 16th
+- [x] 🇺🇦️ Day 4468: 2026, May 17th
+- [x] 🇺🇦️ Day 4469: 2026, May 18th
+- [x] 🇺🇦️ Day 4470: 2026, May 19th
+- [x] 🇺🇦️ Day 4471: 2026, May 20th
+- [x] 🇺🇦️ Day 4472: 2026, May 21st
+- [x] 🇺🇦️ Day 4473: 2026, May 22nd
 
 <!-- upcoming
 2026, February 20th: (11th year of the Russo-Ukrainian war)
 2026, August 24th:  (happy independence day Ukraine!) **Слава Україні!**
 !-->
 
-- After 4,444 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
-- UA/UK: після 4,444 днів, це все ще Україна. Слава Україні!
-- RU: Спустя 4,444 дня это все еще Украина. Слава Украине!
-- BE: Праз 4,444 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
-- KO: 4,444 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
+- After 4,473 days, it is still Ukraine. Slava Ukraini! [Calculation source](https://duckduckgo.com/?t=ffab&q=days+since+February+20th+2014&ia=answer)
+- UA/UK: після 4,473 днів, це все ще Україна. Слава Україні!
+- RU: Спустя 4,473 дня это все еще Украина. Слава Украине!
+- BE: Праз 4,473 дзён гэта ўсё яшчэ Украіна. Слава Украіне!
+- KO: 4,473 일 후에도 여전히 우크라이나입니다. 슬라바 우크라이나!
 
 #### N1
 
@@ -7474,7 +7558,7 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 - **BE: Тып файла:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 - **KO: 파일 유형:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-- **File version:** `1198 (2026, Friday, April 24th at 07:41 pm PST)`
+- **File version:** `1199 (2026, Friday, May 22nd at 07:10 pm PST)`
 
 > **Translation not available (Ukrainian) Переклад відсутній (українська)**
 
@@ -7484,11 +7568,11 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 > **Translation not available (Korean) 번역이 불가능합니다. (한국어)**
 
-- **Line count (including blank lines and compiler line):** `9,654`
-- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `9,654`
-- **RU: Количество строк (включая пустые строки и строку компилятора):** `9,654`
-- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `9,654`
-- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `9,654`
+- **Line count (including blank lines and compiler line):** `9,788`
+- **UA/UK: Кількість рядків (включно з порожніми рядками та рядком компілятора):** `9,788`
+- **RU: Количество строк (включая пустые строки и строку компилятора):** `9,788`
+- **BE: Колькасць радкоў (уключаючы пустыя радкі і радок кампілятара):** `9,788`
+- **KO: 줄 수(빈 줄과 컴파일러 줄 포함):** `9,788`
 
 - **Current article language:** `English (EN_USA)` / `Ukrainian (UA_UKRAINE)` / `Russian (RU_RUSSIA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -9543,6 +9627,56 @@ The 1 year anniversary may be 1 day off, because they might report it from Ukrai
 
 ---
 
+<details><summary><p lang="en"><b>Version 1199 (2026, Friday, May 22nd at 07:10 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I have put this task off for the longest point since it was started, this file wasn't updated in nearly a full month. I got back to it today. The goal was never violated during this time, I continued to listen to the Ukrainian anthem at least once per day. The file wasn't updated since April 24th._
+
+
+> Changes:
+
+- [x] Updated the Ukrainian flag counter section, with a new value of `7389`
+- [x] Updated the main list to include an entry for 2026, April 25th (day 1,294)
+- [x] Updated the main list to include an entry for 2026, April 26th (day 1,295)
+- [x] Updated the main list to include an entry for 2026, April 27th (day 1,296)
+- [x] Updated the main list to include an entry for 2026, April 28th (day 1,297)
+- [x] Updated the main list to include an entry for 2026, April 29th (day 1,298)
+- [x] Updated the main list to include an entry for 2026, April 30th (day 1,299)
+- [x] Updated the main list to include an entry for 2026, May 1st (day 1,300)
+- [x] Updated the main list to include an entry for 2026, May 2nd (day 1,301)
+- [x] Updated the main list to include an entry for 2026, May 3rd (day 1,302)
+- [x] Updated the main list to include an entry for 2026, May 4th (day 1,303)
+- [x] Updated the main list to include an entry for 2026, May 5th (day 1,304)
+- [x] Updated the main list to include an entry for 2026, May 6th (day 1,305)
+- [x] Updated the main list to include an entry for 2026, May 7th (day 1,306)
+- [x] Updated the main list to include an entry for 2026, May 8th (day 1,307)
+- [x] Updated the main list to include an entry for 2026, May 9th (day 1,308)
+- [x] Updated the main list to include an entry for 2026, May 10th (day 1,309)
+- [x] Updated the main list to include an entry for 2026, May 11th (day 1,310)
+- [x] Updated the main list to include an entry for 2026, May 12th (day 1,311)
+- [x] Updated the main list to include an entry for 2026, May 13th (day 1,312)
+- [x] Updated the main list to include an entry for 2026, May 14th (day 1,313)
+- [x] Updated the main list to include an entry for 2026, May 15th (day 1,314)
+- [x] Updated the main list to include an entry for 2026, May 16th (day 1,315)
+- [x] Updated the main list to include an entry for 2026, May 17th (day 1,316)
+- [x] Updated the main list to include an entry for 2026, May 18th (day 1,317)
+- [x] Updated the main list to include an entry for 2026, May 19th (day 1,318)
+- [x] Updated the main list to include an entry for 2026, May 20th (day 1,319)
+- [x] Updated the main list to include an entry for 2026, May 21st (day 1,320)
+- [x] Updated the main list to include an entry for 2026, May 22nd (day 1,321)
+- [x] Updated the list of all days of the war since the 2022 Invasion (1,549 days)
+- [x] Updated the list of all days of the war (4,473 days)
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 1199
+- [x] Updated the `Additional notes` section
+- [ ] No other changes in version 1199
+
+</details> <!-- End of version 1199 !-->
+
+---
+
 _End of file history._
 
 ---
@@ -9559,11 +9693,11 @@ _End of file history._
 
 <!-- TODO !--> TODO: Translate this section
 
-- Total consecutive days: 1290 (as of 2026, Friday, April 24th)
-- Days with an update: 1199 (as of 2026, Friday, April 24th)
-- Days without an update: 93 (as of 2026, Friday, April 24th)
+- Total consecutive days: 1318 (as of 2026, Friday, May 22nd)
+- Days with an update: 1199 (as of 2026, Friday, May 22nd)
+- Days without an update: 119 (as of 2026, Friday, May 22nd)
 - - The goal of listening to the specific music was met on this day, but the README.md file was not updated
-- Ratio: 1199/1290 = 92.945% (as of 2026, Friday, April 24th)
+- Ratio: 1199/1318 = 90.971% (as of 2026, Friday, May 22nd)
 
 <!-- [OBSOLETE, 2024.07.04] Still not as high as Putins "approval" ratings (2024 "election") 88.48% !-->
 
