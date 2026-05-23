@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-mania-expanded-soundtrack/1-22%20Stardust%20Speedway%20Zone%20-%20Act%201.mp3</location>
+			<title>Stardust Speedway Zone - Act 1</title>
+			<creator>Tee Lopes</creator>
+			<album>Sonic Mania: Expanded Soundtrack</album>
+			<trackNum>22</trackNum>
+			<annotation>Ripped, Edited, &amp; Tagged by !!!!! (demon2warrior)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tee%20Lopes/Sonic%20Mania_%20Expanded%20Soundtrack/art.jpg</image>
+			<duration>170501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-mania-expanded-soundtrack/1-11%20Chemical%20Plant%20Zone%20-%20Act%201.mp3</location>
+			<title>Chemical Plant Zone - Act 1</title>
+			<creator>Tee Lopes</creator>
+			<album>Sonic Mania: Expanded Soundtrack</album>
+			<trackNum>11</trackNum>
+			<annotation>Ripped, Edited, &amp; Tagged by !!!!! (demon2warrior)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tee%20Lopes/Sonic%20Mania_%20Expanded%20Soundtrack/art.jpg</image>
+			<duration>121495</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-mania-expanded-soundtrack/1-12%20Chemical%20Plant%20Zone%20-%20Act%202.mp3</location>
+			<title>Chemical Plant Zone - Act 2</title>
+			<creator>Tee Lopes</creator>
+			<album>Sonic Mania: Expanded Soundtrack</album>
+			<trackNum>12</trackNum>
+			<annotation>Ripped, Edited, &amp; Tagged by !!!!! (demon2warrior)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tee%20Lopes/Sonic%20Mania_%20Expanded%20Soundtrack/art.jpg</image>
+			<duration>121495</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-mania-expanded-soundtrack/1-29%20Invincibility.mp3</location>
+			<title>Invincibility</title>
+			<creator>Tee Lopes</creator>
+			<album>Sonic Mania: Expanded Soundtrack</album>
+			<trackNum>29</trackNum>
+			<annotation>Ripped, Edited, &amp; Tagged by !!!!! (demon2warrior)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tee%20Lopes/Sonic%20Mania_%20Expanded%20Soundtrack/art.jpg</image>
+			<duration>37041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Sonic%20Series/sonicaudiocollection/sonic-mania-expanded-soundtrack/1-19%20Tabloid%20Jargon%20(Press%20Garden%20Zone%20-%20Act%201).mp3</location>
+			<title>Tabloid Jargon (Press Garden Zone - Act 1)</title>
+			<creator>Tee Lopes</creator>
+			<album>Sonic Mania: Expanded Soundtrack</album>
+			<trackNum>19</trackNum>
+			<annotation>Ripped, Edited, &amp; Tagged by !!!!! (demon2warrior)</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Tee%20Lopes/Sonic%20Mania_%20Expanded%20Soundtrack/art.jpg</image>
+			<duration>114808</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

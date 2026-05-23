@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/South%20Park/1997-2017/southpark-ost-lossless/South%20Park%20OST%20[FLAC]/Season%2020/Bill&#39;s%20Gentleman&#39;s%20Club.flac</location>
+			<title>Bill&#39;s Gentleman&#39;s Club</title>
+			<creator>South Park</creator>
+			<album>South Park</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/South%20Park/South%20Park/art.jpg</image>
+			<duration>31170</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/South%20Park/1997-2017/southpark-ost-lossless/South%20Park%20OST%20[FLAC]/Season%2021/Barbershop%20Quarter%20Medley.flac</location>
+			<title>Barbershop Quartet Medley</title>
+			<creator>South Park</creator>
+			<album>South Park</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/South%20Park/South%20Park/art.jpg</image>
+			<duration>50823</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>

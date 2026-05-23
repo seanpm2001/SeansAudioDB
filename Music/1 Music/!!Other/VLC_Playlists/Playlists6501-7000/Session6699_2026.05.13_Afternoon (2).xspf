@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Sounds-every-2000s-kid-remembers/VideoWithAudio/MP4/Sound%20Every%202000s%20Kids%20Remember.mp4</location>
+			<duration>132842</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Sounds-every-2000s-kid-remembers/VideoWithAudio/MP4/Sound%20Every%202000s%20Kids%20Remember%20part2.mp4</location>
+			<title>Sound Every 2000s Kids Remember part2</title>
+			<creator>Artisax</creator>
+			<annotation>https://www.youtube.com/watch?v=2VnYXKwneUQ</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/12d965fc01ccca68f6f5a355b81abf77/art.png</image>
+			<duration>146309</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
