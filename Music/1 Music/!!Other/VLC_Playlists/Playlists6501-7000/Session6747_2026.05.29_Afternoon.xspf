@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MOTHER_Series/MOTHER-1_OST/MOTHER%20Original%20Soundtrack%20Digital%20Remastering/03.%20The%20Paradise%20Line.flac</location>
+			<title>The Paradise Line</title>
+			<creator>Jeb Million</creator>
+			<album>MOTHER Original Soundtrack Digital Remastering</album>
+			<trackNum>3</trackNum>
+			<annotation>www.sittingonclouds.net</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Jeb%20Million/MOTHER%20Original%20Soundtrack%20Digital%20Remastering/art.png</image>
+			<duration>224293</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MOTHER_Series/MOTHER-1_OST/MOTHER%20Original%20Soundtrack%20Digital%20Remastering/10.%20Eight%20Melodies.mp3</location>
+			<title>Eight Melodies</title>
+			<creator>St. Paul&#39;s Cathedinal Choir</creator>
+			<album>MOTHER Original Soundtrack Digital Remastering</album>
+			<trackNum>10</trackNum>
+			<annotation>https://archive.org/details/mother-original-soundtrack</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/St.%20Paul%27s%20Cathedinal%20Choir/MOTHER%20Original%20Soundtrack%20Digital%20Remastering/art.png</image>
+			<duration>346045</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>

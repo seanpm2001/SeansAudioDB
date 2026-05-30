@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Shut-Up-And-Dance/AudioOnly/M4A/[HD]%20Nightcore%20-%20Shut%20Up%20And%20Dance%20[fkZFPxorPVs].m4a</location>
+			<duration>163144</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Nightcore/NightcoreStern/NightCore/Edge-of-Glory/AudioOnly/M4A/[HD]%20Nightcore%20-%20Edge%20of%20Glory%20[5yerfxEkJAA].m4a</location>
+			<duration>220869</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!TVFilthyFrank%20series/Filthy%20Frank/y2mate.com%20-%20pink_guy_falcon_punch_gA_8w1dz7r8_1080p.mp4</location>
+			<duration>194653</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/The-Assumption-Song/Oney/VideoWithAudio/MP4/The%20Assumption%20Song%20-%20Oney%20Cartoons.mp4</location>
+			<title>The Assumption Song - Oney Cartoons</title>
+			<creator>OneyNG</creator>
+			<annotation>https://www.youtube.com/watch?v=TywmpMQYojs</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/1a96705528492d549ec11f8a54ab101a/art.jpg</image>
+			<duration>93925</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MOTHER_Series/MOTHER-1_OST/MOTHER%20Original%20Soundtrack%20Digital%20Remastering/03.%20The%20Paradise%20Line.flac</location>
+			<title>The Paradise Line</title>
+			<creator>Jeb Million</creator>
+			<album>MOTHER Original Soundtrack Digital Remastering</album>
+			<trackNum>3</trackNum>
+			<annotation>www.sittingonclouds.net</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Jeb%20Million/MOTHER%20Original%20Soundtrack%20Digital%20Remastering/art.png</image>
+			<duration>224293</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!MOTHER_Series/MOTHER-1_OST/MOTHER%20Original%20Soundtrack%20Digital%20Remastering/04.%20Magicant.flac</location>
+			<title>Magicant</title>
+			<creator>Hirokazu Tanaka</creator>
+			<album>MOTHER Original Soundtrack Digital Remastering</album>
+			<trackNum>4</trackNum>
+			<annotation>www.sittingonclouds.net</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Hirokazu%20Tanaka/MOTHER%20Original%20Soundtrack%20Digital%20Remastering/art.png</image>
+			<duration>261853</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>

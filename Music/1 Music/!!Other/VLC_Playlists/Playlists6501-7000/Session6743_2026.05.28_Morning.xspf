@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/weird%20al%20yankovic/Polkamania/youtube-y0ZoX4dBvwk/y0ZoX4dBvwk.ia.mp4</location>
+			<title>&quot;Weird Al&quot; Yankovic - Polkamania! (Official Music Video) - https://archive.org/details/youtube-y0ZoX4dBvwk</title>
+			<duration>246550</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
