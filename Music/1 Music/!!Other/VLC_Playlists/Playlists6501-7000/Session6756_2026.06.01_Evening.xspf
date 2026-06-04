@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Airship-Music/SonicTheHedgehog2_MasaDemo_2-23%20STH2%20Metropolis%20Zone%20~%20Masa&#39;s%20Demo%20version%20~.mp3</location>
+			<title>STH2 Metropolis Zone ~ Masa&#39;s Demo version ~</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic The Hedgehog 1&amp;2 Soundtrack Masa&#39;s Demo Version</album>
+			<trackNum>23</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Nakamura/Sonic%20The%20Hedgehog%201%262%20Soundtrack%20Masa%27s%20Demo%20Version/art.png</image>
+			<duration>141244</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Airship-Music/SonicTheHedgehog2_MasaDemo_2-29%20STH2%20Sky%20Chase%20Zone%20~%20Masa&#39;s%20Demo%20version%20~.mp3</location>
+			<title>STH2 Sky Chase Zone ~ Masa&#39;s Demo version ~</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic The Hedgehog 1&amp;2 Soundtrack Masa&#39;s Demo Version</album>
+			<trackNum>29</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Nakamura/Sonic%20The%20Hedgehog%201%262%20Soundtrack%20Masa%27s%20Demo%20Version/art.png</image>
+			<duration>108748</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Airship-Music/SonicTheHedgehog2_MasaDemo_2-30%20STH2%20Wing%20Fortress%20Zone%20~%20Masa&#39;s%20Demo%20version%20~.mp3</location>
+			<title>STH2 Wing Fortress Zone ~ Masa&#39;s Demo version ~</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic The Hedgehog 1&amp;2 Soundtrack Masa&#39;s Demo Version</album>
+			<trackNum>30</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Masato%20Nakamura/Sonic%20The%20Hedgehog%201%262%20Soundtrack%20Masa%27s%20Demo%20Version/art.png</image>
+			<duration>128130</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/01%20-%20Title.mp3</location>
+			<title>Title</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>1</trackNum>
+			<annotation>00000115 000000D3 00000624</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>84099</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/02%20-%20Game%20Select.mp3</location>
+			<title>Game Select</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>2</trackNum>
+			<annotation>00000073 000000EC 000002D5</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>38307</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/03%20-%20Choose%20a%20Player.mp3</location>
+			<title>Choose a Player</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>3</trackNum>
+			<annotation>000000C8 000000AE 00000356</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>62811</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!Super%20Mario%20Advance%20Series/Super%20Mario%20Advance%20(GBA,%20DSi)%20OST/Audio%20Only/MP3%20Official/04%20-%20Overworld.mp3</location>
+			<title>Overworld</title>
+			<creator>Nintendo</creator>
+			<album>Super Mario Advance: Super Mario Bros. 2 - The Original Soundtrack</album>
+			<trackNum>4</trackNum>
+			<annotation>000000DC 00000100 00000387</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nintendo/Super%20Mario%20Advance_%20Super%20Mario%20Bros.%202%20-%20The%20Original%20Soundtrack/art.jpg</image>
+			<duration>94587</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
