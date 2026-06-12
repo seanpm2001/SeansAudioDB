@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20Wii%20(Wii)%20OST/new-super-mario-bros.-wii-original-sound-version/New%20Super%20Mario%20Bros.%20Wii%20(Original%20Sound%20Version)/25.%20Enemy%20Course%20[Multiplayer].mp3</location>
+			<title>Enemy Course [Multiplayer]</title>
+			<creator>Shiho Fujii, Ryo Nagamatsu</creator>
+			<album>New Super Mario Bros. Wii Original Sound Version</album>
+			<trackNum>25</trackNum>
+			<annotation>Ripped, Edited &amp; Tagged by !!!!!</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiho%20Fujii%2C%20Ryo%20Nagamatsu/New%20Super%20Mario%20Bros.%20Wii%20Original%20Sound%20Version/art.jpg</image>
+			<duration>90795</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20Wii%20(Wii)%20OST/new-super-mario-bros.-wii-original-sound-version/New%20Super%20Mario%20Bros.%20Wii%20(Original%20Sound%20Version)/19.%20Jungle%20BGM.mp3</location>
+			<title>Jungle BGM</title>
+			<creator>Shiho Fujii</creator>
+			<album>New Super Mario Bros. Wii Original Sound Version</album>
+			<trackNum>19</trackNum>
+			<annotation>Ripped, Edited &amp; Tagged by !!!!!</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiho%20Fujii/New%20Super%20Mario%20Bros.%20Wii%20Original%20Sound%20Version/art.jpg</image>
+			<duration>130107</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>

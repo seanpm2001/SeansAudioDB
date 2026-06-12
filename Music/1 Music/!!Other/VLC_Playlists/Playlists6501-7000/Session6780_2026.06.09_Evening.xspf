@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20Wii%20(Wii)%20OST/new-super-mario-bros.-wii-original-sound-version/New%20Super%20Mario%20Bros.%20Wii%20(Original%20Sound%20Version)/14.%20Underwater%20BGM.mp3</location>
+			<title>Underwater BGM</title>
+			<creator>Shiho Fujii</creator>
+			<album>New Super Mario Bros. Wii Original Sound Version</album>
+			<trackNum>14</trackNum>
+			<annotation>Ripped, Edited &amp; Tagged by !!!!!</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiho%20Fujii/New%20Super%20Mario%20Bros.%20Wii%20Original%20Sound%20Version/art.jpg</image>
+			<duration>98751</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20Wii%20(Wii)%20OST/new-super-mario-bros.-wii-original-sound-version/New%20Super%20Mario%20Bros.%20Wii%20(Original%20Sound%20Version)/21.%20Mini-Game.mp3</location>
+			<title>Mini-Game</title>
+			<creator>Shiho Fujii, Ryo Nagamatsu</creator>
+			<album>New Super Mario Bros. Wii Original Sound Version</album>
+			<trackNum>21</trackNum>
+			<annotation>Ripped, Edited &amp; Tagged by !!!!!</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiho%20Fujii%2C%20Ryo%20Nagamatsu/New%20Super%20Mario%20Bros.%20Wii%20Original%20Sound%20Version/art.jpg</image>
+			<duration>103071</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20Wii%20(Wii)%20OST/new-super-mario-bros.-wii-original-sound-version/New%20Super%20Mario%20Bros.%20Wii%20(Original%20Sound%20Version)/47.%20Castle%20Boss%20Room%20BGM.mp3</location>
+			<title>Castle Boss Room BGM</title>
+			<creator>Ryo Nagamatsu</creator>
+			<album>New Super Mario Bros. Wii Original Sound Version</album>
+			<trackNum>47</trackNum>
+			<annotation>Ripped, Edited &amp; Tagged by !!!!!</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ryo%20Nagamatsu/New%20Super%20Mario%20Bros.%20Wii%20Original%20Sound%20Version/art.jpg</image>
+			<duration>36795</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20Wii%20(Wii)%20OST/new-super-mario-bros.-wii-original-sound-version/New%20Super%20Mario%20Bros.%20Wii%20(Original%20Sound%20Version)/53.%20Ending%202.mp3</location>
+			<title>Ending 2</title>
+			<creator>Shiho Fujii, Ryo Nagamatsu</creator>
+			<album>New Super Mario Bros. Wii Original Sound Version</album>
+			<trackNum>53</trackNum>
+			<annotation>Ripped, Edited &amp; Tagged by !!!!!</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiho%20Fujii%2C%20Ryo%20Nagamatsu/New%20Super%20Mario%20Bros.%20Wii%20Original%20Sound%20Version/art.jpg</image>
+			<duration>66315</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20Wii%20(Wii)%20OST/new-super-mario-bros.-wii-original-sound-version/New%20Super%20Mario%20Bros.%20Wii%20(Original%20Sound%20Version)/52.%20Ending%201.mp3</location>
+			<title>Ending 1</title>
+			<creator>Shiho Fujii, Ryo Nagamatsu</creator>
+			<album>New Super Mario Bros. Wii Original Sound Version</album>
+			<trackNum>52</trackNum>
+			<annotation>Ripped, Edited &amp; Tagged by !!!!!</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiho%20Fujii%2C%20Ryo%20Nagamatsu/New%20Super%20Mario%20Bros.%20Wii%20Original%20Sound%20Version/art.jpg</image>
+			<duration>63471</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/!New%20super%20mario%20bros%20series/New%20Super%20Mario%20Bros%20Wii%20(Wii)%20OST/new-super-mario-bros.-wii-original-sound-version/New%20Super%20Mario%20Bros.%20Wii%20(Original%20Sound%20Version)/56.%20Bonus%20Screen%20BGM.mp3</location>
+			<title>Bonus Screen BGM</title>
+			<creator>Shiho Fujii, Ryo Nagamatsu</creator>
+			<album>New Super Mario Bros. Wii Original Sound Version</album>
+			<trackNum>56</trackNum>
+			<annotation>Ripped, Edited &amp; Tagged by !!!!!</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Shiho%20Fujii%2C%20Ryo%20Nagamatsu/New%20Super%20Mario%20Bros.%20Wii%20Original%20Sound%20Version/art.jpg</image>
+			<duration>71211</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
