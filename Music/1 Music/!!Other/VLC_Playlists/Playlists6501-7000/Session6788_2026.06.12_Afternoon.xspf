@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Sing-sing-sing/19-sing-sing-sing-live/19%20Sing,%20Sing,%20Sing%20[Live].mp3</location>
+			<title>Sing, Sing, Sing [Live]</title>
+			<trackNum>19</trackNum>
+			<annotation>https://archive.org/details/19-sing-sing-sing-live</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/82b4af073a7e13290cf6aabe2ac1a3b7/art.jpg</image>
+			<duration>267585</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ada-Jones/Shine-on-harvest-moon/AudioOnly/OGX/Ada_Jones_and_Billy_Murray_-_Shine_On,_Harvest_Moon.ogx</location>
+			<duration>125248</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>

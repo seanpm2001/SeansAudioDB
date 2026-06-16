@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Billboard-Hot-100/HoneyBadger/45.%20P!nk%20-%20Try.mp3</location>
+			<title>Try</title>
+			<creator>P!nk</creator>
+			<album>Top Hits of 2013</album>
+			<trackNum>45</trackNum>
+			<annotation>PMEDIA</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/P%21nk/Top%20Hits%20of%202013/art</image>
+			<duration>249877</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
