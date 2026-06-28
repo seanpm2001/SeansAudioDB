@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ukraine_National_Anthem/US_Navy_Band/OGX/National_anthem_of_Ukraine,_instrumental.oga.ogx</location>
+			<duration>79542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/European-Union-Anthem/AudioOnly/OGG/Anthem_of_Europe_(US_Navy_instrumental_short_version).ogg</location>
+			<title>Anthem of Europe</title>
+			<creator>U.S. Navy Band</creator>
+			<annotation>PD, source: http://www.navyband.navy.mil/anthems/all_countries.htm</annotation>
+			<duration>60957</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/EU-Anthem/eu-long.mp3</location>
+			<duration>116219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kirby&#39;s-Dream-Land-1992-OST/Kirby&#39;s%20Dream%20Land%20-%2001.%20Welcome%20to%20Dream%20Land%20(Title%20Theme).mp3</location>
+			<title>Welcome to Dream Land (Title Theme)</title>
+			<creator>Jun Ishikawa</creator>
+			<album>Kirby&#39;s Dream Land</album>
+			<trackNum>1</trackNum>
+			<annotation>4</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Jun%20Ishikawa/Kirby%27s%20Dream%20Land/art.png</image>
+			<duration>60596</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kirby&#39;s-Dream-Land-1992-OST/Kirby&#39;s%20Dream%20Land%20-%2002.%20Green%20Greens.mp3</location>
+			<title>Green Greens</title>
+			<creator>Jun Ishikawa</creator>
+			<album>Kirby&#39;s Dream Land</album>
+			<trackNum>2</trackNum>
+			<annotation>5</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Jun%20Ishikawa/Kirby%27s%20Dream%20Land/art.png</image>
+			<duration>91242</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kirby&#39;s-Dream-Land-1992-OST/Kirby&#39;s%20Dream%20Land%20-%2003.%20Castle%20Lololo.mp3</location>
+			<title>Castle Lololo</title>
+			<creator>Jun Ishikawa</creator>
+			<album>Kirby&#39;s Dream Land</album>
+			<trackNum>3</trackNum>
+			<annotation>4</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Jun%20Ishikawa/Kirby%27s%20Dream%20Land/art.png</image>
+			<duration>106444</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Kirby&#39;s-Dream-Land-1992-OST/Kirby&#39;s%20Dream%20Land%20-%2004.%20Float%20Islands.mp3</location>
+			<title>Float Islands</title>
+			<creator>Jun Ishikawa</creator>
+			<album>Kirby&#39;s Dream Land</album>
+			<trackNum>4</trackNum>
+			<annotation>4</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Jun%20Ishikawa/Kirby%27s%20Dream%20Land/art.png</image>
+			<duration>114200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
