@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Exercise-Playlist/Bejeweled%20Twist%20Music%20-%205%20Minute%20Blitz%20(Countdown).mp3</location>
+			<title>Bejeweled Twist Music - 5 Minute Blitz (Countdown).mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Blitz mode</album>
+			<trackNum>2</trackNum>
+			<annotation>The 5 minute countdown song for Bejeweled Twist in Blitz mode, with the announcer speaking in English from time to time.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Blitz%20mode/art.jpg</image>
+			<duration>309927</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
