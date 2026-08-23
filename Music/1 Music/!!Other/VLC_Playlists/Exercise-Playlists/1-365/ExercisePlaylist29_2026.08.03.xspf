@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Special-Playlists/Exercise-Playlist/Pok%C3%A9mon%20RBY%20-%2021.%20Pok%C3%A9mon%20Gym.mp3</location>
+			<title>Pokémon Gym</title>
+			<creator>Junichi Masuda</creator>
+			<album>Pokémon Red &amp; Blue</album>
+			<trackNum>21</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Junichi%20Masuda/Pok%C3%A9mon%20Red%20%26%20Blue/art.png</image>
+			<duration>66050</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>

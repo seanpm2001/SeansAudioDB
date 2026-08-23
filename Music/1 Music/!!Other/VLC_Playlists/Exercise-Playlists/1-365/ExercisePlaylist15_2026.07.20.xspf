@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Exercise-Playlist/Pok%C3%A9mon%20RBY%20-%2022.%20Battle!%20(Gym%20Leader).mp3</location>
+			<title>Battle! (Gym Leader)</title>
+			<creator>Junichi Masuda</creator>
+			<album>Pokémon Red &amp; Blue</album>
+			<trackNum>22</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Junichi%20Masuda/Pok%C3%A9mon%20Red%20%26%20Blue/art.jpg</image>
+			<duration>117536</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>

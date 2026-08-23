@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Special-Playlists/Exercise-Playlist/Sonic-The-Hedgehog2_Hidden%20Palace%20Zone%20(Unused%20(Sound%20Test%2010)).mp3</location>
+			<title>Unused (Sound Test 10)</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>110132</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
