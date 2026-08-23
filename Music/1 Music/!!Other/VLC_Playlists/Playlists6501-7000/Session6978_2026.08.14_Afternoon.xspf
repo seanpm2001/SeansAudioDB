@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!Konami-Series/!Metal-Gear-Series/1991-2016/Albums/2015.09.02%20-%20Metal%20Gear%20Solid%20V%20Original%20Soundtrack/CD1/01.%20The%20Man%20Who%20Sold%20The%20World.flac</location>
+			<title>The Man Who Sold The World</title>
+			<creator>David Bowie</creator>
+			<album>Metal Gear Solid V Original Soundtrack</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/David%20Bowie/Metal%20Gear%20Solid%20V%20Original%20Soundtrack/art.jpg</image>
+			<duration>342866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!Konami-Series/!Metal-Gear-Series/1991-2016/Albums/2015.09.02%20-%20Metal%20Gear%20Solid%20V%20Original%20Soundtrack/CD1/05.%20Afghanistan&#39;s%20a%20Big%20Place.flac</location>
+			<title>Afghanistan&#39;s a Big Place</title>
+			<creator>Ludvig Forssell</creator>
+			<album>Metal Gear Solid V Original Soundtrack</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Ludvig%20Forssell/Metal%20Gear%20Solid%20V%20Original%20Soundtrack/art.jpg</image>
+			<duration>136586</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!Konami-Series/!Metal-Gear-Series/1991-2016/Albums/2015.09.02%20-%20Metal%20Gear%20Solid%20V%20Original%20Soundtrack/CD2/11.%20The%20Fall%20of%20Mother%20Base.flac</location>
+			<title>The Fall of Mother Base</title>
+			<creator>Harry Gregson-Williams</creator>
+			<album>Metal Gear Solid V Original Soundtrack</album>
+			<trackNum>11</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Harry%20Gregson-Williams/Metal%20Gear%20Solid%20V%20Original%20Soundtrack/art.jpg</image>
+			<duration>212400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>

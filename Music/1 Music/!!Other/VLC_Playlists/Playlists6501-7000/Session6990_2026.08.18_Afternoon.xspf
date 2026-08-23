@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Ghost-In-The-shell-OST/Ghost-in-the-Shell/Ghost-in-the-Shell-Stand-Alone-Complex-CD-BOX-[2007]/Disc%202%20O.S.T.%202/15.%20Yoko%20Kanno%20-%20To%20Tell%20The%20Truth.flac</location>
+			<title>To Tell The Truth</title>
+			<creator>Yoko Kanno</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. 2</album>
+			<trackNum>15</trackNum>
+			<duration>291600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Ghost-In-The-shell-OST/Ghost-in-the-Shell/Ghost-in-the-Shell-Stand-Alone-Complex-CD-BOX-[2007]/Disc%202%20O.S.T.%202/02.%20Origa%20-%20Rise.flac</location>
+			<title>Rise</title>
+			<creator>Origa</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. 2</album>
+			<trackNum>2</trackNum>
+			<duration>329066</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Ghost-In-The-shell-OST/Ghost-in-the-Shell/Ghost-in-the-Shell-Stand-Alone-Complex-CD-BOX-[2007]/Disc%202%20O.S.T.%202/01.%20Gabriela%20Robin%20-%20Cyberbird.flac</location>
+			<title>Cyberbird</title>
+			<creator>Gabriela Robin</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. 2</album>
+			<trackNum>1</trackNum>
+			<duration>360666</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!Popcap-Games-Series/!Bejeweled%20series/Bejeweled-Twist-OST_PC/Classic_Normal-And-Panic/AudioOnly/MP3/Bejeweled%20Twist%20music%20Classic%20mode%206%20-%20Normal%20and%20Panic.mp3</location>
+			<title>Bejeweled Twist music Classic mode 6 - Normal and Panic.mp3</title>
+			<creator>Skaven / PopCap</creator>
+			<album>Bejeweled Twist OST / Classic mode (extended)</album>
+			<trackNum>6</trackNum>
+			<annotation>The sixth and final song in the classic mode of Bejeweled Twist, in normal and panic modes. This version has been extended.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Skaven%20_%20PopCap/Bejeweled%20Twist%20OST%20_%20Classic%20mode%20%28extended%29/art.jpg</image>
+			<duration>779142</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

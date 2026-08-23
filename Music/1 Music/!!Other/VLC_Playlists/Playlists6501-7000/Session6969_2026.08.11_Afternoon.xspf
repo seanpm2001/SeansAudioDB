@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!Imangi-Studios-Series/Temple-Run-1-OST/VideoWithAudio/MP4/Temple%20Run%20(iOS)%20Music-%20Running%20Music.mp4</location>
+			<duration>63112</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!Imangi-Studios-Series/Temple-Run-2-OST/VideoWithAudio/MP4/Lost+Jungle+BGM+%257C+Temple+Run+2.mp4</location>
+			<duration>420072</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!Imangi-Studios-Series/Temple-Run-2-OST/AudioOnly/MP3/Blazing%20Sands%20BGM%20_%20Temple%20Run%202%20(128%20%20kbps).mp3</location>
+			<duration>321993</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!SEGA-Series/!Sonic-Series/Sonic-Advance-1-OST/Extended/VideoWithAudio/MP4/Ice%20Mountain%20Zone%20Act%201%20(Classic%20Remix)%20(New)%20-%20Sonic%20Advance%20Music%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!SEGA-Series/!Sonic-Series/Sonic-Advance-1-OST/Extended/VideoWithAudio/MP4/Ice%20Mountain%20Zone%20Act%202%20-%20Sonic%20Advance%20Music%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!SEGA-Series/!Sonic-Series/Sonic-Advance-1-OST/Extended/VideoWithAudio/MP4/Angel%20Island%20Zone%20Act%201%20(Genesis%20Soundfont)%20-%20Sonic%20Advance%20Music%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!SEGA-Series/!Sonic-Series/Sonic-Advance-1-OST/Extended/VideoWithAudio/MP4/Angel%20Island%20Zone%20Act%202%20-%20Sonic%20Advance%20Music%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!SEGA-Series/!Sonic-Series/Sonic-Advance-1-OST/Extended/VideoWithAudio/MP4/Egg%20Rocket%20Zone%20(Genesis%20Soundfont)%20-%20Sonic%20Advance%20Music%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!SEGA-Series/!Sonic-Series/Sonic-Advance-1-OST/Extended/VideoWithAudio/MP4/Cosmic%20Angel%20Zone%20-%20Sonic%20Advance%20Music%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1799012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!SEGA-Series/!Sonic-Series/Sonic-Advance-1-OST/Extended/VideoWithAudio/MP4/Cosmic%20Angel%20Zone%20Boss%20-%20Sonic%20Advance%20Music%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1798849</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!SEGA-Series/!Sonic-Series/Sonic-Advance-1-OST/Extended/VideoWithAudio/MP4/X-Zone%20-%20Sonic%20Advance%20Music%20Extended%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>1799035</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
