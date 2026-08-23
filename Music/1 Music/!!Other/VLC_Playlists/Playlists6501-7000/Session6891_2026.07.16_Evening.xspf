@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Orleans_Still-the-one/VideoWithAudio/MP4/YTDown.com_YouTube_Still-The-One-1976-Netherlands-TV_Media_RqjgLF3e-f0_001_480p.mp4</location>
+			<duration>220335</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Orleans_Still-the-one/VideoWithAudio/MP4/YTDown.com_YouTube_Orleans-Still-The-One-Lyrics_Media_S5aMMRes2u4_001_480p.mp4</location>
+			<duration>228183</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/s0rrow_Unhappy/VideoWithAudio/MP4/YTDown.com_YouTube_unhappy-slowed_Media_Ixu_r8wqGo4_001_1080p.mp4</location>
+			<duration>108462</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Scrill-Hassan_No-Mo-Pickin-Up/VideoWithAudio/MP4/YTDown.com_YouTube_Scrill-Hassan-No-Mo-Pickin-Up-Intro-Offi_Media_TY6gikacjB0_001_1080p.mp4</location>
+			<duration>164142</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ran-D_Zombie/VideoWithAudio/MP4/YTDown.com_YouTube_Ran-D-Zombie-Official-Video-HD_Media_RPxAXV7fPs4_001_1080p.mp4</location>
+			<duration>246062</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Christina-Perri_A-thousand-years/VideoWithAudio/MP4/Christina%20Perri%20-%20A%20Thousand%20Years%20[Official%20Music%20Video].mp4</location>
+			<title>Christina Perri - A Thousand Years [Official Music Video]</title>
+			<creator>Christina Perri</creator>
+			<annotation>https://www.youtube.com/watch?v=rtOvBOTyX00</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/4ad6cc38acf44e382c712c8d00cacf67/art.png</image>
+			<duration>287835</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Michael-Jackson_Will-you-be-there/VideoWithAudio/MP4/Michael%20Jackson%20-%20Will%20You%20Be%20There%20(Official%20Video%20-%20Upscaled)_1080p.mp4</location>
+			<title>Michael Jackson - Will You Be There (Official Video - Upscaled)</title>
+			<creator>Michael Jackson</creator>
+			<annotation>https://www.youtube.com/watch?v=jQY_QL_wvQU</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/ff97c4d78d5774314f49233a45c1e171/art.png</image>
+			<duration>217641</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/3%20Sound%20Effects/Cicada/MP3/cicada-calls.mp3</location>
+			<duration>9456</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/You&#39;re-being-summoned,-Azazel/Yondemau-Yom-Azazel-San/Season-1/Intro/VideoWithAudio/MKV/[INDEX]%20Your%20Being%20Summoned,%20Azezal%20-%20Clean%20Opening%20[6AF97968].mkv</location>
+			<duration>63065</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/You&#39;re-being-summoned,-Azazel/Yondemau-Yom-Azazel-San/Season-1/Outro/VideoWithAudio/MKV/[INDEX]%20Your%20Being%20Summoned,%20Azezal%20-%20Clean%20Ending%20[329DBA66].mkv</location>
+			<duration>62062</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>

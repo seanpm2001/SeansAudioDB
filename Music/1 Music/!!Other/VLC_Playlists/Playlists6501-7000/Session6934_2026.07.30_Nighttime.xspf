@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anthems/Ukraine-Anthem/US-Navy-Band_Anthem-of-ukraine.mp3</location>
+			<duration>79569</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Parody/!Weird-Al-Yankovic/AudioOnly/MP3/Trapped-in-the-drive-thru/Trapped-in-the-drive-thru.mp3</location>
+			<duration>655709</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Parody/!Weird-Al-Yankovic/AudioOnly/MP3/Fat/Fat.mp3</location>
+			<duration>295081</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Parody/!Weird-Al-Yankovic/AudioOnly/MP3/Word-Crimes/Word-crimes.mp3</location>
+			<duration>225699</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Parody/!Weird-Al-Yankovic/AudioOnly/MP3/Party-in-the-CIA/Party-in-the-CIA.mp3</location>
+			<duration>176667</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Parody/!Weird-Al-Yankovic/AudioOnly/MP3/White-and-nerdy/White-and-nerdy.mp3</location>
+			<duration>170476</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Parody/!Weird-Al-Yankovic/AudioOnly/MP3/Amish-Paradise/Amish-Paradise.mp3</location>
+			<duration>204305</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Parody/!Weird-Al-Yankovic/AudioOnly/MP3/Its-all-about-the-Pentiums/Its-all-about-the-Pentiums.mp3</location>
+			<duration>214597</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Gospel/Three-Dog-Night/Road-to-Shambala/AudioOnly/MP3/Three-Dog-Night_Road-to-Shambala.mp3</location>
+			<duration>208772</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Electropop/!Sia/Chandellier/AudioOnly/MP3/Sia-Chandelier-(Official-Video).mp3</location>
+			<title>Sia-Chandelier-(Official-Video).mp3</title>
+			<creator>Sia</creator>
+			<album>Chandelier</album>
+			<trackNum>1</trackNum>
+			<annotation>The 2014 song &quot;chandelier&quot; by the artist &quot;Sia&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Sia/Chandelier/art.jpg</image>
+			<duration>231324</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Collections/20Essentials/led-zepellin/songs/n1.mp3</location>
+			<title>Stairway to Heaven (Remaster)</title>
+			<creator>Led Zeppelin</creator>
+			<album>Mothership</album>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Led%20Zeppelin/Mothership/art.jpg</image>
+			<duration>485096</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Collections/20Essentials/led-zepellin/songs/n2.mp3</location>
+			<title>Kashmir (Remaster)</title>
+			<creator>Led Zeppelin</creator>
+			<album>Mothership</album>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Led%20Zeppelin/Mothership/art.jpg</image>
+			<duration>517200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+	</extension>
+</playlist>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Die-Windows_How-do-you-do/VideoWithAudio/Die%20Windows%20-%20How%20do%20you%20do%201972-TcCxC_-ABFs.mp4</location>
+			<duration>193817</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%201%20O.S.T.%20+/04.%20Yoko%20Kanno%20-%20Surf.flac</location>
+			<title>Surf</title>
+			<creator>Yoko Kanno</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. +</album>
+			<trackNum>4</trackNum>
+			<duration>180773</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/Ghost-in-the-shell-OST/Ghost%20in%20the%20Shell/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20CD-BOX%20[2007]/Disc%202%20O.S.T.%202/11.%20Emily%20Curtis%20-%20What&#39;s%20It%20For.flac</location>
+			<title>What&#39;s It For</title>
+			<creator>Emily Curtis</creator>
+			<album>Ghost In The Shell Stand Alone Complex O.S.T. 2</album>
+			<trackNum>11</trackNum>
+			<duration>197933</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/Audio/1%20Music/South%20Park/1997-2017/southpark-ost-lossless/South%20Park%20OST%20[FLAC]/Season%2019/Safe%20Space.flac</location>
+			<title>Safe Space</title>
+			<creator>South Park</creator>
+			<album>South Park</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/South%20Park/South%20Park/art.jpg</image>
+			<duration>128111</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

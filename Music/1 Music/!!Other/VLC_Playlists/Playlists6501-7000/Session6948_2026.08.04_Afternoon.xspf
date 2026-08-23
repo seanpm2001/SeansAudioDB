@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Cinema-Soundtracks/!Shrek/Shrek-1-OST/AudioOnly/MP3/07.%20My%20Beloved%20Monster.mp3</location>
+			<title>My Beloved Monster</title>
+			<creator>Eels</creator>
+			<album>Shrek - Music from the Original Motion Picture</album>
+			<trackNum>7</trackNum>
+			<duration>130981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Pop-rock/German/Die-Windows/How-do-you-do/VideoWithAudio/Die%20Windows%20-%20How%20do%20you%20do%201972-TcCxC_-ABFs.mp4</location>
+			<duration>193817</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Country-Pop/Taylor-Swift/You-belong-with-me/AudioOnly/MP3/Taylor-Swift_You-belong-with-me.mp3</location>
+			<title>Taylor-Swift_You-belong-with-me.mp3</title>
+			<creator>Taylor Swift</creator>
+			<album>You belong with me</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;You belong with me&quot; by Singer &amp; Songwriter, Taylor Swift.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Taylor%20Swift/You%20belong%20with%20me/art.png</image>
+			<duration>228346</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Hard-Rock/Blue-%C3%96yster-Cult/(Don&#39;t-fear)-the-reaper/AudioOnly/MP3/Blue%20Oyster%20Cult%20-%20(Don&#39;t%20Fear)%20The%20Reaper%20(Official%20Audio).mp3</location>
+			<duration>308952</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Garage-Rock/Kings-of-Leon/California_Waiting/AudioOnly/MP3/Kings-of-Leon_California-Waiting.mp3</location>
+			<duration>208719</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

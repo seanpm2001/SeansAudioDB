@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!HyperHippo-Series/AdVenture-Capitalist-OST/AudioOnly/MP3/a%20capitalist%20carol%20event.mp3</location>
+			<duration>269664</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!HyperHippo-Series/AdVenture-Capitalist-OST/AudioOnly/MP3/black%20and%20blue%20friday%20event%20theme.mp3</location>
+			<duration>269483</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Video-Game-Music/!HyperHippo-Series/AdVenture-Capitalist-OST/AudioOnly/MP3/earth%20theme.mp3</location>
+			<duration>311512</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/!SFX/Danger-HipTop-T-Mobile-Sidekick/Compilation/VideoWithAudio/MP4/1pSB1Y_midg.mp4</location>
+			<title>Danger Hiptop 1/2 / T-Mobile Sidekick I/II ringtones - https://archive.org/details/youtube-1pSB1Y_midg</title>
+			<duration>1449363</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
