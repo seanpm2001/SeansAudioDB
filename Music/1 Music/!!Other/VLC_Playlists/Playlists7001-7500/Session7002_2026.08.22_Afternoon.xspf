@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Touhou-OST/Lotus-Land-Story/Bad-Apple!!/AudioOnly/WebM/(No%20video)%20Touhou%20Lotus%20Land%20Story%20-%20Bad%20Apple!!%20BGM.webm</location>
+			<duration>83701</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Berserk-OST/Gats/VideoWithAudio/MP4/Gats_V2.mp4</location>
+			<title>Gats</title>
+			<creator>Susumu Hirasawa</creator>
+			<album>BERSERK Original Soundtrack</album>
+			<annotation>https://www.youtube.com/watch?v=auLopgsgJ_s</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Susumu%20Hirasawa/BERSERK%20Original%20Soundtrack/art.png</image>
+			<duration>214980</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Clannad-OST/Albums/clannad-piano-arrange-studio-a/02.%20Nagisa%20~%20Farewell%20At%20the%20Foot%20of%20a%20Hill.flac</location>
+			<title>Nagisa ~ Farewell At the Foot of a Hill</title>
+			<creator>Akira Sakai</creator>
+			<album>CLANNAD / Piano Arrange</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Akira%20Sakai/CLANNAD%20_%20Piano%20Arrange/art.jpg</image>
+			<duration>383440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>

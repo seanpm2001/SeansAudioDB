@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/!0Sort/Sort2026.08.30/!GrandTheftAuto_Series/GTA_Vice-City/PS2-BoxSet/2-08%20-%20DJ%20Adam%20First%20(Halftime).mp3</location>
+			<title>DJ Adam First (Halftime)</title>
+			<album>Grand Theft Auto Vice City Official Soundtrack Box Set</album>
+			<trackNum>208</trackNum>
+			<annotation>EXK 87009</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/eb6b58664e915bed2ff2c404033dcc5e/art.jpg</image>
+			<duration>29678</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/!0Sort/Sort2026.08.30/!GrandTheftAuto_Series/GTA_Vice-City/PS2-BoxSet/2-13%20-%20Hyperactive!.mp3</location>
+			<title>Hyperactive!</title>
+			<creator>Thomas Dolby</creator>
+			<album>Grand Theft Auto Vice City Official Soundtrack Box Set</album>
+			<trackNum>213</trackNum>
+			<annotation>EXK 87009</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Thomas%20Dolby/Grand%20Theft%20Auto%20Vice%20City%20Official%20Soundtrack%20Box%20Set/art.jpg</image>
+			<duration>250335</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/!0Sort/Sort2026.08.30/!GrandTheftAuto_Series/GTA_Vice-City/PS2-BoxSet/2-09%20-%2099%20Luftballons.mp3</location>
+			<title>99 Luftballons</title>
+			<creator>Nena</creator>
+			<album>Grand Theft Auto Vice City Official Soundtrack Box Set</album>
+			<trackNum>209</trackNum>
+			<annotation>EXK 87009</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Nena/Grand%20Theft%20Auto%20Vice%20City%20Official%20Soundtrack%20Box%20Set/art.jpg</image>
+			<duration>231188</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/!0Sort/Sort2026.08.30/!GrandTheftAuto_Series/GTA_Vice-City/PS2-BoxSet/2-06%20-%20I%20Ran%20(So%20Far%20Away).mp3</location>
+			<title>I Ran (So Far Away)</title>
+			<creator>A Flock Of Seagulls</creator>
+			<album>Grand Theft Auto Vice City Official Soundtrack Box Set</album>
+			<trackNum>206</trackNum>
+			<annotation>EXK 87009</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/A%20Flock%20Of%20Seagulls/Grand%20Theft%20Auto%20Vice%20City%20Official%20Soundtrack%20Box%20Set/art.jpg</image>
+			<duration>219746</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/!0Sort/Sort2026.08.30/!GrandTheftAuto_Series/GTA_Vice-City/PS2-BoxSet/3-11%20-%20Keep%20On%20Loving%20You%20(Album%20Version).mp3</location>
+			<title>Keep On Loving You (Album Version)</title>
+			<creator>REO Speedwagon</creator>
+			<album>Grand Theft Auto Vice City Official Soundtrack Box Set</album>
+			<trackNum>311</trackNum>
+			<annotation>EXK 87009</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/REO%20Speedwagon/Grand%20Theft%20Auto%20Vice%20City%20Official%20Soundtrack%20Box%20Set/art.jpg</image>
+			<duration>200075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/!0Sort/Sort2026.08.30/!GrandTheftAuto_Series/GTA_Vice-City/PS2-BoxSet/3-05%20-%20(I%20Just)%20Died%20In%20Your%20Arms%20(Album%20Version).mp3</location>
+			<title>(I Just) Died In Your Arms (Album Version)</title>
+			<creator>Cutting Crew</creator>
+			<album>Grand Theft Auto Vice City Official Soundtrack Box Set</album>
+			<trackNum>305</trackNum>
+			<annotation>EXK 87009</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Cutting%20Crew/Grand%20Theft%20Auto%20Vice%20City%20Official%20Soundtrack%20Box%20Set/art.jpg</image>
+			<duration>274707</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/!0Sort/Sort2026.08.30/!GrandTheftAuto_Series/GTA_Vice-City/PS2-BoxSet/2-04%20-%20Kids%20In%20America.mp3</location>
+			<title>Kids In America</title>
+			<creator>Kim Wilde</creator>
+			<album>Grand Theft Auto Vice City Official Soundtrack Box Set</album>
+			<trackNum>204</trackNum>
+			<annotation>EXK 87009</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Kim%20Wilde/Grand%20Theft%20Auto%20Vice%20City%20Official%20Soundtrack%20Box%20Set/art.jpg</image>
+			<duration>202453</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+	</extension>
+</playlist>
