@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/!0Sort/Sort2026.08.27/Monogatari-OST/monogatari-series-music-collection/Monogatari%20Series%20Music%20Collection/[090812]%E3%80%8E%E5%8C%96%E7%89%A9%E8%AA%9E%E3%80%8FED%E3%80%8C%E5%90%9B%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E7%89%A9%E8%AA%9E%E3%80%8D%EF%BC%8Fsupercell%20(flac+cue+log+png+jpg)/SRCL-7081.mp3</location>
+			<annotation>https://archive.org/details/monogatari-series-music-collection</annotation>
+			<duration>1154668</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/!0Sort/Sort2026.08.27/Monogatari-OST/monogatari-series-music-collection/Monogatari%20Series%20Music%20Collection/[091125]%E3%80%8E%E5%8C%96%E7%89%A9%E8%AA%9E%E3%80%8F%E7%AC%AC%E4%B8%89%E5%B7%BB%E7%89%B9%E5%85%B8%E3%80%8Cambivalent%20world%E3%80%8D&amp;%20%E3%81%82%E3%81%A8%E3%81%8C%E3%81%9F%E3%82%8A%20(flac+cue+log+jpg)/ANZX-9456.mp3</location>
+			<annotation>https://archive.org/details/monogatari-series-music-collection</annotation>
+			<duration>3145443</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/!0Sort/Sort2026.08.28/!Kirby_Series/Kirby&#39;s-Dream-Land/original-soundtrack/Jun%20Ishikawa%20-%20Kirby&#39;s%20Dream%20Land%20OST%20(1992)/Original%20Soundtrack/Kirby&#39;s%20Dream%20Land%20OST%20-%2001%20-%20Title%20Theme.mp3</location>
+			<title>Title Theme</title>
+			<creator>Jun Ishikawa</creator>
+			<album>Kirby&#39;s Dream Land</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Jun%20Ishikawa/Kirby%27s%20Dream%20Land/art.jpg</image>
+			<duration>60272</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/!0Sort/Sort2026.08.28/!Kirby_Series/Kirby&#39;s-Dream-Land/original-soundtrack/Jun%20Ishikawa%20-%20Kirby&#39;s%20Dream%20Land%20OST%20(1992)/Original%20Soundtrack/Kirby&#39;s%20Dream%20Land%20OST%20-%2002%20-%20Green%20Greens.mp3</location>
+			<title>Green Greens</title>
+			<creator>Jun Ishikawa</creator>
+			<album>Kirby&#39;s Dream Land</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Jun%20Ishikawa/Kirby%27s%20Dream%20Land/art.jpg</image>
+			<duration>90914</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/!0Sort/Sort2026.08.28/!Kirby_Series/Kirby&#39;s-Dream-Land-2/Kirby&#39;s%20Dream%20Land%202%20(MP3).zophar/05%20Grass%20Land.mp3</location>
+			<creator>Hirokazu Ando, Tadashi Ikegami</creator>
+			<album>Kirby&#39;s Dream Land 2</album>
+			<trackNum>5</trackNum>
+			<duration>180065</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Clannad-OST/Albums/clannad-piano-arrange-studio-a/02.%20Nagisa%20~%20Farewell%20At%20the%20Foot%20of%20a%20Hill.flac</location>
+			<title>Nagisa ~ Farewell At the Foot of a Hill</title>
+			<creator>Akira Sakai</creator>
+			<album>CLANNAD / Piano Arrange</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Akira%20Sakai/CLANNAD%20_%20Piano%20Arrange/art.jpg</image>
+			<duration>383440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Clannad-OST/Albums/clannad-piano-arrange-studio-a/09.%20Country%20Train.flac</location>
+			<title>Country Train</title>
+			<creator>Akira Sakai</creator>
+			<album>CLANNAD / Piano Arrange</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Akira%20Sakai/CLANNAD%20_%20Piano%20Arrange/art.jpg</image>
+			<duration>351306</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Dance/SabreDance/Piano-1942/35%20Aram%20Khachaturian%20-%20Sabre%20Dance,%201942.ogg</location>
+			<annotation>http://archive.org/details/35AramKhachaturianSabreDance1942</annotation>
+			<duration>172284</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Neon-Genesis-Evangelion-OST/Remix/20Essentials/neon-genesis-evangelion-main/songs/n14.mp3</location>
+			<title>&quot;Libera Me From Hell&quot; with subs</title>
+			<creator>Paladin65536</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/5ad27462abf15b33ecd13e6063657832/art.jpg</image>
+			<duration>289236</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Neon-Genesis-Evangelion-OST/Remix/20Essentials/neon-genesis-evangelion-main/songs/n13.mp3</location>
+			<duration>267730</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Neon-Genesis-Evangelion-OST/Remix/20Essentials/neon-genesis-evangelion-main/songs/n1.mp3</location>
+			<title>Neon Genesis Evangelion - Fly me to the moon.</title>
+			<creator>Dark Soul</creator>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/arturl/96b119b10065a769abe131587de230e1/art.jpg</image>
+			<duration>271047</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Neon-Genesis-Evangelion-OST/Remix/20Essentials/neon-genesis-evangelion-main/songs/n6.mp3</location>
+			<duration>219090</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Neon-Genesis-Evangelion-OST/Remix/20Essentials/neon-genesis-evangelion-main/songs/n7.mp3</location>
+			<duration>148741</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Neon-Genesis-Evangelion-OST/Remix/20Essentials/neon-genesis-evangelion-main/songs/n5.mp3</location>
+			<duration>259867</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Anime-Music/Neon-Genesis-Evangelion-OST/Remix/20Essentials/neon-genesis-evangelion-main/songs/n2.mp3</location>
+			<title>Neon Genesis</title>
+			<creator>blueberry, Narvent</creator>
+			<album>Neon Genesis</album>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/blueberry%2C%20Narvent/Neon%20Genesis/art.jpg</image>
+			<duration>135863</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>
