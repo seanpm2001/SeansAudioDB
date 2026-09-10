@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Electropop/!Sia/Chandellier/AudioOnly/MP3/Sia-Chandelier-(Official-Video).mp3</location>
+			<title>Sia-Chandelier-(Official-Video).mp3</title>
+			<creator>Sia</creator>
+			<album>Chandelier</album>
+			<trackNum>1</trackNum>
+			<annotation>The 2014 song &quot;chandelier&quot; by the artist &quot;Sia&quot;</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Sia/Chandelier/art.jpg</image>
+			<duration>231324</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Electropop/!Taylor-Swift/Blank-Space/AudioOnly/MP3/Taylor-Swift_Blank-space.mp3</location>
+			<title>Taylor-Swift_Blank-space.mp3</title>
+			<creator>Taylor Swift</creator>
+			<album>Blank Space</album>
+			<trackNum>1</trackNum>
+			<annotation>The song &quot;You belong with me&quot; by singer &amp; songwriter, Taylor Swift.</annotation>
+			<image>file:///home/seanpm2001/snap/vlc/common/.cache/vlc/art/artistalbum/Taylor%20Swift/Blank%20Space/art.jpg</image>
+			<duration>272415</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm2001/Desktop/SeansLifeArchive/Extras/SeansAudioDB/Classic1/Cinema-Soundtracks/Raising-Arizona/VideoWithAudio/MP4/Way%20Out%20There%20(Main%20Title).mp4</location>
+			<duration>115467</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
